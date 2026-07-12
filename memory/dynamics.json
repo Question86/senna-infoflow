@@ -1,17 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-12T00:56:37Z",
+  "generated_at": "2026-07-12T01:35:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 5,
+    "dynamics": 7,
     "bands": {
       "strong": 1,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -20,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.96,
+      "age_days": 22.98,
       "topics": [
         "ai"
       ],
@@ -45,11 +47,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 241 km NNW of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-12T01:13:27.175+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "DYFI? - II Time 2026-07-12 00:43:30 UTC 2026-07-12 00:43:30 UTC at epicenter Location 3.677°N 127.025°E Depth 41.80 km (25.97 mi)"
+    },
+    {
       "title": "「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介",
       "url": "https://japan.zdnet.com/article/35250320/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T23:46:18+00:00",
-      "age_days": 3.05,
+      "age_days": 3.08,
       "topics": [
         "general"
       ],
@@ -69,15 +95,41 @@
       "summary": "「Windows」のディスク容量が不可解に減少していると感じる場合、それは気のせいではないかもしれない。システムが既知のバグの影響を受けている可能性がある。 「Windows 11」の特定のファイルが肥大化し、ディスク容量の減少が目に見えて分かるようになるバグが報告されている。ニュースサイトののWindows Latestによ..."
     },
     {
+      "title": "米「AIがインフレの一因」 FRB金融政策報告書",
+      "url": "https://www.47news.jp/14607274.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-11T00:29:41+00:00",
+      "age_days": 1.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "【ワシントン共同】米連邦準備制度理事会（FRB）は10日、半期ごとに議会に提出する金融政策報告書を公表した。インフレは「今春に一段と加速した」と指摘。人工知能（AI）を支えるデータセンター向けの半導体などの需要が急増し、電子機器やコンピューターといった関連製品の価格が急上昇したことが一因となったと説明し..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.92,
+      "age_days": 21.95,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.56,
+      "dynamics_score": 0.54,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -89,7 +141,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -8.9 for 21.9d old signal"
+        "aging penalty -9.0 for 21.9d old signal"
       ],
       "summary": ""
     },
@@ -98,11 +150,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.92,
+      "age_days": 21.95,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.56,
+      "dynamics_score": 0.54,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -114,7 +166,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -8.9 for 21.9d old signal"
+        "aging penalty -9.0 for 21.9d old signal"
       ],
       "summary": ""
     },
@@ -123,7 +175,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.92,
+      "age_days": 21.95,
       "topics": [
         "ai"
       ],
@@ -140,7 +192,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.9 for 21.9d old signal",
+        "aging penalty -9.0 for 21.9d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
