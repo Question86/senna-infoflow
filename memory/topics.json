@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T21:48:27+00:00",
+  "generated_at": "2026-07-12T22:09:33+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-12T21:48:16+00:00",
+        "published_at": "2026-07-12T22:09:22+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -24,6 +24,13 @@
         "published_at": "2026-07-12T02:07:23+00:00",
         "relevance_score": 14,
         "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering"
+      },
+      {
+        "title": "AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-03T22:19:13+00:00",
+        "relevance_score": 14,
+        "url": "https://zenn.dev/yamitake/articles/github-ai-context-structure-vs-obsidian"
       },
       {
         "title": "有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方｜テック太郎",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-11T23:11:58+00:00",
         "relevance_score": 10,
         "url": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types"
-      },
-      {
-        "title": "米「AIがインフレの一因」 FRB金融政策報告書",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-11T00:29:41+00:00",
-        "relevance_score": 8,
-        "url": "https://www.47news.jp/14607274.html"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": "2026-07-12T02:12:00+00:00",
         "relevance_score": 14,
         "url": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel"
+      },
+      {
+        "title": "AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-03T22:19:13+00:00",
+        "relevance_score": 14,
+        "url": "https://zenn.dev/yamitake/articles/github-ai-context-structure-vs-obsidian"
       },
       {
         "title": "有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方｜テック太郎",

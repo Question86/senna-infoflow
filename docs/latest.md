@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-12T21:48:27+00:00_
+_Generiert: 2026-07-12T22:09:33+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-12T21:48:16+00:00`, fetched `2026-07-12T21:47:57+00:00`
+  - Zeit: published `2026-07-12T22:09:22+00:00`, fetched `2026-07-12T22:09:00+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: はじめに AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か** — Score 14, observation — [Quelle](https://zenn.dev/yamitake/articles/github-ai-context-structure-vs-obsidian)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-03T22:19:13+00:00`, fetched `2026-07-12T22:09:00+00:00`
+  - Treffer: AI Agents, AI/KI, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)
+  - Kurz: はじめに 「ドキュメントやナレッジをAIに読ませたい」というニーズが一気に増えました。Claude Code のようなエージェントにリポジトリを丸ごと渡す、RAG の知識ベースとして食わせる、社内 Wiki をそのまま参照させる——用途はさまざまですが、そこで必ず出てくる問いがあります。 ディレクトリがきれいに整理されてい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
