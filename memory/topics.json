@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T12:07:29+00:00",
+  "generated_at": "2026-07-12T12:30:28+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-07-11T23:28:47+00:00",
         "relevance_score": 13,
         "url": "https://togetter.com/li/2719544"
+      },
+      {
+        "title": "Otty — A fast, modern terminal",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-17T05:30:16+00:00",
+        "relevance_score": 11,
+        "url": "https://otty.sh/"
       },
       {
         "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-07T11:16:39+00:00",
         "relevance_score": 6,
         "url": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os"
-      },
-      {
-        "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-10T14:55:10+00:00",
-        "relevance_score": 5,
-        "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men"
       }
     ],
     "github": [

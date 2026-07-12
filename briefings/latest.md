@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-12T12:07:29+00:00_
+_Generiert: 2026-07-12T12:30:28+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,14 +158,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。 本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。 Bunは、N...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ** — Score 10, observation — [Quelle](https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types)
+- **Otty — A fast, modern terminal** — Score 11, observation — [Quelle](https://otty.sh/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-11T23:11:58+00:00`, fetched `2026-07-12T08:22:19+00:00`
-  - Treffer: agent, AI/KI, Hatena, hotentry
+  - Zeit: published `2026-06-17T05:30:16+00:00`, fetched `2026-07-12T12:29:57+00:00`
+  - Treffer: agent, Hatena, hotentry, Public Health
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
-  - Kurz: 本シリーズ 第1部（全3部）: AI エージェント文脈のグラフを Node / Edge の意味で 5 種類に分類します。特殊化は 第2部、レイヤー連携と本番構成は第3部（執筆予定）で扱います。 前提: ナレッジグラフの基礎（エンティティ・関係・GraphRAG との区別）は「ナレッジグラフ入門」「RAG を超える知識統合」で扱っています...
+  - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0)
+  - Kurz: Otty A native, beautiful terminal app. Designed for anyone who cares about the feel of every keystroke. Tuned for code agents you already run. Download macOSApple Silicon macOSIntel Windows ComingJoin the waitlist Linux ComingJoin the waitlist iOS ComingJoin the waitlist
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 139 km S of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szuz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

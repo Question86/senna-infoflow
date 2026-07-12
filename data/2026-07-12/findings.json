@@ -362,6 +362,29 @@
     "id": "55df8edf871f0ff895e3"
   },
   {
+    "title": "Otty — A fast, modern terminal",
+    "url": "https://otty.sh/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-17T05:30:16+00:00",
+    "fetched_at": "2026-07-12T12:29:57+00:00",
+    "summary": "Otty A native, beautiful terminal app. Designed for anyone who cares about the feel of every keystroke. Tuned for code agents you already run. Download macOSApple Silicon macOSIntel Windows ComingJoin the waitlist Linux ComingJoin the waitlist iOS ComingJoin the waitlist",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry",
+      "Public Health"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8395e82749d2cf1c7ae2"
+  },
+  {
     "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
     "url": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
     "source": "Hatena Bookmark Hotentry IT",
