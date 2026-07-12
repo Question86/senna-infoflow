@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T11:21:13+00:00",
+  "generated_at": "2026-07-12T11:44:44+00:00",
   "topics": {
     "ai": [
       {
@@ -149,11 +149,25 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6"
       },
       {
+        "title": "M 4.5 - 27 km SSW of Unalaska, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-12T11:43:28.449+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szv2"
+      },
+      {
         "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-10T17:02:08+00:00",
         "relevance_score": 11,
         "url": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering"
+      },
+      {
+        "title": "M 5.0 - 139 km S of ‘Ohonua, Tonga",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-12T11:33:54.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szuz"
       },
       {
         "title": "M 4.6 - 28 km E of Port-Olry, Vanuatu",
@@ -182,13 +196,6 @@
         "published_at": "2026-07-11T15:58:37+00:00",
         "relevance_score": 5,
         "url": "https://engineering.nifty.co.jp/blog/37405"
-      },
-      {
-        "title": "Git 2.55 の git history fixup で「過去のコミットへの入れ忘れ」を一発修正する - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-01T07:01:02+00:00",
-        "relevance_score": 4,
-        "url": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54"
       }
     ],
     "economy": [

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-12T11:21:13+00:00_
+_Generated: 2026-07-12T11:44:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `24`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-12T11:21:13+00:00_
 - url: https://togetter.com/li/2719544
 - summary: ﾎﾞｳﾞ @cornwallcapital 会計事務所にほぼ必ずいる、クライアントから送られてきた通帳やらカード明細やらをひたすら弥生会計に入力するオバさんパートとかAIでマジ不要になってると思うんだけど、どうすんのかな。 2026-07-11 15:57:24 ﾎﾞｳﾞ @cornwallcapital 公認会計士。零細会計事務所と弱小監査法人を経営しながら、...
 
-### 7. BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと
+### 7. M 4.5 - 27 km SSW of Unalaska, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-07-12T11:43:28.449+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szv2
+- summary: ShakeMap - III DYFI? - III Time 2026-07-12 11:23:48 UTC 2026-07-12 11:23:48 UTC at epicenter Location 53.650°N 166.716°W Depth 95.22 km (59.16 mi)
+
+### 8. BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-07-10T17:02:08+00:00`
 - url: https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering
 - summary: はじめに こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。 本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。 Bunは、N...
-
-### 8. ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-07-11T23:11:58+00:00`
-- url: https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types
-- summary: 本シリーズ 第1部（全3部）: AI エージェント文脈のグラフを Node / Edge の意味で 5 種類に分類します。特殊化は 第2部、レイヤー連携と本番構成は第3部（執筆予定）で扱います。 前提: ナレッジグラフの基礎（エンティティ・関係・GraphRAG との区別）は「ナレッジグラフ入門」「RAG を超える知識統合」で扱っています...
 
 END OF DOCUMENT
