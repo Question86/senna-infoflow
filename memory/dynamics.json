@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-12T06:14:04Z",
+  "generated_at": "2026-07-12T07:10:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 19,
     "bands": {
       "strong": 5,
       "watch": 2,
-      "quiet": 11
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 2,
-      "quiet": 11
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://github.com/hashicorp/terraform",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -47,7 +47,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 23.18,
+      "age_days": 23.22,
       "topics": [
         "ai"
       ],
@@ -76,7 +76,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-12T02:10:51+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro",
@@ -105,7 +105,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -132,7 +132,7 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -159,7 +159,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T01:13:27.175+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -183,7 +183,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T03:21:16.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -203,11 +203,35 @@
       "summary": "Time 2026-07-12 03:04:07 UTC 2026-07-12 03:04:07 UTC at epicenter Location 15.089°S 167.336°E Depth 126.09 km (78.35 mi)"
     },
     {
+      "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
+      "url": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-11T21:30:16+00:00",
+      "age_days": 0.4,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective"
+    },
+    {
       "title": "「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介",
       "url": "https://japan.zdnet.com/article/35250320/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T23:46:18+00:00",
-      "age_days": 3.27,
+      "age_days": 3.31,
       "topics": [
         "general"
       ],
@@ -231,7 +255,7 @@
       "url": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T17:02:08+00:00",
-      "age_days": 1.55,
+      "age_days": 1.59,
       "topics": [
         "ai"
       ],
@@ -257,7 +281,7 @@
       "url": "https://togetter.com/li/2719544",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T23:28:47+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -283,7 +307,7 @@
       "url": "https://www.47news.jp/14607274.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T00:29:41+00:00",
-      "age_days": 1.24,
+      "age_days": 1.28,
       "topics": [
         "ai"
       ],
@@ -309,7 +333,7 @@
       "url": "https://engineering.nifty.co.jp/blog/37405",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T15:58:37+00:00",
-      "age_days": 0.59,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -333,11 +357,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 22.14,
+      "age_days": 22.18,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.39,
+      "dynamics_score": 0.36,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -349,7 +373,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -9.1 for 22.1d old signal"
+        "aging penalty -9.1 for 22.2d old signal"
       ],
       "summary": ""
     },
@@ -358,11 +382,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 22.14,
+      "age_days": 22.18,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.39,
+      "dynamics_score": 0.36,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -374,7 +398,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -9.1 for 22.1d old signal"
+        "aging penalty -9.1 for 22.2d old signal"
       ],
       "summary": ""
     },
@@ -383,7 +407,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 22.14,
+      "age_days": 22.18,
       "topics": [
         "ai"
       ],
@@ -400,7 +424,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -9.1 for 22.1d old signal",
+        "aging penalty -9.1 for 22.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -410,7 +434,7 @@
       "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T14:55:10+00:00",
-      "age_days": 1.64,
+      "age_days": 1.68,
       "topics": [
         "ai"
       ],
@@ -435,7 +459,7 @@
       "url": "https://github.com/zeux/meshoptimizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "infra"
@@ -462,7 +486,7 @@
       "url": "https://github.com/catchorg/Catch2",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],

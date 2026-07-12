@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-12T06:14:04Z",
+  "generated_at": "2026-07-12T07:10:06Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/hashicorp/terraform",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 23.18,
+      "age_days": 23.22,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-12T02:10:51+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro",
@@ -98,7 +98,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +125,7 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -152,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T01:13:27.175+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -176,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T03:21:16.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -196,11 +196,35 @@
       "summary": "Time 2026-07-12 03:04:07 UTC 2026-07-12 03:04:07 UTC at epicenter Location 15.089°S 167.336°E Depth 126.09 km (78.35 mi)"
     },
     {
+      "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
+      "url": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-11T21:30:16+00:00",
+      "age_days": 0.4,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective"
+    },
+    {
       "title": "「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介",
       "url": "https://japan.zdnet.com/article/35250320/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T23:46:18+00:00",
-      "age_days": 3.27,
+      "age_days": 3.31,
       "topics": [
         "general"
       ],
@@ -224,7 +248,7 @@
       "url": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T17:02:08+00:00",
-      "age_days": 1.55,
+      "age_days": 1.59,
       "topics": [
         "ai"
       ],
@@ -250,7 +274,7 @@
       "url": "https://togetter.com/li/2719544",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T23:28:47+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -276,7 +300,7 @@
       "url": "https://www.47news.jp/14607274.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T00:29:41+00:00",
-      "age_days": 1.24,
+      "age_days": 1.28,
       "topics": [
         "ai"
       ],
@@ -296,30 +320,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "【ワシントン共同】米連邦準備制度理事会（FRB）は10日、半期ごとに議会に提出する金融政策報告書を公表した。インフレは「今春に一段と加速した」と指摘。人工知能（AI）を支えるデータセンター向けの半導体などの需要が急増し、電子機器やコンピューターといった関連製品の価格が急上昇したことが一因となったと説明し..."
-    },
-    {
-      "title": "クリーンアーキテクチャを簡単に理解してみよう - NIFTY engineering",
-      "url": "https://engineering.nifty.co.jp/blog/37405",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T15:58:37+00:00",
-      "age_days": 0.59,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "アイキャッチ はじめに こんにちは！ 2025年新卒で、もうすぐ2年目の先輩になるエンジニアのパクパクです みなさん、「クリーンアーキテクチャ（Clean Architecture）」という言葉を聞いたことはありますか？ OJTの最後にメール開発チームに配属されて、私もこのアーキテクチャにこれから触れていくことになりました。 ..."
     }
   ],
   "read_order": [
