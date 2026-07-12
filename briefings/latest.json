@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T12:53:16+00:00",
-  "run_id": "2026-07-12T12:53:16+00:00",
+  "generated_at": "2026-07-12T13:25:09+00:00",
+  "run_id": "2026-07-12T13:25:09+00:00",
   "date": "2026-07-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 6,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -667,6 +667,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c8966a79d0ed3253dd9c"
+      },
+      {
+        "title": "前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!",
+        "url": "https://nikkan-spa.jp/2172263",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-12T10:36:28+00:00",
+        "fetched_at": "2026-07-12T13:24:34+00:00",
+        "summary": "今年に入り、新たなデバイスが台頭しつつある。それはスマートグラスだ。 5月下旬、レイバンと米メタが共同開発した「Ray-Ban Meta（第2世代）」が国内で正式発売された。カメラ機能が搭載され、メガネをかけたまま通話や撮影ができ、同時通訳も可能だ。他ブランドの機種も続々と発売され、家電量販店には専用コーナーが...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0f09c6c80a69ed2e263d"
       },
       {
         "title": "クリーンアーキテクチャを簡単に理解してみよう - NIFTY engineering",
@@ -1414,6 +1435,27 @@
       "id": "c8966a79d0ed3253dd9c"
     },
     {
+      "title": "前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!",
+      "url": "https://nikkan-spa.jp/2172263",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T10:36:28+00:00",
+      "fetched_at": "2026-07-12T13:24:34+00:00",
+      "summary": "今年に入り、新たなデバイスが台頭しつつある。それはスマートグラスだ。 5月下旬、レイバンと米メタが共同開発した「Ray-Ban Meta（第2世代）」が国内で正式発売された。カメラ機能が搭載され、メガネをかけたまま通話や撮影ができ、同時通訳も可能だ。他ブランドの機種も続々と発売され、家電量販店には専用コーナーが...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0f09c6c80a69ed2e263d"
+    },
+    {
       "title": "クリーンアーキテクチャを簡単に理解してみよう - NIFTY engineering",
       "url": "https://engineering.nifty.co.jp/blog/37405",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1521,46 +1563,25 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-12T12:53:05+00:00",
-      "fetched_at": "2026-07-12T12:52:45+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!",
+      "url": "https://nikkan-spa.jp/2172263",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T10:36:28+00:00",
+      "fetched_at": "2026-07-12T13:24:34+00:00",
+      "summary": "今年に入り、新たなデバイスが台頭しつつある。それはスマートグラスだ。 5月下旬、レイバンと米メタが共同開発した「Ray-Ban Meta（第2世代）」が国内で正式発売された。カメラ機能が搭載され、メガネをかけたまま通話や撮影ができ、同時通訳も可能だ。他ブランドの機種も続々と発売され、家電量販店には専用コーナーが...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "c07a256e0247f088d264"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0f09c6c80a69ed2e263d"
     }
   ],
   "source_errors": [],
