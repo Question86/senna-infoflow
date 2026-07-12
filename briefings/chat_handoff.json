@@ -100,5 +100,149 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
+        "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-12T12:13:01+00:00",
+        "age_days": 0.47,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, code",
+          "security high-signal: rce, code"
+        ],
+        "summary": "はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何から手を付ければ…」となっている新卒・若手エンジニア..."
+      },
+      {
+        "title": "hashicorp/terraform",
+        "url": "https://github.com/hashicorp/terraform",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-07-12T02:10:32+00:00",
+        "age_days": 0.89,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 25.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, code",
+          "security high-signal: rce, code"
+        ],
+        "summary": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. Terraform Website: https://developer.hashicorp.com…"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 23.9,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -1.0 for 23.9d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-12T22:09:22+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "ai",
+          "macro",
+          "disaster"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: earthquake",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+      },
+      {
+        "title": "google-labs-code/stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-07-12T02:10:32+00:00",
+        "age_days": 0.89,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skil…"
+      }
+    ]
+  }
 }
