@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-12T14:03:04+00:00_
+_Generated: 2026-07-12T14:35:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `29`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-12T12:53:05+00:00`
+- published: `2026-07-12T14:35:37+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-12T14:03:04+00:00_
 - url: https://github.com/google-labs-code/stitch-skills
 - summary: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. Stitch Design Skills A collection of agent ski…
 
-### 3. M 5.1 - 27 km SSE of Tambolaka, Indonesia
+### 3. M 5.3 - 192 km WNW of Gorontalo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-07-12T14:08:16.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvv
+- summary: Time 2026-07-12 13:46:37 UTC 2026-07-12 13:46:37 UTC at epicenter Location 1.168°N 121.446°E Depth 35.00 km (21.75 mi)
+
+### 4. M 5.1 - 27 km SSE of Tambolaka, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-07-12T13:41:02.387+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq
 - summary: DYFI? - IV Time 2026-07-12 13:20:25 UTC 2026-07-12 13:20:25 UTC at epicenter Location 9.671°S 119.304°E Depth 42.94 km (26.68 mi)
-
-### 4. M 4.7 - 80 km WSW of Gorontalo, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-07-12T10:22:54.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szus
-- summary: Time 2026-07-12 10:05:37 UTC 2026-07-12 10:05:37 UTC at epicenter Location 0.220°N 122.411°E Depth 152.28 km (94.62 mi)
 
 ### 5. M 5.5 - southern East Pacific Rise
 - source: USGS M4.5+ Earthquakes Past Hour
