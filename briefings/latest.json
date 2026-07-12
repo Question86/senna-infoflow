@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:29:33+00:00",
-  "run_id": "2026-07-12T22:29:33+00:00",
+  "generated_at": "2026-07-12T22:49:36+00:00",
+  "run_id": "2026-07-12T22:49:36+00:00",
   "date": "2026-07-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 2,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 9,
-    "observe": 27,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -890,6 +890,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c8966a79d0ed3253dd9c"
+      },
+      {
+        "title": "年間3ケタ近く面接するんだが、技術職でも見た目はめちゃくちゃ重要。男性は特に「ふわふわマッシュヘアにダブついたズボン」は本当に面接を通らない",
+        "url": "https://togetter.com/li/2719839",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-12T17:47:07+00:00",
+        "fetched_at": "2026-07-12T22:49:05+00:00",
+        "summary": "Madmax @madmax99993 ワイ年間2ケタ近い面接するんだが、見た目はめちゃくちゃ重要。技術職でも。女性は面接時にいわゆる見た目ハックが上手い。一方男性特に新卒が壊滅的だなとは思う。ふわふわマッシュヘアにダブついたズボンはホント面接通らない。ワイの好みではなく相当数なNを見ても明らかに偏るんだよね。↓ 2026-...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a73ab3f8839e78e1bd31"
+      },
+      {
+        "title": "[石川温の「スマホ業界 Watch」] ドコモが仕掛ける金融の反転攻勢、脳裏をよぎる“5つの不安”",
+        "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2124380.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-12T15:40:52+00:00",
+        "fetched_at": "2026-07-12T22:49:05+00:00",
+        "summary": "[石川温の「スマホ業界 Watch」] ドコモが仕掛ける金融の反転攻勢、脳裏をよぎる“5つの不安”",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "408fde6130f36c644950"
       },
       {
         "title": "Microsoftアカウントをハッキングされ「これまでXBOXで購入したゲームはすべて再購入するように」とサポートから言われたゲーマーが怒りの訴訟＆勝訴",
@@ -1923,6 +1965,48 @@
       "id": "c8966a79d0ed3253dd9c"
     },
     {
+      "title": "年間3ケタ近く面接するんだが、技術職でも見た目はめちゃくちゃ重要。男性は特に「ふわふわマッシュヘアにダブついたズボン」は本当に面接を通らない",
+      "url": "https://togetter.com/li/2719839",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T17:47:07+00:00",
+      "fetched_at": "2026-07-12T22:49:05+00:00",
+      "summary": "Madmax @madmax99993 ワイ年間2ケタ近い面接するんだが、見た目はめちゃくちゃ重要。技術職でも。女性は面接時にいわゆる見た目ハックが上手い。一方男性特に新卒が壊滅的だなとは思う。ふわふわマッシュヘアにダブついたズボンはホント面接通らない。ワイの好みではなく相当数なNを見ても明らかに偏るんだよね。↓ 2026-...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a73ab3f8839e78e1bd31"
+    },
+    {
+      "title": "[石川温の「スマホ業界 Watch」] ドコモが仕掛ける金融の反転攻勢、脳裏をよぎる“5つの不安”",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2124380.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T15:40:52+00:00",
+      "fetched_at": "2026-07-12T22:49:05+00:00",
+      "summary": "[石川温の「スマホ業界 Watch」] ドコモが仕掛ける金融の反転攻勢、脳裏をよぎる“5つの不安”",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "408fde6130f36c644950"
+    },
+    {
       "title": "Microsoftアカウントをハッキングされ「これまでXBOXで購入したゲームはすべて再購入するように」とサポートから言われたゲーマーが怒りの訴訟＆勝訴",
       "url": "https://gigazine.net/news/20260712-gamer-wins-legal-battle-hacked-xbox-account/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2091,7 +2175,50 @@
       "id": "f255696f1bed8e2516e2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "年間3ケタ近く面接するんだが、技術職でも見た目はめちゃくちゃ重要。男性は特に「ふわふわマッシュヘアにダブついたズボン」は本当に面接を通らない",
+      "url": "https://togetter.com/li/2719839",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T17:47:07+00:00",
+      "fetched_at": "2026-07-12T22:49:05+00:00",
+      "summary": "Madmax @madmax99993 ワイ年間2ケタ近い面接するんだが、見た目はめちゃくちゃ重要。技術職でも。女性は面接時にいわゆる見た目ハックが上手い。一方男性特に新卒が壊滅的だなとは思う。ふわふわマッシュヘアにダブついたズボンはホント面接通らない。ワイの好みではなく相当数なNを見ても明らかに偏るんだよね。↓ 2026-...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a73ab3f8839e78e1bd31"
+    },
+    {
+      "title": "[石川温の「スマホ業界 Watch」] ドコモが仕掛ける金融の反転攻勢、脳裏をよぎる“5つの不安”",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2124380.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T15:40:52+00:00",
+      "fetched_at": "2026-07-12T22:49:05+00:00",
+      "summary": "[石川温の「スマホ業界 Watch」] ドコモが仕掛ける金融の反転攻勢、脳裏をよぎる“5つの不安”",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "408fde6130f36c644950"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
