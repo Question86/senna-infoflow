@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-12T04:34:18+00:00",
-  "run_id": "2026-07-12T04:34:18+00:00",
+  "generated_at": "2026-07-12T05:42:11+00:00",
+  "run_id": "2026-07-12T05:42:11+00:00",
   "date": "2026-07-12",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 3,
-    "observe": 10,
-    "source_errors": 1
+    "observe": 11,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -404,6 +404,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "287e9b6d57e1dd3b5ada"
+      },
+      {
+        "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
+        "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-10T14:55:10+00:00",
+        "fetched_at": "2026-07-12T05:41:41+00:00",
+        "summary": "SRE NEXT 2026 発表資料 https://sre-next.dev/2026/schedule/#slot074",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0d067963fe552019d086"
       },
       {
         "title": "zeux/meshoptimizer",
@@ -825,6 +846,27 @@
       "id": "287e9b6d57e1dd3b5ada"
     },
     {
+      "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
+      "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T14:55:10+00:00",
+      "fetched_at": "2026-07-12T05:41:41+00:00",
+      "summary": "SRE NEXT 2026 発表資料 https://sre-next.dev/2026/schedule/#slot074",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d067963fe552019d086"
+    },
+    {
       "title": "zeux/meshoptimizer",
       "url": "https://github.com/zeux/meshoptimizer",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -869,36 +911,28 @@
   ],
   "new_findings": [
     {
-      "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",
-      "url": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
+      "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
+      "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-10T17:02:08+00:00",
-      "fetched_at": "2026-07-12T04:33:47+00:00",
-      "summary": "はじめに こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。 本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。 Bunは、N...",
+      "published_at": "2026-07-10T14:55:10+00:00",
+      "fetched_at": "2026-07-12T05:41:41+00:00",
+      "summary": "SRE NEXT 2026 発表資料 https://sre-next.dev/2026/schedule/#slot074",
       "matched_keywords": [
-        "AI Agents",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "55df8edf871f0ff895e3"
+      "id": "0d067963fe552019d086"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "error": "403 Client Error: Forbidden for url: https://e27.co/index_wp.php/feed/"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

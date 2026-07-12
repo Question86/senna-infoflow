@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T04:34:18+00:00",
+  "generated_at": "2026-07-12T05:42:11+00:00",
   "topics": {
     "ai": [
       {
@@ -45,6 +45,13 @@
         "published_at": null,
         "relevance_score": 7,
         "url": "https://github.com/davila7/claude-code-templates"
+      },
+      {
+        "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T14:55:10+00:00",
+        "relevance_score": 5,
+        "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men"
       },
       {
         "title": "zeux/meshoptimizer",
