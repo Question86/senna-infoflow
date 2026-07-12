@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-12T03:58:46Z_
+_Generated: 2026-07-12T05:10:55Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-07-12T02:10:32+00:00` / age_days `0.08`
+- Published: `2026-07-12T02:10:32+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `23.08`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `23.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -0.7 for 23.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-12T02:10:51+00:00` / age_days `0.07`
+- Published: `2026-07-12T02:10:51+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-12T02:10:32+00:00` / age_days `0.08`
+- Published: `2026-07-12T02:10:32+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-07-12T02:10:32+00:00` / age_days `0.08`
+- Published: `2026-07-12T02:10:32+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-07-12T01:13:27.175+00:00` / age_days `0.11`
+- Published: `2026-07-12T01:13:27.175+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-07-12T03:21:16.040+00:00` / age_days `0.03`
+- Published: `2026-07-12T03:21:16.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-07-08T23:46:18+00:00` / age_days `3.18`
+- Published: `2026-07-08T23:46:18+00:00` / age_days `3.23`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://japan.zdnet.com/article/35250320/
 
+### BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.0`
+- Published: `2026-07-10T17:02:08+00:00` / age_days `1.51`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering
+
 ### 会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-07-11T23:28:47+00:00` / age_days `0.19`
+- Published: `2026-07-11T23:28:47+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-07-11T00:29:41+00:00` / age_days `1.15`
+- Published: `2026-07-11T00:29:41+00:00` / age_days `1.2`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik l
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-07-11T15:58:37+00:00` / age_days `0.5`
+- Published: `2026-07-11T15:58:37+00:00` / age_days `0.55`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://engineering.nifty.co.jp/blog/37405
-
-### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0.46`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `22.05`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -9.0 for 22.0d old signal
-- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
 
 END OF DOCUMENT
