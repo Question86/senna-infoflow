@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-12T02:37:09Z",
+  "generated_at": "2026-07-12T03:58:46Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/hashicorp/terraform",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 23.03,
+      "age_days": 23.08,
       "topics": [
         "ai"
       ],
@@ -59,7 +59,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -0.7 for 23.0d old signal",
+        "aging penalty -0.7 for 23.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-12T02:10:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro",
@@ -98,7 +98,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +125,7 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -152,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T01:13:27.175+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -172,11 +172,35 @@
       "summary": "DYFI? - II Time 2026-07-12 00:43:30 UTC 2026-07-12 00:43:30 UTC at epicenter Location 3.677°N 127.025°E Depth 41.80 km (25.97 mi)"
     },
     {
+      "title": "M 4.6 - 28 km E of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-12T03:21:16.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-12 03:04:07 UTC 2026-07-12 03:04:07 UTC at epicenter Location 15.089°S 167.336°E Depth 126.09 km (78.35 mi)"
+    },
+    {
       "title": "「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介",
       "url": "https://japan.zdnet.com/article/35250320/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T23:46:18+00:00",
-      "age_days": 3.12,
+      "age_days": 3.18,
       "topics": [
         "general"
       ],
@@ -200,7 +224,7 @@
       "url": "https://togetter.com/li/2719544",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T23:28:47+00:00",
-      "age_days": 0.13,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -226,7 +250,7 @@
       "url": "https://www.47news.jp/14607274.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T00:29:41+00:00",
-      "age_days": 1.09,
+      "age_days": 1.15,
       "topics": [
         "ai"
       ],
@@ -252,7 +276,7 @@
       "url": "https://engineering.nifty.co.jp/blog/37405",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T15:58:37+00:00",
-      "age_days": 0.44,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -276,36 +300,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.99,
+      "age_days": 22.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.51,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -9.0 for 22.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.99,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0.51,
+      "dynamics_score": 0.46,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -332,8 +331,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 1,
-      "quiet": 6
+      "watch": 2,
+      "quiet": 5
     }
   }
 }
