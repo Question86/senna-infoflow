@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T14:35:50+00:00",
-  "run_id": "2026-07-12T14:35:50+00:00",
+  "generated_at": "2026-07-12T14:58:51+00:00",
+  "run_id": "2026-07-12T14:58:51+00:00",
   "date": "2026-07-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1753,109 +1753,7 @@
       "id": "f255696f1bed8e2516e2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-12T14:35:37+00:00",
-      "fetched_at": "2026-07-12T14:35:19+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "84abbc5e086d212c0b6c"
-    },
-    {
-      "title": "M 5.3 - 192 km WNW of Gorontalo, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-12T14:08:16.040+00:00",
-      "fetched_at": "2026-07-12T14:35:19+00:00",
-      "summary": "Time 2026-07-12 13:46:37 UTC 2026-07-12 13:46:37 UTC at epicenter Location 1.168°N 121.446°E Depth 35.00 km (21.75 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "a97e2a2805dd08523182"
-    },
-    {
-      "title": "Terraform Actionを使ってみた。 命令的な操作をリソースのライフサイクルイベントに紐づけて実行できます | DevelopersIO",
-      "url": "https://dev.classmethod.jp/articles/terraform-actions/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-10T09:43:50+00:00",
-      "fetched_at": "2026-07-12T14:35:19+00:00",
-      "summary": "Terraform Actions とは Terraform v1.14 で追加された新機能です。これまで Terraformは「宣言的」にリソースを管理するだけでしたが、Actions によって「命令的な操作」をライフサイクルイベントに紐付けて実行できるようになりました。 例えば、以下のようなActionブロックを定義します。CloudFrontのキャッシュの全...",
-      "matched_keywords": [
-        "developer",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "34cae6bd49d158bfb386"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
