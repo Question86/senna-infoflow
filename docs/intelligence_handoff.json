@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-12T11:11:23Z",
+  "generated_at": "2026-07-12T11:38:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “hashicorp/terraform” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/hashicorp/terraform",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 23.38,
+      "age_days": 23.4,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-12T10:20:18+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro",
@@ -98,7 +98,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +125,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szus",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T10:22:54.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -150,7 +150,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T07:57:25.982+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -175,7 +175,7 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -202,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T01:13:27.175+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -222,11 +222,35 @@
       "summary": "DYFI? - II Time 2026-07-12 00:43:30 UTC 2026-07-12 00:43:30 UTC at epicenter Location 3.677°N 127.025°E Depth 41.80 km (25.97 mi)"
     },
     {
+      "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
+      "url": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-12T02:12:00+00:00",
+      "age_days": 0.39,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "こんにちは、hatsu です。 先日、GitHub Actions で同じ job の中にある複数のステップを並列に実行できる parallel / background が 2026-06-25 に GA になりましたね。 これまで job の並列化はできましたが、step の並列化はできませんでした。 今回この parallel を実際のワークフローに入れてみて、ちゃんと速くな..."
+    },
+    {
       "title": "M 4.6 - 28 km E of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T03:21:16.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -250,7 +274,7 @@
       "url": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T21:30:16+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -274,7 +298,7 @@
       "url": "https://japan.zdnet.com/article/35250320/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T23:46:18+00:00",
-      "age_days": 3.48,
+      "age_days": 3.49,
       "topics": [
         "general"
       ],
@@ -292,32 +316,6 @@
         "no strong comparative reason"
       ],
       "summary": "「Windows」のディスク容量が不可解に減少していると感じる場合、それは気のせいではないかもしれない。システムが既知のバグの影響を受けている可能性がある。 「Windows 11」の特定のファイルが肥大化し、ディスク容量の減少が目に見えて分かるようになるバグが報告されている。ニュースサイトののWindows Latestによ..."
-    },
-    {
-      "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",
-      "url": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T17:02:08+00:00",
-      "age_days": 1.76,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。 本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。 Bunは、N..."
     }
   ],
   "read_order": [
@@ -330,8 +328,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 2,
-      "quiet": 3
+      "watch": 3,
+      "quiet": 2
     }
   }
 }
