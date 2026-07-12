@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-12T10:20:29+00:00_
+_Generated: 2026-07-12T10:52:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-12T10:20:29+00:00_
 - url: https://github.com/google-labs-code/stitch-skills
 - summary: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. Stitch Design Skills A collection of agent ski…
 
-### 3. M 4.9 - 241 km NNW of Tobelo, Indonesia
+### 3. M 4.7 - 80 km WSW of Gorontalo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-07-12T10:22:54.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szus
+- summary: Time 2026-07-12 10:05:37 UTC 2026-07-12 10:05:37 UTC at epicenter Location 0.220°N 122.411°E Depth 152.28 km (94.62 mi)
+
+### 4. M 4.9 - 241 km NNW of Tobelo, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-07-12T01:13:27.175+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv
 - summary: DYFI? - II Time 2026-07-12 00:43:30 UTC 2026-07-12 00:43:30 UTC at epicenter Location 3.677°N 127.025°E Depth 41.80 km (25.97 mi)
-
-### 4. AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか
-- source: Hatena Bookmark Hotentry IT
-- score: `14`
-- published: `2026-07-12T02:07:23+00:00`
-- url: https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering
-- summary: はじめに AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく...
 
 ### 5. M 5.5 - southern East Pacific Rise
 - source: USGS M4.5+ Earthquakes Past Hour
