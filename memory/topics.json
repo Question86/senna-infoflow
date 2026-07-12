@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T02:11:03+00:00",
+  "generated_at": "2026-07-12T03:21:55+00:00",
   "topics": {
     "ai": [
       {
@@ -105,6 +105,13 @@
         "published_at": "2026-07-12T01:13:27.175+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv"
+      },
+      {
+        "title": "M 4.6 - 28 km E of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-12T03:21:16.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5"
       },
       {
         "title": "「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介",

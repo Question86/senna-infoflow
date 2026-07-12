@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-12T02:11:03+00:00_
+_Generated: 2026-07-12T03:21:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-07-12T02:11:03+00:00_
 - url: https://togetter.com/li/2719544
 - summary: ﾎﾞｳﾞ @cornwallcapital 会計事務所にほぼ必ずいる、クライアントから送られてきた通帳やらカード明細やらをひたすら弥生会計に入力するオバさんパートとかAIでマジ不要になってると思うんだけど、どうすんのかな。 2026-07-11 15:57:24 ﾎﾞｳﾞ @cornwallcapital 公認会計士。零細会計事務所と弱小監査法人を経営しながら、...
 
-### 5. 「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介
+### 5. M 4.6 - 28 km E of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-07-12T03:21:16.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5
+- summary: Time 2026-07-12 03:04:07 UTC 2026-07-12 03:04:07 UTC at epicenter Location 15.089°S 167.336°E Depth 126.09 km (78.35 mi)
+
+### 6. 「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-07-08T23:46:18+00:00`
 - url: https://japan.zdnet.com/article/35250320/
 - summary: 「Windows」のディスク容量が不可解に減少していると感じる場合、それは気のせいではないかもしれない。システムが既知のバグの影響を受けている可能性がある。 「Windows 11」の特定のファイルが肥大化し、ディスク容量の減少が目に見えて分かるようになるバグが報告されている。ニュースサイトののWindows Latestによ...
 
-### 6. 米「AIがインフレの一因」 FRB金融政策報告書
+### 7. 米「AIがインフレの一因」 FRB金融政策報告書
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-07-11T00:29:41+00:00`
 - url: https://www.47news.jp/14607274.html
 - summary: 【ワシントン共同】米連邦準備制度理事会（FRB）は10日、半期ごとに議会に提出する金融政策報告書を公表した。インフレは「今春に一段と加速した」と指摘。人工知能（AI）を支えるデータセンター向けの半導体などの需要が急増し、電子機器やコンピューターといった関連製品の価格が急上昇したことが一因となったと説明し...
-
-### 7. hashicorp/terraform
-- source: GitHub Trending RSS All Languages Daily
-- score: `8`
-- published: `None`
-- url: https://github.com/hashicorp/terraform
-- summary: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and v…
 
 END OF DOCUMENT

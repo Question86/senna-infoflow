@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-12T02:11:03+00:00_
+_Generiert: 2026-07-12T03:21:55+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+12 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules capitals_power_centers, agriculture_food_fertilizer (+6.0); watchgraph markets via defense_war, macro_region_etfs, agriculture_food: corn (+2.0)
   - Kurz: ﾎﾞｳﾞ @cornwallcapital 会計事務所にほぼ必ずいる、クライアントから送られてきた通帳やらカード明細やらをひたすら弥生会計に入力するオバさんパートとかAIでマジ不要になってると思うんだけど、どうすんのかな。 2026-07-11 15:57:24 ﾎﾞｳﾞ @cornwallcapital 公認会計士。零細会計事務所と弱小監査法人を経営しながら、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 28 km E of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-12T03:21:16.040+00:00`, fetched `2026-07-12T03:21:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-12 03:04:07 UTC 2026-07-12 03:04:07 UTC at epicenter Location 15.089°S 167.336°E Depth 126.09 km (78.35 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介** — Score 9, observation — [Quelle](https://japan.zdnet.com/article/35250320/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-08T23:46:18+00:00`, fetched `2026-07-12T00:49:29+00:00`
