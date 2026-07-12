@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:38:01+00:00",
-  "run_id": "2026-07-12T06:38:01+00:00",
+  "generated_at": "2026-07-12T07:31:49+00:00",
+  "run_id": "2026-07-12T07:31:49+00:00",
   "date": "2026-07-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 12,
     "source_errors": 0
   },
@@ -155,6 +155,29 @@
           "LOW"
         ],
         "id": "0bd15d934f047f88ca2d"
+      },
+      {
+        "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+        "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-12T02:07:23+00:00",
+        "fetched_at": "2026-07-12T07:31:21+00:00",
+        "summary": "はじめに AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく...",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0ffbd3ef3f4161e69874"
       }
     ],
     "observe": [
@@ -621,6 +644,29 @@
       "id": "0bd15d934f047f88ca2d"
     },
     {
+      "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+      "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T02:07:23+00:00",
+      "fetched_at": "2026-07-12T07:31:21+00:00",
+      "summary": "はじめに AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく...",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0ffbd3ef3f4161e69874"
+    },
+    {
       "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
       "url": "https://togetter.com/li/2719544",
       "source": "Hatena Bookmark Hotentry IT",
@@ -955,26 +1001,27 @@
   ],
   "new_findings": [
     {
-      "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
-      "url": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
+      "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+      "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-11T21:30:16+00:00",
-      "fetched_at": "2026-07-12T06:37:33+00:00",
-      "summary": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
+      "published_at": "2026-07-12T02:07:23+00:00",
+      "fetched_at": "2026-07-12T07:31:21+00:00",
+      "summary": "はじめに AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく...",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7eb04f9d89107dd39886"
+      "id": "0ffbd3ef3f4161e69874"
     }
   ],
   "source_errors": [],

@@ -127,6 +127,29 @@
     "id": "0bd15d934f047f88ca2d"
   },
   {
+    "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+    "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-12T02:07:23+00:00",
+    "fetched_at": "2026-07-12T07:31:21+00:00",
+    "summary": "はじめに AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちていく...",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ffbd3ef3f4161e69874"
+  },
+  {
     "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
     "url": "https://togetter.com/li/2719544",
     "source": "Hatena Bookmark Hotentry IT",
