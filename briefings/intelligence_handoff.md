@@ -1,131 +1,61 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-12T00:04:23Z_
+_Generated: 2026-07-12T00:56:37Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
+Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
-
-### abseil/abseil-cpp
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `25.0`
-- Published: `2026-07-11T02:14:10+00:00` / age_days `0.91`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, code, security high-signal: rce, code
-- Quelle: https://github.com/abseil/abseil-cpp
 
 ### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `22.92`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `22.96`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -0.7 for 22.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -0.7 for 23.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
-### Updates | ReliefWeb
+### 「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介
 
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-07-11T23:14:40+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
-
-### M 5.4 - 41 km S of Sarangani, Philippines
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-07-11T11:23:39.703+00:00` / age_days `0.53`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `9.0`
+- Published: `2026-07-08T23:46:18+00:00` / age_days `3.05`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0
+- Warum: no strong comparative reason
+- Quelle: https://japan.zdnet.com/article/35250320/
 
-### M 4.9 - 54 km NNW of Masohi, Indonesia
+### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-07-11T02:48:58.040+00:00` / age_days `0.89`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0.56`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `21.92`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5
+- Warum: momentum delta +1, aging penalty -8.9 for 21.9d old signal
+- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
 
-### jbeder/yaml-cpp
+### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-07-11T02:14:10+00:00` / age_days `0.91`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce
-- Quelle: https://github.com/jbeder/yaml-cpp
-
-### M 6.4 - South Sandwich Islands region
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-07-11T11:00:47.513+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0.56`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `21.92`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb
+- Warum: momentum delta +1, aging penalty -8.9 for 21.9d old signal
+- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
 
-### M 5.4 - South Sandwich Islands region
+### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-07-11T07:19:31.934+00:00` / age_days `0.7`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc
-
-### M 5.1 - 129 km SW of Huarmey, Peru
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-07-11T08:16:48.040+00:00` / age_days `0.66`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq
-
-### M 5.2 - 56 km SSW of Sarangani, Philippines
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-07-11T18:07:48.040+00:00` / age_days `0.25`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri
-
-### [アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-07-11T05:42:34+00:00` / age_days `0.77`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `21.92`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, auth, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/
-
-### M 5.1 - 89 km NE of Hihifo, Tonga
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-07-11T16:20:11.040+00:00` / age_days `0.32`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0
+- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -8.9 for 21.9d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://toyokeizai.net/articles/-/948348?display=b
 
 END OF DOCUMENT

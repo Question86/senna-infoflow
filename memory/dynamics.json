@@ -1,53 +1,26 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-12T00:04:23Z",
+  "generated_at": "2026-07-12T00:56:37Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 35,
+    "dynamics": 5,
     "bands": {
-      "strong": 8,
-      "watch": 6,
-      "quiet": 21
+      "strong": 1,
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 6,
-      "quiet": 21
+      "strong": 1,
+      "quiet": 4
     }
   },
   "top_dynamics": [
-    {
-      "title": "abseil/abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.91,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, code",
-        "security high-signal: rce, code"
-      ],
-      "summary": "Abseil Common Libraries (C++) Abseil - C++ Common Libraries The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++17) designed to augment the C++ standard library. Table of Contents About Abseil Quickstart Building Abseil Support Codemap Releases License…"
-    },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.92,
+      "age_days": 22.96,
       "topics": [
         "ai"
       ],
@@ -66,428 +39,21 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -0.7 for 22.9d old signal",
+        "aging penalty -0.7 for 23.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
     },
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-07-11T23:14:40+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai",
-        "macro",
-        "disaster"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
-    },
-    {
-      "title": "M 5.4 - 41 km S of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T11:23:39.703+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-11 10:51:12 UTC 2026-07-11 10:51:12 UTC at epicenter Location 5.033°N 125.490°E Depth 57.10 km (35.48 mi)"
-    },
-    {
-      "title": "M 4.9 - 54 km NNW of Masohi, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T02:48:58.040+00:00",
-      "age_days": 0.89,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-11 02:28:51 UTC 2026-07-11 02:28:51 UTC at epicenter Location 2.850°S 128.764°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "jbeder/yaml-cpp",
-      "url": "https://github.com/jbeder/yaml-cpp",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.91,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "A YAML parser and emitter in C++ yaml-cpp yaml-cpp is a YAML parser and emitter in C++ matching the YAML 1.2 spec . Usage See Tutorial and How to Emit YAML for reference. For the old API (until 0.5.0), see How To Parse A Document . How to Build yaml-cpp uses CMake to support cross-platform building. Install CMake (Res…"
-    },
-    {
-      "title": "M 6.4 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T11:00:47.513+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-11 10:26:45 UTC 2026-07-11 10:26:45 UTC at epicenter Location 55.536°S 28.970°W Depth 45.99 km (28.58 mi)"
-    },
-    {
-      "title": "M 5.4 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T07:19:31.934+00:00",
-      "age_days": 0.7,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-11 06:52:27 UTC 2026-07-11 06:52:27 UTC at epicenter Location 59.633°S 26.294°W Depth 104.89 km (65.17 mi)"
-    },
-    {
-      "title": "M 5.1 - 129 km SW of Huarmey, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T08:16:48.040+00:00",
-      "age_days": 0.66,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-11 07:58:27 UTC 2026-07-11 07:58:27 UTC at epicenter Location 10.859°S 79.030°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.2 - 56 km SSW of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T18:07:48.040+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-07-11 17:49:31 UTC 2026-07-11 17:49:31 UTC at epicenter Location 4.941°N 125.245°E Depth 61.68 km (38.33 mi)"
-    },
-    {
-      "title": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO",
-      "url": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/",
+      "title": "「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介",
+      "url": "https://japan.zdnet.com/article/35250320/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T05:42:34+00:00",
-      "age_days": 0.77,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10, auth",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO"
-    },
-    {
-      "title": "M 5.1 - 89 km NE of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T16:20:11.040+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-11 15:33:17 UTC 2026-07-11 15:33:17 UTC at epicenter Location 15.314°S 173.293°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 6 km S of Grębocice, Poland",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T07:02:25.623+00:00",
-      "age_days": 0.71,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "DYFI? - III Time 2026-07-11 06:11:59 UTC 2026-07-11 06:11:59 UTC at epicenter Location 51.538°N 16.164°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 211 km NE of Santa Cruz das Flores, Portugal",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T01:57:49.040+00:00",
-      "age_days": 0.92,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-11 01:33:17 UTC 2026-07-11 01:33:17 UTC at epicenter Location 40.941°N 29.564°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "LATERALでSQL実行時間を99.75%削減した話 - ANDPAD Tech Blog",
-      "url": "https://tech.andpad.co.jp/entry/2026/07/10/100000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T01:10:26+00:00",
-      "age_days": 1.95,
+      "published_at": "2026-07-08T23:46:18+00:00",
+      "age_days": 3.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "こんにちは！ 承認チームでGoエンジニアとしてインターンをしているunagamです。 最近は夏の旅行先として色々な場所を調べるのにハマっています。 今回はあまり馴染みのないSQLのLATERAL句で大幅にAPIを高速化できたので、その学びを共有したいと思います。 概要 APIのボトルネックだったSQLを、LATERAL を使って 94.7ms..."
-    },
-    {
-      "title": "GitHub - yusukebe/ax: The AI-era curl",
-      "url": "https://github.com/yusukebe/ax",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T15:09:13+00:00",
-      "age_days": 1.37,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, deterministically, with output shaped for ..."
-    },
-    {
-      "title": "やさしいループエンジニアリング入門 | ドクセル",
-      "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T12:53:13+00:00",
-      "age_days": 1.47,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ループエンジニアリングに火をつけた3人 コーディングエージェントに直接指示するな エージェントに指示を出す “ループ” を設計しろ Peter Steinberger OpenClaw の作者 もう Claude に指示は出していない 私の仕事はループを書くことだ KDDI Agile Development Center Corporation Boris Cherny Claude Code の責任者 ‹#›"
-    },
-    {
-      "title": "Metaがユーザーからの反発を受けInstagramのAI機能を削除",
-      "url": "https://gigazine.net/news/20260711-meta-removes-controversial-ai-instagram/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T08:20:26+00:00",
-      "age_days": 0.66,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "MetaがAIを使ってInstagram上の写真を編集する機能を廃止しました。 Meta removes controversial AI feature on Instagram after backlash | TechCrunch https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/ 現地時間の2026年7月7日、Metaは画像生成AIの「Muse Imag..."
-    },
-    {
-      "title": "しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE",
-      "url": "https://speakerdeck.com/kanny/shibui-sre",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T08:00:03+00:00",
-      "age_days": 0.67,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -500,217 +66,18 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE"
-    },
-    {
-      "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T02:57:35+00:00",
-      "age_days": 0.88,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "4月、ある小型端末がSNSを中心に再び注目を集めた。ワンプッシュで日用品を注文できた「Amazon Dash Button（アマゾン・ダッシュ・ボタン）」だ。既に端末の販売およびサービスは終了しているが、買い忘れを防ぐ画期的な仕組みは多くの家庭で重宝された実績があり、現在もさまざまな視点で当時の存在意義が語られた。一..."
-    },
-    {
-      "title": "夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」",
-      "url": "https://togetter.com/li/2719204",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T23:14:22+00:00",
-      "age_days": 1.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "でん @OsenbeBaribari 怖すぎる、わかる人いますか？😭😭 夫にSMSを送ったらなぜか数通だけ知らない人に届いてしまい、夫の方の携帯ではそのメッセージ履歴が確認できません😭 こういう現象が起きたことがある人はいますか？（ ; ; ） pic.x.com/YvgglMjOm5 2026-07-11 00:13:43"
-    },
-    {
-      "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
-      "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T17:14:42+00:00",
-      "age_days": 1.28,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに こんにちは！GroovesでCrowd Agent開発組織のマネージャーをしています、鳥井です。本記事は、私が社内向けに書いた業務自動化／効率化に関するドキュメントを、公開用に再構成したものになります。 AI時代に入り、業務自動化／効率化が改めて脚光を浴びています。LLMを司令塔としたMCPやAgent Skillsの普及に..."
-    },
-    {
-      "title": "Email Verification Protocol を理解しよう - r-weblife",
-      "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T12:33:31+00:00",
-      "age_days": 1.48,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ritouです。 Email Verification Protocol Origin Trial Email Verification ProtocolのOrigin Trialが始まったようです。 https://developer.chrome.com/blog/email-verification-protocol-origin-trial 「なんか便利そうな仕組みやな〜」とのんびり眺めるのではなく、ID管理の基本を用いて解像度を上げていきましょう..."
-    },
-    {
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.91,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Skills for Real Engineers. Straight from my .claude directory. Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while doing so, they take away you…"
-    },
-    {
-      "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
-      "url": "https://gigazine.net/news/20260711-browser4/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T04:31:28+00:00",
-      "age_days": 0.81,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 platonai/Browser4: Browser4: a lightning-fast, coroutine-safe browser for your AI. https://github.com/platonai/Browser4 Browser4 - Enable AI to browse/automate/scrape/crawl th..."
-    },
-    {
-      "title": "Ghost Font: The Anti-AI Font Only Humans Can Read",
-      "url": "https://www.mixfont.com/ghost-font",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T14:07:14+00:00",
-      "age_days": 0.41,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Ghost FontAn anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message. What is Ghost Font?Ghost Font is an anti-AI font that writes a message using motion. Using a combination of motion, video, noise, a..."
-    },
-    {
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T01:59:22+00:00",
-      "age_days": 1.92,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Thomas Larsen, Romeo Dean, Brendan Halstead, Eli Lifland, Ryan Greenblatt, Daniel Kokotajlo AI companies are racing to build AIs that are smarter than humans in every way. In AI 2027, we predicted that this would result in either extinction or irreversible concentration of power.1 Plan A is our p..."
+      "summary": "「Windows」のディスク容量が不可解に減少していると感じる場合、それは気のせいではないかもしれない。システムが既知のバグの影響を受けている可能性がある。 「Windows 11」の特定のファイルが肥大化し、ディスク容量の減少が目に見えて分かるようになるバグが報告されている。ニュースサイトののWindows Latestによ..."
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.89,
+      "age_days": 21.92,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.59,
+      "dynamics_score": 0.56,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -731,11 +98,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.89,
+      "age_days": 21.92,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.59,
+      "dynamics_score": 0.56,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -756,7 +123,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.89,
+      "age_days": 21.92,
       "topics": [
         "ai"
       ],
@@ -777,133 +144,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】",
-      "url": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T11:08:57+00:00",
-      "age_days": 1.54,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "対象読者: ISMSの活動に関わっているみなさん キーワード: ISO/IEC 27001、リスクアセスメント、情報資産管理、ドキュメント管理の自動化 はじめに ISMS（情報セキュリティマネジメントシステム、ISO/IEC 27001）を運用していると、避けて通れないのが大量のドキュメント管理です。 リスクアセスメント表 情報資産管理台..."
-    },
-    {
-      "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
-      "url": "https://note.com/art_reflection/n/n7ffd5ce3320c",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-11T10:37:44+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ここ最近、いかに「AIでAI臭くない文章を書かせられるか？」を試行錯誤しています。 書かれた文章は自分としてもそれなりに思考を凝らせたものとなっていますが、実のところそろそろアイディアが枯渇し、頭打ちになってきまし。 さて、この文章執筆は一応Fable、Sonnet5.0までを射程として検証しています。正直FableはAP..."
-    },
-    {
-      "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった - Qiita",
-      "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T06:15:46+00:00",
-      "age_days": 1.74,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 15年前の定番書『アジャイルサムライ』の教えは、AIがコードを書く時代でも通用するのか。読み終えたあと、本の教えを「古びたもの」と「まだ効くもの」に仕分けてみたと..."
-    },
-    {
-      "title": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.91,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun . At its core is the Bun runtime , a fast Ja…"
-    },
-    {
-      "title": "総務省｜不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～",
-      "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000604.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2025-05-02T04:15:16+00:00",
-      "age_days": 435.83,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 435.8d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "お知らせ 令和7年5月2日 （令和7年5月15日更新） 不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～ 昨今、都内周辺をはじめとする一部の都市において、不法無線局の疑いのある無線機器からの携帯電話サービスへの混信事案が発生しており、携帯電話が圏外と..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
