@@ -164,6 +164,29 @@
     "id": "0bd15d934f047f88ca2d"
   },
   {
+    "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
+    "url": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-12T02:12:00+00:00",
+    "fetched_at": "2026-07-12T11:20:43+00:00",
+    "summary": "こんにちは、hatsu です。 先日、GitHub Actions で同じ job の中にある複数のステップを並列に実行できる parallel / background が 2026-06-25 に GA になりましたね。 これまで job の並列化はできましたが、step の並列化はできませんでした。 今回この parallel を実際のワークフローに入れてみて、ちゃんと速くな...",
+    "matched_keywords": [
+      "GitHub",
+      "GitHub Actions",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "GitHub Actions (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "da60d571845dbf44d23b"
+  },
+  {
     "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
     "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
     "source": "Hatena Bookmark Hotentry IT",

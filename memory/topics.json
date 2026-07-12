@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T10:52:27+00:00",
+  "generated_at": "2026-07-12T11:21:13+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/google-labs-code/stitch-skills"
+      },
+      {
+        "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-12T02:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel"
       },
       {
         "title": "hashicorp/terraform",
