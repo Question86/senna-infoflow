@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T12:43:01+00:00_
+_Generiert: 2026-07-13T13:31:05+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. dcg (Destructive Command Guard) A high-performance hook for AI coding agents that blocks destructive commands before they execute, protecting your work from accidental deletion across Claude Code, Codex CLI, Gemini CLI, Copilot CLI, VS Code Copilot Chat, Cursor, Hermes Agent, Grok (xAI), and related to…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Getting started with ChatGPT** — Score 20, observation — [Quelle](https://openai.com/academy/getting-started)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-10T00:00:00+00:00`, fetched `2026-07-13T13:30:37+00:00`
+  - Treffer: AI/KI, Climate/Disaster Infrastructure, Content-Chance, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Climate/Disaster Infrastructure (+5.0); Content-Chance (+5.0)
+  - Kurz: Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - 24 km W of Mabiton, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

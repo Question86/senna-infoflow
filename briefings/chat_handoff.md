@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T12:43:01+00:00_
+_Generated: 2026-07-13T13:31:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `65`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-13T12:43:01+00:00_
 - url: https://github.com/Dicklesworthstone/destructive_command_guard
 - summary: The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. dcg (Destructive Command Guard) A high-performance hook for AI coding agents that blocks destructive commands before they execute, protecting y…
 
-### 3. M 5.4 - 24 km W of Mabiton, Philippines
+### 3. Getting started with ChatGPT
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-07-10T00:00:00+00:00`
+- url: https://openai.com/academy/getting-started
+- summary: Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.
+
+### 4. M 5.4 - 24 km W of Mabiton, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-07-13T01:37:03.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)
-
-### 4. [NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-07-13T11:41:40+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297
-- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um seine Privilegien zu erhöhen.
 
 ### 5. M 6.4 - 191 km SE of Lorengau, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T12:43:01+00:00",
+  "generated_at": "2026-07-13T13:31:05+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": null,
         "relevance_score": 22,
         "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+      },
+      {
+        "title": "Getting started with ChatGPT",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-10T00:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://openai.com/academy/getting-started"
       },
       {
         "title": "Thailand’s scam epidemic is a technology problem, the solution has to be one too",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-13T02:30:02+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/"
-      },
-      {
-        "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-07-13T10:00:22+00:00",
-        "relevance_score": 10,
-        "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "github": [
@@ -156,6 +156,13 @@
         "url": "https://gigazine.net/news/20260713-neo-hands/"
       },
       {
+        "title": "スマホは本当に会話を「盗聴」して広告を出しているのか？ 専門調査と最新事例から考える",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T08:02:58+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/mobile/articles/2607/13/news073.html"
+      },
+      {
         "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-12T23:02:39+00:00",
@@ -168,13 +175,6 @@
         "published_at": "2026-07-12T22:28:44+00:00",
         "relevance_score": 5,
         "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html"
-      },
-      {
-        "title": "はてブのコメントで警告もらった",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-12T22:13:42+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260713070220"
       }
     ],
     "security": [
