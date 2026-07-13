@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-13T05:17:15Z",
+  "generated_at": "2026-07-13T06:33:26Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU94039788/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-13T13:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU94203999/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-13T11:45:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -59,11 +59,35 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [mittel] RabbitMQ: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1994",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-13T05:46:40+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um Daten zu manipulieren, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-07-13T01:42:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -89,7 +113,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 24.14,
+      "age_days": 24.19,
       "topics": [
         "ai"
       ],
@@ -108,17 +132,46 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -1.1 for 24.1d old signal",
+        "aging penalty -1.1 for 24.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-07-13T06:14:20+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
       "title": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-13T02:32:52+00:00",
-      "age_days": 0.11,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -146,7 +199,7 @@
       "url": "https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-13T02:30:02+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -173,7 +226,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-13T01:37:03.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -199,7 +252,7 @@
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-13T02:32:52+00:00",
-      "age_days": 0.11,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -225,7 +278,7 @@
       "url": "https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-13T04:10:10+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -250,7 +303,7 @@
       "url": "https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-13T02:00:07+00:00",
-      "age_days": 0.14,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -269,56 +322,6 @@
         "no strong comparative reason"
       ],
       "summary": "Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a total of 433,725 cases of online scamming in the same perio…"
-    },
-    {
-      "title": "Funded: US$37 billion was promised to SEA climate, where did it go?",
-      "url": "https://e27.co/funded-us37-billion-was-promised-to-sea-climate-where-did-it-go-20260710/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-13T01:00:40+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "I want to tell you about a number that should make every climate founder in Southeast Asia angry. US$37 billion. That’s the combined JETP commitment across Indonesia and Vietnam alone. Indonesia signed for US$21.6 billion. Vietnam signed for US$15.5 billion. These aren’t projections or targets. These are commitments.…"
-    },
-    {
-      "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
-      "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-12T08:58:49+00:00",
-      "age_days": 0.85,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何から手を付ければ…」となっている新卒・若手エンジニア..."
     }
   ],
   "read_order": [
@@ -330,9 +333,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 4,
-      "quiet": 1
+      "strong": 9,
+      "watch": 3
     }
   }
 }
