@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T05:05:32+00:00_
+_Generated: 2026-07-13T06:14:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `23`
 
 ## Top Signals
 
-### 1. Dicklesworthstone/destructive_command_guard
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-07-13T06:14:20+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. Dicklesworthstone/destructive_command_guard
 - source: GitHub Trending RSS All Languages Daily
 - score: `22`
 - published: `None`
 - url: https://github.com/Dicklesworthstone/destructive_command_guard
 - summary: The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. dcg (Destructive Command Guard) A high-performance hook for AI coding agents that blocks destructive commands before they execute, protecting y…
 
-### 2. M 5.4 - 24 km W of Mabiton, Philippines
+### 3. M 5.4 - 24 km W of Mabiton, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-07-13T01:37:03.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)
 
-### 3. Thailand’s scam epidemic is a technology problem, the solution has to be one too
+### 4. Thailand’s scam epidemic is a technology problem, the solution has to be one too
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-07-13T02:00:07+00:00`
 - url: https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/
 - summary: Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a…
-
-### 4. iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-07-13T13:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU94039788/
-- summary: LINEヤフー株式会社が提供するiOS版LINEのアプリ内ブラウザには、任意のURLスキームを処理する際の保護が不十分なことに起因しサービス運用妨害（DoS）につながる脆弱性が存在します。
 
 ### 5. Shubhamsaboo/awesome-llm-apps
 - source: GitHub Trending RSS All Languages Daily

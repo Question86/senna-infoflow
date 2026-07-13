@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T05:05:32+00:00",
+  "generated_at": "2026-07-13T06:14:31+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-13T06:14:20+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "Dicklesworthstone/destructive_command_guard",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -17,6 +24,13 @@
         "published_at": "2026-07-13T02:00:07+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/"
+      },
+      {
+        "title": "Most AI pilots die in week six. Here’s what LinqAlpha does differently",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-13T05:19:05+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/"
       },
       {
         "title": "Shubhamsaboo/awesome-llm-apps",
@@ -47,18 +61,18 @@
         "url": "https://e27.co/agnes-ai-launches-agnes-2-5-flash-teases-flagship-pro-model-and-debuts-agnes-code-desktop-app-20260713/"
       },
       {
+        "title": "Why the next infrastructure boom in APAC depends on power diversification",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-13T05:56:50+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/why-the-next-infrastructure-boom-in-apac-depends-on-power-diversification-20260713/"
+      },
+      {
         "title": "増田に常駐しているレベルの人間の質や集合知よりもAIの方がレベルが高くなってしまっていて増田の存在価値が減っている気がする",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-12T01:19:44+00:00",
         "relevance_score": 5,
         "url": "https://anond.hatelabo.jp/20260712100633"
-      },
-      {
-        "title": "PrefectHQ/prefect",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/PrefectHQ/prefect"
       }
     ],
     "github": [
@@ -107,6 +121,13 @@
         "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a"
       },
       {
+        "title": "アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-13T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet"
+      },
+      {
         "title": "はてブのコメントで警告もらった",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-12T22:13:42+00:00",
@@ -137,6 +158,13 @@
         "url": "https://jvn.jp/vu/JVNVU94203999/"
       },
       {
+        "title": "[UPDATE] [mittel] RabbitMQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T05:46:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1994"
+      },
+      {
         "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
         "published_at": "2026-07-13T01:42:00+00:00",
@@ -158,6 +186,13 @@
         "published_at": "2026-07-13T01:00:40+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/funded-us37-billion-was-promised-to-sea-climate-where-did-it-go-20260710/"
+      },
+      {
+        "title": "The US$65,000 and US$1,850 question: Can we hold this level after CPI release?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-13T06:07:37+00:00",
+        "relevance_score": 3,
+        "url": "https://e27.co/the-us65000-and-us1850-question-can-we-hold-this-level-after-cpi-release-20260713/"
       }
     ],
     "economy": [
@@ -174,6 +209,13 @@
         "published_at": "2026-07-13T04:10:10+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/"
+      },
+      {
+        "title": "The US$65,000 and US$1,850 question: Can we hold this level after CPI release?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-13T06:07:37+00:00",
+        "relevance_score": 3,
+        "url": "https://e27.co/the-us65000-and-us1850-question-can-we-hold-this-level-after-cpi-release-20260713/"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T05:05:32+00:00_
+_Generiert: 2026-07-13T06:14:31+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Dicklesworthstone/destructive_command_guard“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,26 @@ _Generiert: 2026-07-13T05:05:32+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f21b5bf6750>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551279)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].
+- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Guatemala
+- **GDACS: Green flood alert in Bangladesh** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104015)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Bangladesh
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551421)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].
+- **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000143)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
 
 ## Wirtschaft global
 
@@ -47,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-07-13T06:14:20+00:00`, fetched `2026-07-13T06:14:02+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Dicklesworthstone/destructive_command_guard** — Score 22, observation — [Quelle](https://github.com/Dicklesworthstone/destructive_command_guard)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-13T02:32:52+00:00`
@@ -92,6 +119,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] RabbitMQ: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1994)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-13T05:46:40+00:00`, fetched `2026-07-13T06:14:02+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um Daten zu manipulieren, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Most AI pilots die in week six. Here’s what LinqAlpha does differently** — Score 14, observation — [Quelle](https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-13T05:19:05+00:00`, fetched `2026-07-13T06:14:02+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region india: India (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: LinqAlpha, the New York-headquartered AI startup building intelligence tools for institutional investors, recently raised US$22 million in a Series A round anchored by AVP, Atinum Investment, and GFT Ventures, with a notably Asia-heavy syndicate including SV Investment, Mirae Asset, Samsung Securities, East Ventures, and others spanning Singapore, Hong Kong, South Korea, Japan, and India. Founded […] The post Most A…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -158,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Gobi Partners has entered into a strategic collaboration with Japanese technology and telecommunications group NTT, less than a year after the VC firm expanded into Japan, as it looks to build more structured links between Japanese corporates and Southeast Asian startups. The collaboration will focus on startup matching, business validation, proof-of-concept projects and cross-border commercial […] The post Gobi tap…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-13T06:00:00+00:00`, fetched `2026-07-13T06:14:02+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **はてブのコメントで警告もらった** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260713070220)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-12T22:13:42+00:00`, fetched `2026-07-13T01:37:40+00:00`
@@ -197,8 +251,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

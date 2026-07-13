@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-07-13T06:14:20+00:00",
+    "fetched_at": "2026-07-13T06:14:02+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5f65a2da1abbe7429b23"
+  },
+  {
     "title": "Dicklesworthstone/destructive_command_guard",
     "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -150,6 +192,50 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "445c258fb60f90f81c62"
+  },
+  {
+    "title": "[UPDATE] [mittel] RabbitMQ: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1994",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T05:46:40+00:00",
+    "fetched_at": "2026-07-13T06:14:02+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um Daten zu manipulieren, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c54c73b0066140b7c0b8"
+  },
+  {
+    "title": "Most AI pilots die in week six. Here’s what LinqAlpha does differently",
+    "url": "https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-13T05:19:05+00:00",
+    "fetched_at": "2026-07-13T06:14:02+00:00",
+    "summary": "LinqAlpha, the New York-headquartered AI startup building intelligence tools for institutional investors, recently raised US$22 million in a Series A round anchored by AVP, Atinum Investment, and GFT Ventures, with a notably Asia-heavy syndicate including SV Investment, Mirae Asset, Samsung Securities, East Ventures, and others spanning Singapore, Hong Kong, South Korea, Japan, and India. Founded […] The post Most A…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region india: India (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "91462453cc13eec0fe69"
   },
   {
     "title": "Shubhamsaboo/awesome-llm-apps",
@@ -353,6 +439,47 @@
     "id": "d5897d069397cc09af32"
   },
   {
+    "title": "Why the next infrastructure boom in APAC depends on power diversification",
+    "url": "https://e27.co/why-the-next-infrastructure-boom-in-apac-depends-on-power-diversification-20260713/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-13T05:56:50+00:00",
+    "fetched_at": "2026-07-13T06:14:02+00:00",
+    "summary": "The rapid adoption and expansion of artificial intelligence is reshaping global infrastructure demand. From hyperscale data centres to advanced semiconductor fabrication facilities, AI-led growth is driving an unprecedented need for mission-critical assets across Asia Pacific (APAC). APAC’s power infrastructure is struggling to keep pace. These facilities are highly power-intensive, requiring uninterrupted, high-rel…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "33ae46c1aefeb4d3ce71"
+  },
+  {
+    "title": "アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました",
+    "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-13T06:00:00+00:00",
+    "fetched_at": "2026-07-13T06:14:02+00:00",
+    "summary": "アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "44e0a6812bf197d0fa8e"
+  },
+  {
     "title": "はてブのコメントで警告もらった",
     "url": "https://anond.hatelabo.jp/20260713070220",
     "source": "Hatena Bookmark Hotentry IT",
@@ -414,6 +541,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c7aa0e2413202da7d35f"
+  },
+  {
+    "title": "The US$65,000 and US$1,850 question: Can we hold this level after CPI release?",
+    "url": "https://e27.co/the-us65000-and-us1850-question-can-we-hold-this-level-after-cpi-release-20260713/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-13T06:07:37+00:00",
+    "fetched_at": "2026-07-13T06:14:02+00:00",
+    "summary": "The digital asset market currently presents a fascinating divergence in momentum as investors navigate a complex macroeconomic landscape. Bitcoin recently climbed 0.64 per cent to reach US$64,226.68 over a standard 24-hour trading period. This specific movement slightly trailed the broader market gain of 0.83 per cent. Meanwhile, Ethereum demonstrated vastly superior strength, surging 2.98 per […] The post The US$65…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:macro_fx_company_numbers"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules macro_fx_company_numbers (+3.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "macro_fx_company_numbers"
+    ],
+    "watchgraph_reasons": [
+      "macro_fx_company_numbers: CPI release"
+    ],
+    "market_context": [
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "b830ba3395825178e098"
   },
   {
     "title": "Update on Attacks by Threat Group APT-C-60 in 2026",
