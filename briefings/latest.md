@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T07:26:43+00:00_
+_Generiert: 2026-07-13T08:31:51+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+38 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -92,6 +92,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-13T07:26:39+00:00`, fetched `2026-07-13T08:31:23+00:00`
+  - Treffer: BSI, CERT-Bund, OpenSSL, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Thailand’s scam epidemic is a technology problem, the solution has to be one too** — Score 16, risk — [Quelle](https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-13T02:00:07+00:00`, fetched `2026-07-13T02:32:52+00:00`
@@ -128,23 +137,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2239)
+- **[UPDATE] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen nicht näher spezifizierte Auswirkungen, möglicherweise Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0435)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-13T07:22:03+00:00`, fetched `2026-07-13T07:26:10+00:00`
+  - Zeit: published `2026-07-13T07:26:39+00:00`, fetched `2026-07-13T08:31:23+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Snipe-IT: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2144)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-13T07:08:46+00:00`, fetched `2026-07-13T07:26:10+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Informationen offenzulegen.
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um nicht spezifizierte Effekte zu verursachen, was möglicherweise zur Ausführung von beliebigem Code führt.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Most AI pilots die in week six. Here’s what LinqAlpha does differently** — Score 14, observation — [Quelle](https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -212,6 +212,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here ). While the cod…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - southeast of the Loyalty Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-13T08:17:56.040+00:00`, fetched `2026-07-13T08:31:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-13 07:59:35 UTC 2026-07-13 07:59:35 UTC at epicenter Location 22.791°S 171.568°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - southeast of the Loyalty Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-13T07:20:02.040+00:00`, fetched `2026-07-13T07:26:10+00:00`
@@ -230,6 +239,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Product teams are trained to ask familiar questions. Who is the user? What problem are we solving? How often does it occur? How painful is it? What is the willingness to pay? Those questions matter, but there is another one that quietly shapes adoption far more than many teams admit. When does this problem actually […] The post Seasonal product cycles: Why some features only work at certain times appeared first on e…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-hochriskante-Sicherheitsluecken-11362432.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-13T08:16:00.000+00:00`, fetched `2026-07-13T08:31:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Entwickler des DNS-basierten Werbeblockers Pi-hole verteilen Updates. Die schließen zum Teil hochriskante Sicherheitslücken.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Progress warnt Admins: ShareFile deaktivieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Progress-warnt-Admins-ShareFile-deaktivieren-11362288.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-13T07:24:00.000+00:00`, fetched `2026-07-13T08:31:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Progress hat zum Wochenende eine Warnung an ShareFile-Kunden geschickt. IT-Verantwortliche sollen die Server umgehend herunterfahren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-13T06:00:00+00:00`, fetched `2026-07-13T06:14:02+00:00`
@@ -238,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit** — Score 5, observation — [Quelle](https://zenn.dev/minipoisson/articles/excel-vba-modern-dev)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-12T23:02:39+00:00`, fetched `2026-07-13T08:31:23+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: この記事で学べること 2026年に相次いで登場した XLIDE、xlflow・ExStruct、xlsm_devkit という3つの取り組みの設計思想の違い Excel/VBA とモダン開発環境の間にあった空白地帯が、なぜこの時期に「開発可能な領域」として動き出したのか xlsm_devkit がこの中でどのような立ち位置を取っているか、その設計判断の背景 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -248,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **はてブのコメントで警告もらった** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260713070220)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-12T22:13:42+00:00`, fetched `2026-07-13T01:37:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 死ねだの死んだほうがいいだの殺したいだの書いてたら、 「おめー、ガイドライン違反のコメント多すぎ、次やったら無警告強制でアカウント非公開にするからな、これが最後の警告」 というお知らせをはてなからもらったのだが、 「ほんとならとっくに非公開処置してるんだけど、おめえは長年はてな使ってっからちょっとだ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PrefectHQ/prefect** — Score 5, observation — [Quelle](https://github.com/PrefectHQ/prefect)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-13T02:32:52+00:00`
@@ -265,15 +292,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Prefect is a workflow orchestration framework for building resilient data pipelines in Python. Installation · Quickstart · Build workflows · Deploy workflows · Prefect Cloud Prefect Prefect is a workflow orchestration framework for building data pipelines in Python. It's the simplest way to elevate a script into a production workflow. With Prefect, you can build resilient, dynamic data pipelines that react to the wo…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Update on Attacks by Threat Group APT-C-60 in 2026** — Score 3, observation — [Quelle](https://blogs.jpcert.or.jp/en/2026/07/apt-c-60_2026.html)
-  - Quelle: JPCERT/CC English Blog Atom / `rss`
-  - Zeit: published `2026-07-13T04:15:00+00:00`, fetched `2026-07-13T05:04:57+00:00`
-  - Treffer: JPCERT
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: JPCERT (+2.0); recent (+1.0)
-  - Kurz: In our previous two blog posts (Dec 2024...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

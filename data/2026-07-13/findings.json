@@ -129,6 +129,30 @@
     "id": "bce6ddefe56a5275ad51"
   },
   {
+    "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:26:39+00:00",
+    "fetched_at": "2026-07-13T08:31:23+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "OpenSSL",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6cfaa47ce065ab2a5c42"
+  },
+  {
     "title": "Thailand’s scam epidemic is a technology problem, the solution has to be one too",
     "url": "https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -215,6 +239,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "445c258fb60f90f81c62"
+  },
+  {
+    "title": "[UPDATE] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen nicht näher spezifizierte Auswirkungen, möglicherweise Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0435",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:26:39+00:00",
+    "fetched_at": "2026-07-13T08:31:23+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um nicht spezifizierte Effekte zu verursachen, was möglicherweise zur Ausführung von beliebigem Code führt.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "da0036965be4980b0ed0"
   },
   {
     "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
@@ -535,6 +582,42 @@
     "id": "65043c99117c145992cb"
   },
   {
+    "title": "M 4.9 - southeast of the Loyalty Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzw",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-13T08:17:56.040+00:00",
+    "fetched_at": "2026-07-13T08:31:23+00:00",
+    "summary": "Time 2026-07-13 07:59:35 UTC 2026-07-13 07:59:35 UTC at epicenter Location 22.791°S 171.568°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7419aed45fd744e25547"
+  },
+  {
     "title": "M 5.0 - southeast of the Loyalty Islands",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -634,6 +717,46 @@
     "id": "d5897d069397cc09af32"
   },
   {
+    "title": "Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken",
+    "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-hochriskante-Sicherheitsluecken-11362432.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-13T08:16:00.000+00:00",
+    "fetched_at": "2026-07-13T08:31:23+00:00",
+    "summary": "Die Entwickler des DNS-basierten Werbeblockers Pi-hole verteilen Updates. Die schließen zum Teil hochriskante Sicherheitslücken.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5daf46ceb44495efd2b7"
+  },
+  {
+    "title": "Progress warnt Admins: ShareFile deaktivieren",
+    "url": "https://www.heise.de/news/Progress-warnt-Admins-ShareFile-deaktivieren-11362288.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:24:00.000+00:00",
+    "fetched_at": "2026-07-13T08:31:23+00:00",
+    "summary": "Progress hat zum Wochenende eine Warnung an ShareFile-Kunden geschickt. IT-Verantwortliche sollen die Server umgehend herunterfahren.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17666a8b5ede644ac027"
+  },
+  {
     "title": "Why the next infrastructure boom in APAC depends on power diversification",
     "url": "https://e27.co/why-the-next-infrastructure-boom-in-apac-depends-on-power-diversification-20260713/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -673,6 +796,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "44e0a6812bf197d0fa8e"
+  },
+  {
+    "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
+    "url": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-12T23:02:39+00:00",
+    "fetched_at": "2026-07-13T08:31:23+00:00",
+    "summary": "この記事で学べること 2026年に相次いで登場した XLIDE、xlflow・ExStruct、xlsm_devkit という3つの取り組みの設計思想の違い Excel/VBA とモダン開発環境の間にあった空白地帯が、なぜこの時期に「開発可能な領域」として動き出したのか xlsm_devkit がこの中でどのような立ち位置を取っているか、その設計判断の背景 ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5290c9afa99c8289e3ea"
   },
   {
     "title": "【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？",

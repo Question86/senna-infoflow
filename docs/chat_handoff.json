@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-13T07:26:43+00:00",
+  "generated_at": "2026-07-13T08:31:51+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 10,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 6,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 14,
-    "observe": 18
+    "medium": 16,
+    "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "Thailand’s scam epidemic is a technology problem, the solution has to be one too",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T02:00:07+00:00",
+      "published_at": "2026-07-13T07:26:39+00:00",
       "relevance_score": 16,
-      "url": "https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/",
-      "summary": "Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
       "section": "medium"
     },
     {
@@ -100,136 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2100",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:08:45+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
-      },
-      {
-        "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
-        "url": "https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-07-13T01:42:00+00:00",
-        "age_days": 0.26,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "立即科技｜企業雲端資料庫 - 存在2個漏洞"
-      },
-      {
-        "title": "[UPDATE] [hoch] OWASP ModSecurity: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2138",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:08:46+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU94039788/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-13T13:00:00+09:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "LINEヤフー株式会社が提供するiOS版LINEのアプリ内ブラウザには、任意のURLスキームを処理する際の保護が不十分なことに起因しサービス運用妨害（DoS）につながる脆弱性が存在します。"
-      },
-      {
-        "title": "GNU Wgetにおけるサーバサイドリクエストフォージェリの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU94203999/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-13T11:45:00+09:00",
-        "age_days": 0.21,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }

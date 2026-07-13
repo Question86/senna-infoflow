@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T07:26:43+00:00_
+_Generated: 2026-07-13T08:31:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `38`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-13T07:26:43+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)
 
-### 4. Thailand’s scam epidemic is a technology problem, the solution has to be one too
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-13T02:00:07+00:00`
-- url: https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/
-- summary: Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a…
+- published: `2026-07-13T07:26:39+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995
+- summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
 
 ### 5. Shubhamsaboo/awesome-llm-apps
 - source: GitHub Trending RSS All Languages Daily
