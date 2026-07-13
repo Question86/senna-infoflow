@@ -1333,6 +1333,42 @@
     "id": "65043c99117c145992cb"
   },
   {
+    "title": "M 5.0 - southeast of the Loyalty Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06d",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-13T21:21:26.040+00:00",
+    "fetched_at": "2026-07-13T21:37:14+00:00",
+    "summary": "Time 2026-07-13 21:03:37 UTC 2026-07-13 21:03:37 UTC at epicenter Location 22.946°S 171.510°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "ad97d70a128a66036495"
+  },
+  {
     "title": "M 4.8 - southeast of the Loyalty Islands",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t05y",
     "source": "USGS M4.5+ Earthquakes Past Hour",
