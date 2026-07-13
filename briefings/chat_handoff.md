@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T03:51:57+00:00_
+_Generated: 2026-07-13T05:05:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `17`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-13T03:51:57+00:00_
 - url: https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/
 - summary: Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a…
 
-### 4. GNU Wgetにおけるサーバサイドリクエストフォージェリの脆弱性
+### 4. iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-07-13T11:45:00+09:00`
-- url: https://jvn.jp/vu/JVNVU94203999/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-07-13T13:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU94039788/
+- summary: LINEヤフー株式会社が提供するiOS版LINEのアプリ内ブラウザには、任意のURLスキームを処理する際の保護が不十分なことに起因しサービス運用妨害（DoS）につながる脆弱性が存在します。
 
 ### 5. Shubhamsaboo/awesome-llm-apps
 - source: GitHub Trending RSS All Languages Daily

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T03:51:57+00:00",
+  "generated_at": "2026-07-13T05:05:32+00:00",
   "topics": {
     "ai": [
       {
@@ -45,6 +45,13 @@
         "published_at": "2026-07-13T02:08:54+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/agnes-ai-launches-agnes-2-5-flash-teases-flagship-pro-model-and-debuts-agnes-code-desktop-app-20260713/"
+      },
+      {
+        "title": "増田に常駐しているレベルの人間の質や集合知よりもAIの方がレベルが高くなってしまっていて増田の存在価値が減っている気がする",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-12T01:19:44+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260712100633"
       },
       {
         "title": "PrefectHQ/prefect",
@@ -105,9 +112,23 @@
         "published_at": "2026-07-12T22:13:42+00:00",
         "relevance_score": 5,
         "url": "https://anond.hatelabo.jp/20260713070220"
+      },
+      {
+        "title": "Update on Attacks by Threat Group APT-C-60 in 2026",
+        "source": "JPCERT/CC English Blog Atom",
+        "published_at": "2026-07-13T04:15:00+00:00",
+        "relevance_score": 3,
+        "url": "https://blogs.jpcert.or.jp/en/2026/07/apt-c-60_2026.html"
       }
     ],
     "security": [
+      {
+        "title": "iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-13T13:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94039788/"
+      },
       {
         "title": "GNU Wgetにおけるサーバサイドリクエストフォージェリの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
@@ -146,6 +167,13 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/anthropics/claude-cookbooks"
+      },
+      {
+        "title": "Gobi taps NTT to connect Japan’s tech sector with SEA startups",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-13T04:10:10+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/"
       }
     ]
   }
