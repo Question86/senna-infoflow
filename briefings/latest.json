@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-13T19:27:08+00:00",
-  "run_id": "2026-07-13T19:27:08+00:00",
+  "generated_at": "2026-07-13T20:00:40+00:00",
+  "run_id": "2026-07-13T20:00:40+00:00",
   "date": "2026-07-13",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 82
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 39,
     "observe": 43,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-13T18:21:31+00:00",
-        "fetched_at": "2026-07-13T18:21:11+00:00",
+        "published_at": "2026-07-13T20:00:28+00:00",
+        "fetched_at": "2026-07-13T20:00:02+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "192aecb90a859a69f524"
+        "id": "15c0327d8caf667a9396"
       },
       {
         "title": "Dicklesworthstone/destructive_command_guard",
@@ -2102,8 +2102,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-13T18:21:31+00:00",
-      "fetched_at": "2026-07-13T18:21:11+00:00",
+      "published_at": "2026-07-13T20:00:28+00:00",
+      "fetched_at": "2026-07-13T20:00:02+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2137,7 +2137,7 @@
         "HD",
         "LOW"
       ],
-      "id": "192aecb90a859a69f524"
+      "id": "15c0327d8caf667a9396"
     },
     {
       "title": "Dicklesworthstone/destructive_command_guard",
@@ -4163,28 +4163,56 @@
   ],
   "new_findings": [
     {
-      "title": "DevOpsとは何だったのか",
-      "url": "https://mizzy.org/blog/2026/07/13/2/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-13T14:48:26+00:00",
-      "fetched_at": "2026-07-13T19:26:37+00:00",
-      "summary": "SRE NEXT 2026の記事で、maruさん、ゆううきさん、Moriさんとの立ち話から、こんなポストをした、ということを書いた。 https://t.co/mGZbILmQRK にある「開発の時系列上の役割と、技術レイヤーの話が混ざっている」という話、maruさん、yuukiさん、moriさんと立ち話してた時に出た話で、DevOpsもそうだよね、という話に...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-13T20:00:28+00:00",
+      "fetched_at": "2026-07-13T20:00:02+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "67c0798e467675865179"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "15c0327d8caf667a9396"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "openai_news_rss",
+      "source_name": "OpenAI News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='openai.com', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
