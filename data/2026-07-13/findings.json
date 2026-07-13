@@ -176,6 +176,53 @@
     "id": "acb4abee1fb56d328efb"
   },
   {
+    "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
+    "url": "https://gigazine.net/news/20260713-claude-code-consuming-token/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-13T08:06:39+00:00",
+    "fetched_at": "2026-07-13T14:23:04+00:00",
+    "summary": "AnthropicのAIコーディング支援ツール「Claude Code」は、利用者が入力した指示を処理する前に約3万3000トークンを使用しており、AIと外部ツールを接続する共通規格「Model Context Protocol(MCP)」対応サーバーや指示ファイルなどを追加した環境では約7万5000トークンまで増えるという測定結果をAIコンサルティング企業...",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "e4455a249759424041aa"
+  },
+  {
     "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1802",
     "source": "BSI CERT-Bund Security Advisories",
@@ -971,6 +1018,28 @@
       "PINS"
     ],
     "id": "1cedceba6fca8b13503f"
+  },
+  {
+    "title": "Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-07-13T14:40:17+00:00",
+    "fetched_at": "2026-07-13T14:23:04+00:00",
+    "summary": "Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e89b24c4c7d44885f0c6"
   },
   {
     "title": "Stop automating broken processes and call it AI transformation",

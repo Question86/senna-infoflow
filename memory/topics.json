@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T13:31:05+00:00",
+  "generated_at": "2026-07-13T14:23:35+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-10T00:00:00+00:00",
         "relevance_score": 20,
         "url": "https://openai.com/academy/getting-started"
+      },
+      {
+        "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T08:06:39+00:00",
+        "relevance_score": 17,
+        "url": "https://gigazine.net/news/20260713-claude-code-consuming-token/"
       },
       {
         "title": "Thailand’s scam epidemic is a technology problem, the solution has to be one too",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-      },
-      {
-        "title": "Stop automating broken processes and call it AI transformation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-13T02:30:02+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/"
       }
     ],
     "github": [
@@ -328,6 +328,13 @@
         "published_at": "2026-07-13T09:25:00+00:00",
         "relevance_score": 14,
         "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm"
+      },
+      {
+        "title": "Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-13T14:40:17+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html"
       },
       {
         "title": "anthropics/claude-cookbooks",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T13:31:05+00:00_
+_Generated: 2026-07-13T14:23:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `67`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-13T13:31:05+00:00_
 - url: https://github.com/Shubhamsaboo/awesome-llm-apps
 - summary: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 🌟 Awesome LLM Apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Always-on Agents…
 
-### 7. Stop automating broken processes and call it AI transformation
+### 7. Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-07-13T14:40:17+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html
+- summary: Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 8. Stop automating broken processes and call it AI transformation
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-13T02:30:02+00:00`
 - url: https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/
 - summary: Everyone is doing AI now. Or at least, everyone is saying they are. Across Asia, budgets are moving, pilots are launching, and decks are full of words like “intelligent automation” and “AI-powered workflows.” And yet, a lot of teams quietly admit the results…
-
-### 8. 立即科技｜企業雲端資料庫 - 存在2個漏洞
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-07-13T01:42:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html
-- summary: 立即科技｜企業雲端資料庫 - 存在2個漏洞
 
 END OF DOCUMENT

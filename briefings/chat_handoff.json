@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-13T13:31:05+00:00",
+  "generated_at": "2026-07-13T14:23:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 2,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
-    "medium": 36,
-    "observe": 29
+    "medium": 37,
+    "observe": 30
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-07-13T14:40:17+00:00",
+      "relevance_score": 12,
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html",
+      "summary": "Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "section": "observe"
+    },
+    {
       "title": "Stop automating broken processes and call it AI transformation",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/",
       "summary": "Everyone is doing AI now. Or at least, everyone is saying they are. Across Asia, budgets are moving, pilots are launching, and decks are full of words like “intelligent automation” and “AI-powered workflows.” And yet, a lot of teams quietly admit the results…",
       "section": "observe"
-    },
-    {
-      "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-13T01:42:00+00:00",
-      "relevance_score": 11,
-      "url": "https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html",
-      "summary": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “India’s crackdown on a new WhatsApp feature risks setting a global precedent” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=35.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
-        "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-07-13T10:00:22+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 35.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps."
-      },
-      {
-        "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:26:39+00:00",
-        "age_days": 0.29,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Netwrix Password Secure: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2296",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T11:41:39+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Netwrix Password Secure ausnutzen, um beliebigen Programmcode auszuführen und Informationen offenzulegen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache Camel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2203",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T11:31:44+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren."
-      },
-      {
-        "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2289",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T10:01:39+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen oder Cross-Site-Scripting-Angriffe durchzuführen."
-      }
-    ]
-  }
+  ]
 }

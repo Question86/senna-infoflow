@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T13:31:05+00:00_
+_Generiert: 2026-07-13T14:23:35+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+67 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -56,6 +56,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um seine Privilegien zu erhöhen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに** — Score 17, observation — [Quelle](https://gigazine.net/news/20260713-claude-code-consuming-token/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-13T08:06:39+00:00`, fetched `2026-07-13T14:23:04+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: AnthropicのAIコーディング支援ツール「Claude Code」は、利用者が入力した指示を処理する前に約3万3000トークンを使用しており、AIと外部ツールを接続する共通規格「Model Context Protocol(MCP)」対応サーバーや指示ファイルなどを追加した環境では約7万5000トークンまで増えるという測定結果をAIコンサルティング企業...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1802)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph demote awesome, tutorial, clone (x0.45)
   - Kurz: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 🌟 Awesome LLM Apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Always-on Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning Free step-by-step tutorials on Unwind AI Works with Claude · Gemini · OpenAI…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-07-13T14:40:17+00:00`, fetched `2026-07-13T14:23:04+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Stop automating broken processes and call it AI transformation** — Score 12, opportunity — [Quelle](https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-13T02:30:02+00:00`, fetched `2026-07-13T02:32:52+00:00`
@@ -248,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場** — Score 5, observation — [Quelle](https://gigazine.net/news/20260713-neo-hands/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-13T08:55:09+00:00`, fetched `2026-07-13T12:42:26+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: アメリカ・カリフォルニア州に拠点を置く1X Technologiesの家事お手伝いヒューマノイドロボット「NEO」向けに、25自由度(DOF)を備え人間の腱(けん)のように駆動する「NEO's Hands」が発表されました。NEO's Handsにより、人間とほぼ同等の器用さ、力強さ、安全性、信頼性を実現するとのことです。 NEO’s Hands | An API ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
