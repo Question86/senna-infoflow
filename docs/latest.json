@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T21:37:51+00:00",
-  "run_id": "2026-07-13T21:37:51+00:00",
+  "generated_at": "2026-07-13T22:01:17+00:00",
+  "run_id": "2026-07-13T22:01:17+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-13T21:17:08+00:00",
-        "fetched_at": "2026-07-13T21:16:49+00:00",
+        "published_at": "2026-07-13T22:01:03+00:00",
+        "fetched_at": "2026-07-13T22:00:45+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "71ce81844c6b44652074"
+        "id": "71c1c6140d6c1014117c"
       },
       {
         "title": "Dicklesworthstone/destructive_command_guard",
@@ -2196,8 +2196,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-13T21:17:08+00:00",
-      "fetched_at": "2026-07-13T21:16:49+00:00",
+      "published_at": "2026-07-13T22:01:03+00:00",
+      "fetched_at": "2026-07-13T22:00:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2231,7 +2231,7 @@
         "HD",
         "LOW"
       ],
-      "id": "71ce81844c6b44652074"
+      "id": "71c1c6140d6c1014117c"
     },
     {
       "title": "Dicklesworthstone/destructive_command_guard",
@@ -4351,19 +4351,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - southeast of the Loyalty Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06d",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-13T21:21:26.040+00:00",
-      "fetched_at": "2026-07-13T21:37:14+00:00",
-      "summary": "Time 2026-07-13 21:03:37 UTC 2026-07-13 21:03:37 UTC at epicenter Location 22.946°S 171.510°E Depth 10.00 km (6.21 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-13T22:01:03+00:00",
+      "fetched_at": "2026-07-13T22:00:45+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -4384,7 +4390,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ad97d70a128a66036495"
+      "id": "71c1c6140d6c1014117c"
     }
   ],
   "source_errors": [],
