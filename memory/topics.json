@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T17:45:41+00:00",
+  "generated_at": "2026-07-13T18:21:44+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-13T15:24:57+00:00",
+        "published_at": "2026-07-13T18:21:31+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -121,6 +121,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
       },
       {
+        "title": "M 5.0 - 5 km SE of Butulan, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T17:59:21.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t048"
+      },
+      {
         "title": "M 6.3 - southeast of the Loyalty Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-13T15:21:58.047+00:00",
@@ -142,6 +149,20 @@
         "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a"
       },
       {
+        "title": "M 4.9 - South Sandwich Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T18:05:02.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t04b"
+      },
+      {
+        "title": "M 4.5 - southeast of the Loyalty Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T17:47:45.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t044"
+      },
+      {
         "title": "M 4.5 - southeast of the Loyalty Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-13T17:43:19.040+00:00",
@@ -161,27 +182,6 @@
         "published_at": "2026-07-13T08:17:56.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzw"
-      },
-      {
-        "title": "M 5.0 - southeast of the Loyalty Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-13T07:20:02.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
-      },
-      {
-        "title": "ニチレイ、不正アクセスでシステム障害 冷凍食品の出荷業務に影響 - 日本経済新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-13T15:31:55+00:00",
-        "relevance_score": 7,
-        "url": "https://www.nikkei.com/article/DGXZQOUC1383Z0T10C26A7000000/"
-      },
-      {
-        "title": "アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-13T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet"
       }
     ],
     "security": [

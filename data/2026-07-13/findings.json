@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-13T15:24:57+00:00",
-    "fetched_at": "2026-07-13T15:24:38+00:00",
+    "published_at": "2026-07-13T18:21:31+00:00",
+    "fetched_at": "2026-07-13T18:21:11+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "c47069b3b58f594285ca"
+    "id": "192aecb90a859a69f524"
   },
   {
     "title": "Dicklesworthstone/destructive_command_guard",
@@ -338,6 +338,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bb13ad243ee73fd217c9"
+  },
+  {
+    "title": "M 5.0 - 5 km SE of Butulan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t048",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-13T17:59:21.040+00:00",
+    "fetched_at": "2026-07-13T18:21:11+00:00",
+    "summary": "Time 2026-07-13 17:44:29 UTC 2026-07-13 17:44:29 UTC at epicenter Location 5.577°N 125.463°E Depth 20.41 km (12.68 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "28d96e9924ab6617f73f"
   },
   {
     "title": "[UPDATE] [hoch] OWASP ModSecurity: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
@@ -1272,6 +1309,78 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "65043c99117c145992cb"
+  },
+  {
+    "title": "M 4.9 - South Sandwich Islands region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t04b",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-13T18:05:02.040+00:00",
+    "fetched_at": "2026-07-13T18:21:11+00:00",
+    "summary": "Time 2026-07-13 17:45:19 UTC 2026-07-13 17:45:19 UTC at epicenter Location 58.601°S 25.034°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "a83722a9e5561c20ad93"
+  },
+  {
+    "title": "M 4.5 - southeast of the Loyalty Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t044",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-13T17:47:45.040+00:00",
+    "fetched_at": "2026-07-13T18:21:11+00:00",
+    "summary": "Time 2026-07-13 17:24:11 UTC 2026-07-13 17:24:11 UTC at epicenter Location 22.806°S 171.597°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "caf1ff65db6d1a798922"
   },
   {
     "title": "M 4.5 - southeast of the Loyalty Islands",

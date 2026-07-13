@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T17:45:41+00:00_
+_Generiert: 2026-07-13T18:21:44+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+80 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-13T15:24:57+00:00`, fetched `2026-07-13T15:24:38+00:00`
+  - Zeit: published `2026-07-13T18:21:31+00:00`, fetched `2026-07-13T18:21:11+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -92,6 +92,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a total of 433,725 cases of online scamming in the same period, averaging […] The post Thailand’s scam epidemic is a technology problem, the solution has to be o…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.0 - 5 km SE of Butulan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t048)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-13T17:59:21.040+00:00`, fetched `2026-07-13T18:21:11+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-13 17:44:29 UTC 2026-07-13 17:44:29 UTC at epicenter Location 5.577°N 125.463°E Depth 20.41 km (12.68 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Isabel Schnabel: How to foster growth and resilience in Europe** — Score 14, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
@@ -249,14 +258,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here ). While the cod…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - southeast of the Loyalty Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t046)
+- **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t04b)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-13T17:43:19.040+00:00`, fetched `2026-07-13T17:45:06+00:00`
+  - Zeit: published `2026-07-13T18:05:02.040+00:00`, fetched `2026-07-13T18:21:11+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-13 17:15:34 UTC 2026-07-13 17:15:34 UTC at epicenter Location 22.840°S 171.526°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-07-13 17:45:19 UTC 2026-07-13 17:45:19 UTC at epicenter Location 58.601°S 25.034°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ - JX通信社エンジニアブログ** — Score 9, observation — [Quelle](https://tech.jxpress.net/entry/2026/07/13/113000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
