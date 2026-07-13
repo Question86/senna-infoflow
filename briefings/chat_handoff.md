@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T23:30:07+00:00_
+_Generated: 2026-07-13T23:51:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `87`
+- findings: `89`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-13T23:08:09+00:00`
+- published: `2026-07-13T23:51:27+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-13T23:30:07+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n
 - summary: PAGER - GREEN ShakeMap - I Time 2026-07-13 14:45:49 UTC 2026-07-13 14:45:49 UTC at epicenter Location 22.789°S 171.520°E Depth 10.00 km (6.21 mi)
 
-### 7. M 6.4 - 191 km SE of Lorengau, Papua New Guinea
+### 7. [AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-07-13T14:30:40+00:00`
+- url: https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep
+- summary: AWS Summit Japan 2026 の Developer on Live にて発表させていただいた資料となります。
+
+### 8. M 6.4 - 191 km SE of Lorengau, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-13T09:34:32.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-13 08:53:27 UTC 2026-07-13 08:53:27 UTC at epicenter Location 3.221°S 148.522°E Depth 10.00 km (6.21 mi)
-
-### 8. Shubhamsaboo/awesome-llm-apps
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/Shubhamsaboo/awesome-llm-apps
-- summary: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 🌟 Awesome LLM Apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Always-on Agents…
 
 END OF DOCUMENT

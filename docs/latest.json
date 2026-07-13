@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T23:30:07+00:00",
-  "run_id": "2026-07-13T23:30:07+00:00",
+  "generated_at": "2026-07-13T23:51:39+00:00",
+  "run_id": "2026-07-13T23:51:39+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 87
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 87,
-    "displayed_findings": 87,
+    "new_relevant_findings": 3,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 0,
     "medium": 39,
-    "observe": 48,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-13T23:08:09+00:00",
-        "fetched_at": "2026-07-13T23:07:50+00:00",
+        "published_at": "2026-07-13T23:51:27+00:00",
+        "fetched_at": "2026-07-13T23:51:08+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "9184011a295f928e5bdc"
+        "id": "9c155c987d5cb589d3b9"
       },
       {
         "title": "Dicklesworthstone/destructive_command_guard",
@@ -1083,6 +1083,29 @@
         "id": "e53029abf52819aa86ed"
       },
       {
+        "title": "[AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive",
+        "url": "https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-13T14:30:40+00:00",
+        "fetched_at": "2026-07-13T23:51:08+00:00",
+        "summary": "AWS Summit Japan 2026 の Developer on Live にて発表させていただいた資料となります。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7f90f658269f76921383"
+      },
+      {
         "title": "M 6.4 - 191 km SE of Lorengau, Papua New Guinea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1802,6 +1825,27 @@
         "id": "d5897d069397cc09af32"
       },
       {
+        "title": "GitHub Code Quality license estimate in public preview",
+        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-13T23:39:22+00:00",
+        "fetched_at": "2026-07-13T23:51:08+00:00",
+        "summary": "You can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it… The post GitHub Code Quality license estimate in public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "204eefa941aa04311cfb"
+      },
+      {
         "title": "ニチレイ、不正アクセスでシステム障害 冷凍食品の出荷業務に影響 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOUC1383Z0T10C26A7000000/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2239,8 +2283,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-13T23:08:09+00:00",
-      "fetched_at": "2026-07-13T23:07:50+00:00",
+      "published_at": "2026-07-13T23:51:27+00:00",
+      "fetched_at": "2026-07-13T23:51:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2274,7 +2318,7 @@
         "HD",
         "LOW"
       ],
-      "id": "9184011a295f928e5bdc"
+      "id": "9c155c987d5cb589d3b9"
     },
     {
       "title": "Dicklesworthstone/destructive_command_guard",
@@ -3286,6 +3330,29 @@
       "id": "e53029abf52819aa86ed"
     },
     {
+      "title": "[AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive",
+      "url": "https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T14:30:40+00:00",
+      "fetched_at": "2026-07-13T23:51:08+00:00",
+      "summary": "AWS Summit Japan 2026 の Developer on Live にて発表させていただいた資料となります。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f90f658269f76921383"
+    },
+    {
       "title": "M 6.4 - 191 km SE of Lorengau, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4005,6 +4072,27 @@
       "id": "d5897d069397cc09af32"
     },
     {
+      "title": "GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-13T23:39:22+00:00",
+      "fetched_at": "2026-07-13T23:51:08+00:00",
+      "summary": "You can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it… The post GitHub Code Quality license estimate in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "204eefa941aa04311cfb"
+    },
+    {
       "title": "ニチレイ、不正アクセスでシステム障害 冷凍食品の出荷業務に影響 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC1383Z0T10C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4435,7 +4523,94 @@
       "id": "5ead7044cabf79371cee"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-13T23:51:27+00:00",
+      "fetched_at": "2026-07-13T23:51:08+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9c155c987d5cb589d3b9"
+    },
+    {
+      "title": "[AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive",
+      "url": "https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T14:30:40+00:00",
+      "fetched_at": "2026-07-13T23:51:08+00:00",
+      "summary": "AWS Summit Japan 2026 の Developer on Live にて発表させていただいた資料となります。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f90f658269f76921383"
+    },
+    {
+      "title": "GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-13T23:39:22+00:00",
+      "fetched_at": "2026-07-13T23:51:08+00:00",
+      "summary": "You can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it… The post GitHub Code Quality license estimate in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "204eefa941aa04311cfb"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
