@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-13T10:48:33+00:00",
+  "generated_at": "2026-07-13T11:50:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 6,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 29,
+    "medium": 35,
     "observe": 26
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "title": "[NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:51:39+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
+      "published_at": "2026-07-13T11:41:40+00:00",
+      "relevance_score": 17,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um seine Privilegien zu erhöhen.",
       "section": "medium"
     },
     {
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “India’s crackdown on a new WhatsApp feature risks setting a global precedent” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=35.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
-        "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-07-13T10:00:22+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 35.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps."
-      },
-      {
-        "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:26:39+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2289",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T10:01:39+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen oder Cross-Site-Scripting-Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [niedrig] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2287",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:56:39+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2288",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:56:39+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen."
-      }
-    ]
-  }
+  ]
 }

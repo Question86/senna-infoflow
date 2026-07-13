@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T10:48:33+00:00",
-  "run_id": "2026-07-13T10:48:33+00:00",
+  "generated_at": "2026-07-13T11:50:37+00:00",
+  "run_id": "2026-07-13T11:50:37+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 6,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 29,
+    "medium": 35,
     "observe": 26,
     "source_errors": 0
   },
@@ -157,6 +157,54 @@
           "LOW"
         ],
         "id": "bce6ddefe56a5275ad51"
+      },
+      {
+        "title": "[NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T11:41:40+00:00",
+        "fetched_at": "2026-07-13T11:50:06+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "acb4abee1fb56d328efb"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1802",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T11:31:42+00:00",
+        "fetched_at": "2026-07-13T11:50:06+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht bekannte Auswirkungen zu erzielen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f5fb81ed664b163d03da"
       },
       {
         "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -317,6 +365,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "445c258fb60f90f81c62"
+      },
+      {
+        "title": "[NEU] [hoch] Netwrix Password Secure: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2296",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T11:41:39+00:00",
+        "fetched_at": "2026-07-13T11:50:06+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Netwrix Password Secure ausnutzen, um beliebigen Programmcode auszuführen und Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e62be67c741d17930d64"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache Camel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2203",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T11:31:44+00:00",
+        "fetched_at": "2026-07-13T11:50:06+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e6557e9c772b5a8b8967"
+      },
+      {
+        "title": "[UPDATE] [mittel] Mattermost: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1932",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T11:31:43+00:00",
+        "fetched_at": "2026-07-13T11:50:06+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d64546178820261f6520"
+      },
+      {
+        "title": "[NEU] [mittel] QEMU: Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2295",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T11:31:43+00:00",
+        "fetched_at": "2026-07-13T11:50:06+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in QEMU ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e455cfd904ff0b8c4534"
       },
       {
         "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
@@ -1523,6 +1663,54 @@
       "id": "bce6ddefe56a5275ad51"
     },
     {
+      "title": "[NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T11:41:40+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "acb4abee1fb56d328efb"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1802",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T11:31:42+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht bekannte Auswirkungen zu erzielen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f5fb81ed664b163d03da"
+    },
+    {
       "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1681,6 +1869,98 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "445c258fb60f90f81c62"
+    },
+    {
+      "title": "[NEU] [hoch] Netwrix Password Secure: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2296",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T11:41:39+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Netwrix Password Secure ausnutzen, um beliebigen Programmcode auszuführen und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e62be67c741d17930d64"
+    },
+    {
+      "title": "[UPDATE] [hoch] Apache Camel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2203",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T11:31:44+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e6557e9c772b5a8b8967"
+    },
+    {
+      "title": "[UPDATE] [mittel] Mattermost: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1932",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T11:31:43+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d64546178820261f6520"
+    },
+    {
+      "title": "[NEU] [mittel] QEMU: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2295",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T11:31:43+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in QEMU ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e455cfd904ff0b8c4534"
     },
     {
       "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
@@ -2755,37 +3035,37 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114",
+      "title": "[NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:51:39+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
+      "published_at": "2026-07-13T11:41:40+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um seine Privilegien zu erhöhen.",
       "matched_keywords": [
+        "APAC Trend Radar",
         "BSI",
         "CERT-Bund",
-        "Patch",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b590d9fa72635b0c6770"
+      "id": "acb4abee1fb56d328efb"
     },
     {
-      "title": "[NEU] [mittel] Linux Kernel (xfrm: iptfs): Schwachstelle ermöglicht DoS und Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2286",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1802",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:46:40+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um möglicherweise einen Denial-of-Service-Zustand auszulösen oder Daten zu manipulieren.",
+      "published_at": "2026-07-13T11:31:42+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht bekannte Auswirkungen zu erzielen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2800,16 +3080,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "71140b1fa849d444200c"
+      "id": "f5fb81ed664b163d03da"
     },
     {
-      "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2289",
+      "title": "[NEU] [hoch] Netwrix Password Secure: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2296",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T10:01:39+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+      "published_at": "2026-07-13T11:41:39+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Netwrix Password Secure ausnutzen, um beliebigen Programmcode auszuführen und Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2823,16 +3103,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "99bc51671eba08a63658"
+      "id": "e62be67c741d17930d64"
     },
     {
-      "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2288",
+      "title": "[UPDATE] [hoch] Apache Camel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2203",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:56:39+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen.",
+      "published_at": "2026-07-13T11:31:44+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2846,16 +3126,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1dcbec4738a4190a481e"
+      "id": "e6557e9c772b5a8b8967"
     },
     {
-      "title": "[NEU] [niedrig] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2287",
+      "title": "[UPDATE] [mittel] Mattermost: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1932",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:56:39+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-07-13T11:31:43+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2869,16 +3149,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8be047326d75d51614ea"
+      "id": "d64546178820261f6520"
     },
     {
-      "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2285",
+      "title": "[NEU] [mittel] QEMU: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2295",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:46:39+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-07-13T11:31:43+00:00",
+      "fetched_at": "2026-07-13T11:50:06+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in QEMU ausnutzen, um seine Privilegien zu erhöhen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2892,48 +3172,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1580eaec1a741006984e"
-    },
-    {
-      "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
-      "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-13T10:00:22+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps.",
-      "matched_keywords": [
-        "Reputationsrisiko"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Reputationsrisiko (+7.0); recent (+1.0); watchgraph region india: India (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6d3655743ab8345fe244"
-    },
-    {
-      "title": "SimpleAI secures US$10M debt facility to acquire accounting firms across APAC",
-      "url": "https://e27.co/simpleai-secures-us10m-debt-facility-to-acquire-accounting-firms-across-apac-20260713/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-13T09:59:12+00:00",
-      "fetched_at": "2026-07-13T10:48:01+00:00",
-      "summary": "Singapore-based SimpleAI has secured a US$10 million debt facility to acquire accounting and fund administration firms across Asia Pacific, as the startup shifts from selling automation software alone to owning the service businesses where that software can be deployed. The company has also announced a US$5 million seed round, with a lead investor already committed, […] The post SimpleAI secures US$10M debt facility…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Automatisierung"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a1c9989c72fda2f605c0"
+      "id": "e455cfd904ff0b8c4534"
     }
   ],
   "source_errors": [],

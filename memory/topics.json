@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T10:48:33+00:00",
+  "generated_at": "2026-07-13T11:50:37+00:00",
   "topics": {
     "ai": [
       {
@@ -179,6 +179,20 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T11:41:40+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T11:31:42+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1802"
+      },
+      {
         "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-13T09:51:39+00:00",
@@ -221,41 +235,48 @@
         "url": "https://jvn.jp/vu/JVNVU94203999/"
       },
       {
-        "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Netwrix Password Secure: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T10:01:39+00:00",
+        "published_at": "2026-07-13T11:41:39+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2289"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2296"
       },
       {
-        "title": "[NEU] [niedrig] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[UPDATE] [hoch] Apache Camel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:56:39+00:00",
+        "published_at": "2026-07-13T11:31:44+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2287"
-      },
-      {
-        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:56:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2288"
-      },
-      {
-        "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:46:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2285"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2203"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T11:41:40+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297"
+      },
       {
         "title": "[NEU] [mittel] Linux Kernel (xfrm: iptfs): Schwachstelle ermöglicht DoS und Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-13T09:46:40+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2286"
+      },
+      {
+        "title": "[NEU] [hoch] Netwrix Password Secure: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T11:41:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2296"
+      },
+      {
+        "title": "[NEU] [mittel] QEMU: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T11:31:43+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2295"
       },
       {
         "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
@@ -298,27 +319,6 @@
         "published_at": "2026-07-13T09:36:41+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2283"
-      },
-      {
-        "title": "[NEU] [mittel] CUPS: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:36:41+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2282"
-      },
-      {
-        "title": "[NEU] [mittel] avahi daemon: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:36:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2281"
-      },
-      {
-        "title": "[NEU] [hoch] Kyverno: Schwachstelle ermöglicht Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:36:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2280"
       }
     ],
     "economy": [

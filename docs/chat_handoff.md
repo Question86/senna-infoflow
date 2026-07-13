@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T10:48:33+00:00_
+_Generated: 2026-07-13T11:50:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `61`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-13T10:48:33+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)
 
-### 4. [UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+### 4. [NEU] [hoch] Google Cloud Platform (BigQuery, Dataform, Colab Enterprise): Schwachstelle ermöglicht Privilegieneskalation
 - source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-13T09:51:39+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.
+- score: `17`
+- published: `2026-07-13T11:41:40+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2297
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um seine Privilegien zu erhöhen.
 
 ### 5. M 6.4 - 191 km SE of Lorengau, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
