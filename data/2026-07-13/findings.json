@@ -1248,6 +1248,28 @@
     "id": "6d1d94449d3bc334fe6d"
   },
   {
+    "title": "AI駆動開発_ワークフロー設計",
+    "url": "https://speakerdeck.com/mae616/aiqu-dong-kai-fa-wakuhuroshe-ji",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-13T13:45:10+00:00",
+    "fetched_at": "2026-07-13T22:24:10+00:00",
+    "summary": "Claude Codeで考える AI駆動開発のしくみづくりワークショップ セッション",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a998dbe62033978a9c3d"
+  },
+  {
     "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
     "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
