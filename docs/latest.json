@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T22:24:40+00:00",
-  "run_id": "2026-07-13T22:24:40+00:00",
+  "generated_at": "2026-07-13T22:44:38+00:00",
+  "run_id": "2026-07-13T22:44:38+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 86,
     "displayed_findings": 86,
     "high": 0,
@@ -4393,30 +4393,7 @@
       "id": "5ead7044cabf79371cee"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI駆動開発_ワークフロー設計",
-      "url": "https://speakerdeck.com/mae616/aiqu-dong-kai-fa-wakuhuroshe-ji",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-13T13:45:10+00:00",
-      "fetched_at": "2026-07-13T22:24:10+00:00",
-      "summary": "Claude Codeで考える AI駆動開発のしくみづくりワークショップ セッション",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a998dbe62033978a9c3d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
