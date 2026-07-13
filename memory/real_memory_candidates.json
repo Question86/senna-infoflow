@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-13T06:33:26Z",
+  "generated_at": "2026-07-13T07:49:48Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,7 +23,17 @@
   ],
   "current_dynamic_memory_candidates": [
     {
+      "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [hoch] OWASP ModSecurity: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
@@ -38,27 +48,17 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "[UPDATE] [mittel] RabbitMQ: Mehrere Schwachstellen",
+      "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "title": "[UPDATE] [mittel] Snipe-IT: Schwachstelle ermöglicht Offenlegung von Informationen",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Updates | ReliefWeb",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Stop automating broken processes and call it AI transformation",
+      "title": "[UPDATE] [mittel] gzip: Mehrere Schwachstellen",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
