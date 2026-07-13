@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T20:00:40+00:00_
+_Generiert: 2026-07-13T20:32:57+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -265,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Everyone is doing AI now. Or at least, everyone is saying they are. Across Asia, budgets are moving, pilots are launching, and decks are full of words like “intelligent automation” and “AI-powered workflows.” And yet, a lot of teams quietly admit the results have not quite matched the pitch. The reality: it is usually not […] The post Stop automating broken processes and call it AI transformation appeared first on e…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **densha — study Japanese in a living voxel Tokyo** — Score 11, observation — [Quelle](https://jivx.com/densha)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-13T13:08:53+00:00`, fetched `2026-07-13T20:32:21+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)
+  - Kurz: densha — ride a living voxel Tokyo and study JapaneseRide the Yamanote line through a voxel Tokyo synced to Japan's real clock, weather, and seasons. A lofi bed plays while N5 sentences are read aloud and drift by as subtitles — an ambient Japanese study room you just press play into. p�# ��
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **立即科技｜企業雲端資料庫 - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-07-13T01:42:00+00:00`, fetched `2026-07-13T03:51:29+00:00`
@@ -319,14 +328,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here ). While the cod…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t04b)
+- **M 4.8 - southeast of the Loyalty Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t05y)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-13T18:05:02.040+00:00`, fetched `2026-07-13T18:21:11+00:00`
+  - Zeit: published `2026-07-13T20:10:01.040+00:00`, fetched `2026-07-13T20:32:21+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-13 17:45:19 UTC 2026-07-13 17:45:19 UTC at epicenter Location 58.601°S 25.034°W Depth 35.00 km (21.75 mi)
+  - Kurz: Time 2026-07-13 19:48:32 UTC 2026-07-13 19:48:32 UTC at epicenter Location 23.078°S 171.544°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ - JX通信社エンジニアブログ** — Score 9, observation — [Quelle](https://tech.jxpress.net/entry/2026/07/13/113000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -336,15 +345,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは、JX通信社で CTO をしている小笠原(@yamitzky)です。 JX 通信社の Slack では、プレスリリースへの反響や、弊社の情勢調査事業に関する発信や、ニュースアプリの「NewsDigest（ニュースダイジェスト）」についての言及を監視するチャンネルがあります。皆さんの会社でも、広報部門が自社の反響を見ているので...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Piero Cipollone: Interview with Jornal de Negocios** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-13T17:00:00+00:00`, fetched `2026-07-13T17:03:04+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: Interview with Jornal de Negocios
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -356,7 +356,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `openai_news_rss` (rss): HTTPSConnectionPool(host='openai.com', port=443): Read timed out. (read timeout=8)

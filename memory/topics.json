@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T20:00:40+00:00",
+  "generated_at": "2026-07-13T20:32:57+00:00",
   "topics": {
     "ai": [
       {
@@ -142,11 +142,25 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy"
       },
       {
+        "title": "densha — study Japanese in a living voxel Tokyo",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T13:08:53+00:00",
+        "relevance_score": 11,
+        "url": "https://jivx.com/densha"
+      },
+      {
         "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-12T08:58:49+00:00",
         "relevance_score": 11,
         "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a"
+      },
+      {
+        "title": "M 4.8 - southeast of the Loyalty Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T20:10:01.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t05y"
       },
       {
         "title": "M 4.9 - South Sandwich Islands region",
@@ -168,20 +182,6 @@
         "published_at": "2026-07-13T17:43:19.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t046"
-      },
-      {
-        "title": "M 4.7 - southeast of the Loyalty Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-13T17:37:54.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t042"
-      },
-      {
-        "title": "M 4.9 - southeast of the Loyalty Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-13T08:17:56.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzw"
       }
     ],
     "security": [
