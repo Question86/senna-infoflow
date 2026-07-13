@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T11:50:37+00:00",
+  "generated_at": "2026-07-13T12:43:01+00:00",
   "topics": {
     "ai": [
       {
@@ -149,6 +149,13 @@
         "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet"
       },
       {
+        "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T08:55:09+00:00",
+        "relevance_score": 5,
+        "url": "https://gigazine.net/news/20260713-neo-hands/"
+      },
+      {
         "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-12T23:02:39+00:00",
@@ -168,13 +175,6 @@
         "published_at": "2026-07-12T22:13:42+00:00",
         "relevance_score": 5,
         "url": "https://anond.hatelabo.jp/20260713070220"
-      },
-      {
-        "title": "Update on Attacks by Threat Group APT-C-60 in 2026",
-        "source": "JPCERT/CC English Blog Atom",
-        "published_at": "2026-07-13T04:15:00+00:00",
-        "relevance_score": 3,
-        "url": "https://blogs.jpcert.or.jp/en/2026/07/apt-c-60_2026.html"
       }
     ],
     "security": [
