@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T18:54:40+00:00_
+_Generiert: 2026-07-13T19:27:08+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+82 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,6 @@ _Generiert: 2026-07-13T18:54:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].
-- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Guatemala
 - **USGS earthquake M6.3 - southeast of the Loyalty Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n)
   - Quelle: USGS
   - Zeit: `2026-07-13T14:45:49+00:00`

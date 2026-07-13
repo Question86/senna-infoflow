@@ -1756,6 +1756,27 @@
     "id": "44e0a6812bf197d0fa8e"
   },
   {
+    "title": "DevOpsとは何だったのか",
+    "url": "https://mizzy.org/blog/2026/07/13/2/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-13T14:48:26+00:00",
+    "fetched_at": "2026-07-13T19:26:37+00:00",
+    "summary": "SRE NEXT 2026の記事で、maruさん、ゆううきさん、Moriさんとの立ち話から、こんなポストをした、ということを書いた。 https://t.co/mGZbILmQRK にある「開発の時系列上の役割と、技術レイヤーの話が混ざっている」という話、maruさん、yuukiさん、moriさんと立ち話してた時に出た話で、DevOpsもそうだよね、という話に...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "67c0798e467675865179"
+  },
+  {
     "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
     "url": "https://gigazine.net/news/20260713-neo-hands/",
     "source": "Hatena Bookmark Hotentry IT",

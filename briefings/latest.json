@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T18:54:40+00:00",
-  "run_id": "2026-07-13T18:54:40+00:00",
+  "generated_at": "2026-07-13T19:27:08+00:00",
+  "run_id": "2026-07-13T19:27:08+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 39,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1786,6 +1786,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "44e0a6812bf197d0fa8e"
+      },
+      {
+        "title": "DevOpsとは何だったのか",
+        "url": "https://mizzy.org/blog/2026/07/13/2/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-13T14:48:26+00:00",
+        "fetched_at": "2026-07-13T19:26:37+00:00",
+        "summary": "SRE NEXT 2026の記事で、maruさん、ゆううきさん、Moriさんとの立ち話から、こんなポストをした、ということを書いた。 https://t.co/mGZbILmQRK にある「開発の時系列上の役割と、技術レイヤーの話が混ざっている」という話、maruさん、yuukiさん、moriさんと立ち話してた時に出た話で、DevOpsもそうだよね、という話に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "67c0798e467675865179"
       },
       {
         "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
@@ -3833,6 +3854,27 @@
       "id": "44e0a6812bf197d0fa8e"
     },
     {
+      "title": "DevOpsとは何だったのか",
+      "url": "https://mizzy.org/blog/2026/07/13/2/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T14:48:26+00:00",
+      "fetched_at": "2026-07-13T19:26:37+00:00",
+      "summary": "SRE NEXT 2026の記事で、maruさん、ゆううきさん、Moriさんとの立ち話から、こんなポストをした、ということを書いた。 https://t.co/mGZbILmQRK にある「開発の時系列上の役割と、技術レイヤーの話が混ざっている」という話、maruさん、yuukiさん、moriさんと立ち話してた時に出た話で、DevOpsもそうだよね、という話に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "67c0798e467675865179"
+    },
+    {
       "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
       "url": "https://gigazine.net/news/20260713-neo-hands/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4121,26 +4163,25 @@
   ],
   "new_findings": [
     {
-      "title": "「声の権利」国が指針明記へ AIで無断生成が横行 | NEWSjp",
-      "url": "https://news.jp/i/1449297478715949466?c=39550187727945729",
+      "title": "DevOpsとは何だったのか",
+      "url": "https://mizzy.org/blog/2026/07/13/2/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-13T07:23:10+00:00",
-      "fetched_at": "2026-07-13T18:54:10+00:00",
-      "summary": "著名人の声や肖像が人工知能（AI）で生成される被害に関し、法的対応策を議論する法務省の有識者検討会が13日開かれ、法務省が指針の原案を示した。声も肖像と同様に「みだりに利用されない権利」や、商業利用を独占するパブリシティー権の保護対象になると明記。異論は出ず、大筋で了承される見通しだ。AIの進化で偽動...",
+      "published_at": "2026-07-13T14:48:26+00:00",
+      "fetched_at": "2026-07-13T19:26:37+00:00",
+      "summary": "SRE NEXT 2026の記事で、maruさん、ゆううきさん、Moriさんとの立ち話から、こんなポストをした、ということを書いた。 https://t.co/mGZbILmQRK にある「開発の時系列上の役割と、技術レイヤーの話が混ざっている」という話、maruさん、yuukiさん、moriさんと立ち話してた時に出た話で、DevOpsもそうだよね、という話に...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8406f18fd5a869c45cec"
+      "id": "67c0798e467675865179"
     }
   ],
   "source_errors": [],
