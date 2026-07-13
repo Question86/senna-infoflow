@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-13T06:14:20+00:00",
-    "fetched_at": "2026-07-13T06:14:02+00:00",
+    "published_at": "2026-07-13T07:26:32+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "5f65a2da1abbe7429b23"
+    "id": "f9efb5f09c85b6eaadf8"
   },
   {
     "title": "Dicklesworthstone/destructive_command_guard",
@@ -150,6 +150,29 @@
     "id": "bb13ad243ee73fd217c9"
   },
   {
+    "title": "[UPDATE] [hoch] OWASP ModSecurity: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2138",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:08:46+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0687c4abee6b787d07f1"
+  },
+  {
     "title": "iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性",
     "url": "https://jvn.jp/vu/JVNVU94039788/",
     "source": "JVN Japan Vulnerability Notes",
@@ -192,6 +215,121 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "445c258fb60f90f81c62"
+  },
+  {
+    "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2239",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:22:03+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "814e283478e9523be792"
+  },
+  {
+    "title": "[UPDATE] [mittel] Snipe-IT: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2144",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:08:46+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a9319de2a226f6fa1731"
+  },
+  {
+    "title": "[UPDATE] [mittel] gzip: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2126",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:08:45+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in gzip ausnutzen, um Dateien zu manipulieren und um vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f93cf493d8b13842e720"
+  },
+  {
+    "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2100",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:08:45+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c66d0f541babf0c6bd1e"
+  },
+  {
+    "title": "[UPDATE] [hoch] PowerDNS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2091",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:08:44+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in PowerDNS ausnutzen, um Denial-of-Service-Zustände herbeizuführen, DNS-Caches zu manipulieren, Sicherheitsprüfungen zu umgehen, vertrauliche Informationen offenzulegen, DNSSEC-Validierungen zu beeinträchtigen oder die Integrität und Verfügbarkeit der DNS-Auflösung zu beeinflussen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "65cae291b1a8cecd7e51"
   },
   {
     "title": "[UPDATE] [mittel] RabbitMQ: Mehrere Schwachstellen",
@@ -397,6 +535,63 @@
     "id": "65043c99117c145992cb"
   },
   {
+    "title": "M 5.0 - southeast of the Loyalty Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-13T07:20:02.040+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Time 2026-07-13 06:45:31 UTC 2026-07-13 06:45:31 UTC at epicenter Location 22.865°S 171.547°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8a9fa14f0f7171457e58"
+  },
+  {
+    "title": "Seasonal product cycles: Why some features only work at certain times",
+    "url": "https://e27.co/seasonal-product-cycles-why-some-features-only-work-at-certain-times-20260713/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-13T06:19:05+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "Product teams are trained to ask familiar questions. Who is the user? What problem are we solving? How often does it occur? How painful is it? What is the willingness to pay? Those questions matter, but there is another one that quietly shapes adoption far more than many teams admit. When does this problem actually […] The post Seasonal product cycles: Why some features only work at certain times appeared first on e…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Public Health"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d165855588ce72fcf51"
+  },
+  {
     "title": "Gobi taps NTT to connect Japan’s tech sector with SEA startups",
     "url": "https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -478,6 +673,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "44e0a6812bf197d0fa8e"
+  },
+  {
+    "title": "【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？",
+    "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-12T22:28:44+00:00",
+    "fetched_at": "2026-07-13T07:26:10+00:00",
+    "summary": "【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5bed36f695ca80814961"
   },
   {
     "title": "はてブのコメントで警告もらった",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T06:14:31+00:00_
+_Generiert: 2026-07-13T07:26:43+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -67,7 +67,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-13T06:14:20+00:00`, fetched `2026-07-13T06:14:02+00:00`
+  - Zeit: published `2026-07-13T07:26:32+00:00`, fetched `2026-07-13T07:26:10+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -101,6 +101,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a total of 433,725 cases of online scamming in the same period, averaging […] The post Thailand’s scam epidemic is a technology problem, the solution has to be o…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] OWASP ModSecurity: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen** — Score 15, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2138)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-13T07:08:46+00:00`, fetched `2026-07-13T07:26:10+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94039788/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-13T13:00:00+09:00`, fetched `2026-07-13T05:04:57+00:00`
@@ -119,14 +128,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] RabbitMQ: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1994)
+- **[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2239)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-13T05:46:40+00:00`, fetched `2026-07-13T06:14:02+00:00`
+  - Zeit: published `2026-07-13T07:22:03+00:00`, fetched `2026-07-13T07:26:10+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um Daten zu manipulieren, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Snipe-IT: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2144)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-13T07:08:46+00:00`, fetched `2026-07-13T07:26:10+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Most AI pilots die in week six. Here’s what LinqAlpha does differently** — Score 14, observation — [Quelle](https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -194,15 +212,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here ). While the cod…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Gobi taps NTT to connect Japan’s tech sector with SEA startups** — Score 9, opportunity — [Quelle](https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/)
+- **M 5.0 - southeast of the Loyalty Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-13T07:20:02.040+00:00`, fetched `2026-07-13T07:26:10+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-13 06:45:31 UTC 2026-07-13 06:45:31 UTC at epicenter Location 22.865°S 171.547°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Seasonal product cycles: Why some features only work at certain times** — Score 9, observation — [Quelle](https://e27.co/seasonal-product-cycles-why-some-features-only-work-at-certain-times-20260713/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-13T04:10:10+00:00`, fetched `2026-07-13T05:04:57+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+  - Zeit: published `2026-07-13T06:19:05+00:00`, fetched `2026-07-13T07:26:10+00:00`
+  - Treffer: APAC Trend Radar, Public Health
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Gobi Partners has entered into a strategic collaboration with Japanese technology and telecommunications group NTT, less than a year after the VC firm expanded into Japan, as it looks to build more structured links between Japanese corporates and Southeast Asian startups. The collaboration will focus on startup matching, business validation, proof-of-concept projects and cross-border commercial […] The post Gobi tap…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: Product teams are trained to ask familiar questions. Who is the user? What problem are we solving? How often does it occur? How painful is it? What is the willingness to pay? Those questions matter, but there is another one that quietly shapes adoption far more than many teams admit. When does this problem actually […] The post Seasonal product cycles: Why some features only work at certain times appeared first on e…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-13T06:00:00+00:00`, fetched `2026-07-13T06:14:02+00:00`
@@ -212,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-12T22:28:44+00:00`, fetched `2026-07-13T07:26:10+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **はてブのコメントで警告もらった** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260713070220)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-12T22:13:42+00:00`, fetched `2026-07-13T01:37:40+00:00`
@@ -220,15 +256,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 死ねだの死んだほうがいいだの殺したいだの書いてたら、 「おめー、ガイドライン違反のコメント多すぎ、次やったら無警告強制でアカウント非公開にするからな、これが最後の警告」 というお知らせをはてなからもらったのだが、 「ほんとならとっくに非公開処置してるんだけど、おめえは長年はてな使ってっからちょっとだ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **増田に常駐しているレベルの人間の質や集合知よりもAIの方がレベルが高くなってしまっていて増田の存在価値が減っている気がする** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260712100633)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-12T01:19:44+00:00`, fetched `2026-07-13T05:04:57+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 実質はてブのランキングに入るための文章置き場としてしか意味がない状態というか まだ爆サイとかの方がAIに苦手な返答が制限される分野の情報がある分マシになってしまっている気がする
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PrefectHQ/prefect** — Score 5, observation — [Quelle](https://github.com/PrefectHQ/prefect)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
