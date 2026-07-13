@@ -108,6 +108,28 @@
     "id": "bb13ad243ee73fd217c9"
   },
   {
+    "title": "GNU Wgetにおけるサーバサイドリクエストフォージェリの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU94203999/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-13T11:45:00+09:00",
+    "fetched_at": "2026-07-13T03:51:29+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "445c258fb60f90f81c62"
+  },
+  {
     "title": "Shubhamsaboo/awesome-llm-apps",
     "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -177,6 +199,50 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0ac7a62da55d4be45bfe"
+  },
+  {
+    "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-13T01:42:00+00:00",
+    "fetched_at": "2026-07-13T03:51:29+00:00",
+    "summary": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a1cd33894e0185ba4a50"
+  },
+  {
+    "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
+    "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-12T08:58:49+00:00",
+    "fetched_at": "2026-07-13T03:51:29+00:00",
+    "summary": "はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何から手を付ければ…」となっている新卒・若手エンジニア...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6d1d94449d3bc334fe6d"
   },
   {
     "title": "Funded: US$37 billion was promised to SEA climate, where did it go?",

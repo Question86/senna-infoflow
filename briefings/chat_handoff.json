@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-13T02:33:23+00:00",
+  "generated_at": "2026-07-13T03:51:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 3,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 3,
-    "observe": 7
+    "medium": 4,
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "medium"
     },
     {
+      "title": "GNU Wgetにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-13T11:45:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU94203999/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
       "title": "Shubhamsaboo/awesome-llm-apps",
       "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
@@ -65,23 +75,23 @@
       "section": "observe"
     },
     {
-      "title": "Funded: US$37 billion was promised to SEA climate, where did it go?",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-07-13T01:00:40+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/funded-us37-billion-was-promised-to-sea-climate-where-did-it-go-20260710/",
-      "summary": "I want to tell you about a number that should make every climate founder in Southeast Asia angry. US$37 billion. That’s the combined JETP commitment across Indonesia and Vietnam alone. Indonesia signed for US$21.6 billion. Vietnam signed for US$15.5 billion.…",
+      "published_at": "2026-07-13T01:42:00+00:00",
+      "relevance_score": 11,
+      "url": "https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html",
+      "summary": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
       "section": "observe"
     },
     {
-      "title": "anthropics/claude-cookbooks",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 10,
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "summary": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integra…",
+      "published_at": "2026-07-12T08:58:49+00:00",
+      "relevance_score": 11,
+      "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
+      "summary": "はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何から手を付ければ…」となっている新卒・若手エンジニア...",
       "section": "observe"
     }
   ],
@@ -90,147 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 24.03,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -1.1 for 24.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Shubhamsaboo/awesome-llm-apps",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-13T02:32:52+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 🌟 Awesome LLM Apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Always-on Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Age…"
-      },
-      {
-        "title": "Stop automating broken processes and call it AI transformation",
-        "url": "https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-13T02:30:02+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Everyone is doing AI now. Or at least, everyone is saying they are. Across Asia, budgets are moving, pilots are launching, and decks are full of words like “intelligent automation” and “AI-powered workflows.” And yet, a lot of teams quietly admit the results have not quite matched the pitch. The reality: it is usually…"
-      },
-      {
-        "title": "M 5.4 - 24 km W of Mabiton, Philippines",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-13T01:37:03.040+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "Dicklesworthstone/destructive_command_guard",
-        "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-13T02:32:52+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. dcg (Destructive Command Guard) A high-performance hook for AI coding agents that blocks destructive commands before they execute, protecting your work from accidental deletion across Claude Code, Codex…"
-      }
-    ]
-  }
+  ]
 }

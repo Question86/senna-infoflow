@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T02:33:23+00:00",
+  "generated_at": "2026-07-13T03:51:57+00:00",
   "topics": {
     "ai": [
       {
@@ -93,11 +93,34 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
       },
       {
+        "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-12T08:58:49+00:00",
+        "relevance_score": 11,
+        "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a"
+      },
+      {
         "title": "はてブのコメントで警告もらった",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-12T22:13:42+00:00",
         "relevance_score": 5,
         "url": "https://anond.hatelabo.jp/20260713070220"
+      }
+    ],
+    "security": [
+      {
+        "title": "GNU Wgetにおけるサーバサイドリクエストフォージェリの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-13T11:45:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94203999/"
+      },
+      {
+        "title": "立即科技｜企業雲端資料庫 - 存在2個漏洞",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-07-13T01:42:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html"
       }
     ],
     "geopolitics": [
