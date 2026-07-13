@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T09:47:03+00:00_
+_Generiert: 2026-07-13T10:48:33+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-13T09:51:39+00:00`, fetched `2026-07-13T10:48:01+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [mittel] Linux Kernel (xfrm: iptfs): Schwachstelle ermöglicht DoS und Manipulation von Daten** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2286)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-13T09:46:40+00:00`, fetched `2026-07-13T10:48:01+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um möglicherweise einen Denial-of-Service-Zustand auszulösen oder Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-13T07:26:39+00:00`, fetched `2026-07-13T08:31:23+00:00`
@@ -118,15 +136,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a total of 433,725 cases of online scamming in the same period, averaging […] The post Thailand’s scam epidemic is a technology problem, the solution has to be o…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] OWASP ModSecurity: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen** — Score 15, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2138)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-13T07:08:46+00:00`, fetched `2026-07-13T07:26:10+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94039788/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-13T13:00:00+09:00`, fetched `2026-07-13T05:04:57+00:00`
@@ -145,15 +154,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2062)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-13T09:42:01+00:00`, fetched `2026-07-13T09:46:35+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bowman, Modernizing Financial Regulation** — Score 14, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-07-13T09:25:00+00:00`, fetched `2026-07-13T09:46:35+00:00`
@@ -220,6 +220,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何から手を付ければ…」となっている新卒・若手エンジニア...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **India’s crackdown on a new WhatsApp feature risks setting a global precedent** — Score 10, risk — [Quelle](https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-13T10:00:22+00:00`, fetched `2026-07-13T10:48:01+00:00`
+  - Treffer: Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Reputationsrisiko (+7.0); recent (+1.0); watchgraph region india: India (+2.0)
+  - Kurz: If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **SimpleAI secures US$10M debt facility to acquire accounting firms across APAC** — Score 10, opportunity — [Quelle](https://e27.co/simpleai-secures-us10m-debt-facility-to-acquire-accounting-firms-across-apac-20260713/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-13T09:59:12+00:00`, fetched `2026-07-13T10:48:01+00:00`
+  - Treffer: APAC Trend Radar, Automatisierung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore-based SimpleAI has secured a US$10 million debt facility to acquire accounting and fund administration firms across Asia Pacific, as the startup shifts from selling automation software alone to owning the service businesses where that software can be deployed. The company has also announced a US$5 million seed round, with a lead investor already committed, […] The post SimpleAI secures US$10M debt facility…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Funded: US$37 billion was promised to SEA climate, where did it go?** — Score 10, observation — [Quelle](https://e27.co/funded-us37-billion-was-promised-to-sea-climate-where-did-it-go-20260710/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-13T01:00:40+00:00`, fetched `2026-07-13T01:37:40+00:00`
@@ -256,15 +274,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-13 06:45:31 UTC 2026-07-13 06:45:31 UTC at epicenter Location 22.865°S 171.547°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Seasonal product cycles: Why some features only work at certain times** — Score 9, observation — [Quelle](https://e27.co/seasonal-product-cycles-why-some-features-only-work-at-certain-times-20260713/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-13T06:19:05+00:00`, fetched `2026-07-13T07:26:10+00:00`
-  - Treffer: APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
-  - Kurz: Product teams are trained to ask familiar questions. Who is the user? What problem are we solving? How often does it occur? How painful is it? What is the willingness to pay? Those questions matter, but there is another one that quietly shapes adoption far more than many teams admit. When does this problem actually […] The post Seasonal product cycles: Why some features only work at certain times appeared first on e…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-hochriskante-Sicherheitsluecken-11362432.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-13T08:16:00.000+00:00`, fetched `2026-07-13T08:31:23+00:00`
@@ -300,15 +309,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab（1/2 ページ） AI開発企業のAIdeaLab（東京都千代田区）は7月13日、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）の正式版を無償で公開した。ライセンスは商用利用もできる「Apache-2.0」。アニメ特化の動画生成AI...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit** — Score 5, observation — [Quelle](https://zenn.dev/minipoisson/articles/excel-vba-modern-dev)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-12T23:02:39+00:00`, fetched `2026-07-13T08:31:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: この記事で学べること 2026年に相次いで登場した XLIDE、xlflow・ExStruct、xlsm_devkit という3つの取り組みの設計思想の違い Excel/VBA とモダン開発環境の間にあった空白地帯が、なぜこの時期に「開発可能な領域」として動き出したのか xlsm_devkit がこの中でどのような立ち位置を取っているか、その設計判断の背景 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T09:47:03+00:00",
-  "run_id": "2026-07-13T09:47:03+00:00",
+  "generated_at": "2026-07-13T10:48:33+00:00",
+  "run_id": "2026-07-13T10:48:33+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 8,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
-    "medium": 23,
-    "observe": 24,
+    "medium": 29,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -159,6 +159,54 @@
         "id": "bce6ddefe56a5275ad51"
       },
       {
+        "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T09:51:39+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b590d9fa72635b0c6770"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel (xfrm: iptfs): Schwachstelle ermöglicht DoS und Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2286",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T09:46:40+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um möglicherweise einen Denial-of-Service-Zustand auszulösen oder Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "71140b1fa849d444200c"
+      },
+      {
         "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995",
         "source": "BSI CERT-Bund Security Advisories",
@@ -269,6 +317,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "445c258fb60f90f81c62"
+      },
+      {
+        "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2289",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T10:01:39+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "99bc51671eba08a63658"
+      },
+      {
+        "title": "[NEU] [niedrig] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2287",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T09:56:39+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8be047326d75d51614ea"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2288",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T09:56:39+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1dcbec4738a4190a481e"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2285",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-13T09:46:39+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1580eaec1a741006984e"
       },
       {
         "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -766,6 +906,47 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6d1d94449d3bc334fe6d"
+      },
+      {
+        "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
+        "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-13T10:00:22+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps.",
+        "matched_keywords": [
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Reputationsrisiko (+7.0); recent (+1.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6d3655743ab8345fe244"
+      },
+      {
+        "title": "SimpleAI secures US$10M debt facility to acquire accounting firms across APAC",
+        "url": "https://e27.co/simpleai-secures-us10m-debt-facility-to-acquire-accounting-firms-across-apac-20260713/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-13T09:59:12+00:00",
+        "fetched_at": "2026-07-13T10:48:01+00:00",
+        "summary": "Singapore-based SimpleAI has secured a US$10 million debt facility to acquire accounting and fund administration firms across Asia Pacific, as the startup shifts from selling automation software alone to owning the service businesses where that software can be deployed. The company has also announced a US$5 million seed round, with a lead investor already committed, […] The post SimpleAI secures US$10M debt facility…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Automatisierung"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a1c9989c72fda2f605c0"
       },
       {
         "title": "Funded: US$37 billion was promised to SEA climate, where did it go?",
@@ -1342,6 +1523,54 @@
       "id": "bce6ddefe56a5275ad51"
     },
     {
+      "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T09:51:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b590d9fa72635b0c6770"
+    },
+    {
+      "title": "[NEU] [mittel] Linux Kernel (xfrm: iptfs): Schwachstelle ermöglicht DoS und Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2286",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T09:46:40+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um möglicherweise einen Denial-of-Service-Zustand auszulösen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "71140b1fa849d444200c"
+    },
+    {
       "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1452,6 +1681,98 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "445c258fb60f90f81c62"
+    },
+    {
+      "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2289",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T10:01:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99bc51671eba08a63658"
+    },
+    {
+      "title": "[NEU] [niedrig] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2287",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T09:56:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8be047326d75d51614ea"
+    },
+    {
+      "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2288",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T09:56:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1dcbec4738a4190a481e"
+    },
+    {
+      "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2285",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T09:46:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1580eaec1a741006984e"
     },
     {
       "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -1949,6 +2270,47 @@
       "id": "6d1d94449d3bc334fe6d"
     },
     {
+      "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
+      "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-13T10:00:22+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps.",
+      "matched_keywords": [
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Reputationsrisiko (+7.0); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d3655743ab8345fe244"
+    },
+    {
+      "title": "SimpleAI secures US$10M debt facility to acquire accounting firms across APAC",
+      "url": "https://e27.co/simpleai-secures-us10m-debt-facility-to-acquire-accounting-firms-across-apac-20260713/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-13T09:59:12+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Singapore-based SimpleAI has secured a US$10 million debt facility to acquire accounting and fund administration firms across Asia Pacific, as the startup shifts from selling automation software alone to owning the service businesses where that software can be deployed. The company has also announced a US$5 million seed round, with a lead investor already committed, […] The post SimpleAI secures US$10M debt facility…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Automatisierung"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1c9989c72fda2f605c0"
+    },
+    {
       "title": "Funded: US$37 billion was promised to SEA climate, where did it go?",
       "url": "https://e27.co/funded-us37-billion-was-promised-to-sea-climate-where-did-it-go-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2393,13 +2755,61 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2062",
+      "title": "[UPDATE] [UNGEPATCHT] [niedrig] 7-Zip: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2114",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:42:01+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-07-13T09:51:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b590d9fa72635b0c6770"
+    },
+    {
+      "title": "[NEU] [mittel] Linux Kernel (xfrm: iptfs): Schwachstelle ermöglicht DoS und Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2286",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T09:46:40+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um möglicherweise einen Denial-of-Service-Zustand auszulösen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "71140b1fa849d444200c"
+    },
+    {
+      "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2289",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-13T10:01:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen oder Cross-Site-Scripting-Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2413,16 +2823,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "969bfcea6004c220faf3"
+      "id": "99bc51671eba08a63658"
     },
     {
-      "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2284",
+      "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2288",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:41:39+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Coolify ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-13T09:56:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2436,16 +2846,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4037a50ce84939791f24"
+      "id": "1dcbec4738a4190a481e"
     },
     {
-      "title": "[NEU] [mittel] MailPit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2283",
+      "title": "[NEU] [niedrig] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2287",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:36:41+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MailPit ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-13T09:56:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2459,16 +2869,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "005ebf6a0a0b02ebcf53"
+      "id": "8be047326d75d51614ea"
     },
     {
-      "title": "[NEU] [mittel] CUPS: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2282",
+      "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2285",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:36:41+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CUPS ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-07-13T09:46:39+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2482,134 +2892,48 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d72876b34d8b48e15dcd"
+      "id": "1580eaec1a741006984e"
     },
     {
-      "title": "[NEU] [mittel] avahi daemon: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2281",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
+      "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:36:40+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in avahi daemon ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-07-13T10:00:22+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Reputationsrisiko"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 10,
+      "relevance_reason": "Reputationsrisiko (+7.0); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d62b36f6f620d702602c"
+      "id": "6d3655743ab8345fe244"
     },
     {
-      "title": "[NEU] [hoch] Kyverno: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2280",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "SimpleAI secures US$10M debt facility to acquire accounting firms across APAC",
+      "url": "https://e27.co/simpleai-secures-us10m-debt-facility-to-acquire-accounting-firms-across-apac-20260713/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-13T09:36:40+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Kyverno ausnutzen, um seine Privilegien zu erhöhen.",
+      "published_at": "2026-07-13T09:59:12+00:00",
+      "fetched_at": "2026-07-13T10:48:01+00:00",
+      "summary": "Singapore-based SimpleAI has secured a US$10 million debt facility to acquire accounting and fund administration firms across Asia Pacific, as the startup shifts from selling automation software alone to owning the service businesses where that software can be deployed. The company has also announced a US$5 million seed round, with a lead investor already committed, […] The post SimpleAI secures US$10M debt facility…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "Automatisierung"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dc28476cc458e9b2ca03"
-    },
-    {
-      "title": "Bowman, Modernizing Financial Regulation",
-      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-07-13T09:25:00+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "Speech At a Bank Policy Institute London Conference, London, United Kingdom",
-      "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6ccab92775fb3c43bf6c"
-    },
-    {
-      "title": "M 6.4 - 191 km SE of Lorengau, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-13T09:34:32.040+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-13 08:53:27 UTC 2026-07-13 08:53:27 UTC at epicenter Location 3.221°S 148.522°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9c78d6c5acb562705513"
-    },
-    {
-      "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-13T07:09:42+00:00",
-      "fetched_at": "2026-07-13T09:46:35+00:00",
-      "summary": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab（1/2 ページ） AI開発企業のAIdeaLab（東京都千代田区）は7月13日、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）の正式版を無償で公開した。ライセンスは商用利用もできる「Apache-2.0」。アニメ特化の動画生成AI...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c7909387200bec690fd9"
+      "id": "a1c9989c72fda2f605c0"
     }
   ],
   "source_errors": [],
