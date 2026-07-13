@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T18:21:44+00:00",
-  "run_id": "2026-07-13T18:21:44+00:00",
+  "generated_at": "2026-07-13T18:54:40+00:00",
+  "run_id": "2026-07-13T18:54:40+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 81
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 1,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
     "medium": 39,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1641,6 +1641,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e7f9138c70b889c55803"
+      },
+      {
+        "title": "「声の権利」国が指針明記へ AIで無断生成が横行 | NEWSjp",
+        "url": "https://news.jp/i/1449297478715949466?c=39550187727945729",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-13T07:23:10+00:00",
+        "fetched_at": "2026-07-13T18:54:10+00:00",
+        "summary": "著名人の声や肖像が人工知能（AI）で生成される被害に関し、法的対応策を議論する法務省の有識者検討会が13日開かれ、法務省が指針の原案を示した。声も肖像と同様に「みだりに利用されない権利」や、商業利用を独占するパブリシティー権の保護対象になると明記。異論は出ず、大筋で了承される見通しだ。AIの進化で偽動...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8406f18fd5a869c45cec"
       },
       {
         "title": "Agnes AI launches Agnes-2.5-Flash, teases flagship Pro model, and debuts Agnes Code desktop app",
@@ -3666,6 +3688,28 @@
       "id": "e7f9138c70b889c55803"
     },
     {
+      "title": "「声の権利」国が指針明記へ AIで無断生成が横行 | NEWSjp",
+      "url": "https://news.jp/i/1449297478715949466?c=39550187727945729",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T07:23:10+00:00",
+      "fetched_at": "2026-07-13T18:54:10+00:00",
+      "summary": "著名人の声や肖像が人工知能（AI）で生成される被害に関し、法的対応策を議論する法務省の有識者検討会が13日開かれ、法務省が指針の原案を示した。声も肖像と同様に「みだりに利用されない権利」や、商業利用を独占するパブリシティー権の保護対象になると明記。異論は出ず、大筋で了承される見通しだ。AIの進化で偽動...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8406f18fd5a869c45cec"
+    },
+    {
       "title": "Agnes AI launches Agnes-2.5-Flash, teases flagship Pro model, and debuts Agnes Code desktop app",
       "url": "https://e27.co/agnes-ai-launches-agnes-2-5-flash-teases-flagship-pro-model-and-debuts-agnes-code-desktop-app-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -4077,155 +4121,26 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-13T18:21:31+00:00",
-      "fetched_at": "2026-07-13T18:21:11+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "192aecb90a859a69f524"
-    },
-    {
-      "title": "M 5.0 - 5 km SE of Butulan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t048",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "「声の権利」国が指針明記へ AIで無断生成が横行 | NEWSjp",
+      "url": "https://news.jp/i/1449297478715949466?c=39550187727945729",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-13T17:59:21.040+00:00",
-      "fetched_at": "2026-07-13T18:21:11+00:00",
-      "summary": "Time 2026-07-13 17:44:29 UTC 2026-07-13 17:44:29 UTC at epicenter Location 5.577°N 125.463°E Depth 20.41 km (12.68 mi)",
+      "published_at": "2026-07-13T07:23:10+00:00",
+      "fetched_at": "2026-07-13T18:54:10+00:00",
+      "summary": "著名人の声や肖像が人工知能（AI）で生成される被害に関し、法的対応策を議論する法務省の有識者検討会が13日開かれ、法務省が指針の原案を示した。声も肖像と同様に「みだりに利用されない権利」や、商業利用を独占するパブリシティー権の保護対象になると明記。異論は出ず、大筋で了承される見通しだ。AIの進化で偽動...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "28d96e9924ab6617f73f"
-    },
-    {
-      "title": "M 4.9 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t04b",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-13T18:05:02.040+00:00",
-      "fetched_at": "2026-07-13T18:21:11+00:00",
-      "summary": "Time 2026-07-13 17:45:19 UTC 2026-07-13 17:45:19 UTC at epicenter Location 58.601°S 25.034°W Depth 35.00 km (21.75 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "a83722a9e5561c20ad93"
-    },
-    {
-      "title": "M 4.5 - southeast of the Loyalty Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t044",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-13T17:47:45.040+00:00",
-      "fetched_at": "2026-07-13T18:21:11+00:00",
-      "summary": "Time 2026-07-13 17:24:11 UTC 2026-07-13 17:24:11 UTC at epicenter Location 22.806°S 171.597°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "caf1ff65db6d1a798922"
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8406f18fd5a869c45cec"
     }
   ],
   "source_errors": [],
