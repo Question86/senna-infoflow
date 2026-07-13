@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T17:03:37+00:00",
+  "generated_at": "2026-07-13T17:45:41+00:00",
   "topics": {
     "ai": [
       {
@@ -142,6 +142,20 @@
         "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a"
       },
       {
+        "title": "M 4.5 - southeast of the Loyalty Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T17:43:19.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t046"
+      },
+      {
+        "title": "M 4.7 - southeast of the Loyalty Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T17:37:54.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t042"
+      },
+      {
         "title": "M 4.9 - southeast of the Loyalty Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-13T08:17:56.040+00:00",
@@ -168,20 +182,6 @@
         "published_at": "2026-07-13T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet"
-      },
-      {
-        "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-13T08:55:09+00:00",
-        "relevance_score": 5,
-        "url": "https://gigazine.net/news/20260713-neo-hands/"
-      },
-      {
-        "title": "スマホは本当に会話を「盗聴」して広告を出しているのか？ 専門調査と最新事例から考える",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-13T08:02:58+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/mobile/articles/2607/13/news073.html"
       }
     ],
     "security": [
