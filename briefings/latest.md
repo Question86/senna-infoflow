@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T08:31:51+00:00_
+_Generiert: 2026-07-13T09:47:03+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-07-13T08:31:51+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551590)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551279)
   - Quelle: GDACS
   - Zeit: ``
@@ -41,6 +45,10 @@ _Generiert: 2026-07-13T08:31:51+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Bangladesh
+- **USGS earthquake M6.4 - 191 km SE of Lorengau, Papua New Guinea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy)
+  - Quelle: USGS
+  - Zeit: `2026-07-13T08:53:27+00:00`
+  - Kurz: M6.4 - 191 km SE of Lorengau, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551421)
   - Quelle: GDACS
   - Zeit: ``
@@ -137,15 +145,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen nicht näher spezifizierte Auswirkungen, möglicherweise Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0435)
+- **[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2062)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-13T07:26:39+00:00`, fetched `2026-07-13T08:31:23+00:00`
+  - Zeit: published `2026-07-13T09:42:01+00:00`, fetched `2026-07-13T09:46:35+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um nicht spezifizierte Effekte zu verursachen, was möglicherweise zur Ausführung von beliebigem Code führt.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bowman, Modernizing Financial Regulation** — Score 14, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-07-13T09:25:00+00:00`, fetched `2026-07-13T09:46:35+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At a Bank Policy Institute London Conference, London, United Kingdom
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Most AI pilots die in week six. Here’s what LinqAlpha does differently** — Score 14, observation — [Quelle](https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-13T05:19:05+00:00`, fetched `2026-07-13T06:14:02+00:00`
@@ -158,6 +175,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.4 - 191 km SE of Lorengau, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-13T09:34:32.040+00:00`, fetched `2026-07-13T09:46:35+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-07-13 08:53:27 UTC 2026-07-13 08:53:27 UTC at epicenter Location 3.221°S 148.522°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Shubhamsaboo/awesome-llm-apps** — Score 13, opportunity — [Quelle](https://github.com/Shubhamsaboo/awesome-llm-apps)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-13T02:32:52+00:00`
@@ -266,6 +292,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-13T07:09:42+00:00`, fetched `2026-07-13T09:46:35+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab（1/2 ページ） AI開発企業のAIdeaLab（東京都千代田区）は7月13日、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）の正式版を無償で公開した。ライセンスは商用利用もできる「Apache-2.0」。アニメ特化の動画生成AI...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit** — Score 5, observation — [Quelle](https://zenn.dev/minipoisson/articles/excel-vba-modern-dev)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-12T23:02:39+00:00`, fetched `2026-07-13T08:31:23+00:00`
@@ -275,29 +310,12 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: この記事で学べること 2026年に相次いで登場した XLIDE、xlflow・ExStruct、xlsm_devkit という3つの取り組みの設計思想の違い Excel/VBA とモダン開発環境の間にあった空白地帯が、なぜこの時期に「開発可能な領域」として動き出したのか xlsm_devkit がこの中でどのような立ち位置を取っているか、その設計判断の背景 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-12T22:28:44+00:00`, fetched `2026-07-13T07:26:10+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PrefectHQ/prefect** — Score 5, observation — [Quelle](https://github.com/PrefectHQ/prefect)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-13T02:32:52+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Prefect is a workflow orchestration framework for building resilient data pipelines in Python. Installation · Quickstart · Build workflows · Deploy workflows · Prefect Cloud Prefect Prefect is a workflow orchestration framework for building data pipelines in Python. It's the simplest way to elevate a script into a production workflow. With Prefect, you can build resilient, dynamic data pipelines that react to the wo…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 

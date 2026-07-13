@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T08:31:51+00:00",
+  "generated_at": "2026-07-13T09:47:03+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-13T02:00:07+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/thailands-scam-epidemic-is-a-technology-problem-20260619/"
+      },
+      {
+        "title": "[NEU] [mittel] MailPit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T09:36:41+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2283"
       },
       {
         "title": "Most AI pilots die in week six. Here’s what LinqAlpha does differently",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-13T02:08:54+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/agnes-ai-launches-agnes-2-5-flash-teases-flagship-pro-model-and-debuts-agnes-code-desktop-app-20260713/"
-      },
-      {
-        "title": "Why the next infrastructure boom in APAC depends on power diversification",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-13T05:56:50+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/why-the-next-infrastructure-boom-in-apac-depends-on-power-diversification-20260713/"
       }
     ],
     "github": [
@@ -112,6 +112,13 @@
         "published_at": "2026-07-13T01:37:03.040+00:00",
         "relevance_score": 19,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
+      },
+      {
+        "title": "M 6.4 - 191 km SE of Lorengau, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T09:34:32.040+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy"
       },
       {
         "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
@@ -200,49 +207,91 @@
         "url": "https://jvn.jp/vu/JVNVU94203999/"
       },
       {
-        "title": "[UPDATE] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen nicht näher spezifizierte Auswirkungen, möglicherweise Codeausführung",
+        "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:26:39+00:00",
+        "published_at": "2026-07-13T09:42:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0435"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2062"
       },
       {
-        "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:22:03+00:00",
+        "published_at": "2026-07-13T09:41:39+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2239"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2284"
       },
       {
-        "title": "[UPDATE] [mittel] Snipe-IT: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [mittel] MailPit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:08:46+00:00",
+        "published_at": "2026-07-13T09:36:41+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2144"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2283"
       },
       {
-        "title": "[UPDATE] [mittel] gzip: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] CUPS: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:08:45+00:00",
+        "published_at": "2026-07-13T09:36:41+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2126"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2282"
       },
       {
-        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] avahi daemon: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:08:45+00:00",
+        "published_at": "2026-07-13T09:36:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2100"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2281"
       },
       {
-        "title": "[UPDATE] [hoch] PowerDNS: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Kyverno: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T07:08:44+00:00",
+        "published_at": "2026-07-13T09:36:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2091"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2280"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T09:41:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2284"
+      },
+      {
+        "title": "[NEU] [mittel] MailPit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T09:36:41+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2283"
+      },
+      {
+        "title": "[NEU] [mittel] CUPS: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T09:36:41+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2282"
+      },
+      {
+        "title": "[NEU] [mittel] avahi daemon: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T09:36:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2281"
+      },
+      {
+        "title": "[NEU] [hoch] Kyverno: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-13T09:36:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2280"
+      },
+      {
+        "title": "Bowman, Modernizing Financial Regulation",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-13T09:25:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm"
+      },
       {
         "title": "Shubhamsaboo/awesome-llm-apps",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -273,6 +322,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Bowman, Modernizing Financial Regulation",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-13T09:25:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm"
+      },
       {
         "title": "anthropics/claude-cookbooks",
         "source": "GitHub Trending RSS All Languages Daily",

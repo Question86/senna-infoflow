@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T08:31:53+00:00",
+  "generated_at": "2026-07-13T09:47:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551590",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].",
         "summary": "Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].",
         "source": "GDACS",
@@ -91,6 +101,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104015",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.4 - 191 km SE of Lorengau, Papua New Guinea",
+        "summary": "M6.4 - 191 km SE of Lorengau, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy",
+        "published_at": "2026-07-13T08:53:27+00:00",
+        "metrics": {
+          "mag": 6.4,
+          "alert": "green",
+          "sig": 630.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",

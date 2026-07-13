@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T08:31:51+00:00_
+_Generated: 2026-07-13T09:47:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `47`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-13T08:31:51+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995
 - summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
 
-### 5. Shubhamsaboo/awesome-llm-apps
+### 5. M 6.4 - 191 km SE of Lorengau, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-13T09:34:32.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-07-13 08:53:27 UTC 2026-07-13 08:53:27 UTC at epicenter Location 3.221°S 148.522°E Depth 10.00 km (6.21 mi)
+
+### 6. Shubhamsaboo/awesome-llm-apps
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/Shubhamsaboo/awesome-llm-apps
 - summary: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 🌟 Awesome LLM Apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Always-on Agents…
 
-### 6. Stop automating broken processes and call it AI transformation
+### 7. Stop automating broken processes and call it AI transformation
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-13T02:30:02+00:00`
 - url: https://e27.co/stop-automating-broken-processes-and-call-it-ai-transformation-20260710/
 - summary: Everyone is doing AI now. Or at least, everyone is saying they are. Across Asia, budgets are moving, pilots are launching, and decks are full of words like “intelligent automation” and “AI-powered workflows.” And yet, a lot of teams quietly admit the results…
 
-### 7. 立即科技｜企業雲端資料庫 - 存在2個漏洞
+### 8. 立即科技｜企業雲端資料庫 - 存在2個漏洞
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-07-13T01:42:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html
 - summary: 立即科技｜企業雲端資料庫 - 存在2個漏洞
-
-### 8. Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-07-12T08:58:49+00:00`
-- url: https://qiita.com/fuyunoki/items/5818688d20225aa8088a
-- summary: はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何から手を付ければ…」となっている新卒・若手エンジニア...
 
 END OF DOCUMENT
