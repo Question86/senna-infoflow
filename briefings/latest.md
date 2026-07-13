@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-13T16:16:47+00:00_
+_Generiert: 2026-07-13T17:03:37+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+75 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Thailand is in the middle of a fraud and scamming epidemic. According to Thailand’s Cyber Crime Investigation Bureau (CCIB), an estimated 31.7 billion THB (US$972 million) has been lost to online scamming from January 2025 up until May 2026. There have been a total of 433,725 cases of online scamming in the same period, averaging […] The post Thailand’s scam epidemic is a technology problem, the solution has to be o…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Isabel Schnabel: How to foster growth and resilience in Europe** — Score 14, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-13T16:45:00+00:00`, fetched `2026-07-13T17:03:04+00:00`
+  - Treffer: Content-Chance, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Content-Chance (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Isabel Schnabel: How to foster growth and resilience in Europe
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94039788/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-13T13:00:00+09:00`, fetched `2026-07-13T05:04:57+00:00`
@@ -197,6 +206,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Waller, Monetary Policy at a Crossroads** — Score 13, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-07-13T16:30:00+00:00`, fetched `2026-07-13T17:03:04+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
+  - Kurz: Speech At the New York Association for Business Economics, New York, New York
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 6.3 - southeast of the Loyalty Islands** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-13T15:21:58.047+00:00`, fetched `2026-07-13T15:24:38+00:00`
@@ -314,23 +332,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは、JX通信社で CTO をしている小笠原(@yamitzky)です。 JX 通信社の Slack では、プレスリリースへの反響や、弊社の情勢調査事業に関する発信や、ニュースアプリの「NewsDigest（ニュースダイジェスト）」についての言及を監視するチャンネルがあります。皆さんの会社でも、広報部門が自社の反響を見ているので...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-hochriskante-Sicherheitsluecken-11362432.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-13T08:16:00.000+00:00`, fetched `2026-07-13T08:31:23+00:00`
-  - Treffer: Security
+- **Piero Cipollone: Interview with Jornal de Negocios** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-13T17:00:00+00:00`, fetched `2026-07-13T17:03:04+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die Entwickler des DNS-basierten Werbeblockers Pi-hole verteilen Updates. Die schließen zum Teil hochriskante Sicherheitslücken.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Progress warnt Admins: ShareFile deaktivieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Progress-warnt-Admins-ShareFile-deaktivieren-11362288.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-13T07:24:00.000+00:00`, fetched `2026-07-13T08:31:23+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Progress hat zum Wochenende eine Warnung an ShareFile-Kunden geschickt. IT-Verantwortliche sollen die Server umgehend herunterfahren.
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Interview with Jornal de Negocios
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

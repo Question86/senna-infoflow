@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T16:16:47+00:00",
+  "generated_at": "2026-07-13T17:03:37+00:00",
   "topics": {
     "ai": [
       {
@@ -103,6 +103,13 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/PrefectHQ/prefect"
+      },
+      {
+        "title": "Separate SSO and Organizations pages in Settings",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-13T15:57:56+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings"
       }
     ],
     "general": [
@@ -149,6 +156,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
       },
       {
+        "title": "ニチレイ、不正アクセスでシステム障害 冷凍食品の出荷業務に影響 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T15:31:55+00:00",
+        "relevance_score": 7,
+        "url": "https://www.nikkei.com/article/DGXZQOUC1383Z0T10C26A7000000/"
+      },
+      {
         "title": "アナログ規制見直しを進めるダイアローグ「RegTech ミート」7月の開催スケジュールを掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-07-13T06:00:00+00:00",
@@ -168,13 +182,6 @@
         "published_at": "2026-07-13T08:02:58+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/mobile/articles/2607/13/news073.html"
-      },
-      {
-        "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-12T23:02:39+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev"
       }
     ],
     "security": [
@@ -265,6 +272,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2286"
       },
       {
+        "title": "Isabel Schnabel: How to foster growth and resilience in Europe",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-13T16:45:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf"
+      },
+      {
         "title": "[NEU] [hoch] Netwrix Password Secure: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-13T11:41:39+00:00",
@@ -312,13 +326,6 @@
         "published_at": "2026-07-13T09:41:39+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2284"
-      },
-      {
-        "title": "[NEU] [mittel] MailPit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-13T09:36:41+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2283"
       }
     ],
     "economy": [
@@ -349,6 +356,13 @@
         "published_at": "2026-07-13T04:10:10+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/"
+      },
+      {
+        "title": "Separate SSO and Organizations pages in Settings",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-13T15:57:56+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings"
       },
       {
         "title": "The US$65,000 and US$1,850 question: Can we hold this level after CPI release?",

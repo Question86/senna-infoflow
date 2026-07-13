@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-13T16:16:47+00:00_
+_Generated: 2026-07-13T17:03:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `70`
+- findings: `75`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-13T16:16:47+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-13 00:54:02 UTC 2026-07-13 00:54:02 UTC at epicenter Location 12.792°N 123.044°E Depth 10.00 km (6.21 mi)
 
-### 5. M 6.3 - southeast of the Loyalty Islands
+### 5. Waller, Monetary Policy at a Crossroads
+- source: Federal Reserve Speeches and Testimony
+- score: `13`
+- published: `2026-07-13T16:30:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm
+- summary: Speech At the New York Association for Business Economics, New York, New York
+
+### 6. M 6.3 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-13T15:21:58.047+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n
 - summary: PAGER - GREEN ShakeMap - I Time 2026-07-13 14:45:49 UTC 2026-07-13 14:45:49 UTC at epicenter Location 22.789°S 171.520°E Depth 10.00 km (6.21 mi)
 
-### 6. M 6.4 - 191 km SE of Lorengau, Papua New Guinea
+### 7. M 6.4 - 191 km SE of Lorengau, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-13T09:34:32.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-13 08:53:27 UTC 2026-07-13 08:53:27 UTC at epicenter Location 3.221°S 148.522°E Depth 10.00 km (6.21 mi)
 
-### 7. Shubhamsaboo/awesome-llm-apps
+### 8. Shubhamsaboo/awesome-llm-apps
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/Shubhamsaboo/awesome-llm-apps
 - summary: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 🌟 Awesome LLM Apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Always-on Agents…
-
-### 8. Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30
-- source: ECB Open Market Operations and Communication
-- score: `12`
-- published: `2026-07-13T14:40:17+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html
-- summary: Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30
 
 END OF DOCUMENT
