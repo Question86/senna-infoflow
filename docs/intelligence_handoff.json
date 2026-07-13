@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-13T07:49:48Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-07-13T09:01:46Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen nicht näher spezifizierte Auswirkungen, möglicherweise Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen nicht näher spezifizierte Auswirkungen, möglicherweise Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0435",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-13T07:26:39+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um nicht spezifizierte Effekte zu verursachen, was möglicherweise zur Ausführung von beliebigem Code führt."
+    },
+    {
       "title": "iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性",
       "url": "https://jvn.jp/vu/JVNVU94039788/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-13T13:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -39,7 +64,7 @@
       "url": "https://jvn.jp/vu/JVNVU94203999/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-13T11:45:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -63,7 +88,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2239",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-13T07:22:03+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -87,7 +112,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2144",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-13T07:08:46+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -111,7 +136,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2126",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-13T07:08:45+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -135,7 +160,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-13T07:08:44+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -159,7 +184,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1994",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-13T05:46:40+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -179,11 +204,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um Daten zu manipulieren, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0995",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-13T07:26:39+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2100",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-13T07:08:45+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -209,7 +260,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11031-eccb2-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-07-13T01:42:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -235,7 +286,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2138",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-13T07:08:46+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -254,64 +305,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 24.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.95,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.95",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -1.1 for 24.2d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-07-13T07:26:32+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai",
-        "macro",
-        "disaster"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     }
   ],
   "read_order": [
@@ -323,7 +316,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }
