@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T14:23:35+00:00",
-  "run_id": "2026-07-13T14:23:35+00:00",
+  "generated_at": "2026-07-13T15:25:09+00:00",
+  "run_id": "2026-07-13T15:25:09+00:00",
   "date": "2026-07-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 4,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 37,
-    "observe": 30,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-13T07:26:32+00:00",
-        "fetched_at": "2026-07-13T07:26:10+00:00",
+        "published_at": "2026-07-13T15:24:57+00:00",
+        "fetched_at": "2026-07-13T15:24:38+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "f9efb5f09c85b6eaadf8"
+        "id": "c47069b3b58f594285ca"
       },
       {
         "title": "Dicklesworthstone/destructive_command_guard",
@@ -965,6 +965,44 @@
     ],
     "observe": [
       {
+        "title": "M 6.3 - southeast of the Loyalty Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-13T15:21:58.047+00:00",
+        "fetched_at": "2026-07-13T15:24:38+00:00",
+        "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-13 14:45:49 UTC 2026-07-13 14:45:49 UTC at epicenter Location 22.789°S 171.520°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e53029abf52819aa86ed"
+      },
+      {
         "title": "M 6.4 - 191 km SE of Lorengau, Papua New Guinea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1318,6 +1356,28 @@
         "id": "0d165855588ce72fcf51"
       },
       {
+        "title": "Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ - JX通信社エンジニアブログ",
+        "url": "https://tech.jxpress.net/entry/2026/07/13/113000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-13T04:15:10+00:00",
+        "fetched_at": "2026-07-13T15:24:38+00:00",
+        "summary": "こんにちは、JX通信社で CTO をしている小笠原(@yamitzky)です。 JX 通信社の Slack では、プレスリリースへの反響や、弊社の情勢調査事業に関する発信や、ニュースアプリの「NewsDigest（ニュースダイジェスト）」についての言及を監視するチャンネルがあります。皆さんの会社でも、広報部門が自社の反響を見ているので...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "23f842249181c52eab0c"
+      },
+      {
         "title": "Gobi taps NTT to connect Japan’s tech sector with SEA startups",
         "url": "https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1502,6 +1562,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c7909387200bec690fd9"
+      },
+      {
+        "title": "AI使いすぎるとプロジェクトマネジメント力が低下する｜すぅ | AI駆動PM",
+        "url": "https://note.com/suh_sunaneko/n/n98c16a0479ba",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-12T23:39:50+00:00",
+        "fetched_at": "2026-07-13T15:24:38+00:00",
+        "summary": "「AIを使いすぎると、プロジェクトマネジメント力が落ちる。」 AI漬けの育休生活から現場に戻ってきて、私が実感したことです。 この記事では、なぜAI依存でPM力が落ちるのかを整理していきます。 AI漬けの育休明け、数十人規模の現場に戻って感じた不安私は直近の半年間、育休を取っていました。ただ、この期間もプロジ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3283d54017013b1b9ed5"
       },
       {
         "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
@@ -1693,8 +1774,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-13T07:26:32+00:00",
-      "fetched_at": "2026-07-13T07:26:10+00:00",
+      "published_at": "2026-07-13T15:24:57+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1728,7 +1809,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f9efb5f09c85b6eaadf8"
+      "id": "c47069b3b58f594285ca"
     },
     {
       "title": "Dicklesworthstone/destructive_command_guard",
@@ -2622,6 +2703,44 @@
       "id": "91462453cc13eec0fe69"
     },
     {
+      "title": "M 6.3 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-13T15:21:58.047+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-13 14:45:49 UTC 2026-07-13 14:45:49 UTC at epicenter Location 22.789°S 171.520°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e53029abf52819aa86ed"
+    },
+    {
       "title": "M 6.4 - 191 km SE of Lorengau, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2975,6 +3094,28 @@
       "id": "0d165855588ce72fcf51"
     },
     {
+      "title": "Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ - JX通信社エンジニアブログ",
+      "url": "https://tech.jxpress.net/entry/2026/07/13/113000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T04:15:10+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
+      "summary": "こんにちは、JX通信社で CTO をしている小笠原(@yamitzky)です。 JX 通信社の Slack では、プレスリリースへの反響や、弊社の情勢調査事業に関する発信や、ニュースアプリの「NewsDigest（ニュースダイジェスト）」についての言及を監視するチャンネルがあります。皆さんの会社でも、広報部門が自社の反響を見ているので...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23f842249181c52eab0c"
+    },
+    {
       "title": "Gobi taps NTT to connect Japan’s tech sector with SEA startups",
       "url": "https://e27.co/gobi-taps-ntt-to-connect-japans-tech-sector-with-sea-startups-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3161,6 +3302,27 @@
       "id": "c7909387200bec690fd9"
     },
     {
+      "title": "AI使いすぎるとプロジェクトマネジメント力が低下する｜すぅ | AI駆動PM",
+      "url": "https://note.com/suh_sunaneko/n/n98c16a0479ba",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T23:39:50+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
+      "summary": "「AIを使いすぎると、プロジェクトマネジメント力が落ちる。」 AI漬けの育休生活から現場に戻ってきて、私が実感したことです。 この記事では、なぜAI依存でPM力が落ちるのかを整理していきます。 AI漬けの育休明け、数十人規模の現場に戻って感じた不安私は直近の半年間、育休を取っていました。ただ、この期間もプロジ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3283d54017013b1b9ed5"
+    },
+    {
       "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
       "url": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3345,73 +3507,127 @@
   ],
   "new_findings": [
     {
-      "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
-      "url": "https://gigazine.net/news/20260713-claude-code-consuming-token/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-13T08:06:39+00:00",
-      "fetched_at": "2026-07-13T14:23:04+00:00",
-      "summary": "AnthropicのAIコーディング支援ツール「Claude Code」は、利用者が入力した指示を処理する前に約3万3000トークンを使用しており、AIと外部ツールを接続する共通規格「Model Context Protocol(MCP)」対応サーバーや指示ファイルなどを追加した環境では約7万5000トークンまで増えるという測定結果をAIコンサルティング企業...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-13T15:24:57+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:ai_agents_workflow"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "ai_agents_workflow"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "ai_agents_workflow: MCP"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "e4455a249759424041aa"
+      "id": "c47069b3b58f594285ca"
     },
     {
-      "title": "Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html",
-      "source": "ECB Open Market Operations and Communication",
+      "title": "M 6.3 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-13T14:40:17+00:00",
-      "fetched_at": "2026-07-13T14:23:04+00:00",
-      "summary": "Announcing 20260061 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "published_at": "2026-07-13T15:21:58.047+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-13 14:45:49 UTC 2026-07-13 14:45:49 UTC at epicenter Location 22.789°S 171.520°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e53029abf52819aa86ed"
+    },
+    {
+      "title": "Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ - JX通信社エンジニアブログ",
+      "url": "https://tech.jxpress.net/entry/2026/07/13/113000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T04:15:10+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
+      "summary": "こんにちは、JX通信社で CTO をしている小笠原(@yamitzky)です。 JX 通信社の Slack では、プレスリリースへの反響や、弊社の情勢調査事業に関する発信や、ニュースアプリの「NewsDigest（ニュースダイジェスト）」についての言及を監視するチャンネルがあります。皆さんの会社でも、広報部門が自社の反響を見ているので...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e89b24c4c7d44885f0c6"
+      "id": "23f842249181c52eab0c"
+    },
+    {
+      "title": "AI使いすぎるとプロジェクトマネジメント力が低下する｜すぅ | AI駆動PM",
+      "url": "https://note.com/suh_sunaneko/n/n98c16a0479ba",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-12T23:39:50+00:00",
+      "fetched_at": "2026-07-13T15:24:38+00:00",
+      "summary": "「AIを使いすぎると、プロジェクトマネジメント力が落ちる。」 AI漬けの育休生活から現場に戻ってきて、私が実感したことです。 この記事では、なぜAI依存でPM力が落ちるのかを整理していきます。 AI漬けの育休明け、数十人規模の現場に戻って感じた不安私は直近の半年間、育休を取っていました。ただ、この期間もプロジ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3283d54017013b1b9ed5"
     }
   ],
   "source_errors": [],

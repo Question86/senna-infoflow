@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-13T14:23:35+00:00",
+  "generated_at": "2026-07-13T15:25:09+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-13T07:26:32+00:00",
+        "published_at": "2026-07-13T15:24:57+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -114,6 +114,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
       },
       {
+        "title": "M 6.3 - southeast of the Loyalty Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-13T15:21:58.047+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n"
+      },
+      {
         "title": "M 6.4 - 191 km SE of Lorengau, Papua New Guinea",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-13T09:34:32.040+00:00",
@@ -168,13 +175,6 @@
         "published_at": "2026-07-12T23:02:39+00:00",
         "relevance_score": 5,
         "url": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev"
-      },
-      {
-        "title": "【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-12T22:28:44+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html"
       }
     ],
     "security": [
