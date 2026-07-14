@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-14T04:21:27+00:00_
+_Generated: 2026-07-14T05:16:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `24`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-14T04:21:27+00:00_
 - url: https://github.com/OpenCut-app/OpenCut
 - summary: The open-source CapCut alternative OpenCut A free and open source video editor for web, desktop, and mobile. Status OpenCut is being rewritten from the ground up. What's coming: An Editor API First-class third party plugins (made possible by a plugin-first ar…
 
-### 3. M 4.6 - 34 km SE of Sarangani, Philippines
+### 3. e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration
+- source: e27 Asia Startup and Tech Feed
+- score: `20`
+- published: `2026-07-14T04:35:29+00:00`
+- url: https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/
+- summary: Southeast Asia’s startup ecosystem has spent the past several years wrestling with a familiar problem: founders and enterprises alike struggle to find the right partners at the right time. Corporates looking to work with startups often lack visibility into wh…
+
+### 4. M 4.6 - 34 km SE of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-07-14T01:53:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085
 - summary: Time 2026-07-14 01:38:24 UTC 2026-07-14 01:38:24 UTC at epicenter Location 5.184°N 125.679°E Depth 66.19 km (41.13 mi)
-
-### 4. When AI leaves the screen, cybersecurity becomes product responsibility
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-07-14T01:30:32+00:00`
-- url: https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/
-- summary: For the past two years, many companies have treated AI as a feature to be added quickly: a smarter chatbot, a faster support assistant, a more personalised recommendation engine. That phase is already giving way to something more consequential. AI is moving f…
 
 ### 5. PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M
 - source: e27 Asia Startup and Tech Feed
@@ -50,18 +50,18 @@ _Generated: 2026-07-14T04:21:27+00:00_
 - url: https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/
 - summary: Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and…
 
-### 7. Singapore and Taiwan have a new window of opportunity, but will they seize it?
+### 7. Alibaba, Mirae Asset join PixVerse’s US$439M Series C push into AI games
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-07-14T04:30:18+00:00`
+- url: https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/
+- summary: PixVerse has extended its Series C round, bringing total fundraising in the round to US$439 million, as the AI video generation company seeks to move beyond short-form video creation into games, virtual hosting, and real-time interactive entertainment. The co…
+
+### 8. Singapore and Taiwan have a new window of opportunity, but will they seize it?
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-07-14T03:00:23+00:00`
 - url: https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/
 - summary: Hard work and innovation have led to both Taiwan’s and Singapore’s AI-related boom and global leadership in IC/chip design and manufacturing and related infrastructure. “You have to be good to be lucky” This has placed both countries in the right place at the…
-
-### 8. Nutlope/hallmark
-- source: GitHub Trending RSS All Languages Daily
-- score: `10`
-- published: `None`
-- url: https://github.com/Nutlope/hallmark
-- summary: Anti-AI-slop design skill for Claude Code, Cursor, and Codex. Hallmark A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated. Live demo → · twenty themes · four verbs · press T to cycle. Made by Together AI. Hallmark picks a macr…
 
 END OF DOCUMENT

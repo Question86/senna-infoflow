@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T04:21:27+00:00_
+_Generiert: 2026-07-14T05:16:42+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: The open-source CapCut alternative OpenCut A free and open source video editor for web, desktop, and mobile. Status OpenCut is being rewritten from the ground up. What's coming: An Editor API First-class third party plugins (made possible by a plugin-first architecture) Desktop, mobile, and browser from one codebase (Rust core) MCP server (for AI agents) Headless mode (automation, batch rendering) A scripting tab di…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration** — Score 20, opportunity — [Quelle](https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-14T04:35:29+00:00`, fetched `2026-07-14T05:16:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Public Health, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia’s startup ecosystem has spent the past several years wrestling with a familiar problem: founders and enterprises alike struggle to find the right partners at the right time. Corporates looking to work with startups often lack visibility into who is building what, while startups seeking distribution, capital, or co-development partners frequently rely on informal […] The post e27 expands AI-powered bus…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.6 - 34 km SE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-14T01:53:42.040+00:00`, fetched `2026-07-14T02:09:17+00:00`
@@ -47,6 +56,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For the past two years, many companies have treated AI as a feature to be added quickly: a smarter chatbot, a faster support assistant, a more personalised recommendation engine. That phase is already giving way to something more consequential. AI is moving from back-end tools and text-based interfaces into products that customers use directly, often […] The post When AI leaves the screen, cybersecurity becomes prod…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Mattermost Server: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-14T04:51:40+00:00`, fetched `2026-07-14T05:16:11+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Mattermost Server ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Architecting the future: A strategic guide to building an internal AI academy** — Score 14, observation — [Quelle](https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -78,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
   - Kurz: Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and more structural — the systems underneath the motion were never designed to […] The post Most GTM failures look like strategy problems but are actually architec…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore and Taiwan have a new window of opportunity, but will they seize it?** — Score 10, observation — [Quelle](https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/)
+- **Alibaba, Mirae Asset join PixVerse’s US$439M Series C push into AI games** — Score 11, observation — [Quelle](https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-14T03:00:23+00:00`, fetched `2026-07-14T03:18:27+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-07-14T04:30:18+00:00`, fetched `2026-07-14T05:16:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Webentwicklung
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Hard work and innovation have led to both Taiwan’s and Singapore’s AI-related boom and global leadership in IC/chip design and manufacturing and related infrastructure. “You have to be good to be lucky” This has placed both countries in the right place at the right time. For Taiwan, the TAIEX is now the 5th largest in […] The post Singapore and Taiwan have a new window of opportunity, but will they seize it? appeare…
+  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: PixVerse has extended its Series C round, bringing total fundraising in the round to US$439 million, as the AI video generation company seeks to move beyond short-form video creation into games, virtual hosting, and real-time interactive entertainment. The company did not disclose the size of the extension, its latest valuation, or how the round was […] The post Alibaba, Mirae Asset join PixVerse’s US$439M Series C…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Nutlope/hallmark** — Score 10, observation — [Quelle](https://github.com/Nutlope/hallmark)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -150,14 +168,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote boilerplate (x0.45)
   - Kurz: Latest update, v1.0.3World-class docs foreverything you ship.Fast, AI-ready, and zero-config. Drop Markdown into a folder and ship a production-grade docs site, no app boilerplate to write or maintain. Free and open source, forever.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2124799.html)
+- **数回の練習が数千回分の効果にも──物事の上達スピードを決めるのは練習量より「報酬の大きさ」 マウス実験がScience誌掲載** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/14/news026.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-13T21:16:21+00:00`, fetched `2026-07-14T04:20:53+00:00`
+  - Zeit: published `2026-07-13T22:13:30+00:00`, fetched `2026-07-14T05:16:11+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く
+  - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Raphire/Win11Debloat** — Score 5, observation — [Quelle](https://github.com/Raphire/Win11Debloat)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

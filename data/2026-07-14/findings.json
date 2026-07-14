@@ -91,6 +91,52 @@
     "id": "85e592d14edf5bb20333"
   },
   {
+    "title": "e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration",
+    "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-14T04:35:29+00:00",
+    "fetched_at": "2026-07-14T05:16:11+00:00",
+    "summary": "Southeast Asia’s startup ecosystem has spent the past several years wrestling with a familiar problem: founders and enterprises alike struggle to find the right partners at the right time. Corporates looking to work with startups often lack visibility into who is building what, while startups seeking distribution, capital, or co-development partners frequently rely on informal […] The post e27 expands AI-powered bus…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "founder",
+      "Public Health",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "db480c4b75c8da32529c"
+  },
+  {
     "title": "M 4.6 - 34 km SE of Sarangani, Philippines",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -148,6 +194,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5b8525412dbce55bb03e"
+  },
+  {
+    "title": "[UPDATE] [mittel] Mattermost Server: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-14T04:51:40+00:00",
+    "fetched_at": "2026-07-14T05:16:11+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost Server ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b07732ecc33eda10d07b"
   },
   {
     "title": "Architecting the future: A strategic guide to building an internal AI academy",
@@ -212,6 +281,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "84f0082d9d4951ca6ad8"
+  },
+  {
+    "title": "Alibaba, Mirae Asset join PixVerse’s US$439M Series C push into AI games",
+    "url": "https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-14T04:30:18+00:00",
+    "fetched_at": "2026-07-14T05:16:11+00:00",
+    "summary": "PixVerse has extended its Series C round, bringing total fundraising in the round to US$439 million, as the AI video generation company seeks to move beyond short-form video creation into games, virtual hosting, and real-time interactive entertainment. The company did not disclose the size of the extension, its latest valuation, or how the round was […] The post Alibaba, Mirae Asset join PixVerse’s US$439M Series C…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f9bd76f43e55680cefe4"
   },
   {
     "title": "Singapore and Taiwan have a new window of opportunity, but will they seize it?",
@@ -501,6 +592,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cf84159663060abfc976"
+  },
+  {
+    "title": "数回の練習が数千回分の効果にも──物事の上達スピードを決めるのは練習量より「報酬の大きさ」 マウス実験がScience誌掲載",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/14/news026.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-13T22:13:30+00:00",
+    "fetched_at": "2026-07-14T05:16:11+00:00",
+    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8892f73dc00b0df996ce"
   },
   {
     "title": "【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く",
