@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T06:56:14+00:00_
+_Generiert: 2026-07-14T07:32:45+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+44 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia’s startup ecosystem has spent the past several years wrestling with a familiar problem: founders and enterprises alike struggle to find the right partners at the right time. Corporates looking to work with startups often lack visibility into who is building what, while startups seeking distribution, capital, or co-development partners frequently rely on informal […] The post e27 expands AI-powered bus…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1265)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-14T07:27:40+00:00`, fetched `2026-07-14T07:32:16+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, einschließlich der Ausführung von beliebigem Code, der Manipulation von Speicherinhalten oder der Verursachung eines Denial-of-Service-Zustands.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Red Hat Hardened Images RPMs (jq und pyOpenSSL): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1183)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-14T07:27:39+00:00`, fetched `2026-07-14T07:32:16+00:00`
+  - Treffer: BSI, CERT-Bund, OpenSSL, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand verursachen, vertrauliche Informationen offenlegen oder nicht näher spezifizierte Angriffe durchführen, einschließlich potenzieller Codeausführung.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Red Hat Enterprise Linux (openexr): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2293)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-14T06:46:39+00:00`, fetched `2026-07-14T06:55:38+00:00`
@@ -57,15 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (openexr) ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen und um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1849)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-14T06:16:40+00:00`, fetched `2026-07-14T06:55:38+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows und Microsoft Windows Server ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Spoofing-Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 14 km WSW of Mabiton, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-14T07:27:00.360+00:00`, fetched `2026-07-14T07:32:16+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-07-14 07:04:54 UTC 2026-07-14 07:04:54 UTC at epicenter Location 12.797°N 123.136°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 34 km SE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-14T01:53:42.040+00:00`, fetched `2026-07-14T02:09:17+00:00`
@@ -93,15 +111,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Ransomware attacks against small- and medium-sized enterprises (SMEs) in Southeast Asia rose in the first quarter of 2026, according to new data from Kaspersky, underscoring how smaller companies remain exposed even as cybercriminal groups sharpen their tactics and shift towards more layered extortion models. The cybersecurity company said 3.51 per cent of SMEs in Southeast […] The post Southeast Asian SMEs remain s…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Mattermost Server: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-14T04:51:40+00:00`, fetched `2026-07-14T05:16:11+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Mattermost Server ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -150,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
   - Kurz: Anti-AI-slop design skill for Claude Code, Cursor, and Codex. Hallmark A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated. Live demo → · twenty themes · four verbs · press T to cycle. Made by Together AI. Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pre-emit self-critique, and refuses the on-distribution de…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **第5回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました** — Score 9, observation — [Quelle](https://www.digital.go.jp/councils/ai-advisory-board/770d4c48-7f40-49a6-a49d-56a763800a42)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-14T07:08:31+00:00`, fetched `2026-07-14T07:32:16+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 第5回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 2 km WSW of Congregación Reforma, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-14T02:08:29.015+00:00`, fetched `2026-07-14T02:09:17+00:00`
@@ -176,6 +194,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. Project AIRI Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world. [ Join Discord Server ] [ Try it ] [ 简体中文 ] [ 日本…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MySQLのスロークエリを調査して、APIのレスポンスタイムを5分から20秒に改善した話 - freee Developers Hub** — Score 8, observation — [Quelle](https://developers.freee.co.jp/entry/mysql-order-by-limit-slow-query)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-14T02:28:05+00:00`, fetched `2026-07-14T07:32:16+00:00`
+  - Treffer: developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
+  - Kurz: こんにちは。freee請求書エンジニアのshunです。 24卒未経験でfreeeに入社し、freee請求書プロダクトの開発を行っています。 この記事では、先日行ったAPIのスロークエリの改善について紹介します。 APIのエンドポイントで発生していた約5分のスロークエリを、原因調査からMySQLオプティマイザの挙動の読み解きまで行い...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **これは便利すぎてお勧め！ macOSで画面をキャプチャする最強のスクリーンショットアプリ -Snapzy、しかも完全に無料！！** — Score 8, observation — [Quelle](https://coliss.com/articles/build-websites/operation/work/snapzy-native-screen-capture-app.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -213,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 民間事業者向けマイナンバーカード活用情報における基本情報の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **小型無人飛行機等の飛行禁止区域に関する資料等を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/drone)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-14T06:00:00+00:00`, fetched `2026-07-14T06:55:38+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 小型無人飛行機等の飛行禁止区域に関する資料等を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **空から数千機、24時間365日の攻撃──ウクライナ防空副司令官が語る”安いドローン”の脅威 島国・日本は耐えられるか** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/08/news027.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-14T00:33:48+00:00`, fetched `2026-07-14T06:55:38+00:00`
@@ -230,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 空から数千機、24時間365日の攻撃──ウクライナ防空副司令官が語る”安いドローン”の脅威 島国・日本は耐えられるか（1/2 ページ） ウクライナや中東での紛争を通し、戦時におけるドローンの脅威が現実味を増している。防衛省も迎撃ドローンの早期取得プログラムを展開するなど、日本においても対岸の火事とは言えない状...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）** — Score 5, observation — [Quelle](https://zenn.dev/aircloset/articles/3b8e60fcaab4b7)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-14T00:27:13+00:00`, fetched `2026-07-14T03:18:27+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: みなさまこんにちは！エアークローゼットでCTOをしている辻です。 設計編では、アプリケーション / インフラ / CI / LLMの4軸を、それぞれの問いの性質に合わせて別々の形でObservableにする話を書きました。ここまでで観測スタックの書き込み側は一旦区切ったところです。 ただし、「Observableにしただけ」で話は終わ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

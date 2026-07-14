@@ -187,6 +187,54 @@
     "id": "db480c4b75c8da32529c"
   },
   {
+    "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1265",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-14T07:27:40+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, einschließlich der Ausführung von beliebigem Code, der Manipulation von Speicherinhalten oder der Verursachung eines Denial-of-Service-Zustands.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "876af7b3ccb518513911"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat Hardened Images RPMs (jq und pyOpenSSL): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1183",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-14T07:27:39+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand verursachen, vertrauliche Informationen offenlegen oder nicht näher spezifizierte Angriffe durchführen, einschließlich potenzieller Codeausführung.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "OpenSSL",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cef318dead59cf5ae879"
+  },
+  {
     "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (openexr): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2293",
     "source": "BSI CERT-Bund Security Advisories",
@@ -233,6 +281,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "91c000e9808687d4a7f7"
+  },
+  {
+    "title": "M 5.2 - 14 km WSW of Mabiton, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-14T07:27:00.360+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "DYFI? - II Time 2026-07-14 07:04:54 UTC 2026-07-14 07:04:54 UTC at epicenter Location 12.797°N 123.136°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "42f053bedbed5544bf7f"
   },
   {
     "title": "M 4.6 - 34 km SE of Sarangani, Philippines",
@@ -292,6 +377,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5b8525412dbce55bb03e"
+  },
+  {
+    "title": "[UPDATE] [hoch] binutils: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1217",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-14T07:27:39+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in binutils ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code zur Ausführung zu bringen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "910534938742707109c2"
+  },
+  {
+    "title": "[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1126",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-14T07:27:38+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f13b334327b820a41176"
+  },
+  {
+    "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1075",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-14T07:27:38+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1dc14bd9f770bf561bb5"
   },
   {
     "title": "Southeast Asian SMEs remain soft targets as ransomware groups refine extortion tactics",
@@ -530,6 +684,27 @@
     "id": "6643dd57f455f01075ef"
   },
   {
+    "title": "第5回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+    "url": "https://www.digital.go.jp/councils/ai-advisory-board/770d4c48-7f40-49a6-a49d-56a763800a42",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-14T07:08:31+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "第5回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c454c1c938ebdbd12def"
+  },
+  {
     "title": "M 5.0 - 2 km WSW of Congregación Reforma, Mexico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -622,6 +797,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "28b65f4ab3aa6ff2c279"
+  },
+  {
+    "title": "MySQLのスロークエリを調査して、APIのレスポンスタイムを5分から20秒に改善した話 - freee Developers Hub",
+    "url": "https://developers.freee.co.jp/entry/mysql-order-by-limit-slow-query",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T02:28:05+00:00",
+    "fetched_at": "2026-07-14T07:32:16+00:00",
+    "summary": "こんにちは。freee請求書エンジニアのshunです。 24卒未経験でfreeeに入社し、freee請求書プロダクトの開発を行っています。 この記事では、先日行ったAPIのスロークエリの改善について紹介します。 APIのエンドポイントで発生していた約5分のスロークエリを、原因調査からMySQLオプティマイザの挙動の読み解きまで行い...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f5bf5f169eb96215d5a9"
   },
   {
     "title": "Crossing the Valley of Death: Why startups need more than just cash to survive",
