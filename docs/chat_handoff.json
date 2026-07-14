@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-14T16:39:41+00:00",
+  "generated_at": "2026-07-14T17:06:51+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 3,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 0,
-    "medium": 50,
-    "observe": 41
+    "medium": 52,
+    "observe": 42
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-14T10:00:00+00:00",
+      "relevance_score": 23,
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "section": "medium"
     },
     {
@@ -45,16 +55,6 @@
       "section": "medium"
     },
     {
-      "title": "e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-14T04:35:29+00:00",
-      "relevance_score": 20,
-      "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/",
-      "summary": "Southeast Asia’s startup ecosystem has spent the past several years wrestling with a familiar problem: founders and enterprises alike struggle to find the right partners at the right time. Corporates looking to work with startups often lack visibility into wh…",
-      "section": "medium"
-    },
-    {
       "title": "The Gulf has billions to spend on AI. It still needs Nvidia",
       "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-14T16:42:59+00:00",
+      "relevance_score": 12,
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the… The post Dependabot version updates introduce default package cooldown appeared first o…",
+      "section": "observe"
+    },
+    {
       "title": "PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/",
       "summary": "Malaysian insurtech company PolicyStreet has secured an additional US$5 million from BlueOrchard, taking its Series C round to US$26 million as it looks to expand embedded insurance distribution across Asia. BlueOrchard, an impact investment manager and part…",
       "section": "observe"
-    },
-    {
-      "title": "Most GTM failures look like strategy problems but are actually architecture problems",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-14T01:30:37+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/",
-      "summary": "Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “OpenCut-app/OpenCut” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "OpenCut-app/OpenCut",
-        "url": "https://github.com/OpenCut-app/OpenCut",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-14T02:09:17+00:00",
-        "age_days": 0.61,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The open-source CapCut alternative OpenCut A free and open source video editor for web, desktop, and mobile. Status OpenCut is being rewritten from the ground up. What's coming: An Editor API First-class third party plugins (made possible by a plugin-first architecture) Desktop, mobile, and browser from one codebase (…"
-      },
-      {
-        "title": "L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール",
-        "url": "https://japan.zdnet.com/article/35250374/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-14T02:40:43+00:00",
-        "age_days": 0.59,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 40.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "インド・ムンバイで開催された「Open Source Summit India 2026」において、「Linux」の生みの親であるLinus Torvalds氏と、その友人であるDirk Hohndel氏が、Linuxの現状と今後の方向性について対談した。 Linux 7.1：地味で着実な進歩 対談は、Hohndel氏が「Linux 7.1」のリリースに関する見解をTorvalds氏に尋ねる形..."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2051",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:40+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2040",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:39+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Sicherheitsmechanismen zu umgehen, sowie einen Denial of Service Angriff oder andere nicht spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1976",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:18+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen."
-      }
-    ]
-  }
+  ]
 }

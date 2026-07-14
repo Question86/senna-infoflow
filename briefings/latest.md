@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T16:39:41+00:00_
+_Generiert: 2026-07-14T17:06:51+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+94 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How to manage AI investments in the agentic era** — Score 23, observation — [Quelle](https://openai.com/index/managing-ai-investments-in-agentic-era)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-14T10:00:00+00:00`, fetched `2026-07-14T17:06:20+00:00`
+  - Treffer: AI Agents, AI/KI, Content-Chance, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測** — Score 23, observation — [Quelle](https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-14T01:12:24+00:00`, fetched `2026-07-14T06:02:17+00:00`
@@ -114,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?** — Score 16, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-07-14T16:40:00+00:00`, fetched `2026-07-14T17:06:20+00:00`
+  - Treffer: AI/KI, Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[NEU] [UNGEPATCHT] [mittel] AnyDesk: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2315)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-14T11:46:46+00:00`, fetched `2026-07-14T12:05:18+00:00`
@@ -186,24 +204,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: You can now run a security review on your in-flight code changes directly from the GitHub Copilot app. The /security-review slash command is shipping in public preview, bringing the same… The post Security reviews now available in the GitHub Copilot app appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA** — Score 14, risk — [Quelle](https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-14T08:30:23+00:00`, fetched `2026-07-14T09:08:55+00:00`
-  - Treffer: APAC Trend Radar, Security, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: Ransomware groups are no longer hunting for the biggest fish. They are hunting for the most defenceless ones, and across Southeast Asia, that means small and medium enterprises (SMEs). The shift is deliberate. As large corporations harden their defences with enterprise-grade security stacks, threat actors have recalibrated their playbooks, zeroing in on SMEs that often […] The post Ecosystem Roundup: Ransomware’s ea…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How sales teams use ChatGPT Work** — Score 14, observation — [Quelle](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-14T00:00:00+00:00`, fetched `2026-07-14T11:02:38+00:00`
-  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
-  - Kurz: See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -224,6 +224,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - IV Time 2026-07-14 08:21:06 UTC 2026-07-14 08:21:06 UTC at epicenter Location 14.578°S 71.436°W Depth 140.09 km (87.05 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Dependabot version updates introduce default package cooldown** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-14T16:42:59+00:00`, fetched `2026-07-14T17:06:20+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the… The post Dependabot version updates introduce default package cooldown appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M** — Score 12, observation — [Quelle](https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -332,15 +341,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. Project AIRI Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world. [ Join Discord Server ] [ Try it ] [ 简体中文 ] [ 日本…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SAP-Patchday: Teils kritische Sicherheitslücken in mehreren Produkten gefixt** — Score 7, observation — [Quelle](https://www.heise.de/news/SAP-Patchday-Teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-gefixt-11363906.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-14T08:55:00.000+00:00`, fetched `2026-07-14T09:08:55+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Im Juli verarzten die Programmierer von SAP 16 teils kritische Sicherheitslücken in mehreren Produkten.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
