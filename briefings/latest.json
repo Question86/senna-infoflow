@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:06:51+00:00",
-  "run_id": "2026-07-14T17:06:51+00:00",
+  "generated_at": "2026-07-14T17:36:39+00:00",
+  "run_id": "2026-07-14T17:36:39+00:00",
   "date": "2026-07-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 94,
     "displayed_findings": 94,
     "high": 0,
@@ -4929,75 +4929,7 @@
       "id": "cae93bdb3c9bd7241fee"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-14T10:00:00+00:00",
-      "fetched_at": "2026-07-14T17:06:20+00:00",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Content-Chance",
-        "OpenAI"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0369045bd3e53b4b4c39"
-    },
-    {
-      "title": "Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
-      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-07-14T16:40:00+00:00",
-      "fetched_at": "2026-07-14T17:06:20+00:00",
-      "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8246dff0313a44c94c40"
-    },
-    {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-14T16:42:59+00:00",
-      "fetched_at": "2026-07-14T17:06:20+00:00",
-      "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the… The post Dependabot version updates introduce default package cooldown appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "72ea85ff52ad9abb543a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
