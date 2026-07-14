@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T05:16:42+00:00",
+  "generated_at": "2026-07-14T06:02:48+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-14T02:09:36+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-14T01:12:24+00:00",
+        "relevance_score": 23,
+        "url": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint"
       },
       {
         "title": "OpenCut-app/OpenCut",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/Nutlope/hallmark"
-      },
-      {
-        "title": "moeru-ai/airi",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/moeru-ai/airi"
       }
     ],
     "github": [
@@ -214,6 +214,13 @@
         "published_at": "2026-07-14T04:51:40+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107"
+      },
+      {
+        "title": "Alte Cisco-Lücke attackiert: Leitfaden zum Schutz",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-14T05:38:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html"
       }
     ],
     "geopolitics": [
@@ -237,6 +244,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/moeru-ai/airi"
+      },
+      {
+        "title": "Alte Cisco-Lücke attackiert: Leitfaden zum Schutz",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-14T05:38:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html"
       },
       {
         "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
