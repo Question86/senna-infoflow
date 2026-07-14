@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T03:18:59+00:00",
+  "generated_at": "2026-07-14T04:21:27+00:00",
   "topics": {
     "ai": [
       {
@@ -140,6 +140,13 @@
         "published_at": "2026-07-14T03:18:19+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260714-01"
+      },
+      {
+        "title": "【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T21:16:21+00:00",
+        "relevance_score": 5,
+        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2124799.html"
       }
     ],
     "security": [
@@ -179,6 +186,13 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/Nutlope/hallmark"
+      },
+      {
+        "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T03:33:20+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/"
       }
     ],
     "geopolitics": [
@@ -202,6 +216,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/moeru-ai/airi"
+      },
+      {
+        "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T03:33:20+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/"
       }
     ]
   }

@@ -419,6 +419,26 @@
     "id": "775d739877b941eeaece"
   },
   {
+    "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
+    "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-14T03:33:20+00:00",
+    "fetched_at": "2026-07-14T04:20:53+00:00",
+    "summary": "The United States digital asset ecosystem faces a precarious turning point today as sweeping regulatory changes collide with severe macroeconomic shocks. The Securities and Exchange Commission recently advanced its extensive Regulation Crypto rule package to formal White House review. This comprehensive market framework moves the federal government away from case-by-case enforcement actions toward a predictable […]…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "18caff41b7a98f8cfcf3"
+  },
+  {
     "title": "松本大臣記者会見（令和8年7月14日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-260714-01",
     "source": "Japan Digital Agency News RSS",
@@ -481,6 +501,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cf84159663060abfc976"
+  },
+  {
+    "title": "【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2124799.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-13T21:16:21+00:00",
+    "fetched_at": "2026-07-14T04:20:53+00:00",
+    "summary": "【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4aca5fd490ba554bf570"
+  },
+  {
+    "title": "SRE NEXT 2026 発表資料まとめ - SRE NEXT Staff Blog",
+    "url": "https://blog.sre-next.dev/entry/2026/07/13/173953",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-13T10:19:38+00:00",
+    "fetched_at": "2026-07-14T04:20:53+00:00",
+    "summary": "こんにちは、SRE NEXT 2026 Co-chairの末藤です。 SRE NEXT 2026にご参加いただいた皆さま、ありがとうございました！ 本記事では、公開された発表資料をタイムテーブル順にまとめています。 資料は補足次第、随時追加・更新していきますが、もしリンクのない講演で発表資料を見つけたものがありましたら - staff2026+sl...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d9dbb1ccd1b8b52437dd"
   },
   {
     "title": "Raphire/Win11Debloat",

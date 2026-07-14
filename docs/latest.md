@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T03:18:59+00:00_
+_Generiert: 2026-07-14T04:21:27+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote boilerplate (x0.45)
   - Kurz: Latest update, v1.0.3World-class docs foreverything you ship.Fast, AI-ready, and zero-config. Drop Markdown into a folder and ship a production-grade docs site, no app boilerplate to write or maintain. Free and open source, forever.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2124799.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-13T21:16:21+00:00`, fetched `2026-07-14T04:20:53+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Raphire/Win11Debloat** — Score 5, observation — [Quelle](https://github.com/Raphire/Win11Debloat)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-14T02:09:17+00:00`
