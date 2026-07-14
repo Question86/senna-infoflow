@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:23:10+00:00",
+  "generated_at": "2026-07-14T09:09:25+00:00",
   "sections": {
     "global_security": [
       {
@@ -110,17 +110,12 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.4 - 191 km SE of Lorengau, Papua New Guinea",
-        "summary": "M6.4 - 191 km SE of Lorengau, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy",
-        "published_at": "2026-07-13T08:53:27+00:00",
-        "metrics": {
-          "mag": 6.4,
-          "alert": "green",
-          "sig": 630.0,
-          "tsunami": 0
-        }
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -131,6 +126,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551421",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 11 km N of Pichigua, Peru",
+        "summary": "M5.6 - 11 km N of Pichigua, Peru. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3",
+        "published_at": "2026-07-14T08:21:06+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

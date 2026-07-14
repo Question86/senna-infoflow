@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T08:23:07+00:00",
+  "generated_at": "2026-07-14T09:09:23+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-14T02:09:36+00:00",
+        "published_at": "2026-07-14T09:09:12+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -40,6 +40,13 @@
         "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
       },
       {
+        "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T08:30:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
+      },
+      {
         "title": "Southeast Asian SMEs remain soft targets as ransomware groups refine extortion tactics",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-14T06:13:45+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-14T04:30:18+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/"
-      },
-      {
-        "title": "Singapore and Taiwan have a new window of opportunity, but will they seize it?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T03:00:23+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/"
       }
     ],
     "github": [
@@ -121,6 +121,13 @@
         "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/"
       },
       {
+        "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T08:30:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
+      },
+      {
         "title": "Architecting the future: A strategic guide to building an internal AI academy",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-14T02:00:11+00:00",
@@ -158,6 +165,20 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (plexus-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T08:36:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2300"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Ollama: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T08:31:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2298"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-14T07:27:40+00:00",
@@ -193,25 +214,55 @@
         "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
       },
       {
+        "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T08:36:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2299"
+      },
+      {
+        "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T08:30:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
+      },
+      {
         "title": "[UPDATE] [hoch] binutils: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-14T07:27:39+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1217"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (plexus-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T08:36:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2300"
       },
       {
-        "title": "[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[NEU] [UNGEPATCHT] [mittel] Ollama: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T07:27:38+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1126"
+        "published_at": "2026-07-14T08:31:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2298"
       },
       {
-        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T07:27:38+00:00",
+        "published_at": "2026-07-14T08:36:39+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1075"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2299"
+      },
+      {
+        "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T08:30:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
       },
       {
         "title": "Southeast Asian SMEs remain soft targets as ransomware groups refine extortion tactics",
@@ -221,11 +272,39 @@
         "url": "https://e27.co/southeast-asian-smes-remain-soft-targets-as-ransomware-groups-refine-extortion-tactics-20260714/"
       },
       {
-        "title": "[UPDATE] [mittel] Mattermost Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T04:51:40+00:00",
+        "title": "Architecting the future: A strategic guide to building an internal AI academy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107"
+        "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/"
+      },
+      {
+        "title": "PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:21+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/"
+      },
+      {
+        "title": "ECB selects 36 payment service providers to join digital euro pilot",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-14T09:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/moeru-ai/airi"
+      },
+      {
+        "title": "Alte Cisco-Lücke attackiert: Leitfaden zum Schutz",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-14T05:38:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html"
       }
     ],
     "general": [
@@ -249,6 +328,13 @@
         "published_at": "2026-07-14T01:53:42.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085"
+      },
+      {
+        "title": "M 5.6 - 11 km N of Pichigua, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-14T08:52:30.062+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3"
       },
       {
         "title": "M 4.8 - Mid-Indian Ridge",
@@ -291,57 +377,6 @@
         "published_at": "2026-07-14T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/resources/govdashboard/front-yard-reform"
-      },
-      {
-        "title": "民間事業者向けマイナンバーカード活用情報における基本情報の資料を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-14T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/mynumber/private-business"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Southeast Asian SMEs remain soft targets as ransomware groups refine extortion tactics",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T06:13:45+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/southeast-asian-smes-remain-soft-targets-as-ransomware-groups-refine-extortion-tactics-20260714/"
-      },
-      {
-        "title": "Architecting the future: A strategic guide to building an internal AI academy",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T02:00:11+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/"
-      },
-      {
-        "title": "PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T02:00:21+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/"
-      },
-      {
-        "title": "moeru-ai/airi",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/moeru-ai/airi"
-      },
-      {
-        "title": "Alte Cisco-Lücke attackiert: Leitfaden zum Schutz",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-14T05:38:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html"
-      },
-      {
-        "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T03:33:20+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/"
       }
     ]
   }
