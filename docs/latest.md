@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T09:09:23+00:00_
+_Generiert: 2026-07-14T09:51:11+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+54 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-07-14 07:04:54 UTC 2026-07-14 07:04:54 UTC at epicenter Location 12.797°N 123.136°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール** — Score 15, opportunity — [Quelle](https://japan.zdnet.com/article/35250374/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-14T02:40:43+00:00`, fetched `2026-07-14T09:50:42+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: インド・ムンバイで開催された「Open Source Summit India 2026」において、「Linux」の生みの親であるLinus Torvalds氏と、その友人であるDirk Hohndel氏が、Linuxの現状と今後の方向性について対談した。 Linux 7.1：地味で着実な進歩 対談は、Hohndel氏が「Linux 7.1」のリリースに関する見解をTorvalds氏に尋ねる形...
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.6 - 34 km SE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-14T01:53:42.040+00:00`, fetched `2026-07-14T02:09:17+00:00`
