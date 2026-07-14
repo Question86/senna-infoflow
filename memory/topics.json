@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T09:51:11+00:00",
+  "generated_at": "2026-07-14T10:27:32+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-14T09:09:12+00:00",
+        "published_at": "2026-07-14T10:27:19+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -61,18 +61,18 @@
         "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/"
       },
       {
+        "title": "The Gulf has billions to spend on AI. It still needs Nvidia",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-14T10:00:39+00:00",
+        "relevance_score": 13,
+        "url": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "Most GTM failures look like strategy problems but are actually architecture problems",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-14T01:30:37+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/"
-      },
-      {
-        "title": "Alibaba, Mirae Asset join PixVerse’s US$439M Series C push into AI games",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T04:30:18+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/"
       }
     ],
     "github": [
@@ -163,6 +163,13 @@
         "url": "https://github.com/Nutlope/hallmark"
       },
       {
+        "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-14T07:49:04+00:00",
+        "relevance_score": 8,
+        "url": "https://gigazine.net/news/20260714-prepare-for-ai-statement/"
+      },
+      {
         "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-14T03:33:20+00:00",
@@ -171,6 +178,41 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel (Dirty Frag): Mehrere Schwachstellen ermöglichen Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T10:22:24+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1430"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T10:22:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1405"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T10:22:02+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1385"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T10:21:47+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0773"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T10:21:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1722"
+      },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (plexus-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
         "source": "BSI CERT-Bund Security Advisories",
@@ -205,41 +247,6 @@
         "published_at": "2026-07-14T06:46:39+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2293"
-      },
-      {
-        "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T06:16:40+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1849"
-      },
-      {
-        "title": "When AI leaves the screen, cybersecurity becomes product responsibility",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T01:30:32+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
-      },
-      {
-        "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T08:36:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2299"
-      },
-      {
-        "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T08:30:23+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
-      },
-      {
-        "title": "[UPDATE] [hoch] binutils: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T07:27:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1217"
       }
     ],
     "geopolitics": [
