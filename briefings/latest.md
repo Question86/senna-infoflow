@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T20:50:18+00:00_
+_Generiert: 2026-07-14T21:14:39+00:00_
 
 ## Kurzlage
 
-101 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+101 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -352,3 +352,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
+- `google_trends_philippines_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH
