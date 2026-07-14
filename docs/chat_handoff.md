@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-14T18:57:21+00:00_
+_Generated: 2026-07-14T19:31:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `99`
+- findings: `100`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-14T18:57:21+00:00_
 - url: https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint
 - summary: これはなに？ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾値は、人間の文章137本とAIの文章406本のコーパスで校正し...
 
-### 5. The Gulf has billions to spend on AI. It still needs Nvidia
+### 5. M 5.4 - 90 km SSE of False Pass, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-14T19:30:41.592+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-07-14 18:51:07 UTC 2026-07-14 18:51:07 UTC at epicenter Location 54.176°N 162.638°W Depth 47.04 km (29.23 mi)
+
+### 6. The Gulf has billions to spend on AI. It still needs Nvidia
 - source: Rest of World Global Tech Feed
 - score: `13`
 - published: `2026-07-14T10:00:39+00:00`
 - url: https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Saudi Arabia and the UAE are trying to diversify their AI supply chains, but geopolitical constraints and Nvidia's technological lead leave them with few viable alternatives.
 
-### 6. M 5.6 - 11 km N of Pichigua, Peru
+### 7. M 5.6 - 11 km N of Pichigua, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-14T08:52:30.062+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3
 - summary: ShakeMap - IV Time 2026-07-14 08:21:06 UTC 2026-07-14 08:21:06 UTC at epicenter Location 14.578°S 71.436°W Depth 140.09 km (87.05 mi)
 
-### 7. Bowman, Responsible Innovation and Financial Inclusion
+### 8. Bowman, Responsible Innovation and Financial Inclusion
 - source: Federal Reserve Speeches and Testimony
 - score: `12`
 - published: `2026-07-14T18:55:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm
 - summary: Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C. (via pre-recorded video)
-
-### 8. Dependabot version updates introduce default package cooldown
-- source: GitHub Changelog Atom
-- score: `12`
-- published: `2026-07-14T16:42:59+00:00`
-- url: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown
-- summary: Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the… The post Dependabot version updates introduce default package cooldown appeared first o…
 
 END OF DOCUMENT

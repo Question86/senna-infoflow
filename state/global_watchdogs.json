@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T18:57:24+00:00",
+  "generated_at": "2026-07-14T19:31:26+00:00",
   "sections": {
     "global_security": [
       {
@@ -29,6 +29,30 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "CISA KEV: CVE-2026-15409 SonicWall SMA1000 Appliances",
+        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-14",
+        "metrics": {
+          "cve": "CVE-2026-15409"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-15410 SonicWall SMA1000 Appliances",
+        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-14",
+        "metrics": {
+          "cve": "CVE-2026-15410"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "CISA KEV: CVE-2008-4128 Cisco IOS",
         "summary": "Known exploited vulnerability. Added 2026-07-13. Due 2026-07-16. Cisco IOS Cross-Site Request Forgery Vulnerability",
         "source": "CISA KEV",
@@ -36,30 +60,6 @@
         "published_at": "2026-07-13",
         "metrics": {
           "cve": "CVE-2008-4128"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-56291 Balbooa Forms",
-        "summary": "Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-10",
-        "metrics": {
-          "cve": "CVE-2026-56291"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-48939 iCagenda iCagenda",
-        "summary": "Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-10",
-        "metrics": {
-          "cve": "CVE-2026-48939"
         }
       },
       {
@@ -113,7 +113,7 @@
         "metrics": {
           "mag": 6.2,
           "alert": "green",
-          "sig": 617.0,
+          "sig": 619.0,
           "tsunami": 0
         }
       },

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T18:57:21+00:00_
+_Generiert: 2026-07-14T19:31:23+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+100 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -17,18 +17,18 @@ _Generiert: 2026-07-14T18:57:21+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-14`
   - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability
+- **CISA KEV: CVE-2026-15409 SonicWall SMA1000 Appliances** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-14`
+  - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability
+- **CISA KEV: CVE-2026-15410 SonicWall SMA1000 Appliances** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-14`
+  - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Code Injection Vulnerability
 - **CISA KEV: CVE-2008-4128 Cisco IOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-13`
   - Kurz: Known exploited vulnerability. Added 2026-07-13. Due 2026-07-16. Cisco IOS Cross-Site Request Forgery Vulnerability
-- **CISA KEV: CVE-2026-56291 Balbooa Forms** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-10`
-  - Kurz: Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability
-- **CISA KEV: CVE-2026-48939 iCagenda iCagenda** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-10`
-  - Kurz: Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846)
   - Quelle: GDACS
   - Zeit: ``
@@ -207,6 +207,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - 90 km SSE of False Pass, Alaska** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-14T19:30:41.592+00:00`, fetched `2026-07-14T19:30:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-07-14 18:51:07 UTC 2026-07-14 18:51:07 UTC at epicenter Location 54.176°N 162.638°W Depth 47.04 km (29.23 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The Gulf has billions to spend on AI. It still needs Nvidia** — Score 13, risk — [Quelle](https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-14T10:00:39+00:00`, fetched `2026-07-14T10:26:58+00:00`
@@ -269,15 +278,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - IV Time 2026-07-14 18:51:04 UTC 2026-07-14 18:51:04 UTC at epicenter Location 54.107°N 162.504°W Depth 5.00 km (3.11 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - 96 km SE of False Pass, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-14T12:33:49.353+00:00`, fetched `2026-07-14T12:38:37+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - IV DYFI? - IV Time 2026-07-14 12:12:19 UTC 2026-07-14 12:12:19 UTC at epicenter Location 54.146°N 162.543°W Depth 40.77 km (25.34 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Snapzy | Beautiful Screen Capture for macOS** — Score 11, observation — [Quelle](https://snapzy.app/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
