@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-14T06:02:48+00:00_
+_Generated: 2026-07-14T06:56:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `36`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-14T06:02:48+00:00_
 - url: https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/
 - summary: Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and…
 
-### 7. Alibaba, Mirae Asset join PixVerse’s US$439M Series C push into AI games
+### 7. M 4.8 - Mid-Indian Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-07-14T06:33:33.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097
+- summary: Time 2026-07-14 06:15:06 UTC 2026-07-14 06:15:06 UTC at epicenter Location 14.937°S 66.911°E Depth 10.00 km (6.21 mi)
+
+### 8. Alibaba, Mirae Asset join PixVerse’s US$439M Series C push into AI games
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-07-14T04:30:18+00:00`
 - url: https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/
 - summary: PixVerse has extended its Series C round, bringing total fundraising in the round to US$439 million, as the AI video generation company seeks to move beyond short-form video creation into games, virtual hosting, and real-time interactive entertainment. The co…
-
-### 8. Singapore and Taiwan have a new window of opportunity, but will they seize it?
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-14T03:00:23+00:00`
-- url: https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/
-- summary: Hard work and innovation have led to both Taiwan’s and Singapore’s AI-related boom and global leadership in IC/chip design and manufacturing and related infrastructure. “You have to be good to be lucky” This has placed both countries in the right place at the…
 
 END OF DOCUMENT
