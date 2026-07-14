@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T15:40:11+00:00",
+  "generated_at": "2026-07-14T16:08:12+00:00",
   "topics": {
     "ai": [
       {
@@ -330,6 +330,13 @@
     ],
     "general": [
       {
+        "title": "M 6.2 - 34 km WSW of Sarangani, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-14T16:07:15.419+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0"
+      },
+      {
         "title": "M 5.1 - 3 km NNW of Sugal, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-14T13:41:40.838+00:00",
@@ -391,13 +398,6 @@
         "published_at": "2026-07-14T11:27:17+00:00",
         "relevance_score": 10,
         "url": "https://japan.cnet.com/article/35250558/"
-      },
-      {
-        "title": "M 4.5 - 17 km NNE of Las Terrenas, Dominican Republic",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-14T15:35:46.628+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26195050"
       }
     ]
   }

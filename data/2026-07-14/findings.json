@@ -763,6 +763,43 @@
     "id": "91c000e9808687d4a7f7"
   },
   {
+    "title": "M 6.2 - 34 km WSW of Sarangani, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-14T16:07:15.419+00:00",
+    "fetched_at": "2026-07-14T16:07:41+00:00",
+    "summary": "DYFI? - V Time 2026-07-14 15:49:41 UTC 2026-07-14 15:49:41 UTC at epicenter Location 5.327°N 125.166°E Depth 67.85 km (42.16 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b5c025dfcf3a2489203d"
+  },
+  {
     "title": "M 5.1 - 3 km NNW of Sugal, Philippines",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0bm",
     "source": "USGS M4.5+ Earthquakes Past Hour",
