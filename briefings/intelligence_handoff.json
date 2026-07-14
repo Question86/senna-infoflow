@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-14T06:40:32Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “moeru-ai/airi” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-07-14T07:23:50Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1849",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T06:16:40+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows und Microsoft Windows Server ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Spoofing-Angriffe durchzuführen."
+    },
+    {
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -41,7 +66,7 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -65,11 +90,37 @@
       "summary": "The open-source CapCut alternative OpenCut A free and open source video editor for web, desktop, and mobile. Status OpenCut is being rewritten from the ground up. What's coming: An Editor API First-class third party plugins (made possible by a plugin-first architecture) Desktop, mobile, and browser from one codebase (…"
     },
     {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (openexr): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2293",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T06:46:39+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (openexr) ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "When AI leaves the screen, cybersecurity becomes product responsibility",
       "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T01:30:32+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -92,11 +143,38 @@
       "summary": "For the past two years, many companies have treated AI as a feature to be added quickly: a smarter chatbot, a faster support assistant, a more personalised recommendation engine. That phase is already giving way to something more consequential. AI is moving from back-end tools and text-based interfaces into products t…"
     },
     {
+      "title": "Southeast Asian SMEs remain soft targets as ransomware groups refine extortion tactics",
+      "url": "https://e27.co/southeast-asian-smes-remain-soft-targets-as-ransomware-groups-refine-extortion-tactics-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-14T06:13:45+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: ransomware",
+        "security high-signal: ransomware",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Ransomware attacks against small- and medium-sized enterprises (SMEs) in Southeast Asia rose in the first quarter of 2026, according to new data from Kaspersky, underscoring how smaller companies remain exposed even as cybercriminal groups sharpen their tactics and shift towards more layered extortion models. The cybe…"
+    },
+    {
       "title": "[UPDATE] [mittel] Mattermost Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T04:51:40+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -122,7 +200,7 @@
       "url": "https://useblume.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-13T22:26:42+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -150,7 +228,7 @@
       "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T04:35:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -177,7 +255,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 25.2,
+      "age_days": 25.23,
       "topics": [
         "ai"
       ],
@@ -206,7 +284,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-14T02:09:36+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro",
@@ -235,7 +313,7 @@
       "url": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T01:12:24+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -256,83 +334,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "これはなに？ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾値は、人間の文章137本とAIの文章406本のコーパスで校正し..."
-    },
-    {
-      "title": "Alte Cisco-Lücke attackiert: Leitfaden zum Schutz",
-      "url": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-07-14T05:38:00.000+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe"
-      ],
-      "summary": "Die US-IT-Sicherheitsbehörde CISA warnt vor Angriffen auf eine 18 Jahre alte Cisco-Lücke. Ein Leitfaden soll helfen, Router abzusichern."
-    },
-    {
-      "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
-      "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-14T03:33:20+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai",
-        "infra",
-        "macro"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, exchange",
-        "security high-signal: rce, exchange"
-      ],
-      "summary": "The United States digital asset ecosystem faces a precarious turning point today as sweeping regulatory changes collide with severe macroeconomic shocks. The Securities and Exchange Commission recently advanced its extensive Regulation Crypto rule package to formal White House review. This comprehensive market framewo…"
-    },
-    {
-      "title": "M 4.6 - 34 km SE of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-14T01:53:42.040+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-07-14 01:38:24 UTC 2026-07-14 01:38:24 UTC at epicenter Location 5.184°N 125.679°E Depth 66.19 km (41.13 mi)"
     }
   ],
   "read_order": [
@@ -344,8 +345,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "krass": 1,
+      "strong": 11
     }
   }
 }
