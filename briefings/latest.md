@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T17:36:39+00:00_
+_Generiert: 2026-07-14T18:01:11+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+95 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -48,7 +48,7 @@ _Generiert: 2026-07-14T17:36:39+00:00_
 - **USGS earthquake M6.2 - 34 km WSW of Sarangani, Philippines** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0)
   - Quelle: USGS
   - Zeit: `2026-07-14T15:49:41+00:00`
-  - Kurz: M6.2 - 34 km WSW of Sarangani, Philippines. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.2 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
   - Quelle: GDACS
   - Zeit: ``
