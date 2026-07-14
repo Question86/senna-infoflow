@@ -1615,6 +1615,29 @@
     "id": "ba1b3e00be6ebec335fd"
   },
   {
+    "title": "ターミナルマルチプレクサを tmux から herdr に移行した | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/herdr-tmux-replacement/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T05:44:56+00:00",
+    "fetched_at": "2026-07-14T16:39:12+00:00",
+    "summary": "ターミナルマルチプレクサを tmux から herdr へ移行しました。AI エージェント対応をネイティブに持つ herdr の導入手順と、実際の設定・連携方法を実装例とともに紹介します。 はじめに こんにちは、クラスメソッド製造ビジネステクノロジー部の嶋田です。 今回、ターミナルマルチプレクサを tmux から herdr へ移行し...",
+    "matched_keywords": [
+      "AI/KI",
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5c12eb57090db4a4cfb9"
+  },
+  {
     "title": "孫正義氏「人類が頂点の時代終わる」--AIの自己増殖「止めようと思っても止められない」",
     "url": "https://japan.cnet.com/article/35250523/",
     "source": "Hatena Bookmark Hotentry IT",

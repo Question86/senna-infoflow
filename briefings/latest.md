@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T16:08:12+00:00_
+_Generiert: 2026-07-14T16:39:41+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+91 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-07-14T16:08:12+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Langflow Authorization Bypass Through User-Controlled Key Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 130 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 130 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551647)
   - Quelle: GDACS
   - Zeit: ``
@@ -284,14 +288,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: GMOインターネットグループの熊谷正寿代表は7月14日、在宅勤務の完全廃止に踏み切った理由を自身のXアカウントで説明した。在宅勤務では時間当たりのPCタイピング数がデータ上確実に減っているとし、「トータルで在宅勤務はマイナス」と判断したという。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **孫正義氏「人類が頂点の時代終わる」--AIの自己増殖「止めようと思っても止められない」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35250523/)
+- **ターミナルマルチプレクサを tmux から herdr に移行した | DevelopersIO** — Score 10, observation — [Quelle](https://dev.classmethod.jp/articles/herdr-tmux-replacement/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-14T03:26:51+00:00`, fetched `2026-07-14T11:38:24+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Zeit: published `2026-07-14T05:44:56+00:00`, fetched `2026-07-14T16:39:12+00:00`
+  - Treffer: AI/KI, developer, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: AIがAIを進化させる時代が到来へ 孫氏は、地球上の生命がバクテリアから現在の姿まで進化した背景には、「自己増殖」と「自己進化」という2つの仕組みがあったと説明した。 「もしバクテリアに自己増殖がなかったら、この地球上に生命体は増えていない。もし自己進化という機能が備わっていなかったら、バクテリアのまま...
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
+  - Kurz: ターミナルマルチプレクサを tmux から herdr へ移行しました。AI エージェント対応をネイティブに持つ herdr の導入手順と、実際の設定・連携方法を実装例とともに紹介します。 はじめに こんにちは、クラスメソッド製造ビジネステクノロジー部の嶋田です。 今回、ターミナルマルチプレクサを tmux から herdr へ移行し...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Nutlope/hallmark** — Score 10, observation — [Quelle](https://github.com/Nutlope/hallmark)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
