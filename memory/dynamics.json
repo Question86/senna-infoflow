@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-14T07:23:50Z",
+  "generated_at": "2026-07-14T08:13:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 7,
-      "strong": 7,
+      "krass": 11,
+      "strong": 9,
       "watch": 5,
-      "quiet": 20
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 14,
+      "strong": 20,
       "watch": 5,
-      "quiet": 20
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T06:16:40+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -46,11 +46,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows und Microsoft Windows Server ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Spoofing-Angriffe durchzuführen."
     },
     {
+      "title": "[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1126",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T07:27:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -76,7 +100,7 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -100,11 +124,63 @@
       "summary": "The open-source CapCut alternative OpenCut A free and open source video editor for web, desktop, and mobile. Status OpenCut is being rewritten from the ground up. What's coming: An Editor API First-class third party plugins (made possible by a plugin-first architecture) Desktop, mobile, and browser from one codebase (…"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1265",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T07:27:40+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, einschließlich der Ausführung von beliebigem Code, der Manipulation von Speicherinhalten oder der Verursachung eines Denial-of-Service-Zustands."
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Hardened Images RPMs (jq und pyOpenSSL): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1183",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T07:27:39+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand verursachen, vertrauliche Informationen offenlegen oder nicht näher spezifizierte Angriffe durchführen, einschließlich potenzieller Co…"
+    },
+    {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (openexr): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2293",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T06:46:39+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -130,7 +206,7 @@
       "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T01:30:32+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security"
@@ -153,11 +229,63 @@
       "summary": "For the past two years, many companies have treated AI as a feature to be added quickly: a smarter chatbot, a faster support assistant, a more personalised recommendation engine. That phase is already giving way to something more consequential. AI is moving from back-end tools and text-based interfaces into products t…"
     },
     {
+      "title": "[UPDATE] [hoch] binutils: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1217",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T07:27:39+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in binutils ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code zur Ausführung zu bringen."
+    },
+    {
+      "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1075",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T07:27:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen."
+    },
+    {
       "title": "Southeast Asian SMEs remain soft targets as ransomware groups refine extortion tactics",
       "url": "https://e27.co/southeast-asian-smes-remain-soft-targets-as-ransomware-groups-refine-extortion-tactics-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T06:13:45+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -184,7 +312,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T04:51:40+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -210,7 +338,7 @@
       "url": "https://useblume.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-13T22:26:42+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -238,7 +366,7 @@
       "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T04:35:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -265,7 +393,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 25.23,
+      "age_days": 25.26,
       "topics": [
         "ai"
       ],
@@ -284,7 +412,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -1.5 for 25.2d old signal",
+        "aging penalty -1.5 for 25.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -294,7 +422,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-14T02:09:36+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro",
@@ -323,7 +451,7 @@
       "url": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T01:12:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -350,7 +478,7 @@
       "url": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-14T05:38:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -376,7 +504,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/front-yard-reform",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-14T06:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -401,7 +529,7 @@
       "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T03:33:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "infra",
@@ -424,11 +552,36 @@
       "summary": "The United States digital asset ecosystem faces a precarious turning point today as sweeping regulatory changes collide with severe macroeconomic shocks. The Securities and Exchange Commission recently advanced its extensive Regulation Crypto rule package to formal White House review. This comprehensive market framewo…"
     },
     {
+      "title": "M 5.2 - 14 km WSW of Mabiton, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-14T07:27:00.360+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - II Time 2026-07-14 07:04:54 UTC 2026-07-14 07:04:54 UTC at epicenter Location 12.797°N 123.136°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.8 - Mid-Indian Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-14T06:33:33.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -453,7 +606,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-14T01:53:42.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -477,7 +630,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-14T02:08:29.015+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -502,7 +655,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t083",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-14T02:06:56.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -527,7 +680,7 @@
       "url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-14T06:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -553,7 +706,7 @@
       "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T02:00:11+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -580,7 +733,7 @@
       "url": "https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T04:30:18+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -602,11 +755,35 @@
       "summary": "PixVerse has extended its Series C round, bringing total fundraising in the round to US$439 million, as the AI video generation company seeks to move beyond short-form video creation into games, virtual hosting, and real-time interactive entertainment. The company did not disclose the size of the extension, its latest…"
     },
     {
+      "title": "MySQLのスロークエリを調査して、APIのレスポンスタイムを5分から20秒に改善した話 - freee Developers Hub",
+      "url": "https://developers.freee.co.jp/entry/mysql-order-by-limit-slow-query",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-14T02:28:05+00:00",
+      "age_days": 0.24,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "こんにちは。freee請求書エンジニアのshunです。 24卒未経験でfreeeに入社し、freee請求書プロダクトの開発を行っています。 この記事では、先日行ったAPIのスロークエリの改善について紹介します。 APIのエンドポイントで発生していた約5分のスロークエリを、原因調査からMySQLオプティマイザの挙動の読み解きまで行い..."
+    },
+    {
       "title": "これは便利すぎてお勧め！ macOSで画面をキャプチャする最強のスクリーンショットアプリ -Snapzy、しかも完全に無料！！",
       "url": "https://coliss.com/articles/build-websites/operation/work/snapzy-native-screen-capture-app.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T01:03:58+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -630,7 +807,7 @@
       "url": "https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T03:00:23+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -656,7 +833,7 @@
       "url": "https://github.com/Nutlope/hallmark",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -683,7 +860,7 @@
       "url": "https://www.digital.go.jp/policies/mynumber/private-business",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-14T06:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -707,7 +884,7 @@
       "url": "https://www.digital.go.jp/about/drone",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-14T06:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -731,7 +908,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260714-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-14T03:18:19+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -755,7 +932,7 @@
       "url": "https://e27.co/crossing-the-valley-of-death-20260618/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T02:00:29+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -781,7 +958,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/08/news027.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T00:33:48+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -805,7 +982,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-13T22:13:30+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -829,7 +1006,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2124799.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-13T21:16:21+00:00",
-      "age_days": 0.42,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -853,7 +1030,7 @@
       "url": "https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T02:00:21+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -873,185 +1050,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Malaysian insurtech company PolicyStreet has secured an additional US$5 million from BlueOrchard, taking its Series C round to US$26 million as it looks to expand embedded insurance distribution across Asia. BlueOrchard, an impact investment manager and part of the Schroders Group, invested through its InsuResilience…"
-    },
-    {
-      "title": "Most GTM failures look like strategy problems but are actually architecture problems",
-      "url": "https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-14T01:30:37+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and more structural — the systems underneath the motion were ne…"
-    },
-    {
-      "title": "Raphire/Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. Win11Debloat Win11Debloat is a lightweight, easy to use PowerShell…"
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 24.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -10.6 for 24.2d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 24.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -10.6 for 24.2d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 24.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -10.6 for 24.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
-      "url": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-14T00:27:13+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "みなさまこんにちは！エアークローゼットでCTOをしている辻です。 設計編では、アプリケーション / インフラ / CI / LLMの4軸を、それぞれの問いの性質に合わせて別々の形でObservableにする話を書きました。ここまでで観測スタックの書き込み側は一旦区切ったところです。 ただし、「Observableにしただけ」で話は終わ..."
-    },
-    {
-      "title": "SRE NEXT 2026 発表資料まとめ - SRE NEXT Staff Blog",
-      "url": "https://blog.sre-next.dev/entry/2026/07/13/173953",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-13T10:19:38+00:00",
-      "age_days": 0.88,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "こんにちは、SRE NEXT 2026 Co-chairの末藤です。 SRE NEXT 2026にご参加いただいた皆さま、ありがとうございました！ 本記事では、公開された発表資料をタイムテーブル順にまとめています。 資料は補足次第、随時追加・更新していきますが、もしリンクのない講演で発表資料を見つけたものがありましたら - staff2026+sl..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
