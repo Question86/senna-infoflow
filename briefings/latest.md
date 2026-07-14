@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T21:14:39+00:00_
+_Generiert: 2026-07-14T21:36:28+00:00_
 
 ## Kurzlage
 
-101 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+102 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,6 +49,10 @@ _Generiert: 2026-07-14T21:14:39+00:00_
   - Quelle: USGS
   - Zeit: `2026-07-14T15:49:41+00:00`
   - Kurz: M6.2 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001282)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
   - Quelle: GDACS
   - Zeit: ``
@@ -132,6 +136,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia’s startup ecosystem has spent the past several years wrestling with a familiar problem: founders and enterprises alike struggle to find the right partners at the right time. Corporates looking to work with startups often lack visibility into who is building what, while startups seeking distribution, capital, or co-development partners frequently rely on informal […] The post e27 expands AI-powered bus…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Manage secret scanning custom patterns via REST API** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-07-13-create-and-manage-secret-scanning-custom-patterns-via-rest-api)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-13T23:59:13+00:00`, fetched `2026-07-14T21:35:57+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Starting today, security teams can create, edit, and manage secret scanning custom patterns with the REST API. What’s new The following endpoints are generally available: GET .../secret-scanning/custom-patterns list patterns POST… The post Manage secret scanning custom patterns via REST API appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2142)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-14T11:46:43+00:00`, fetched `2026-07-14T12:05:18+00:00`
@@ -195,15 +208,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-14 07:44:09 UTC 2026-07-14 07:44:09 UTC at epicenter Location 40.134°N 143.193°E Depth 11.34 km (7.05 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール** — Score 15, opportunity — [Quelle](https://japan.zdnet.com/article/35250374/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-14T02:40:43+00:00`, fetched `2026-07-14T09:50:42+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: インド・ムンバイで開催された「Open Source Summit India 2026」において、「Linux」の生みの親であるLinus Torvalds氏と、その友人であるDirk Hohndel氏が、Linuxの現状と今後の方向性について対談した。 Linux 7.1：地味で着実な進歩 対談は、Hohndel氏が「Linux 7.1」のリリースに関する見解をTorvalds氏に尋ねる形...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
@@ -352,8 +356,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
-- `google_trends_philippines_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH

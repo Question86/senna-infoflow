@@ -272,6 +272,28 @@
     "id": "db480c4b75c8da32529c"
   },
   {
+    "title": "Manage secret scanning custom patterns via REST API",
+    "url": "https://github.blog/changelog/2026-07-13-create-and-manage-secret-scanning-custom-patterns-via-rest-api",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-13T23:59:13+00:00",
+    "fetched_at": "2026-07-14T21:35:57+00:00",
+    "summary": "Starting today, security teams can create, edit, and manage secret scanning custom patterns with the REST API. What’s new The following endpoints are generally available: GET .../secret-scanning/custom-patterns list patterns POST… The post Manage secret scanning custom patterns via REST API appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c566cf608f9400eef956"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2142",
     "source": "BSI CERT-Bund Security Advisories",

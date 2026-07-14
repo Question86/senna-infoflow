@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T21:14:39+00:00",
+  "generated_at": "2026-07-14T21:36:28+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/"
       },
       {
+        "title": "Manage secret scanning custom patterns via REST API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-13T23:59:13+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-13-create-and-manage-secret-scanning-custom-patterns-via-rest-api"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-14T11:46:43+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-14T01:30:32+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
-      },
-      {
-        "title": "Security reviews now available in the GitHub Copilot app",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-14T12:54:12+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"
       }
     ],
     "security": [
@@ -89,6 +89,13 @@
         "published_at": "2026-07-14T18:10:00+00:00",
         "relevance_score": 23,
         "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html"
+      },
+      {
+        "title": "Manage secret scanning custom patterns via REST API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-13T23:59:13+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-13-create-and-manage-secret-scanning-custom-patterns-via-rest-api"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-14T11:12:39+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1988"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:18+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1976"
       }
     ],
     "github": [
@@ -168,6 +168,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/OpenCut-app/OpenCut"
+      },
+      {
+        "title": "Manage secret scanning custom patterns via REST API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-13T23:59:13+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-13-create-and-manage-secret-scanning-custom-patterns-via-rest-api"
       },
       {
         "title": "L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール",
@@ -210,13 +217,6 @@
         "published_at": "2026-07-13T22:26:42+00:00",
         "relevance_score": 5,
         "url": "https://useblume.dev/"
-      },
-      {
-        "title": "Raphire/Win11Debloat",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/Raphire/Win11Debloat"
       }
     ],
     "geopolitics": [
