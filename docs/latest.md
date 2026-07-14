@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T22:26:18+00:00_
+_Generiert: 2026-07-14T23:10:03+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+106 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -213,14 +213,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
   - Kurz: Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and more structural — the systems underneath the motion were never designed to […] The post Most GTM failures look like strategy problems but are actually architec…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 101 km SE of False Pass, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvtyyw)
+- **M 5.5 - Fiji region** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-14T18:56:45.795+00:00`, fetched `2026-07-14T18:56:52+00:00`
+  - Zeit: published `2026-07-14T23:08:52.685+00:00`, fetched `2026-07-14T23:09:32+00:00`
   - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - IV Time 2026-07-14 18:51:04 UTC 2026-07-14 18:51:04 UTC at epicenter Location 54.107°N 162.504°W Depth 5.00 km (3.11 mi)
+  - Kurz: ShakeMap - II Time 2026-07-14 22:50:12 UTC 2026-07-14 22:50:12 UTC at epicenter Location 20.748°S 178.509°W Depth 574.30 km (356.86 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Snapzy | Beautiful Screen Capture for macOS** — Score 11, observation — [Quelle](https://snapzy.app/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

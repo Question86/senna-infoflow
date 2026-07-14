@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:26:20+00:00",
+  "generated_at": "2026-07-14T23:10:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -113,7 +113,7 @@
         "metrics": {
           "mag": 6.2,
           "alert": "green",
-          "sig": 621.0,
+          "sig": 622.0,
           "tsunami": 0
         }
       },
@@ -136,6 +136,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - Fiji region",
+        "summary": "M5.5 - Fiji region. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk",
+        "published_at": "2026-07-14T22:50:12+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
