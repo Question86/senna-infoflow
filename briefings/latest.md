@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T12:39:11+00:00_
+_Generiert: 2026-07-14T13:06:25+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+85 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,30 +29,12 @@ _Generiert: 2026-07-14T12:39:11+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Langflow Authorization Bypass Through User-Controlled Key Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551647)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.
-- **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551590)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.
-- **GDACS: Green flood alert in Germany** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104019)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Germany
 - **USGS earthquake M6.3 - southeast of the Loyalty Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n)
   - Quelle: USGS
   - Zeit: `2026-07-13T14:45:49+00:00`
   - Kurz: M6.3 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551421)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f935238e5d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -71,7 +53,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-14T12:05:37+00:00`, fetched `2026-07-14T12:05:18+00:00`
+  - Zeit: published `2026-07-14T13:06:14+00:00`, fetched `2026-07-14T13:05:56+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -279,6 +261,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: PixVerse has extended its Series C round, bringing total fundraising in the round to US$439 million, as the AI video generation company seeks to move beyond short-form video creation into games, virtual hosting, and real-time interactive entertainment. The company did not disclose the size of the extension, its latest valuation, or how the round was […] The post Alibaba, Mirae Asset join PixVerse’s US$439M Series C…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GMO熊谷氏、在宅勤務廃止の理由説明--「タイピング数は確実に減少」「トータルでマイナス」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35250558/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-14T11:27:17+00:00`, fetched `2026-07-14T13:05:56+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: GMOインターネットグループの熊谷正寿代表は7月14日、在宅勤務の完全廃止に踏み切った理由を自身のXアカウントで説明した。在宅勤務では時間当たりのPCタイピング数がデータ上確実に減っているとし、「トータルで在宅勤務はマイナス」と判断したという。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **孫正義氏「人類が頂点の時代終わる」--AIの自己増殖「止めようと思っても止められない」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35250523/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-14T03:26:51+00:00`, fetched `2026-07-14T11:38:24+00:00`
@@ -323,15 +314,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. Project AIRI Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world. [ Join Discord Server ] [ Try it ] [ 简体中文 ] [ 日本…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名** — Score 8, observation — [Quelle](https://gigazine.net/news/20260714-prepare-for-ai-statement/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-14T07:49:04+00:00`, fetched `2026-07-14T10:26:58+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Stanford Digital Economy Labが「We Must Act Now(今すぐ行動しなければならない)」と題した声明を発表しました。声明はAIが世界の雇用にもたらす影響の深刻さについて警鐘を鳴らすもので、16人のノーベル賞受賞者やGoogle元CEOであるのエリック・シュミット氏を含む著名な経済学者やAI研究者が署名しています。 We Mus...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SAP-Patchday: Teils kritische Sicherheitslücken in mehreren Produkten gefixt** — Score 7, observation — [Quelle](https://www.heise.de/news/SAP-Patchday-Teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-gefixt-11363906.html)
   - Quelle: heise Security Alerts / `rss`
