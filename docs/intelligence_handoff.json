@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-14T03:46:38Z",
+  "generated_at": "2026-07-14T04:58:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “moeru-ai/airi” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T01:30:32+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -96,7 +96,7 @@
       "url": "https://useblume.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-13T22:26:42+00:00",
-      "age_days": 0.22,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -124,7 +124,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 25.08,
+      "age_days": 25.12,
       "topics": [
         "ai"
       ],
@@ -153,7 +153,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-14T02:09:36+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro",
@@ -178,11 +178,38 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
+      "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-14T03:33:20+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, exchange",
+        "security high-signal: rce, exchange"
+      ],
+      "summary": "The United States digital asset ecosystem faces a precarious turning point today as sweeping regulatory changes collide with severe macroeconomic shocks. The Securities and Exchange Commission recently advanced its extensive Regulation Crypto rule package to formal White House review. This comprehensive market framewo…"
+    },
+    {
       "title": "M 4.6 - 34 km SE of Sarangani, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-14T01:53:42.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -206,7 +233,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-14T02:08:29.015+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -231,7 +258,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t083",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-14T02:06:56.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -256,7 +283,7 @@
       "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T02:00:11+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -283,7 +310,7 @@
       "url": "https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T03:00:23+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -303,33 +330,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Hard work and innovation have led to both Taiwan’s and Singapore’s AI-related boom and global leadership in IC/chip design and manufacturing and related infrastructure. “You have to be good to be lucky” This has placed both countries in the right place at the right time. For Taiwan, the TAIEX is now the 5th largest in…"
-    },
-    {
-      "title": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. Hallmark A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated. Live demo → · twenty themes · four verbs · press T to cycle. Made by Together AI. Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes…"
     }
   ],
   "read_order": [
@@ -341,9 +341,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
+      "strong": 7,
       "watch": 3,
-      "quiet": 3
+      "quiet": 2
     }
   }
 }

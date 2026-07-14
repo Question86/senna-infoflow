@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-14T03:46:38Z",
+  "generated_at": "2026-07-14T04:58:17Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -49,6 +49,11 @@
     },
     {
       "title": "Updates | ReliefWeb",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "Regulation crypto is here: The 400-page rule that could kill or save American crypto innovation",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
