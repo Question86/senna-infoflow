@@ -1,24 +1,200 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T01:22:13+00:00",
+  "generated_at": "2026-07-14T02:09:47+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-14T02:09:36+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "OpenCut-app/OpenCut",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/OpenCut-app/OpenCut"
+      },
+      {
+        "title": "When AI leaves the screen, cybersecurity becomes product responsibility",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T01:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
+      },
+      {
+        "title": "Architecting the future: A strategic guide to building an internal AI academy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:11+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/"
+      },
+      {
+        "title": "Most GTM failures look like strategy problems but are actually architecture problems",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T01:30:37+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/"
+      },
+      {
+        "title": "Nutlope/hallmark",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/moeru-ai/airi"
+      },
+      {
+        "title": "Crossing the Valley of Death: Why startups need more than just cash to survive",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:29+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/crossing-the-valley-of-death-20260618/"
+      },
       {
         "title": "Blume — fast, AI-ready, markdown-first docs",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-13T22:26:42+00:00",
         "relevance_score": 5,
         "url": "https://useblume.dev/"
+      },
+      {
+        "title": "Raphire/Win11Debloat",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/Raphire/Win11Debloat"
       }
     ],
     "github": [
       {
+        "title": "OpenCut-app/OpenCut",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/OpenCut-app/OpenCut"
+      },
+      {
+        "title": "Nutlope/hallmark",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/moeru-ai/airi"
+      },
+      {
         "title": "Blume — fast, AI-ready, markdown-first docs",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-13T22:26:42+00:00",
         "relevance_score": 5,
         "url": "https://useblume.dev/"
+      },
+      {
+        "title": "Raphire/Win11Debloat",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/Raphire/Win11Debloat"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 4.6 - 34 km SE of Sarangani, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-14T01:53:42.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085"
+      },
+      {
+        "title": "M 5.0 - 2 km WSW of Congregación Reforma, Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-14T02:08:29.015+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s"
+      },
+      {
+        "title": "M 4.9 - southeast of the Loyalty Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-14T02:06:56.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t083"
+      }
+    ],
+    "security": [
+      {
+        "title": "When AI leaves the screen, cybersecurity becomes product responsibility",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T01:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Architecting the future: A strategic guide to building an internal AI academy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:11+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/"
+      },
+      {
+        "title": "PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:21+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/"
+      },
+      {
+        "title": "Most GTM failures look like strategy problems but are actually architecture problems",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T01:30:37+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/"
+      },
+      {
+        "title": "Nutlope/hallmark",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/Nutlope/hallmark"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Architecting the future: A strategic guide to building an internal AI academy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:11+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/architecting-the-future-a-strategic-guide-to-building-an-internal-ai-academy-20260710/"
+      },
+      {
+        "title": "PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T02:00:21+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/moeru-ai/airi"
       }
     ]
   }
