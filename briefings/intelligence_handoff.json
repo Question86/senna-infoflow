@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-14T11:01:20Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-07-14T11:44:28Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1849",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2431",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-14T06:16:40+00:00",
-      "age_days": 0.2,
+      "published_at": "2026-07-14T10:46:44+00:00",
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -30,17 +30,17 @@
       "security_high_signal": true,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code"
+        "high terms: code",
+        "security high-signal: code"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows und Microsoft Windows Server ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Spoofing-Angriffe durchzuführen."
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um beliebigen Code auszuführen, privilegierten Zugriff zu erlangen, sensible Informationen zu stehlen oder betroffene Systeme funktionsunfähig zu machen."
     },
     {
       "title": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://japan.zdnet.com/article/35250374/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T02:40:43+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -90,11 +90,167 @@
       "summary": "インド・ムンバイで開催された「Open Source Summit India 2026」において、「Linux」の生みの親であるLinus Torvalds氏と、その友人であるDirk Hohndel氏が、Linuxの現状と今後の方向性について対談した。 Linux 7.1：地味で着実な進歩 対談は、Hohndel氏が「Linux 7.1」のリリースに関する見解をTorvalds氏に尋ねる形..."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2051",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T11:12:40+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht näher spezifizierte Angriffe durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2040",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T11:12:39+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Sicherheitsmechanismen zu umgehen, sowie einen Denial of Service Angriff oder andere nicht spezifizierte Angriffe durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1976",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T11:12:18+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2579",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T10:46:46+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2450",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T10:46:45+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service-Situation führen oder eine Speicherbeschädigung verursachen können."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2298",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-14T10:46:43+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren und andere, nicht näher spezifizierte Angriffe durchzuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1405",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T10:22:23+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -120,7 +276,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1385",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T10:22:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -146,7 +302,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2300",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T08:36:40+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -166,168 +322,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1265",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-14T07:27:40+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, einschließlich der Ausführung von beliebigem Code, der Manipulation von Speicherinhalten oder der Verursachung eines Denial-of-Service-Zustands."
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Hardened Images RPMs (jq und pyOpenSSL): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1183",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-14T07:27:39+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand verursachen, vertrauliche Informationen offenlegen oder nicht näher spezifizierte Angriffe durchführen, einschließlich potenzieller Co…"
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (openexr): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2293",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-14T06:46:39+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (openexr) ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen und um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "The Gulf has billions to spend on AI. It still needs Nvidia",
-      "url": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-07-14T10:00:39+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai",
-        "security",
-        "infra"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: supply, chain",
-        "high terms: rce",
-        "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Saudi Arabia and the UAE are trying to diversify their AI supply chains, but geopolitical constraints and Nvidia's technological lead leave them with few viable alternatives."
-    },
-    {
-      "title": "When AI leaves the screen, cybersecurity becomes product responsibility",
-      "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-14T01:30:32+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "For the past two years, many companies have treated AI as a feature to be added quickly: a smarter chatbot, a faster support assistant, a more personalised recommendation engine. That phase is already giving way to something more consequential. AI is moving from back-end tools and text-based interfaces into products t…"
-    },
-    {
-      "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
-      "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-14T08:30:23+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai",
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: ransomware",
-        "security high-signal: ransomware",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Ransomware groups are no longer hunting for the biggest fish. They are hunting for the most defenceless ones, and across Southeast Asia, that means small and medium enterprises (SMEs). The shift is deliberate. As large corporations harden their defences with enterprise-grade security stacks, threat actors have recalib…"
     }
   ],
   "read_order": [
