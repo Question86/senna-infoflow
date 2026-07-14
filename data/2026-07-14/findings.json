@@ -1864,6 +1864,28 @@
     "id": "f9bd76f43e55680cefe4"
   },
   {
+    "title": "Claude Codeでレガシーシステムの刷新を進めた方法",
+    "url": "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T03:39:16+00:00",
+    "fetched_at": "2026-07-14T22:25:50+00:00",
+    "summary": "導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 今回は、「Claude Code」を用いて、カナダの州政府が運用する大規模なシステムの刷新を進めた手法を紹介します。 サマリー システムを運用する上で常に課題になるのが、古くなったシステムの運用です。長年にわたって改修が積み重なり、全体像が把握しにくいま...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2315378ec2e66a74037e"
+  },
+  {
     "title": "GMO熊谷氏、在宅勤務廃止の理由説明--「タイピング数は確実に減少」「トータルでマイナス」",
     "url": "https://japan.cnet.com/article/35250558/",
     "source": "Hatena Bookmark Hotentry IT",

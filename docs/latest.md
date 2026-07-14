@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T21:59:57+00:00_
+_Generiert: 2026-07-14T22:26:18+00:00_
 
 ## Kurzlage
 
-103 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+104 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -240,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: PixVerse has extended its Series C round, bringing total fundraising in the round to US$439 million, as the AI video generation company seeks to move beyond short-form video creation into games, virtual hosting, and real-time interactive entertainment. The company did not disclose the size of the extension, its latest valuation, or how the round was […] The post Alibaba, Mirae Asset join PixVerse’s US$439M Series C…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Codeでレガシーシステムの刷新を進めた方法** — Score 11, observation — [Quelle](https://zenn.dev/knowledgesense/articles/67c61463d9c664)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-14T03:39:16+00:00`, fetched `2026-07-14T22:25:50+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 今回は、「Claude Code」を用いて、カナダの州政府が運用する大規模なシステムの刷新を進めた手法を紹介します。 サマリー システムを運用する上で常に課題になるのが、古くなったシステムの運用です。長年にわたって改修が積み重なり、全体像が把握しにくいま...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GMO熊谷氏、在宅勤務廃止の理由説明--「タイピング数は確実に減少」「トータルでマイナス」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35250558/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-14T11:27:17+00:00`, fetched `2026-07-14T13:05:56+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: GMOインターネットグループの熊谷正寿代表は7月14日、在宅勤務の完全廃止に踏み切った理由を自身のXアカウントで説明した。在宅勤務では時間当たりのPCタイピング数がデータ上確実に減っているとし、「トータルで在宅勤務はマイナス」と判断したという。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ターミナルマルチプレクサを tmux から herdr に移行した | DevelopersIO** — Score 10, observation — [Quelle](https://dev.classmethod.jp/articles/herdr-tmux-replacement/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-14T05:44:56+00:00`, fetched `2026-07-14T16:39:12+00:00`
-  - Treffer: AI/KI, developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
-  - Kurz: ターミナルマルチプレクサを tmux から herdr へ移行しました。AI エージェント対応をネイティブに持つ herdr の導入手順と、実際の設定・連携方法を実装例とともに紹介します。 はじめに こんにちは、クラスメソッド製造ビジネステクノロジー部の嶋田です。 今回、ターミナルマルチプレクサを tmux から herdr へ移行し...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Nutlope/hallmark** — Score 10, observation — [Quelle](https://github.com/Nutlope/hallmark)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
