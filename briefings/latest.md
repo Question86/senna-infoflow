@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T23:10:03+00:00_
+_Generiert: 2026-07-14T23:30:46+00:00_
 
 ## Kurzlage
 
-106 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+107 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -60,7 +60,7 @@ _Generiert: 2026-07-14T23:10:03+00:00_
 - **USGS earthquake M5.5 - Fiji region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk)
   - Quelle: USGS
   - Zeit: `2026-07-14T22:50:12+00:00`
-  - Kurz: M5.5 - Fiji region. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - Fiji region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

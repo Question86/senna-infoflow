@@ -2561,6 +2561,27 @@
     "id": "b8063fa8e9702c4de89c"
   },
   {
+    "title": "PdMをやめて、\"プロダクトビルダー\"という働き方に変えました｜shikichee",
+    "url": "https://note.com/shikichee/n/n0bc06a50e66f",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T09:52:09+00:00",
+    "fetched_at": "2026-07-14T23:30:17+00:00",
+    "summary": "3ヶ月前、PdMをやめました。 正確には、要件をまとめて開発チームに渡すこれまでのPdMの働き方をやめて、プロダクトビルダーという働き方に変えました。 PdMが自分で作らない人でいられる時代は終わったと思ったからです。 こんにちは、Ubieでプロダクトビルダーをしているしきち（shikichee）です。 AIエージェントを使...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2b1cdc2352b3d021ec6f"
+  },
+  {
     "title": "Markdownからドキュメントサイトを構築、Astro/ViteベースのOSS「Blume」v1が公開 | gihyo.jp",
     "url": "https://gihyo.jp/article/2026/07/blume",
     "source": "Hatena Bookmark Hotentry IT",

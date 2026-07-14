@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T23:10:03+00:00",
-  "run_id": "2026-07-14T23:10:03+00:00",
+  "generated_at": "2026-07-14T23:30:46+00:00",
+  "run_id": "2026-07-14T23:30:46+00:00",
   "date": "2026-07-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 106
+      "configured_public_sources_only": 107
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 106,
-    "displayed_findings": 106,
+    "new_relevant_findings": 1,
+    "today_file_total": 107,
+    "displayed_findings": 107,
     "high": 0,
     "medium": 56,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -2591,6 +2591,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b8063fa8e9702c4de89c"
+      },
+      {
+        "title": "PdMをやめて、\"プロダクトビルダー\"という働き方に変えました｜shikichee",
+        "url": "https://note.com/shikichee/n/n0bc06a50e66f",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-14T09:52:09+00:00",
+        "fetched_at": "2026-07-14T23:30:17+00:00",
+        "summary": "3ヶ月前、PdMをやめました。 正確には、要件をまとめて開発チームに渡すこれまでのPdMの働き方をやめて、プロダクトビルダーという働き方に変えました。 PdMが自分で作らない人でいられる時代は終わったと思ったからです。 こんにちは、Ubieでプロダクトビルダーをしているしきち（shikichee）です。 AIエージェントを使...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b1cdc2352b3d021ec6f"
       },
       {
         "title": "Markdownからドキュメントサイトを構築、Astro/ViteベースのOSS「Blume」v1が公開 | gihyo.jp",
@@ -5369,6 +5390,27 @@
       "id": "b8063fa8e9702c4de89c"
     },
     {
+      "title": "PdMをやめて、\"プロダクトビルダー\"という働き方に変えました｜shikichee",
+      "url": "https://note.com/shikichee/n/n0bc06a50e66f",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-14T09:52:09+00:00",
+      "fetched_at": "2026-07-14T23:30:17+00:00",
+      "summary": "3ヶ月前、PdMをやめました。 正確には、要件をまとめて開発チームに渡すこれまでのPdMの働き方をやめて、プロダクトビルダーという働き方に変えました。 PdMが自分で作らない人でいられる時代は終わったと思ったからです。 こんにちは、Ubieでプロダクトビルダーをしているしきち（shikichee）です。 AIエージェントを使...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b1cdc2352b3d021ec6f"
+    },
+    {
       "title": "Markdownからドキュメントサイトを構築、Astro/ViteベースのOSS「Blume」v1が公開 | gihyo.jp",
       "url": "https://gihyo.jp/article/2026/07/blume",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5583,63 +5625,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.5 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-14T23:08:52.685+00:00",
-      "fetched_at": "2026-07-14T23:09:32+00:00",
-      "summary": "ShakeMap - II Time 2026-07-14 22:50:12 UTC 2026-07-14 22:50:12 UTC at epicenter Location 20.748°S 178.509°W Depth 574.30 km (356.86 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ec804f927ee280fa06ac"
-    },
-    {
-      "title": "AIの発展によって私たち「人間」に残される仕事は何か？人間とAIの「共同超知能」というビジョン",
-      "url": "https://gigazine.net/news/20260714-ai-left-work/",
+      "title": "PdMをやめて、\"プロダクトビルダー\"という働き方に変えました｜shikichee",
+      "url": "https://note.com/shikichee/n/n0bc06a50e66f",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-14T13:10:51+00:00",
-      "fetched_at": "2026-07-14T23:09:32+00:00",
-      "summary": "AIの能力が向上し続ける中で、「AIに仕事を奪われる」という懸念がしばしば話題になります。2026年7月6日からソウルで開催された「国際機械学習会議(ICML 2026)」の基調講演で、プリンストン大学のコンピューターサイエンス教授であるアルヴィンド・ナラヤナン氏が「AIが私たちが現在行っている仕事の多くを担うようにな...",
+      "published_at": "2026-07-14T09:52:09+00:00",
+      "fetched_at": "2026-07-14T23:30:17+00:00",
+      "summary": "3ヶ月前、PdMをやめました。 正確には、要件をまとめて開発チームに渡すこれまでのPdMの働き方をやめて、プロダクトビルダーという働き方に変えました。 PdMが自分で作らない人でいられる時代は終わったと思ったからです。 こんにちは、Ubieでプロダクトビルダーをしているしきち（shikichee）です。 AIエージェントを使...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c425b76849ed0813ef58"
+      "id": "2b1cdc2352b3d021ec6f"
     }
   ],
   "source_errors": [],
