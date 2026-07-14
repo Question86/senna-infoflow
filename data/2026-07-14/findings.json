@@ -1380,6 +1380,43 @@
     "id": "84f0082d9d4951ca6ad8"
   },
   {
+    "title": "M 5.3 - 96 km SE of False Pass, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-14T12:33:49.353+00:00",
+    "fetched_at": "2026-07-14T12:38:37+00:00",
+    "summary": "ShakeMap - IV DYFI? - IV Time 2026-07-14 12:12:19 UTC 2026-07-14 12:12:19 UTC at epicenter Location 54.146°N 162.543°W Depth 40.77 km (25.34 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2ac5ac79071017993120"
+  },
+  {
     "title": "M 4.8 - Mid-Indian Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1952,6 +1989,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f6079fc1e339c14d854b"
+  },
+  {
+    "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T10:02:56+00:00",
+    "fetched_at": "2026-07-14T12:38:37+00:00",
+    "summary": "日本ケンタッキー・フライド・チキンは7月14日、食材配送の委託先で不正アクセスによるシステム障害が発生し、KFC全店舗で商品の一部品切れや販売メニューの制限、営業時間の短縮、臨時休業が生じる可能性があると発表した。委託先は、13日に不正アクセスを公表したニチレイ（東京都中央区）であると、ITmedia NEWSの取...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b8063fa8e9702c4de89c"
   },
   {
     "title": "公共のUSBポートに差すのが怖い……そこで充電専用Type-Cケーブル",

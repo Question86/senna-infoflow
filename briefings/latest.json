@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T12:05:48+00:00",
-  "run_id": "2026-07-14T12:05:48+00:00",
+  "generated_at": "2026-07-14T12:39:11+00:00",
+  "run_id": "2026-07-14T12:39:11+00:00",
   "date": "2026-07-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "new_relevant_findings": 2,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
     "medium": 47,
-    "observe": 35,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -1412,6 +1412,43 @@
         "id": "84f0082d9d4951ca6ad8"
       },
       {
+        "title": "M 5.3 - 96 km SE of False Pass, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-14T12:33:49.353+00:00",
+        "fetched_at": "2026-07-14T12:38:37+00:00",
+        "summary": "ShakeMap - IV DYFI? - IV Time 2026-07-14 12:12:19 UTC 2026-07-14 12:12:19 UTC at epicenter Location 54.146°N 162.543°W Depth 40.77 km (25.34 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "2ac5ac79071017993120"
+      },
+      {
         "title": "M 4.8 - Mid-Indian Ridge",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1984,6 +2021,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f6079fc1e339c14d854b"
+      },
+      {
+        "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-14T10:02:56+00:00",
+        "fetched_at": "2026-07-14T12:38:37+00:00",
+        "summary": "日本ケンタッキー・フライド・チキンは7月14日、食材配送の委託先で不正アクセスによるシステム障害が発生し、KFC全店舗で商品の一部品切れや販売メニューの制限、営業時間の短縮、臨時休業が生じる可能性があると発表した。委託先は、13日に不正アクセスを公表したニチレイ（東京都中央区）であると、ITmedia NEWSの取...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8063fa8e9702c4de89c"
       },
       {
         "title": "公共のUSBポートに差すのが怖い……そこで充電専用Type-Cケーブル",
@@ -3539,6 +3597,43 @@
       "id": "84f0082d9d4951ca6ad8"
     },
     {
+      "title": "M 5.3 - 96 km SE of False Pass, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-14T12:33:49.353+00:00",
+      "fetched_at": "2026-07-14T12:38:37+00:00",
+      "summary": "ShakeMap - IV DYFI? - IV Time 2026-07-14 12:12:19 UTC 2026-07-14 12:12:19 UTC at epicenter Location 54.146°N 162.543°W Depth 40.77 km (25.34 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2ac5ac79071017993120"
+    },
+    {
       "title": "M 4.8 - Mid-Indian Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4113,6 +4208,27 @@
       "id": "f6079fc1e339c14d854b"
     },
     {
+      "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-14T10:02:56+00:00",
+      "fetched_at": "2026-07-14T12:38:37+00:00",
+      "summary": "日本ケンタッキー・フライド・チキンは7月14日、食材配送の委託先で不正アクセスによるシステム障害が発生し、KFC全店舗で商品の一部品切れや販売メニューの制限、営業時間の短縮、臨時休業が生じる可能性があると発表した。委託先は、13日に不正アクセスを公表したニチレイ（東京都中央区）であると、ITmedia NEWSの取...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8063fa8e9702c4de89c"
+    },
+    {
       "title": "公共のUSBポートに差すのが怖い……そこで充電専用Type-Cケーブル",
       "url": "https://pc.watch.impress.co.jp/docs/news/2124992.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4285,32 +4401,27 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-14T12:05:37+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "M 5.3 - 96 km SE of False Pass, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-14T12:33:49.353+00:00",
+      "fetched_at": "2026-07-14T12:38:37+00:00",
+      "summary": "ShakeMap - IV DYFI? - IV Time 2026-07-14 12:12:19 UTC 2026-07-14 12:12:19 UTC at epicenter Location 54.146°N 162.543°W Depth 40.77 km (25.34 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -4324,170 +4435,28 @@
         "HD",
         "LOW"
       ],
-      "id": "7a6c3ff80742bc3ae78f"
+      "id": "2ac5ac79071017993120"
     },
     {
-      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2142",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-14T11:46:43+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "896fb524e6feb5e53aba"
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] AnyDesk: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2315",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-14T11:46:46+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in AnyDesk ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a25111e29c6e5aad4085"
-    },
-    {
-      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2313",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-14T11:46:45+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a963ae6afc0b9279a1a7"
-    },
-    {
-      "title": "[NEU] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2314",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-14T11:46:45+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Eclipse Jetty ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "095a4a97878b7df1dfd2"
-    },
-    {
-      "title": "[NEU] [hoch] Notepad++: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2312",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-14T11:46:44+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Notepad++ ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "815a5ff7f352b82d78d0"
-    },
-    {
-      "title": "[NEU] [mittel] Apache ActiveMQ: Schwachstelle ermöglicht Cross-Site Scripting",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2311",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-14T11:46:43+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Apache ActiveMQ ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c71e291f79aa18b0eadc"
-    },
-    {
-      "title": "Snapzy | Beautiful Screen Capture for macOS",
-      "url": "https://snapzy.app/",
+      "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-14T04:54:34+00:00",
-      "fetched_at": "2026-07-14T12:05:18+00:00",
-      "summary": "Beautiful screen captures, instantlyCapture your screen with a lightweight, native macOS app. Privacy and locally.",
+      "published_at": "2026-07-14T10:02:56+00:00",
+      "fetched_at": "2026-07-14T12:38:37+00:00",
+      "summary": "日本ケンタッキー・フライド・チキンは7月14日、食材配送の委託先で不正アクセスによるシステム障害が発生し、KFC全店舗で商品の一部品切れや販売メニューの制限、営業時間の短縮、臨時休業が生じる可能性があると発表した。委託先は、13日に不正アクセスを公表したニチレイ（東京都中央区）であると、ITmedia NEWSの取...",
       "matched_keywords": [
-        "Datenschutz",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Datenschutz (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e81633e52d062b5c12f3"
+      "id": "b8063fa8e9702c4de89c"
     }
   ],
   "source_errors": [],
