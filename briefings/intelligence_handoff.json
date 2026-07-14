@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-14T09:41:08Z",
+  "generated_at": "2026-07-14T10:20:38Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T06:16:40+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-14T02:09:17+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -64,11 +64,37 @@
       "summary": "The open-source CapCut alternative OpenCut A free and open source video editor for web, desktop, and mobile. Status OpenCut is being rewritten from the ground up. What's coming: An Editor API First-class third party plugins (made possible by a plugin-first architecture) Desktop, mobile, and browser from one codebase (…"
     },
     {
+      "title": "L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール",
+      "url": "https://japan.zdnet.com/article/35250374/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-14T02:40:43+00:00",
+      "age_days": 0.32,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "インド・ムンバイで開催された「Open Source Summit India 2026」において、「Linux」の生みの親であるLinus Torvalds氏と、その友人であるDirk Hohndel氏が、Linuxの現状と今後の方向性について対談した。 Linux 7.1：地味で着実な進歩 対談は、Hohndel氏が「Linux 7.1」のリリースに関する見解をTorvalds氏に尋ねる形..."
+    },
+    {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (plexus-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2300",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T08:36:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -94,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1265",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T07:27:40+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -120,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1183",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T07:27:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -146,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2293",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T06:46:39+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -172,7 +198,7 @@
       "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T01:30:32+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -199,7 +225,7 @@
       "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T08:30:23+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security",
@@ -227,7 +253,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1217",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T07:27:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -253,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1075",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-14T07:27:38+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -279,7 +305,7 @@
       "url": "https://e27.co/southeast-asian-smes-remain-soft-targets-as-ransomware-groups-refine-extortion-tactics-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-14T06:13:45+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -300,32 +326,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "Ransomware attacks against small- and medium-sized enterprises (SMEs) in Southeast Asia rose in the first quarter of 2026, according to new data from Kaspersky, underscoring how smaller companies remain exposed even as cybercriminal groups sharpen their tactics and shift towards more layered extortion models. The cybe…"
-    },
-    {
-      "title": "[UPDATE] [mittel] Mattermost Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2107",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-14T04:51:40+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, 10",
-        "security high-signal: angriffe, 10",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost Server ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
     }
   ],
   "read_order": [
