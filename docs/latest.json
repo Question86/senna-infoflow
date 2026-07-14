@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T23:30:46+00:00",
-  "run_id": "2026-07-14T23:30:46+00:00",
+  "generated_at": "2026-07-14T23:52:03+00:00",
+  "run_id": "2026-07-14T23:52:03+00:00",
   "date": "2026-07-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-14T20:50:06+00:00",
-        "fetched_at": "2026-07-14T20:49:48+00:00",
+        "published_at": "2026-07-14T23:51:52+00:00",
+        "fetched_at": "2026-07-14T23:51:33+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "75f5bfd07e7a34194e09"
+        "id": "cf0b110502ccc40249d2"
       },
       {
         "title": "Code scanning shows AI security detections on pull requests",
@@ -2833,8 +2833,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-14T20:50:06+00:00",
-      "fetched_at": "2026-07-14T20:49:48+00:00",
+      "published_at": "2026-07-14T23:51:52+00:00",
+      "fetched_at": "2026-07-14T23:51:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2868,7 +2868,7 @@
         "HD",
         "LOW"
       ],
-      "id": "75f5bfd07e7a34194e09"
+      "id": "cf0b110502ccc40249d2"
     },
     {
       "title": "Code scanning shows AI security detections on pull requests",
@@ -5625,25 +5625,46 @@
   ],
   "new_findings": [
     {
-      "title": "PdMをやめて、\"プロダクトビルダー\"という働き方に変えました｜shikichee",
-      "url": "https://note.com/shikichee/n/n0bc06a50e66f",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-14T09:52:09+00:00",
-      "fetched_at": "2026-07-14T23:30:17+00:00",
-      "summary": "3ヶ月前、PdMをやめました。 正確には、要件をまとめて開発チームに渡すこれまでのPdMの働き方をやめて、プロダクトビルダーという働き方に変えました。 PdMが自分で作らない人でいられる時代は終わったと思ったからです。 こんにちは、Ubieでプロダクトビルダーをしているしきち（shikichee）です。 AIエージェントを使...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-14T23:51:52+00:00",
+      "fetched_at": "2026-07-14T23:51:33+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2b1cdc2352b3d021ec6f"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cf0b110502ccc40249d2"
     }
   ],
   "source_errors": [],

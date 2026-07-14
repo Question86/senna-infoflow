@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:30:49+00:00",
+  "generated_at": "2026-07-14T23:52:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -120,6 +120,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551894",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -136,21 +146,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - Fiji region",
-        "summary": "M5.5 - Fiji region. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk",
-        "published_at": "2026-07-14T22:50:12+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

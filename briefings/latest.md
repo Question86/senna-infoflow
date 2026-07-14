@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T23:30:46+00:00_
+_Generiert: 2026-07-14T23:52:03+00:00_
 
 ## Kurzlage
 
@@ -49,6 +49,10 @@ _Generiert: 2026-07-14T23:30:46+00:00_
   - Quelle: USGS
   - Zeit: `2026-07-14T15:49:41+00:00`
   - Kurz: M6.2 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551894)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.
 - **GDACS: Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001282)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +61,6 @@ _Generiert: 2026-07-14T23:30:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.
-- **USGS earthquake M5.5 - Fiji region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk)
-  - Quelle: USGS
-  - Zeit: `2026-07-14T22:50:12+00:00`
-  - Kurz: M5.5 - Fiji region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -79,7 +79,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-14T20:50:06+00:00`, fetched `2026-07-14T20:49:48+00:00`
+  - Zeit: published `2026-07-14T23:51:52+00:00`, fetched `2026-07-14T23:51:33+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
