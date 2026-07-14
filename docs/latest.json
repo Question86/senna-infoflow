@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T00:49:43+00:00",
-  "run_id": "2026-07-14T00:49:43+00:00",
+  "generated_at": "2026-07-14T01:22:13+00:00",
+  "run_id": "2026-07-14T01:22:13+00:00",
   "date": "2026-07-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 0
+      "configured_public_sources_only": 1
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,21 +18,93 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
     "medium": 0,
-    "observe": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
-    "observe": []
+    "observe": [
+      {
+        "title": "Blume — fast, AI-ready, markdown-first docs",
+        "url": "https://useblume.dev/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-13T22:26:42+00:00",
+        "fetched_at": "2026-07-14T01:21:44+00:00",
+        "summary": "Latest update, v1.0.3World-class docs foreverything you ship.Fast, AI-ready, and zero-config. Drop Markdown into a folder and ship a production-grade docs site, no app boilerplate to write or maintain. Free and open source, forever.",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "Open Source"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "AI/KI (+3.8); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote boilerplate (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf84159663060abfc976"
+      }
+    ]
   },
-  "findings": [],
-  "new_findings": [],
+  "findings": [
+    {
+      "title": "Blume — fast, AI-ready, markdown-first docs",
+      "url": "https://useblume.dev/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T22:26:42+00:00",
+      "fetched_at": "2026-07-14T01:21:44+00:00",
+      "summary": "Latest update, v1.0.3World-class docs foreverything you ship.Fast, AI-ready, and zero-config. Drop Markdown into a folder and ship a production-grade docs site, no app boilerplate to write or maintain. Free and open source, forever.",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Open Source"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.8); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote boilerplate (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf84159663060abfc976"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Blume — fast, AI-ready, markdown-first docs",
+      "url": "https://useblume.dev/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-13T22:26:42+00:00",
+      "fetched_at": "2026-07-14T01:21:44+00:00",
+      "summary": "Latest update, v1.0.3World-class docs foreverything you ship.Fast, AI-ready, and zero-config. Drop Markdown into a folder and ship a production-grade docs site, no app boilerplate to write or maintain. Free and open source, forever.",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Open Source"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.8); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote boilerplate (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf84159663060abfc976"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

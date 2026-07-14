@@ -1,6 +1,25 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T00:49:43+00:00",
-  "topics": {}
+  "generated_at": "2026-07-14T01:22:13+00:00",
+  "topics": {
+    "ai": [
+      {
+        "title": "Blume — fast, AI-ready, markdown-first docs",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T22:26:42+00:00",
+        "relevance_score": 5,
+        "url": "https://useblume.dev/"
+      }
+    ],
+    "github": [
+      {
+        "title": "Blume — fast, AI-ready, markdown-first docs",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T22:26:42+00:00",
+        "relevance_score": 5,
+        "url": "https://useblume.dev/"
+      }
+    ]
+  }
 }
