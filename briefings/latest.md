@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T02:09:47+00:00_
+_Generiert: 2026-07-14T03:18:59+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-07-14T02:09:47+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].
-- **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000143)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
 
 ## Wirtschaft global
 
@@ -139,6 +135,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
   - Kurz: Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and more structural — the systems underneath the motion were never designed to […] The post Most GTM failures look like strategy problems but are actually architec…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore and Taiwan have a new window of opportunity, but will they seize it?** — Score 10, observation — [Quelle](https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-14T03:00:23+00:00`, fetched `2026-07-14T03:18:27+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Hard work and innovation have led to both Taiwan’s and Singapore’s AI-related boom and global leadership in IC/chip design and manufacturing and related infrastructure. “You have to be good to be lucky” This has placed both countries in the right place at the right time. For Taiwan, the TAIEX is now the 5th largest in […] The post Singapore and Taiwan have a new window of opportunity, but will they seize it? appeare…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Nutlope/hallmark** — Score 10, observation — [Quelle](https://github.com/Nutlope/hallmark)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-14T02:09:17+00:00`
@@ -175,14 +180,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. Project AIRI Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world. [ Join Discord Server ] [ Try it ] [ 简体中文 ] [ 日本…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Crossing the Valley of Death: Why startups need more than just cash to survive** — Score 8, observation — [Quelle](https://e27.co/crossing-the-valley-of-death-20260618/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-14T02:00:29+00:00`, fetched `2026-07-14T02:09:17+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Across the world, the startup story is a brutally predictable one: nearly nine out of 10 ventures fail. In Asia-Pacific, this race for survival is won or lost in what is called the “Valley of Death”. It alludes to this high-stakes, pre-revenue stage where many ventures burn through their initial seed capital and then fade […] The post Crossing the Valley of Death: Why startups need more than just cash to survive app…
+- **松本大臣記者会見（令和8年7月14日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260714-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-14T03:18:19+00:00`, fetched `2026-07-14T03:18:27+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣記者会見（令和8年7月14日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）** — Score 5, observation — [Quelle](https://zenn.dev/aircloset/articles/3b8e60fcaab4b7)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-14T00:27:13+00:00`, fetched `2026-07-14T03:18:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: みなさまこんにちは！エアークローゼットでCTOをしている辻です。 設計編では、アプリケーション / インフラ / CI / LLMの4軸を、それぞれの問いの性質に合わせて別々の形でObservableにする話を書きました。ここまでで観測スタックの書き込み側は一旦区切ったところです。 ただし、「Observableにしただけ」で話は終わ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Blume — fast, AI-ready, markdown-first docs** — Score 5, opportunity — [Quelle](https://useblume.dev/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

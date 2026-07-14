@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T02:09:47+00:00",
+  "generated_at": "2026-07-14T03:18:59+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/"
       },
       {
+        "title": "Singapore and Taiwan have a new window of opportunity, but will they seize it?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T03:00:23+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/"
+      },
+      {
         "title": "Nutlope/hallmark",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -61,18 +68,11 @@
         "url": "https://e27.co/crossing-the-valley-of-death-20260618/"
       },
       {
-        "title": "Blume — fast, AI-ready, markdown-first docs",
+        "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-13T22:26:42+00:00",
+        "published_at": "2026-07-14T00:27:13+00:00",
         "relevance_score": 5,
-        "url": "https://useblume.dev/"
-      },
-      {
-        "title": "Raphire/Win11Debloat",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/Raphire/Win11Debloat"
+        "url": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7"
       }
     ],
     "github": [
@@ -133,6 +133,13 @@
         "published_at": "2026-07-14T02:06:56.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t083"
+      },
+      {
+        "title": "松本大臣記者会見（令和8年7月14日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-14T03:18:19+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-260714-01"
       }
     ],
     "security": [

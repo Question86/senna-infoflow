@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-14T02:09:47+00:00_
+_Generated: 2026-07-14T03:18:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `17`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-14T02:09:47+00:00_
 - url: https://e27.co/most-gtm-failures-look-like-strategy-problems-but-are-actually-architecture-problems-20260713/
 - summary: Every quarter, a leadership team stares at a go-to-market motion that is quietly underperforming and reaches for one of two explanations: the strategy was wrong, or the people executing it were not good enough. Both are usually wrong. What broke is duller and…
 
-### 7. Nutlope/hallmark
+### 7. Singapore and Taiwan have a new window of opportunity, but will they seize it?
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-07-14T03:00:23+00:00`
+- url: https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/
+- summary: Hard work and innovation have led to both Taiwan’s and Singapore’s AI-related boom and global leadership in IC/chip design and manufacturing and related infrastructure. “You have to be good to be lucky” This has placed both countries in the right place at the…
+
+### 8. Nutlope/hallmark
 - source: GitHub Trending RSS All Languages Daily
 - score: `10`
 - published: `None`
 - url: https://github.com/Nutlope/hallmark
 - summary: Anti-AI-slop design skill for Claude Code, Cursor, and Codex. Hallmark A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated. Live demo → · twenty themes · four verbs · press T to cycle. Made by Together AI. Hallmark picks a macr…
-
-### 8. M 5.0 - 2 km WSW of Congregación Reforma, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-07-14T02:08:29.015+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s
-- summary: DYFI? - III Time 2026-07-14 01:19:59 UTC 2026-07-14 01:19:59 UTC at epicenter Location 14.772°N 92.332°W Depth 80.45 km (49.99 mi)
 
 END OF DOCUMENT
