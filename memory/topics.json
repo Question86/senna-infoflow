@@ -1,8 +1,217 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T18:01:11+00:00",
+  "generated_at": "2026-07-14T18:32:54+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-07-14T18:10:00+00:00",
+        "relevance_score": 23,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:43+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2142"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] AnyDesk: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2315"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:45+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2313"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:12:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2051"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:12:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2077"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:12:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2040"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:12:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1988"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:12:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1976"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T10:46:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2579"
+      }
+    ],
+    "github": [
+      {
+        "title": "Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-07-14T18:10:00+00:00",
+        "relevance_score": 23,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html"
+      },
+      {
+        "title": "OpenCut-app/OpenCut",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/OpenCut-app/OpenCut"
+      },
+      {
+        "title": "L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-14T02:40:43+00:00",
+        "relevance_score": 15,
+        "url": "https://japan.zdnet.com/article/35250374/"
+      },
+      {
+        "title": "Security reviews now available in the GitHub Copilot app",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-14T12:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"
+      },
+      {
+        "title": "Dependabot version updates introduce default package cooldown",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-14T16:42:59+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown"
+      },
+      {
+        "title": "Nutlope/hallmark",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/moeru-ai/airi"
+      },
+      {
+        "title": "Blume — fast, AI-ready, markdown-first docs",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-13T22:26:42+00:00",
+        "relevance_score": 5,
+        "url": "https://useblume.dev/"
+      },
+      {
+        "title": "Raphire/Win11Debloat",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/Raphire/Win11Debloat"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-07-14T18:10:00+00:00",
+        "relevance_score": 23,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] AnyDesk: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2315"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:45+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2313"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:12:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1976"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (plexus-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T08:36:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2300"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Ollama: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T08:31:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2298"
+      },
+      {
+        "title": "[NEU] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2314"
+      },
+      {
+        "title": "[NEU] [hoch] Notepad++: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:44+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2312"
+      },
+      {
+        "title": "[NEU] [mittel] Apache ActiveMQ: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:43+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2311"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Tomcat: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:31:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2310"
+      }
+    ],
     "ai": [
       {
         "title": "Updates | ReliefWeb",
@@ -75,64 +284,6 @@
         "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
       }
     ],
-    "github": [
-      {
-        "title": "OpenCut-app/OpenCut",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 23,
-        "url": "https://github.com/OpenCut-app/OpenCut"
-      },
-      {
-        "title": "L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-14T02:40:43+00:00",
-        "relevance_score": 15,
-        "url": "https://japan.zdnet.com/article/35250374/"
-      },
-      {
-        "title": "Security reviews now available in the GitHub Copilot app",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-14T12:54:12+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"
-      },
-      {
-        "title": "Dependabot version updates introduce default package cooldown",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-14T16:42:59+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown"
-      },
-      {
-        "title": "Nutlope/hallmark",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/Nutlope/hallmark"
-      },
-      {
-        "title": "moeru-ai/airi",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/moeru-ai/airi"
-      },
-      {
-        "title": "Blume — fast, AI-ready, markdown-first docs",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-13T22:26:42+00:00",
-        "relevance_score": 5,
-        "url": "https://useblume.dev/"
-      },
-      {
-        "title": "Raphire/Win11Debloat",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/Raphire/Win11Debloat"
-      }
-    ],
     "economy": [
       {
         "title": "e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration",
@@ -196,150 +347,6 @@
         "published_at": "2026-07-14T03:33:20+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/regulation-crypto-is-here-the-400-page-rule-that-could-kill-or-save-american-crypto-innovation-20260714/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:43+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2142"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] AnyDesk: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:46+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2315"
-      },
-      {
-        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:45+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2313"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:40+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2051"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:40+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2077"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2040"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1988"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:18+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1976"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T10:46:46+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2579"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T10:46:45+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2450"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] AnyDesk: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:46+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2315"
-      },
-      {
-        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:45+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2313"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:12:18+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1976"
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (plexus-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T08:36:40+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2300"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Ollama: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T08:31:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2298"
-      },
-      {
-        "title": "[NEU] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2314"
-      },
-      {
-        "title": "[NEU] [hoch] Notepad++: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:44+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2312"
-      },
-      {
-        "title": "[NEU] [mittel] Apache ActiveMQ: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:43+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2311"
-      },
-      {
-        "title": "[NEU] [mittel] Apache Tomcat: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:31:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2310"
-      },
-      {
-        "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T08:36:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2299"
       }
     ],
     "general": [

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T18:01:11+00:00_
+_Generiert: 2026-07-14T18:32:54+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+96 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen** — Score 23, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-07-14T18:10:00+00:00`, fetched `2026-07-14T18:32:24+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, kritisch, kritische Schwachstelle, Security, SharePoint, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5); SharePoint (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
   - Zeit: published `2026-07-14T15:40:00+00:00`, fetched `2026-07-14T15:39:42+00:00`
@@ -137,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For the past two years, many companies have treated AI as a feature to be added quickly: a smarter chatbot, a faster support assistant, a more personalised recommendation engine. That phase is already giving way to something more consequential. AI is moving from back-end tools and text-based interfaces into products that customers use directly, often […] The post When AI leaves the screen, cybersecurity becomes prod…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Security reviews now available in the GitHub Copilot app** — Score 14, observation — [Quelle](https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-14T12:54:12+00:00`, fetched `2026-07-14T13:44:45+00:00`
-  - Treffer: Copilot, GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: You can now run a security review on your in-flight code changes directly from the GitHub Copilot app. The /security-review slash command is shipping in public preview, bringing the same… The post Security reviews now available in the GitHub Copilot app appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten

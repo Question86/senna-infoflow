@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-14T18:01:13+00:00",
+  "generated_at": "2026-07-14T18:32:57+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-56155 Microsoft Active Directory Federation Services",
+        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-28. Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability ",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-14",
+        "metrics": {
+          "cve": "CVE-2026-56155"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-56164 Microsoft SharePoint Server",
+        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-14",
+        "metrics": {
+          "cve": "CVE-2026-56164"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -41,32 +65,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-48908 JoomShaper SP Page Builder",
-        "summary": "Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-07",
-        "metrics": {
-          "cve": "CVE-2026-48908"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-55255 Langflow Langflow",
-        "summary": "Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Langflow Authorization Bypass Through User-Controlled Key Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-07",
-        "metrics": {
-          "cve": "CVE-2026-55255"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 130 thousand in MMI V.",
-        "summary": "Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 130 thousand in MMI V.",
+        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846",
         "published_at": "",
@@ -113,7 +113,7 @@
         "metrics": {
           "mag": 6.2,
           "alert": "green",
-          "sig": 611.0,
+          "sig": 616.0,
           "tsunami": 0
         }
       },
