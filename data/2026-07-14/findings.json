@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-14T18:57:10+00:00",
-    "fetched_at": "2026-07-14T18:56:52+00:00",
+    "published_at": "2026-07-14T19:58:34+00:00",
+    "fetched_at": "2026-07-14T19:57:54+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,30 @@
       "HD",
       "LOW"
     ],
-    "id": "cb92f24bb3345a5ad173"
+    "id": "c5d2354d15519effd709"
+  },
+  {
+    "title": "Code scanning shows AI security detections on pull requests",
+    "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:12:48+00:00",
+    "fetched_at": "2026-07-14T19:57:54+00:00",
+    "summary": "GitHub code scanning now surfaces AI-powered security detections directly on pull requests, expanding vulnerability coverage to languages and frameworks not currently supported by CodeQL. These detections help teams identify and… The post Code scanning shows AI security detections on pull requests appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "CodeQL/Dependabot",
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d74bd7cc14b59c01f8ad"
   },
   {
     "title": "Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen",

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-14T19:31:23+00:00_
+_Generated: 2026-07-14T19:58:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `100`
+- findings: `101`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-14T18:57:10+00:00`
+- published: `2026-07-14T19:58:34+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen
+### 2. Code scanning shows AI security detections on pull requests
+- source: GitHub Changelog Atom
+- score: `23`
+- published: `2026-07-14T19:12:48+00:00`
+- url: https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests
+- summary: GitHub code scanning now surfaces AI-powered security detections directly on pull requests, expanding vulnerability coverage to languages and frameworks not currently supported by CodeQL. These detections help teams identify and… The post Code scanning shows…
+
+### 3. Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen
 - source: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - score: `23`
 - published: `2026-07-14T18:10:00+00:00`
 - url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html
 - summary: Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen
 
-### 3. How to manage AI investments in the agentic era
+### 4. How to manage AI investments in the agentic era
 - source: OpenAI News RSS
 - score: `23`
 - published: `2026-07-14T10:00:00+00:00`
 - url: https://openai.com/index/managing-ai-investments-in-agentic-era
 - summary: Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
-
-### 4. AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測
-- source: Hatena Bookmark Hotentry IT
-- score: `23`
-- published: `2026-07-14T01:12:24+00:00`
-- url: https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint
-- summary: これはなに？ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾値は、人間の文章137本とAIの文章406本のコーパスで校正し...
 
 ### 5. M 5.4 - 90 km SSE of False Pass, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T19:31:23+00:00_
+_Generiert: 2026-07-14T19:58:45+00:00_
 
 ## Kurzlage
 
-100 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+101 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,12 +14,21 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-14T18:57:10+00:00`, fetched `2026-07-14T18:56:52+00:00`
+  - Zeit: published `2026-07-14T19:58:34+00:00`, fetched `2026-07-14T19:57:54+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Code scanning shows AI security detections on pull requests** — Score 23, risk — [Quelle](https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-14T19:12:48+00:00`, fetched `2026-07-14T19:57:54+00:00`
+  - Treffer: AI/KI, CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: GitHub code scanning now surfaces AI-powered security detections directly on pull requests, expanding vulnerability coverage to languages and frameworks not currently supported by CodeQL. These detections help teams identify and… The post Code scanning shows AI security detections on pull requests appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen** — Score 23, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: インド・ムンバイで開催された「Open Source Summit India 2026」において、「Linux」の生みの親であるLinus Torvalds氏と、その友人であるDirk Hohndel氏が、Linuxの現状と今後の方向性について対談した。 Linux 7.1：地味で着実な進歩 対談は、Hohndel氏が「Linux 7.1」のリリースに関する見解をTorvalds氏に尋ねる形...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **When AI leaves the screen, cybersecurity becomes product responsibility** — Score 15, observation — [Quelle](https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-14T01:30:32+00:00`, fetched `2026-07-14T02:09:17+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: For the past two years, many companies have treated AI as a feature to be added quickly: a smarter chatbot, a faster support assistant, a more personalised recommendation engine. That phase is already giving way to something more consequential. AI is moving from back-end tools and text-based interfaces into products that customers use directly, often […] The post When AI leaves the screen, cybersecurity becomes prod…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
