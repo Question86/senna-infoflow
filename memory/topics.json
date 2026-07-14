@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-14T18:32:54+00:00",
+  "generated_at": "2026-07-14T18:57:21+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-14T18:57:10+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "How to manage AI investments in the agentic era",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-14T10:00:00+00:00",
+        "relevance_score": 23,
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+      },
+      {
+        "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-14T01:12:24+00:00",
+        "relevance_score": 23,
+        "url": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint"
+      },
+      {
+        "title": "OpenCut-app/OpenCut",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/OpenCut-app/OpenCut"
+      },
+      {
+        "title": "e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T04:35:29+00:00",
+        "relevance_score": 20,
+        "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-14T11:46:43+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2142"
+      },
+      {
+        "title": "Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-14T16:40:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm"
+      },
+      {
+        "title": "When AI leaves the screen, cybersecurity becomes product responsibility",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T01:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
+      },
+      {
+        "title": "Security reviews now available in the GitHub Copilot app",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-14T12:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"
+      },
+      {
+        "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-14T08:30:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
+      }
+    ],
     "security": [
       {
         "title": "Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen",
@@ -212,78 +284,6 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2310"
       }
     ],
-    "ai": [
-      {
-        "title": "Updates | ReliefWeb",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-14T15:40:00+00:00",
-        "relevance_score": 23,
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
-      },
-      {
-        "title": "How to manage AI investments in the agentic era",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-07-14T10:00:00+00:00",
-        "relevance_score": 23,
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
-      },
-      {
-        "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-14T01:12:24+00:00",
-        "relevance_score": 23,
-        "url": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint"
-      },
-      {
-        "title": "OpenCut-app/OpenCut",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 23,
-        "url": "https://github.com/OpenCut-app/OpenCut"
-      },
-      {
-        "title": "e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T04:35:29+00:00",
-        "relevance_score": 20,
-        "url": "https://e27.co/e27-expands-ai-powered-business-matchmaking-with-sony-acceleration-platform-collaboration-20260714/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (protobufjs, fast-uri): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-14T11:46:43+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2142"
-      },
-      {
-        "title": "Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-07-14T16:40:00+00:00",
-        "relevance_score": 16,
-        "url": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm"
-      },
-      {
-        "title": "When AI leaves the screen, cybersecurity becomes product responsibility",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T01:30:32+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/when-ai-leaves-the-screen-cybersecurity-becomes-product-responsibility-20260710/"
-      },
-      {
-        "title": "Security reviews now available in the GitHub Copilot app",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-14T12:54:12+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"
-      },
-      {
-        "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-14T08:30:23+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/"
-      }
-    ],
     "economy": [
       {
         "title": "e27 expands AI-powered business matchmaking with Sony Acceleration Platform collaboration",
@@ -393,6 +393,20 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3"
       },
       {
+        "title": "Bowman, Responsible Innovation and Financial Inclusion",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-14T18:55:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm"
+      },
+      {
+        "title": "M 5.3 - 101 km SE of False Pass, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-14T18:56:45.795+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvtyyw"
+      },
+      {
         "title": "M 5.3 - 96 km SE of False Pass, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-14T12:33:49.353+00:00",
@@ -405,20 +419,6 @@
         "published_at": "2026-07-14T06:33:33.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097"
-      },
-      {
-        "title": "Snapzy | Beautiful Screen Capture for macOS",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-14T04:54:34+00:00",
-        "relevance_score": 11,
-        "url": "https://snapzy.app/"
-      },
-      {
-        "title": "GMO熊谷氏、在宅勤務廃止の理由説明--「タイピング数は確実に減少」「トータルでマイナス」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-14T11:27:17+00:00",
-        "relevance_score": 10,
-        "url": "https://japan.cnet.com/article/35250558/"
       }
     ]
   }

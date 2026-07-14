@@ -1,26 +1,26 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-14T18:32:54+00:00_
+_Generated: 2026-07-14T18:57:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `96`
+- findings: `99`
 
 ## Top Signals
 
-### 1. Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-07-14T18:57:10+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen
 - source: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - score: `23`
 - published: `2026-07-14T18:10:00+00:00`
 - url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html
 - summary: Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen
-
-### 2. Updates | ReliefWeb
-- source: ReliefWeb Mindanao Recovery Watch
-- score: `23`
-- published: `2026-07-14T15:40:00+00:00`
-- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
-- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
 ### 3. How to manage AI investments in the agentic era
 - source: OpenAI News RSS
@@ -50,18 +50,18 @@ _Generated: 2026-07-14T18:32:54+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3
 - summary: ShakeMap - IV Time 2026-07-14 08:21:06 UTC 2026-07-14 08:21:06 UTC at epicenter Location 14.578°S 71.436°W Depth 140.09 km (87.05 mi)
 
-### 7. Dependabot version updates introduce default package cooldown
+### 7. Bowman, Responsible Innovation and Financial Inclusion
+- source: Federal Reserve Speeches and Testimony
+- score: `12`
+- published: `2026-07-14T18:55:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm
+- summary: Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C. (via pre-recorded video)
+
+### 8. Dependabot version updates introduce default package cooldown
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-07-14T16:42:59+00:00`
 - url: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown
 - summary: Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the… The post Dependabot version updates introduce default package cooldown appeared first o…
-
-### 8. PolicyStreet targets gig workers and SMEs after lifting Series C round to US$26M
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-07-14T02:00:21+00:00`
-- url: https://e27.co/policystreet-targets-gig-workers-and-smes-after-lifting-series-c-round-to-us26m-20260713/
-- summary: Malaysian insurtech company PolicyStreet has secured an additional US$5 million from BlueOrchard, taking its Series C round to US$26 million as it looks to expand embedded insurance distribution across Asia. BlueOrchard, an impact investment manager and part…
 
 END OF DOCUMENT
