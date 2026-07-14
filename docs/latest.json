@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T14:26:28+00:00",
-  "run_id": "2026-07-14T14:26:28+00:00",
+  "generated_at": "2026-07-14T15:05:15+00:00",
+  "run_id": "2026-07-14T15:05:15+00:00",
   "date": "2026-07-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4603,29 +4603,7 @@
       "id": "cae93bdb3c9bd7241fee"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「舐められない人」になるための5つの技術｜もとやま",
-      "url": "https://note.com/yusuke_motoyama/n/nb141e431bc2f",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-04-26T09:50:28+00:00",
-      "fetched_at": "2026-07-14T14:26:00+00:00",
-      "summary": "仕事をしていて、「ああ、この人はなんとなく押せば引いてくれる人だ」と相手に学習されてしまう瞬間ってあると思うんですよね。 一度そう認知されると、以降ずっと押される側に回り続けることになります。 会議で発言しても流される、雑な依頼が回ってくる、自分の意見が反映されない。 逆に、明らかに同じくらいの実力...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cae93bdb3c9bd7241fee"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

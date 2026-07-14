@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-14T14:26:28+00:00_
+_Generiert: 2026-07-14T15:05:15+00:00_
 
 ## Kurzlage
 
@@ -41,18 +41,10 @@ _Generiert: 2026-07-14T14:26:28+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Germany
-- **USGS earthquake M6.3 - southeast of the Loyalty Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n)
-  - Quelle: USGS
-  - Zeit: `2026-07-13T14:45:49+00:00`
-  - Kurz: M6.3 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551421)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern East Pacific Rise 12/07/2026 07:29 UTC, [unknown].
 
 ## Wirtschaft global
 
