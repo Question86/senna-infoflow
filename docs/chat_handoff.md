@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-15T10:03:40+00:00_
+_Generated: 2026-07-15T10:43:12+00:00_
 
 ## Status
-- status: `normal`
-- findings: `62`
+- status: `warning`
+- findings: `71`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-15T10:03:40+00:00_
 - url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271845-1032_bits.html
 - summary: Version 1.0: SonicWall SMA1000 - Zero-Day Schwachstellen aktiv ausgenutzt
 
-### 5. Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
+### 5. AI powers citizen-led disaster relief from afar for Venezuela
+- source: Rest of World Global Tech Feed
+- score: `13`
+- published: `2026-07-15T10:00:00+00:00`
+- url: https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.
+
+### 6. SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken
+- source: heise Security Alerts
+- score: `12`
+- published: `2026-07-15T10:08:00.000+00:00`
+- url: https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html
+- summary: SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.
+
+### 7. Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-07-15T08:15:24+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html
 - summary: Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 6. Gemini’s SEA growth puts local-language AI at the centre of the assistant race
+### 8. Gemini’s SEA growth puts local-language AI at the centre of the assistant race
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-15T02:00:57+00:00`
 - url: https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/
 - summary: Google said active users of its Gemini app in Southeast Asia have more than doubled over the past year, with adoption in the region outpacing any previous Google app launch, according to the company’s first “Gemini Southeast Asia Report 2026″. The report cove…
-
-### 7. Can a Fortune 100 sales director actually close deals for your startup?
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-07-15T01:45:41+00:00`
-- url: https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/
-- summary: A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the ga…
-
-### 8. 逐鹿數位｜HCM - SQL Injection
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-07-15T07:11:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html
-- summary: 逐鹿數位｜HCM - SQL Injection
 
 END OF DOCUMENT

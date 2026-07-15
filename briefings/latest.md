@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T10:03:40+00:00_
+_Generiert: 2026-07-15T10:43:12+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+71 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -170,6 +170,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AI powers citizen-led disaster relief from afar for Venezuela** — Score 13, risk — [Quelle](https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-15T10:00:00+00:00`, fetched `2026-07-15T10:42:35+00:00`
+  - Treffer: AI/KI, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken** — Score 12, risk — [Quelle](https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-15T10:08:00.000+00:00`, fetched `2026-07-15T10:42:35+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-07-15T08:15:24+00:00`, fetched `2026-07-15T07:36:51+00:00`
@@ -287,24 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An AI Hedge Fund Team AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment. 🚧 The project is evolving. We're rebuilding it into a persistent, always-on AI hedge fund — a fund as a first-class entity you can backtest, paper-t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い** — Score 8, observation — [Quelle](https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T06:48:06+00:00`, fetched `2026-07-15T10:03:12+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 現代では多くの人々が日常的な質問や相談相手としてチャットAIを使ったり、生成AIツールを使って仕事を効率化したりしています。新たな研究では、ナルシシズム(自己愛)の強い人は問題がある生成AI使用に陥りやすいという結果が明らかになりました。 Dark Tetrad traits and problematic generative artificial intellige...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Piero Cipollone: Interview with Ouest-France** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-15T06:00:00+00:00`, fetched `2026-07-15T06:02:46+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: Interview with Ouest-France
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -315,3 +315,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5bd24c23d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

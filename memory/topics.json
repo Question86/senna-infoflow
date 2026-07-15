@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T10:03:40+00:00",
+  "generated_at": "2026-07-15T10:43:12+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-07-15T01:30:09+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/"
+      },
+      {
+        "title": "AI powers citizen-led disaster relief from afar for Venezuela",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-15T10:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-15T06:48:06+00:00",
         "relevance_score": 8,
         "url": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/"
-      },
-      {
-        "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T02:15:17+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": "2026-07-15T00:01:24+00:00",
         "relevance_score": 17,
         "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update"
+      },
+      {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T10:41:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360"
       },
       {
         "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
@@ -170,32 +177,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318"
       },
       {
-        "title": "[NEU] [mittel] Grafana Tempo: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[NEU] [mittel] Bitdefender Internet und Total Security: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T09:11:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2342"
+        "published_at": "2026-07-15T10:41:41+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2361"
       },
       {
-        "title": "[NEU] [mittel] ImageMagick: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T09:06:39+00:00",
+        "published_at": "2026-07-15T10:41:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2341"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2359"
       },
       {
-        "title": "[NEU] [mittel] Mozilla Firefox: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T09:01:39+00:00",
+        "published_at": "2026-07-15T10:41:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2340"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360"
       },
       {
-        "title": "[NEU] [mittel] Citrix Systems Secure Access Client for Windows: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] WebKitGTK: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T08:56:39+00:00",
+        "published_at": "2026-07-15T10:41:39+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2339"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2358"
       }
     ],
     "security": [

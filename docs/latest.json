@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-15T10:03:40+00:00",
-  "run_id": "2026-07-15T10:03:40+00:00",
+  "generated_at": "2026-07-15T10:43:12+00:00",
+  "run_id": "2026-07-15T10:43:12+00:00",
   "date": "2026-07-15",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 9,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
-    "medium": 28,
-    "observe": 34,
-    "source_errors": 0
+    "medium": 34,
+    "observe": 37,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -420,6 +420,29 @@
         "id": "7c3ec0b6bb45723348f2"
       },
       {
+        "title": "[NEU] [mittel] Bitdefender Internet und Total Security: Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2361",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:41:41+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Bitdefender Internet Security und Bitdefender Total Security ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e99b8309d03dbf3cd835"
+      },
+      {
         "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
         "url": "https://jvn.jp/jp/JVN59875262/",
         "source": "JVN Japan Vulnerability Notes",
@@ -440,6 +463,121 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f9b009e79f56dfe98c63"
+      },
+      {
+        "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2359",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:41:40+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Xen ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8066f8393b9eea08ebc7"
+      },
+      {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:41:40+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um Sicherheitsmaßnahmen zu umgehen, um Informationen offenzulegen und ggf. Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0b159c47267051875690"
+      },
+      {
+        "title": "[NEU] [mittel] WebKitGTK: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2358",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:41:39+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "60d0a83877d5164f349d"
+      },
+      {
+        "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2357",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:41:39+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Octopus Deploy ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f2c6ec9a6d2ca8a13fc7"
+      },
+      {
+        "title": "[NEU] [hoch] Netty: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2356",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:36:40+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsprüfungen zu umgehen, Anfragen oder Header zu manipulieren, Zertifikatsprüfungen zu unterlaufen sowie einen Denial of Service zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cba409bf4a8432308d51"
       },
       {
         "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
@@ -765,6 +903,76 @@
       }
     ],
     "observe": [
+      {
+        "title": "AI powers citizen-led disaster relief from afar for Venezuela",
+        "url": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:00:00+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.",
+        "matched_keywords": [
+          "AI/KI",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f5ab7f9a348b42483cf8"
+      },
+      {
+        "title": "SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken",
+        "url": "https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:08:00.000+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "1ffcccde506537440e3e"
+      },
       {
         "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html",
@@ -1457,6 +1665,27 @@
         "id": "29254c746278214240b7"
       },
       {
+        "title": "デロイトが国に納品したスライド351枚、全部数えたらパターンは7つだけだった｜うちた",
+        "url": "https://note.com/uchita_success/n/n030ad63765d3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T01:04:34+00:00",
+        "fetched_at": "2026-07-15T10:42:35+00:00",
+        "summary": "一番意外だったのは、7つのうち“1つの型”だけで45%を占めていたこと。一流ほど、派手な技より“基本の型”を使い倒すんです。 全部言語化して、AIで再現するプロンプトも作ったので置いておきます。 経産省のサイトは、コンサル資料の\"宝の山\"コンサルの実物資料は、守秘義務のかたまりで普通は世に出ません。 ただ、例外...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "973667fd46406a090573"
+      },
+      {
         "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
         "url": "https://togetter.com/li/2720654",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1953,6 +2182,29 @@
       "id": "7c3ec0b6bb45723348f2"
     },
     {
+      "title": "[NEU] [mittel] Bitdefender Internet und Total Security: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2361",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:41:41+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Bitdefender Internet Security und Bitdefender Total Security ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e99b8309d03dbf3cd835"
+    },
+    {
       "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
       "url": "https://jvn.jp/jp/JVN59875262/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1973,6 +2225,121 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f9b009e79f56dfe98c63"
+    },
+    {
+      "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2359",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:41:40+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Xen ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8066f8393b9eea08ebc7"
+    },
+    {
+      "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:41:40+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um Sicherheitsmaßnahmen zu umgehen, um Informationen offenzulegen und ggf. Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0b159c47267051875690"
+    },
+    {
+      "title": "[NEU] [mittel] WebKitGTK: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2358",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:41:39+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60d0a83877d5164f349d"
+    },
+    {
+      "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:41:39+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Octopus Deploy ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2c6ec9a6d2ca8a13fc7"
+    },
+    {
+      "title": "[NEU] [hoch] Netty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2356",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:36:40+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsprüfungen zu umgehen, Anfragen oder Header zu manipulieren, Zertifikatsprüfungen zu unterlaufen sowie einen Denial of Service zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cba409bf4a8432308d51"
     },
     {
       "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
@@ -2295,6 +2662,76 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8a4d4077e8e66dec3905"
+    },
+    {
+      "title": "AI powers citizen-led disaster relief from afar for Venezuela",
+      "url": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:00:00+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.",
+      "matched_keywords": [
+        "AI/KI",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f5ab7f9a348b42483cf8"
+    },
+    {
+      "title": "SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken",
+      "url": "https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:08:00.000+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "1ffcccde506537440e3e"
     },
     {
       "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -2988,6 +3425,27 @@
       "id": "29254c746278214240b7"
     },
     {
+      "title": "デロイトが国に納品したスライド351枚、全部数えたらパターンは7つだけだった｜うちた",
+      "url": "https://note.com/uchita_success/n/n030ad63765d3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T01:04:34+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "一番意外だったのは、7つのうち“1つの型”だけで45%を占めていたこと。一流ほど、派手な技より“基本の型”を使い倒すんです。 全部言語化して、AIで再現するプロンプトも作ったので置いておきます。 経産省のサイトは、コンサル資料の\"宝の山\"コンサルの実物資料は、守秘義務のかたまりで普通は世に出ません。 ただ、例外...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "973667fd46406a090573"
+    },
+    {
       "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
       "url": "https://togetter.com/li/2720654",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3093,37 +3551,36 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2158",
+      "title": "[NEU] [mittel] Bitdefender Internet und Total Security: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2361",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T09:41:44+00:00",
-      "fetched_at": "2026-07-15T10:03:12+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um Administratorrechte zu erlangen.",
+      "published_at": "2026-07-15T10:41:41+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Bitdefender Internet Security und Bitdefender Total Security ausnutzen, um seine Privilegien zu erhöhen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7cd2c7ee9c690807cc19"
+      "id": "e99b8309d03dbf3cd835"
     },
     {
-      "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2245",
+      "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T09:41:44+00:00",
-      "fetched_at": "2026-07-15T10:03:12+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen oder um vertrauliche Informationen offenzulegen.",
+      "published_at": "2026-07-15T10:41:40+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um Sicherheitsmaßnahmen zu umgehen, um Informationen offenzulegen und ggf. Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3137,76 +3594,200 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eaad34b82abbaa03ef03"
+      "id": "0b159c47267051875690"
     },
     {
-      "title": "逐鹿數位｜HCM - SQL Injection",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2359",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T07:11:00+00:00",
-      "fetched_at": "2026-07-15T10:03:12+00:00",
-      "summary": "逐鹿數位｜HCM - SQL Injection",
+      "published_at": "2026-07-15T10:41:40+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Xen ausnutzen, um Dateien zu manipulieren.",
       "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "33d0e061e87fb857079c"
-    },
-    {
-      "title": "技嘉科技｜Gigabyte Control Center - Improper Access Control",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11033-97316-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-13T02:19:00+00:00",
-      "fetched_at": "2026-07-15T10:03:12+00:00",
-      "summary": "技嘉科技｜Gigabyte Control Center - Improper Access Control",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "14c62cccdffb39f2a4d8"
-    },
-    {
-      "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
-      "url": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-15T06:48:06+00:00",
-      "fetched_at": "2026-07-15T10:03:12+00:00",
-      "summary": "現代では多くの人々が日常的な質問や相談相手としてチャットAIを使ったり、生成AIツールを使って仕事を効率化したりしています。新たな研究では、ナルシシズム(自己愛)の強い人は問題がある生成AI使用に陥りやすいという結果が明らかになりました。 Dark Tetrad traits and problematic generative artificial intellige...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5baba78e7f85b538d78a"
+      "id": "8066f8393b9eea08ebc7"
+    },
+    {
+      "title": "[NEU] [mittel] WebKitGTK: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2358",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:41:39+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60d0a83877d5164f349d"
+    },
+    {
+      "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:41:39+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Octopus Deploy ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2c6ec9a6d2ca8a13fc7"
+    },
+    {
+      "title": "[NEU] [hoch] Netty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2356",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:36:40+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsprüfungen zu umgehen, Anfragen oder Header zu manipulieren, Zertifikatsprüfungen zu unterlaufen sowie einen Denial of Service zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cba409bf4a8432308d51"
+    },
+    {
+      "title": "AI powers citizen-led disaster relief from afar for Venezuela",
+      "url": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:00:00+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.",
+      "matched_keywords": [
+        "AI/KI",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f5ab7f9a348b42483cf8"
+    },
+    {
+      "title": "SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken",
+      "url": "https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:08:00.000+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "1ffcccde506537440e3e"
+    },
+    {
+      "title": "デロイトが国に納品したスライド351枚、全部数えたらパターンは7つだけだった｜うちた",
+      "url": "https://note.com/uchita_success/n/n030ad63765d3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T01:04:34+00:00",
+      "fetched_at": "2026-07-15T10:42:35+00:00",
+      "summary": "一番意外だったのは、7つのうち“1つの型”だけで45%を占めていたこと。一流ほど、派手な技より“基本の型”を使い倒すんです。 全部言語化して、AIで再現するプロンプトも作ったので置いておきます。 経産省のサイトは、コンサル資料の\"宝の山\"コンサルの実物資料は、守秘義務のかたまりで普通は世に出ません。 ただ、例外...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "973667fd46406a090573"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5bd24c23d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
