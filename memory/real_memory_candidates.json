@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-15T05:50:32Z",
+  "generated_at": "2026-07-15T06:41:08Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -28,6 +28,11 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
@@ -48,12 +53,12 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Security Alert: Microsoft Releases July 2026 Security Updates",
+      "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Gen Z isn’t hard to manage, you just need to rethink how you lead",
+      "title": "[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
