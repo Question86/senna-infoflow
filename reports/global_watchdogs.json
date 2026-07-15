@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-15T16:28:02+00:00",
+  "generated_at": "2026-07-15T16:55:48+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-46817 Oracle E-Business Suite",
+        "summary": "Known exploited vulnerability. Added 2026-07-15. Due 2026-07-18. Oracle E-Business Suite Improper Privilege Management Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-15",
+        "metrics": {
+          "cve": "CVE-2026-46817"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2023-4346 KNX Association KNX Protocol Connection Authorization Option 1",
+        "summary": "Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-15",
+        "metrics": {
+          "cve": "CVE-2023-4346"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-07-14",
         "metrics": {
           "cve": "CVE-2026-15409"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-15410 SonicWall SMA1000 Appliances",
-        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Code Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-14",
-        "metrics": {
-          "cve": "CVE-2026-15410"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2008-4128 Cisco IOS",
-        "summary": "Known exploited vulnerability. Added 2026-07-13. Due 2026-07-16. Cisco IOS Cross-Site Request Forgery Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-13",
-        "metrics": {
-          "cve": "CVE-2008-4128"
         }
       },
       {

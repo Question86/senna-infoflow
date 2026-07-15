@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T16:27:59+00:00_
+_Generiert: 2026-07-15T16:55:45+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-07-15T16:27:59+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-46817 Oracle E-Business Suite** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-15`
+  - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-18. Oracle E-Business Suite Improper Privilege Management Vulnerability
+- **CISA KEV: CVE-2023-4346 KNX Association KNX Protocol Connection Authorization Option 1** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-15`
+  - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability
 - **CISA KEV: CVE-2026-56155 Microsoft Active Directory Federation Services** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-14`
@@ -21,14 +29,6 @@ _Generiert: 2026-07-15T16:27:59+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-14`
   - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability
-- **CISA KEV: CVE-2026-15410 SonicWall SMA1000 Appliances** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-14`
-  - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Code Injection Vulnerability
-- **CISA KEV: CVE-2008-4128 Cisco IOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-13`
-  - Kurz: Known exploited vulnerability. Added 2026-07-13. Due 2026-07-16. Cisco IOS Cross-Site Request Forgery Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846)
   - Quelle: GDACS
   - Zeit: ``
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-15T16:27:45+00:00`, fetched `2026-07-15T16:27:24+00:00`
+  - Zeit: published `2026-07-15T16:55:33+00:00`, fetched `2026-07-15T16:55:13+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW

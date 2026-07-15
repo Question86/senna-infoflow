@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T16:27:59+00:00",
-  "run_id": "2026-07-15T16:27:59+00:00",
+  "generated_at": "2026-07-15T16:55:45+00:00",
+  "run_id": "2026-07-15T16:55:45+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 95,
     "displayed_findings": 95,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-15T16:27:45+00:00",
-        "fetched_at": "2026-07-15T16:27:24+00:00",
+        "published_at": "2026-07-15T16:55:33+00:00",
+        "fetched_at": "2026-07-15T16:55:13+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "64e484ce10aa5e13ff7f"
+        "id": "9165f62b7c2abc1cf9b6"
       },
       {
         "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -2385,8 +2385,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T16:27:45+00:00",
-      "fetched_at": "2026-07-15T16:27:24+00:00",
+      "published_at": "2026-07-15T16:55:33+00:00",
+      "fetched_at": "2026-07-15T16:55:13+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2420,7 +2420,7 @@
         "HD",
         "LOW"
       ],
-      "id": "64e484ce10aa5e13ff7f"
+      "id": "9165f62b7c2abc1cf9b6"
     },
     {
       "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -4733,8 +4733,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T16:27:45+00:00",
-      "fetched_at": "2026-07-15T16:27:24+00:00",
+      "published_at": "2026-07-15T16:55:33+00:00",
+      "fetched_at": "2026-07-15T16:55:13+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4768,29 +4768,7 @@
         "HD",
         "LOW"
       ],
-      "id": "64e484ce10aa5e13ff7f"
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-15T12:00:00+00:00",
-      "fetched_at": "2026-07-15T16:27:24+00:00",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "safety"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); safety (+2.5); recent (+1.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d3255940899b1718171d"
+      "id": "9165f62b7c2abc1cf9b6"
     }
   ],
   "source_errors": [],
