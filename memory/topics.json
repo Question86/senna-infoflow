@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T12:52:35+00:00",
+  "generated_at": "2026-07-15T13:25:47+00:00",
   "topics": {
     "ai": [
       {
@@ -277,37 +277,14 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274"
       }
     ],
-    "economy": [
-      {
-        "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-07-15T08:15:24+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html"
-      },
-      {
-        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T05:00:05+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
-      },
-      {
-        "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T02:15:17+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
-      },
-      {
-        "title": "Is the US$63,619 Fibonacci level strong enough to prevent a total unwind back down to US$62,498?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T05:14:54+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/"
-      }
-    ],
     "general": [
+      {
+        "title": "M 4.6 - 47 km ENE of Noda, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-15T12:55:12.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mp"
+      },
       {
         "title": "Can a Fortune 100 sales director actually close deals for your startup?",
         "source": "e27 Asia Startup and Tech Feed",
@@ -370,13 +347,36 @@
         "published_at": "2026-07-15T10:16:04+00:00",
         "relevance_score": 5,
         "url": "https://bokete-photo.blogspot.com/2026/07/arigato.html"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-15T08:15:24+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html"
       },
       {
-        "title": "冷凍食品大手「ニチレイ」サイバー攻撃を受けたと公表 | NHKニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T09:34:55+00:00",
-        "relevance_score": 5,
-        "url": "https://news.web.nhk/newsweb/na/na-k10015177751000"
+        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:00:05+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
+      },
+      {
+        "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T02:15:17+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
+      },
+      {
+        "title": "Is the US$63,619 Fibonacci level strong enough to prevent a total unwind back down to US$62,498?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:14:54+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/"
       }
     ]
   }
