@@ -490,6 +490,48 @@
     "id": "9d220e4c9662d98a8f2b"
   },
   {
+    "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
+    "url": "https://anond.hatelabo.jp/20260715103512",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T01:39:12+00:00",
+    "fetched_at": "2026-07-15T04:17:09+00:00",
+    "summary": "リモワ廃止関連の反応見てると、みんな如何に仕事しないで他のことやってるかの話しかしてない 米国のITエンジニアなんて今も末端の低級作業担当でもない限り週6で働いて70〜80時間労働なんて普通よ？ てか少し前は日本のITエンジニアもそれくらい働いてたよね？ いつからこんな仕事しなくなったんだろ 誰か知ってる人〜〜",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a8118be28e9735a30725"
+  },
+  {
+    "title": "手離れするインフラ設計を考える - /var/www/yatta47.log",
+    "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T01:23:31+00:00",
+    "fetched_at": "2026-07-15T04:17:09+00:00",
+    "summary": "今回はコラムのような感じ。ちょっとしたきっかけで思い浮かんだので書いてみる。 きっかけ: 6年前のスライドが今も正しかった Songmu氏（松木雅幸、Nature CTO）が2020年のInfra Study Meetupで発表した「Infrastructure as Code変遷」というスライドがある。 junkyard.song.mu この発表の結論は3つ。 \"Everything\"の量...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "29254c746278214240b7"
+  },
+  {
     "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
     "url": "https://togetter.com/li/2720654",
     "source": "Hatena Bookmark Hotentry IT",
@@ -509,6 +551,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "905be7bfc4daa450533b"
+  },
+  {
+    "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T22:58:11+00:00",
+    "fetched_at": "2026-07-15T04:17:09+00:00",
+    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cec1caba45f7974aa473"
   },
   {
     "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る",

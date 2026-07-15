@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T03:13:12+00:00",
-  "run_id": "2026-07-15T03:13:12+00:00",
+  "generated_at": "2026-07-15T04:17:42+00:00",
+  "run_id": "2026-07-15T04:17:42+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 3,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 4,
-    "observe": 17,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -522,6 +522,48 @@
         "id": "9d220e4c9662d98a8f2b"
       },
       {
+        "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
+        "url": "https://anond.hatelabo.jp/20260715103512",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T01:39:12+00:00",
+        "fetched_at": "2026-07-15T04:17:09+00:00",
+        "summary": "リモワ廃止関連の反応見てると、みんな如何に仕事しないで他のことやってるかの話しかしてない 米国のITエンジニアなんて今も末端の低級作業担当でもない限り週6で働いて70〜80時間労働なんて普通よ？ てか少し前は日本のITエンジニアもそれくらい働いてたよね？ いつからこんな仕事しなくなったんだろ 誰か知ってる人〜〜",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a8118be28e9735a30725"
+      },
+      {
+        "title": "手離れするインフラ設計を考える - /var/www/yatta47.log",
+        "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T01:23:31+00:00",
+        "fetched_at": "2026-07-15T04:17:09+00:00",
+        "summary": "今回はコラムのような感じ。ちょっとしたきっかけで思い浮かんだので書いてみる。 きっかけ: 6年前のスライドが今も正しかった Songmu氏（松木雅幸、Nature CTO）が2020年のInfra Study Meetupで発表した「Infrastructure as Code変遷」というスライドがある。 junkyard.song.mu この発表の結論は3つ。 \"Everything\"の量...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "29254c746278214240b7"
+      },
+      {
         "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
         "url": "https://togetter.com/li/2720654",
         "source": "Hatena Bookmark Hotentry IT",
@@ -541,6 +583,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "905be7bfc4daa450533b"
+      },
+      {
+        "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-14T22:58:11+00:00",
+        "fetched_at": "2026-07-15T04:17:09+00:00",
+        "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cec1caba45f7974aa473"
       },
       {
         "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る",
@@ -1077,6 +1140,48 @@
       "id": "9d220e4c9662d98a8f2b"
     },
     {
+      "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
+      "url": "https://anond.hatelabo.jp/20260715103512",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T01:39:12+00:00",
+      "fetched_at": "2026-07-15T04:17:09+00:00",
+      "summary": "リモワ廃止関連の反応見てると、みんな如何に仕事しないで他のことやってるかの話しかしてない 米国のITエンジニアなんて今も末端の低級作業担当でもない限り週6で働いて70〜80時間労働なんて普通よ？ てか少し前は日本のITエンジニアもそれくらい働いてたよね？ いつからこんな仕事しなくなったんだろ 誰か知ってる人〜〜",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a8118be28e9735a30725"
+    },
+    {
+      "title": "手離れするインフラ設計を考える - /var/www/yatta47.log",
+      "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T01:23:31+00:00",
+      "fetched_at": "2026-07-15T04:17:09+00:00",
+      "summary": "今回はコラムのような感じ。ちょっとしたきっかけで思い浮かんだので書いてみる。 きっかけ: 6年前のスライドが今も正しかった Songmu氏（松木雅幸、Nature CTO）が2020年のInfra Study Meetupで発表した「Infrastructure as Code変遷」というスライドがある。 junkyard.song.mu この発表の結論は3つ。 \"Everything\"の量...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "29254c746278214240b7"
+    },
+    {
       "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
       "url": "https://togetter.com/li/2720654",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1096,6 +1201,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "905be7bfc4daa450533b"
+    },
+    {
+      "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-14T22:58:11+00:00",
+      "fetched_at": "2026-07-15T04:17:09+00:00",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cec1caba45f7974aa473"
     },
     {
       "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る",
@@ -1141,150 +1267,13 @@
   ],
   "new_findings": [
     {
-      "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
-      "url": "https://jvn.jp/jp/JVN59875262/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-15T12:00:00+09:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "株式会社SBI証券が提供するHYPER SBI 2のインストーラには、DLL読み込みに関する脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f9b009e79f56dfe98c63"
-    },
-    {
-      "title": "M 4.9 - 183 km SSE of Vilyuchinsk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-15T03:03:25.040+00:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "Time 2026-07-15 02:48:45 UTC 2026-07-15 02:48:45 UTC at epicenter Location 51.476°N 159.673°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "3e29b0eacc535390d77e"
-    },
-    {
-      "title": "M 5.1 - 190 km SSE of Vilyuchinsk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-15T02:56:56.040+00:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "Time 2026-07-15 02:42:18 UTC 2026-07-15 02:42:18 UTC at epicenter Location 51.381°N 159.582°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "cd5a034688c3e74b51b3"
-    },
-    {
-      "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
-      "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-15T02:15:17+00:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "The largest AI companies are building the most expensive infrastructure programme in corporate history. They are also moving a growing share of the financing away from their own balance sheets. That does not mean the risk has disappeared. It means the risk has moved. The new AI financing stack is built from joint ventures, special-purpose […] The post AI’s trillion-dollar lease overhang is off the books, not off the…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cc138eac9351c22c00cc"
-    },
-    {
-      "title": "GitHub Copilot for JetBrains expands BYOK capabilities",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-14T23:37:29+00:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and… The post GitHub Copilot for JetBrains expands BYOK capabilities appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); Actions (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "de575eaf737f343c0d5e"
-    },
-    {
-      "title": "「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_892/",
+      "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
+      "url": "https://anond.hatelabo.jp/20260715103512",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-15T01:58:11+00:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "大東文化大学文学部日本文学科 助教 廣田 龍平（ひろた・りゅうへい） 1983年生まれ。専門は文化人類学、民俗学。博士（文学）。大学時代の卒業論文で怪談「コトリバコ」を扱って以降、妖怪や怪異の研究に独自の存在論的視点からアプローチしている。著書に『ネット怪談の民俗学』（ハヤカワ新書）、『妖怪の誕生』（青...",
+      "published_at": "2026-07-15T01:39:12+00:00",
+      "fetched_at": "2026-07-15T04:17:09+00:00",
+      "summary": "リモワ廃止関連の反応見てると、みんな如何に仕事しないで他のことやってるかの話しかしてない 米国のITエンジニアなんて今も末端の低級作業担当でもない限り週6で働いて70〜80時間労働なんて普通よ？ てか少し前は日本のITエンジニアもそれくらい働いてたよね？ いつからこんな仕事しなくなったんだろ 誰か知ってる人〜〜",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1296,16 +1285,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9d220e4c9662d98a8f2b"
+      "id": "a8118be28e9735a30725"
     },
     {
-      "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
-      "url": "https://togetter.com/li/2720654",
+      "title": "手離れするインフラ設計を考える - /var/www/yatta47.log",
+      "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-15T00:24:33+00:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "🐢 🦊 🐈 @kituneponyo そういえば、在宅データ入力のバイトに履歴書と職務経歴書送ったら「この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません」って言われたんだけど、俺は夜間土日に遊び半分でタイピングゲームやってちょろっとお小遣い稼ぎがしたかっただけなんだ…… 2026-07-14 14:03:59",
+      "published_at": "2026-07-15T01:23:31+00:00",
+      "fetched_at": "2026-07-15T04:17:09+00:00",
+      "summary": "今回はコラムのような感じ。ちょっとしたきっかけで思い浮かんだので書いてみる。 きっかけ: 6年前のスライドが今も正しかった Songmu氏（松木雅幸、Nature CTO）が2020年のInfra Study Meetupで発表した「Infrastructure as Code変遷」というスライドがある。 junkyard.song.mu この発表の結論は3つ。 \"Everything\"の量...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1317,27 +1306,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "905be7bfc4daa450533b"
+      "id": "29254c746278214240b7"
     },
     {
-      "title": "Gen Z isn’t hard to manage, you just need to rethink how you lead",
-      "url": "https://e27.co/gen-z-isnt-hard-to-manage-you-just-need-to-rethink-how-you-lead-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-15T02:45:13+00:00",
-      "fetched_at": "2026-07-15T03:12:44+00:00",
-      "summary": "Every generation that enters the workforce brings a culture shock with them. When Millennials started their careers, Gen X and Baby Boomer managers were just as confused: “Why do they always question everything?” “Why can’t they just execute?” “Why are they so obsessed with work-life balance?” The truth is, every generation’s behaviour is shaped by […] The post Gen Z isn’t hard to manage, you just need to rethink ho…",
+      "published_at": "2026-07-14T22:58:11+00:00",
+      "fetched_at": "2026-07-15T04:17:09+00:00",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a51bb2ba7e688b5a9cb6"
+      "id": "cec1caba45f7974aa473"
     }
   ],
   "source_errors": [],

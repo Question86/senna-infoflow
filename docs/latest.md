@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T03:13:12+00:00_
+_Generiert: 2026-07-15T04:17:42+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — June update“ aus GitHub Changelog Atom (Score 17, observation).
+24 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — June update“ aus GitHub Changelog Atom (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -141,14 +141,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 大東文化大学文学部日本文学科 助教 廣田 龍平（ひろた・りゅうへい） 1983年生まれ。専門は文化人類学、民俗学。博士（文学）。大学時代の卒業論文で怪談「コトリバコ」を扱って以降、妖怪や怪異の研究に独自の存在論的視点からアプローチしている。著書に『ネット怪談の民俗学』（ハヤカワ新書）、『妖怪の誕生』（青...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた** — Score 5, observation — [Quelle](https://togetter.com/li/2720654)
+- **日本のエンジニアっていつからこんなに働かなくなったの？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260715103512)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T00:24:33+00:00`, fetched `2026-07-15T03:12:44+00:00`
+  - Zeit: published `2026-07-15T01:39:12+00:00`, fetched `2026-07-15T04:17:09+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 🐢 🦊 🐈 @kituneponyo そういえば、在宅データ入力のバイトに履歴書と職務経歴書送ったら「この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません」って言われたんだけど、俺は夜間土日に遊び半分でタイピングゲームやってちょろっとお小遣い稼ぎがしたかっただけなんだ…… 2026-07-14 14:03:59
+  - Kurz: リモワ廃止関連の反応見てると、みんな如何に仕事しないで他のことやってるかの話しかしてない 米国のITエンジニアなんて今も末端の低級作業担当でもない限り週6で働いて70〜80時間労働なんて普通よ？ てか少し前は日本のITエンジニアもそれくらい働いてたよね？ いつからこんな仕事しなくなったんだろ 誰か知ってる人〜〜
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

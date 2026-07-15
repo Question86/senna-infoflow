@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T03:13:12+00:00",
+  "generated_at": "2026-07-15T04:17:42+00:00",
   "topics": {
     "github": [
       {
@@ -158,6 +158,20 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
       },
       {
+        "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T01:39:12+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260715103512"
+      },
+      {
+        "title": "手離れするインフラ設計を考える - /var/www/yatta47.log",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T01:23:31+00:00",
+        "relevance_score": 5,
+        "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447"
+      },
+      {
         "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-15T00:24:33+00:00",
@@ -165,11 +179,11 @@
         "url": "https://togetter.com/li/2720654"
       },
       {
-        "title": "Gen Z isn’t hard to manage, you just need to rethink how you lead",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T02:45:13+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/gen-z-isnt-hard-to-manage-you-just-need-to-rethink-how-you-lead-20260714/"
+        "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-14T22:58:11+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html"
       }
     ],
     "economy": [
