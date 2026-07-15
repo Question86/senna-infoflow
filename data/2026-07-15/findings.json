@@ -1,0 +1,24 @@
+[
+  {
+    "title": "非エンジニアが自作アプリを社内にデプロイできる基盤を作った話",
+    "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T11:14:47+00:00",
+    "fetched_at": "2026-07-15T00:10:40+00:00",
+    "summary": "こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6abc4592bf8e627b674b"
+  }
+]

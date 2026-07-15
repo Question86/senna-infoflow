@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-14T23:52:03+00:00",
+  "generated_at": "2026-07-15T00:11:11+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 107,
-    "displayed_findings": 107,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 56,
-    "observe": 51
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Updates | ReliefWeb",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-14T23:51:52+00:00",
-      "relevance_score": 23,
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "section": "medium"
-    },
-    {
-      "title": "Code scanning shows AI security detections on pull requests",
-      "source": "GitHub Changelog Atom",
+      "title": "非エンジニアが自作アプリを社内にデプロイできる基盤を作った話",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-14T19:12:48+00:00",
-      "relevance_score": 23,
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "summary": "GitHub code scanning now surfaces AI-powered security detections directly on pull requests, expanding vulnerability coverage to languages and frameworks not currently supported by CodeQL. These detections help teams identify and… The post Code scanning shows…",
-      "section": "medium"
-    },
-    {
-      "title": "Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen",
-      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "published_at": "2026-07-14T18:10:00+00:00",
-      "relevance_score": 23,
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271713-1032_bits.html",
-      "summary": "Version 1.0: Microsoft SharePoint - Zero-Day und kritische Schwachstellen geschlossen",
-      "section": "medium"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-14T10:00:00+00:00",
-      "relevance_score": 23,
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.4 - 90 km SSE of False Pass, Alaska",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-14T19:30:41.592+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu",
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-07-14 18:51:07 UTC 2026-07-14 18:51:07 UTC at epicenter Location 54.176°N 162.638°W Depth 47.04 km (29.23 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "The Gulf has billions to spend on AI. It still needs Nvidia",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-14T10:00:39+00:00",
-      "relevance_score": 13,
-      "url": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "summary": "Saudi Arabia and the UAE are trying to diversify their AI supply chains, but geopolitical constraints and Nvidia's technological lead leave them with few viable alternatives.",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.6 - 11 km N of Pichigua, Peru",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-14T08:52:30.062+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3",
-      "summary": "ShakeMap - IV Time 2026-07-14 08:21:06 UTC 2026-07-14 08:21:06 UTC at epicenter Location 14.578°S 71.436°W Depth 140.09 km (87.05 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Bowman, Responsible Innovation and Financial Inclusion",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-07-14T18:55:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm",
-      "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C. (via pre-recorded video)",
+      "published_at": "2026-07-14T11:14:47+00:00",
+      "relevance_score": 10,
+      "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
+      "summary": "こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題...",
       "section": "observe"
     }
   ],
