@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T22:09:30+00:00",
-  "run_id": "2026-07-15T22:09:30+00:00",
+  "generated_at": "2026-07-15T22:33:05+00:00",
+  "run_id": "2026-07-15T22:33:05+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 101
+      "configured_public_sources_only": 102
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 101,
-    "displayed_findings": 101,
+    "new_relevant_findings": 1,
+    "today_file_total": 102,
+    "displayed_findings": 102,
     "high": 0,
     "medium": 48,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -2225,6 +2225,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6246ae3cb9c696d5f7ef"
+      },
+      {
+        "title": "ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない",
+        "url": "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T15:27:31+00:00",
+        "fetched_at": "2026-07-15T22:32:35+00:00",
+        "summary": "ロジテック(ロジクール)のマウスやキーボードには、製品とPCを無線接続する独自のUSBドングル「Logi Bolt」が付属していることがあります。この正体がなんなのかについてインターネット上で議論があったため、海外テック系メディアのLTT Labsが詳細をロジテックに確認しました。 Logi Bolt Receiver: Not Just a Bluetoo...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e255ea797fb2265f3c9c"
       },
       {
         "title": "X、全コードを例外なくオープンソース化へ。第三者に稼働検証も",
@@ -4738,6 +4759,27 @@
       "id": "6246ae3cb9c696d5f7ef"
     },
     {
+      "title": "ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない",
+      "url": "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T15:27:31+00:00",
+      "fetched_at": "2026-07-15T22:32:35+00:00",
+      "summary": "ロジテック(ロジクール)のマウスやキーボードには、製品とPCを無線接続する独自のUSBドングル「Logi Bolt」が付属していることがあります。この正体がなんなのかについてインターネット上で議論があったため、海外テック系メディアのLTT Labsが詳細をロジテックに確認しました。 Logi Bolt Receiver: Not Just a Bluetoo...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e255ea797fb2265f3c9c"
+    },
+    {
       "title": "X、全コードを例外なくオープンソース化へ。第三者に稼働検証も",
       "url": "https://pc.watch.impress.co.jp/docs/news/2125521.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5053,83 +5095,25 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-15T22:09:17+00:00",
-      "fetched_at": "2026-07-15T22:08:58+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "7a58013b7c074aebb0b5"
-    },
-    {
-      "title": "M 4.7 - 101 km SW of Basco, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない",
+      "url": "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-15T21:51:02.040+00:00",
-      "fetched_at": "2026-07-15T22:08:58+00:00",
-      "summary": "Time 2026-07-15 21:33:38 UTC 2026-07-15 21:33:38 UTC at epicenter Location 19.735°N 121.359°E Depth 35.00 km (21.75 mi)",
+      "published_at": "2026-07-15T15:27:31+00:00",
+      "fetched_at": "2026-07-15T22:32:35+00:00",
+      "summary": "ロジテック(ロジクール)のマウスやキーボードには、製品とPCを無線接続する独自のUSBドングル「Logi Bolt」が付属していることがあります。この正体がなんなのかについてインターネット上で議論があったため、海外テック系メディアのLTT Labsが詳細をロジテックに確認しました。 Logi Bolt Receiver: Not Just a Bluetoo...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "99cc10070a4c7aa8bd5d"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e255ea797fb2265f3c9c"
     }
   ],
   "source_errors": [],

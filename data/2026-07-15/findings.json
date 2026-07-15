@@ -2195,6 +2195,27 @@
     "id": "6246ae3cb9c696d5f7ef"
   },
   {
+    "title": "ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない",
+    "url": "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T15:27:31+00:00",
+    "fetched_at": "2026-07-15T22:32:35+00:00",
+    "summary": "ロジテック(ロジクール)のマウスやキーボードには、製品とPCを無線接続する独自のUSBドングル「Logi Bolt」が付属していることがあります。この正体がなんなのかについてインターネット上で議論があったため、海外テック系メディアのLTT Labsが詳細をロジテックに確認しました。 Logi Bolt Receiver: Not Just a Bluetoo...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e255ea797fb2265f3c9c"
+  },
+  {
     "title": "X、全コードを例外なくオープンソース化へ。第三者に稼働検証も",
     "url": "https://pc.watch.impress.co.jp/docs/news/2125521.html",
     "source": "Hatena Bookmark Hotentry IT",
