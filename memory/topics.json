@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T17:27:04+00:00",
+  "generated_at": "2026-07-15T17:54:15+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-15T05:26:40+00:00",
         "relevance_score": 21,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302"
+      },
+      {
+        "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-15T17:29:31+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/"
       },
       {
         "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-14T11:14:47+00:00",
         "relevance_score": 10,
         "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae"
-      },
-      {
-        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T05:00:05+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": "2026-07-15T00:01:24+00:00",
         "relevance_score": 17,
         "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update"
+      },
+      {
+        "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-15T17:29:31+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/"
       },
       {
         "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",

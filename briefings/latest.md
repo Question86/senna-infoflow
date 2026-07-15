@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T17:27:04+00:00_
+_Generiert: 2026-07-15T17:54:15+00:00_
 
 ## Kurzlage
 
-97 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+98 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -154,6 +154,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-15 12:29:40 UTC 2026-07-15 12:29:40 UTC at epicenter Location 40.322°N 142.305°E Depth 63.29 km (39.33 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GitHub for Beginners: Your roadmap to mastering the GitHub essentials** — Score 14, observation — [Quelle](https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-07-15T17:29:31+00:00`, fetched `2026-07-15T17:53:44+00:00`
+  - Treffer: AI Agents, Content-Chance, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Content-Chance (+5.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN59875262/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-15T12:00:00+09:00`, fetched `2026-07-15T03:12:44+00:00`
