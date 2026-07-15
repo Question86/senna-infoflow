@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-15T06:57:10+00:00_
+_Generated: 2026-07-15T07:37:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `45`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-15T05:15:49+00:00`
+- published: `2026-07-15T07:37:10+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-15T06:57:10+00:00_
 - url: https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update
 - summary: June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual Studio — June update appeared first on The GitHub Blog .
 
-### 5. Gemini’s SEA growth puts local-language AI at the centre of the assistant race
+### 5. Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-07-15T08:15:24+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html
+- summary: Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 6. Gemini’s SEA growth puts local-language AI at the centre of the assistant race
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-15T02:00:57+00:00`
 - url: https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/
 - summary: Google said active users of its Gemini app in Southeast Asia have more than doubled over the past year, with adoption in the region outpacing any previous Google app launch, according to the company’s first “Gemini Southeast Asia Report 2026″. The report cove…
 
-### 6. Can a Fortune 100 sales director actually close deals for your startup?
+### 7. Can a Fortune 100 sales director actually close deals for your startup?
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-15T01:45:41+00:00`
 - url: https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/
 - summary: A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the ga…
 
-### 7. デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
+### 8. デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
 - source: Japan Digital Agency News RSS
 - score: `11`
 - published: `2026-07-15T06:00:00+00:00`
 - url: https://www.digital.go.jp/resources/standard_guidelines
 - summary: デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
-
-### 8. M 5.1 - 52 km NNW of Valparaíso, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-15T01:56:03.050+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it
-- summary: DYFI? - V Time 2026-07-15 01:09:20 UTC 2026-07-15 01:09:20 UTC at epicenter Location 32.603°S 71.863°W Depth 26.03 km (16.18 mi)
 
 END OF DOCUMENT

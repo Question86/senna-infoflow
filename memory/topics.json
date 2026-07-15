@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T06:57:10+00:00",
+  "generated_at": "2026-07-15T07:37:22+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-15T05:15:49+00:00",
+        "published_at": "2026-07-15T07:37:10+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -128,6 +128,27 @@
         "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T07:26:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318"
+      },
+      {
+        "title": "[NEU] [hoch] Spotfire Server: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T07:31:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2319"
+      },
+      {
+        "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-15T08:15:24+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html"
+      },
+      {
         "title": "Piero Cipollone: Interview with Ouest-France",
         "source": "ECB Press Releases Speeches Interviews",
         "published_at": "2026-07-15T06:00:00+00:00",
@@ -158,6 +179,13 @@
         "url": "https://jvn.jp/vu/JVNVU91675472/"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T07:26:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-15T06:42:10+00:00",
@@ -170,6 +198,20 @@
         "published_at": "2026-07-15T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN59875262/"
+      },
+      {
+        "title": "[NEU] [hoch] Spotfire Server: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T07:31:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2319"
+      },
+      {
+        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T07:26:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1959"
       },
       {
         "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
@@ -191,20 +233,36 @@
         "published_at": "2026-07-15T06:42:10+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1777"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-15T08:15:24+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html"
       },
       {
-        "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T06:42:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1744"
+        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:00:05+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
       },
       {
-        "title": "Security Alert: Microsoft Releases July 2026 Security Updates",
-        "source": "JPCERT/CC English Alerts",
-        "published_at": "2026-07-15T13:41+09:00",
-        "relevance_score": 10,
-        "url": "https://www.jpcert.or.jp/english/at/2026/at260020.html"
+        "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T02:15:17+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
+      },
+      {
+        "title": "Is the US$63,619 Fibonacci level strong enough to prevent a total unwind back down to US$62,498?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:14:54+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/"
       }
     ],
     "general": [
@@ -265,41 +323,18 @@
         "url": "https://www.digital.go.jp/procurement/invitation-answer"
       },
       {
-        "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
+        "title": "「POPOPO」サービス終了へ 提供開始から半年で",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T01:39:12+00:00",
+        "published_at": "2026-07-15T06:27:33+00:00",
         "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260715103512"
+        "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html"
       },
       {
-        "title": "手離れするインフラ設計を考える - /var/www/yatta47.log",
+        "title": "「POPOPO」サービス終了のお知らせ | POPOPO ニュース",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T01:23:31+00:00",
+        "published_at": "2026-07-15T06:24:31+00:00",
         "relevance_score": 5,
-        "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447"
-      }
-    ],
-    "economy": [
-      {
-        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T05:00:05+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
-      },
-      {
-        "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T02:15:17+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
-      },
-      {
-        "title": "Is the US$63,619 Fibonacci level strong enough to prevent a total unwind back down to US$62,498?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T05:14:54+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/"
+        "url": "https://news.popopo.com/ja/post-20/"
       }
     ]
   }

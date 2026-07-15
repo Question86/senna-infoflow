@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-15T05:15:49+00:00",
-    "fetched_at": "2026-07-15T05:15:32+00:00",
+    "published_at": "2026-07-15T07:37:10+00:00",
+    "fetched_at": "2026-07-15T07:36:51+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "25d1a4b3a9ce05750d66"
+    "id": "d87fc57b9ff4bf1e1fc0"
   },
   {
     "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -185,6 +185,30 @@
     "id": "27bfdaf6ebfeed1b8e0b"
   },
   {
+    "title": "[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-15T07:26:39+00:00",
+    "fetched_at": "2026-07-15T07:36:51+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libinput) ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "327b5bc3b43d1fd3e5b5"
+  },
+  {
     "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771",
     "source": "BSI CERT-Bund Security Advisories",
@@ -229,6 +253,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f9b009e79f56dfe98c63"
+  },
+  {
+    "title": "[NEU] [hoch] Spotfire Server: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2319",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-15T07:31:39+00:00",
+    "fetched_at": "2026-07-15T07:36:51+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Spotfire Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d9dc2b64b79cf97404ed"
+  },
+  {
+    "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1959",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-15T07:26:40+00:00",
+    "fetched_at": "2026-07-15T07:36:51+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Speicherbeschädigungen zu verursachen, Sicherheitsmaßnahmen zu umgehen und aus der Sandbox auszubrechen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und Denial-of-Service-Zustände auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "70f919636828b70c2fbd"
   },
   {
     "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
@@ -344,6 +414,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8a4d4077e8e66dec3905"
+  },
+  {
+    "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-07-15T08:15:24+00:00",
+    "fetched_at": "2026-07-15T07:36:51+00:00",
+    "summary": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b64d41d18c9ca1462c21"
   },
   {
     "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
@@ -801,6 +893,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6246ae3cb9c696d5f7ef"
+  },
+  {
+    "title": "「POPOPO」サービス終了へ 提供開始から半年で",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T06:27:33+00:00",
+    "fetched_at": "2026-07-15T07:36:51+00:00",
+    "summary": "川上量生氏が全額出資するPOPOPOは7月15日、コミュニケーションサービス「POPOPO」の提供を9月17日に終了すると発表した。「今後の事業環境やサービスの最適化を総合的に検討した結果」という。 POPOPOは3月にサービスを開始。3Dアバターを介して通話できるスマートフォン専用の通話サービスで、ユーザーが自身の顔や姿...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "929e213f9fcc3891272d"
+  },
+  {
+    "title": "「POPOPO」サービス終了のお知らせ | POPOPO ニュース",
+    "url": "https://news.popopo.com/ja/post-20/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T06:24:31+00:00",
+    "fetched_at": "2026-07-15T07:36:51+00:00",
+    "summary": "POPOPO株式会社は、現在提供しているアプリ「POPOPO」につきまして、2026年9月17日（木） をもってサービスを終了することを決定いたしました。 「POPOPO」は2026年3月18日のサービス開始以降、多くのお客様にご利用いただいてまいりましたが、今後の事業環境やサービスの最適化を総合的に検討した結果、サービスを終了...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1ab230960905acb19804"
   },
   {
     "title": "「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB",
