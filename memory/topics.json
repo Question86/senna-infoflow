@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T11:16:26+00:00",
+  "generated_at": "2026-07-15T11:51:37+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-15T08:29:25+00:00",
+        "published_at": "2026-07-15T11:51:24+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -228,6 +228,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2338"
       },
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T11:36:42+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1465"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T11:36:42+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2229"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T11:36:41+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1114"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T11:36:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0975"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-15T09:45:00+09:00",
@@ -247,34 +275,6 @@
         "published_at": "2026-07-15T08:22:08+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274"
-      },
-      {
-        "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T08:21:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2316"
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft SQL Server und Power BI: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T08:16:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2327"
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T07:26:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T06:42:10+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771"
       }
     ],
     "economy": [
@@ -365,18 +365,18 @@
         "url": "https://www.digital.go.jp/procurement/invitation-answer"
       },
       {
+        "title": "boketeアプリ サービス終了のお知らせ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T10:16:04+00:00",
+        "relevance_score": 5,
+        "url": "https://bokete-photo.blogspot.com/2026/07/arigato.html"
+      },
+      {
         "title": "「POPOPO」サービス終了へ 提供開始から半年で",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-15T06:27:33+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html"
-      },
-      {
-        "title": "「POPOPO」サービス終了のお知らせ | POPOPO ニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T06:24:31+00:00",
-        "relevance_score": 5,
-        "url": "https://news.popopo.com/ja/post-20/"
       }
     ]
   }
