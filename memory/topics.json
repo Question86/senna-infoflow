@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T13:25:47+00:00",
+  "generated_at": "2026-07-15T14:07:58+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-15T11:51:24+00:00",
+        "published_at": "2026-07-15T14:07:46+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -335,18 +335,18 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
       },
       {
+        "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T08:30:45+00:00",
+        "relevance_score": 8,
+        "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026"
+      },
+      {
         "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-07-15T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/procurement/invitation-answer"
-      },
-      {
-        "title": "boketeアプリ サービス終了のお知らせ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T10:16:04+00:00",
-        "relevance_score": 5,
-        "url": "https://bokete-photo.blogspot.com/2026/07/arigato.html"
       }
     ],
     "economy": [

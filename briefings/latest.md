@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T13:25:47+00:00_
+_Generiert: 2026-07-15T14:07:58+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+85 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,10 @@ _Generiert: 2026-07-15T13:25:47+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone ELIDA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -79,7 +79,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-15T11:51:24+00:00`, fetched `2026-07-15T11:51:06+00:00`
+  - Zeit: published `2026-07-15T14:07:46+00:00`, fetched `2026-07-15T14:07:27+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW

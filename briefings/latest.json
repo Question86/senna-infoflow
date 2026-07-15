@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T13:25:47+00:00",
-  "run_id": "2026-07-15T13:25:47+00:00",
+  "generated_at": "2026-07-15T14:07:58+00:00",
+  "run_id": "2026-07-15T14:07:58+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 2,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 45,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-15T11:51:24+00:00",
-        "fetched_at": "2026-07-15T11:51:06+00:00",
+        "published_at": "2026-07-15T14:07:46+00:00",
+        "fetched_at": "2026-07-15T14:07:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "0931ca4ca1d9461e0dd9"
+        "id": "f870e6c1f0ea2b5d4bb5"
       },
       {
         "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -1642,6 +1642,28 @@
         "id": "4fa52a5a7c737a37e0ae"
       },
       {
+        "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
+        "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T08:30:45+00:00",
+        "fetched_at": "2026-07-15T14:07:27+00:00",
+        "summary": "こんにちは、北海道から freee red team*1に参加している yu です。 読者の皆さんは、freee の全社障害訓練というものをご存知でしょうか。 私自身、4年前の転職の際は障害訓練の記事を見て freee に興味を持つきっかけになったり、入社直後の2022年の障害訓練では手も足も出ず歯痒い思いをしたりと、大変思い入れの深い...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d84cfe1543efa56e8c33"
+      },
+      {
         "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
         "url": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2109,8 +2131,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T11:51:24+00:00",
-      "fetched_at": "2026-07-15T11:51:06+00:00",
+      "published_at": "2026-07-15T14:07:46+00:00",
+      "fetched_at": "2026-07-15T14:07:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2144,7 +2166,7 @@
         "HD",
         "LOW"
       ],
-      "id": "0931ca4ca1d9461e0dd9"
+      "id": "f870e6c1f0ea2b5d4bb5"
     },
     {
       "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -3715,6 +3737,28 @@
       "id": "4fa52a5a7c737a37e0ae"
     },
     {
+      "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
+      "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:30:45+00:00",
+      "fetched_at": "2026-07-15T14:07:27+00:00",
+      "summary": "こんにちは、北海道から freee red team*1に参加している yu です。 読者の皆さんは、freee の全社障害訓練というものをご存知でしょうか。 私自身、4年前の転職の際は障害訓練の記事を見て freee に興味を持つきっかけになったり、入社直後の2022年の障害訓練では手も足も出ず歯痒い思いをしたりと、大変思い入れの深い...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d84cfe1543efa56e8c33"
+    },
+    {
       "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
       "url": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4177,20 +4221,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 47 km ENE of Noda, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-15T12:55:12.040+00:00",
-      "fetched_at": "2026-07-15T13:25:11+00:00",
-      "summary": "Time 2026-07-15 12:29:40 UTC 2026-07-15 12:29:40 UTC at epicenter Location 40.322°N 142.305°E Depth 63.29 km (39.33 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-15T14:07:46+00:00",
+      "fetched_at": "2026-07-15T14:07:27+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -4211,7 +4260,29 @@
         "HD",
         "LOW"
       ],
-      "id": "9c31e064f003c9c2b623"
+      "id": "f870e6c1f0ea2b5d4bb5"
+    },
+    {
+      "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
+      "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:30:45+00:00",
+      "fetched_at": "2026-07-15T14:07:27+00:00",
+      "summary": "こんにちは、北海道から freee red team*1に参加している yu です。 読者の皆さんは、freee の全社障害訓練というものをご存知でしょうか。 私自身、4年前の転職の際は障害訓練の記事を見て freee に興味を持つきっかけになったり、入社直後の2022年の障害訓練では手も足も出ず歯痒い思いをしたりと、大変思い入れの深い...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d84cfe1543efa56e8c33"
     }
   ],
   "source_errors": [],

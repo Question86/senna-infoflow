@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-15T11:51:24+00:00",
-    "fetched_at": "2026-07-15T11:51:06+00:00",
+    "published_at": "2026-07-15T14:07:46+00:00",
+    "fetched_at": "2026-07-15T14:07:27+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "0931ca4ca1d9461e0dd9"
+    "id": "f870e6c1f0ea2b5d4bb5"
   },
   {
     "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -1608,6 +1608,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4fa52a5a7c737a37e0ae"
+  },
+  {
+    "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
+    "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T08:30:45+00:00",
+    "fetched_at": "2026-07-15T14:07:27+00:00",
+    "summary": "こんにちは、北海道から freee red team*1に参加している yu です。 読者の皆さんは、freee の全社障害訓練というものをご存知でしょうか。 私自身、4年前の転職の際は障害訓練の記事を見て freee に興味を持つきっかけになったり、入社直後の2022年の障害訓練では手も足も出ず歯痒い思いをしたりと、大変思い入れの深い...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d84cfe1543efa56e8c33"
   },
   {
     "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
