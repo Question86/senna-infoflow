@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T00:47:58+00:00",
-  "run_id": "2026-07-15T00:47:58+00:00",
+  "generated_at": "2026-07-15T01:19:31+00:00",
+  "run_id": "2026-07-15T01:19:31+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 1,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 2,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -122,6 +122,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6abc4592bf8e627b674b"
+      },
+      {
+        "title": "M 5.1 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-15T00:53:31.040+00:00",
+        "fetched_at": "2026-07-15T01:18:58+00:00",
+        "summary": "Time 2026-07-15 00:35:28 UTC 2026-07-15 00:35:28 UTC at epicenter Location 58.771°S 29.472°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e106e82f4599973346a1"
       }
     ]
   },
@@ -217,78 +253,80 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6abc4592bf8e627b674b"
+    },
+    {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:53:31.040+00:00",
+      "fetched_at": "2026-07-15T01:18:58+00:00",
+      "summary": "Time 2026-07-15 00:35:28 UTC 2026-07-15 00:35:28 UTC at epicenter Location 58.771°S 29.472°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e106e82f4599973346a1"
     }
   ],
   "new_findings": [
     {
-      "title": "GitHub Copilot in Visual Studio — June update",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "source": "GitHub Changelog Atom",
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-15T00:01:24+00:00",
-      "fetched_at": "2026-07-15T00:47:28+00:00",
-      "summary": "June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual Studio — June update appeared first on The GitHub Blog .",
+      "published_at": "2026-07-15T00:53:31.040+00:00",
+      "fetched_at": "2026-07-15T01:18:58+00:00",
+      "summary": "Time 2026-07-15 00:35:28 UTC 2026-07-15 00:35:28 UTC at epicenter Location 58.771°S 29.472°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Copilot",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP, MCP server"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "e61c4d53278d0513f48c"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）",
-      "url": "https://jvn.jp/vu/JVNVU91675472/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-15T09:45:00+09:00",
-      "fetched_at": "2026-07-15T00:47:28+00:00",
-      "summary": "2026年07月14日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "27bfdaf6ebfeed1b8e0b"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e106e82f4599973346a1"
     }
   ],
   "source_errors": [],

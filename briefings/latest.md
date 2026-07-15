@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T00:47:58+00:00_
+_Generiert: 2026-07-15T01:19:31+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — June update“ aus GitHub Changelog Atom (Score 17, observation).
+4 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — June update“ aus GitHub Changelog Atom (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,38 +29,12 @@ _Generiert: 2026-07-15T00:47:58+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-13`
   - Kurz: Known exploited vulnerability. Added 2026-07-13. Due 2026-07-16. Cisco IOS Cross-Site Request Forgery Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551647)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.
-- **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551590)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.
-- **GDACS: Green flood alert in Germany** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104019)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Germany
 - **USGS earthquake M6.2 - 34 km WSW of Sarangani, Philippines** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0)
   - Quelle: USGS
   - Zeit: `2026-07-14T15:49:41+00:00`
   - Kurz: M6.2 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551894)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.
-- **GDACS: Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001282)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 30 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f00be7f5650>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -107,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-15T00:53:31.040+00:00`, fetched `2026-07-15T01:18:58+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-15 00:35:28 UTC 2026-07-15 00:35:28 UTC at epicenter Location 58.771°S 29.472°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
