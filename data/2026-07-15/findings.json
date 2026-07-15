@@ -246,6 +246,30 @@
     "id": "27bfdaf6ebfeed1b8e0b"
   },
   {
+    "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2158",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-15T09:41:44+00:00",
+    "fetched_at": "2026-07-15T10:03:12+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um Administratorrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7cd2c7ee9c690807cc19"
+  },
+  {
     "title": "[UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274",
     "source": "BSI CERT-Bund Security Advisories",
@@ -386,6 +410,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f9b009e79f56dfe98c63"
+  },
+  {
+    "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2245",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-15T09:41:44+00:00",
+    "fetched_at": "2026-07-15T10:03:12+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen oder um vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eaad34b82abbaa03ef03"
   },
   {
     "title": "[NEU] [mittel] Grafana Tempo: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -753,6 +800,28 @@
     "id": "fe4a274917189c74febf"
   },
   {
+    "title": "逐鹿數位｜HCM - SQL Injection",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-15T07:11:00+00:00",
+    "fetched_at": "2026-07-15T10:03:12+00:00",
+    "summary": "逐鹿數位｜HCM - SQL Injection",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "33d0e061e87fb857079c"
+  },
+  {
     "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
     "url": "https://www.digital.go.jp/resources/standard_guidelines",
     "source": "Japan Digital Agency News RSS",
@@ -851,6 +920,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6abc4592bf8e627b674b"
+  },
+  {
+    "title": "技嘉科技｜Gigabyte Control Center - Improper Access Control",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11033-97316-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-13T02:19:00+00:00",
+    "fetched_at": "2026-07-15T10:03:12+00:00",
+    "summary": "技嘉科技｜Gigabyte Control Center - Improper Access Control",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "14c62cccdffb39f2a4d8"
   },
   {
     "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
@@ -1038,6 +1129,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4fa52a5a7c737a37e0ae"
+  },
+  {
+    "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
+    "url": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T06:48:06+00:00",
+    "fetched_at": "2026-07-15T10:03:12+00:00",
+    "summary": "現代では多くの人々が日常的な質問や相談相手としてチャットAIを使ったり、生成AIツールを使って仕事を効率化したりしています。新たな研究では、ナルシシズム(自己愛)の強い人は問題がある生成AI使用に陥りやすいという結果が明らかになりました。 Dark Tetrad traits and problematic generative artificial intellige...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5baba78e7f85b538d78a"
   },
   {
     "title": "Piero Cipollone: Interview with Ouest-France",

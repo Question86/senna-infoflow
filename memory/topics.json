@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T09:18:43+00:00",
+  "generated_at": "2026-07-15T10:03:40+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://github.com/virattt/ai-hedge-fund"
       },
       {
+        "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T06:48:06+00:00",
+        "relevance_score": 8,
+        "url": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/"
+      },
+      {
         "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-15T02:15:17+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
-      },
-      {
-        "title": "Southeast Asia stopped waiting for the West, it built the rails",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T01:30:21+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/southeast-asia-stopped-waiting-for-the-west-it-built-the-rails-20260710/"
       }
     ],
     "github": [
@@ -228,6 +228,13 @@
         "url": "https://jvn.jp/vu/JVNVU91675472/"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T09:41:44+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2158"
+      },
+      {
         "title": "[UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-15T08:22:08+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-07-15T06:42:10+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771"
-      },
-      {
-        "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-15T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN59875262/"
       }
     ],
     "economy": [

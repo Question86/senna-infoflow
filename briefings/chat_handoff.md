@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-15T09:18:43+00:00_
+_Generated: 2026-07-15T10:03:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `57`
+- findings: `62`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-15T09:18:43+00:00_
 - url: https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/
 - summary: A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the ga…
 
-### 8. デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
-- source: Japan Digital Agency News RSS
+### 8. 逐鹿數位｜HCM - SQL Injection
+- source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
-- published: `2026-07-15T06:00:00+00:00`
-- url: https://www.digital.go.jp/resources/standard_guidelines
-- summary: デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
+- published: `2026-07-15T07:11:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html
+- summary: 逐鹿數位｜HCM - SQL Injection
 
 END OF DOCUMENT
