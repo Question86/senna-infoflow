@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T17:54:15+00:00",
-  "run_id": "2026-07-15T17:54:15+00:00",
+  "generated_at": "2026-07-15T18:19:58+00:00",
+  "run_id": "2026-07-15T18:19:58+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 98
+      "configured_public_sources_only": 100
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 98,
-    "displayed_findings": 98,
+    "new_relevant_findings": 3,
+    "today_file_total": 100,
+    "displayed_findings": 100,
     "high": 0,
     "medium": 47,
-    "observe": 51,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-15T17:26:51+00:00",
-        "fetched_at": "2026-07-15T17:26:33+00:00",
+        "published_at": "2026-07-15T18:19:47+00:00",
+        "fetched_at": "2026-07-15T18:19:28+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "fb5d591119df38a309cd"
+        "id": "335ba4b977e8fdcc3969"
       },
       {
         "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -1451,6 +1451,43 @@
         "id": "e1bb875cda8ee830e593"
       },
       {
+        "title": "M 4.7 - south of Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxnvtv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-15T17:59:36.829+00:00",
+        "fetched_at": "2026-07-15T18:19:28+00:00",
+        "summary": "ShakeMap - II Time 2026-07-15 17:46:19 UTC 2026-07-15 17:46:19 UTC at epicenter Location 54.233°N 153.278°W Depth 44.80 km (27.84 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6da3c11781f1018111db"
+      },
+      {
         "title": "逐鹿數位｜HCM - SQL Injection",
         "url": "https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -1492,6 +1529,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "185418b3570f457bad44"
+      },
+      {
+        "title": "【Claude Code】鹿野さんに聞く 私の推しの並行開発環境 大公開 / claude-code-parallel-2026-07-15",
+        "url": "https://speakerdeck.com/tonkotsuboy_com/claude-code-parallel-2026-07-15",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T04:41:49+00:00",
+        "fetched_at": "2026-07-15T18:19:28+00:00",
+        "summary": "【Claude Code】並行開発、どう回してる？ 鹿野さんに聞く 私の推しの並行開発環境 大公開 https://offers-jp.connpass.com/event/395255/ の登壇資料です",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4a29a09e00d094bd9e6e"
       },
       {
         "title": "M 5.1 - 52 km NNW of Valparaíso, Chile",
@@ -2451,8 +2510,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T17:26:51+00:00",
-      "fetched_at": "2026-07-15T17:26:33+00:00",
+      "published_at": "2026-07-15T18:19:47+00:00",
+      "fetched_at": "2026-07-15T18:19:28+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2486,7 +2545,7 @@
         "HD",
         "LOW"
       ],
-      "id": "fb5d591119df38a309cd"
+      "id": "335ba4b977e8fdcc3969"
     },
     {
       "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -3866,6 +3925,43 @@
       "id": "e1bb875cda8ee830e593"
     },
     {
+      "title": "M 4.7 - south of Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxnvtv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-15T17:59:36.829+00:00",
+      "fetched_at": "2026-07-15T18:19:28+00:00",
+      "summary": "ShakeMap - II Time 2026-07-15 17:46:19 UTC 2026-07-15 17:46:19 UTC at epicenter Location 54.233°N 153.278°W Depth 44.80 km (27.84 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6da3c11781f1018111db"
+    },
+    {
       "title": "逐鹿數位｜HCM - SQL Injection",
       "url": "https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -3907,6 +4003,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "185418b3570f457bad44"
+    },
+    {
+      "title": "【Claude Code】鹿野さんに聞く 私の推しの並行開発環境 大公開 / claude-code-parallel-2026-07-15",
+      "url": "https://speakerdeck.com/tonkotsuboy_com/claude-code-parallel-2026-07-15",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T04:41:49+00:00",
+      "fetched_at": "2026-07-15T18:19:28+00:00",
+      "summary": "【Claude Code】並行開発、どう回してる？ 鹿野さんに聞く 私の推しの並行開発環境 大公開 https://offers-jp.connpass.com/event/395255/ の登壇資料です",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4a29a09e00d094bd9e6e"
     },
     {
       "title": "M 5.1 - 52 km NNW of Valparaíso, Chile",
@@ -4861,26 +4979,105 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
-      "source": "GitHub Blog Atom",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-15T18:19:47+00:00",
+      "fetched_at": "2026-07-15T18:19:28+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "335ba4b977e8fdcc3969"
+    },
+    {
+      "title": "M 4.7 - south of Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxnvtv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-15T17:29:31+00:00",
-      "fetched_at": "2026-07-15T17:53:44+00:00",
-      "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog .",
+      "published_at": "2026-07-15T17:59:36.829+00:00",
+      "fetched_at": "2026-07-15T18:19:28+00:00",
+      "summary": "ShakeMap - II Time 2026-07-15 17:46:19 UTC 2026-07-15 17:46:19 UTC at epicenter Location 54.233°N 153.278°W Depth 44.80 km (27.84 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6da3c11781f1018111db"
+    },
+    {
+      "title": "【Claude Code】鹿野さんに聞く 私の推しの並行開発環境 大公開 / claude-code-parallel-2026-07-15",
+      "url": "https://speakerdeck.com/tonkotsuboy_com/claude-code-parallel-2026-07-15",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T04:41:49+00:00",
+      "fetched_at": "2026-07-15T18:19:28+00:00",
+      "summary": "【Claude Code】並行開発、どう回してる？ 鹿野さんに聞く 私の推しの並行開発環境 大公開 https://offers-jp.connpass.com/event/395255/ の登壇資料です",
       "matched_keywords": [
         "AI Agents",
-        "Content-Chance",
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "AI Agents (+5.0); Content-Chance (+5.0); GitHub (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "45c68d57de5c33eda4f9"
+      "id": "4a29a09e00d094bd9e6e"
     }
   ],
   "source_errors": [],
