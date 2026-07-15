@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T14:07:58+00:00",
+  "generated_at": "2026-07-15T14:48:21+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-15T14:07:46+00:00",
+        "published_at": "2026-07-15T14:48:08+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -68,11 +68,11 @@
         "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
       },
       {
-        "title": "virattt/ai-hedge-fund",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
+        "title": "ローカル LLM を構築した",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T04:15:17+00:00",
         "relevance_score": 9,
-        "url": "https://github.com/virattt/ai-hedge-fund"
+        "url": "https://zenn.dev/neet/articles/11bafab8645995"
       }
     ],
     "github": [
@@ -342,11 +342,11 @@
         "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026"
       },
       {
-        "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-15T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/procurement/invitation-answer"
+        "title": "Multiples vulnérabilités dans Wireshark (09 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-09T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0849/"
       }
     ],
     "economy": [

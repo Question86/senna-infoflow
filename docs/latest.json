@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T14:07:58+00:00",
-  "run_id": "2026-07-15T14:07:58+00:00",
+  "generated_at": "2026-07-15T14:48:21+00:00",
+  "run_id": "2026-07-15T14:48:21+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 8,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
     "medium": 45,
-    "observe": 40,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-15T14:07:46+00:00",
-        "fetched_at": "2026-07-15T14:07:27+00:00",
+        "published_at": "2026-07-15T14:48:08+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "f870e6c1f0ea2b5d4bb5"
+        "id": "1a6c14fe9d00d528e50b"
       },
       {
         "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -1311,6 +1311,42 @@
         "id": "fe4a274917189c74febf"
       },
       {
+        "title": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)",
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
+        "source": "CERT-FR Alertes",
+        "source_type": "rss",
+        "published_at": "2024-01-11T00:00:00+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
+        "summary": "[Mise à jour du 4 mars 2024] Ivanti a publié le 29 février des recommandations de résolution pour les Ivanti Connect Secure ou Policy Secure en machine virtuelle [16]. [Mise à jour du 15 février 2024] l'éditeur a publié le 15 février des correctifs pour les versions suivantes, qui n'en...",
+        "matched_keywords": [
+          "alerte",
+          "CERT-FR",
+          "Ivanti",
+          "vulnérabilité",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Ivanti (+2.5); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Ivanti"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "e1bb875cda8ee830e593"
+      },
+      {
         "title": "逐鹿數位｜HCM - SQL Injection",
         "url": "https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -1474,6 +1510,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f6e48abb15e441c8d90a"
+      },
+      {
+        "title": "ローカル LLM を構築した",
+        "url": "https://zenn.dev/neet/articles/11bafab8645995",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T04:15:17+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
+        "summary": "AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？ 私は正直、あまり乗れていません。もちろん AI は非...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a96262d1c43b5cda9699"
       },
       {
         "title": "M 4.9 - 183 km SSE of Vilyuchinsk, Russia",
@@ -1790,6 +1848,121 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "de575eaf737f343c0d5e"
+      },
+      {
+        "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (09 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0853/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-09T00:00:00+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6f04aa0b564f26ffa000"
+      },
+      {
+        "title": "Multiples vulnérabilités dans les produits Juniper Networks (09 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0852/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-09T00:00:00+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "677a0db3edea789f2e50"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Wireshark (09 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0849/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-09T00:00:00+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "de628e31f524af84e257"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Traefik (09 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0851/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-09T00:00:00+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bba2e128a7c1c77eeb17"
+      },
+      {
+        "title": "Multiples vulnérabilités dans GitLab (09 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0850/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-09T00:00:00+00:00",
+        "fetched_at": "2026-07-15T14:47:51+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "18416a2e0d291e949ab9"
       },
       {
         "title": "Microsoft-Patchday: Neuer Rekord mit 622 gefixten Schwachstellen",
@@ -2131,8 +2304,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T14:07:46+00:00",
-      "fetched_at": "2026-07-15T14:07:27+00:00",
+      "published_at": "2026-07-15T14:48:08+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2166,7 +2339,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f870e6c1f0ea2b5d4bb5"
+      "id": "1a6c14fe9d00d528e50b"
     },
     {
       "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -3406,6 +3579,42 @@
       "id": "fe4a274917189c74febf"
     },
     {
+      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
+      "source": "CERT-FR Alertes",
+      "source_type": "rss",
+      "published_at": "2024-01-11T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "[Mise à jour du 4 mars 2024] Ivanti a publié le 29 février des recommandations de résolution pour les Ivanti Connect Secure ou Policy Secure en machine virtuelle [16]. [Mise à jour du 15 février 2024] l'éditeur a publié le 15 février des correctifs pour les versions suivantes, qui n'en...",
+      "matched_keywords": [
+        "alerte",
+        "CERT-FR",
+        "Ivanti",
+        "vulnérabilité",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Ivanti (+2.5); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Ivanti"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "e1bb875cda8ee830e593"
+    },
+    {
       "title": "逐鹿數位｜HCM - SQL Injection",
       "url": "https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -3569,6 +3778,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f6e48abb15e441c8d90a"
+    },
+    {
+      "title": "ローカル LLM を構築した",
+      "url": "https://zenn.dev/neet/articles/11bafab8645995",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T04:15:17+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？ 私は正直、あまり乗れていません。もちろん AI は非...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a96262d1c43b5cda9699"
     },
     {
       "title": "M 4.9 - 183 km SSE of Vilyuchinsk, Russia",
@@ -3885,6 +4116,121 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "de575eaf737f343c0d5e"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0853/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6f04aa0b564f26ffa000"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Juniper Networks (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0852/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "677a0db3edea789f2e50"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Wireshark (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0849/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de628e31f524af84e257"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Traefik (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0851/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bba2e128a7c1c77eeb17"
+    },
+    {
+      "title": "Multiples vulnérabilités dans GitLab (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0850/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18416a2e0d291e949ab9"
     },
     {
       "title": "Microsoft-Patchday: Neuer Rekord mit 622 gefixten Schwachstellen",
@@ -4225,8 +4571,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T14:07:46+00:00",
-      "fetched_at": "2026-07-15T14:07:27+00:00",
+      "published_at": "2026-07-15T14:48:08+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4260,29 +4606,180 @@
         "HD",
         "LOW"
       ],
-      "id": "f870e6c1f0ea2b5d4bb5"
+      "id": "1a6c14fe9d00d528e50b"
     },
     {
-      "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
-      "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026",
+      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
+      "source": "CERT-FR Alertes",
+      "source_type": "rss",
+      "published_at": "2024-01-11T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "[Mise à jour du 4 mars 2024] Ivanti a publié le 29 février des recommandations de résolution pour les Ivanti Connect Secure ou Policy Secure en machine virtuelle [16]. [Mise à jour du 15 février 2024] l'éditeur a publié le 15 février des correctifs pour les versions suivantes, qui n'en...",
+      "matched_keywords": [
+        "alerte",
+        "CERT-FR",
+        "Ivanti",
+        "vulnérabilité",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Ivanti (+2.5); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Ivanti"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "e1bb875cda8ee830e593"
+    },
+    {
+      "title": "ローカル LLM を構築した",
+      "url": "https://zenn.dev/neet/articles/11bafab8645995",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-15T08:30:45+00:00",
-      "fetched_at": "2026-07-15T14:07:27+00:00",
-      "summary": "こんにちは、北海道から freee red team*1に参加している yu です。 読者の皆さんは、freee の全社障害訓練というものをご存知でしょうか。 私自身、4年前の転職の際は障害訓練の記事を見て freee に興味を持つきっかけになったり、入社直後の2022年の障害訓練では手も足も出ず歯痒い思いをしたりと、大変思い入れの深い...",
+      "published_at": "2026-07-15T04:15:17+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？ 私は正直、あまり乗れていません。もちろん AI は非...",
       "matched_keywords": [
-        "developer",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d84cfe1543efa56e8c33"
+      "id": "a96262d1c43b5cda9699"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Wireshark (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0849/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de628e31f524af84e257"
+    },
+    {
+      "title": "Multiples vulnérabilités dans GitLab (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0850/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18416a2e0d291e949ab9"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Traefik (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0851/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bba2e128a7c1c77eeb17"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Juniper Networks (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0852/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "677a0db3edea789f2e50"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (09 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0853/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "fetched_at": "2026-07-15T14:47:51+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6f04aa0b564f26ffa000"
     }
   ],
   "source_errors": [],

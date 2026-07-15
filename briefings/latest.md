@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T14:07:58+00:00_
+_Generiert: 2026-07-15T14:48:21+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+92 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,7 +79,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-15T14:07:46+00:00`, fetched `2026-07-15T14:07:27+00:00`
+  - Zeit: published `2026-07-15T14:48:08+00:00`, fetched `2026-07-15T14:47:51+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -224,6 +224,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the gap, they found one. The candidate came […] The post Can a Fortune 100 sales director actually close deals for your startup? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)** — Score 12, observation — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-01-11T00:00:00+00:00`, fetched `2026-07-15T14:47:51+00:00`
+  - Treffer: alerte, CERT-FR, Ivanti, vulnérabilité, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Ivanti (+2.5); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: [Mise à jour du 4 mars 2024] Ivanti a publié le 29 février des recommandations de résolution pour les Ivanti Connect Secure ou Policy Secure en machine virtuelle [16]. [Mise à jour du 15 février 2024] l'éditeur a publié le 15 février des correctifs pour les versions suivantes, qui n'en...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **逐鹿數位｜HCM - SQL Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-07-15T07:11:00+00:00`, fetched `2026-07-15T10:03:12+00:00`
@@ -287,6 +296,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: Generative artificial intelligence (GenAI) is set to affect the working lives of nearly 80 million people across ASEAN, but the technology has not yet produced the large-scale job losses often assumed in public debate, according to a new study by the International Labour Organization. The report, Generative AI and labour markets in ASEAN: Significant exposure, […] The post GenAI will affect 80M ASEAN workers, but ma…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ローカル LLM を構築した** — Score 9, observation — [Quelle](https://zenn.dev/neet/articles/11bafab8645995)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-15T04:15:17+00:00`, fetched `2026-07-15T14:47:51+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？ 私は正直、あまり乗れていません。もちろん AI は非...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 183 km SSE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-15T03:03:25.040+00:00`, fetched `2026-07-15T03:12:44+00:00`
@@ -296,24 +314,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-15 02:48:45 UTC 2026-07-15 02:48:45 UTC at epicenter Location 51.476°N 159.673°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 190 km SSE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-15T02:56:56.040+00:00`, fetched `2026-07-15T03:12:44+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-15 02:42:18 UTC 2026-07-15 02:42:18 UTC at epicenter Location 51.381°N 159.582°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **virattt/ai-hedge-fund** — Score 9, observation — [Quelle](https://github.com/virattt/ai-hedge-fund)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-15T02:04:58+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: An AI Hedge Fund Team AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment. 🚧 The project is evolving. We're rebuilding it into a persistent, always-on AI hedge fund — a fund as a first-class entity you can backtest, paper-t…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
