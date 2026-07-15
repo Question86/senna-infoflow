@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-15T08:29:38+00:00_
+_Generated: 2026-07-15T09:18:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `50`
+- findings: `57`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-15T08:29:38+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.
 
-### 4. GitHub Copilot in Visual Studio — June update
-- source: GitHub Changelog Atom
-- score: `17`
-- published: `2026-07-15T00:01:24+00:00`
-- url: https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update
-- summary: June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual Studio — June update appeared first on The GitHub Blog .
+### 4. Version 1.0: SonicWall SMA1000 - Zero-Day Schwachstellen aktiv ausgenutzt
+- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
+- score: `20`
+- published: `2026-07-15T08:45:00+00:00`
+- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271845-1032_bits.html
+- summary: Version 1.0: SonicWall SMA1000 - Zero-Day Schwachstellen aktiv ausgenutzt
 
 ### 5. Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication

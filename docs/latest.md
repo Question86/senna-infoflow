@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T08:29:38+00:00_
+_Generiert: 2026-07-15T09:18:43+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Version 1.0: SonicWall SMA1000 - Zero-Day Schwachstellen aktiv ausgenutzt** — Score 20, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271845-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-07-15T08:45:00+00:00`, fetched `2026-07-15T09:18:09+00:00`
+  - Treffer: ausgenutzt, BSI, CERT-Bund, Cyber-Sicherheitswarnung, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Version 1.0: SonicWall SMA1000 - Zero-Day Schwachstellen aktiv ausgenutzt
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] Rockwell Automation CompactLogix und ControlLogix: Mehrere Schwachstellen** — Score 18, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2338)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-15T08:51:40+00:00`, fetched `2026-07-15T09:18:09+00:00`
+  - Treffer: Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Rockwell Automation CompactLogix und Rockwell Automation ControlLogix ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **GitHub Copilot in Visual Studio — June update** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-15T00:01:24+00:00`, fetched `2026-07-15T00:47:28+00:00`
@@ -65,15 +83,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in patch ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2316)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-15T08:21:39+00:00`, fetched `2026-07-15T08:29:07+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN59875262/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -236,6 +245,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
