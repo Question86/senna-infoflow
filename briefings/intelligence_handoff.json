@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-15T02:36:34Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-07-15T03:47:00Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,35 @@
   ],
   "top_dynamics": [
     {
+      "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN59875262/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-15T12:00:00+09:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "株式会社SBI証券が提供するHYPER SBI 2のインストーラには、DLL読み込みに関する脆弱性が存在します。"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）",
       "url": "https://jvn.jp/vu/JVNVU91675472/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-15T09:45:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -40,7 +64,7 @@
       "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:00:57+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -68,7 +92,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 26.03,
+      "age_days": 26.08,
       "topics": [
         "ai"
       ],
@@ -87,17 +111,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -1.8 for 26.0d old signal",
+        "aging penalty -1.8 for 26.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Gen Z isn’t hard to manage, you just need to rethink how you lead",
+      "url": "https://e27.co/gen-z-isnt-hard-to-manage-you-just-need-to-rethink-how-you-lead-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-15T02:45:13+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "Every generation that enters the workforce brings a culture shock with them. When Millennials started their careers, Gen X and Baby Boomer managers were just as confused: “Why do they always question everything?” “Why can’t they just execute?” “Why are they so obsessed with work-life balance?” The truth is, every gene…"
     },
     {
       "title": "Can a Fortune 100 sales director actually close deals for your startup?",
       "url": "https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T01:45:41+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -117,11 +166,61 @@
       "summary": "A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the gap, they found one. The candidate came […] The post Can a For…"
     },
     {
+      "title": "M 4.9 - 183 km SSE of Vilyuchinsk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-15T03:03:25.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-15 02:48:45 UTC 2026-07-15 02:48:45 UTC at epicenter Location 51.476°N 159.673°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.1 - 190 km SSE of Vilyuchinsk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-15T02:56:56.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-15 02:42:18 UTC 2026-07-15 02:42:18 UTC at epicenter Location 51.381°N 159.582°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 81 km S of Severo-Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T01:33:36.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -146,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T00:53:31.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -171,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T01:56:03.050+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -195,7 +294,7 @@
       "url": "https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:00:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -213,108 +312,6 @@
         "high terms: 10"
       ],
       "summary": "Something unusual happened when Vietnam’s Prime Minister visited a Swedish nuclear startup called Blykalla in 2025. It wasn’t the meeting itself; government officials tour technology companies all the time. What made it unusual was what it represented: the time a Southeast Asian head of government had made a direct, i…"
-    },
-    {
-      "title": "GitHub Copilot in Visual Studio — June update",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-07-15T00:01:24+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual Studio — June update appeared first on The GitHub Blog ."
-    },
-    {
-      "title": "非エンジニアが自作アプリを社内にデプロイできる基盤を作った話",
-      "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-14T11:14:47+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題..."
-    },
-    {
-      "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
-      "url": "https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-15T01:30:09+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Singapore isn’t just punching above its weight in Southeast Asia’s tech race; it’s rewriting the scoreboard entirely. In the past 18 months alone, 21 startups headquartered in the Lion City have collectively pulled in nearly US$15.7 billion in equity funding, a figure that rivals entire national ecosystems. From data…"
-    },
-    {
-      "title": "Southeast Asia stopped waiting for the West, it built the rails",
-      "url": "https://e27.co/southeast-asia-stopped-waiting-for-the-west-it-built-the-rails-20260710/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-15T01:30:21+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "If you’re building in Southeast Asia and you’re not watching the rails, you’re going to get blindsided. The settlement layer under your company is changing faster here than anywhere on earth — and most founders in the region can’t see it, because they’re reading Washington’s headlines instead of their own backyard’s.…"
     }
   ],
   "read_order": [
@@ -326,9 +323,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 5,
-      "quiet": 4
+      "strong": 5,
+      "watch": 7
     }
   }
 }
