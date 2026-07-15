@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T04:17:42+00:00_
+_Generiert: 2026-07-15T05:16:01+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — June update“ aus GitHub Changelog Atom (Score 17, observation).
+28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-07-15T05:15:49+00:00`, fetched `2026-07-15T05:15:32+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GitHub Copilot in Visual Studio — June update** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-15T00:01:24+00:00`, fetched `2026-07-15T00:47:28+00:00`
@@ -143,6 +152,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - V Time 2026-07-15 01:09:20 UTC 2026-07-15 01:09:20 UTC at epicenter Location 32.603°S 71.863°W Depth 26.03 km (16.18 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Security Alert: Microsoft Releases July 2026 Security Updates** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260020.html)
+  - Quelle: JPCERT/CC English Alerts / `rss`
+  - Zeit: published `2026-07-15T13:41+09:00`, fetched `2026-07-15T05:15:32+00:00`
+  - Treffer: JPCERT, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
+  - Kurz: Security Alert: Microsoft Releases July 2026 Security Updates
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **非エンジニアが自作アプリを社内にデプロイできる基盤を作った話** — Score 10, observation — [Quelle](https://zenn.dev/hacobell_dev/articles/369ff476324aae)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-14T11:14:47+00:00`, fetched `2026-07-15T00:10:40+00:00`
@@ -151,6 +169,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO** — Score 9, observation — [Quelle](https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-15T05:00:05+00:00`, fetched `2026-07-15T05:15:32+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
+  - Kurz: Generative artificial intelligence (GenAI) is set to affect the working lives of nearly 80 million people across ASEAN, but the technology has not yet produced the large-scale job losses often assumed in public debate, according to a new study by the International Labour Organization. The report, Generative AI and labour markets in ASEAN: Significant exposure, […] The post GenAI will affect 80M ASEAN workers, but ma…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 183 km SSE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -178,15 +205,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An AI Hedge Fund Team AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment. 🚧 The project is evolving. We're rebuilding it into a persistent, always-on AI hedge fund — a fund as a first-class entity you can backtest, paper-t…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI’s trillion-dollar lease overhang is off the books, not off the hook** — Score 8, observation — [Quelle](https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-15T02:15:17+00:00`, fetched `2026-07-15T03:12:44+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The largest AI companies are building the most expensive infrastructure programme in corporate history. They are also moving a growing share of the financing away from their own balance sheets. That does not mean the risk has disappeared. It means the risk has moved. The new AI financing stack is built from joint ventures, special-purpose […] The post AI’s trillion-dollar lease overhang is off the books, not off the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Copilot for JetBrains expands BYOK capabilities** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -218,8 +236,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

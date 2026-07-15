@@ -1,55 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T04:17:42+00:00",
+  "generated_at": "2026-07-15T05:16:01+00:00",
   "topics": {
-    "github": [
-      {
-        "title": "GitHub Copilot in Visual Studio — June update",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-15T00:01:24+00:00",
-        "relevance_score": 17,
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update"
-      },
-      {
-        "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T02:00:57+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/"
-      },
-      {
-        "title": "virattt/ai-hedge-fund",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/virattt/ai-hedge-fund"
-      },
-      {
-        "title": "GitHub Copilot for JetBrains expands BYOK capabilities",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-14T23:37:29+00:00",
-        "relevance_score": 8,
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"
-      }
-    ],
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-15T09:45:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU91675472/"
-      },
-      {
-        "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-15T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN59875262/"
-      }
-    ],
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-15T05:15:49+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
         "source": "e27 Asia Startup and Tech Feed",
@@ -70,6 +31,13 @@
         "published_at": "2026-07-14T11:14:47+00:00",
         "relevance_score": 10,
         "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae"
+      },
+      {
+        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:00:05+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
       },
       {
         "title": "virattt/ai-hedge-fund",
@@ -105,13 +73,66 @@
         "published_at": "2026-07-15T01:58:11+00:00",
         "relevance_score": 5,
         "url": "https://levtech.jp/media/detail_892/"
+      }
+    ],
+    "github": [
+      {
+        "title": "GitHub Copilot in Visual Studio — June update",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-15T00:01:24+00:00",
+        "relevance_score": 17,
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update"
       },
       {
-        "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-14T22:36:38+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2720620"
+        "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T02:00:57+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/"
+      },
+      {
+        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:00:05+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
+      },
+      {
+        "title": "virattt/ai-hedge-fund",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/virattt/ai-hedge-fund"
+      },
+      {
+        "title": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-14T23:37:29+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-15T09:45:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU91675472/"
+      },
+      {
+        "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-15T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN59875262/"
+      },
+      {
+        "title": "Security Alert: Microsoft Releases July 2026 Security Updates",
+        "source": "JPCERT/CC English Alerts",
+        "published_at": "2026-07-15T13:41+09:00",
+        "relevance_score": 10,
+        "url": "https://www.jpcert.or.jp/english/at/2026/at260020.html"
       }
     ],
     "general": [
@@ -188,11 +209,25 @@
     ],
     "economy": [
       {
+        "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:00:05+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
+      },
+      {
         "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-15T02:15:17+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
+      },
+      {
+        "title": "Is the US$63,619 Fibonacci level strong enough to prevent a total unwind back down to US$62,498?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T05:14:54+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/"
       }
     ],
     "geopolitics": [
