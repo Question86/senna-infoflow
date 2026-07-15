@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T07:37:22+00:00_
+_Generiert: 2026-07-15T08:29:38+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+50 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,7 +79,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-15T07:37:10+00:00`, fetched `2026-07-15T07:36:51+00:00`
+  - Zeit: published `2026-07-15T08:29:25+00:00`, fetched `2026-07-15T08:29:07+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -122,23 +122,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月14日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318)
+- **[UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-15T07:26:39+00:00`, fetched `2026-07-15T07:36:51+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-07-15T08:22:08+00:00`, fetched `2026-07-15T08:29:07+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libinput) ausnutzen, um seine Privilegien zu erhöhen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in patch ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771)
+- **[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2316)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-15T06:42:10+00:00`, fetched `2026-07-15T06:56:40+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-07-15T08:21:39+00:00`, fetched `2026-07-15T08:29:07+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN59875262/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -278,6 +278,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); Actions (+2.0); recent (+1.0)
   - Kurz: This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and… The post GitHub Copilot for JetBrains expands BYOK capabilities appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Microsoft-Patchday: Neuer Rekord mit 622 gefixten Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Microsoft-Patchday-Neuer-Rekord-mit-622-gefixten-Schwachstellen-11365248.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-15T08:02:00.000+00:00`, fetched `2026-07-15T08:29:07+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Microsoft stopft 622 Sicherheitslecks am Juli-Patchday. Angriffe auf AD Federation Services und SharePoint wurden beobachtet.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/invitation-answer)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-15T06:00:00+00:00`, fetched `2026-07-15T06:02:46+00:00`
@@ -286,15 +295,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「POPOPO」サービス終了へ 提供開始から半年で** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/15/news104.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T06:27:33+00:00`, fetched `2026-07-15T07:36:51+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 川上量生氏が全額出資するPOPOPOは7月15日、コミュニケーションサービス「POPOPO」の提供を9月17日に終了すると発表した。「今後の事業環境やサービスの最適化を総合的に検討した結果」という。 POPOPOは3月にサービスを開始。3Dアバターを介して通話できるスマートフォン専用の通話サービスで、ユーザーが自身の顔や姿...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

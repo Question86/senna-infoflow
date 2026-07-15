@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T07:37:22+00:00",
-  "run_id": "2026-07-15T07:37:22+00:00",
+  "generated_at": "2026-07-15T08:29:38+00:00",
+  "run_id": "2026-07-15T08:29:38+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 6,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 15,
-    "observe": 30,
+    "medium": 19,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-15T07:37:10+00:00",
-        "fetched_at": "2026-07-15T07:36:51+00:00",
+        "published_at": "2026-07-15T08:29:25+00:00",
+        "fetched_at": "2026-07-15T08:29:07+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "d87fc57b9ff4bf1e1fc0"
+        "id": "3c46b62ba8e3d370a004"
       },
       {
         "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -215,6 +215,78 @@
         "id": "27bfdaf6ebfeed1b8e0b"
       },
       {
+        "title": "[UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T08:22:08+00:00",
+        "fetched_at": "2026-07-15T08:29:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in patch ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab57d65fdd6bf7f9f165"
+      },
+      {
+        "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2316",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T08:21:39+00:00",
+        "fetched_at": "2026-07-15T08:29:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c24a6058925f0c028c95"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft SQL Server und Power BI: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2327",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T08:16:39+00:00",
+        "fetched_at": "2026-07-15T08:29:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft SQL Server und Microsoft Power BI ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um falsche Informationen darzustellen, und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "efae8be363984e968961"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318",
         "source": "BSI CERT-Bund Security Advisories",
@@ -283,6 +355,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f9b009e79f56dfe98c63"
+      },
+      {
+        "title": "[UPDATE] [niedrig] libxml2: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2129",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T08:22:00+00:00",
+        "fetched_at": "2026-07-15T08:29:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1d2dc459911f1c86d69e"
       },
       {
         "title": "[NEU] [hoch] Spotfire Server: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -907,6 +1002,26 @@
         "id": "de575eaf737f343c0d5e"
       },
       {
+        "title": "Microsoft-Patchday: Neuer Rekord mit 622 gefixten Schwachstellen",
+        "url": "https://www.heise.de/news/Microsoft-Patchday-Neuer-Rekord-mit-622-gefixten-Schwachstellen-11365248.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-15T08:02:00.000+00:00",
+        "fetched_at": "2026-07-15T08:29:07+00:00",
+        "summary": "Microsoft stopft 622 Sicherheitslecks am Juli-Patchday. Angriffe auf AD Federation Services und SharePoint wurden beobachtet.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "28fac258aa63820835f3"
+      },
+      {
         "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
         "url": "https://www.digital.go.jp/procurement/invitation-answer",
         "source": "Japan Digital Agency News RSS",
@@ -1163,8 +1278,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T07:37:10+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
+      "published_at": "2026-07-15T08:29:25+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1198,7 +1313,7 @@
         "HD",
         "LOW"
       ],
-      "id": "d87fc57b9ff4bf1e1fc0"
+      "id": "3c46b62ba8e3d370a004"
     },
     {
       "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -1344,6 +1459,78 @@
       "id": "27bfdaf6ebfeed1b8e0b"
     },
     {
+      "title": "[UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:22:08+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in patch ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab57d65fdd6bf7f9f165"
+    },
+    {
+      "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2316",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:21:39+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c24a6058925f0c028c95"
+    },
+    {
+      "title": "[NEU] [hoch] Microsoft SQL Server und Power BI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2327",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:16:39+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft SQL Server und Microsoft Power BI ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um falsche Informationen darzustellen, und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "efae8be363984e968961"
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1412,6 +1599,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f9b009e79f56dfe98c63"
+    },
+    {
+      "title": "[UPDATE] [niedrig] libxml2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2129",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:22:00+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d2dc459911f1c86d69e"
     },
     {
       "title": "[NEU] [hoch] Spotfire Server: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -2034,6 +2244,26 @@
       "id": "de575eaf737f343c0d5e"
     },
     {
+      "title": "Microsoft-Patchday: Neuer Rekord mit 622 gefixten Schwachstellen",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Neuer-Rekord-mit-622-gefixten-Schwachstellen-11365248.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:02:00.000+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Microsoft stopft 622 Sicherheitslecks am Juli-Patchday. Angriffe auf AD Federation Services und SharePoint wurden beobachtet.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "28fac258aa63820835f3"
+    },
+    {
       "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
       "url": "https://www.digital.go.jp/procurement/invitation-answer",
       "source": "Japan Digital Agency News RSS",
@@ -2289,8 +2519,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T07:37:10+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
+      "published_at": "2026-07-15T08:29:25+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2324,40 +2554,88 @@
         "HD",
         "LOW"
       ],
-      "id": "d87fc57b9ff4bf1e1fc0"
+      "id": "3c46b62ba8e3d370a004"
     },
     {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (libinput): Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318",
+      "title": "[UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T07:26:39+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libinput) ausnutzen, um seine Privilegien zu erhöhen.",
+      "published_at": "2026-07-15T08:22:08+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in patch ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Linux",
+        "Patch",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "327b5bc3b43d1fd3e5b5"
+      "id": "ab57d65fdd6bf7f9f165"
     },
     {
-      "title": "[NEU] [hoch] Spotfire Server: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2319",
+      "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2316",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T07:31:39+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Spotfire Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-15T08:21:39+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c24a6058925f0c028c95"
+    },
+    {
+      "title": "[NEU] [hoch] Microsoft SQL Server und Power BI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2327",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:16:39+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft SQL Server und Microsoft Power BI ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um falsche Informationen darzustellen, und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "efae8be363984e968961"
+    },
+    {
+      "title": "[UPDATE] [niedrig] libxml2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2129",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T08:22:00+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2371,94 +2649,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d9dc2b64b79cf97404ed"
+      "id": "1d2dc459911f1c86d69e"
     },
     {
-      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1959",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Microsoft-Patchday: Neuer Rekord mit 622 gefixten Schwachstellen",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Neuer-Rekord-mit-622-gefixten-Schwachstellen-11365248.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-15T07:26:40+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Speicherbeschädigungen zu verursachen, Sicherheitsmaßnahmen zu umgehen und aus der Sandbox auszubrechen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und Denial-of-Service-Zustände auszulösen.",
+      "published_at": "2026-07-15T08:02:00.000+00:00",
+      "fetched_at": "2026-07-15T08:29:07+00:00",
+      "summary": "Microsoft stopft 622 Sicherheitslecks am Juli-Patchday. Angriffe auf AD Federation Services und SharePoint wurden beobachtet.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "70f919636828b70c2fbd"
-    },
-    {
-      "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-07-15T08:15:24+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
-      "summary": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b64d41d18c9ca1462c21"
-    },
-    {
-      "title": "「POPOPO」サービス終了へ 提供開始から半年で",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-15T06:27:33+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
-      "summary": "川上量生氏が全額出資するPOPOPOは7月15日、コミュニケーションサービス「POPOPO」の提供を9月17日に終了すると発表した。「今後の事業環境やサービスの最適化を総合的に検討した結果」という。 POPOPOは3月にサービスを開始。3Dアバターを介して通話できるスマートフォン専用の通話サービスで、ユーザーが自身の顔や姿...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "929e213f9fcc3891272d"
-    },
-    {
-      "title": "「POPOPO」サービス終了のお知らせ | POPOPO ニュース",
-      "url": "https://news.popopo.com/ja/post-20/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-15T06:24:31+00:00",
-      "fetched_at": "2026-07-15T07:36:51+00:00",
-      "summary": "POPOPO株式会社は、現在提供しているアプリ「POPOPO」につきまして、2026年9月17日（木） をもってサービスを終了することを決定いたしました。 「POPOPO」は2026年3月18日のサービス開始以降、多くのお客様にご利用いただいてまいりましたが、今後の事業環境やサービスの最適化を総合的に検討した結果、サービスを終了...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1ab230960905acb19804"
+      "id": "28fac258aa63820835f3"
     }
   ],
   "source_errors": [],
