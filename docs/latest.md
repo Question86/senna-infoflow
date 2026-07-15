@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T05:16:01+00:00_
+_Generiert: 2026-07-15T06:03:19+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The Nvidia clampdown is a warning for Southeast Asia’s AI boom** — Score 21, risk — [Quelle](https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-15T06:00:04+00:00`, fetched `2026-07-15T06:02:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Supply Chain Security, Watchgraph:chips_compute_datacenters
+  - Watchgraph: chips_compute_datacenters
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
+  - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)
+  - Kurz: Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is increasingly being treated not as a frontier for innovation alone, […] The post The Nvidia clampdown is a warning for Southeast Asia’s AI boom appeared first on e27…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung** — Score 21, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-15T05:26:40+00:00`, fetched `2026-07-15T06:02:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Copilot in Visual Studio — June update** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-15T00:01:24+00:00`, fetched `2026-07-15T00:47:28+00:00`
@@ -77,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the gap, they found one. The candidate came […] The post Can a Fortune 100 sales director actually close deals for your startup? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/standard_guidelines)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-15T06:00:00+00:00`, fetched `2026-07-15T06:02:46+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 52 km NNW of Valparaíso, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -141,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An AI Hedge Fund Team AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment. 🚧 The project is evolving. We're rebuilding it into a persistent, always-on AI hedge fund — a fund as a first-class entity you can backtest, paper-t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Piero Cipollone: Interview with Ouest-France** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-15T06:00:00+00:00`, fetched `2026-07-15T06:02:46+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Interview with Ouest-France
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Copilot for JetBrains expands BYOK capabilities** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-14T23:37:29+00:00`, fetched `2026-07-15T03:12:44+00:00`
@@ -149,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); Actions (+2.0); recent (+1.0)
   - Kurz: This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and… The post GitHub Copilot for JetBrains expands BYOK capabilities appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/invitation-answer)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-15T06:00:00+00:00`, fetched `2026-07-15T06:02:46+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_892/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -159,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 大東文化大学文学部日本文学科 助教 廣田 龍平（ひろた・りゅうへい） 1983年生まれ。専門は文化人類学、民俗学。博士（文学）。大学時代の卒業論文で怪談「コトリバコ」を扱って以降、妖怪や怪異の研究に独自の存在論的視点からアプローチしている。著書に『ネット怪談の民俗学』（ハヤカワ新書）、『妖怪の誕生』（青...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **日本のエンジニアっていつからこんなに働かなくなったの？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260715103512)
+- **「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T01:39:12+00:00`, fetched `2026-07-15T04:17:09+00:00`
+  - Zeit: published `2026-07-15T01:41:58+00:00`, fetched `2026-07-15T06:02:46+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: リモワ廃止関連の反応見てると、みんな如何に仕事しないで他のことやってるかの話しかしてない 米国のITエンジニアなんて今も末端の低級作業担当でもない限り週6で働いて70〜80時間労働なんて普通よ？ てか少し前は日本のITエンジニアもそれくらい働いてたよね？ いつからこんな仕事しなくなったんだろ 誰か知ってる人〜〜
+  - Kurz: 「バズればバズるほど、出費が重なる状態だった」──。お笑いコンビ「マヂカルラブリー」の野田クリスタルさんが、米Googleの生成AI「Gemini」を使って開発した「ペットカードジェネレーター」。ペットの写真をアップロードするとトレーディングカード風の画像を生成できるこのサービスは、2025年12月16日の公開初日に130...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

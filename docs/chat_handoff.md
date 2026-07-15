@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-15T05:16:01+00:00_
+_Generated: 2026-07-15T06:03:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `34`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-15T05:16:01+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. GitHub Copilot in Visual Studio — June update
+### 2. The Nvidia clampdown is a warning for Southeast Asia’s AI boom
+- source: e27 Asia Startup and Tech Feed
+- score: `21`
+- published: `2026-07-15T06:00:04+00:00`
+- url: https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/
+- summary: Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is incr…
+
+### 3. [UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `21`
+- published: `2026-07-15T05:26:40+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 4. GitHub Copilot in Visual Studio — June update
 - source: GitHub Changelog Atom
 - score: `17`
 - published: `2026-07-15T00:01:24+00:00`
 - url: https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update
 - summary: June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual Studio — June update appeared first on The GitHub Blog .
-
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-07-15T09:45:00+09:00`
-- url: https://jvn.jp/vu/JVNVU91675472/
-- summary: 2026年07月14日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-07-15T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN59875262/
-- summary: 株式会社SBI証券が提供するHYPER SBI 2のインストーラには、DLL読み込みに関する脆弱性が存在します。
 
 ### 5. Gemini’s SEA growth puts local-language AI at the centre of the assistant race
 - source: e27 Asia Startup and Tech Feed
@@ -50,18 +50,18 @@ _Generated: 2026-07-15T05:16:01+00:00_
 - url: https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/
 - summary: A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the ga…
 
-### 7. M 5.1 - 52 km NNW of Valparaíso, Chile
+### 7. デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
+- source: Japan Digital Agency News RSS
+- score: `11`
+- published: `2026-07-15T06:00:00+00:00`
+- url: https://www.digital.go.jp/resources/standard_guidelines
+- summary: デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
+
+### 8. M 5.1 - 52 km NNW of Valparaíso, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-07-15T01:56:03.050+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it
 - summary: DYFI? - V Time 2026-07-15 01:09:20 UTC 2026-07-15 01:09:20 UTC at epicenter Location 32.603°S 71.863°W Depth 26.03 km (16.18 mi)
-
-### 8. Security Alert: Microsoft Releases July 2026 Security Updates
-- source: JPCERT/CC English Alerts
-- score: `10`
-- published: `2026-07-15T13:41+09:00`
-- url: https://www.jpcert.or.jp/english/at/2026/at260020.html
-- summary: Security Alert: Microsoft Releases July 2026 Security Updates
 
 END OF DOCUMENT

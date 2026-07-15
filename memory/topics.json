@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T05:16:01+00:00",
+  "generated_at": "2026-07-15T06:03:19+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-07-15T05:15:49+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T06:00:04+00:00",
+        "relevance_score": 21,
+        "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/"
+      },
+      {
+        "title": "[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T05:26:40+00:00",
+        "relevance_score": 21,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302"
       },
       {
         "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
@@ -59,23 +73,16 @@
         "published_at": "2026-07-15T01:30:21+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/southeast-asia-stopped-waiting-for-the-west-it-built-the-rails-20260710/"
-      },
-      {
-        "title": "GitHub Copilot for JetBrains expands BYOK capabilities",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-14T23:37:29+00:00",
-        "relevance_score": 8,
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"
-      },
-      {
-        "title": "「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T01:58:11+00:00",
-        "relevance_score": 5,
-        "url": "https://levtech.jp/media/detail_892/"
       }
     ],
     "github": [
+      {
+        "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T06:00:04+00:00",
+        "relevance_score": 21,
+        "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/"
+      },
       {
         "title": "GitHub Copilot in Visual Studio — June update",
         "source": "GitHub Changelog Atom",
@@ -112,7 +119,37 @@
         "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T06:00:04+00:00",
+        "relevance_score": 21,
+        "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/"
+      },
+      {
+        "title": "Piero Cipollone: Interview with Ouest-France",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-15T06:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html"
+      },
+      {
+        "title": "A region with zero nuclear reactors is suddenly betting on them: Here’s why",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T02:00:10+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/"
+      }
+    ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T05:26:40+00:00",
+        "relevance_score": 21,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月14日）",
         "source": "JVN Japan Vulnerability Notes",
@@ -142,6 +179,13 @@
         "published_at": "2026-07-15T01:45:41+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/"
+      },
+      {
+        "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-15T06:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.digital.go.jp/resources/standard_guidelines"
       },
       {
         "title": "M 5.1 - 52 km NNW of Valparaíso, Chile",
@@ -179,6 +223,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
       },
       {
+        "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-15T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/procurement/invitation-answer"
+      },
+      {
         "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-15T01:39:12+00:00",
@@ -191,20 +242,6 @@
         "published_at": "2026-07-15T01:23:31+00:00",
         "relevance_score": 5,
         "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447"
-      },
-      {
-        "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T00:24:33+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2720654"
-      },
-      {
-        "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-14T22:58:11+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html"
       }
     ],
     "economy": [
@@ -228,15 +265,6 @@
         "published_at": "2026-07-15T05:14:54+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "A region with zero nuclear reactors is suddenly betting on them: Here’s why",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-15T02:00:10+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/"
       }
     ]
   }

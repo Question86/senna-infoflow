@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T05:16:01+00:00",
-  "run_id": "2026-07-15T05:16:01+00:00",
+  "generated_at": "2026-07-15T06:03:19+00:00",
+  "run_id": "2026-07-15T06:03:19+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 6,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
-    "medium": 5,
-    "observe": 23,
+    "medium": 7,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -70,6 +70,79 @@
           "LOW"
         ],
         "id": "25d1a4b3a9ce05750d66"
+      },
+      {
+        "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
+        "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:00:04+00:00",
+        "fetched_at": "2026-07-15T06:02:46+00:00",
+        "summary": "Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is increasingly being treated not as a frontier for innovation alone, […] The post The Nvidia clampdown is a warning for Southeast Asia’s AI boom appeared first on e27…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia",
+          "Supply Chain Security",
+          "Watchgraph:chips_compute_datacenters"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "chips_compute_datacenters"
+        ],
+        "watchgraph_reasons": [
+          "chips_compute_datacenters: AI chip"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "7cffb4eba6a375356bf3"
+      },
+      {
+        "title": "[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T05:26:40+00:00",
+        "fetched_at": "2026-07-15T06:02:46+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e4fd8ad4ce9bf4e60352"
       },
       {
         "title": "GitHub Copilot in Visual Studio — June update",
@@ -231,6 +304,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fe4a274917189c74febf"
+      },
+      {
+        "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+        "url": "https://www.digital.go.jp/resources/standard_guidelines",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:00:00+00:00",
+        "fetched_at": "2026-07-15T06:02:46+00:00",
+        "summary": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "185418b3570f457bad44"
       },
       {
         "title": "M 5.1 - 52 km NNW of Valparaíso, Chile",
@@ -499,6 +593,26 @@
         "id": "4fa52a5a7c737a37e0ae"
       },
       {
+        "title": "Piero Cipollone: Interview with Ouest-France",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:00:00+00:00",
+        "fetched_at": "2026-07-15T06:02:46+00:00",
+        "summary": "Piero Cipollone: Interview with Ouest-France",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "562ca3baf9c20a2e9c52"
+      },
+      {
         "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
         "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -585,6 +699,26 @@
         "id": "de575eaf737f343c0d5e"
       },
       {
+        "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
+        "url": "https://www.digital.go.jp/procurement/invitation-answer",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:00:00+00:00",
+        "fetched_at": "2026-07-15T06:02:46+00:00",
+        "summary": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6246ae3cb9c696d5f7ef"
+      },
+      {
         "title": "「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB",
         "url": "https://levtech.jp/media/detail_892/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -604,6 +738,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9d220e4c9662d98a8f2b"
+      },
+      {
+        "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T01:41:58+00:00",
+        "fetched_at": "2026-07-15T06:02:46+00:00",
+        "summary": "「バズればバズるほど、出費が重なる状態だった」──。お笑いコンビ「マヂカルラブリー」の野田クリスタルさんが、米Googleの生成AI「Gemini」を使って開発した「ペットカードジェネレーター」。ペットの写真をアップロードするとトレーディングカード風の画像を生成できるこのサービスは、2025年12月16日の公開初日に130...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aaad85a97add89a9d831"
       },
       {
         "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
@@ -796,6 +951,79 @@
       "id": "25d1a4b3a9ce05750d66"
     },
     {
+      "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
+      "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:00:04+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is increasingly being treated not as a frontier for innovation alone, […] The post The Nvidia clampdown is a warning for Southeast Asia’s AI boom appeared first on e27…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia",
+        "Supply Chain Security",
+        "Watchgraph:chips_compute_datacenters"
+      ],
+      "relevance_score": 21,
+      "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "chips_compute_datacenters"
+      ],
+      "watchgraph_reasons": [
+        "chips_compute_datacenters: AI chip"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "7cffb4eba6a375356bf3"
+    },
+    {
+      "title": "[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T05:26:40+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 21,
+      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e4fd8ad4ce9bf4e60352"
+    },
+    {
       "title": "GitHub Copilot in Visual Studio — June update",
       "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
       "source": "GitHub Changelog Atom",
@@ -953,6 +1181,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fe4a274917189c74febf"
+    },
+    {
+      "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+      "url": "https://www.digital.go.jp/resources/standard_guidelines",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:00:00+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "185418b3570f457bad44"
     },
     {
       "title": "M 5.1 - 52 km NNW of Valparaíso, Chile",
@@ -1221,6 +1470,26 @@
       "id": "4fa52a5a7c737a37e0ae"
     },
     {
+      "title": "Piero Cipollone: Interview with Ouest-France",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:00:00+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "Piero Cipollone: Interview with Ouest-France",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "562ca3baf9c20a2e9c52"
+    },
+    {
       "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
       "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1307,6 +1576,26 @@
       "id": "de575eaf737f343c0d5e"
     },
     {
+      "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/invitation-answer",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:00:00+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6246ae3cb9c696d5f7ef"
+    },
+    {
       "title": "「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB",
       "url": "https://levtech.jp/media/detail_892/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1326,6 +1615,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9d220e4c9662d98a8f2b"
+    },
+    {
+      "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T01:41:58+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "「バズればバズるほど、出費が重なる状態だった」──。お笑いコンビ「マヂカルラブリー」の野田クリスタルさんが、米Googleの生成AI「Gemini」を使って開発した「ペットカードジェネレーター」。ペットの写真をアップロードするとトレーディングカード風の画像を生成できるこのサービスは、2025年12月16日の公開初日に130...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aaad85a97add89a9d831"
     },
     {
       "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
@@ -1475,108 +1785,159 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-15T05:15:49+00:00",
-      "fetched_at": "2026-07-15T05:15:32+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
+      "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:00:04+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is increasingly being treated not as a frontier for innovation alone, […] The post The Nvidia clampdown is a warning for Southeast Asia’s AI boom appeared first on e27…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Southeast Asia",
+        "Supply Chain Security",
+        "Watchgraph:chips_compute_datacenters"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 21,
+      "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "chips_compute_datacenters"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "chips_compute_datacenters: AI chip"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
       ],
-      "id": "25d1a4b3a9ce05750d66"
+      "id": "7cffb4eba6a375356bf3"
     },
     {
-      "title": "Security Alert: Microsoft Releases July 2026 Security Updates",
-      "url": "https://www.jpcert.or.jp/english/at/2026/at260020.html",
-      "source": "JPCERT/CC English Alerts",
+      "title": "[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T13:41+09:00",
-      "fetched_at": "2026-07-15T05:15:32+00:00",
-      "summary": "Security Alert: Microsoft Releases July 2026 Security Updates",
-      "matched_keywords": [
-        "JPCERT",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0f613052db6a47582c85"
-    },
-    {
-      "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
-      "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-15T05:00:05+00:00",
-      "fetched_at": "2026-07-15T05:15:32+00:00",
-      "summary": "Generative artificial intelligence (GenAI) is set to affect the working lives of nearly 80 million people across ASEAN, but the technology has not yet produced the large-scale job losses often assumed in public debate, according to a new study by the International Labour Organization. The report, Generative AI and labour markets in ASEAN: Significant exposure, […] The post GenAI will affect 80M ASEAN workers, but ma…",
+      "published_at": "2026-07-15T05:26:40+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
+      "relevance_score": 21,
+      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f6e48abb15e441c8d90a"
+      "id": "e4fd8ad4ce9bf4e60352"
     },
     {
-      "title": "Is the US$63,619 Fibonacci level strong enough to prevent a total unwind back down to US$62,498?",
-      "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+      "url": "https://www.digital.go.jp/resources/standard_guidelines",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-15T05:14:54+00:00",
-      "fetched_at": "2026-07-15T05:15:32+00:00",
-      "summary": "The global cryptocurrency market experienced a profound structural shift over the past 24 hours, staging a major relief rally that directly challenged recent bearish momentum. Bitcoin led the charge, surging 4.10 per cent to reach a spot price of US$64,884.04 and outperforming the broader digital asset market, which posted a robust 3.71 per cent increase. […] The post Is the US$63,619 Fibonacci level strong enough t…",
+      "published_at": "2026-07-15T06:00:00+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "185418b3570f457bad44"
+    },
+    {
+      "title": "Piero Cipollone: Interview with Ouest-France",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:00:00+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "Piero Cipollone: Interview with Ouest-France",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "562ca3baf9c20a2e9c52"
+    },
+    {
+      "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/invitation-answer",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:00:00+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4eabaef41d0ae8f46ad3"
+      "id": "6246ae3cb9c696d5f7ef"
+    },
+    {
+      "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T01:41:58+00:00",
+      "fetched_at": "2026-07-15T06:02:46+00:00",
+      "summary": "「バズればバズるほど、出費が重なる状態だった」──。お笑いコンビ「マヂカルラブリー」の野田クリスタルさんが、米Googleの生成AI「Gemini」を使って開発した「ペットカードジェネレーター」。ペットの写真をアップロードするとトレーディングカード風の画像を生成できるこのサービスは、2025年12月16日の公開初日に130...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aaad85a97add89a9d831"
     }
   ],
   "source_errors": [],
