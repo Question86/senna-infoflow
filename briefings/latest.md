@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T22:56:08+00:00_
+_Generiert: 2026-07-15T23:41:06+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+106 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-07-15T22:56:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.
-- **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551590)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552085)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:13.061km) in East Of South Sandwich Islands 15/07/2026 14:51 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552027)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,6 +57,10 @@ _Generiert: 2026-07-15T22:56:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.
+- **USGS earthquake M5.8 - south of the Fiji Islands** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6)
+  - Quelle: USGS
+  - Zeit: `2026-07-15T22:57:11+00:00`
+  - Kurz: M5.8 - south of the Fiji Islands. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -202,6 +206,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.8 - south of the Fiji Islands** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-15T23:23:28.310+00:00`, fetched `2026-07-15T23:40:36+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - II Time 2026-07-15 22:57:11 UTC 2026-07-15 22:57:11 UTC at epicenter Location 26.366°S 178.694°W Depth 340.33 km (211.47 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - east of the South Sandwich Islands** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-15T15:18:37.531+00:00`, fetched `2026-07-15T15:19:31+00:00`
@@ -220,6 +233,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Improvements to secret scanning and public monitoring** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-15T22:38:16+00:00`, fetched `2026-07-15T23:40:36+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub… The post Improvements to secret scanning and public monitoring appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cook, Economic Outlook** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-07-15T17:00:00+00:00`, fetched `2026-07-15T17:26:33+00:00`
@@ -310,15 +332,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【Claude Code】並行開発、どう回してる？ 鹿野さんに聞く 私の推しの並行開発環境 大公開 https://offers-jp.connpass.com/event/395255/ の登壇資料です
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 52 km NNW of Valparaíso, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-15T01:56:03.050+00:00`, fetched `2026-07-15T02:04:58+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - V Time 2026-07-15 01:09:20 UTC 2026-07-15 01:09:20 UTC at epicenter Location 32.603°S 71.863°W Depth 26.03 km (16.18 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Security Alert: Microsoft Releases July 2026 Security Updates** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260020.html)
   - Quelle: JPCERT/CC English Alerts / `rss`
   - Zeit: published `2026-07-15T13:41+09:00`, fetched `2026-07-15T05:15:32+00:00`
@@ -327,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases July 2026 Security Updates
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **非エンジニアが自作アプリを社内にデプロイできる基盤を作った話** — Score 10, observation — [Quelle](https://zenn.dev/hacobell_dev/articles/369ff476324aae)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-14T11:14:47+00:00`, fetched `2026-07-15T00:10:40+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

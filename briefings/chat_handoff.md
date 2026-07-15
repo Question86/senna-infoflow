@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-15T22:56:08+00:00_
+_Generated: 2026-07-15T23:41:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `104`
+- findings: `106`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-15T22:56:08+00:00_
 - url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271845-1032_bits.html
 - summary: Version 1.0: SonicWall SMA1000 - Zero-Day Schwachstellen aktiv ausgenutzt
 
-### 5. M 5.7 - east of the South Sandwich Islands
+### 5. M 5.8 - south of the Fiji Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-15T23:23:28.310+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6
+- summary: PAGER - GREEN ShakeMap - II Time 2026-07-15 22:57:11 UTC 2026-07-15 22:57:11 UTC at epicenter Location 26.366°S 178.694°W Depth 340.33 km (211.47 mi)
+
+### 6. M 5.7 - east of the South Sandwich Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-15T15:18:37.531+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng
 - summary: PAGER - GREEN ShakeMap - I Time 2026-07-15 14:51:37 UTC 2026-07-15 14:51:37 UTC at epicenter Location 59.967°S 19.003°W Depth 13.06 km (8.12 mi)
 
-### 6. AI powers citizen-led disaster relief from afar for Venezuela
+### 7. AI powers citizen-led disaster relief from afar for Venezuela
 - source: Rest of World Global Tech Feed
 - score: `13`
 - published: `2026-07-15T10:00:00+00:00`
 - url: https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.
 
-### 7. Cook, Economic Outlook
-- source: Federal Reserve Speeches and Testimony
+### 8. Improvements to secret scanning and public monitoring
+- source: GitHub Changelog Atom
 - score: `12`
-- published: `2026-07-15T17:00:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm
-- summary: Speech At The Exchequer Club of Washington D.C., Washington, D.C.
-
-### 8. SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken
-- source: heise Security Alerts
-- score: `12`
-- published: `2026-07-15T10:08:00.000+00:00`
-- url: https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html
-- summary: SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.
+- published: `2026-07-15T22:38:16+00:00`
+- url: https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring
+- summary: This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub… The post Improvements to secret scanning and public monitori…
 
 END OF DOCUMENT

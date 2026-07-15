@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T22:56:08+00:00",
-  "run_id": "2026-07-15T22:56:08+00:00",
+  "generated_at": "2026-07-15T23:41:06+00:00",
+  "run_id": "2026-07-15T23:41:06+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 104
+      "configured_public_sources_only": 106
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 104,
-    "displayed_findings": 104,
+    "today_file_total": 106,
+    "displayed_findings": 106,
     "high": 0,
     "medium": 48,
-    "observe": 56,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -1256,6 +1256,44 @@
     ],
     "observe": [
       {
+        "title": "M 5.8 - south of the Fiji Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-15T23:23:28.310+00:00",
+        "fetched_at": "2026-07-15T23:40:36+00:00",
+        "summary": "PAGER - GREEN ShakeMap - II Time 2026-07-15 22:57:11 UTC 2026-07-15 22:57:11 UTC at epicenter Location 26.366°S 178.694°W Depth 340.33 km (211.47 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e2b5ec527a75ddf2f0ea"
+      },
+      {
         "title": "M 5.7 - east of the South Sandwich Islands",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1329,6 +1367,27 @@
           "LOW"
         ],
         "id": "f5ab7f9a348b42483cf8"
+      },
+      {
+        "title": "Improvements to secret scanning and public monitoring",
+        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-15T22:38:16+00:00",
+        "fetched_at": "2026-07-15T23:40:36+00:00",
+        "summary": "This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub… The post Improvements to secret scanning and public monitoring appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eaf08baeee3b30b29535"
       },
       {
         "title": "Cook, Economic Outlook",
@@ -3845,6 +3904,44 @@
       "id": "8a4d4077e8e66dec3905"
     },
     {
+      "title": "M 5.8 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-15T23:23:28.310+00:00",
+      "fetched_at": "2026-07-15T23:40:36+00:00",
+      "summary": "PAGER - GREEN ShakeMap - II Time 2026-07-15 22:57:11 UTC 2026-07-15 22:57:11 UTC at epicenter Location 26.366°S 178.694°W Depth 340.33 km (211.47 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e2b5ec527a75ddf2f0ea"
+    },
+    {
       "title": "M 5.7 - east of the South Sandwich Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3918,6 +4015,27 @@
         "LOW"
       ],
       "id": "f5ab7f9a348b42483cf8"
+    },
+    {
+      "title": "Improvements to secret scanning and public monitoring",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-15T22:38:16+00:00",
+      "fetched_at": "2026-07-15T23:40:36+00:00",
+      "summary": "This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub… The post Improvements to secret scanning and public monitoring appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eaf08baeee3b30b29535"
     },
     {
       "title": "Cook, Economic Outlook",
@@ -5209,26 +5327,28 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tz",
+      "title": "M 5.8 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-15T22:37:07.040+00:00",
-      "fetched_at": "2026-07-15T22:55:33+00:00",
-      "summary": "Time 2026-07-15 21:58:50 UTC 2026-07-15 21:58:50 UTC at epicenter Location 21.274°S 179.006°W Depth 625.60 km (388.73 mi)",
+      "published_at": "2026-07-15T23:23:28.310+00:00",
+      "fetched_at": "2026-07-15T23:40:36+00:00",
+      "summary": "PAGER - GREEN ShakeMap - II Time 2026-07-15 22:57:11 UTC 2026-07-15 22:57:11 UTC at epicenter Location 26.366°S 178.694°W Depth 340.33 km (211.47 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -5242,28 +5362,28 @@
         "HD",
         "LOW"
       ],
-      "id": "6c3a7d6f00251fbf5db0"
+      "id": "e2b5ec527a75ddf2f0ea"
     },
     {
-      "title": "AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた",
-      "url": "https://note.com/uchita_success/n/n5db702b25061",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Improvements to secret scanning and public monitoring",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-15T14:15:30+00:00",
-      "fetched_at": "2026-07-15T22:55:33+00:00",
-      "summary": "ベンチャー企業でAI活用推進リーダーしてるうちたです。 営業やバックオフィスをAIで自動化・質向上をして、ぬくぬく働きつつも成果を上げています。 この記事は、「AIでぬくぬく仕事する」を実現する、うちたの保管庫の玄関です。 うちた式パワポ変換 最新版 PDF/画像→パワポで編集（プロンプト） 資料リメイク 雑な...",
+      "published_at": "2026-07-15T22:38:16+00:00",
+      "fetched_at": "2026-07-15T23:40:36+00:00",
+      "summary": "This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub… The post Improvements to secret scanning and public monitoring appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "CodeQL/Dependabot",
+        "GitHub"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "16d7ba55730f33935f36"
+      "id": "eaf08baeee3b30b29535"
     }
   ],
   "source_errors": [],

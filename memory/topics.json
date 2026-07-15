@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T22:56:08+00:00",
+  "generated_at": "2026-07-15T23:41:06+00:00",
   "topics": {
     "ai": [
       {
@@ -103,6 +103,13 @@
         "published_at": "2026-07-15T10:41:40+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360"
+      },
+      {
+        "title": "Improvements to secret scanning and public monitoring",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-15T22:38:16+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring"
       },
       {
         "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
@@ -300,6 +307,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mp"
       },
       {
+        "title": "M 5.8 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-15T23:23:28.310+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6"
+      },
+      {
         "title": "M 5.7 - east of the South Sandwich Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-15T15:18:37.531+00:00",
@@ -347,13 +361,6 @@
         "published_at": "2026-07-15T01:56:03.050+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
-      },
-      {
-        "title": "M 4.5 - Fiji region",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-15T22:37:07.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tz"
       }
     ],
     "economy": [
