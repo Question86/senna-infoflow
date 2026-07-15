@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T06:03:19+00:00",
+  "generated_at": "2026-07-15T06:57:10+00:00",
   "topics": {
     "ai": [
       {
@@ -158,11 +158,46 @@
         "url": "https://jvn.jp/vu/JVNVU91675472/"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T06:42:10+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771"
+      },
+      {
         "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-15T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN59875262/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T06:42:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1824"
+      },
+      {
+        "title": "[UPDATE] [mittel] Zabbix: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T06:42:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1805"
+      },
+      {
+        "title": "[UPDATE] [niedrig] vim: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T06:42:10+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1777"
+      },
+      {
+        "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T06:42:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1744"
       },
       {
         "title": "Security Alert: Microsoft Releases July 2026 Security Updates",

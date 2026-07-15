@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T06:03:19+00:00",
-  "run_id": "2026-07-15T06:03:19+00:00",
+  "generated_at": "2026-07-15T06:57:10+00:00",
+  "run_id": "2026-07-15T06:57:10+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 5,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 7,
+    "medium": 12,
     "observe": 27,
     "source_errors": 0
   },
@@ -215,6 +215,30 @@
         "id": "27bfdaf6ebfeed1b8e0b"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:42:10+00:00",
+        "fetched_at": "2026-07-15T06:56:40+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7c3ec0b6bb45723348f2"
+      },
+      {
         "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
         "url": "https://jvn.jp/jp/JVN59875262/",
         "source": "JVN Japan Vulnerability Notes",
@@ -235,6 +259,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f9b009e79f56dfe98c63"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1824",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:42:12+00:00",
+        "fetched_at": "2026-07-15T06:56:40+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu verändern und offenzulegen, einen Denial-of-Service-Zustand zu verursachen oder andere nicht näher definierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "57f17bbff720ab42bd01"
+      },
+      {
+        "title": "[UPDATE] [mittel] Zabbix: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1805",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:42:11+00:00",
+        "fetched_at": "2026-07-15T06:56:40+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Zabbix ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eab4e200e371a902ef95"
+      },
+      {
+        "title": "[UPDATE] [niedrig] vim: Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1777",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:42:10+00:00",
+        "fetched_at": "2026-07-15T06:56:40+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in vim ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "11cbce49a4ddea60320f"
+      },
+      {
+        "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1744",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T06:42:09+00:00",
+        "fetched_at": "2026-07-15T06:56:40+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "efa2d365dd0b69cff354"
       },
       {
         "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
@@ -1094,6 +1210,30 @@
       "id": "27bfdaf6ebfeed1b8e0b"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:42:10+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c3ec0b6bb45723348f2"
+    },
+    {
       "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
       "url": "https://jvn.jp/jp/JVN59875262/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1114,6 +1254,98 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f9b009e79f56dfe98c63"
+    },
+    {
+      "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1824",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:42:12+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu verändern und offenzulegen, einen Denial-of-Service-Zustand zu verursachen oder andere nicht näher definierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "57f17bbff720ab42bd01"
+    },
+    {
+      "title": "[UPDATE] [mittel] Zabbix: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1805",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:42:11+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zabbix ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eab4e200e371a902ef95"
+    },
+    {
+      "title": "[UPDATE] [niedrig] vim: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1777",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:42:10+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in vim ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "11cbce49a4ddea60320f"
+    },
+    {
+      "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1744",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:42:09+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "efa2d365dd0b69cff354"
     },
     {
       "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
@@ -1785,159 +2017,120 @@
   ],
   "new_findings": [
     {
-      "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
-      "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-15T06:00:04+00:00",
-      "fetched_at": "2026-07-15T06:02:46+00:00",
-      "summary": "Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is increasingly being treated not as a frontier for innovation alone, […] The post The Nvidia clampdown is a warning for Southeast Asia’s AI boom appeared first on e27…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia",
-        "Supply Chain Security",
-        "Watchgraph:chips_compute_datacenters"
-      ],
-      "relevance_score": 21,
-      "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "chips_compute_datacenters"
-      ],
-      "watchgraph_reasons": [
-        "chips_compute_datacenters: AI chip"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "7cffb4eba6a375356bf3"
-    },
-    {
-      "title": "[UPDATE] [hoch] ServiceNow AI Platform: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302",
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T05:26:40+00:00",
-      "fetched_at": "2026-07-15T06:02:46+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ServiceNow AI Platform ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-07-15T06:42:10+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c3ec0b6bb45723348f2"
+    },
+    {
+      "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1824",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T06:42:12+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu verändern und offenzulegen, einen Denial-of-Service-Zustand zu verursachen oder andere nicht näher definierte Angriffe durchzuführen.",
+      "matched_keywords": [
         "BSI",
         "CERT-Bund",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 21,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e4fd8ad4ce9bf4e60352"
+      "id": "57f17bbff720ab42bd01"
     },
     {
-      "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
-      "url": "https://www.digital.go.jp/resources/standard_guidelines",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [mittel] Zabbix: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1805",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T06:00:00+00:00",
-      "fetched_at": "2026-07-15T06:02:46+00:00",
-      "summary": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
+      "published_at": "2026-07-15T06:42:11+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zabbix ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "185418b3570f457bad44"
+      "id": "eab4e200e371a902ef95"
     },
     {
-      "title": "Piero Cipollone: Interview with Ouest-France",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "[UPDATE] [niedrig] vim: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1777",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T06:00:00+00:00",
-      "fetched_at": "2026-07-15T06:02:46+00:00",
-      "summary": "Piero Cipollone: Interview with Ouest-France",
+      "published_at": "2026-07-15T06:42:10+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in vim ausnutzen, um Dateien zu manipulieren.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "562ca3baf9c20a2e9c52"
+      "id": "11cbce49a4ddea60320f"
     },
     {
-      "title": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
-      "url": "https://www.digital.go.jp/procurement/invitation-answer",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1744",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T06:00:00+00:00",
-      "fetched_at": "2026-07-15T06:02:46+00:00",
-      "summary": "調達仕様書等の意見招請に対する回答：「令和8年度刑事手続のIT化に係る通信サービス用機器等の保守及び運用監視等」を掲載しました",
+      "published_at": "2026-07-15T06:42:09+00:00",
+      "fetched_at": "2026-07-15T06:56:40+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6246ae3cb9c696d5f7ef"
-    },
-    {
-      "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-15T01:41:58+00:00",
-      "fetched_at": "2026-07-15T06:02:46+00:00",
-      "summary": "「バズればバズるほど、出費が重なる状態だった」──。お笑いコンビ「マヂカルラブリー」の野田クリスタルさんが、米Googleの生成AI「Gemini」を使って開発した「ペットカードジェネレーター」。ペットの写真をアップロードするとトレーディングカード風の画像を生成できるこのサービスは、2025年12月16日の公開初日に130...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aaad85a97add89a9d831"
+      "id": "efa2d365dd0b69cff354"
     }
   ],
   "source_errors": [],
