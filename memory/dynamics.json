@@ -1,22 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-15T09:53:28Z",
+  "generated_at": "2026-07-15T10:32:13Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 11,
-      "strong": 18,
-      "watch": 8,
-      "quiet": 2
+      "krass": 14,
+      "strong": 19,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 28,
-      "watch": 8,
-      "quiet": 2
+      "strong": 32,
+      "watch": 6
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2339",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T08:56:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -50,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1959",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T07:26:40+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -75,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T05:26:40+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security"
@@ -102,7 +100,7 @@
       "url": "https://www.heise.de/news/Microsoft-Patchday-Neuer-Rekord-mit-622-gefixten-Schwachstellen-11365248.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-15T08:02:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security",
         "macro"
@@ -128,7 +126,7 @@
       "url": "https://jvn.jp/jp/JVN59875262/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-15T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -148,11 +146,35 @@
       "summary": "株式会社SBI証券が提供するHYPER SBI 2のインストーラには、DLL読み込みに関する脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2245",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-15T09:41:44+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen oder um vertrauliche Informationen offenzulegen."
+    },
+    {
       "title": "[NEU] [mittel] Grafana Tempo: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2342",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T09:11:39+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -176,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2341",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T09:06:39+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -200,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2340",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T09:01:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -224,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2337",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T08:51:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -248,7 +270,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2129",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T08:22:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -272,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2319",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T07:31:39+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -296,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1805",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T06:42:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -320,7 +342,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1777",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T06:42:10+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -344,7 +366,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1744",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T06:42:09+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -368,7 +390,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2338",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T08:51:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -395,7 +417,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2316",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T08:21:39+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -421,7 +443,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2327",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T08:16:39+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -447,7 +469,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1824",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T06:42:12+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -473,7 +495,7 @@
       "url": "https://jvn.jp/vu/JVNVU91675472/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-15T09:45:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -494,11 +516,36 @@
       "summary": "2026年07月14日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2158",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-15T09:41:44+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um Administratorrechte zu erlangen."
+    },
+    {
       "title": "[UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2274",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T08:22:08+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -523,7 +570,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2318",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T07:26:39+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -548,7 +595,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-15T06:42:10+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -569,11 +616,37 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen."
     },
     {
+      "title": "逐鹿數位｜HCM - SQL Injection",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-07-15T07:11:00+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "逐鹿數位｜HCM - SQL Injection"
+    },
+    {
       "title": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました",
       "url": "https://www.digital.go.jp/resources/standard_guidelines",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-15T06:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -595,11 +668,37 @@
       "summary": "デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました"
     },
     {
+      "title": "技嘉科技｜Gigabyte Control Center - Improper Access Control",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11033-97316-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-07-13T02:19:00+00:00",
+      "age_days": 2.34,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "技嘉科技｜Gigabyte Control Center - Improper Access Control"
+    },
+    {
       "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
       "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:00:57+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -627,7 +726,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 26.33,
+      "age_days": 26.36,
       "topics": [
         "ai"
       ],
@@ -646,7 +745,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -1.9 for 26.3d old signal",
+        "aging penalty -1.9 for 26.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -656,7 +755,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-15T08:29:25+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro",
@@ -685,7 +784,7 @@
       "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T06:00:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security",
@@ -714,7 +813,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271845-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-07-15T08:45:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -740,7 +839,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260020.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-07-15T13:41+09:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -764,7 +863,7 @@
       "url": "https://e27.co/gen-z-isnt-hard-to-manage-you-just-need-to-rethink-how-you-lead-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:45:13+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -789,7 +888,7 @@
       "url": "https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T01:45:41+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -813,7 +912,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T03:03:25.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -838,7 +937,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T02:56:56.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -863,7 +962,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T01:33:36.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -888,7 +987,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T00:53:31.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -913,7 +1012,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T01:56:03.050+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -931,102 +1030,6 @@
         "early terms: earthquake"
       ],
       "summary": "DYFI? - V Time 2026-07-15 01:09:20 UTC 2026-07-15 01:09:20 UTC at epicenter Location 32.603°S 71.863°W Depth 26.03 km (16.18 mi)"
-    },
-    {
-      "title": "A region with zero nuclear reactors is suddenly betting on them: Here’s why",
-      "url": "https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-15T02:00:10+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Something unusual happened when Vietnam’s Prime Minister visited a Swedish nuclear startup called Blykalla in 2025. It wasn’t the meeting itself; government officials tour technology companies all the time. What made it unusual was what it represented: the time a Southeast Asian head of government had made a direct, i…"
-    },
-    {
-      "title": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "published_at": "2026-07-15T08:15:24+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45"
-    },
-    {
-      "title": "「POPOPO」サービス終了へ 提供開始から半年で",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-15T06:27:33+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "川上量生氏が全額出資するPOPOPOは7月15日、コミュニケーションサービス「POPOPO」の提供を9月17日に終了すると発表した。「今後の事業環境やサービスの最適化を総合的に検討した結果」という。 POPOPOは3月にサービスを開始。3Dアバターを介して通話できるスマートフォン専用の通話サービスで、ユーザーが自身の顔や姿..."
-    },
-    {
-      "title": "日本のエンジニアっていつからこんなに働かなくなったの？",
-      "url": "https://anond.hatelabo.jp/20260715103512",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-15T01:39:12+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "リモワ廃止関連の反応見てると、みんな如何に仕事しないで他のことやってるかの話しかしてない 米国のITエンジニアなんて今も末端の低級作業担当でもない限り週6で働いて70〜80時間労働なんて普通よ？ てか少し前は日本のITエンジニアもそれくらい働いてたよね？ いつからこんな仕事しなくなったんだろ 誰か知ってる人〜〜"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Access Client for Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."

@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-15T09:53:28Z_
+_Generated: 2026-07-15T10:32:13Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-07-15T08:56:39+00:00` / age_days `0.04`
+- Published: `2026-07-15T08:56:39+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: citrix, security high-signal: citrix
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-07-15T07:26:40+00:00` / age_days `0.1`
+- Published: `2026-07-15T07:26:40+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T08:51:40+00:00` / age_days `0.04`
+- Published: `2026-07-15T08:51:40+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T08:21:39+00:00` / age_days `0.06`
+- Published: `2026-07-15T08:21:39+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, security high-signal: kritisch, code, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T08:16:39+00:00` / age_days `0.07`
+- Published: `2026-07-15T08:16:39+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T06:42:12+00:00` / age_days `0.13`
+- Published: `2026-07-15T06:42:12+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -72,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T09:45:00+09:00` / age_days `0.38`
+- Published: `2026-07-15T09:45:00+09:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU91675472/
 
+### [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Erlangen von Administratorrechten
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-07-15T09:41:44+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2158
+
 ### [UPDATE] [niedrig] patch: Mehrere Schwachstellen ermöglichen Denial of Service
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T08:22:08+00:00` / age_days `0.06`
+- Published: `2026-07-15T08:22:08+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T07:26:39+00:00` / age_days `0.1`
+- Published: `2026-07-15T07:26:39+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -102,30 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Secure Acc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T06:42:10+00:00` / age_days `0.13`
+- Published: `2026-07-15T06:42:10+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1771
 
-### デジタル社会推進標準ガイドラインにおける政府情報システム全般に関するドキュメントを更新しました
+### 逐鹿數位｜HCM - SQL Injection
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-15T06:00:00+00:00` / age_days `0.16`
+- Published: `2026-07-15T07:11:00+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://www.digital.go.jp/resources/standard_guidelines
-
-### Gemini’s SEA growth puts local-language AI at the centre of the assistant race
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-07-15T02:00:57+00:00` / age_days `0.33`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: early terms: local, regional, high terms: active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/
+- Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://www.twcert.org.tw/tw/cp-132-11035-5c640-1.html
 
 END OF DOCUMENT
