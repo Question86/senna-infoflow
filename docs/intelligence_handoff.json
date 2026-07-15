@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-15T04:58:23Z",
+  "generated_at": "2026-07-15T05:50:32Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN59875262/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-15T12:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU91675472/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-15T09:45:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:00:57+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -92,7 +92,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 26.12,
+      "age_days": 26.16,
       "topics": [
         "ai"
       ],
@@ -111,17 +111,70 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -1.8 for 26.1d old signal",
+        "aging penalty -1.8 for 26.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-07-15T05:15:49+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+    },
+    {
+      "title": "Security Alert: Microsoft Releases July 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260020.html",
+      "source": "JPCERT/CC English Alerts",
+      "published_at": "2026-07-15T13:41+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security, microsoft"
+      ],
+      "summary": "Security Alert: Microsoft Releases July 2026 Security Updates"
     },
     {
       "title": "Gen Z isn’t hard to manage, you just need to rethink how you lead",
       "url": "https://e27.co/gen-z-isnt-hard-to-manage-you-just-need-to-rethink-how-you-lead-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:45:13+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -146,7 +199,7 @@
       "url": "https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T01:45:41+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -170,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T03:03:25.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -195,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T02:56:56.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -220,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T01:33:36.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -245,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T00:53:31.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -264,54 +317,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-07-15 00:35:28 UTC 2026-07-15 00:35:28 UTC at epicenter Location 58.771°S 29.472°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - 52 km NNW of Valparaíso, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-15T01:56:03.050+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "DYFI? - V Time 2026-07-15 01:09:20 UTC 2026-07-15 01:09:20 UTC at epicenter Location 32.603°S 71.863°W Depth 26.03 km (16.18 mi)"
-    },
-    {
-      "title": "A region with zero nuclear reactors is suddenly betting on them: Here’s why",
-      "url": "https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-15T02:00:10+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Something unusual happened when Vietnam’s Prime Minister visited a Swedish nuclear startup called Blykalla in 2025. It wasn’t the meeting itself; government officials tour technology companies all the time. What made it unusual was what it represented: the time a Southeast Asian head of government had made a direct, i…"
     }
   ],
   "read_order": [
@@ -323,8 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7
+      "strong": 7,
+      "watch": 5
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-15T04:58:23Z",
+  "generated_at": "2026-07-15T05:50:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 32,
     "bands": {
       "krass": 2,
-      "strong": 3,
-      "watch": 7,
-      "quiet": 16
-    },
-    "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 7,
-      "quiet": 16
+      "quiet": 18
+    },
+    "bands_after_gate_recheck": {
+      "strong": 7,
+      "watch": 7,
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN59875262/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-15T12:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU91675472/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-15T09:45:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:00:57+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -100,7 +100,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 26.12,
+      "age_days": 26.16,
       "topics": [
         "ai"
       ],
@@ -119,17 +119,70 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -1.8 for 26.1d old signal",
+        "aging penalty -1.8 for 26.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-07-15T05:15:49+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+    },
+    {
+      "title": "Security Alert: Microsoft Releases July 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260020.html",
+      "source": "JPCERT/CC English Alerts",
+      "published_at": "2026-07-15T13:41+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security, microsoft"
+      ],
+      "summary": "Security Alert: Microsoft Releases July 2026 Security Updates"
     },
     {
       "title": "Gen Z isn’t hard to manage, you just need to rethink how you lead",
       "url": "https://e27.co/gen-z-isnt-hard-to-manage-you-just-need-to-rethink-how-you-lead-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:45:13+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -154,7 +207,7 @@
       "url": "https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T01:45:41+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -178,7 +231,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T03:03:25.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -203,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T02:56:56.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -228,7 +281,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T01:33:36.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -253,7 +306,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T00:53:31.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -278,7 +331,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-15T01:56:03.050+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -302,7 +355,7 @@
       "url": "https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:00:10+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -326,7 +379,7 @@
       "url": "https://anond.hatelabo.jp/20260715103512",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T01:39:12+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -350,7 +403,7 @@
       "url": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T01:23:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -374,7 +427,7 @@
       "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-15T00:01:24+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -395,11 +448,35 @@
       "summary": "June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual Studio — June update appeared first on The GitHub Blog ."
     },
     {
+      "title": "Is the US$63,619 Fibonacci level strong enough to prevent a total unwind back down to US$62,498?",
+      "url": "https://e27.co/is-the-us63619-fibonacci-level-strong-enough-to-prevent-a-total-unwind-back-down-to-us62498-20260715/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-15T05:14:54+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "The global cryptocurrency market experienced a profound structural shift over the past 24 hours, staging a major relief rally that directly challenged recent bearish momentum. Bitcoin led the charge, surging 4.10 per cent to reach a spot price of US$64,884.04 and outperforming the broader digital asset market, which p…"
+    },
+    {
       "title": "非エンジニアが自作アプリを社内にデプロイできる基盤を作った話",
       "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T11:14:47+00:00",
-      "age_days": 0.74,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -425,7 +502,7 @@
       "url": "https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T01:30:09+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -450,7 +527,7 @@
       "url": "https://e27.co/southeast-asia-stopped-waiting-for-the-west-it-built-the-rails-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T01:30:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -476,7 +553,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T22:58:11+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -496,11 +573,37 @@
       "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi..."
     },
     {
+      "title": "GenAI will affect 80M ASEAN workers, but mass job losses remain absent: ILO",
+      "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-15T05:00:05+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Generative artificial intelligence (GenAI) is set to affect the working lives of nearly 80 million people across ASEAN, but the technology has not yet produced the large-scale job losses often assumed in public debate, according to a new study by the International Labour Organization. The report, Generative AI and lab…"
+    },
+    {
       "title": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-15T02:04:58+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -525,7 +628,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.09,
+      "age_days": 25.13,
       "topics": [
         "general"
       ],
@@ -550,7 +653,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.09,
+      "age_days": 25.13,
       "topics": [
         "general"
       ],
@@ -575,7 +678,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.09,
+      "age_days": 25.13,
       "topics": [
         "ai"
       ],
@@ -602,7 +705,7 @@
       "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-15T02:15:17+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -628,7 +731,7 @@
       "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-14T23:37:29+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -653,7 +756,7 @@
       "url": "https://levtech.jp/media/detail_892/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T01:58:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -678,7 +781,7 @@
       "url": "https://togetter.com/li/2720654",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T00:24:33+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -703,7 +806,7 @@
       "url": "https://togetter.com/li/2720620",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-14T22:36:38+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
