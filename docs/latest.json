@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-15T10:43:12+00:00",
-  "run_id": "2026-07-15T10:43:12+00:00",
+  "generated_at": "2026-07-15T11:16:26+00:00",
+  "run_id": "2026-07-15T11:16:26+00:00",
   "date": "2026-07-15",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 6,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
-    "medium": 34,
+    "medium": 40,
     "observe": 37,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -463,6 +463,144 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f9b009e79f56dfe98c63"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2367",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:56:39+00:00",
+        "fetched_at": "2026-07-15T11:15:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen und vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "afae7a52e40af80fe71d"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat OpenShift (OpenStack Services): Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2365",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:51:39+00:00",
+        "fetched_at": "2026-07-15T11:15:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat OpenShift (OpenStack Services) ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9ed62c468d4aebf5bbec"
+      },
+      {
+        "title": "[NEU] [hoch] IBM Langflow Desktop: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2366",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:51:39+00:00",
+        "fetched_at": "2026-07-15T11:15:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1452c97354f4a6e8d5c"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe Creative Cloud Applikationen: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2363",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:46:40+00:00",
+        "fetched_at": "2026-07-15T11:15:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud Applikationen ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ff013bbecd233a958974"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2364",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:46:40+00:00",
+        "fetched_at": "2026-07-15T11:15:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b24d53fc82d2d3304d9b"
+      },
+      {
+        "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2362",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:46:39+00:00",
+        "fetched_at": "2026-07-15T11:15:57+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2d925cab5f0c32ae9d2c"
       },
       {
         "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -2227,6 +2365,144 @@
       "id": "f9b009e79f56dfe98c63"
     },
     {
+      "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2367",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:56:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen und vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afae7a52e40af80fe71d"
+    },
+    {
+      "title": "[NEU] [mittel] Red Hat OpenShift (OpenStack Services): Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2365",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:51:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat OpenShift (OpenStack Services) ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9ed62c468d4aebf5bbec"
+    },
+    {
+      "title": "[NEU] [hoch] IBM Langflow Desktop: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2366",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:51:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1452c97354f4a6e8d5c"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Creative Cloud Applikationen: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2363",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:46:40+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud Applikationen ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ff013bbecd233a958974"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2364",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:46:40+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b24d53fc82d2d3304d9b"
+    },
+    {
+      "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2362",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:46:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2d925cab5f0c32ae9d2c"
+    },
+    {
       "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2359",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3551,36 +3827,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Bitdefender Internet und Total Security: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2361",
+      "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2367",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T10:41:41+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Bitdefender Internet Security und Bitdefender Total Security ausnutzen, um seine Privilegien zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e99b8309d03dbf3cd835"
-    },
-    {
-      "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-15T10:41:40+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um Sicherheitsmaßnahmen zu umgehen, um Informationen offenzulegen und ggf. Daten zu manipulieren.",
+      "published_at": "2026-07-15T10:56:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen und vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3594,16 +3847,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0b159c47267051875690"
+      "id": "afae7a52e40af80fe71d"
     },
     {
-      "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2359",
+      "title": "[NEU] [hoch] IBM Langflow Desktop: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2366",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T10:41:40+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Xen ausnutzen, um Dateien zu manipulieren.",
+      "published_at": "2026-07-15T10:51:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3617,16 +3870,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8066f8393b9eea08ebc7"
+      "id": "b1452c97354f4a6e8d5c"
     },
     {
-      "title": "[NEU] [mittel] WebKitGTK: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2358",
+      "title": "[NEU] [mittel] Red Hat OpenShift (OpenStack Services): Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2365",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T10:41:39+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen",
+      "published_at": "2026-07-15T10:51:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat OpenShift (OpenStack Services) ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3640,16 +3893,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "60d0a83877d5164f349d"
+      "id": "9ed62c468d4aebf5bbec"
     },
     {
-      "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2357",
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2364",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T10:41:39+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Octopus Deploy ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-15T10:46:40+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3663,16 +3916,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f2c6ec9a6d2ca8a13fc7"
+      "id": "b24d53fc82d2d3304d9b"
     },
     {
-      "title": "[NEU] [hoch] Netty: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2356",
+      "title": "[NEU] [hoch] Adobe Creative Cloud Applikationen: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2363",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T10:36:40+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsprüfungen zu umgehen, Anfragen oder Header zu manipulieren, Zertifikatsprüfungen zu unterlaufen sowie einen Denial of Service zu verursachen.",
+      "published_at": "2026-07-15T10:46:40+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud Applikationen ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3686,108 +3939,33 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cba409bf4a8432308d51"
+      "id": "ff013bbecd233a958974"
     },
     {
-      "title": "AI powers citizen-led disaster relief from afar for Venezuela",
-      "url": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2362",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-15T10:00:00+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.",
+      "published_at": "2026-07-15T10:46:39+00:00",
+      "fetched_at": "2026-07-15T11:15:57+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "AI/KI",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "f5ab7f9a348b42483cf8"
-    },
-    {
-      "title": "SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken",
-      "url": "https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-15T10:08:00.000+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.",
-      "matched_keywords": [
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: zero-day"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "1ffcccde506537440e3e"
-    },
-    {
-      "title": "デロイトが国に納品したスライド351枚、全部数えたらパターンは7つだけだった｜うちた",
-      "url": "https://note.com/uchita_success/n/n030ad63765d3",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-15T01:04:34+00:00",
-      "fetched_at": "2026-07-15T10:42:35+00:00",
-      "summary": "一番意外だったのは、7つのうち“1つの型”だけで45%を占めていたこと。一流ほど、派手な技より“基本の型”を使い倒すんです。 全部言語化して、AIで再現するプロンプトも作ったので置いておきます。 経産省のサイトは、コンサル資料の\"宝の山\"コンサルの実物資料は、守秘義務のかたまりで普通は世に出ません。 ただ、例外...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "973667fd46406a090573"
+      "id": "2d925cab5f0c32ae9d2c"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5bd24c23d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

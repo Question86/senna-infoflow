@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T10:43:12+00:00",
+  "generated_at": "2026-07-15T11:16:26+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-15T05:26:40+00:00",
         "relevance_score": 21,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2302"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-15T10:56:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2367"
       },
       {
         "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/virattt/ai-hedge-fund"
-      },
-      {
-        "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T06:48:06+00:00",
-        "relevance_score": 8,
-        "url": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/"
       }
     ],
     "github": [
@@ -184,25 +184,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2361"
       },
       {
-        "title": "[NEU] [mittel] Xen: Schwachstelle ermöglicht Manipulation von Dateien",
+        "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T10:41:40+00:00",
+        "published_at": "2026-07-15T10:56:39+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2359"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2367"
       },
       {
-        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Red Hat OpenShift (OpenStack Services): Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T10:41:40+00:00",
+        "published_at": "2026-07-15T10:51:39+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2360"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2365"
       },
       {
-        "title": "[NEU] [mittel] WebKitGTK: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] IBM Langflow Desktop: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-15T10:41:39+00:00",
+        "published_at": "2026-07-15T10:51:39+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2358"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2366"
       }
     ],
     "security": [
