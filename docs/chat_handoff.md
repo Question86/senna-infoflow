@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-15T16:55:45+00:00_
+_Generated: 2026-07-15T17:27:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `95`
+- findings: `97`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-15T16:55:33+00:00`
+- published: `2026-07-15T17:26:51+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-15T16:55:45+00:00_
 - url: https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.
 
-### 7. SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken
+### 7. Cook, Economic Outlook
+- source: Federal Reserve Speeches and Testimony
+- score: `12`
+- published: `2026-07-15T17:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm
+- summary: Speech At The Exchequer Club of Washington D.C., Washington, D.C.
+
+### 8. SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken
 - source: heise Security Alerts
 - score: `12`
 - published: `2026-07-15T10:08:00.000+00:00`
 - url: https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html
 - summary: SonicWall warnt vor Angriffen auf teils höchst kritische Zero-Day-Lücken in SMA1000-Appliances. SonicWall bietet einen Hotfix und IOCs.
-
-### 8. Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
-- source: ECB Open Market Operations and Communication
-- score: `12`
-- published: `2026-07-15T08:15:24+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html
-- summary: Announcing 20260062 (OT,liquidity providing), for 7 days deadline 09:45
 
 END OF DOCUMENT

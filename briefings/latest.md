@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T16:55:45+00:00_
+_Generiert: 2026-07-15T17:27:04+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+97 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-15T16:55:33+00:00`, fetched `2026-07-15T16:55:13+00:00`
+  - Zeit: published `2026-07-15T17:26:51+00:00`, fetched `2026-07-15T17:26:33+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -163,6 +163,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社SBI証券が提供するHYPER SBI 2のインストーラには、DLL読み込みに関する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GPT-Red: Unlocking Self-Improvement for Robustness** — Score 14, observation — [Quelle](https://openai.com/index/unlocking-self-improvement-gpt-red)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-15T10:00:00+00:00`, fetched `2026-07-15T17:26:33+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); safety (+2.0); recent (+1.0)
+  - Kurz: Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Inside Singapore’s startup boom: The 21 firms investors can’t stop funding** — Score 14, observation — [Quelle](https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-15T01:30:09+00:00`, fetched `2026-07-15T02:04:58+00:00`
@@ -193,6 +202,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Cook, Economic Outlook** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-07-15T17:00:00+00:00`, fetched `2026-07-15T17:26:33+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At The Exchequer Club of Washington D.C., Washington, D.C.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken** — Score 12, risk — [Quelle](https://www.heise.de/news/SonicWall-SMA1000-Angriffe-auf-teils-kritische-Zero-Day-Luecken-11365559.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-15T10:08:00.000+00:00`, fetched `2026-07-15T10:42:35+00:00`
@@ -300,15 +318,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: Generative artificial intelligence (GenAI) is set to affect the working lives of nearly 80 million people across ASEAN, but the technology has not yet produced the large-scale job losses often assumed in public debate, according to a new study by the International Labour Organization. The report, Generative AI and labour markets in ASEAN: Significant exposure, […] The post GenAI will affect 80M ASEAN workers, but ma…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ローカル LLM を構築した** — Score 9, observation — [Quelle](https://zenn.dev/neet/articles/11bafab8645995)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T04:15:17+00:00`, fetched `2026-07-15T14:47:51+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？ 私は正直、あまり乗れていません。もちろん AI は非...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

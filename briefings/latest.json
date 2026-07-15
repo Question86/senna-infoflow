@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T16:55:45+00:00",
-  "run_id": "2026-07-15T16:55:45+00:00",
+  "generated_at": "2026-07-15T17:27:04+00:00",
+  "run_id": "2026-07-15T17:27:04+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 97
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "new_relevant_findings": 3,
+    "today_file_total": 97,
+    "displayed_findings": 97,
     "high": 0,
-    "medium": 45,
-    "observe": 50,
+    "medium": 46,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-15T16:55:33+00:00",
-        "fetched_at": "2026-07-15T16:55:13+00:00",
+        "published_at": "2026-07-15T17:26:51+00:00",
+        "fetched_at": "2026-07-15T17:26:33+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "9165f62b7c2abc1cf9b6"
+        "id": "fb5d591119df38a309cd"
       },
       {
         "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -851,6 +851,28 @@
         "id": "cba409bf4a8432308d51"
       },
       {
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-15T10:00:00+00:00",
+        "fetched_at": "2026-07-15T17:26:33+00:00",
+        "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "safety"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); safety (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bd8fb66af2a395ebea04"
+      },
+      {
         "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2245",
         "source": "BSI CERT-Bund Security Advisories",
@@ -1248,6 +1270,28 @@
           "LOW"
         ],
         "id": "f5ab7f9a348b42483cf8"
+      },
+      {
+        "title": "Cook, Economic Outlook",
+        "url": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm",
+        "source": "Federal Reserve Speeches and Testimony",
+        "source_type": "rss",
+        "published_at": "2026-07-15T17:00:00+00:00",
+        "fetched_at": "2026-07-15T17:26:33+00:00",
+        "summary": "Speech At The Exchequer Club of Washington D.C., Washington, D.C.",
+        "matched_keywords": [
+          "Macro/Policy",
+          "speech",
+          "testimony"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "50e360364532f8c4b35e"
       },
       {
         "title": "SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken",
@@ -2385,8 +2429,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T16:55:33+00:00",
-      "fetched_at": "2026-07-15T16:55:13+00:00",
+      "published_at": "2026-07-15T17:26:51+00:00",
+      "fetched_at": "2026-07-15T17:26:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2420,7 +2464,7 @@
         "HD",
         "LOW"
       ],
-      "id": "9165f62b7c2abc1cf9b6"
+      "id": "fb5d591119df38a309cd"
     },
     {
       "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -3202,6 +3246,28 @@
       "id": "cba409bf4a8432308d51"
     },
     {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:00:00+00:00",
+      "fetched_at": "2026-07-15T17:26:33+00:00",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); safety (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd8fb66af2a395ebea04"
+    },
+    {
       "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2245",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3597,6 +3663,28 @@
         "LOW"
       ],
       "id": "f5ab7f9a348b42483cf8"
+    },
+    {
+      "title": "Cook, Economic Outlook",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-07-15T17:00:00+00:00",
+      "fetched_at": "2026-07-15T17:26:33+00:00",
+      "summary": "Speech At The Exchequer Club of Washington D.C., Washington, D.C.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50e360364532f8c4b35e"
     },
     {
       "title": "SonicWall SMA1000: Angriffe auf teils kritische Zero-Day-Lücken",
@@ -4733,8 +4821,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T16:55:33+00:00",
-      "fetched_at": "2026-07-15T16:55:13+00:00",
+      "published_at": "2026-07-15T17:26:51+00:00",
+      "fetched_at": "2026-07-15T17:26:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4768,7 +4856,51 @@
         "HD",
         "LOW"
       ],
-      "id": "9165f62b7c2abc1cf9b6"
+      "id": "fb5d591119df38a309cd"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-15T10:00:00+00:00",
+      "fetched_at": "2026-07-15T17:26:33+00:00",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); safety (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd8fb66af2a395ebea04"
+    },
+    {
+      "title": "Cook, Economic Outlook",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-07-15T17:00:00+00:00",
+      "fetched_at": "2026-07-15T17:26:33+00:00",
+      "summary": "Speech At The Exchequer Club of Washington D.C., Washington, D.C.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50e360364532f8c4b35e"
     }
   ],
   "source_errors": [],

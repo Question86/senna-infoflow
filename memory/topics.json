@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T16:55:45+00:00",
+  "generated_at": "2026-07-15T17:27:04+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-15T16:55:33+00:00",
+        "published_at": "2026-07-15T17:26:51+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -31,6 +31,13 @@
         "published_at": "2026-07-15T10:56:39+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2367"
+      },
+      {
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-15T10:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
       },
       {
         "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-15T05:00:05+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/genai-will-affect-80m-asean-workers-but-mass-job-losses-remain-absent-ilo-20260714/"
-      },
-      {
-        "title": "ローカル LLM を構築した",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T04:15:17+00:00",
-        "relevance_score": 9,
-        "url": "https://zenn.dev/neet/articles/11bafab8645995"
       }
     ],
     "github": [
@@ -293,6 +293,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng"
       },
       {
+        "title": "Cook, Economic Outlook",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-15T17:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm"
+      },
+      {
         "title": "Can a Fortune 100 sales director actually close deals for your startup?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-15T01:45:41+00:00",
@@ -340,13 +347,6 @@
         "published_at": "2026-07-15T00:53:31.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
-      },
-      {
-        "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T08:30:45+00:00",
-        "relevance_score": 8,
-        "url": "https://developers.freee.co.jp/entry/redteam-exercise-2026"
       }
     ],
     "economy": [
