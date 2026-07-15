@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-15T02:05:28+00:00_
+_Generiert: 2026-07-15T03:13:12+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — June update“ aus GitHub Changelog Atom (Score 17, observation).
+21 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — June update“ aus GitHub Changelog Atom (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月14日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN59875262/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-15T12:00:00+09:00`, fetched `2026-07-15T03:12:44+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社SBI証券が提供するHYPER SBI 2のインストーラには、DLL読み込みに関する脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Inside Singapore’s startup boom: The 21 firms investors can’t stop funding** — Score 14, observation — [Quelle](https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-15T01:30:09+00:00`, fetched `2026-07-15T02:04:58+00:00`
@@ -143,23 +152,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 81 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv)
+- **M 4.9 - 183 km SSE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-15T01:33:36.040+00:00`, fetched `2026-07-15T02:04:58+00:00`
+  - Zeit: published `2026-07-15T03:03:25.040+00:00`, fetched `2026-07-15T03:12:44+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-15 01:05:37 UTC 2026-07-15 01:05:37 UTC at epicenter Location 49.955°N 155.913°E Depth 66.60 km (41.38 mi)
+  - Kurz: Time 2026-07-15 02:48:45 UTC 2026-07-15 02:48:45 UTC at epicenter Location 51.476°N 159.673°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia)
+- **M 5.1 - 190 km SSE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-15T00:53:31.040+00:00`, fetched `2026-07-15T01:18:58+00:00`
+  - Zeit: published `2026-07-15T02:56:56.040+00:00`, fetched `2026-07-15T03:12:44+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-15 00:35:28 UTC 2026-07-15 00:35:28 UTC at epicenter Location 58.771°S 29.472°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-07-15 02:42:18 UTC 2026-07-15 02:42:18 UTC at epicenter Location 51.381°N 159.582°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **virattt/ai-hedge-fund** — Score 9, observation — [Quelle](https://github.com/virattt/ai-hedge-fund)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -170,23 +179,41 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An AI Hedge Fund Team AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment. 🚧 The project is evolving. We're rebuilding it into a persistent, always-on AI hedge fund — a fund as a first-class entity you can backtest, paper-t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **A region with zero nuclear reactors is suddenly betting on them: Here’s why** — Score 8, observation — [Quelle](https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/)
+- **AI’s trillion-dollar lease overhang is off the books, not off the hook** — Score 8, observation — [Quelle](https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-15T02:00:10+00:00`, fetched `2026-07-15T02:04:58+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+  - Zeit: published `2026-07-15T02:15:17+00:00`, fetched `2026-07-15T03:12:44+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
-  - Kurz: Something unusual happened when Vietnam’s Prime Minister visited a Swedish nuclear startup called Blykalla in 2025. It wasn’t the meeting itself; government officials tour technology companies all the time. What made it unusual was what it represented: the time a Southeast Asian head of government had made a direct, in-person engagement with a small modular […] The post A region with zero nuclear reactors is suddenl…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The largest AI companies are building the most expensive infrastructure programme in corporate history. They are also moving a growing share of the financing away from their own balance sheets. That does not mean the risk has disappeared. It means the risk has moved. The new AI financing stack is built from joint ventures, special-purpose […] The post AI’s trillion-dollar lease overhang is off the books, not off the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る** — Score 5, observation — [Quelle](https://togetter.com/li/2720620)
+- **GitHub Copilot for JetBrains expands BYOK capabilities** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-14T23:37:29+00:00`, fetched `2026-07-15T03:12:44+00:00`
+  - Treffer: Actions, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.5); Copilot (+2.5); Actions (+2.0); recent (+1.0)
+  - Kurz: This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and… The post GitHub Copilot for JetBrains expands BYOK capabilities appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_892/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-14T22:36:38+00:00`, fetched `2026-07-15T02:04:58+00:00`
+  - Zeit: published `2026-07-15T01:58:11+00:00`, fetched `2026-07-15T03:12:44+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: みい @70RsZygNWt79949 華氏451度では人々は耳に「貝」を装着してるんですよね。その貝から垂れ流されるラジオや音楽の虜になって、人々は深く思考することなく暮らしている… x.com/maetsukimi_oms… 2026-07-14 18:57:45 橋賢亀(はし かつかめ) katsukame hashi @katsukame ｢1984｣と双璧をなすディストピア物語｢華氏451...
+  - Kurz: 大東文化大学文学部日本文学科 助教 廣田 龍平（ひろた・りゅうへい） 1983年生まれ。専門は文化人類学、民俗学。博士（文学）。大学時代の卒業論文で怪談「コトリバコ」を扱って以降、妖怪や怪異の研究に独自の存在論的視点からアプローチしている。著書に『ネット怪談の民俗学』（ハヤカワ新書）、『妖怪の誕生』（青...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた** — Score 5, observation — [Quelle](https://togetter.com/li/2720654)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-15T00:24:33+00:00`, fetched `2026-07-15T03:12:44+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 🐢 🦊 🐈 @kituneponyo そういえば、在宅データ入力のバイトに履歴書と職務経歴書送ったら「この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません」って言われたんだけど、俺は夜間土日に遊び半分でタイピングゲームやってちょろっとお小遣い稼ぎがしたかっただけなんだ…… 2026-07-14 14:03:59
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

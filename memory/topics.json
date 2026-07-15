@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-15T02:05:28+00:00",
+  "generated_at": "2026-07-15T03:13:12+00:00",
   "topics": {
     "github": [
       {
@@ -24,6 +24,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/virattt/ai-hedge-fund"
+      },
+      {
+        "title": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-14T23:37:29+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"
       }
     ],
     "security": [
@@ -33,6 +40,13 @@
         "published_at": "2026-07-15T09:45:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU91675472/"
+      },
+      {
+        "title": "HYPER SBI 2のインストーラにおけるDLL読み込みに関する脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-15T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN59875262/"
       }
     ],
     "ai": [
@@ -65,11 +79,32 @@
         "url": "https://github.com/virattt/ai-hedge-fund"
       },
       {
+        "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T02:15:17+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
+      },
+      {
         "title": "Southeast Asia stopped waiting for the West, it built the rails",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-15T01:30:21+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/southeast-asia-stopped-waiting-for-the-west-it-built-the-rails-20260710/"
+      },
+      {
+        "title": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-14T23:37:29+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"
+      },
+      {
+        "title": "「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T01:58:11+00:00",
+        "relevance_score": 5,
+        "url": "https://levtech.jp/media/detail_892/"
       },
       {
         "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る",
@@ -95,6 +130,20 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
       },
       {
+        "title": "M 4.9 - 183 km SSE of Vilyuchinsk, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-15T03:03:25.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4"
+      },
+      {
+        "title": "M 5.1 - 190 km SSE of Vilyuchinsk, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-15T02:56:56.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
+      },
+      {
         "title": "M 4.5 - 81 km S of Severo-Kuril’sk, Russia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-15T01:33:36.040+00:00",
@@ -107,6 +156,29 @@
         "published_at": "2026-07-15T00:53:31.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
+      },
+      {
+        "title": "在宅データ入力のバイトに履歴書と職務経歴書を送ったら『この仕事は簡単なデータ入力です。あなたみたいな本業のエンジニアは採用しません』と言われた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T00:24:33+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2720654"
+      },
+      {
+        "title": "Gen Z isn’t hard to manage, you just need to rethink how you lead",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T02:45:13+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/gen-z-isnt-hard-to-manage-you-just-need-to-rethink-how-you-lead-20260714/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "AI’s trillion-dollar lease overhang is off the books, not off the hook",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-15T02:15:17+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ais-trillion-dollar-lease-overhang-is-off-the-books-not-off-the-hook-20260713/"
       }
     ],
     "geopolitics": [
