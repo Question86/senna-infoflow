@@ -70,6 +70,109 @@
     "id": "27bfdaf6ebfeed1b8e0b"
   },
   {
+    "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
+    "url": "https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-15T01:30:09+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "Singapore isn’t just punching above its weight in Southeast Asia’s tech race; it’s rewriting the scoreboard entirely. In the past 18 months alone, 21 startups headquartered in the Lion City have collectively pulled in nearly US$15.7 billion in equity funding, a figure that rivals entire national ecosystems. From data centers powering the AI boom to […] The post Inside Singapore’s startup boom: The 21 firms investors…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "funding",
+      "Southeast Asia"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8a4d4077e8e66dec3905"
+  },
+  {
+    "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
+    "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-15T02:00:57+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "Google said active users of its Gemini app in Southeast Asia have more than doubled over the past year, with adoption in the region outpacing any previous Google app launch, according to the company’s first “Gemini Southeast Asia Report 2026″. The report covers six of Gemini’s largest regional user bases: Indonesia, Malaysia, the Philippines, Singapore, […] The post Gemini’s SEA growth puts local-language AI at the…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f3ec66c6b062c89098fb"
+  },
+  {
+    "title": "Can a Fortune 100 sales director actually close deals for your startup?",
+    "url": "https://e27.co/can-a-fortune-100-sales-director-actually-close-deals-for-your-startup-20260616/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-15T01:45:41+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "A founder I serve as board advisor came to me last year with a story he wanted me to hear, because he was still angry about it. His company had been struggling to commercialise their product. After months of searching for a sales director who could fix the gap, they found one. The candidate came […] The post Can a Fortune 100 sales director actually close deals for your startup? appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "Public Health"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fe4a274917189c74febf"
+  },
+  {
+    "title": "M 5.1 - 52 km NNW of Valparaíso, Chile",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-15T01:56:03.050+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "DYFI? - V Time 2026-07-15 01:09:20 UTC 2026-07-15 01:09:20 UTC at epicenter Location 32.603°S 71.863°W Depth 26.03 km (16.18 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f0e8dcc5c0817be829c8"
+  },
+  {
     "title": "非エンジニアが自作アプリを社内にデプロイできる基盤を作った話",
     "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
     "source": "Hatena Bookmark Hotentry IT",
@@ -90,6 +193,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6abc4592bf8e627b674b"
+  },
+  {
+    "title": "M 4.5 - 81 km S of Severo-Kuril’sk, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-15T01:33:36.040+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "Time 2026-07-15 01:05:37 UTC 2026-07-15 01:05:37 UTC at epicenter Location 49.955°N 155.913°E Depth 66.60 km (41.38 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0dae7642d32356c9e5ee"
   },
   {
     "title": "M 5.1 - South Sandwich Islands region",
@@ -126,5 +265,91 @@
       "LOW"
     ],
     "id": "e106e82f4599973346a1"
+  },
+  {
+    "title": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "An AI Hedge Fund Team AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment. 🚧 The project is evolving. We're rebuilding it into a persistent, always-on AI hedge fund — a fund as a first-class entity you can backtest, paper-t…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4fa52a5a7c737a37e0ae"
+  },
+  {
+    "title": "A region with zero nuclear reactors is suddenly betting on them: Here’s why",
+    "url": "https://e27.co/a-region-with-zero-nuclear-reactors-is-suddenly-betting-on-them-heres-why-20260710/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-15T02:00:10+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "Something unusual happened when Vietnam’s Prime Minister visited a Swedish nuclear startup called Blykalla in 2025. It wasn’t the meeting itself; government officials tour technology companies all the time. What made it unusual was what it represented: the time a Southeast Asian head of government had made a direct, in-person engagement with a small modular […] The post A region with zero nuclear reactors is suddenl…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "990a4df35e036641bbd3"
+  },
+  {
+    "title": "Southeast Asia stopped waiting for the West, it built the rails",
+    "url": "https://e27.co/southeast-asia-stopped-waiting-for-the-west-it-built-the-rails-20260710/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-15T01:30:21+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "If you’re building in Southeast Asia and you’re not watching the rails, you’re going to get blindsided. The settlement layer under your company is changing faster here than anywhere on earth — and most founders in the region can’t see it, because they’re reading Washington’s headlines instead of their own backyard’s. While the US and […] The post Southeast Asia stopped waiting for the West, it built the rails appear…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "Southeast Asia"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "99854757e340fd2c8cc1"
+  },
+  {
+    "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る",
+    "url": "https://togetter.com/li/2720620",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T22:36:38+00:00",
+    "fetched_at": "2026-07-15T02:04:58+00:00",
+    "summary": "みい @70RsZygNWt79949 華氏451度では人々は耳に「貝」を装着してるんですよね。その貝から垂れ流されるラジオや音楽の虜になって、人々は深く思考することなく暮らしている… x.com/maetsukimi_oms… 2026-07-14 18:57:45 橋賢亀(はし かつかめ) katsukame hashi @katsukame ｢1984｣と双璧をなすディストピア物語｢華氏451...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "186b2e0b1db6c081df55"
   }
 ]
