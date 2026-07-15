@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T18:19:58+00:00",
-  "run_id": "2026-07-15T18:19:58+00:00",
+  "generated_at": "2026-07-15T18:44:30+00:00",
+  "run_id": "2026-07-15T18:44:30+00:00",
   "date": "2026-07-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 100,
     "displayed_findings": 100,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-15T18:19:47+00:00",
-        "fetched_at": "2026-07-15T18:19:28+00:00",
+        "published_at": "2026-07-15T18:44:17+00:00",
+        "fetched_at": "2026-07-15T18:43:57+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "335ba4b977e8fdcc3969"
+        "id": "0dfd7686d3bd5233b429"
       },
       {
         "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -2510,8 +2510,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T18:19:47+00:00",
-      "fetched_at": "2026-07-15T18:19:28+00:00",
+      "published_at": "2026-07-15T18:44:17+00:00",
+      "fetched_at": "2026-07-15T18:43:57+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2545,7 +2545,7 @@
         "HD",
         "LOW"
       ],
-      "id": "335ba4b977e8fdcc3969"
+      "id": "0dfd7686d3bd5233b429"
     },
     {
       "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
@@ -4983,8 +4983,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-15T18:19:47+00:00",
-      "fetched_at": "2026-07-15T18:19:28+00:00",
+      "published_at": "2026-07-15T18:44:17+00:00",
+      "fetched_at": "2026-07-15T18:43:57+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5018,66 +5018,7 @@
         "HD",
         "LOW"
       ],
-      "id": "335ba4b977e8fdcc3969"
-    },
-    {
-      "title": "M 4.7 - south of Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxnvtv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-15T17:59:36.829+00:00",
-      "fetched_at": "2026-07-15T18:19:28+00:00",
-      "summary": "ShakeMap - II Time 2026-07-15 17:46:19 UTC 2026-07-15 17:46:19 UTC at epicenter Location 54.233°N 153.278°W Depth 44.80 km (27.84 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6da3c11781f1018111db"
-    },
-    {
-      "title": "【Claude Code】鹿野さんに聞く 私の推しの並行開発環境 大公開 / claude-code-parallel-2026-07-15",
-      "url": "https://speakerdeck.com/tonkotsuboy_com/claude-code-parallel-2026-07-15",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-15T04:41:49+00:00",
-      "fetched_at": "2026-07-15T18:19:28+00:00",
-      "summary": "【Claude Code】並行開発、どう回してる？ 鹿野さんに聞く 私の推しの並行開発環境 大公開 https://offers-jp.connpass.com/event/395255/ の登壇資料です",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4a29a09e00d094bd9e6e"
+      "id": "0dfd7686d3bd5233b429"
     }
   ],
   "source_errors": [],
