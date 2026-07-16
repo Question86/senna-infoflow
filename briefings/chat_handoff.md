@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T06:16:40+00:00_
+_Generated: 2026-07-16T07:09:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `22`
 
 ## Top Signals
 
-### 1. 163,000 workers, 37% training: Malaysia’s AI skills gap in focus
+### 1. [UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-07-16T06:46:39+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
+
+### 2. [UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-16T06:21:39+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321
+- summary: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Azure Komponenten ausnutzen, um seine Privilegien zu erhöhen und um einen Denial of Service Angriff durchzuführen.
+
+### 3. 163,000 workers, 37% training: Malaysia’s AI skills gap in focus
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-07-16T03:00:17+00:00`
 - url: https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/
 - summary: A government-commissioned study found that 24 per cent of Global Business Services roles in Malaysia are highly impacted by AI and 65 per cent are medium impacted. Nearly nine in ten GBS jobs are changing in some material way within the next three to five yea…
 
-### 2. Deepfake fraud losses hit US$3.7B as scams spread beyond social media
+### 4. Deepfake fraud losses hit US$3.7B as scams spread beyond social media
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-07-16T01:30:11+00:00`
 - url: https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/
 - summary: Deepfake fraud is no longer a fringe cybercrime problem built around crude celebrity videos or novelty face swaps. New data tracking publicly reported incidents from January 2020 to June 2026 shows recorded global losses have reached US$3.7 billion, with the…
-
-### 3. OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物
-- source: Hatena Bookmark Hotentry IT
-- score: `16`
-- published: `2026-07-15T22:40:47+00:00`
-- url: https://www.itmedia.co.jp/news/articles/2607/16/news055.html
-- summary: なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴...
-
-### 4. Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-07-16T02:43:03+00:00`
-- url: https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/
-- summary: Winnow, the London-headquartered AI food waste measurement company, has acquired Singapore-founded Lumitics, in a deal that strengthens its position in Asia Pacific’s hospitality technology market. The companies did not disclose the financial terms of the tra…
 
 ### 5. Sovereign alpha: An investment thesis for a scarcer world
 - source: e27 Asia Startup and Tech Feed

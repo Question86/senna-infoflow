@@ -1,5 +1,53 @@
 [
   {
+    "title": "[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T06:46:39+00:00",
+    "fetched_at": "2026-07-16T07:08:59+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "Automatisierung",
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "79de19a1a3df8b990691"
+  },
+  {
+    "title": "[UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T06:21:39+00:00",
+    "fetched_at": "2026-07-16T07:08:59+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Azure Komponenten ausnutzen, um seine Privilegien zu erhöhen und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e0578fe9e612b627ce96"
+  },
+  {
     "title": "163,000 workers, 37% training: Malaysia’s AI skills gap in focus",
     "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/",
     "source": "e27 Asia Startup and Tech Feed",

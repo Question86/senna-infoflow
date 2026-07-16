@@ -1,8 +1,59 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T06:16:40+00:00",
+  "generated_at": "2026-07-16T07:09:30+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T06:46:39+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T06:21:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321"
+      },
+      {
+        "title": "Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T13:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90340653/"
+      },
+      {
+        "title": "JavaScriptライブラリ「Forge」における複数の署名検証不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T13:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98998987/"
+      },
+      {
+        "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN65294474/"
+      },
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T09:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95286373/"
+      },
+      {
+        "title": "Sovereign alpha: An investment thesis for a scarcer world",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:00:23+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
+      }
+    ],
     "ai": [
       {
         "title": "163,000 workers, 37% training: Malaysia’s AI skills gap in focus",
@@ -200,43 +251,6 @@
         "published_at": "2026-07-15T21:45:30+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032"
-      }
-    ],
-    "security": [
-      {
-        "title": "Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T13:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90340653/"
-      },
-      {
-        "title": "JavaScriptライブラリ「Forge」における複数の署名検証不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T13:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98998987/"
-      },
-      {
-        "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN65294474/"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T09:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95286373/"
-      },
-      {
-        "title": "Sovereign alpha: An investment thesis for a scarcer world",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T03:00:23+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T06:16:40+00:00_
+_Generiert: 2026-07-16T07:09:30+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „163,000 workers, 37% training: Malaysia’s AI skills gap in focus“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+22 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-16T06:46:39+00:00`, fetched `2026-07-16T07:08:59+00:00`
+  - Treffer: Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-16T06:21:39+00:00`, fetched `2026-07-16T07:08:59+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Azure Komponenten ausnutzen, um seine Privilegien zu erhöhen und um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **163,000 workers, 37% training: Malaysia’s AI skills gap in focus** — Score 16, observation — [Quelle](https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-16T03:00:17+00:00`, fetched `2026-07-16T03:18:46+00:00`
