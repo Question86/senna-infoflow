@@ -160,6 +160,50 @@
     "id": "5cb832c0e19171818da8"
   },
   {
+    "title": "Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU90340653/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-16T13:30:15+09:00",
+    "fetched_at": "2026-07-16T05:26:28+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "057d5e22bca4379c949f"
+  },
+  {
+    "title": "JavaScriptライブラリ「Forge」における複数の署名検証不備の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU98998987/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-16T13:30:00+09:00",
+    "fetched_at": "2026-07-16T05:26:28+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fd5c3a8815070cf64a3c"
+  },
+  {
     "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN65294474/",
     "source": "JVN Japan Vulnerability Notes",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T04:26:42+00:00_
+_Generiert: 2026-07-16T05:26:58+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „163,000 workers, 37% training: Malaysia’s AI skills gap in focus“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+19 neue relevante Treffer. Stärkstes Signal: „163,000 workers, 37% training: Malaysia’s AI skills gap in focus“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90340653/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-16T13:30:15+09:00`, fetched `2026-07-16T05:26:28+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **JavaScriptライブラリ「Forge」における複数の署名検証不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98998987/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-16T13:30:00+09:00`, fetched `2026-07-16T05:26:28+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Tera TermのTTSSH2プラグインにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN65294474/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-16T12:00:00+09:00`, fetched `2026-07-16T03:18:46+00:00`
@@ -126,15 +144,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: TeraTerm Projectが提供するTera TermのTTSSH2プラグインには、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Apache Tomcatにおける複数の脆弱性(2026年7月14日)** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95286373/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-16T09:30:00+09:00`, fetched `2026-07-16T00:49:01+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-59083、CVE-2026-59084）に対してアドバイザリが公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
