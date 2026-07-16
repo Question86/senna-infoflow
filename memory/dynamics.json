@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-16T01:39:39Z",
+  "generated_at": "2026-07-16T02:36:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 11,
+    "dynamics": 13,
     "bands": {
       "strong": 2,
-      "watch": 2,
-      "quiet": 7
+      "watch": 3,
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 2,
-      "quiet": 7
+      "watch": 3,
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU95286373/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 26.99,
+      "age_days": 27.03,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T00:23:18.349+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -95,11 +95,36 @@
       "summary": "DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)"
     },
     {
+      "title": "Deepfake fraud losses hit US$3.7B as scams spread beyond social media",
+      "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-16T01:30:11+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Deepfake fraud is no longer a fringe cybercrime problem built around crude celebrity videos or novelty face swaps. New data tracking publicly reported incidents from January 2020 to June 2026 shows recorded global losses have reached US$3.7 billion, with the sharpest acceleration coming in the past 18 months. The find…"
+    },
+    {
       "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T22:40:47+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -125,7 +150,7 @@
       "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:00:44+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -145,11 +170,35 @@
       "summary": "For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big c…"
     },
     {
+      "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
+      "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-15T21:55:32+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】"
+    },
+    {
       "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:45:30+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -173,7 +222,7 @@
       "url": "https://togetter.com/li/2721001",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:09:51+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -199,7 +248,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.95,
+      "age_days": 25.99,
       "topics": [
         "general"
       ],
@@ -224,7 +273,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.95,
+      "age_days": 25.99,
       "topics": [
         "general"
       ],
@@ -249,7 +298,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.95,
+      "age_days": 25.99,
       "topics": [
         "ai"
       ],
@@ -276,7 +325,7 @@
       "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:15:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
