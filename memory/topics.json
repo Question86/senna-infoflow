@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T11:38:17+00:00",
+  "generated_at": "2026-07-16T12:10:10+00:00",
   "topics": {
     "security": [
       {
@@ -54,6 +54,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321"
       },
       {
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T11:36:43+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1221"
+      },
+      {
         "title": "Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-16T13:30:15+09:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-16T13:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU98998987/"
-      },
-      {
-        "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN65294474/"
       }
     ],
     "general": [
@@ -89,6 +89,13 @@
         "published_at": "2026-07-16T00:23:18.349+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf"
+      },
+      {
+        "title": "M 5.2 - 122 km SE of McCarthy, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-16T12:05:18.329+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
       },
       {
         "title": "デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました",
@@ -156,6 +163,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1160"
       },
       {
+        "title": "Claude Codeのスキル設計で効く4つのポイント —— 「AIへの仕事の任せ方」を意識した設計 - RAKUS Developers Blog | ラクス エンジニアブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T06:03:52+00:00",
+        "relevance_score": 16,
+        "url": "https://tech-blog.rakus.co.jp/entry/20260716/claude"
+      },
+      {
         "title": "163,000 workers, 37% training: Malaysia’s AI skills gap in focus",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-16T03:00:17+00:00",
@@ -198,18 +212,11 @@
         "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
       },
       {
-        "title": "AIによる工数削減を計測して見えた結果と考察 - ZOZO TECH BLOG",
+        "title": "Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-16T02:08:08+00:00",
-        "relevance_score": 8,
-        "url": "https://techblog.zozo.com/entry/rethinking-ai"
-      },
-      {
-        "title": "Your customers are not buying your product, they are buying a better version of themselves",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T01:15:27+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/"
+        "published_at": "2026-07-16T02:38:31+00:00",
+        "relevance_score": 11,
+        "url": "https://zenn.dev/sonicmoov/articles/8712598f532b18"
       }
     ],
     "geopolitics": [
@@ -219,6 +226,13 @@
         "published_at": "2026-07-16T03:00:17+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/"
+      },
+      {
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T11:36:43+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1221"
       },
       {
         "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Manipulation von Dateien",
@@ -275,13 +289,6 @@
         "published_at": "2026-07-16T03:00:23+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
-      },
-      {
-        "title": "Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T03:51:49+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
       }
     ],
     "github": [
