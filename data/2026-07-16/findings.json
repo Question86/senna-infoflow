@@ -368,6 +368,50 @@
     "id": "aa7b7eb5bfe9aa803d64"
   },
   {
+    "title": "Updates to the Data Download Program (DDP) and DDP Data Releases",
+    "url": "http://www.federalreserve.gov/feeds/PRATES.html#3929",
+    "source": "Federal Reserve Policy Rates Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T11:00:00-04:00",
+    "fetched_at": "2026-07-16T15:21:41+00:00",
+    "summary": "As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the \"Build Your Package\" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the r…",
+    "matched_keywords": [
+      "Macro/Policy",
+      "policy rates",
+      "Public Health"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4b4ace4518817e9719d8"
+  },
+  {
+    "title": "Updates to the Data Download Program (DDP) and DDP Data Releases",
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3929",
+    "source": "Federal Reserve Selected Interest Rates H.15",
+    "source_type": "rss",
+    "published_at": "2026-07-16T11:00:00-04:00",
+    "fetched_at": "2026-07-16T15:21:41+00:00",
+    "summary": "As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the \"Build Your Package\" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the r…",
+    "matched_keywords": [
+      "H.15",
+      "Macro/Policy",
+      "Public Health"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1f0587336426a2b1fcce"
+  },
+  {
     "title": "Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste",
     "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/",
     "source": "e27 Asia Startup and Tech Feed",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T14:47:22+00:00",
+  "generated_at": "2026-07-16T15:22:10+00:00",
   "topics": {
     "security": [
       {
@@ -235,6 +235,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1221"
       },
       {
+        "title": "Updates to the Data Download Program (DDP) and DDP Data Releases",
+        "source": "Federal Reserve Policy Rates Feed",
+        "published_at": "2026-07-16T11:00:00-04:00",
+        "relevance_score": 15,
+        "url": "http://www.federalreserve.gov/feeds/PRATES.html#3929"
+      },
+      {
         "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-16T10:56:40+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-07-16T09:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU95286373/"
-      },
-      {
-        "title": "Sovereign alpha: An investment thesis for a scarcer world",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T03:00:23+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
       }
     ],
     "github": [
@@ -308,6 +308,20 @@
       }
     ],
     "economy": [
+      {
+        "title": "Updates to the Data Download Program (DDP) and DDP Data Releases",
+        "source": "Federal Reserve Policy Rates Feed",
+        "published_at": "2026-07-16T11:00:00-04:00",
+        "relevance_score": 15,
+        "url": "http://www.federalreserve.gov/feeds/PRATES.html#3929"
+      },
+      {
+        "title": "Updates to the Data Download Program (DDP) and DDP Data Releases",
+        "source": "Federal Reserve Selected Interest Rates H.15",
+        "published_at": "2026-07-16T11:00:00-04:00",
+        "relevance_score": 15,
+        "url": "http://www.federalreserve.gov/feeds/H15.html#3929"
+      },
       {
         "title": "Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste",
         "source": "e27 Asia Startup and Tech Feed",

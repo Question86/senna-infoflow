@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T14:47:22+00:00_
+_Generiert: 2026-07-16T15:22:10+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+64 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -83,6 +83,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Updates to the Data Download Program (DDP) and DDP Data Releases** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/PRATES.html#3929)
+  - Quelle: Federal Reserve Policy Rates Feed / `rss`
+  - Zeit: published `2026-07-16T11:00:00-04:00`, fetched `2026-07-16T15:21:41+00:00`
+  - Treffer: Macro/Policy, policy rates, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the "Build Your Package" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the r…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Updates to the Data Download Program (DDP) and DDP Data Releases** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/H15.html#3929)
+  - Quelle: Federal Reserve Selected Interest Rates H.15 / `rss`
+  - Zeit: published `2026-07-16T11:00:00-04:00`, fetched `2026-07-16T15:21:41+00:00`
+  - Treffer: H.15, Macro/Policy, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the "Build Your Package" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the r…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste** — Score 15, observation — [Quelle](https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -277,3 +295,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/index_wp.php/feed/
