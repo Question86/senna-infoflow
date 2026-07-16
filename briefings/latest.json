@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-16T18:44:14+00:00",
-  "run_id": "2026-07-16T18:44:14+00:00",
+  "generated_at": "2026-07-16T19:11:54+00:00",
+  "run_id": "2026-07-16T19:11:54+00:00",
   "date": "2026-07-16",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 1,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
     "medium": 36,
-    "observe": 35,
-    "source_errors": 0
+    "observe": 36,
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -1133,6 +1133,28 @@
           "S"
         ],
         "id": "64e2e8bfab967d4013ad"
+      },
+      {
+        "title": "グーグルにまた訴訟、「Gemini」の著作権侵害で 大手出版社らが「無断利用」に怒り",
+        "url": "https://japan.cnet.com/article/35250597/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-15T09:27:22+00:00",
+        "fetched_at": "2026-07-16T19:11:24+00:00",
+        "summary": "Googleに対し、出版社や作家らが新たな訴訟を提起した。原告は、Googleが出版社との提携関係を悪用して「膨大な数の著作物を臆面もなく複製」し、AIの学習に利用したと主張している。 出版社のHachette Book Group、Cengage、Elsevier、そして作家のScott Turow氏は米国時間7月10日、ニューヨーク南部地区連邦地方裁判所...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "052af3f302c62e18c5f9"
       },
       {
         "title": "Multiples vulnérabilités dans Suricata (10 juillet 2026)",
@@ -2905,6 +2927,28 @@
       "id": "64e2e8bfab967d4013ad"
     },
     {
+      "title": "グーグルにまた訴訟、「Gemini」の著作権侵害で 大手出版社らが「無断利用」に怒り",
+      "url": "https://japan.cnet.com/article/35250597/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-15T09:27:22+00:00",
+      "fetched_at": "2026-07-16T19:11:24+00:00",
+      "summary": "Googleに対し、出版社や作家らが新たな訴訟を提起した。原告は、Googleが出版社との提携関係を悪用して「膨大な数の著作物を臆面もなく複製」し、AIの学習に利用したと主張している。 出版社のHachette Book Group、Cengage、Elsevier、そして作家のScott Turow氏は米国時間7月10日、ニューヨーク南部地区連邦地方裁判所...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "052af3f302c62e18c5f9"
+    },
+    {
       "title": "Multiples vulnérabilités dans Suricata (10 juillet 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0859/",
       "source": "CERT-FR Avis de sécurité",
@@ -3571,47 +3615,42 @@
   ],
   "new_findings": [
     {
-      "title": "REST API endpoints for Visual Studio Subscription management",
-      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "source": "GitHub Changelog Atom",
+      "title": "グーグルにまた訴訟、「Gemini」の著作権侵害で 大手出版社らが「無断利用」に怒り",
+      "url": "https://japan.cnet.com/article/35250597/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-16T18:06:52+00:00",
-      "fetched_at": "2026-07-16T18:43:42+00:00",
-      "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including… The post REST API endpoints for Visual Studio Subscription management appeared first on The GitHub Blog .",
+      "published_at": "2026-07-15T09:27:22+00:00",
+      "fetched_at": "2026-07-16T19:11:24+00:00",
+      "summary": "Googleに対し、出版社や作家らが新たな訴訟を提起した。原告は、Googleが出版社との提携関係を悪用して「膨大な数の著作物を臆面もなく複製」し、AIの学習に利用したと主張している。 出版社のHachette Book Group、Cengage、Elsevier、そして作家のScott Turow氏は米国時間7月10日、ニューヨーク南部地区連邦地方裁判所...",
       "matched_keywords": [
-        "GitHub"
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7702432031bf156f5998"
-    },
-    {
-      "title": "Xcode 27 runner image now in public preview",
-      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-16T18:00:07+00:00",
-      "fetched_at": "2026-07-16T18:43:42+00:00",
-      "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode… The post Xcode 27 runner image now in public preview appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a9d9523bf9ccb823c24c"
+      "id": "052af3f302c62e18c5f9"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_thailand_hot",
+      "source_name": "Google Trends Thailand Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH"
+    },
+    {
+      "source_id": "google_trends_philippines_hot",
+      "source_name": "Google Trends Philippines Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
