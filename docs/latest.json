@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-16T19:11:54+00:00",
-  "run_id": "2026-07-16T19:11:54+00:00",
+  "generated_at": "2026-07-16T19:39:45+00:00",
+  "run_id": "2026-07-16T19:39:45+00:00",
   "date": "2026-07-16",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 36,
-    "observe": 36,
-    "source_errors": 2
+    "observe": 37,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1779,6 +1779,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "21e2870344db859e7407"
+      },
+      {
+        "title": "Repository admins can archive pull requests",
+        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-16T19:01:09+00:00",
+        "fetched_at": "2026-07-16T19:39:16+00:00",
+        "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests… The post Repository admins can archive pull requests appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "52c9010f2bc9721c4bce"
       },
       {
         "title": "REST API endpoints for Visual Studio Subscription management",
@@ -3573,6 +3593,26 @@
       "id": "21e2870344db859e7407"
     },
     {
+      "title": "Repository admins can archive pull requests",
+      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-16T19:01:09+00:00",
+      "fetched_at": "2026-07-16T19:39:16+00:00",
+      "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests… The post Repository admins can archive pull requests appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "52c9010f2bc9721c4bce"
+    },
+    {
       "title": "REST API endpoints for Visual Studio Subscription management",
       "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
       "source": "GitHub Changelog Atom",
@@ -3615,42 +3655,27 @@
   ],
   "new_findings": [
     {
-      "title": "グーグルにまた訴訟、「Gemini」の著作権侵害で 大手出版社らが「無断利用」に怒り",
-      "url": "https://japan.cnet.com/article/35250597/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Repository admins can archive pull requests",
+      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-15T09:27:22+00:00",
-      "fetched_at": "2026-07-16T19:11:24+00:00",
-      "summary": "Googleに対し、出版社や作家らが新たな訴訟を提起した。原告は、Googleが出版社との提携関係を悪用して「膨大な数の著作物を臆面もなく複製」し、AIの学習に利用したと主張している。 出版社のHachette Book Group、Cengage、Elsevier、そして作家のScott Turow氏は米国時間7月10日、ニューヨーク南部地区連邦地方裁判所...",
+      "published_at": "2026-07-16T19:01:09+00:00",
+      "fetched_at": "2026-07-16T19:39:16+00:00",
+      "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests… The post Repository admins can archive pull requests appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "GitHub"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "052af3f302c62e18c5f9"
+      "id": "52c9010f2bc9721c4bce"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "google_trends_thailand_hot",
-      "source_name": "Google Trends Thailand Hot Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH"
-    },
-    {
-      "source_id": "google_trends_philippines_hot",
-      "source_name": "Google Trends Philippines Hot Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

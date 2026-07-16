@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T19:11:54+00:00",
+  "generated_at": "2026-07-16T19:39:45+00:00",
   "topics": {
     "security": [
       {
@@ -305,6 +305,13 @@
         "published_at": "2026-07-16T03:51:49+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
+      },
+      {
+        "title": "Repository admins can archive pull requests",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-16T19:01:09+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests"
       },
       {
         "title": "REST API endpoints for Visual Studio Subscription management",

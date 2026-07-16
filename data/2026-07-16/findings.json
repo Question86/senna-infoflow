@@ -1749,6 +1749,26 @@
     "id": "21e2870344db859e7407"
   },
   {
+    "title": "Repository admins can archive pull requests",
+    "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-16T19:01:09+00:00",
+    "fetched_at": "2026-07-16T19:39:16+00:00",
+    "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests… The post Repository admins can archive pull requests appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "52c9010f2bc9721c4bce"
+  },
+  {
     "title": "REST API endpoints for Visual Studio Subscription management",
     "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
     "source": "GitHub Changelog Atom",
