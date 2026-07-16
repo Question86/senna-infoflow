@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T10:17:15+00:00",
-  "run_id": "2026-07-16T10:17:15+00:00",
+  "generated_at": "2026-07-16T11:01:29+00:00",
+  "run_id": "2026-07-16T11:01:29+00:00",
   "date": "2026-07-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 6,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
-    "medium": 17,
+    "medium": 23,
     "observe": 18,
     "source_errors": 0
   },
@@ -377,6 +377,144 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "16c7d810cd844ac4e9dc"
+      },
+      {
+        "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2374",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-16T10:56:40+00:00",
+        "fetched_at": "2026-07-16T11:00:59+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Cisco Identity Services Engine (ISE) ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c0014630ed309e3b1780"
+      },
+      {
+        "title": "[NEU] [mittel] Drupal Core: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2372",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-16T10:56:39+00:00",
+        "fetched_at": "2026-07-16T11:00:59+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Drupal Core ausnutzen, um Informationen offenzulegen oder einen Cross Site Scripting Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1c2a5dd4d9e507d24940"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Ivy: Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2373",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-16T10:56:39+00:00",
+        "fetched_at": "2026-07-16T11:00:59+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Apache Ivy ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "85c59b6b15f6d0a9d488"
+      },
+      {
+        "title": "[NEU] [mittel] F5 BIG-IP und BIG-IP Next: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2371",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-16T10:51:40+00:00",
+        "fetched_at": "2026-07-16T11:00:59+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in F5 BIG-IP und BIG-IP Next ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "38c74491c770c82f4d94"
+      },
+      {
+        "title": "[NEU] [hoch] Splunk Splunk Enterprise: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2370",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-16T10:51:40+00:00",
+        "fetched_at": "2026-07-16T11:00:59+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Splunk Splunk Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "db499e8999a086201d72"
+      },
+      {
+        "title": "[NEU] [mittel] 7-Zip: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2369",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-16T10:51:39+00:00",
+        "fetched_at": "2026-07-16T11:00:59+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "44500c503ecdcabf2c84"
       },
       {
         "title": "[UPDATE] [mittel] Perl: Mehrere Schwachstellen",
@@ -1263,6 +1401,144 @@
       "id": "16c7d810cd844ac4e9dc"
     },
     {
+      "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2374",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-16T10:56:40+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Cisco Identity Services Engine (ISE) ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c0014630ed309e3b1780"
+    },
+    {
+      "title": "[NEU] [mittel] Drupal Core: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2372",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-16T10:56:39+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Drupal Core ausnutzen, um Informationen offenzulegen oder einen Cross Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1c2a5dd4d9e507d24940"
+    },
+    {
+      "title": "[NEU] [mittel] Apache Ivy: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2373",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-16T10:56:39+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Apache Ivy ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "85c59b6b15f6d0a9d488"
+    },
+    {
+      "title": "[NEU] [mittel] F5 BIG-IP und BIG-IP Next: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2371",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-16T10:51:40+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in F5 BIG-IP und BIG-IP Next ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "38c74491c770c82f4d94"
+    },
+    {
+      "title": "[NEU] [hoch] Splunk Splunk Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2370",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-16T10:51:40+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Splunk Splunk Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db499e8999a086201d72"
+    },
+    {
+      "title": "[NEU] [mittel] 7-Zip: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2369",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-16T10:51:39+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "44500c503ecdcabf2c84"
+    },
+    {
       "title": "[UPDATE] [mittel] Perl: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2309",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1795,37 +2071,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-pillow): Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301",
+      "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2374",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-16T10:10:27+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux bzgl. python-pillow ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "36f870fe4943b72de453"
-    },
-    {
-      "title": "[UPDATE] [mittel] Perl: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2309",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-16T10:10:27+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen.",
+      "published_at": "2026-07-16T10:56:40+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Cisco Identity Services Engine (ISE) ausnutzen, um Dateien zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1839,16 +2091,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b0c847cfda57026853e8"
+      "id": "c0014630ed309e3b1780"
     },
     {
-      "title": "[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1514",
+      "title": "[NEU] [mittel] Apache Ivy: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2373",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-16T10:10:27+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand herbeizuführen oder andere, nicht spezifizierte bezeichnete Angriffe durchzuführen.",
+      "published_at": "2026-07-16T10:56:39+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Apache Ivy ausnutzen, um Dateien zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1862,16 +2114,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e96e8fc5ecb0c7aaad85"
+      "id": "85c59b6b15f6d0a9d488"
     },
     {
-      "title": "[UPDATE] [mittel] wget: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2278",
+      "title": "[NEU] [mittel] Drupal Core: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2372",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-16T10:10:26+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in wget ausnutzen, um Sicherheitsvorkehrungen zu umgehen und einen serverseitigen Request-Forgery-Angriff durchzuführen.",
+      "published_at": "2026-07-16T10:56:39+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Drupal Core ausnutzen, um Informationen offenzulegen oder einen Cross Site Scripting Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1885,16 +2137,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "93763404df783ed114fc"
+      "id": "1c2a5dd4d9e507d24940"
     },
     {
-      "title": "[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1478",
+      "title": "[NEU] [mittel] F5 BIG-IP und BIG-IP Next: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2371",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-16T10:10:25+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um Informationen offenzulegen, um einen Denial-of-Service-Angriff durchzuführen, um Daten zu beschädigen oder beliebigen Code auszuführen.",
+      "published_at": "2026-07-16T10:51:40+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in F5 BIG-IP und BIG-IP Next ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1908,89 +2160,53 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e68deb9b6a222b846ae2"
+      "id": "38c74491c770c82f4d94"
     },
     {
-      "title": "The problem AI content moderation cannot solve",
-      "url": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "[NEU] [hoch] Splunk Splunk Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2370",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-16T10:00:00+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "Meta and other big tech companies are increasingly using AI for content moderation, but as the backlash to Muse Image shows, it cannot protect users because it does not account for consent.",
+      "published_at": "2026-07-16T10:51:40+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Splunk Splunk Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
-        "AI/KI"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "94bddc3ab3a26e614836"
+      "id": "db499e8999a086201d72"
     },
     {
-      "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news096.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [mittel] 7-Zip: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2369",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-16T09:10:39+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "ITmedia NEWS読者調査 当社では企業のビジネストレンドを明らかにするために読者調査を行っております。ご回答いただきました方の中から抽選で5名の方にAmazonギフトカード（3000円分）をプレゼント。何卒ご協力お願い致します。回答はこちらから！ 【追記：2026年7月16日午後6時30分】VPC Originsに関するステータスサ...",
+      "published_at": "2026-07-16T10:51:39+00:00",
+      "fetched_at": "2026-07-16T11:00:59+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "28bf348626e8b9a9026f"
-    },
-    {
-      "title": "Startupbootcamp’s first Singapore sustainability cohort moves beyond generic climate tech",
-      "url": "https://e27.co/startupbootcamps-first-singapore-sustainability-cohort-moves-beyond-generic-climate-tech-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-16T10:00:37+00:00",
-      "fetched_at": "2026-07-16T10:16:46+00:00",
-      "summary": "Startupbootcamp has graduated the first cohort of its Sustainability Singapore accelerator, backing nine pre-seed startups working across food and agritech, alternative finance, and trade and logistics. The cohort pitched to investors, corporate partners and government agencies at a Demo Day held at Temasek Shophouse in Singapore, following a 12-week programme run through SBC Sustainability Singapore, […] The post S…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:sports_sf_tech_events"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules sports_sf_tech_events (+3.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "sports_sf_tech_events"
-      ],
-      "watchgraph_reasons": [
-        "sports_sf_tech_events: demo day"
-      ],
-      "market_context": [
-        "DIS",
-        "CMCSA",
-        "ABNB",
-        "BKNG",
-        "DAL",
-        "UAL",
-        "TKO",
-        "FWONK",
-        "AAL",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "3d71e745142aa24d9e61"
+      "id": "44500c503ecdcabf2c84"
     }
   ],
   "source_errors": [],
