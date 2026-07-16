@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-16T05:56:48Z",
+  "generated_at": "2026-07-16T06:52:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU90340653/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:15+09:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98998987/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/jp/JVN65294474/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T12:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "security",
         "macro"
@@ -88,7 +88,7 @@
       "url": "https://jvn.jp/vu/JVNVU95286373/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -112,7 +112,7 @@
       "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:23+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "security",
         "macro"
@@ -139,7 +139,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 27.17,
+      "age_days": 27.2,
       "topics": [
         "ai"
       ],
@@ -168,7 +168,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T00:23:18.349+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -192,7 +192,7 @@
       "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:30:11+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -217,7 +217,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T22:40:47+00:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -243,7 +243,7 @@
       "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T02:43:03+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -270,7 +270,7 @@
       "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:17+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -295,7 +295,7 @@
       "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:51:49+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
