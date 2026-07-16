@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T08:40:04+00:00",
+  "generated_at": "2026-07-16T09:28:36+00:00",
   "topics": {
     "general": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-07-16T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/procurement/improvement_plan"
+      },
+      {
+        "title": "朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T06:49:55+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news084.html"
       },
       {
         "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:40:06+00:00",
+  "generated_at": "2026-07-16T09:28:39+00:00",
   "sections": {
     "global_security": [
       {
@@ -141,21 +141,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - Volcano Islands, Japan region",
-        "summary": "M5.5 - Volcano Islands, Japan region. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0",
-        "published_at": "2026-07-16T07:49:09+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

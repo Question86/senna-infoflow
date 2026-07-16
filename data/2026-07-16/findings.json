@@ -535,6 +535,27 @@
     "id": "55770686827c10ca23e2"
   },
   {
+    "title": "朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news084.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-16T06:49:55+00:00",
+    "fetched_at": "2026-07-16T09:28:04+00:00",
+    "summary": "7月16日朝、三井住友カードやVisaブランドの一部のクレジットカードで決済できない大規模障害が起きた背景について、ビザ・ワールドワイド・ジャパンがITmedia NEWSの取材に答えた。 同社によると、米Visa傘下の決済プラットフォーム「CyberSource」で、「取引処理のタイムアウト事象が発生していた」という。「必要な対...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1a41060420632178b898"
+  },
+  {
     "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
     "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
     "source": "Hatena Bookmark Hotentry IT",

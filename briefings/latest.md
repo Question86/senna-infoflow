@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T08:40:04+00:00_
+_Generiert: 2026-07-16T09:28:36+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „M 5.5 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 22, risk).
+27 neue relevante Treffer. Stärkstes Signal: „M 5.5 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-07-16T08:40:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.
-- **USGS earthquake M5.5 - Volcano Islands, Japan region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0)
-  - Quelle: USGS
-  - Zeit: `2026-07-16T07:49:09+00:00`
-  - Kurz: M5.5 - Volcano Islands, Japan region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -246,6 +242,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news084.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-16T06:49:55+00:00`, fetched `2026-07-16T09:28:04+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 7月16日朝、三井住友カードやVisaブランドの一部のクレジットカードで決済できない大規模障害が起きた背景について、ビザ・ワールドワイド・ジャパンがITmedia NEWSの取材に答えた。 同社によると、米Visa傘下の決済プラットフォーム「CyberSource」で、「取引処理のタイムアウト事象が発生していた」という。「必要な対...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **クレカ障害、全国で発生か 「カード払いできない」報告多数** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news064.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-16T01:40:40+00:00`, fetched `2026-07-16T03:18:46+00:00`
@@ -254,15 +259,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 関連記事 全国のJR券売機で一時障害 「えきねっと」などWebも 基幹システム「マルス」不具合で JRグル－プでは、JR東日本の「モバイルSuica」でも同日に障害が起きているが、MARSとモバイルSuicaの障害は「無関係」という。 モバイルSuica障害「チャージできない」「アプリから消えた」……JR東がメンテナンス メンテナ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/update/2124755.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T21:55:32+00:00`, fetched `2026-07-16T02:09:26+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
