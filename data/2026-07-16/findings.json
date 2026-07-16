@@ -1,5 +1,53 @@
 [
   {
+    "title": "Prompting guidance for GPT-5.6 Sol | OpenAI API",
+    "url": "https://developers.openai.com/api/docs/guides/prompt-guidance-gpt-5p6",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-11T03:01:25+00:00",
+    "fetched_at": "2026-07-16T23:10:57+00:00",
+    "summary": "Example workflows and tasks teams can take on with ChatGPT or Codex",
+    "matched_keywords": [
+      "Content-Chance",
+      "developer",
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "OpenAI (+7.5); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "70c072bae00dde189322"
+  },
+  {
     "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0935",
     "source": "BSI CERT-Bund Security Advisories",
@@ -961,6 +1009,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a5f7bd0fa2933ebfaa8a"
+  },
+  {
+    "title": "Jefferson, Navigating Economic Shocks: A Monetary Policymaker’s Perspective",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-07-16T23:00:00+00:00",
+    "fetched_at": "2026-07-16T23:10:57+00:00",
+    "summary": "Speech At the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California",
+    "matched_keywords": [
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1ea801587c208087e2b9"
   },
   {
     "title": "Sovereign alpha: An investment thesis for a scarcer world",

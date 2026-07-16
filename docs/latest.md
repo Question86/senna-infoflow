@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T22:49:05+00:00_
+_Generiert: 2026-07-16T23:11:25+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+88 neue relevante Treffer. Stärkstes Signal: „Prompting guidance for GPT-5.6 Sol | OpenAI API“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Prompting guidance for GPT-5.6 Sol | OpenAI API** — Score 23, observation — [Quelle](https://developers.openai.com/api/docs/guides/prompt-guidance-gpt-5p6)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-11T03:01:25+00:00`, fetched `2026-07-16T23:10:57+00:00`
+  - Treffer: Content-Chance, developer, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Example workflows and tasks teams can take on with ChatGPT or Codex
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0935)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-16T11:31:59+00:00`, fetched `2026-07-16T11:37:47+00:00`
@@ -138,18 +147,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90340653/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-16T13:30:15+09:00`, fetched `2026-07-16T05:26:28+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **Jefferson, Navigating Economic Shocks: A Monetary Policymaker’s Perspective** — Score 13, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-07-16T23:00:00+00:00`, fetched `2026-07-16T23:10:57+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sovereign alpha: An investment thesis for a scarcer world** — Score 13, observation — [Quelle](https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-16T03:00:23+00:00`, fetched `2026-07-16T03:18:46+00:00`
@@ -276,21 +285,12 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-16T07:38:00.000+00:00`, fetched `2026-07-16T07:51:37+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Zoom hat mehrere Sicherheitslücken in der Webkonferenzsoftware geschlossen. Sie ermöglichen etwa Kontoübernahme aus dem Netz.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
