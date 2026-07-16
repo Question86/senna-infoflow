@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-16T06:52:10Z",
+  "generated_at": "2026-07-16T07:39:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 26,
     "bands": {
-      "krass": 1,
-      "strong": 5,
+      "krass": 2,
+      "strong": 6,
       "watch": 3,
       "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 6,
+      "strong": 8,
       "watch": 3,
       "quiet": 15
     }
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU90340653/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:15+09:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU98998987/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/jp/JVN65294474/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T12:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security",
         "macro"
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU95286373/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:23+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security",
         "macro"
@@ -143,11 +143,36 @@
       "summary": "Software is no longer the primary driver of alpha; physical sovereignty is. Market value is shifting from “software-only” models to “control points” where technology meets physical security and national resilience. In this new operating environment, capital is moving away from pure digital scalability and toward the “…"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-16T06:21:39+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Azure Komponenten ausnutzen, um seine Privilegien zu erhöhen und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 27.2,
+      "age_days": 27.24,
       "topics": [
         "ai"
       ],
@@ -172,11 +197,37 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-16T06:46:39+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen."
+    },
+    {
       "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T00:23:18.349+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -200,7 +251,7 @@
       "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:30:11+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -225,7 +276,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T22:40:47+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -251,7 +302,7 @@
       "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T02:43:03+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -278,7 +329,7 @@
       "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:17+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -303,7 +354,7 @@
       "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:51:49+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -330,7 +381,7 @@
       "url": "https://www.digital.go.jp/procurement/improvement_plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-16T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -354,7 +405,7 @@
       "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:00:44+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -378,7 +429,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T01:40:40+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -402,7 +453,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:55:32+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -426,7 +477,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:45:30+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -450,7 +501,7 @@
       "url": "https://togetter.com/li/2721001",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:09:51+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -476,7 +527,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.17,
+      "age_days": 26.2,
       "topics": [
         "general"
       ],
@@ -492,7 +543,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.1 for 26.2d old signal"
+        "aging penalty -12.2 for 26.2d old signal"
       ],
       "summary": ""
     },
@@ -501,7 +552,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.17,
+      "age_days": 26.2,
       "topics": [
         "general"
       ],
@@ -517,7 +568,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.1 for 26.2d old signal"
+        "aging penalty -12.2 for 26.2d old signal"
       ],
       "summary": ""
     },
@@ -526,7 +577,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.17,
+      "age_days": 26.2,
       "topics": [
         "ai"
       ],
@@ -543,7 +594,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -12.1 for 26.2d old signal",
+        "aging penalty -12.2 for 26.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -553,7 +604,7 @@
       "url": "https://techblog.zozo.com/entry/rethinking-ai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T02:08:08+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -578,7 +629,7 @@
       "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:15:27+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -604,7 +655,7 @@
       "url": "https://e27.co/the-new-travel-bottleneck-is-not-booking-its-staying-operational-on-the-move-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T02:50:15+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
