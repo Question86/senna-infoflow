@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-16T03:19:14+00:00",
+  "generated_at": "2026-07-16T04:26:42+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 2,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 7,
-    "observe": 8
+    "observe": 10
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,26 @@
       "section": "observe"
     },
     {
+      "title": "Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-16T03:51:49+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/",
+      "summary": "Bitcoin recently outperformed both United States and European equities following the United States Consumer Price Index inflation report on Tuesday. This decisive move marks a strong recovery after weeks of trading sideways near recent lows. This price action…",
+      "section": "observe"
+    },
+    {
+      "title": "AIによる工数削減を計測して見えた結果と考察 - ZOZO TECH BLOG",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T02:08:08+00:00",
+      "relevance_score": 8,
+      "url": "https://techblog.zozo.com/entry/rethinking-ai",
+      "summary": "はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 以前、テックブログで工数やAI活用による工数削減を計測する仕組みを、タスク管理ツールのG...",
+      "section": "observe"
+    },
+    {
       "title": "Your customers are not buying your product, they are buying a better version of themselves",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -73,26 +93,6 @@
       "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
       "summary": "As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executive…",
       "section": "observe"
-    },
-    {
-      "title": "Burnout isn’t just personal, it’s becoming an operations problem",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-16T01:00:44+00:00",
-      "relevance_score": 6,
-      "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
-      "summary": "For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long…",
-      "section": "observe"
-    },
-    {
-      "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-16T01:40:40+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
-      "summary": "関連記事 全国のJR券売機で一時障害 「えきねっと」などWebも 基幹システム「マルス」不具合で JRグル－プでは、JR東日本の「モバイルSuica」でも同日に障害が起きているが、MARSとモバイルSuicaの障害は「無関係」という。 モバイルSuica障害「チャージできない」「アプリから消えた」……JR東がメンテナンス メンテナ...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Sovereign alpha: An investment thesis for a scarcer world” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=30.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Sovereign alpha: An investment thesis for a scarcer world",
-        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T03:00:23+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Software is no longer the primary driver of alpha; physical sovereignty is. Market value is shifting from “software-only” models to “control points” where technology meets physical security and national resilience. In this new operating environment, capital is moving away from pure digital scalability and toward the “…"
-      },
-      {
-        "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN65294474/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T12:00:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "TeraTerm Projectが提供するTera TermのTTSSH2プラグインには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
-        "url": "https://jvn.jp/vu/JVNVU95286373/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T09:30:00+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, cve, security"
-        ],
-        "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-59083、CVE-2026-59084）に対してアドバイザリが公開されました。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 27.08,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -2.1 for 27.1d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-16T00:23:18.349+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake"
-        ],
-        "summary": "DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)"
-      }
-    ]
-  }
+  ]
 }

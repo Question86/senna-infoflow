@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T03:19:14+00:00_
+_Generated: 2026-07-16T04:26:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `17`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-07-16T03:19:14+00:00_
 - url: https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/
 - summary: Software is no longer the primary driver of alpha; physical sovereignty is. Market value is shifting from “software-only” models to “control points” where technology meets physical security and national resilience. In this new operating environment, capital i…
 
-### 6. Your customers are not buying your product, they are buying a better version of themselves
+### 6. Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-07-16T03:51:49+00:00`
+- url: https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/
+- summary: Bitcoin recently outperformed both United States and European equities following the United States Consumer Price Index inflation report on Tuesday. This decisive move marks a strong recovery after weeks of trading sideways near recent lows. This price action…
+
+### 7. AIによる工数削減を計測して見えた結果と考察 - ZOZO TECH BLOG
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-07-16T02:08:08+00:00`
+- url: https://techblog.zozo.com/entry/rethinking-ai
+- summary: はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 以前、テックブログで工数やAI活用による工数削減を計測する仕組みを、タスク管理ツールのG...
+
+### 8. Your customers are not buying your product, they are buying a better version of themselves
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
 - published: `2026-07-16T01:15:27+00:00`
 - url: https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/
 - summary: As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executive…
-
-### 7. Burnout isn’t just personal, it’s becoming an operations problem
-- source: e27 Asia Startup and Tech Feed
-- score: `6`
-- published: `2026-07-16T01:00:44+00:00`
-- url: https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/
-- summary: For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long…
-
-### 8. クレカ障害、全国で発生か 「カード払いできない」報告多数
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-07-16T01:40:40+00:00`
-- url: https://www.itmedia.co.jp/news/articles/2607/16/news064.html
-- summary: 関連記事 全国のJR券売機で一時障害 「えきねっと」などWebも 基幹システム「マルス」不具合で JRグル－プでは、JR東日本の「モバイルSuica」でも同日に障害が起きているが、MARSとモバイルSuicaの障害は「無関係」という。 モバイルSuica障害「チャージできない」「アプリから消えた」……JR東がメンテナンス メンテナ...
 
 END OF DOCUMENT

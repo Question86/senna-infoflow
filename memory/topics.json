@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T03:19:14+00:00",
+  "generated_at": "2026-07-16T04:26:42+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,20 @@
         "published_at": "2026-07-16T03:00:23+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
+      },
+      {
+        "title": "Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:51:49+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
+      },
+      {
+        "title": "AIによる工数削減を計測して見えた結果と考察 - ZOZO TECH BLOG",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T02:08:08+00:00",
+        "relevance_score": 8,
+        "url": "https://techblog.zozo.com/entry/rethinking-ai"
       },
       {
         "title": "Your customers are not buying your product, they are buying a better version of themselves",
@@ -77,6 +91,13 @@
         "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
       },
       {
+        "title": "Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:51:49+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
+      },
+      {
         "title": "Burnout isn’t just personal, it’s becoming an operations problem",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-16T01:00:44+00:00",
@@ -91,6 +112,13 @@
         "published_at": "2026-07-16T01:30:11+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/"
+      },
+      {
+        "title": "Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:51:49+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
       }
     ],
     "economy": [
@@ -114,6 +142,13 @@
         "published_at": "2026-07-16T03:00:23+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
+      },
+      {
+        "title": "Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:51:49+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
       },
       {
         "title": "Your customers are not buying your product, they are buying a better version of themselves",
