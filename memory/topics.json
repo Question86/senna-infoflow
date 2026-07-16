@@ -1,15 +1,56 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T00:05:49+00:00",
+  "generated_at": "2026-07-16T00:49:32+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T22:40:47+00:00",
+        "relevance_score": 16,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html"
+      },
       {
         "title": "最近やたらと「壁打ち」って言葉を使いたがる自信過剰気味の若手がいるけど、「相手に意見を求める場合」に使うのは極めて失礼→「壁打ち」の用法をめぐり意見さまざま",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-15T21:09:51+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2721001"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-16T00:23:18.349+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf"
+      },
+      {
+        "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T21:45:30+00:00",
+        "relevance_score": 5,
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032"
+      }
+    ],
+    "security": [
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T09:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95286373/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T09:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95286373/"
       }
     ]
   }
