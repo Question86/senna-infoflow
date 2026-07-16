@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T23:41:08+00:00",
+  "generated_at": "2026-07-16T00:05:52+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - south of the Fiji Islands",
-        "summary": "M5.8 - south of the Fiji Islands. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6",
-        "published_at": "2026-07-15T22:57:11+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "green",
-          "sig": 518.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
