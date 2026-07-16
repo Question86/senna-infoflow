@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:52:13+00:00",
+  "generated_at": "2026-07-16T08:40:06+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552150",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Volcanic eruption is on going for Mayon in Philippines",
         "summary": "Volcanic eruption is on going for Mayon in Philippines",
         "source": "GDACS",
@@ -131,6 +141,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - Volcano Islands, Japan region",
+        "summary": "M5.5 - Volcano Islands, Japan region. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0",
+        "published_at": "2026-07-16T07:49:09+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

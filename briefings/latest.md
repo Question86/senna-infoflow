@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T07:52:09+00:00_
+_Generiert: 2026-07-16T08:40:04+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+26 neue relevante Treffer. Stärkstes Signal: „M 5.5 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-07-16T07:52:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552150)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].
 - **GDACS: Volcanic eruption is on going for Mayon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000144)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,6 +61,10 @@ _Generiert: 2026-07-16T07:52:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.
+- **USGS earthquake M5.5 - Volcano Islands, Japan region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0)
+  - Quelle: USGS
+  - Zeit: `2026-07-16T07:49:09+00:00`
+  - Kurz: M5.5 - Volcano Islands, Japan region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -73,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.5 - Volcano Islands, Japan region** — Score 22, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-16T08:16:58.416+00:00`, fetched `2026-07-16T08:39:35+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami, Watchgraph:volcano_aviation
+  - Watchgraph: earthquakes_tsunami, volcano_aviation
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, DIS, CMCSA
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-07-16 07:49:09 UTC 2026-07-16 07:49:09 UTC at epicenter Location 22.859°N 144.391°E Depth 12.81 km (7.96 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-16T06:46:39+00:00`, fetched `2026-07-16T07:08:59+00:00`
@@ -211,6 +228,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executives: “We don’t sell shoes. We sell the feeling of […] The post Your customers are not buying your product, they are buying a better version of themselves appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/trust)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-16T08:01:33+00:00`, fetched `2026-07-16T08:39:35+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/improvement_plan)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-16T06:00:00+00:00`, fetched `2026-07-16T06:16:09+00:00`
@@ -241,8 +267,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

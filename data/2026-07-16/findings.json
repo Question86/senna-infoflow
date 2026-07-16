@@ -1,5 +1,56 @@
 [
   {
+    "title": "M 5.5 - Volcano Islands, Japan region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-16T08:16:58.416+00:00",
+    "fetched_at": "2026-07-16T08:39:35+00:00",
+    "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-16 07:49:09 UTC 2026-07-16 07:49:09 UTC at epicenter Location 22.859°N 144.391°E Depth 12.81 km (7.96 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami",
+      "Watchgraph:volcano_aviation"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami",
+      "volcano_aviation"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap",
+      "volcano_aviation: volcano"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "DIS",
+      "CMCSA",
+      "TKO",
+      "FWONK",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "AAL"
+    ],
+    "id": "d59a7a58013f8d69b7ea"
+  },
+  {
     "title": "[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589",
     "source": "BSI CERT-Bund Security Advisories",
@@ -421,6 +472,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "844afa0501ca85a3107e"
+  },
+  {
+    "title": "デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました",
+    "url": "https://www.digital.go.jp/policies/trust",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-16T08:01:33+00:00",
+    "fetched_at": "2026-07-16T08:39:35+00:00",
+    "summary": "デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "739112a08cd744e5d39f"
   },
   {
     "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",

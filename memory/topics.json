@@ -1,8 +1,59 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T07:52:09+00:00",
+  "generated_at": "2026-07-16T08:40:04+00:00",
   "topics": {
+    "general": [
+      {
+        "title": "M 5.5 - Volcano Islands, Japan region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-16T08:16:58.416+00:00",
+        "relevance_score": 22,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0"
+      },
+      {
+        "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-16T00:23:18.349+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf"
+      },
+      {
+        "title": "デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-16T08:01:33+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/trust"
+      },
+      {
+        "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-16T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/procurement/improvement_plan"
+      },
+      {
+        "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T01:40:40+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html"
+      },
+      {
+        "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T21:55:32+00:00",
+        "relevance_score": 5,
+        "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html"
+      },
+      {
+        "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T21:45:30+00:00",
+        "relevance_score": 5,
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032"
+      }
+    ],
     "security": [
       {
         "title": "[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -228,43 +279,6 @@
         "published_at": "2026-07-16T01:15:27+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/"
-      }
-    ],
-    "general": [
-      {
-        "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-16T00:23:18.349+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf"
-      },
-      {
-        "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-16T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/procurement/improvement_plan"
-      },
-      {
-        "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-16T01:40:40+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html"
-      },
-      {
-        "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T21:55:32+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html"
-      },
-      {
-        "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T21:45:30+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032"
       }
     ]
   }

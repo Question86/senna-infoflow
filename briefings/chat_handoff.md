@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T07:52:09+00:00_
+_Generated: 2026-07-16T08:40:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `26`
 
 ## Top Signals
 
-### 1. [UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen
+### 1. M 5.5 - Volcano Islands, Japan region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `22`
+- published: `2026-07-16T08:16:58.416+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0
+- summary: PAGER - GREEN ShakeMap - I Time 2026-07-16 07:49:09 UTC 2026-07-16 07:49:09 UTC at epicenter Location 22.859°N 144.391°E Depth 12.81 km (7.96 mi)
+
+### 2. [UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-07-16T06:46:39+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
 
-### 2. [UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen
+### 3. [UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-16T06:21:39+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321
 - summary: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Azure Komponenten ausnutzen, um seine Privilegien zu erhöhen und um einen Denial of Service Angriff durchzuführen.
 
-### 3. 163,000 workers, 37% training: Malaysia’s AI skills gap in focus
+### 4. 163,000 workers, 37% training: Malaysia’s AI skills gap in focus
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-07-16T03:00:17+00:00`
 - url: https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/
 - summary: A government-commissioned study found that 24 per cent of Global Business Services roles in Malaysia are highly impacted by AI and 65 per cent are medium impacted. Nearly nine in ten GBS jobs are changing in some material way within the next three to five yea…
-
-### 4. Deepfake fraud losses hit US$3.7B as scams spread beyond social media
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-07-16T01:30:11+00:00`
-- url: https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/
-- summary: Deepfake fraud is no longer a fringe cybercrime problem built around crude celebrity videos or novelty face swaps. New data tracking publicly reported incidents from January 2020 to June 2026 shows recorded global losses have reached US$3.7 billion, with the…
 
 ### 5. Sovereign alpha: An investment thesis for a scarcer world
 - source: e27 Asia Startup and Tech Feed
