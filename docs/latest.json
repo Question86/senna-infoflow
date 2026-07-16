@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-16T22:03:38+00:00",
-  "run_id": "2026-07-16T22:03:38+00:00",
+  "generated_at": "2026-07-16T22:27:44+00:00",
+  "run_id": "2026-07-16T22:27:44+00:00",
   "date": "2026-07-16",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 7,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 36,
-    "observe": 43,
-    "source_errors": 0
+    "medium": 37,
+    "observe": 49,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -418,6 +418,43 @@
           "PINS"
         ],
         "id": "0c499badf87040fb578a"
+      },
+      {
+        "title": "M 5.2 - 48 km E of Nishinoomote, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-16T22:07:42.040+00:00",
+        "fetched_at": "2026-07-16T22:27:13+00:00",
+        "summary": "Time 2026-07-16 21:49:42 UTC 2026-07-16 21:49:42 UTC at epicenter Location 30.763°N 131.510°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "371f37fcf7045ca2e3df"
       },
       {
         "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
@@ -1182,6 +1219,42 @@
       },
       {
         "title": "M 5.0 - southern Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15z",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-16T22:21:41.040+00:00",
+        "fetched_at": "2026-07-16T22:27:13+00:00",
+        "summary": "Time 2026-07-16 21:53:58 UTC 2026-07-16 21:53:58 UTC at epicenter Location 12.787°S 15.090°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7ddf312a64591c2ea9c7"
+      },
+      {
+        "title": "M 5.0 - southern Mid-Atlantic Ridge",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15b",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "source_type": "rss",
@@ -1590,6 +1663,27 @@
         "id": "4759a6a97447f20745b8"
       },
       {
+        "title": "「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任",
+        "url": "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-16T12:28:29+00:00",
+        "fetched_at": "2026-07-16T22:27:13+00:00",
+        "summary": "「金属有機構造体(Metal-Organic Frameworks、MOF)」を開発した功績で、2025年にノーベル化学賞を北川進氏やリチャード・ロブソン氏とともに受賞したオマー・ヤギー氏がアメリカを離れ、中国のAI材料研究所の所長に就任することが明らかになりました。この動きは、ドナルド・トランプ大統領による科学予算の削減と、中国...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7babc58189fb27f0454f"
+      },
+      {
         "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
         "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html",
         "source": "heise Security Alerts",
@@ -1692,6 +1786,48 @@
         "id": "55770686827c10ca23e2"
       },
       {
+        "title": "Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当",
+        "url": "https://gigazine.net/news/20260716-firefox-in-webassembly/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-16T15:12:14+00:00",
+        "fetched_at": "2026-07-16T22:27:13+00:00",
+        "summary": "ウェブブラウザのタブ内でMozilla Firefoxを丸ごと起動できる「Firefox in WebAssembly」をPuter Labsが公開しました。外観だけを再現したFirefox風の画面ではなく、ウェブページを描画するGeckoやJavaScriptを実行するSpiderMonkeyまでWebAssemblyとして動作します。開発にはAIが大量に使われ、開発に費やしたトークン...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7ce3f7f8999df00016ca"
+      },
+      {
+        "title": "Appleの製品保証サービス「AppleCare＋」が値上げされるとの報道",
+        "url": "https://gigazine.net/news/20260716-apple-boosts-applecare-plus-prices/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-16T11:49:07+00:00",
+        "fetched_at": "2026-07-16T22:27:13+00:00",
+        "summary": "Apple製品が故障した際に迅速な修理サービスを利用できるようになる製品保証サービスのAppleCare＋が値上げされると、Bloombergが報じています。 Apple Boosts AppleCare+ Monthly Prices by 50 Cents in Latest Increase - Bloomberg https://www.bloomberg.com/news/articles/2026-07-15/apple-boosts-applecare-month...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c328d18572492520f411"
+      },
+      {
         "title": "The problem AI content moderation cannot solve",
         "url": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -1710,6 +1846,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "94bddc3ab3a26e614836"
+      },
+      {
+        "title": "JavaScriptの日付処理が変わる！ DateからTemporalへ - ICS MEDIA",
+        "url": "https://ics.media/entry/260715/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-16T09:45:14+00:00",
+        "fetched_at": "2026-07-16T22:27:13+00:00",
+        "summary": "JavaScriptで日付を扱ったことのある方なら、「3月のつもりでnew Date(2026, 3, 15)と書いたら4月になっていた」という経験が一度はあるのではないでしょうか。月だけが0始まりであることはDateクラスの仕様の一例ですが、そのほかにも、日付の計算やフォーマット、タイムゾーンの処理には手間がかかります。そうした扱...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "54909a23de5148834fe2"
       },
       {
         "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく",
@@ -1981,6 +2138,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "21e2870344db859e7407"
+      },
+      {
+        "title": "Advanced search for Projects is generally available",
+        "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-16T19:07:14+00:00",
+        "fetched_at": "2026-07-16T22:27:13+00:00",
+        "summary": "The filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate… The post Advanced search for Projects is generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "549c521d5707276b44df"
       },
       {
         "title": "Repository admins can archive pull requests",
@@ -2434,6 +2611,43 @@
         "PINS"
       ],
       "id": "0c499badf87040fb578a"
+    },
+    {
+      "title": "M 5.2 - 48 km E of Nishinoomote, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-16T22:07:42.040+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "Time 2026-07-16 21:49:42 UTC 2026-07-16 21:49:42 UTC at epicenter Location 30.763°N 131.510°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "371f37fcf7045ca2e3df"
     },
     {
       "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
@@ -3196,6 +3410,42 @@
     },
     {
       "title": "M 5.0 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15z",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-16T22:21:41.040+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "Time 2026-07-16 21:53:58 UTC 2026-07-16 21:53:58 UTC at epicenter Location 12.787°S 15.090°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7ddf312a64591c2ea9c7"
+    },
+    {
+      "title": "M 5.0 - southern Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -3604,6 +3854,27 @@
       "id": "4759a6a97447f20745b8"
     },
     {
+      "title": "「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任",
+      "url": "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T12:28:29+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "「金属有機構造体(Metal-Organic Frameworks、MOF)」を開発した功績で、2025年にノーベル化学賞を北川進氏やリチャード・ロブソン氏とともに受賞したオマー・ヤギー氏がアメリカを離れ、中国のAI材料研究所の所長に就任することが明らかになりました。この動きは、ドナルド・トランプ大統領による科学予算の削減と、中国...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7babc58189fb27f0454f"
+    },
+    {
       "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
       "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html",
       "source": "heise Security Alerts",
@@ -3706,6 +3977,48 @@
       "id": "55770686827c10ca23e2"
     },
     {
+      "title": "Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当",
+      "url": "https://gigazine.net/news/20260716-firefox-in-webassembly/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T15:12:14+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "ウェブブラウザのタブ内でMozilla Firefoxを丸ごと起動できる「Firefox in WebAssembly」をPuter Labsが公開しました。外観だけを再現したFirefox風の画面ではなく、ウェブページを描画するGeckoやJavaScriptを実行するSpiderMonkeyまでWebAssemblyとして動作します。開発にはAIが大量に使われ、開発に費やしたトークン...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ce3f7f8999df00016ca"
+    },
+    {
+      "title": "Appleの製品保証サービス「AppleCare＋」が値上げされるとの報道",
+      "url": "https://gigazine.net/news/20260716-apple-boosts-applecare-plus-prices/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T11:49:07+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "Apple製品が故障した際に迅速な修理サービスを利用できるようになる製品保証サービスのAppleCare＋が値上げされると、Bloombergが報じています。 Apple Boosts AppleCare+ Monthly Prices by 50 Cents in Latest Increase - Bloomberg https://www.bloomberg.com/news/articles/2026-07-15/apple-boosts-applecare-month...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c328d18572492520f411"
+    },
+    {
       "title": "The problem AI content moderation cannot solve",
       "url": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3724,6 +4037,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "94bddc3ab3a26e614836"
+    },
+    {
+      "title": "JavaScriptの日付処理が変わる！ DateからTemporalへ - ICS MEDIA",
+      "url": "https://ics.media/entry/260715/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T09:45:14+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "JavaScriptで日付を扱ったことのある方なら、「3月のつもりでnew Date(2026, 3, 15)と書いたら4月になっていた」という経験が一度はあるのではないでしょうか。月だけが0始まりであることはDateクラスの仕様の一例ですが、そのほかにも、日付の計算やフォーマット、タイムゾーンの処理には手間がかかります。そうした扱...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54909a23de5148834fe2"
     },
     {
       "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく",
@@ -3997,6 +4331,26 @@
       "id": "21e2870344db859e7407"
     },
     {
+      "title": "Advanced search for Projects is generally available",
+      "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-16T19:07:14+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "The filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate… The post Advanced search for Projects is generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "549c521d5707276b44df"
+    },
+    {
       "title": "Repository admins can archive pull requests",
       "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
       "source": "GitHub Changelog Atom",
@@ -4057,8 +4411,193 @@
       "id": "a9d9523bf9ccb823c24c"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "M 5.2 - 48 km E of Nishinoomote, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-16T22:07:42.040+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "Time 2026-07-16 21:49:42 UTC 2026-07-16 21:49:42 UTC at epicenter Location 30.763°N 131.510°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "371f37fcf7045ca2e3df"
+    },
+    {
+      "title": "M 5.0 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15z",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-16T22:21:41.040+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "Time 2026-07-16 21:53:58 UTC 2026-07-16 21:53:58 UTC at epicenter Location 12.787°S 15.090°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7ddf312a64591c2ea9c7"
+    },
+    {
+      "title": "「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任",
+      "url": "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T12:28:29+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "「金属有機構造体(Metal-Organic Frameworks、MOF)」を開発した功績で、2025年にノーベル化学賞を北川進氏やリチャード・ロブソン氏とともに受賞したオマー・ヤギー氏がアメリカを離れ、中国のAI材料研究所の所長に就任することが明らかになりました。この動きは、ドナルド・トランプ大統領による科学予算の削減と、中国...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7babc58189fb27f0454f"
+    },
+    {
+      "title": "Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当",
+      "url": "https://gigazine.net/news/20260716-firefox-in-webassembly/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T15:12:14+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "ウェブブラウザのタブ内でMozilla Firefoxを丸ごと起動できる「Firefox in WebAssembly」をPuter Labsが公開しました。外観だけを再現したFirefox風の画面ではなく、ウェブページを描画するGeckoやJavaScriptを実行するSpiderMonkeyまでWebAssemblyとして動作します。開発にはAIが大量に使われ、開発に費やしたトークン...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ce3f7f8999df00016ca"
+    },
+    {
+      "title": "Appleの製品保証サービス「AppleCare＋」が値上げされるとの報道",
+      "url": "https://gigazine.net/news/20260716-apple-boosts-applecare-plus-prices/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T11:49:07+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "Apple製品が故障した際に迅速な修理サービスを利用できるようになる製品保証サービスのAppleCare＋が値上げされると、Bloombergが報じています。 Apple Boosts AppleCare+ Monthly Prices by 50 Cents in Latest Increase - Bloomberg https://www.bloomberg.com/news/articles/2026-07-15/apple-boosts-applecare-month...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c328d18572492520f411"
+    },
+    {
+      "title": "JavaScriptの日付処理が変わる！ DateからTemporalへ - ICS MEDIA",
+      "url": "https://ics.media/entry/260715/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T09:45:14+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "JavaScriptで日付を扱ったことのある方なら、「3月のつもりでnew Date(2026, 3, 15)と書いたら4月になっていた」という経験が一度はあるのではないでしょうか。月だけが0始まりであることはDateクラスの仕様の一例ですが、そのほかにも、日付の計算やフォーマット、タイムゾーンの処理には手間がかかります。そうした扱...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54909a23de5148834fe2"
+    },
+    {
+      "title": "Advanced search for Projects is generally available",
+      "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-16T19:07:14+00:00",
+      "fetched_at": "2026-07-16T22:27:13+00:00",
+      "summary": "The filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate… The post Advanced search for Projects is generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "549c521d5707276b44df"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "github_search_japan_twitter_trend_rss_tools",
+      "source_name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
+      "source_type": "github_search",
+      "error": "503 Server Error: Service Unavailable for url: https://api.github.com/search/repositories?q=twitter+trend+rss+japan+pushed%3A%3E2025-01-01+stars%3A%3E5&sort=updated&order=desc&per_page=6"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

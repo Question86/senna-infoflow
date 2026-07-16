@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-07-16T22:03:38+00:00",
-  "status": "normal",
+  "generated_at": "2026-07-16T22:27:44+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 7,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 36,
-    "observe": 43,
-    "source_errors": 0
+    "medium": 37,
+    "observe": 49,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "github_search_japan_twitter_trend_rss_tools",
+      "source_name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
+      "source_type": "github_search",
+      "error": "503 Server Error: Service Unavailable for url: https://api.github.com/search/repositories?q=twitter+trend+rss+japan+pushed%3A%3E2025-01-01+stars%3A%3E5&sort=updated&order=desc&per_page=6"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

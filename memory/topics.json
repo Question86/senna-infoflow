@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T22:03:38+00:00",
+  "generated_at": "2026-07-16T22:27:44+00:00",
   "topics": {
     "security": [
       {
@@ -84,6 +84,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0"
       },
       {
+        "title": "M 5.2 - 48 km E of Nishinoomote, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-16T22:07:42.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t"
+      },
+      {
         "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-16T00:23:18.349+00:00",
@@ -96,6 +103,13 @@
         "published_at": "2026-07-16T12:05:18.329+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
+      },
+      {
+        "title": "M 5.0 - southern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-16T22:21:41.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15z"
       },
       {
         "title": "M 5.0 - southern Mid-Atlantic Ridge",
@@ -131,20 +145,6 @@
         "published_at": "2026-07-16T20:16:25.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14l"
-      },
-      {
-        "title": "M 4.6 - 109 km ESE of Kokopo, Papua New Guinea",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-16T18:07:28.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t12v"
-      },
-      {
-        "title": "M 4.5 - 189 km W of Neiafu, Tonga",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-16T14:12:40.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0yi"
       }
     ],
     "ai": [
@@ -307,6 +307,13 @@
         "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
       },
       {
+        "title": "Advanced search for Projects is generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-16T19:07:14+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available"
+      },
+      {
         "title": "Repository admins can archive pull requests",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-07-16T19:01:09+00:00",
@@ -384,6 +391,13 @@
         "published_at": "2026-07-16T10:00:37+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/startupbootcamps-first-singapore-sustainability-cohort-moves-beyond-generic-climate-tech-20260714/"
+      },
+      {
+        "title": "Advanced search for Projects is generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-16T19:07:14+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available"
       }
     ]
   }
