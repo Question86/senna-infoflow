@@ -75,6 +75,30 @@
     "id": "79de19a1a3df8b990691"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-pillow): Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T10:10:27+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux bzgl. python-pillow ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36f870fe4943b72de453"
+  },
+  {
     "title": "[UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321",
     "source": "BSI CERT-Bund Security Advisories",
@@ -325,6 +349,98 @@
     "id": "16c7d810cd844ac4e9dc"
   },
   {
+    "title": "[UPDATE] [mittel] Perl: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2309",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T10:10:27+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b0c847cfda57026853e8"
+  },
+  {
+    "title": "[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1514",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T10:10:27+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand herbeizuführen oder andere, nicht spezifizierte bezeichnete Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e96e8fc5ecb0c7aaad85"
+  },
+  {
+    "title": "[UPDATE] [mittel] wget: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2278",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T10:10:26+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in wget ausnutzen, um Sicherheitsvorkehrungen zu umgehen und einen serverseitigen Request-Forgery-Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "93763404df783ed114fc"
+  },
+  {
+    "title": "[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1478",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T10:10:25+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um Informationen offenzulegen, um einen Denial-of-Service-Angriff durchzuführen, um Daten zu beschädigen oder beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e68deb9b6a222b846ae2"
+  },
+  {
     "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
     "url": "https://jvn.jp/vu/JVNVU95286373/",
     "source": "JVN Japan Vulnerability Notes",
@@ -535,6 +651,47 @@
     "id": "55770686827c10ca23e2"
   },
   {
+    "title": "The problem AI content moderation cannot solve",
+    "url": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T10:00:00+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "Meta and other big tech companies are increasingly using AI for content moderation, but as the backlash to Muse Image shows, it cannot protect users because it does not account for consent.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "94bddc3ab3a26e614836"
+  },
+  {
+    "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news096.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-16T09:10:39+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "ITmedia NEWS読者調査 当社では企業のビジネストレンドを明らかにするために読者調査を行っております。ご回答いただきました方の中から抽選で5名の方にAmazonギフトカード（3000円分）をプレゼント。何卒ご協力お願い致します。回答はこちらから！ 【追記：2026年7月16日午後6時30分】VPC Originsに関するステータスサ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "28bf348626e8b9a9026f"
+  },
+  {
     "title": "朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
     "url": "https://www.itmedia.co.jp/news/articles/2607/16/news084.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -659,6 +816,47 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7e8fa5e258d71ad63c52"
+  },
+  {
+    "title": "Startupbootcamp’s first Singapore sustainability cohort moves beyond generic climate tech",
+    "url": "https://e27.co/startupbootcamps-first-singapore-sustainability-cohort-moves-beyond-generic-climate-tech-20260714/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T10:00:37+00:00",
+    "fetched_at": "2026-07-16T10:16:46+00:00",
+    "summary": "Startupbootcamp has graduated the first cohort of its Sustainability Singapore accelerator, backing nine pre-seed startups working across food and agritech, alternative finance, and trade and logistics. The cohort pitched to investors, corporate partners and government agencies at a Demo Day held at Temasek Shophouse in Singapore, following a 12-week programme run through SBC Sustainability Singapore, […] The post S…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules sports_sf_tech_events (+3.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: demo day"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "3d71e745142aa24d9e61"
   },
   {
     "title": "The new travel bottleneck is not booking, it’s staying operational on the move",

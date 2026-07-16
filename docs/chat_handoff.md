@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T09:28:36+00:00_
+_Generated: 2026-07-16T10:17:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `35`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-16T09:28:36+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
 
-### 3. [UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (python-pillow): Mehrere Schwachstellen ermöglichen Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-16T10:10:27+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux bzgl. python-pillow ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 4. [UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-16T06:21:39+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321
 - summary: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Azure Komponenten ausnutzen, um seine Privilegien zu erhöhen und um einen Denial of Service Angriff durchzuführen.
-
-### 4. 163,000 workers, 37% training: Malaysia’s AI skills gap in focus
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-07-16T03:00:17+00:00`
-- url: https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/
-- summary: A government-commissioned study found that 24 per cent of Global Business Services roles in Malaysia are highly impacted by AI and 65 per cent are medium impacted. Nearly nine in ten GBS jobs are changing in some material way within the next three to five yea…
 
 ### 5. Sovereign alpha: An investment thesis for a scarcer world
 - source: e27 Asia Startup and Tech Feed

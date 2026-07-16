@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T09:28:36+00:00",
+  "generated_at": "2026-07-16T10:17:15+00:00",
   "topics": {
     "general": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-07-16T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/procurement/improvement_plan"
+      },
+      {
+        "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T09:10:39+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news096.html"
       },
       {
         "title": "朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
@@ -70,6 +77,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-pillow): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T10:10:27+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301"
+      },
+      {
         "title": "[UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-16T06:21:39+00:00",
@@ -98,25 +112,32 @@
         "url": "https://jvn.jp/jp/JVN65294474/"
       },
       {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T09:30:00+09:00",
+        "title": "[UPDATE] [mittel] Perl: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T10:10:27+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95286373/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2309"
       },
       {
-        "title": "Sovereign alpha: An investment thesis for a scarcer world",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T03:00:23+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
+        "title": "[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T10:10:27+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1514"
       },
       {
-        "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-16T07:38:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html"
+        "title": "[UPDATE] [mittel] wget: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T10:10:26+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2278"
+      },
+      {
+        "title": "[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-16T10:10:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1478"
       }
     ],
     "ai": [
@@ -177,18 +198,18 @@
         "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/"
       },
       {
+        "title": "The problem AI content moderation cannot solve",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-16T10:00:00+00:00",
+        "relevance_score": 5,
+        "url": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "最近やたらと「壁打ち」って言葉を使いたがる自信過剰気味の若手がいるけど、「相手に意見を求める場合」に使うのは極めて失礼→「壁打ち」の用法をめぐり意見さまざま",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-15T21:09:51+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2721001"
-      },
-      {
-        "title": "AIネイティブな組織を問い直す",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T20:08:26+00:00",
-        "relevance_score": 5,
-        "url": "https://speakerdeck.com/smiyawaki0820/aineiteibunazu-zhi-wowen-izhi-su"
       }
     ],
     "geopolitics": [
@@ -233,6 +254,13 @@
         "published_at": "2026-07-16T01:00:44+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/"
+      },
+      {
+        "title": "Startupbootcamp’s first Singapore sustainability cohort moves beyond generic climate tech",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T10:00:37+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/startupbootcamps-first-singapore-sustainability-cohort-moves-beyond-generic-climate-tech-20260714/"
       }
     ],
     "github": [
@@ -286,6 +314,13 @@
         "published_at": "2026-07-16T01:15:27+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/"
+      },
+      {
+        "title": "Startupbootcamp’s first Singapore sustainability cohort moves beyond generic climate tech",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T10:00:37+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/startupbootcamps-first-singapore-sustainability-cohort-moves-beyond-generic-climate-tech-20260714/"
       }
     ]
   }

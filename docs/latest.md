@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T09:28:36+00:00_
+_Generiert: 2026-07-16T10:17:15+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „M 5.5 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 22, risk).
+35 neue relevante Treffer. Stärkstes Signal: „M 5.5 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (python-pillow): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-16T10:10:27+00:00`, fetched `2026-07-16T10:16:46+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux bzgl. python-pillow ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -177,6 +186,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The problem AI content moderation cannot solve** — Score 5, observation — [Quelle](https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-16T10:00:00+00:00`, fetched `2026-07-16T10:16:46+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0)
+  - Kurz: Meta and other big tech companies are increasingly using AI for content moderation, but as the backlash to Muse Image shows, it cannot protect users because it does not account for consent.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news096.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-16T09:10:39+00:00`, fetched `2026-07-16T10:16:46+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ITmedia NEWS読者調査 当社では企業のビジネストレンドを明らかにするために読者調査を行っております。ご回答いただきました方の中から抽選で5名の方にAmazonギフトカード（3000円分）をプレゼント。何卒ご協力お願い致します。回答はこちらから！ 【追記：2026年7月16日午後6時30分】VPC Originsに関するステータスサ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news084.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-16T06:49:55+00:00`, fetched `2026-07-16T09:28:04+00:00`
@@ -185,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 7月16日朝、三井住友カードやVisaブランドの一部のクレジットカードで決済できない大規模障害が起きた背景について、ビザ・ワールドワイド・ジャパンがITmedia NEWSの取材に答えた。 同社によると、米Visa傘下の決済プラットフォーム「CyberSource」で、「取引処理のタイムアウト事象が発生していた」という。「必要な対...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **クレカ障害、全国で発生か 「カード払いできない」報告多数** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news064.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-16T01:40:40+00:00`, fetched `2026-07-16T03:18:46+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 関連記事 全国のJR券売機で一時障害 「えきねっと」などWebも 基幹システム「マルス」不具合で JRグル－プでは、JR東日本の「モバイルSuica」でも同日に障害が起きているが、MARSとモバイルSuicaの障害は「無関係」という。 モバイルSuica障害「チャージできない」「アプリから消えた」……JR東がメンテナンス メンテナ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
