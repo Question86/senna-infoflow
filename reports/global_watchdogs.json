@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-16T16:53:25+00:00",
+  "generated_at": "2026-07-16T17:24:54+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-58644 Microsoft SharePoint",
+        "summary": "Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-16",
+        "metrics": {
+          "cve": "CVE-2026-58644"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-25089 Fortinet FortiSandbox",
+        "summary": "Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-16",
+        "metrics": {
+          "cve": "CVE-2026-25089"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-39808 Fortinet FortiSandbox",
+        "summary": "Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-16",
+        "metrics": {
+          "cve": "CVE-2026-39808"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -24,42 +60,6 @@
         "published_at": "2026-07-15",
         "metrics": {
           "cve": "CVE-2023-4346"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-56155 Microsoft Active Directory Federation Services",
-        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-28. Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability ",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-14",
-        "metrics": {
-          "cve": "CVE-2026-56155"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-56164 Microsoft SharePoint Server",
-        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-14",
-        "metrics": {
-          "cve": "CVE-2026-56164"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-15409 SonicWall SMA1000 Appliances",
-        "summary": "Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-14",
-        "metrics": {
-          "cve": "CVE-2026-15409"
         }
       },
       {

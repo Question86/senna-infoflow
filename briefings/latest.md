@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T16:53:22+00:00_
+_Generiert: 2026-07-16T17:24:51+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,18 @@ _Generiert: 2026-07-16T16:53:22+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-58644 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-16`
+  - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability
+- **CISA KEV: CVE-2026-25089 Fortinet FortiSandbox** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-16`
+  - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability
+- **CISA KEV: CVE-2026-39808 Fortinet FortiSandbox** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-16`
+  - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability
 - **CISA KEV: CVE-2026-46817 Oracle E-Business Suite** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-15`
@@ -17,18 +29,6 @@ _Generiert: 2026-07-16T16:53:22+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-15`
   - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability
-- **CISA KEV: CVE-2026-56155 Microsoft Active Directory Federation Services** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-14`
-  - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-28. Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability 
-- **CISA KEV: CVE-2026-56164 Microsoft SharePoint Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-14`
-  - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability
-- **CISA KEV: CVE-2026-15409 SonicWall SMA1000 Appliances** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-14`
-  - Kurz: Known exploited vulnerability. Added 2026-07-14. Due 2026-07-17. SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846)
   - Quelle: GDACS
   - Zeit: ``
