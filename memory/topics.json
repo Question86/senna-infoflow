@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T12:46:45+00:00",
+  "generated_at": "2026-07-16T13:18:21+00:00",
   "topics": {
     "security": [
       {
@@ -98,6 +98,20 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
       },
       {
+        "title": "Vulnérabilité dans NetApp ONTAP 9 (10 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-10T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0857/"
+      },
+      {
+        "title": "Vulnérabilité dans CPython (10 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-10T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0858/"
+      },
+      {
         "title": "デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-07-16T08:01:33+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-07-16T01:40:40+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html"
-      },
-      {
-        "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T21:55:32+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html"
-      },
-      {
-        "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-15T21:45:30+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032"
       }
     ],
     "ai": [
