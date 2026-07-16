@@ -1824,6 +1824,28 @@
     "id": "55770686827c10ca23e2"
   },
   {
+    "title": "0から始めるローカルAIエージェント（Win11 + Docker + LM Studio + Hermes Agent） - Qiita",
+    "url": "https://qiita.com/pocokhc/items/eef04a3d6104c0ee03db",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-12T02:13:11+00:00",
+    "fetched_at": "2026-07-16T23:32:50+00:00",
+    "summary": "はじめに LLMの進化がすごくてついていくだけで大変ですね。 最近は、ある程度まとまった仕事をする自律型AIエージェントが注目されるようになりました。 それをローカルで試してみたいなと思っていたところ Hermes Agent や OpenClaw という名前を見かけたので気になって使ってみました。 この記事はその備忘録です。 0...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "aa829ef90898f60ce0ee"
+  },
+  {
     "title": "Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当",
     "url": "https://gigazine.net/news/20260716-firefox-in-webassembly/",
     "source": "Hatena Bookmark Hotentry IT",

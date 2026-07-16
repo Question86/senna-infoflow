@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T23:11:25+00:00_
+_Generiert: 2026-07-16T23:33:19+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Prompting guidance for GPT-5.6 Sol | OpenAI API“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+89 neue relevante Treffer. Stärkstes Signal: „Prompting guidance for GPT-5.6 Sol | OpenAI API“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
