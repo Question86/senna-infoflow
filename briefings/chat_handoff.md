@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T15:54:42+00:00_
+_Generated: 2026-07-16T16:25:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `64`
+- findings: `68`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-16T15:54:42+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
 
-### 4. [UPDATE] [hoch] Red Hat OpenShift Container Platform (gRPC-Go): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-07-16T11:32:04+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1136
-- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+### 4. How Cars24 scales conversations and builds faster with OpenAI
+- source: OpenAI News RSS
+- score: `18`
+- published: `2026-07-16T00:00:00+00:00`
+- url: https://openai.com/index/cars24
+- summary: Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.
 
 ### 5. Sovereign alpha: An investment thesis for a scarcer world
 - source: e27 Asia Startup and Tech Feed
@@ -43,25 +43,25 @@ _Generated: 2026-07-16T15:54:42+00:00_
 - url: https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/
 - summary: Software is no longer the primary driver of alpha; physical sovereignty is. Market value is shifting from “software-only” models to “control points” where technology meets physical security and national resilience. In this new operating environment, capital i…
 
-### 6. M 5.2 - 122 km SE of McCarthy, Alaska
+### 6. Why teens deserve access to safe AI
+- source: OpenAI News RSS
+- score: `11`
+- published: `2026-07-16T16:00:00+00:00`
+- url: https://openai.com/index/why-teens-deserve-access-safe-ai
+- summary: Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.
+
+### 7. M 5.2 - 122 km SE of McCarthy, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-07-16T12:05:18.329+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap
 - summary: ShakeMap - VI DYFI? - III Time 2026-07-16 11:37:21 UTC 2026-07-16 11:37:21 UTC at epicenter Location 60.569°N 141.508°W Depth 8.50 km (5.28 mi)
 
-### 7. Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market
+### 8. Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-07-16T03:51:49+00:00`
 - url: https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/
 - summary: Bitcoin recently outperformed both United States and European equities following the United States Consumer Price Index inflation report on Tuesday. This decisive move marks a strong recovery after weeks of trading sideways near recent lows. This price action…
-
-### 8. Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-07-16T02:38:31+00:00`
-- url: https://zenn.dev/sonicmoov/articles/8712598f532b18
-- summary: はじめに 株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。 ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。 この記事...
 
 END OF DOCUMENT
