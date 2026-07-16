@@ -1,5 +1,38 @@
 [
   {
+    "title": "Deepfake fraud losses hit US$3.7B as scams spread beyond social media",
+    "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T01:30:11+00:00",
+    "fetched_at": "2026-07-16T02:09:26+00:00",
+    "summary": "Deepfake fraud is no longer a fringe cybercrime problem built around crude celebrity videos or novelty face swaps. New data tracking publicly reported incidents from January 2020 to June 2026 shows recorded global losses have reached US$3.7 billion, with the sharpest acceleration coming in the past 18 months. The findings were revealed by a study […] The post Deepfake fraud losses hit US$3.7B as scams spread beyond…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Reputationsrisiko",
+      "Watchgraph:narrative_social_reputation"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "narrative_social_reputation"
+    ],
+    "watchgraph_reasons": [
+      "narrative_social_reputation: deepfake"
+    ],
+    "market_context": [
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "a3f101fe4073450d4b13"
+  },
+  {
     "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
     "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -145,6 +178,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "55770686827c10ca23e2"
+  },
+  {
+    "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
+    "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T21:55:32+00:00",
+    "fetched_at": "2026-07-16T02:09:26+00:00",
+    "summary": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e7e5437192a9fa301a21"
   },
   {
     "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",

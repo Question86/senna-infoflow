@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T01:22:21+00:00_
+_Generiert: 2026-07-16T02:09:56+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+9 neue relevante Treffer. Stärkstes Signal: „Deepfake fraud losses hit US$3.7B as scams spread beyond social media“ aus e27 Asia Startup and Tech Feed (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Deepfake fraud losses hit US$3.7B as scams spread beyond social media** — Score 16, risk — [Quelle](https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-16T01:30:11+00:00`, fetched `2026-07-16T02:09:26+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko, Watchgraph:narrative_social_reputation
+  - Watchgraph: narrative_social_reputation
+  - Markt-/Kontextkorb: META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0)
+  - Kurz: Deepfake fraud is no longer a fringe cybercrime problem built around crude celebrity videos or novelty face swaps. New data tracking publicly reported incidents from January 2020 to June 2026 shows recorded global losses have reached US$3.7 billion, with the sharpest acceleration coming in the past 18 months. The findings were revealed by a study […] The post Deepfake fraud losses hit US$3.7B as scams spread beyond…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物** — Score 16, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news055.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-15T22:40:47+00:00`, fetched `2026-07-16T00:49:01+00:00`
@@ -121,6 +130,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
   - Kurz: For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big companies, […] The post Burnout isn’t just personal, it’s becoming an operations problem appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/update/2124755.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-15T21:55:32+00:00`, fetched `2026-07-16T02:09:26+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/07/16/022032)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-15T21:45:30+00:00`, fetched `2026-07-16T00:49:01+00:00`
@@ -142,8 +160,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
