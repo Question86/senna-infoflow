@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-16T07:39:49Z",
+  "generated_at": "2026-07-16T08:31:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU90340653/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:15+09:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98998987/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/jp/JVN65294474/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T12:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security",
         "macro"
@@ -88,7 +88,7 @@
       "url": "https://jvn.jp/vu/JVNVU95286373/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -112,7 +112,7 @@
       "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:23+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security",
         "macro"
@@ -139,7 +139,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T06:21:39+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -164,7 +164,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 27.24,
+      "age_days": 27.27,
       "topics": [
         "ai"
       ],
@@ -183,7 +183,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -2.2 for 27.2d old signal",
+        "aging penalty -2.2 for 27.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -193,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T06:46:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -215,11 +215,35 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen."
     },
     {
+      "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
+      "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-16T07:38:00.000+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Zoom hat mehrere Sicherheitslücken in der Webkonferenzsoftware geschlossen. Sie ermöglichen etwa Kontoübernahme aus dem Netz."
+    },
+    {
       "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T00:23:18.349+00:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -243,7 +267,7 @@
       "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:30:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security"
@@ -268,7 +292,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T22:40:47+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -288,33 +312,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴..."
-    },
-    {
-      "title": "Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste",
-      "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-16T02:43:03+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: regional",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Winnow, the London-headquartered AI food waste measurement company, has acquired Singapore-founded Lumitics, in a deal that strengthens its position in Asia Pacific’s hospitality technology market. The companies did not disclose the financial terms of the transaction. The acquisition brings Lumitics’s regional deploym…"
     }
   ],
   "read_order": [
@@ -327,8 +324,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 3,
-      "quiet": 1
+      "watch": 4
     }
   }
 }
