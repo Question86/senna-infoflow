@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-16T18:09:00Z",
+  "generated_at": "2026-07-16T18:38:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1160",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:32:05+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0129",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:36:41+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1006",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:32:02+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2369",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:51:39+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1478",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:25+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0935",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:31:59+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://jvn.jp/vu/JVNVU90340653/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:15+09:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://jvn.jp/vu/JVNVU98998987/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://jvn.jp/jp/JVN65294474/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T12:00:00+09:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "security",
         "macro"
@@ -250,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2724",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:36:39+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -274,7 +274,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2372",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:56:39+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -298,7 +298,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2371",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:51:40+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -322,7 +322,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2370",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:51:40+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -346,7 +346,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2309",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:27+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -370,7 +370,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2278",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:26+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -394,7 +394,7 @@
       "url": "https://jvn.jp/vu/JVNVU95286373/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "security"
       ],
@@ -418,7 +418,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T08:16:58.416+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -442,7 +442,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1221",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:36:43+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -468,7 +468,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0345",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:36:41+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -494,7 +494,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2374",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:56:40+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -520,7 +520,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2373",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:56:39+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -546,7 +546,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1514",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:27+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -572,7 +572,7 @@
       "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:23+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "security",
         "macro"
@@ -599,7 +599,7 @@
       "url": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-16T10:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -627,7 +627,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0362",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:31:55+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -652,7 +652,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:27+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -677,7 +677,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T06:21:39+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -702,7 +702,7 @@
       "url": "https://www.heise.de/meinung/Full-Disclosure-als-Notwehr-Der-Cursor-Zero-Day-11367342.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-16T16:00:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -728,7 +728,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 27.67,
+      "age_days": 27.69,
       "topics": [
         "ai"
       ],
@@ -757,7 +757,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T06:46:39+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -783,7 +783,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1136",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T11:32:04+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -810,7 +810,7 @@
       "url": "https://openai.com/index/cars24",
       "source": "OpenAI News RSS",
       "published_at": "2026-07-16T00:00:00+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "macro"
@@ -837,7 +837,7 @@
       "url": "http://www.federalreserve.gov/feeds/PRATES.html#3929",
       "source": "Federal Reserve Policy Rates Feed",
       "published_at": "2026-07-16T11:00:00-04:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -862,7 +862,7 @@
       "url": "http://www.federalreserve.gov/feeds/H15.html#3929",
       "source": "Federal Reserve Selected Interest Rates H.15",
       "published_at": "2026-07-16T11:00:00-04:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -887,7 +887,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news084.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T06:49:55+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -912,7 +912,7 @@
       "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-16T07:38:00.000+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -936,7 +936,7 @@
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "source": "OpenAI News RSS",
       "published_at": "2026-07-16T16:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -962,7 +962,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T00:23:18.349+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -982,11 +982,36 @@
       "summary": "DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)"
     },
     {
+      "title": "M 4.6 - 109 km ESE of Kokopo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t12v",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-16T18:07:28.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-16 17:46:44 UTC 2026-07-16 17:46:44 UTC at epicenter Location 4.731°S 153.176°E Depth 88.70 km (55.12 mi)"
+    },
+    {
       "title": "Deepfake fraud losses hit US$3.7B as scams spread beyond social media",
       "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:30:11+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "ai",
         "security"
@@ -1005,30 +1030,6 @@
         "no strong comparative reason"
       ],
       "summary": "Deepfake fraud is no longer a fringe cybercrime problem built around crude celebrity videos or novelty face swaps. New data tracking publicly reported incidents from January 2020 to June 2026 shows recorded global losses have reached US$3.7 billion, with the sharpest acceleration coming in the past 18 months. The find…"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Suricata (10 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0859/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-07-10T00:00:00+00:00",
-      "age_days": 6.76,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux und Satellite (satellite/iop-remediations-rhel9 container image): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
