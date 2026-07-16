@@ -1725,5 +1725,45 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "21e2870344db859e7407"
+  },
+  {
+    "title": "REST API endpoints for Visual Studio Subscription management",
+    "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-16T18:06:52+00:00",
+    "fetched_at": "2026-07-16T18:43:42+00:00",
+    "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including… The post REST API endpoints for Visual Studio Subscription management appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7702432031bf156f5998"
+  },
+  {
+    "title": "Xcode 27 runner image now in public preview",
+    "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-16T18:00:07+00:00",
+    "fetched_at": "2026-07-16T18:43:42+00:00",
+    "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode… The post Xcode 27 runner image now in public preview appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a9d9523bf9ccb823c24c"
   }
 ]

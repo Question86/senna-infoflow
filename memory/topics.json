@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T18:17:44+00:00",
+  "generated_at": "2026-07-16T18:44:14+00:00",
   "topics": {
     "security": [
       {
@@ -305,6 +305,20 @@
         "published_at": "2026-07-16T03:51:49+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
+      },
+      {
+        "title": "REST API endpoints for Visual Studio Subscription management",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-16T18:06:52+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management"
+      },
+      {
+        "title": "Xcode 27 runner image now in public preview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-16T18:00:07+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview"
       }
     ],
     "economy": [

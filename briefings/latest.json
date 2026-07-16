@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T18:17:44+00:00",
-  "run_id": "2026-07-16T18:17:44+00:00",
+  "generated_at": "2026-07-16T18:44:14+00:00",
+  "run_id": "2026-07-16T18:44:14+00:00",
   "date": "2026-07-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 2,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 36,
-    "observe": 33,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -1757,6 +1757,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "21e2870344db859e7407"
+      },
+      {
+        "title": "REST API endpoints for Visual Studio Subscription management",
+        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-16T18:06:52+00:00",
+        "fetched_at": "2026-07-16T18:43:42+00:00",
+        "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including… The post REST API endpoints for Visual Studio Subscription management appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7702432031bf156f5998"
+      },
+      {
+        "title": "Xcode 27 runner image now in public preview",
+        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-16T18:00:07+00:00",
+        "fetched_at": "2026-07-16T18:43:42+00:00",
+        "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode… The post Xcode 27 runner image now in public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a9d9523bf9ccb823c24c"
       }
     ]
   },
@@ -3487,44 +3527,88 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "21e2870344db859e7407"
+    },
+    {
+      "title": "REST API endpoints for Visual Studio Subscription management",
+      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-16T18:06:52+00:00",
+      "fetched_at": "2026-07-16T18:43:42+00:00",
+      "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including… The post REST API endpoints for Visual Studio Subscription management appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7702432031bf156f5998"
+    },
+    {
+      "title": "Xcode 27 runner image now in public preview",
+      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-16T18:00:07+00:00",
+      "fetched_at": "2026-07-16T18:43:42+00:00",
+      "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode… The post Xcode 27 runner image now in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a9d9523bf9ccb823c24c"
     }
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 109 km ESE of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t12v",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "REST API endpoints for Visual Studio Subscription management",
+      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-16T18:07:28.040+00:00",
-      "fetched_at": "2026-07-16T18:17:14+00:00",
-      "summary": "Time 2026-07-16 17:46:44 UTC 2026-07-16 17:46:44 UTC at epicenter Location 4.731°S 153.176°E Depth 88.70 km (55.12 mi)",
+      "published_at": "2026-07-16T18:06:52+00:00",
+      "fetched_at": "2026-07-16T18:43:42+00:00",
+      "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including… The post REST API endpoints for Visual Studio Subscription management appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "GitHub"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7702432031bf156f5998"
+    },
+    {
+      "title": "Xcode 27 runner image now in public preview",
+      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-16T18:00:07+00:00",
+      "fetched_at": "2026-07-16T18:43:42+00:00",
+      "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode… The post Xcode 27 runner image now in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "eb5c0c0cba103e99197a"
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a9d9523bf9ccb823c24c"
     }
   ],
   "source_errors": [],
