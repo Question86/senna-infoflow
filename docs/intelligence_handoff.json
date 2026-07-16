@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-16T10:19:00Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-07-16T11:09:40Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] 7-Zip: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [mittel] 7-Zip: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2369",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-16T10:51:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1478",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:25+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://jvn.jp/vu/JVNVU90340653/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:15+09:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -64,7 +89,7 @@
       "url": "https://jvn.jp/vu/JVNVU98998987/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -88,7 +113,7 @@
       "url": "https://jvn.jp/jp/JVN65294474/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "security",
         "macro"
@@ -109,16 +134,16 @@
       "summary": "TeraTerm Projectが提供するTera TermのTTSSH2プラグインには、複数の脆弱性が存在します。"
     },
     {
-      "title": "[UPDATE] [mittel] Perl: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2309",
+      "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2374",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-16T10:10:27+00:00",
+      "published_at": "2026-07-16T10:56:40+00:00",
       "age_days": 0.01,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -128,21 +153,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen."
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Cisco Identity Services Engine (ISE) ausnutzen, um Dateien zu manipulieren."
     },
     {
-      "title": "[UPDATE] [mittel] wget: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2278",
+      "title": "[NEU] [mittel] Apache Ivy: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2373",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-16T10:10:26+00:00",
+      "published_at": "2026-07-16T10:56:39+00:00",
       "age_days": 0.01,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -152,40 +179,18 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in wget ausnutzen, um Sicherheitsvorkehrungen zu umgehen und einen serverseitigen Request-Forgery-Angriff durchzuführen."
-    },
-    {
-      "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
-      "url": "https://jvn.jp/vu/JVNVU95286373/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.41,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, cve, security"
-      ],
-      "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-59083、CVE-2026-59084）に対してアドバイザリが公開されました。"
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Apache Ivy ausnutzen, um Dateien zu manipulieren."
     },
     {
       "title": "[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1514",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:27+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -211,7 +216,7 @@
       "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:23+00:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "security",
         "macro"
@@ -238,7 +243,7 @@
       "url": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-16T10:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -266,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T10:10:27+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -291,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T06:21:39+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -321,8 +326,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
