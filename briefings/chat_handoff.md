@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T00:49:32+00:00_
+_Generated: 2026-07-16T01:22:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `7`
 
 ## Top Signals
 
@@ -29,14 +29,28 @@ _Generated: 2026-07-16T00:49:32+00:00_
 - url: https://jvn.jp/vu/JVNVU95286373/
 - summary: The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-59083、CVE-2026-59084）に対してアドバイザリが公開されました。
 
-### 4. サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog
+### 4. Your customers are not buying your product, they are buying a better version of themselves
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-07-16T01:15:27+00:00`
+- url: https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/
+- summary: As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executive…
+
+### 5. Burnout isn’t just personal, it’s becoming an operations problem
+- source: e27 Asia Startup and Tech Feed
+- score: `6`
+- published: `2026-07-16T01:00:44+00:00`
+- url: https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/
+- summary: For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long…
+
+### 6. サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-07-15T21:45:30+00:00`
 - url: https://piyolog.hatenadiary.jp/entry/2026/07/16/022032
 - summary: 2026年7月13日、株式会社ニチレイは、同社グループのシステムが不正アクセスによる障害を受け、冷蔵倉庫の入出庫業務や冷凍食品の出荷業務に影響が生じていると公表しました。その後、同社のサーバーがサイバー攻撃を受けたことを確認したとして続報を公表し、障害の影響は取引先・関連組織の商品供給にも及んでいます。...
 
-### 5. 最近やたらと「壁打ち」って言葉を使いたがる自信過剰気味の若手がいるけど、「相手に意見を求める場合」に使うのは極めて失礼→「壁打ち」の用法をめぐり意見さまざま
+### 7. 最近やたらと「壁打ち」って言葉を使いたがる自信過剰気味の若手がいるけど、「相手に意見を求める場合」に使うのは極めて失礼→「壁打ち」の用法をめぐり意見さまざま
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-07-15T21:09:51+00:00`

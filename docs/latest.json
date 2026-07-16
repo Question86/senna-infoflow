@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T00:49:32+00:00",
-  "run_id": "2026-07-16T00:49:32+00:00",
+  "generated_at": "2026-07-16T01:22:21+00:00",
+  "run_id": "2026-07-16T01:22:21+00:00",
   "date": "2026-07-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 2,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 3,
-    "observe": 2,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -136,6 +136,48 @@
       }
     ],
     "observe": [
+      {
+        "title": "Your customers are not buying your product, they are buying a better version of themselves",
+        "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-16T01:15:27+00:00",
+        "fetched_at": "2026-07-16T01:21:50+00:00",
+        "summary": "As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executives: “We don’t sell shoes. We sell the feeling of […] The post Your customers are not buying your product, they are buying a better version of themselves appeared…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "844afa0501ca85a3107e"
+      },
+      {
+        "title": "Burnout isn’t just personal, it’s becoming an operations problem",
+        "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-16T01:00:44+00:00",
+        "fetched_at": "2026-07-16T01:21:50+00:00",
+        "summary": "For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big companies, […] The post Burnout isn’t just personal, it’s becoming an operations problem appeared fir…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "55770686827c10ca23e2"
+      },
       {
         "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
         "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
@@ -287,6 +329,48 @@
       "id": "a5f7bd0fa2933ebfaa8a"
     },
     {
+      "title": "Your customers are not buying your product, they are buying a better version of themselves",
+      "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-16T01:15:27+00:00",
+      "fetched_at": "2026-07-16T01:21:50+00:00",
+      "summary": "As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executives: “We don’t sell shoes. We sell the feeling of […] The post Your customers are not buying your product, they are buying a better version of themselves appeared…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "844afa0501ca85a3107e"
+    },
+    {
+      "title": "Burnout isn’t just personal, it’s becoming an operations problem",
+      "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-16T01:00:44+00:00",
+      "fetched_at": "2026-07-16T01:21:50+00:00",
+      "summary": "For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big companies, […] The post Burnout isn’t just personal, it’s becoming an operations problem appeared fir…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "55770686827c10ca23e2"
+    },
+    {
       "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
       "source": "Hatena Bookmark Hotentry IT",
@@ -331,130 +415,46 @@
   ],
   "new_findings": [
     {
-      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Your customers are not buying your product, they are buying a better version of themselves",
+      "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-15T22:40:47+00:00",
-      "fetched_at": "2026-07-16T00:49:01+00:00",
-      "summary": "なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴...",
+      "published_at": "2026-07-16T01:15:27+00:00",
+      "fetched_at": "2026-07-16T01:21:50+00:00",
+      "summary": "As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executives: “We don’t sell shoes. We sell the feeling of […] The post Your customers are not buying your product, they are buying a better version of themselves appeared…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "0c499badf87040fb578a"
-    },
-    {
-      "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-16T00:23:18.349+00:00",
-      "fetched_at": "2026-07-16T00:49:01+00:00",
-      "summary": "DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5cb832c0e19171818da8"
-    },
-    {
-      "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
-      "url": "https://jvn.jp/vu/JVNVU95286373/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-16T09:30:00+09:00",
-      "fetched_at": "2026-07-16T00:49:01+00:00",
-      "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-59083、CVE-2026-59084）に対してアドバイザリが公開されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a5f7bd0fa2933ebfaa8a"
-    },
-    {
-      "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-15T21:45:30+00:00",
-      "fetched_at": "2026-07-16T00:49:01+00:00",
-      "summary": "2026年7月13日、株式会社ニチレイは、同社グループのシステムが不正アクセスによる障害を受け、冷蔵倉庫の入出庫業務や冷凍食品の出荷業務に影響が生じていると公表しました。その後、同社のサーバーがサイバー攻撃を受けたことを確認したとして続報を公表し、障害の影響は取引先・関連組織の商品供給にも及んでいます。...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3e7606b8a9b5b191bb59"
+      "id": "844afa0501ca85a3107e"
+    },
+    {
+      "title": "Burnout isn’t just personal, it’s becoming an operations problem",
+      "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-16T01:00:44+00:00",
+      "fetched_at": "2026-07-16T01:21:50+00:00",
+      "summary": "For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big companies, […] The post Burnout isn’t just personal, it’s becoming an operations problem appeared fir…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "55770686827c10ca23e2"
     }
   ],
   "source_errors": [],

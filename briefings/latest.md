@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T00:49:32+00:00_
+_Generiert: 2026-07-16T01:22:21+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+7 neue relevante Treffer. Stärkstes Signal: „OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Your customers are not buying your product, they are buying a better version of themselves** — Score 7, observation — [Quelle](https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-16T01:15:27+00:00`, fetched `2026-07-16T01:21:50+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executives: “We don’t sell shoes. We sell the feeling of […] The post Your customers are not buying your product, they are buying a better version of themselves appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Burnout isn’t just personal, it’s becoming an operations problem** — Score 6, observation — [Quelle](https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-16T01:00:44+00:00`, fetched `2026-07-16T01:21:50+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
+  - Kurz: For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big companies, […] The post Burnout isn’t just personal, it’s becoming an operations problem appeared fir…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/07/16/022032)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-15T21:45:30+00:00`, fetched `2026-07-16T00:49:01+00:00`
