@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T20:04:36+00:00",
+  "generated_at": "2026-07-16T20:27:07+00:00",
   "topics": {
     "security": [
       {
@@ -98,6 +98,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
       },
       {
+        "title": "M 5.0 - southern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-16T20:16:25.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14l"
+      },
+      {
         "title": "M 4.6 - 109 km ESE of Kokopo, Papua New Guinea",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-16T18:07:28.040+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-16T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/procurement/improvement_plan"
-      },
-      {
-        "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-16T09:10:39+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news096.html"
       }
     ],
     "ai": [
