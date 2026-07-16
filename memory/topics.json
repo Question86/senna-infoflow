@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T05:26:58+00:00",
+  "generated_at": "2026-07-16T06:16:40+00:00",
   "topics": {
     "ai": [
       {
@@ -172,6 +172,13 @@
         "published_at": "2026-07-16T00:23:18.349+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf"
+      },
+      {
+        "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-16T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/procurement/improvement_plan"
       },
       {
         "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",

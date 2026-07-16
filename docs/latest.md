@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T05:26:58+00:00_
+_Generiert: 2026-07-16T06:16:40+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „163,000 workers, 37% training: Malaysia’s AI skills gap in focus“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+20 neue relevante Treffer. Stärkstes Signal: „163,000 workers, 37% training: Malaysia’s AI skills gap in focus“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executives: “We don’t sell shoes. We sell the feeling of […] The post Your customers are not buying your product, they are buying a better version of themselves appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/improvement_plan)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-16T06:00:00+00:00`, fetched `2026-07-16T06:16:09+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **クレカ障害、全国で発生か 「カード払いできない」報告多数** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news064.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

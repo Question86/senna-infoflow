@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T05:26:58+00:00",
-  "run_id": "2026-07-16T05:26:58+00:00",
+  "generated_at": "2026-07-16T06:16:40+00:00",
+  "run_id": "2026-07-16T06:16:40+00:00",
   "date": "2026-07-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 9,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -385,6 +385,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "844afa0501ca85a3107e"
+      },
+      {
+        "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
+        "url": "https://www.digital.go.jp/procurement/improvement_plan",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-16T06:00:00+00:00",
+        "fetched_at": "2026-07-16T06:16:09+00:00",
+        "summary": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f2531e84efc252130118"
       },
       {
         "title": "Burnout isn’t just personal, it’s becoming an operations problem",
@@ -870,6 +890,26 @@
       "id": "844afa0501ca85a3107e"
     },
     {
+      "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/improvement_plan",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-16T06:00:00+00:00",
+      "fetched_at": "2026-07-16T06:16:09+00:00",
+      "summary": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2531e84efc252130118"
+    },
+    {
       "title": "Burnout isn’t just personal, it’s becoming an operations problem",
       "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -997,48 +1037,24 @@
   ],
   "new_findings": [
     {
-      "title": "Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90340653/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/improvement_plan",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-16T13:30:15+09:00",
-      "fetched_at": "2026-07-16T05:26:28+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "published_at": "2026-07-16T06:00:00+00:00",
+      "fetched_at": "2026-07-16T06:16:09+00:00",
+      "summary": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "057d5e22bca4379c949f"
-    },
-    {
-      "title": "JavaScriptライブラリ「Forge」における複数の署名検証不備の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98998987/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-16T13:30:00+09:00",
-      "fetched_at": "2026-07-16T05:26:28+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fd5c3a8815070cf64a3c"
+      "id": "f2531e84efc252130118"
     }
   ],
   "source_errors": [],
