@@ -1,5 +1,30 @@
 [
   {
+    "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0935",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T11:31:59+00:00",
+    "fetched_at": "2026-07-16T11:37:47+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Automatisierung",
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6b1fd4f812a252ef05fe"
+  },
+  {
     "title": "M 5.5 - Volcano Islands, Japan region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -73,6 +98,78 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "79de19a1a3df8b990691"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat OpenShift Container Platform (gRPC-Go): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1136",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T11:32:04+00:00",
+    "fetched_at": "2026-07-16T11:37:47+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "00de6a074e9bf3ad0cc5"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux und Satellite (satellite/iop-remediations-rhel9 container image): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1160",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T11:32:05+00:00",
+    "fetched_at": "2026-07-16T11:37:47+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux und Red Hat Satellite ausnutzen, um Informationen offenzulegen oder beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "669286503306214659f5"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Lodash): Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0362",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T11:31:55+00:00",
+    "fetched_at": "2026-07-16T11:37:47+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9181e18dc9a0141ef7fd"
   },
   {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-pillow): Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -347,6 +444,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "16c7d810cd844ac4e9dc"
+  },
+  {
+    "title": "[UPDATE] [hoch] Golang Go: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1006",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-16T11:32:02+00:00",
+    "fetched_at": "2026-07-16T11:37:47+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um Speicherbeschädigungen zu verursachen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b76dcd59b8ec846d7e0e"
   },
   {
     "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Manipulation von Dateien",
@@ -849,6 +969,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1a41060420632178b898"
+  },
+  {
+    "title": "NVIDIAのジェンスン・フアン氏が秋葉原でセガに賛辞 これは巨大テック企業のトップによる社交辞令ではなく、セガのゲームに脳を焼かれたゲーマーの叫びだ (1/2)",
+    "url": "https://ascii.jp/elem/000/004/420/4420031/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-16T05:23:04+00:00",
+    "fetched_at": "2026-07-16T11:37:47+00:00",
+    "summary": "NVIDIAを「謎の半導体企業」と表現する人は流石にもういないだろう。少し前はPCグラフィックス、今はAI業界を牽引するビッグテック企業である。そんなNVIDIAも創業期に技術選択に失敗して死にかけており、その窮地を救ったのがセガだ。アーケードゲーム界に数々の名作ゲームを送り出し、「メガドライブ」（1988年）「セ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7751ce1b38b08110de40"
   },
   {
     "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",

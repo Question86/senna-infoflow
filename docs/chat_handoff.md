@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T11:01:29+00:00_
+_Generated: 2026-07-16T11:38:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `41`
+- findings: `47`
 
 ## Top Signals
 
-### 1. M 5.5 - Volcano Islands, Japan region
+### 1. [UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `22`
+- published: `2026-07-16T11:31:59+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0935
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertraulich…
+
+### 2. M 5.5 - Volcano Islands, Japan region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `22`
 - published: `2026-07-16T08:16:58.416+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0
 - summary: PAGER - GREEN ShakeMap - I Time 2026-07-16 07:49:09 UTC 2026-07-16 07:49:09 UTC at epicenter Location 22.859°N 144.391°E Depth 12.81 km (7.96 mi)
 
-### 2. [UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen
+### 3. [UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-07-16T06:46:39+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (python-pillow): Mehrere Schwachstellen ermöglichen Denial of Service
+### 4. [UPDATE] [hoch] Red Hat OpenShift Container Platform (gRPC-Go): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-16T10:10:27+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2301
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux bzgl. python-pillow ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. [UPDATE] [hoch] Microsoft Azure: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-16T06:21:39+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321
-- summary: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Azure Komponenten ausnutzen, um seine Privilegien zu erhöhen und um einen Denial of Service Angriff durchzuführen.
+- score: `17`
+- published: `2026-07-16T11:32:04+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1136
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
 ### 5. Sovereign alpha: An investment thesis for a scarcer world
 - source: e27 Asia Startup and Tech Feed
