@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T21:13:38+00:00",
+  "generated_at": "2026-07-16T21:38:32+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,8 +65,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.",
+        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 1.3 million in 100km.",
+        "summary": "Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 1.3 million in 100km.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846",
         "published_at": "",
