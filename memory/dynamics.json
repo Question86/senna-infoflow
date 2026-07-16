@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-16T08:31:09Z",
+  "generated_at": "2026-07-16T09:29:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 31,
     "bands": {
       "krass": 2,
-      "strong": 6,
-      "watch": 4,
-      "quiet": 16
-    },
-    "bands_after_gate_recheck": {
       "strong": 8,
       "watch": 4,
-      "quiet": 16
+      "quiet": 17
+    },
+    "bands_after_gate_recheck": {
+      "strong": 10,
+      "watch": 4,
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU90340653/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU98998987/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T13:30:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/jp/JVN65294474/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T12:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "security",
         "macro"
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU95286373/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -116,11 +116,35 @@
       "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-59083、CVE-2026-59084）に対してアドバイザリが公開されました。"
     },
     {
+      "title": "M 5.5 - Volcano Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-16T08:16:58.416+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-16 07:49:09 UTC 2026-07-16 07:49:09 UTC at epicenter Location 22.859°N 144.391°E Depth 12.81 km (7.96 mi)"
+    },
+    {
       "title": "Sovereign alpha: An investment thesis for a scarcer world",
       "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:23+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "security",
         "macro"
@@ -147,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T06:21:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -172,7 +196,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 27.27,
+      "age_days": 27.31,
       "topics": [
         "ai"
       ],
@@ -201,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-16T06:46:39+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -223,11 +247,36 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen."
     },
     {
+      "title": "朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news084.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-16T06:49:55+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "7月16日朝、三井住友カードやVisaブランドの一部のクレジットカードで決済できない大規模障害が起きた背景について、ビザ・ワールドワイド・ジャパンがITmedia NEWSの取材に答えた。 同社によると、米Visa傘下の決済プラットフォーム「CyberSource」で、「取引処理のタイムアウト事象が発生していた」という。「必要な対..."
+    },
+    {
       "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
       "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-16T07:38:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -251,7 +300,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T00:23:18.349+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -275,7 +324,7 @@
       "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:30:11+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security"
@@ -300,7 +349,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T22:40:47+00:00",
-      "age_days": 0.41,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -326,7 +375,7 @@
       "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T02:43:03+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -353,7 +402,7 @@
       "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:00:17+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -378,7 +427,7 @@
       "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T03:51:49+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -401,11 +450,35 @@
       "summary": "Bitcoin recently outperformed both United States and European equities following the United States Consumer Price Index inflation report on Tuesday. This decisive move marks a strong recovery after weeks of trading sideways near recent lows. This price action is a structural shift rather than a random fluctuation. The…"
     },
     {
+      "title": "デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました",
+      "url": "https://www.digital.go.jp/policies/trust",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-16T08:01:33+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "デジタル・アイデンティティに関するパイロットプロジェクトの報告書を掲載しました"
+    },
+    {
       "title": "令和7年度デジタル庁調達改善計画の自己評価（概要）を掲載しました",
       "url": "https://www.digital.go.jp/procurement/improvement_plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-16T06:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -429,7 +502,7 @@
       "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:00:44+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -453,7 +526,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T01:40:40+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -477,7 +550,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:55:32+00:00",
-      "age_days": 0.44,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -501,7 +574,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:45:30+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -525,7 +598,7 @@
       "url": "https://togetter.com/li/2721001",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:09:51+00:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -551,7 +624,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.24,
+      "age_days": 26.28,
       "topics": [
         "general"
       ],
@@ -567,7 +640,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.2 for 26.2d old signal"
+        "aging penalty -12.2 for 26.3d old signal"
       ],
       "summary": ""
     },
@@ -576,7 +649,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.24,
+      "age_days": 26.28,
       "topics": [
         "general"
       ],
@@ -592,7 +665,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.2 for 26.2d old signal"
+        "aging penalty -12.2 for 26.3d old signal"
       ],
       "summary": ""
     },
@@ -601,7 +674,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.24,
+      "age_days": 26.28,
       "topics": [
         "ai"
       ],
@@ -618,7 +691,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -12.2 for 26.2d old signal",
+        "aging penalty -12.2 for 26.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -628,7 +701,7 @@
       "url": "https://techblog.zozo.com/entry/rethinking-ai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T02:08:08+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -653,7 +726,7 @@
       "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T01:15:27+00:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -679,7 +752,7 @@
       "url": "https://speakerdeck.com/smiyawaki0820/aineiteibunazu-zhi-wowen-izhi-su",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T20:08:26+00:00",
-      "age_days": 0.52,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -704,7 +777,7 @@
       "url": "https://e27.co/the-new-travel-bottleneck-is-not-booking-its-staying-operational-on-the-move-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-16T02:50:15+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],

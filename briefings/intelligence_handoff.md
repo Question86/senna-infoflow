@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-16T08:31:09Z_
+_Generated: 2026-07-16T09:29:09Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-16T13:30:15+09:00` / age_days `0.17`
+- Published: `2026-07-16T13:30:15+09:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-16T13:30:00+09:00` / age_days `0.17`
+- Published: `2026-07-16T13:30:00+09:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-16T12:00:00+09:00` / age_days `0.23`
+- Published: `2026-07-16T12:00:00+09:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-16T09:30:00+09:00` / age_days `0.33`
+- Published: `2026-07-16T09:30:00+09:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, cve, security
 - Quelle: https://jvn.jp/vu/JVNVU95286373/
 
+### M 5.5 - Volcano Islands, Japan region
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-07-16T08:16:58.416+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0
+
 ### Sovereign alpha: An investment thesis for a scarcer world
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-16T03:00:23+00:00` / age_days `0.23`
+- Published: `2026-07-16T03:00:23+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-16T06:21:39+00:00` / age_days `0.09`
+- Published: `2026-07-16T06:21:39+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `27.27`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `27.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -2.2 for 27.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,17 +92,27 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-16T06:46:39+00:00` / age_days `0.07`
+- Published: `2026-07-16T06:46:39+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589
 
+### 朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `22.0`
+- Published: `2026-07-16T06:49:55+00:00` / age_days `0.11`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://www.itmedia.co.jp/news/articles/2607/16/news084.html
+
 ### Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-07-16T07:38:00.000+00:00` / age_days `0.04`
+- Published: `2026-07-16T07:38:00.000+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: security high-signal: security
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Pegatron製Windows Driver Model (WDM) �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-07-16T00:23:18.349+00:00` / age_days `0.34`
+- Published: `2026-07-16T00:23:18.349+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf
-
-### Deepfake fraud losses hit US$3.7B as scams spread beyond social media
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `16.0`
-- Published: `2026-07-16T01:30:11+00:00` / age_days `0.29`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/
-
-### OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.0`
-- Published: `2026-07-15T22:40:47+00:00` / age_days `0.41`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.itmedia.co.jp/news/articles/2607/16/news055.html
 
 END OF DOCUMENT
