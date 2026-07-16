@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T07:09:30+00:00_
+_Generiert: 2026-07-16T07:52:09+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+24 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-07-16T07:09:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI.
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551647)
+- **GDACS: Volcanic eruption is on going for Mayon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000144)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in New Caledonia 13/07/2026 14:45 UTC, Few people affected in MMI V.
+  - Kurz: Volcanic eruption is on going for Mayon in Philippines
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552085)
   - Quelle: GDACS
   - Zeit: ``
@@ -192,6 +192,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 以前、テックブログで工数やAI活用による工数削減を計測する仕組みを、タスク管理ツールのG...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-16T07:38:00.000+00:00`, fetched `2026-07-16T07:51:37+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Zoom hat mehrere Sicherheitslücken in der Webkonferenzsoftware geschlossen. Sie ermöglichen etwa Kontoübernahme aus dem Netz.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your customers are not buying your product, they are buying a better version of themselves** — Score 7, observation — [Quelle](https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T07:09:30+00:00",
+  "generated_at": "2026-07-16T07:52:09+00:00",
   "topics": {
     "security": [
       {
@@ -52,6 +52,13 @@
         "published_at": "2026-07-16T03:00:23+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
+      },
+      {
+        "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-16T07:38:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html"
       }
     ],
     "ai": [
@@ -119,11 +126,11 @@
         "url": "https://togetter.com/li/2721001"
       },
       {
-        "title": "The new travel bottleneck is not booking, it’s staying operational on the move",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T02:50:15+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-new-travel-bottleneck-is-not-booking-its-staying-operational-on-the-move-20260714/"
+        "title": "AIネイティブな組織を問い直す",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-15T20:08:26+00:00",
+        "relevance_score": 5,
+        "url": "https://speakerdeck.com/smiyawaki0820/aineiteibunazu-zhi-wowen-izhi-su"
       }
     ],
     "geopolitics": [
@@ -154,6 +161,13 @@
         "published_at": "2026-07-16T03:51:49+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/"
+      },
+      {
+        "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-16T07:38:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html"
       },
       {
         "title": "Burnout isn’t just personal, it’s becoming an operations problem",

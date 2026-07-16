@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-16T07:09:30+00:00_
+_Generated: 2026-07-16T07:52:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `24`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-16T07:09:30+00:00_
 - url: https://techblog.zozo.com/entry/rethinking-ai
 - summary: はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 以前、テックブログで工数やAI活用による工数削減を計測する仕組みを、タスク管理ツールのG...
 
-### 8. Your customers are not buying your product, they are buying a better version of themselves
-- source: e27 Asia Startup and Tech Feed
+### 8. Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich
+- source: heise Security Alerts
 - score: `7`
-- published: `2026-07-16T01:15:27+00:00`
-- url: https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/
-- summary: As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executive…
+- published: `2026-07-16T07:38:00.000+00:00`
+- url: https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html
+- summary: Zoom hat mehrere Sicherheitslücken in der Webkonferenzsoftware geschlossen. Sie ermöglichen etwa Kontoübernahme aus dem Netz.
 
 END OF DOCUMENT

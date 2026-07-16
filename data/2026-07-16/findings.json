@@ -382,6 +382,26 @@
     "id": "4f078914a3fdf12fae42"
   },
   {
+    "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
+    "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-16T07:38:00.000+00:00",
+    "fetched_at": "2026-07-16T07:51:37+00:00",
+    "summary": "Zoom hat mehrere Sicherheitslücken in der Webkonferenzsoftware geschlossen. Sie ermöglichen etwa Kontoübernahme aus dem Netz.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2244851f360f6dd00268"
+  },
+  {
     "title": "Your customers are not buying your product, they are buying a better version of themselves",
     "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -526,6 +546,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "748d1d6fdad80d50901a"
+  },
+  {
+    "title": "AIネイティブな組織を問い直す",
+    "url": "https://speakerdeck.com/smiyawaki0820/aineiteibunazu-zhi-wowen-izhi-su",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-15T20:08:26+00:00",
+    "fetched_at": "2026-07-16T07:51:37+00:00",
+    "summary": "AIネイティブな組織 について最考してみました。ガバナンスの枠組みを《推進と統制》の２つの側面から捉え直し、《AIネイティブな組織》を達成するための中間地点と捉え直します。 === なお、本…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7e8fa5e258d71ad63c52"
   },
   {
     "title": "The new travel bottleneck is not booking, it’s staying operational on the move",

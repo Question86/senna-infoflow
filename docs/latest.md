@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T07:09:30+00:00_
+_Generiert: 2026-07-16T07:52:09+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+24 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -131,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 以前、テックブログで工数やAI活用による工数削減を計測する仕組みを、タスク管理ツールのG...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-16T07:38:00.000+00:00`, fetched `2026-07-16T07:51:37+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Zoom hat mehrere Sicherheitslücken in der Webkonferenzsoftware geschlossen. Sie ermöglichen etwa Kontoübernahme aus dem Netz.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your customers are not buying your product, they are buying a better version of themselves** — Score 7, observation — [Quelle](https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
