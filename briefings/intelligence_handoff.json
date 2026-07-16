@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-16T00:58:13Z",
+  "generated_at": "2026-07-16T01:39:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱性(2026年7月14日)” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU95286373/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-16T09:30:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 26.96,
+      "age_days": 26.99,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-16T00:23:18.349+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -92,7 +92,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T22:40:47+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -114,11 +114,35 @@
       "summary": "なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴..."
     },
     {
+      "title": "Burnout isn’t just personal, it’s becoming an operations problem",
+      "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-16T01:00:44+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big c…"
+    },
+    {
       "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:45:30+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -142,7 +166,7 @@
       "url": "https://togetter.com/li/2721001",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-15T21:09:51+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -168,7 +192,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.92,
+      "age_days": 25.95,
       "topics": [
         "general"
       ],
@@ -184,7 +208,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -11.9 for 25.9d old signal"
+        "aging penalty -12.0 for 26.0d old signal"
       ],
       "summary": ""
     },
@@ -193,7 +217,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.92,
+      "age_days": 25.95,
       "topics": [
         "general"
       ],
@@ -209,7 +233,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -11.9 for 25.9d old signal"
+        "aging penalty -12.0 for 26.0d old signal"
       ],
       "summary": ""
     },
@@ -218,7 +242,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 25.92,
+      "age_days": 25.95,
       "topics": [
         "ai"
       ],
@@ -235,10 +259,36 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -11.9 for 25.9d old signal",
+        "aging penalty -12.0 for 26.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "Your customers are not buying your product, they are buying a better version of themselves",
+      "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-16T01:15:27+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "As AI commoditises everything a company makes, the last defensible moat is not what you sell — it is the human experience you design around it. Most companies are investing in exactly the wrong thing. In the mid-1990s, a Nike marketer told a room of executives: “We don’t sell shoes. We sell the feeling of […] The post…"
     }
   ],
   "read_order": [
@@ -252,7 +302,7 @@
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 2,
-      "quiet": 5
+      "quiet": 7
     }
   }
 }
