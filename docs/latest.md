@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T23:33:19+00:00_
+_Generiert: 2026-07-16T23:56:19+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „Prompting guidance for GPT-5.6 Sol | OpenAI API“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+90 neue relevante Treffer. Stärkstes Signal: „Prompting guidance for GPT-5.6 Sol | OpenAI API“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -295,7 +295,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `github_search_japan_twitter_trend_rss_tools` (github_search): 503 Server Error: Service Unavailable for url: https://api.github.com/search/repositories?q=twitter+trend+rss+japan+pushed%3A%3E2025-01-01+stars%3A%3E5&sort=updated&order=desc&per_page=6

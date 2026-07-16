@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-16T23:33:19+00:00",
-  "run_id": "2026-07-16T23:33:19+00:00",
+  "generated_at": "2026-07-16T23:56:19+00:00",
+  "run_id": "2026-07-16T23:56:19+00:00",
   "date": "2026-07-16",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 89
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 89,
-    "displayed_findings": 89,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 0,
     "medium": 38,
-    "observe": 51,
-    "source_errors": 1
+    "observe": 52,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -2064,6 +2064,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "46b37d3483b44b7b44b1"
+      },
+      {
+        "title": "緊急地震速報の音はなぜ「ギュイッ」と3回鳴る？眠っていても脳を覚醒させる1秒未満の音、その知られざる設計原理 環境音楽家・小久保隆氏に聞く | JBpress (ジェイビープレス)",
+        "url": "https://jbpress.ismedia.jp/articles/-/95949",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-16T03:28:34+00:00",
+        "fetched_at": "2026-07-16T23:55:50+00:00",
+        "summary": "ギュイッ・ギュイッ・ギュイッ、地震です──。地震がやってくるとき、誰もがスマホからこの音を聞く。緊急地震速報の音は2007年10月に本格的に運用されるようになったというが、「ギュイッ」の作曲家はどんな狙いを持って、制作に挑んだのか。1秒に満たない“あの音”が一発で人の脳に「地震だ」と思わせる原理とは。生みの...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3b9ea8c35fb0639cc2a7"
       },
       {
         "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
@@ -4349,6 +4370,27 @@
       "id": "46b37d3483b44b7b44b1"
     },
     {
+      "title": "緊急地震速報の音はなぜ「ギュイッ」と3回鳴る？眠っていても脳を覚醒させる1秒未満の音、その知られざる設計原理 環境音楽家・小久保隆氏に聞く | JBpress (ジェイビープレス)",
+      "url": "https://jbpress.ismedia.jp/articles/-/95949",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T03:28:34+00:00",
+      "fetched_at": "2026-07-16T23:55:50+00:00",
+      "summary": "ギュイッ・ギュイッ・ギュイッ、地震です──。地震がやってくるとき、誰もがスマホからこの音を聞く。緊急地震速報の音は2007年10月に本格的に運用されるようになったというが、「ギュイッ」の作曲家はどんな狙いを持って、制作に挑んだのか。1秒に満たない“あの音”が一発で人の脳に「地震だ」と思わせる原理とは。生みの...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b9ea8c35fb0639cc2a7"
+    },
+    {
       "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4597,36 +4639,28 @@
   ],
   "new_findings": [
     {
-      "title": "0から始めるローカルAIエージェント（Win11 + Docker + LM Studio + Hermes Agent） - Qiita",
-      "url": "https://qiita.com/pocokhc/items/eef04a3d6104c0ee03db",
+      "title": "緊急地震速報の音はなぜ「ギュイッ」と3回鳴る？眠っていても脳を覚醒させる1秒未満の音、その知られざる設計原理 環境音楽家・小久保隆氏に聞く | JBpress (ジェイビープレス)",
+      "url": "https://jbpress.ismedia.jp/articles/-/95949",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-12T02:13:11+00:00",
-      "fetched_at": "2026-07-16T23:32:50+00:00",
-      "summary": "はじめに LLMの進化がすごくてついていくだけで大変ですね。 最近は、ある程度まとまった仕事をする自律型AIエージェントが注目されるようになりました。 それをローカルで試してみたいなと思っていたところ Hermes Agent や OpenClaw という名前を見かけたので気になって使ってみました。 この記事はその備忘録です。 0...",
+      "published_at": "2026-07-16T03:28:34+00:00",
+      "fetched_at": "2026-07-16T23:55:50+00:00",
+      "summary": "ギュイッ・ギュイッ・ギュイッ、地震です──。地震がやってくるとき、誰もがスマホからこの音を聞く。緊急地震速報の音は2007年10月に本格的に運用されるようになったというが、「ギュイッ」の作曲家はどんな狙いを持って、制作に挑んだのか。1秒に満たない“あの音”が一発で人の脳に「地震だ」と思わせる原理とは。生みの...",
       "matched_keywords": [
-        "agent",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "aa829ef90898f60ce0ee"
+      "id": "3b9ea8c35fb0639cc2a7"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "github_search_japan_twitter_trend_rss_tools",
-      "source_name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
-      "source_type": "github_search",
-      "error": "503 Server Error: Service Unavailable for url: https://api.github.com/search/repositories?q=twitter+trend+rss+japan+pushed%3A%3E2025-01-01+stars%3A%3E5&sort=updated&order=desc&per_page=6"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
