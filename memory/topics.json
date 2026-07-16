@@ -1,24 +1,36 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-16T02:09:56+00:00",
+  "generated_at": "2026-07-16T03:19:14+00:00",
   "topics": {
-    "github": [
-      {
-        "title": "Deepfake fraud losses hit US$3.7B as scams spread beyond social media",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T01:30:11+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/"
-      }
-    ],
     "ai": [
+      {
+        "title": "163,000 workers, 37% training: Malaysia’s AI skills gap in focus",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:00:17+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/"
+      },
       {
         "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-15T22:40:47+00:00",
         "relevance_score": 16,
         "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html"
+      },
+      {
+        "title": "Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T02:43:03+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/"
+      },
+      {
+        "title": "Sovereign alpha: An investment thesis for a scarcer world",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:00:23+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
       },
       {
         "title": "Your customers are not buying your product, they are buying a better version of themselves",
@@ -33,6 +45,82 @@
         "published_at": "2026-07-15T21:09:51+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2721001"
+      },
+      {
+        "title": "The new travel bottleneck is not booking, it’s staying operational on the move",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T02:50:15+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-new-travel-bottleneck-is-not-booking-its-staying-operational-on-the-move-20260714/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "163,000 workers, 37% training: Malaysia’s AI skills gap in focus",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:00:17+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/"
+      },
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T09:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95286373/"
+      },
+      {
+        "title": "Sovereign alpha: An investment thesis for a scarcer world",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:00:23+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
+      },
+      {
+        "title": "Burnout isn’t just personal, it’s becoming an operations problem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T01:00:44+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/"
+      }
+    ],
+    "github": [
+      {
+        "title": "Deepfake fraud losses hit US$3.7B as scams spread beyond social media",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T01:30:11+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T02:43:03+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/"
+      },
+      {
+        "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-16T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN65294474/"
+      },
+      {
+        "title": "Sovereign alpha: An investment thesis for a scarcer world",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T03:00:23+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
+      },
+      {
+        "title": "Your customers are not buying your product, they are buying a better version of themselves",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-16T01:15:27+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/"
       }
     ],
     "general": [
@@ -42,6 +130,13 @@
         "published_at": "2026-07-16T00:23:18.349+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf"
+      },
+      {
+        "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T01:40:40+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html"
       },
       {
         "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
@@ -60,14 +155,12 @@
     ],
     "security": [
       {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
+        "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-16T09:30:00+09:00",
+        "published_at": "2026-07-16T12:00:00+09:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95286373/"
-      }
-    ],
-    "geopolitics": [
+        "url": "https://jvn.jp/jp/JVN65294474/"
+      },
       {
         "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
         "source": "JVN Japan Vulnerability Notes",
@@ -76,20 +169,11 @@
         "url": "https://jvn.jp/vu/JVNVU95286373/"
       },
       {
-        "title": "Burnout isn’t just personal, it’s becoming an operations problem",
+        "title": "Sovereign alpha: An investment thesis for a scarcer world",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T01:00:44+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/burnout-isnt-just-personal-its-becoming-an-operations-problem-20260714/"
-      }
-    ],
-    "economy": [
-      {
-        "title": "Your customers are not buying your product, they are buying a better version of themselves",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-16T01:15:27+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/"
+        "published_at": "2026-07-16T03:00:23+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/"
       }
     ]
   }

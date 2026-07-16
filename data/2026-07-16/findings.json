@@ -1,5 +1,27 @@
 [
   {
+    "title": "163,000 workers, 37% training: Malaysia’s AI skills gap in focus",
+    "url": "https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T03:00:17+00:00",
+    "fetched_at": "2026-07-16T03:18:46+00:00",
+    "summary": "A government-commissioned study found that 24 per cent of Global Business Services roles in Malaysia are highly impacted by AI and 65 per cent are medium impacted. Nearly nine in ten GBS jobs are changing in some material way within the next three to five years. The same study put a number on the people […] The post 163,000 workers, 37% training: Malaysia’s AI skills gap in focus appeared first on e27 .",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d4d05212eeb3658bc3f"
+  },
+  {
     "title": "Deepfake fraud losses hit US$3.7B as scams spread beyond social media",
     "url": "https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -79,6 +101,28 @@
     "id": "0c499badf87040fb578a"
   },
   {
+    "title": "Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste",
+    "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T02:43:03+00:00",
+    "fetched_at": "2026-07-16T03:18:46+00:00",
+    "summary": "Winnow, the London-headquartered AI food waste measurement company, has acquired Singapore-founded Lumitics, in a deal that strengthens its position in Asia Pacific’s hospitality technology market. The companies did not disclose the financial terms of the transaction. The acquisition brings Lumitics’s regional deployments and hotel relationships into Winnow’s global platform, which is used by foodservice and […] The…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Webentwicklung"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ec7ea6401994d351e09b"
+  },
+  {
     "title": "M 4.7 - 1 km WNW of Sōsa, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -116,6 +160,28 @@
     "id": "5cb832c0e19171818da8"
   },
   {
+    "title": "Tera TermのTTSSH2プラグインにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN65294474/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-16T12:00:00+09:00",
+    "fetched_at": "2026-07-16T03:18:46+00:00",
+    "summary": "TeraTerm Projectが提供するTera TermのTTSSH2プラグインには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "16c7d810cd844ac4e9dc"
+  },
+  {
     "title": "Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
     "url": "https://jvn.jp/vu/JVNVU95286373/",
     "source": "JVN Japan Vulnerability Notes",
@@ -136,6 +202,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a5f7bd0fa2933ebfaa8a"
+  },
+  {
+    "title": "Sovereign alpha: An investment thesis for a scarcer world",
+    "url": "https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T03:00:23+00:00",
+    "fetched_at": "2026-07-16T03:18:46+00:00",
+    "summary": "Software is no longer the primary driver of alpha; physical sovereignty is. Market value is shifting from “software-only” models to “control points” where technology meets physical security and national resilience. In this new operating environment, capital is moving away from pure digital scalability and toward the “Sovereign Alpha”—the premium generated by infrastructure that ensures a […] The post Sovereign alpha…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Security",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "45d7129c1280070b2d5b"
   },
   {
     "title": "Your customers are not buying your product, they are buying a better version of themselves",
@@ -178,6 +287,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "55770686827c10ca23e2"
+  },
+  {
+    "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-16T01:40:40+00:00",
+    "fetched_at": "2026-07-16T03:18:46+00:00",
+    "summary": "関連記事 全国のJR券売機で一時障害 「えきねっと」などWebも 基幹システム「マルス」不具合で JRグル－プでは、JR東日本の「モバイルSuica」でも同日に障害が起きているが、MARSとモバイルSuicaの障害は「無関係」という。 モバイルSuica障害「チャージできない」「アプリから消えた」……JR東がメンテナンス メンテナ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "07b63c15921b07d2977a"
   },
   {
     "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
@@ -241,5 +371,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "748d1d6fdad80d50901a"
+  },
+  {
+    "title": "The new travel bottleneck is not booking, it’s staying operational on the move",
+    "url": "https://e27.co/the-new-travel-bottleneck-is-not-booking-its-staying-operational-on-the-move-20260714/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-16T02:50:15+00:00",
+    "fetched_at": "2026-07-16T03:18:46+00:00",
+    "summary": "For years, the travel industry focused on removing friction from the booking experience. And in many ways, it succeeded. Flights, hotels, airport transfers, restaurant reservations, and activities can now be researched, compared, and confirmed in minutes. What once required printed itineraries, phone calls, or multiple agents now happens across a handful of tabs and apps. […] The post The new travel bottleneck is no…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "21e2870344db859e7407"
   }
 ]

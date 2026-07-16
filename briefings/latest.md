@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T02:09:56+00:00_
+_Generiert: 2026-07-16T03:19:14+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Deepfake fraud losses hit US$3.7B as scams spread beyond social media“ aus e27 Asia Startup and Tech Feed (Score 16, risk).
+15 neue relevante Treffer. Stärkstes Signal: „163,000 workers, 37% training: Malaysia’s AI skills gap in focus“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **163,000 workers, 37% training: Malaysia’s AI skills gap in focus** — Score 16, observation — [Quelle](https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-16T03:00:17+00:00`, fetched `2026-07-16T03:18:46+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: A government-commissioned study found that 24 per cent of Global Business Services roles in Malaysia are highly impacted by AI and 65 per cent are medium impacted. Nearly nine in ten GBS jobs are changing in some material way within the next three to five years. The same study put a number on the people […] The post 163,000 workers, 37% training: Malaysia’s AI skills gap in focus appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Deepfake fraud losses hit US$3.7B as scams spread beyond social media** — Score 16, risk — [Quelle](https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-16T01:30:11+00:00`, fetched `2026-07-16T02:09:26+00:00`
@@ -91,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste** — Score 15, observation — [Quelle](https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-16T02:43:03+00:00`, fetched `2026-07-16T03:18:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Winnow, the London-headquartered AI food waste measurement company, has acquired Singapore-founded Lumitics, in a deal that strengthens its position in Asia Pacific’s hospitality technology market. The companies did not disclose the financial terms of the transaction. The acquisition brings Lumitics’s regional deployments and hotel relationships into Winnow’s global platform, which is used by foodservice and […] The…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 1 km WNW of Sōsa, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-16T00:23:18.349+00:00`, fetched `2026-07-16T00:49:01+00:00`
@@ -99,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Tera TermのTTSSH2プラグインにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN65294474/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-16T12:00:00+09:00`, fetched `2026-07-16T03:18:46+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: TeraTerm Projectが提供するTera TermのTTSSH2プラグインには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Apache Tomcatにおける複数の脆弱性(2026年7月14日)** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95286373/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -112,6 +139,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Sovereign alpha: An investment thesis for a scarcer world** — Score 13, observation — [Quelle](https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-16T03:00:23+00:00`, fetched `2026-07-16T03:18:46+00:00`
+  - Treffer: APAC Trend Radar, Security, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Software is no longer the primary driver of alpha; physical sovereignty is. Market value is shifting from “software-only” models to “control points” where technology meets physical security and national resilience. In this new operating environment, capital is moving away from pure digital scalability and toward the “Sovereign Alpha”—the premium generated by infrastructure that ensures a […] The post Sovereign alpha…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your customers are not buying your product, they are buying a better version of themselves** — Score 7, observation — [Quelle](https://e27.co/your-customers-are-not-buying-your-product-they-are-buying-a-better-version-of-themselves-20260714/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-16T01:15:27+00:00`, fetched `2026-07-16T01:21:50+00:00`
@@ -129,6 +165,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
   - Kurz: For the longest time, I thought burnout was simply part of entrepreneurship. You work harder. You sleep less. You push through. If you’re building something meaningful, surely exhaustion is just part of the price of admission. Like many founders, I wore long hours almost like a badge of honour. I wanted to build big companies, […] The post Burnout isn’t just personal, it’s becoming an operations problem appeared fir…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **クレカ障害、全国で発生か 「カード払いできない」報告多数** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news064.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-16T01:40:40+00:00`, fetched `2026-07-16T03:18:46+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 関連記事 全国のJR券売機で一時障害 「えきねっと」などWebも 基幹システム「マルス」不具合で JRグル－プでは、JR東日本の「モバイルSuica」でも同日に障害が起きているが、MARSとモバイルSuicaの障害は「無関係」という。 モバイルSuica障害「チャージできない」「アプリから消えた」……JR東がメンテナンス メンテナ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/update/2124755.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -148,20 +193,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年7月13日、株式会社ニチレイは、同社グループのシステムが不正アクセスによる障害を受け、冷蔵倉庫の入出庫業務や冷凍食品の出荷業務に影響が生じていると公表しました。その後、同社のサーバーがサイバー攻撃を受けたことを確認したとして続報を公表し、障害の影響は取引先・関連組織の商品供給にも及んでいます。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **最近やたらと「壁打ち」って言葉を使いたがる自信過剰気味の若手がいるけど、「相手に意見を求める場合」に使うのは極めて失礼→「壁打ち」の用法をめぐり意見さまざま** — Score 5, observation — [Quelle](https://togetter.com/li/2721001)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T21:09:51+00:00`, fetched `2026-07-16T00:05:15+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Dr Naoko Hashimoto 橋本直子 @NaokoScalise 最近やたらと「壁打ち」っていう言葉を使いたがる自信過剰気味の10代後半から20代前半の人がいるけど、個人でのAIとの問答ならまだしも、他人（いわんや目上の方）に相談したい・意見を賜りたい時にも「壁打ちの機会を頂きたい」って言うのはおかしいし極めて失礼。壁打ちな...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
