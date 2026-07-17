@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T11:31:52+00:00",
+  "generated_at": "2026-07-17T11:59:27+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/"
       },
       {
+        "title": "WBBA convenes Asia-Pacific’s first Broadband Development Summit in Bangkok, launches AI-Net Certification",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-17T11:32:52+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/wbba-convenes-asia-pacifics-first-broadband-development-summit-in-bangkok-launches-ai-net-certification-20260717/"
+      },
+      {
         "title": "Ecosystem Roundup: Why Winnow’s Lumitics deal matters",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-17T09:36:28+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-17T02:15:04+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/"
-      },
-      {
-        "title": "apache/ossie",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/apache/ossie"
       }
     ],
     "github": [
@@ -328,18 +328,18 @@
         "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324"
       },
       {
+        "title": "Obsidianをよりわかりやすく。視覚化プラグイン活用術 | ライフハッカー・ジャパン",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-17T05:57:56+00:00",
+        "relevance_score": 5,
+        "url": "https://www.lifehacker.jp/article/2607-obsidian-plugins-visualize-notes/"
+      },
+      {
         "title": "Not Found",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-17T04:21:23+00:00",
         "relevance_score": 5,
         "url": "https://anond.hatelabo.jp/20260717130259"
-      },
-      {
-        "title": "かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T03:02:55+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news073.html"
       }
     ],
     "economy": [

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T11:31:52+00:00_
+_Generiert: 2026-07-17T11:59:27+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+69 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 02:04:04 UTC 2026-07-17 02:04:04 UTC at epicenter Location 13.741°N 58.341°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **WBBA convenes Asia-Pacific’s first Broadband Development Summit in Bangkok, launches AI-Net Certification** — Score 8, opportunity — [Quelle](https://e27.co/wbba-convenes-asia-pacifics-first-broadband-development-summit-in-bangkok-launches-ai-net-certification-20260717/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-17T11:32:52+00:00`, fetched `2026-07-17T11:58:56+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Regulators, standards bodies and leading operators met in Bangkok on 14 July for the region’s inaugural summit, where the World Broadband Association set out a shared agenda for network infrastructure in the AI era and named XLSmart its first AI-Net Champion. Government officials, international standards bodies and the region’s leading telecom operators gathered in Bangkok […] The post WBBA convenes Asia-Pacific’s f…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Piero Cipollone: The cooperative spirit at the heart of the digital euro** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-07-17T10:00:00+00:00`, fetched `2026-07-17T10:18:46+00:00`
@@ -176,15 +185,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Piero Cipollone: The cooperative spirit at the heart of the digital euro
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ecosystem Roundup: Why Winnow’s Lumitics deal matters** — Score 8, observation — [Quelle](https://e27.co/ecosystem-roundup-why-winnows-lumitics-deal-matters-20260717/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T09:36:28+00:00`, fetched `2026-07-17T09:38:57+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Food waste is a US$1T global problem, and Southeast Asia sits at its bleeding edge. Hotels and commercial kitchens across the region discard tonnes of food daily, not from carelessness, but from an absence of data. That gap is exactly what Singapore-based Lumitics was built to close. Winnow’s acquisition of Lumitics is not just a […] The post Ecosystem Roundup: Why Winnow’s Lumitics deal matters appeared first on e2…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **apache/ossie** — Score 8, observation — [Quelle](https://github.com/apache/ossie)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
