@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T08:10:36+00:00",
+  "generated_at": "2026-07-17T08:58:56+00:00",
   "topics": {
     "ai": [
       {
@@ -177,18 +177,18 @@
         "url": "https://jvn.jp/vu/JVNVU90968686/"
       },
       {
-        "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] HTTP/2 Server: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T07:35:06+00:00",
+        "published_at": "2026-07-17T08:10:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1087"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2388"
       },
       {
-        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] cyrus imap: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T07:35:04+00:00",
+        "published_at": "2026-07-17T08:10:04+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0562"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2387"
       }
     ],
     "geopolitics": [
@@ -205,6 +205,20 @@
         "published_at": "2026-07-17T05:34:20+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
+      },
+      {
+        "title": "[NEU] [mittel] HTTP/2 Server: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T08:10:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2388"
+      },
+      {
+        "title": "[NEU] [mittel] cyrus imap: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T08:10:04+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2387"
       },
       {
         "title": "Euro area monthly balance of payments: May 2026",

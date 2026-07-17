@@ -232,6 +232,75 @@
     "id": "5366a4067de836bfb01f"
   },
   {
+    "title": "[NEU] [mittel] HTTP/2 Server: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2388",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-17T08:10:05+00:00",
+    "fetched_at": "2026-07-17T08:58:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in verschiedenen HTTP/2 Server Implementierungen wie dem Apache Traffic Server ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36931dc31836ebd56809"
+  },
+  {
+    "title": "[NEU] [mittel] cyrus imap: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2387",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-17T08:10:04+00:00",
+    "fetched_at": "2026-07-17T08:58:25+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in cyrus imap ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten offenzulegen oder zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "566d7c886ec692d78dce"
+  },
+  {
+    "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2347",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-17T08:10:03+00:00",
+    "fetched_at": "2026-07-17T08:58:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmechanismen zu umgehen oder andere, nicht näher genannte Auswirkungen zu erzielen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "37a8f9ccb0bfbe461d3d"
+  },
+  {
     "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1087",
     "source": "BSI CERT-Bund Security Advisories",
@@ -989,6 +1058,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d5a95019a1aff6611069"
+  },
+  {
+    "title": "GETでもPOSTでもない HTTP新メソッド「QUERY」が標準化へ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news049.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-16T23:48:30+00:00",
+    "fetched_at": "2026-07-17T08:58:25+00:00",
+    "summary": "GETでもPOSTでもない、第3のHTTPメソッドが標準化に進んだ。IETFが公開した「QUERY」は、検索専用のHTTPメソッドとして設計され、長年指摘されてきたURL長や検索APIの課題を解決することを目指す。新仕様の仕組みと実装への影響を読み解く。 インターネットの運用や利用に関する技術仕様の標準化を推進する国際的な任意...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8da1891bc4511adf5c7d"
   },
   {
     "title": "GMOの在宅勤務廃止は間違っていない？ ワサビのインシデントから考える企業防衛",
