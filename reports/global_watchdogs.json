@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-07-17T14:52:33+00:00",
+  "generated_at": "2026-07-17T15:22:31+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "critical",
+        "title": "USGS earthquake M7.3 - 48 km SW of Aquiles Serdán, Mexico",
+        "summary": "M7.3 - 48 km SW of Aquiles Serdán, Mexico. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
+        "published_at": "2026-07-17T14:48:39+00:00",
+        "metrics": {
+          "mag": 7.3,
+          "alert": "",
+          "sig": 838.0,
+          "tsunami": 0
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -149,16 +164,6 @@
         "summary": "Green notification for tropical cyclone ELIDA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001282",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779",
         "published_at": "",
         "metrics": {}
       }

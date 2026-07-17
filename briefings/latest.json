@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T14:52:30+00:00",
-  "run_id": "2026-07-17T14:52:30+00:00",
+  "generated_at": "2026-07-17T15:22:27+00:00",
+  "run_id": "2026-07-17T15:22:27+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "new_relevant_findings": 1,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
     "medium": 32,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -939,6 +939,43 @@
           "PINS"
         ],
         "id": "f6bf22b45d718185d2df"
+      },
+      {
+        "title": "M 7.3 - 48 km SW of Aquiles Serdán, Mexico",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-17T15:20:46.016+00:00",
+        "fetched_at": "2026-07-17T15:21:56+00:00",
+        "summary": "ShakeMap - VII DYFI? - V Time 2026-07-17 14:48:39 UTC 2026-07-17 14:48:39 UTC at epicenter Location 14.691°N 92.886°W Depth 15.18 km (9.43 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "050852bc7ee035291849"
       },
       {
         "title": "A scorecard for the AI age",
@@ -3000,6 +3037,43 @@
       "id": "f6bf22b45d718185d2df"
     },
     {
+      "title": "M 7.3 - 48 km SW of Aquiles Serdán, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-17T15:20:46.016+00:00",
+      "fetched_at": "2026-07-17T15:21:56+00:00",
+      "summary": "ShakeMap - VII DYFI? - V Time 2026-07-17 14:48:39 UTC 2026-07-17 14:48:39 UTC at epicenter Location 14.691°N 92.886°W Depth 15.18 km (9.43 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "050852bc7ee035291849"
+    },
+    {
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "source": "OpenAI News RSS",
@@ -4149,46 +4223,41 @@
   ],
   "new_findings": [
     {
-      "title": "世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab",
-      "url": "https://tech-lab.sios.jp/archives/53462",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 7.3 - 48 km SW of Aquiles Serdán, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-17T11:28:14+00:00",
-      "fetched_at": "2026-07-17T14:52:01+00:00",
-      "summary": "こんにちは、サイオステクノロジー武井です。今回はasync/awaitの動きをOSカーネルのレイヤーから追うことで理解を深めようとしてみます。 1. async/awaitはむずい async/await、なかなかにとっつきにくい概念だと思います。 「非同期処理には async を付ける」「await しないと結果が取れない」——ルールとしては覚えら...",
+      "published_at": "2026-07-17T15:20:46.016+00:00",
+      "fetched_at": "2026-07-17T15:21:56+00:00",
+      "summary": "ShakeMap - VII DYFI? - V Time 2026-07-17 14:48:39 UTC 2026-07-17 14:48:39 UTC at epicenter Location 14.691°N 92.886°W Depth 15.18 km (9.43 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a99aa43f46f843cc22e0"
-    },
-    {
-      "title": "戦場投入のロシア兵、生存時間はわずか20～30分か アメリカCIAが分析 ウクライナAIドローン進化で｜FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/1076813",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-17T06:51:35+00:00",
-      "fetched_at": "2026-07-17T14:52:01+00:00",
-      "summary": "戦場投入のロシア兵、生存時間はわずか20～30分か アメリカCIAが分析 ウクライナAIドローン進化で CIA（アメリカ中央情報局）は、ウクライナのAI搭載ドローンの進化により、戦場に投入されたロシア兵が生存できる時間はわずか20分から30分にすぎないとする分析結果を明らかにしました。 CIAのラトクリフ長官は15日、ペ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3017cf00900c5647e35d"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "050852bc7ee035291849"
     }
   ],
   "source_errors": [],
