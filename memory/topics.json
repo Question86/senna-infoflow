@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T09:39:25+00:00",
+  "generated_at": "2026-07-17T10:19:17+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/openinterpreter/openinterpreter"
+      },
+      {
+        "title": "CMBI, SMBC back Whale’s US$40M Series C extension for enterprise AI expansion",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-17T09:53:10+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/cmbi-smbc-back-whales-us40m-series-c-extension-for-enterprise-ai-expansion-20260717/"
       },
       {
         "title": "PostHog/posthog",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/apache/ossie"
-      },
-      {
-        "title": "ルーターに挿す約320円の広告ブロッカー、13万ドメインをRAM40KBで判定 - FabScene（ファブシーン）",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T02:48:53+00:00",
-        "relevance_score": 5,
-        "url": "https://fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/"
       }
     ],
     "github": [
@@ -121,11 +121,32 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T09:50:04+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1996"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-17T11:00:30+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU95874748/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T09:50:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2077"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T09:45:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2208"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -168,27 +189,6 @@
         "published_at": "2026-07-17T11:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90338324/"
-      },
-      {
-        "title": "SGLangにおけるPickleのデシリアライゼーションに関する脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-17T11:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90968686/"
-      },
-      {
-        "title": "[NEU] [mittel] HTTP/2 Server: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T08:10:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2388"
-      },
-      {
-        "title": "[NEU] [mittel] cyrus imap: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T08:10:04+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2387"
       }
     ],
     "geopolitics": [
@@ -228,11 +228,25 @@
         "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html"
       },
       {
+        "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-17T10:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html"
+      },
+      {
         "title": "apache/ossie",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/apache/ossie"
+      },
+      {
+        "title": "VMware Avi Load Balancer: Kritische Lücke erlaubt Umgehung von Anmeldung",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-17T10:11:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/VMware-Avi-Load-Balancer-Kritische-Luecke-erlaubt-Umgehung-von-Anmeldung-11368661.html"
       },
       {
         "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
