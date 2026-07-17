@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T19:53:36+00:00",
-  "run_id": "2026-07-17T19:53:36+00:00",
+  "generated_at": "2026-07-17T20:16:04+00:00",
+  "run_id": "2026-07-17T20:16:04+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 96
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 0,
     "medium": 33,
-    "observe": 62,
+    "observe": 63,
     "source_errors": 0
   },
   "sections": {
@@ -1971,6 +1971,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "df9687bd03288728341a"
+      },
+      {
+        "title": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-17T19:47:45+00:00",
+        "fetched_at": "2026-07-17T20:15:35+00:00",
+        "summary": "You can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and… The post GitHub Mobile: Fix pull request comments with Copilot cloud agent appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "099ca4c7de4203efec43"
       },
       {
         "title": "The cost of saying yes has changed",
@@ -4436,6 +4457,27 @@
       "id": "df9687bd03288728341a"
     },
     {
+      "title": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-17T19:47:45+00:00",
+      "fetched_at": "2026-07-17T20:15:35+00:00",
+      "summary": "You can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and… The post GitHub Mobile: Fix pull request comments with Copilot cloud agent appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "099ca4c7de4203efec43"
+    },
+    {
       "title": "The cost of saying yes has changed",
       "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
       "source": "GitHub Blog Atom",
@@ -4957,25 +4999,25 @@
   ],
   "new_findings": [
     {
-      "title": "VS Code拡張機能「Draw.io Integration」、Markdownのプレビュー上で図をインライン編集する機能、プレリリース版で提供 | gihyo.jp",
-      "url": "https://gihyo.jp/article/2026/07/vscode-drawio-extension-inline-editing",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-17T11:38:53+00:00",
-      "fetched_at": "2026-07-17T19:53:06+00:00",
-      "summary": "VS Code拡張機能「Draw.io Integration」⁠⁠、Markdownのプレビュー上で図をインライン編集する機能⁠⁠、プレリリース版で提供 draw.ioの公式Xアカウントは2026年7月9日、Visual Studio Code（VS Code）用の拡張機能「Draw.io Integration」に、図をインライン編集する機能が加わったと紹介した。Markdownファイルを「Mark...",
+      "published_at": "2026-07-17T19:47:45+00:00",
+      "fetched_at": "2026-07-17T20:15:35+00:00",
+      "summary": "You can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and… The post GitHub Mobile: Fix pull request comments with Copilot cloud agent appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8934a3bfc61a69781c51"
+      "id": "099ca4c7de4203efec43"
     }
   ],
   "source_errors": [],

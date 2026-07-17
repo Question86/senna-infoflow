@@ -1941,6 +1941,27 @@
     "id": "df9687bd03288728341a"
   },
   {
+    "title": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+    "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-17T19:47:45+00:00",
+    "fetched_at": "2026-07-17T20:15:35+00:00",
+    "summary": "You can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and… The post GitHub Mobile: Fix pull request comments with Copilot cloud agent appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "099ca4c7de4203efec43"
+  },
+  {
     "title": "The cost of saying yes has changed",
     "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
     "source": "GitHub Blog Atom",
