@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T03:40:31+00:00",
-  "run_id": "2026-07-17T03:40:31+00:00",
+  "generated_at": "2026-07-17T04:46:53+00:00",
+  "run_id": "2026-07-17T04:46:53+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1343,175 +1343,7 @@
       "id": "fc6379561cc2082c2586"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
-      "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-17T03:36:48+00:00",
-      "fetched_at": "2026-07-17T03:40:00+00:00",
-      "summary": "Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often fall outside conventional bank lending criteria. The MD Technology Financing Programme is backed by a RM200 million (~US$47.1 […] The post CapBay, MDEC set up U…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "87c0f7361f62aef244e0"
-    },
-    {
-      "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
-      "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-17T02:45:06+00:00",
-      "fetched_at": "2026-07-17T03:40:00+00:00",
-      "summary": "I couldn’t understand why my student had ignored almost all of my feedback. I had carefully reviewed his capstone presentation, working through each slide, thinking about the structure, the technical flow and how he could communicate his ideas more effectively. Like many educators adapting to the AI era, I also used AI to help organise […] The post AI and the crisis of recognition: Do we still see the human behind t…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "97cdc0fae04a55e89a51"
-    },
-    {
-      "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-17T02:05:58+00:00",
-      "fetched_at": "2026-07-17T03:40:00+00:00",
-      "summary": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4c45b684131dba81affa"
-    },
-    {
-      "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-17T01:56:16+00:00",
-      "fetched_at": "2026-07-17T03:40:00+00:00",
-      "summary": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0faaab990cae238370ad"
-    },
-    {
-      "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-17T01:39:56+00:00",
-      "fetched_at": "2026-07-17T03:40:00+00:00",
-      "summary": "7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d5a95019a1aff6611069"
-    },
-    {
-      "title": "なぜAI臭さを消したいのか？｜laiso",
-      "url": "https://sizu.me/laiso/posts/mcerekex7091",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-16T22:33:19+00:00",
-      "fetched_at": "2026-07-17T03:40:00+00:00",
-      "summary": "前に「AIの作文はなぜつまらないのか」という記事を書いた。AIの文章は分量のわりに情報量が少ないし、面白さを自動で評価する仕組みもないから、みたいな話だった。今回は逆に書き手としての話をしたい。 きっかけは cognitive-rhythm-writing というスキルがタイムラインに流れてきたことで、これは日本語の文章に緩急...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "43525d1657f5e6b2be79"
-    },
-    {
-      "title": "How Asia is turning football’s year-round calendar into a fan engagement battleground",
-      "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-17T03:00:47+00:00",
-      "fetched_at": "2026-07-17T03:40:00+00:00",
-      "summary": "Basketball has always been built for momentum. A fast break, a buzzer-beater, a chasedown block or a no-look pass can change the mood of a game in seconds. That rhythm has made the sport especially well-suited to the digital age, where fans increasingly discover, follow and debate sport through clips, personalities, live data and second-screen […] The post How Asia is turning football’s year-round calendar into a fa…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7026c9d4bc32bf2f5b6f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
