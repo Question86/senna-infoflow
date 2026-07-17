@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T11:59:27+00:00",
+  "generated_at": "2026-07-17T12:34:55+00:00",
   "topics": {
     "ai": [
       {
@@ -286,6 +286,20 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171"
       },
       {
+        "title": "M 5.3 - 203 km N of Hadibu, Yemen",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T12:21:15.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19u"
+      },
+      {
+        "title": "M 4.6 - 206 km N of Hadibu, Yemen",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T12:07:36.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19p"
+      },
+      {
         "title": "M 4.7 - 283 km NE of Lospalos, Timor Leste",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-17T07:56:26.040+00:00",
@@ -326,20 +340,6 @@
         "published_at": "2026-07-17T00:52:11+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324"
-      },
-      {
-        "title": "Obsidianをよりわかりやすく。視覚化プラグイン活用術 | ライフハッカー・ジャパン",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T05:57:56+00:00",
-        "relevance_score": 5,
-        "url": "https://www.lifehacker.jp/article/2607-obsidian-plugins-visualize-notes/"
-      },
-      {
-        "title": "Not Found",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T04:21:23+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260717130259"
       }
     ],
     "economy": [

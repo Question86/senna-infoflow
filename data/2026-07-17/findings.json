@@ -915,6 +915,78 @@
     "id": "7fa28157fab1299c73d3"
   },
   {
+    "title": "M 5.3 - 203 km N of Hadibu, Yemen",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19u",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-17T12:21:15.040+00:00",
+    "fetched_at": "2026-07-17T12:34:26+00:00",
+    "summary": "Time 2026-07-17 12:01:14 UTC 2026-07-17 12:01:14 UTC at epicenter Location 14.487°N 54.145°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "171710b0a615b56454bd"
+  },
+  {
+    "title": "M 4.6 - 206 km N of Hadibu, Yemen",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19p",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-17T12:07:36.040+00:00",
+    "fetched_at": "2026-07-17T12:34:26+00:00",
+    "summary": "Time 2026-07-17 11:48:39 UTC 2026-07-17 11:48:39 UTC at epicenter Location 14.515°N 54.088°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "52e286de246290310354"
+  },
+  {
     "title": "M 4.7 - 283 km NE of Lospalos, Timor Leste",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t18g",
     "source": "USGS M4.5+ Earthquakes Past Hour",
