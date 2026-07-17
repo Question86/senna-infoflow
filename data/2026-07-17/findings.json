@@ -1113,6 +1113,42 @@
     "id": "415089ddbcf224cf417a"
   },
   {
+    "title": "M 5.3 - 93 km SW of Puerto Madero, Mexico",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-17T15:49:47.022+00:00",
+    "fetched_at": "2026-07-17T15:54:17+00:00",
+    "summary": "DYFI? - III Time 2026-07-17 15:14:55 UTC 2026-07-17 15:14:55 UTC at epicenter Location 14.189°N 93.099°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5594ca2368ead0b632c7"
+  },
+  {
     "title": "M 4.7 - 60 km WSW of Aquiles Serdán, Mexico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ai",
     "source": "USGS M4.5+ Earthquakes Past Hour",

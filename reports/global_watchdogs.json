@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-17T15:22:31+00:00",
+  "generated_at": "2026-07-17T15:54:47+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "critical",
         "title": "USGS earthquake M7.3 - 48 km SW of Aquiles Serdán, Mexico",
-        "summary": "M7.3 - 48 km SW of Aquiles Serdán, Mexico. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M7.3 - 48 km SW of Aquiles Serdán, Mexico. PAGER alert: pending. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
         "published_at": "2026-07-17T14:48:39+00:00",
         "metrics": {
           "mag": 7.3,
-          "alert": "",
-          "sig": 838.0,
+          "alert": "pending",
+          "sig": 897.0,
           "tsunami": 0
         }
       },
@@ -76,6 +76,16 @@
         "metrics": {
           "cve": "CVE-2023-4346"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Orange earthquake (Magnitude 7.3M, Depth:15.178km) in Mexico 17/07/2026 14:48 UTC, 350 thousand (in MMI&gt;=VII).",
+        "summary": "Orange earthquake (Magnitude 7.3M, Depth:15.178km) in Mexico 17/07/2026 14:48 UTC, 350 thousand (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -154,16 +164,6 @@
         "summary": "Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551894",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone ELIDA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone ELIDA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001282",
         "published_at": "",
         "metrics": {}
       }

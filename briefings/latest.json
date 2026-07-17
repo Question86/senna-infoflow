@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T15:22:27+00:00",
-  "run_id": "2026-07-17T15:22:27+00:00",
+  "generated_at": "2026-07-17T15:54:45+00:00",
+  "run_id": "2026-07-17T15:54:45+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 32,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1143,6 +1143,42 @@
           "PINS"
         ],
         "id": "415089ddbcf224cf417a"
+      },
+      {
+        "title": "M 5.3 - 93 km SW of Puerto Madero, Mexico",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-17T15:49:47.022+00:00",
+        "fetched_at": "2026-07-17T15:54:17+00:00",
+        "summary": "DYFI? - III Time 2026-07-17 15:14:55 UTC 2026-07-17 15:14:55 UTC at epicenter Location 14.189°N 93.099°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5594ca2368ead0b632c7"
       },
       {
         "title": "M 4.7 - 60 km WSW of Aquiles Serdán, Mexico",
@@ -3241,6 +3277,42 @@
       "id": "415089ddbcf224cf417a"
     },
     {
+      "title": "M 5.3 - 93 km SW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-17T15:49:47.022+00:00",
+      "fetched_at": "2026-07-17T15:54:17+00:00",
+      "summary": "DYFI? - III Time 2026-07-17 15:14:55 UTC 2026-07-17 15:14:55 UTC at epicenter Location 14.189°N 93.099°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5594ca2368ead0b632c7"
+    },
+    {
       "title": "M 4.7 - 60 km WSW of Aquiles Serdán, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ai",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4223,27 +4295,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 7.3 - 48 km SW of Aquiles Serdán, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
+      "title": "M 5.3 - 93 km SW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-17T15:20:46.016+00:00",
-      "fetched_at": "2026-07-17T15:21:56+00:00",
-      "summary": "ShakeMap - VII DYFI? - V Time 2026-07-17 14:48:39 UTC 2026-07-17 14:48:39 UTC at epicenter Location 14.691°N 92.886°W Depth 15.18 km (9.43 mi)",
+      "published_at": "2026-07-17T15:49:47.022+00:00",
+      "fetched_at": "2026-07-17T15:54:17+00:00",
+      "summary": "DYFI? - III Time 2026-07-17 15:14:55 UTC 2026-07-17 15:14:55 UTC at epicenter Location 14.189°N 93.099°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
-        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -4257,7 +4328,7 @@
         "HD",
         "LOW"
       ],
-      "id": "050852bc7ee035291849"
+      "id": "5594ca2368ead0b632c7"
     }
   ],
   "source_errors": [],
