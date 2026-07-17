@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T01:35:15+00:00_
+_Generiert: 2026-07-17T02:29:10+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+18 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -21,9 +21,54 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU95874748/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-17T11:00:30+09:00`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90338324/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-17T11:00:15+09:00`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **SGLangにおけるPickleのデシリアライゼーションに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90968686/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-17T11:00:00+09:00`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **openinterpreter/openinterpreter** — Score 14, observation — [Quelle](https://github.com/openinterpreter/openinterpreter)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: A coding agent for open models like Kimi K3 Open Interpreter A coding agent optimized for low-cost models. Blog post ↗ Note Today: Kimi K3 is here. We have reimplemented the provider-recommended Kimi Code harness in Rust, giving you maximum K3 performance with a Codex-like interface. Kimi Docs → Installation macOS and Linux: curl -fsSL https://www.openinterpreter.com/install | sh Windows: irm https://www.openinterpr…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **PostHog/posthog** — Score 13, opportunity — [Quelle](https://github.com/PostHog/posthog)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, developer tools, GitHub Trending, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is th…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.8 - 262 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-17T01:27:22.040+00:00`, fetched `2026-07-17T01:34:47+00:00`
@@ -33,6 +78,42 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - Owen Fracture Zone region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-17T02:21:48.040+00:00`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-17 02:04:04 UTC 2026-07-17 02:04:04 UTC at epicenter Location 13.741°N 58.341°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The sovereignty of judgment: Why human intelligence is your startup’s last moat** — Score 8, observation — [Quelle](https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-17T02:15:04+00:00`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: As we move deeper into 2026, the initial efficiency high of AI adoption is being met with a sobering reality: when everyone uses the same models to automate, the result is beige decay, a technically perfect but culturally hollow sameness. Recent findings from the iF Design Trend Report 2026 argue that we are entering an […] The post The sovereignty of judgment: Why human intelligence is your startup’s last moat appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **apache/ossie** — Score 8, observation — [Quelle](https://github.com/apache/ossie)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data Apache Ossie (incubating) Apache Ossie is a collaborative, open-source effort dedicated to standardizing and streamlining semantic model exchange and utilization across the diverse array of tools and platforms wit…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **松本大臣記者会見（令和8年7月17日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260717-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-17T02:16:50+00:00`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣記者会見（令和8年7月17日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **任期付職員の募集を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/fixed-term)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-17T00:58:30+00:00`, fetched `2026-07-17T01:34:47+00:00`
@@ -60,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth** — Score 4, observation — [Quelle](https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-17T02:12:10+00:00`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin trades at US$63,780.63, representing more than a 50 per cent correction from the all-time high of US$126,198 it established in October 2025. While the fourth post-halving cycle successfully produced a peak higher than any prior market expansion, the subsequent downward correction has proved exactly as aggressive as the previous upward climb. In the last […] The post Bitcoin at US$63,780: Buying opportunity o…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Product symbiosis: When two features create unexpected value together** — Score 4, observation — [Quelle](https://e27.co/product-symbiosis-when-two-features-create-unexpected-value-together-20260713/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-17T01:15:35+00:00`, fetched `2026-07-17T01:34:47+00:00`
@@ -69,10 +159,20 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Product teams usually discuss features as separate units of value. One feature improves activation. Another helps retention. A third supports monetisation. A fourth reduces friction in an important workflow. This way of thinking is useful for planning, but it quietly narrows how teams understand growth. In live products, features do not sit politely beside each […] The post Product symbiosis: When two features creat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **PrismML-Eng/Bonsai-demo** — Score 4, observation — [Quelle](https://github.com/PrismML-Eng/Bonsai-demo)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
+  - Kurz: Bonsai Demo Bonsai Demo Website | GitHub | Discord HF Collections: Bonsai 27B · Bonsai (1-bit) · Ternary-Bonsai Whitepapers: Bonsai 27B · 1-bit Bonsai 8B · Ternary-Bonsai 8B Using this demo repository you can run Bonsai (1-bit) and Ternary-Bonsai language models locally on Mac (Metal), Linux/Windows (CUDA, Vulkan, ROCm), or CPU. 🌱 New: Bonsai 27B The family's newest and largest generation, and its first vision-langu…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
