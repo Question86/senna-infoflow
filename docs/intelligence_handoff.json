@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-17T03:49:13Z",
+  "generated_at": "2026-07-17T05:00:42Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU90338324/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:15+09:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU90968686/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://github.com/apache/ossie",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "infra"
@@ -89,7 +89,7 @@
       "url": "https://jvn.jp/vu/JVNVU95874748/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:30+09:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -114,7 +114,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 28.08,
+      "age_days": 28.13,
       "topics": [
         "ai"
       ],
@@ -143,7 +143,7 @@
       "url": "https://github.com/interfacex-co-jp/genshijin",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T15:34:13+00:00",
-      "age_days": 0.51,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "macro"
@@ -170,7 +170,7 @@
       "url": "https://github.com/PostHog/posthog",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -196,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T01:27:22.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -221,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T02:21:48.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -246,7 +246,7 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -272,7 +272,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T01:39:56+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -296,7 +296,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260717-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T02:16:50+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
