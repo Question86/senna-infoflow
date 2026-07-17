@@ -1274,6 +1274,27 @@
     "id": "d1a9498783433a272545"
   },
   {
+    "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
+    "url": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-17T06:06:34+00:00",
+    "fetched_at": "2026-07-17T11:31:22+00:00",
+    "summary": "この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の152週目の記事です！ 3年間連続達成まで残り7週となりました！ こんにちは、ログラスの松岡(@little_hand_s)です。 3行まとめ 「レビューして」でも指摘は返ってくる。「敵対的検証して」は課題がある前提で反証を試み、判定と根拠まで返してくる...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f3e93c4bf1dd039993dd"
+  },
+  {
     "title": "Not Found",
     "url": "https://anond.hatelabo.jp/20260717130259",
     "source": "Hatena Bookmark Hotentry IT",
