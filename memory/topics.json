@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T21:20:15+00:00",
+  "generated_at": "2026-07-17T21:38:13+00:00",
   "topics": {
     "ai": [
       {
@@ -117,6 +117,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/apache/ossie"
+      },
+      {
+        "title": "Copilot code review: Customization and configurability improvements",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-17T21:08:30+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements"
       },
       {
         "title": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",

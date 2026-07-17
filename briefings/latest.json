@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T21:20:15+00:00",
-  "run_id": "2026-07-17T21:20:15+00:00",
+  "generated_at": "2026-07-17T21:38:13+00:00",
+  "run_id": "2026-07-17T21:38:13+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 96
+      "configured_public_sources_only": 98
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 96,
-    "displayed_findings": 96,
+    "new_relevant_findings": 2,
+    "today_file_total": 98,
+    "displayed_findings": 98,
     "high": 0,
     "medium": 33,
-    "observe": 63,
+    "observe": 65,
     "source_errors": 0
   },
   "sections": {
@@ -1973,6 +1973,27 @@
         "id": "df9687bd03288728341a"
       },
       {
+        "title": "Copilot code review: Customization and configurability improvements",
+        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-17T21:08:30+00:00",
+        "fetched_at": "2026-07-17T21:37:44+00:00",
+        "summary": "Copilot code review now utilizes a firewall, custom setup steps, and independent runner configurations. It now reads custom instructions from the head branch to allow for easy testing and validation… The post Copilot code review: Customization and configurability improvements appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "623e0bd48a5cb8725c3c"
+      },
+      {
         "title": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
         "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
         "source": "GitHub Changelog Atom",
@@ -2135,6 +2156,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a99aa43f46f843cc22e0"
+      },
+      {
+        "title": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson - FabScene（ファブシーン）",
+        "url": "https://fabscene.com/new/pr/escalator-lidar-recomputer-jetson/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-17T08:05:21+00:00",
+        "fetched_at": "2026-07-17T21:37:44+00:00",
+        "summary": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson 2026 7/17 エスカレーターの「片側空け」は、長年にわたって日本に定着してきた慣習だ。しかし近年、その慣習を見直す動きが各地で広がっている。2023年10月、名古屋市は政令指定都市として全国初となる、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b5b4a1f6cda3e0a4dd07"
       },
       {
         "title": "戦場投入のロシア兵、生存時間はわずか20～30分か アメリカCIAが分析 ウクライナAIドローン進化で｜FNNプライムオンライン",
@@ -4457,6 +4499,27 @@
       "id": "df9687bd03288728341a"
     },
     {
+      "title": "Copilot code review: Customization and configurability improvements",
+      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-17T21:08:30+00:00",
+      "fetched_at": "2026-07-17T21:37:44+00:00",
+      "summary": "Copilot code review now utilizes a firewall, custom setup steps, and independent runner configurations. It now reads custom instructions from the head branch to allow for easy testing and validation… The post Copilot code review: Customization and configurability improvements appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "623e0bd48a5cb8725c3c"
+    },
+    {
       "title": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
       "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
       "source": "GitHub Changelog Atom",
@@ -4619,6 +4682,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a99aa43f46f843cc22e0"
+    },
+    {
+      "title": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson - FabScene（ファブシーン）",
+      "url": "https://fabscene.com/new/pr/escalator-lidar-recomputer-jetson/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T08:05:21+00:00",
+      "fetched_at": "2026-07-17T21:37:44+00:00",
+      "summary": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson 2026 7/17 エスカレーターの「片側空け」は、長年にわたって日本に定着してきた慣習だ。しかし近年、その慣習を見直す動きが各地で広がっている。2023年10月、名古屋市は政令指定都市として全国初となる、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b5b4a1f6cda3e0a4dd07"
     },
     {
       "title": "戦場投入のロシア兵、生存時間はわずか20～30分か アメリカCIAが分析 ウクライナAIドローン進化で｜FNNプライムオンライン",
@@ -4997,7 +5081,50 @@
       "id": "fc6379561cc2082c2586"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Copilot code review: Customization and configurability improvements",
+      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-17T21:08:30+00:00",
+      "fetched_at": "2026-07-17T21:37:44+00:00",
+      "summary": "Copilot code review now utilizes a firewall, custom setup steps, and independent runner configurations. It now reads custom instructions from the head branch to allow for easy testing and validation… The post Copilot code review: Customization and configurability improvements appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "623e0bd48a5cb8725c3c"
+    },
+    {
+      "title": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson - FabScene（ファブシーン）",
+      "url": "https://fabscene.com/new/pr/escalator-lidar-recomputer-jetson/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T08:05:21+00:00",
+      "fetched_at": "2026-07-17T21:37:44+00:00",
+      "summary": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson 2026 7/17 エスカレーターの「片側空け」は、長年にわたって日本に定着してきた慣習だ。しかし近年、その慣習を見直す動きが各地で広がっている。2023年10月、名古屋市は政令指定都市として全国初となる、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b5b4a1f6cda3e0a4dd07"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
