@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-17T02:29:10+00:00_
+_Generated: 2026-07-17T03:40:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `25`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-17T02:29:10+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171
 - summary: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
 
-### 7. M 4.5 - Owen Fracture Zone region
+### 7. CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-07-17T03:36:48+00:00`
+- url: https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/
+- summary: Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often…
+
+### 8. M 4.5 - Owen Fracture Zone region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-07-17T02:21:48.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e
 - summary: Time 2026-07-17 02:04:04 UTC 2026-07-17 02:04:04 UTC at epicenter Location 13.741°N 58.341°E Depth 10.00 km (6.21 mi)
-
-### 8. The sovereignty of judgment: Why human intelligence is your startup’s last moat
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-07-17T02:15:04+00:00`
-- url: https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/
-- summary: As we move deeper into 2026, the initial efficiency high of AI adoption is being met with a sobering reality: when everyone uses the same models to automate, the result is beige decay, a technically perfect but culturally hollow sameness. Recent findings from…
 
 END OF DOCUMENT

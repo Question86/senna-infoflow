@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T02:29:10+00:00",
-  "run_id": "2026-07-17T02:29:10+00:00",
+  "generated_at": "2026-07-17T03:40:31+00:00",
+  "run_id": "2026-07-17T03:40:31+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 12,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 7,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 5,
-    "observe": 13,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -276,6 +276,48 @@
         "id": "7fa28157fab1299c73d3"
       },
       {
+        "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
+        "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-17T03:36:48+00:00",
+        "fetched_at": "2026-07-17T03:40:00+00:00",
+        "summary": "Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often fall outside conventional bank lending criteria. The MD Technology Financing Programme is backed by a RM200 million (~US$47.1 […] The post CapBay, MDEC set up U…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "87c0f7361f62aef244e0"
+      },
+      {
         "title": "M 4.5 - Owen Fracture Zone region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -310,6 +352,27 @@
           "LOW"
         ],
         "id": "f372c200f3cb8feafedd"
+      },
+      {
+        "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
+        "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-17T02:45:06+00:00",
+        "fetched_at": "2026-07-17T03:40:00+00:00",
+        "summary": "I couldn’t understand why my student had ignored almost all of my feedback. I had carefully reviewed his capstone presentation, working through each slide, thinking about the structure, the technical flow and how he could communicate his ideas more effectively. Like many educators adapting to the AI era, I also used AI to help organise […] The post AI and the crisis of recognition: Do we still see the human behind t…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "97cdc0fae04a55e89a51"
       },
       {
         "title": "The sovereignty of judgment: Why human intelligence is your startup’s last moat",
@@ -415,6 +478,90 @@
         "id": "d1a9498783433a272545"
       },
       {
+        "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-17T02:05:58+00:00",
+        "fetched_at": "2026-07-17T03:40:00+00:00",
+        "summary": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4c45b684131dba81affa"
+      },
+      {
+        "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-17T01:56:16+00:00",
+        "fetched_at": "2026-07-17T03:40:00+00:00",
+        "summary": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0faaab990cae238370ad"
+      },
+      {
+        "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-17T01:39:56+00:00",
+        "fetched_at": "2026-07-17T03:40:00+00:00",
+        "summary": "7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d5a95019a1aff6611069"
+      },
+      {
+        "title": "なぜAI臭さを消したいのか？｜laiso",
+        "url": "https://sizu.me/laiso/posts/mcerekex7091",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-16T22:33:19+00:00",
+        "fetched_at": "2026-07-17T03:40:00+00:00",
+        "summary": "前に「AIの作文はなぜつまらないのか」という記事を書いた。AIの文章は分量のわりに情報量が少ないし、面白さを自動で評価する仕組みもないから、みたいな話だった。今回は逆に書き手としての話をしたい。 きっかけは cognitive-rhythm-writing というスキルがタイムラインに流れてきたことで、これは日本語の文章に緩急...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "43525d1657f5e6b2be79"
+      },
+      {
         "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
         "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -434,6 +581,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8138b96926cb53ff9197"
+      },
+      {
+        "title": "How Asia is turning football’s year-round calendar into a fan engagement battleground",
+        "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-17T03:00:47+00:00",
+        "fetched_at": "2026-07-17T03:40:00+00:00",
+        "summary": "Basketball has always been built for momentum. A fast break, a buzzer-beater, a chasedown block or a no-look pass can change the mood of a game in seconds. That rhythm has made the sport especially well-suited to the digital age, where fans increasingly discover, follow and debate sport through clips, personalities, live data and second-screen […] The post How Asia is turning football’s year-round calendar into a fa…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7026c9d4bc32bf2f5b6f"
       },
       {
         "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
@@ -766,6 +933,48 @@
       "id": "7fa28157fab1299c73d3"
     },
     {
+      "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
+      "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-17T03:36:48+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often fall outside conventional bank lending criteria. The MD Technology Financing Programme is backed by a RM200 million (~US$47.1 […] The post CapBay, MDEC set up U…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "87c0f7361f62aef244e0"
+    },
+    {
       "title": "M 4.5 - Owen Fracture Zone region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -800,6 +1009,27 @@
         "LOW"
       ],
       "id": "f372c200f3cb8feafedd"
+    },
+    {
+      "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
+      "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-17T02:45:06+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "I couldn’t understand why my student had ignored almost all of my feedback. I had carefully reviewed his capstone presentation, working through each slide, thinking about the structure, the technical flow and how he could communicate his ideas more effectively. Like many educators adapting to the AI era, I also used AI to help organise […] The post AI and the crisis of recognition: Do we still see the human behind t…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "97cdc0fae04a55e89a51"
     },
     {
       "title": "The sovereignty of judgment: Why human intelligence is your startup’s last moat",
@@ -905,6 +1135,90 @@
       "id": "d1a9498783433a272545"
     },
     {
+      "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T02:05:58+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4c45b684131dba81affa"
+    },
+    {
+      "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T01:56:16+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0faaab990cae238370ad"
+    },
+    {
+      "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T01:39:56+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5a95019a1aff6611069"
+    },
+    {
+      "title": "なぜAI臭さを消したいのか？｜laiso",
+      "url": "https://sizu.me/laiso/posts/mcerekex7091",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T22:33:19+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "前に「AIの作文はなぜつまらないのか」という記事を書いた。AIの文章は分量のわりに情報量が少ないし、面白さを自動で評価する仕組みもないから、みたいな話だった。今回は逆に書き手としての話をしたい。 きっかけは cognitive-rhythm-writing というスキルがタイムラインに流れてきたことで、これは日本語の文章に緩急...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43525d1657f5e6b2be79"
+    },
+    {
       "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -924,6 +1238,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8138b96926cb53ff9197"
+    },
+    {
+      "title": "How Asia is turning football’s year-round calendar into a fan engagement battleground",
+      "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-17T03:00:47+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "Basketball has always been built for momentum. A fast break, a buzzer-beater, a chasedown block or a no-look pass can change the mood of a game in seconds. That rhythm has made the sport especially well-suited to the digital age, where fans increasingly discover, follow and debate sport through clips, personalities, live data and second-screen […] The post How Asia is turning football’s year-round calendar into a fa…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7026c9d4bc32bf2f5b6f"
     },
     {
       "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
@@ -1011,272 +1345,160 @@
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）",
-      "url": "https://jvn.jp/vu/JVNVU95874748/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
+      "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-17T11:00:30+09:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "adc800db117f8e98de97"
-    },
-    {
-      "title": "一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90338324/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-17T11:00:15+09:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "published_at": "2026-07-17T03:36:48+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often fall outside conventional bank lending criteria. The MD Technology Financing Programme is backed by a RM200 million (~US$47.1 […] The post CapBay, MDEC set up U…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7cc6daeb3da94490b1ce"
-    },
-    {
-      "title": "SGLangにおけるPickleのデシリアライゼーションに関する脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90968686/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-17T11:00:00+09:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5366a4067de836bfb01f"
-    },
-    {
-      "title": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "A coding agent for open models like Kimi K3 Open Interpreter A coding agent optimized for low-cost models. Blog post ↗ Note Today: Kimi K3 is here. We have reimplemented the provider-recommended Kimi Code harness in Rust, giving you maximum K3 performance with a Codex-like interface. Kimi Docs → Installation macOS and Linux: curl -fsSL https://www.openinterpreter.com/install | sh Windows: irm https://www.openinterpr…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "b98783e1a8b9b0e81ba6"
-    },
-    {
-      "title": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is th…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "developer tools",
-        "GitHub Trending",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "f6bf22b45d718185d2df"
-    },
-    {
-      "title": "M 4.5 - Owen Fracture Zone region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-17T02:21:48.040+00:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "Time 2026-07-17 02:04:04 UTC 2026-07-17 02:04:04 UTC at epicenter Location 13.741°N 58.341°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Watchgraph:capitals_power_centers"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "capitals_power_centers"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "capitals_power_centers: capital"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
       ],
-      "id": "f372c200f3cb8feafedd"
+      "id": "87c0f7361f62aef244e0"
     },
     {
-      "title": "The sovereignty of judgment: Why human intelligence is your startup’s last moat",
-      "url": "https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/",
+      "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
+      "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-17T02:15:04+00:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "As we move deeper into 2026, the initial efficiency high of AI adoption is being met with a sobering reality: when everyone uses the same models to automate, the result is beige decay, a technically perfect but culturally hollow sameness. Recent findings from the iF Design Trend Report 2026 argue that we are entering an […] The post The sovereignty of judgment: Why human intelligence is your startup’s last moat appe…",
+      "published_at": "2026-07-17T02:45:06+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "I couldn’t understand why my student had ignored almost all of my feedback. I had carefully reviewed his capstone presentation, working through each slide, thinking about the structure, the technical flow and how he could communicate his ideas more effectively. Like many educators adapting to the AI era, I also used AI to help organise […] The post AI and the crisis of recognition: Do we still see the human behind t…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
       "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)",
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "72ac2fb48b9f6d2b92c1"
+      "id": "97cdc0fae04a55e89a51"
     },
     {
-      "title": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data Apache Ossie (incubating) Apache Ossie is a collaborative, open-source effort dedicated to standardizing and streamlining semantic model exchange and utilization across the diverse array of tools and platforms wit…",
+      "published_at": "2026-07-17T02:05:58+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c0271cb017eb55de50bd"
+      "id": "4c45b684131dba81affa"
     },
     {
-      "title": "松本大臣記者会見（令和8年7月17日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260717-01",
-      "source": "Japan Digital Agency News RSS",
+      "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-17T02:16:50+00:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "松本大臣記者会見（令和8年7月17日）動画を掲載しました",
+      "published_at": "2026-07-17T01:56:16+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "34cacfba818dcc646c8c"
+      "id": "0faaab990cae238370ad"
     },
     {
-      "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
-      "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/",
+      "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T01:39:56+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5a95019a1aff6611069"
+    },
+    {
+      "title": "なぜAI臭さを消したいのか？｜laiso",
+      "url": "https://sizu.me/laiso/posts/mcerekex7091",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T22:33:19+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "前に「AIの作文はなぜつまらないのか」という記事を書いた。AIの文章は分量のわりに情報量が少ないし、面白さを自動で評価する仕組みもないから、みたいな話だった。今回は逆に書き手としての話をしたい。 きっかけは cognitive-rhythm-writing というスキルがタイムラインに流れてきたことで、これは日本語の文章に緩急...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43525d1657f5e6b2be79"
+    },
+    {
+      "title": "How Asia is turning football’s year-round calendar into a fan engagement battleground",
+      "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-17T02:12:10+00:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "Bitcoin trades at US$63,780.63, representing more than a 50 per cent correction from the all-time high of US$126,198 it established in October 2025. While the fourth post-halving cycle successfully produced a peak higher than any prior market expansion, the subsequent downward correction has proved exactly as aggressive as the previous upward climb. In the last […] The post Bitcoin at US$63,780: Buying opportunity o…",
+      "published_at": "2026-07-17T03:00:47+00:00",
+      "fetched_at": "2026-07-17T03:40:00+00:00",
+      "summary": "Basketball has always been built for momentum. A fast break, a buzzer-beater, a chasedown block or a no-look pass can change the mood of a game in seconds. That rhythm has made the sport especially well-suited to the digital age, where fans increasingly discover, follow and debate sport through clips, personalities, live data and second-screen […] The post How Asia is turning football’s year-round calendar into a fa…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -1287,50 +1509,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cd1d3df74818c6a574f2"
-    },
-    {
-      "title": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "Bonsai Demo Bonsai Demo Website | GitHub | Discord HF Collections: Bonsai 27B · Bonsai (1-bit) · Ternary-Bonsai Whitepapers: Bonsai 27B · 1-bit Bonsai 8B · Ternary-Bonsai 8B Using this demo repository you can run Bonsai (1-bit) and Ternary-Bonsai language models locally on Mac (Metal), Linux/Windows (CUDA, Vulkan, ROCm), or CPU. 🌱 New: Bonsai 27B The family's newest and largest generation, and its first vision-langu…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Webentwicklung"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c499127dbbe3aff5162c"
-    },
-    {
-      "title": "The fatwa lag: How AI is overtaking the system designed to govern Islamic finance",
-      "url": "https://e27.co/the-fatwa-lag-how-ai-is-overtaking-the-system-designed-to-govern-islamic-finance-20260713/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-17T02:00:48+00:00",
-      "fetched_at": "2026-07-17T02:28:37+00:00",
-      "summary": "A sharia bank in Jakarta asked me last quarter whether their new credit scoring model needed Sharia Supervisory Board review. They had deployed it three months earlier, trained on five years of their own portfolio data, and were preparing to roll it out across their consumer financing book. The risk committee was satisfied. Nobody had […] The post The fatwa lag: How AI is overtaking the system designed to govern Isl…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote portfolio (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fc6379561cc2082c2586"
+      "id": "7026c9d4bc32bf2f5b6f"
     }
   ],
   "source_errors": [],

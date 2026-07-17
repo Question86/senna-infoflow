@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T02:29:10+00:00_
+_Generiert: 2026-07-17T03:40:31+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+25 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms** — Score 9, observation — [Quelle](https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-17T03:36:48+00:00`, fetched `2026-07-17T03:40:00+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often fall outside conventional bank lending criteria. The MD Technology Financing Programme is backed by a RM200 million (~US$47.1 […] The post CapBay, MDEC set up U…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - Owen Fracture Zone region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-17T02:21:48.040+00:00`, fetched `2026-07-17T02:28:37+00:00`
@@ -87,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 02:04:04 UTC 2026-07-17 02:04:04 UTC at epicenter Location 13.741°N 58.341°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI and the crisis of recognition: Do we still see the human behind the words?** — Score 8, observation — [Quelle](https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-17T02:45:06+00:00`, fetched `2026-07-17T03:40:00+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: I couldn’t understand why my student had ignored almost all of my feedback. I had carefully reviewed his capstone presentation, working through each slide, thinking about the structure, the technical flow and how he could communicate his ideas more effectively. Like many educators adapting to the AI era, I also used AI to help organise […] The post AI and the crisis of recognition: Do we still see the human behind t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The sovereignty of judgment: Why human intelligence is your startup’s last moat** — Score 8, observation — [Quelle](https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-17T02:15:04+00:00`, fetched `2026-07-17T02:28:37+00:00`
@@ -132,32 +150,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 商業登記電子証明書のリモート署名方式の運用開始についてお知らせします
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2125917.html)
+- **ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2125939.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-16T17:04:37+00:00`, fetched `2026-07-17T00:22:03+00:00`
+  - Zeit: published `2026-07-17T02:05:58+00:00`, fetched `2026-07-17T03:40:00+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表
+  - Kurz: ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth** — Score 4, observation — [Quelle](https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T02:12:10+00:00`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: APAC Trend Radar
+- **「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2125948.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-17T01:56:16+00:00`, fetched `2026-07-17T03:40:00+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Bitcoin trades at US$63,780.63, representing more than a 50 per cent correction from the all-time high of US$126,198 it established in October 2025. While the fourth post-halving cycle successfully produced a peak higher than any prior market expansion, the subsequent downward correction has proved exactly as aggressive as the previous upward climb. In the last […] The post Bitcoin at US$63,780: Buying opportunity o…
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Product symbiosis: When two features create unexpected value together** — Score 4, observation — [Quelle](https://e27.co/product-symbiosis-when-two-features-create-unexpected-value-together-20260713/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T01:15:35+00:00`, fetched `2026-07-17T01:34:47+00:00`
-  - Treffer: APAC Trend Radar
+- **キオクシア株、一時ストップ安 上場来高値から半値以下に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/17/news068.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-17T01:39:56+00:00`, fetched `2026-07-17T03:40:00+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Product teams usually discuss features as separate units of value. One feature improves activation. Another helps retention. A third supports monetisation. A fourth reduces friction in an important workflow. This way of thinking is useful for planning, but it quietly narrows how teams understand growth. In live products, features do not sit politely beside each […] The post Product symbiosis: When two features creat…
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PrismML-Eng/Bonsai-demo** — Score 4, observation — [Quelle](https://github.com/PrismML-Eng/Bonsai-demo)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
