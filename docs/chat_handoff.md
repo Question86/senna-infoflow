@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-17T13:37:38+00:00_
+_Generated: 2026-07-17T14:14:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `81`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-17T13:37:38+00:00_
 - url: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html
 - summary: Euro area monthly balance of payments: May 2026
 
-### 7. PostHog/posthog
+### 7. Multiples vulnérabilités dans Microsoft Edge (15 juillet 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-07-15T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0867/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.
+
+### 8. PostHog/posthog
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/PostHog/posthog
 - summary: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opp…
-
-### 8. A scorecard for the AI age
-- source: OpenAI News RSS
-- score: `11`
-- published: `2026-07-17T10:00:00+00:00`
-- url: https://openai.com/index/a-scorecard-for-the-ai-age
-- summary: Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
 
 END OF DOCUMENT

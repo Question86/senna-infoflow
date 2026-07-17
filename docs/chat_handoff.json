@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-17T13:37:38+00:00",
+  "generated_at": "2026-07-17T14:14:54+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 8,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
-    "medium": 31,
-    "observe": 42
+    "medium": 32,
+    "observe": 49
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (15 juillet 2026)",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0867/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+      "section": "observe"
+    },
+    {
       "title": "PostHog/posthog",
       "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 13,
       "url": "https://github.com/PostHog/posthog",
       "summary": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opp…",
-      "section": "observe"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-17T10:00:00+00:00",
-      "relevance_score": 11,
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "section": "observe"
     }
   ],

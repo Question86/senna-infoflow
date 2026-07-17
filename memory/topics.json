@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T13:37:38+00:00",
+  "generated_at": "2026-07-17T14:14:54+00:00",
   "topics": {
     "ai": [
       {
@@ -33,6 +33,13 @@
         "url": "https://e27.co/cmbi-smbc-back-whales-us40m-series-c-extension-for-enterprise-ai-expansion-20260717/"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (15 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0867/"
+      },
+      {
         "title": "PostHog/posthog",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -47,32 +54,25 @@
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
       },
       {
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (10 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-10T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0864/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (10 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-10T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0863/"
+      },
+      {
         "title": "Can AI beat a goldfish at calling the World Cup?",
         "source": "Rest of World Global Tech Feed",
         "published_at": "2026-07-17T13:00:00+00:00",
         "relevance_score": 10,
         "url": "https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-17T03:36:48+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/"
-      },
-      {
-        "title": "WBBA convenes Asia-Pacific’s first Broadband Development Summit in Bangkok, launches AI-Net Certification",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-17T11:32:52+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/wbba-convenes-asia-pacifics-first-broadband-development-summit-in-bangkok-launches-ai-net-certification-20260717/"
-      },
-      {
-        "title": "Ecosystem Roundup: Why Winnow’s Lumitics deal matters",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-17T09:36:28+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ecosystem-roundup-why-winnows-lumitics-deal-matters-20260717/"
       }
     ],
     "github": [
@@ -235,6 +235,13 @@
         "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Azure Linux (10 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-10T00:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0866/"
+      },
+      {
         "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-17T10:45:04+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-07-17T08:10:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2388"
-      },
-      {
-        "title": "[NEU] [mittel] cyrus imap: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T08:10:04+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2387"
       }
     ],
     "general": [
@@ -284,6 +284,20 @@
         "published_at": "2026-07-17T01:27:22.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171"
+      },
+      {
+        "title": "M 5.1 - 16 km NW of Kirakira, Solomon Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T13:47:19.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1b3"
+      },
+      {
+        "title": "M 5.0 - south of the Kermadec Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T13:37:58.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1b0"
       },
       {
         "title": "M 5.3 - 203 km N of Hadibu, Yemen",
@@ -326,20 +340,6 @@
         "published_at": "2026-07-17T02:16:50+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260717-01"
-      },
-      {
-        "title": "任期付職員の募集を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-17T00:58:30+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/recruitment/fixed-term"
-      },
-      {
-        "title": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-17T00:52:11+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324"
       }
     ],
     "economy": [
