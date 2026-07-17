@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-17T06:02:15Z",
+  "generated_at": "2026-07-17T07:01:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 33,
+    "dynamics": 37,
     "bands": {
-      "krass": 4,
-      "strong": 6,
+      "krass": 5,
+      "strong": 8,
       "watch": 2,
-      "quiet": 21
+      "quiet": 22
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 9,
+      "strong": 12,
       "watch": 2,
-      "quiet": 21
+      "quiet": 22
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T04:55:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://jvn.jp/vu/JVNVU90338324/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU90968686/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://github.com/apache/ossie",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "infra"
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T05:30:03+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://jvn.jp/vu/JVNVU95874748/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:30+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -174,7 +174,7 @@
       "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T05:34:20+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -196,11 +196,37 @@
       "summary": "Singapore-based quantum-safe cybersecurity startup pQCee has raised US$3.9 million in a seed funding round, as governments and large enterprises begin moving post-quantum cryptography from research papers and standards discussions into procurement plans. The round was co-led by SGInnovate and Lotus One Investment, wit…"
     },
     {
+      "title": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
+      "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-17T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 28.17,
+      "age_days": 28.21,
       "topics": [
         "ai"
       ],
@@ -229,7 +255,7 @@
       "url": "https://github.com/interfacex-co-jp/genshijin",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T15:34:13+00:00",
-      "age_days": 0.6,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -252,11 +278,61 @@
       "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert"
     },
     {
+      "title": "Google Chrome: Ungeplantes Sicherheitsupdate Nummer zwei in dieser Woche",
+      "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-17T06:27:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch",
+        "security high-signal: kritisch"
+      ],
+      "summary": "Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt."
+    },
+    {
+      "title": "7-Zip: Update stopft Codeschmuggel-Lücke",
+      "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-17T06:07:00.000+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen."
+    },
+    {
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -282,7 +358,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T01:27:22.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -307,7 +383,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T02:21:48.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -332,7 +408,7 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -354,11 +430,35 @@
       "summary": "A coding agent for open models like Kimi K3 Open Interpreter A coding agent optimized for low-cost models. Blog post ↗ Note Today: Kimi K3 is here. We have reimplemented the provider-recommended Kimi Code harness in Rust, giving you maximum K3 performance with a Codex-like interface. Kimi Docs → Installation macOS and…"
     },
     {
+      "title": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました",
+      "url": "https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-17T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました"
+    },
+    {
       "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T01:39:56+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -382,7 +482,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260717-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T02:16:50+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -406,7 +506,7 @@
       "url": "https://www.digital.go.jp/recruitment/fixed-term",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:58:30+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -430,7 +530,7 @@
       "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:52:11+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -454,7 +554,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T01:56:16+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -478,7 +578,7 @@
       "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T03:00:47+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -502,7 +602,7 @@
       "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:12:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -526,7 +626,7 @@
       "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T03:36:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -551,7 +651,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 27.13,
+      "age_days": 27.17,
       "topics": [
         "general"
       ],
@@ -567,7 +667,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.9 for 27.1d old signal"
+        "aging penalty -12.9 for 27.2d old signal"
       ],
       "summary": ""
     },
@@ -576,7 +676,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 27.13,
+      "age_days": 27.17,
       "topics": [
         "general"
       ],
@@ -592,7 +692,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.9 for 27.1d old signal"
+        "aging penalty -12.9 for 27.2d old signal"
       ],
       "summary": ""
     },
@@ -601,7 +701,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 27.13,
+      "age_days": 27.17,
       "topics": [
         "ai"
       ],
@@ -618,7 +718,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -12.9 for 27.1d old signal",
+        "aging penalty -12.9 for 27.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -628,7 +728,7 @@
       "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:45:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -653,7 +753,7 @@
       "url": "https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:15:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -678,7 +778,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T02:05:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -703,7 +803,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news039.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T23:07:38+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -728,7 +828,7 @@
       "url": "https://sizu.me/laiso/posts/mcerekex7091",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T22:33:19+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -753,7 +853,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T17:04:37+00:00",
-      "age_days": 0.54,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -778,7 +878,7 @@
       "url": "https://e27.co/product-symbiosis-when-two-features-create-unexpected-value-together-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T01:15:35+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -804,7 +904,7 @@
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -830,7 +930,7 @@
       "url": "https://e27.co/the-fatwa-lag-how-ai-is-overtaking-the-system-designed-to-govern-islamic-finance-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:00:48+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
