@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-17T04:46:53+00:00_
+_Generated: 2026-07-17T05:45:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `29`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-17T04:46:53+00:00_
 - url: https://jvn.jp/vu/JVNVU95874748/
 - summary: 2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. 一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-07-17T11:00:15+09:00`
-- url: https://jvn.jp/vu/JVNVU90338324/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+### 3. pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-07-17T05:34:20+00:00`
+- url: https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/
+- summary: Singapore-based quantum-safe cybersecurity startup pQCee has raised US$3.9 million in a seed funding round, as governments and large enterprises begin moving post-quantum cryptography from research papers and standards discussions into procurement plans. The…
 
-### 4. SGLangにおけるPickleのデシリアライゼーションに関する脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-07-17T11:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU90968686/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+### 4. [UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-17T05:30:03+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317
+- summary: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsv…
 
 ### 5. PostHog/posthog
 - source: GitHub Trending RSS All Languages Daily

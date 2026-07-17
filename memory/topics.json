@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T04:46:53+00:00",
+  "generated_at": "2026-07-17T05:45:37+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-16T15:34:13+00:00",
         "relevance_score": 23,
         "url": "https://github.com/interfacex-co-jp/genshijin"
+      },
+      {
+        "title": "pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-17T05:34:20+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
       },
       {
         "title": "openinterpreter/openinterpreter",
@@ -61,18 +68,11 @@
         "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html"
       },
       {
-        "title": "なぜAI臭さを消したいのか？｜laiso",
+        "title": "GMOの在宅勤務廃止は間違っていない？ ワサビのインシデントから考える企業防衛",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-16T22:33:19+00:00",
+        "published_at": "2026-07-16T23:07:38+00:00",
         "relevance_score": 5,
-        "url": "https://sizu.me/laiso/posts/mcerekex7091"
-      },
-      {
-        "title": "PrismML-Eng/Bonsai-demo",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 4,
-        "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news039.html"
       }
     ],
     "github": [
@@ -128,6 +128,20 @@
         "url": "https://jvn.jp/vu/JVNVU95874748/"
       },
       {
+        "title": "pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-17T05:34:20+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T05:30:03+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317"
+      },
+      {
         "title": "一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-17T11:00:15+09:00",
@@ -140,6 +154,36 @@
         "published_at": "2026-07-17T11:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90968686/"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T04:55:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-17T05:34:20+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
+      },
+      {
+        "title": "apache/ossie",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/apache/ossie"
+      },
+      {
+        "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-17T02:12:10+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/"
       }
     ],
     "general": [
@@ -235,22 +279,6 @@
         "published_at": "2026-07-17T02:00:48+00:00",
         "relevance_score": 3,
         "url": "https://e27.co/the-fatwa-lag-how-ai-is-overtaking-the-system-designed-to-govern-islamic-finance-20260713/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "apache/ossie",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/apache/ossie"
-      },
-      {
-        "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-17T02:12:10+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/"
       }
     ]
   }
