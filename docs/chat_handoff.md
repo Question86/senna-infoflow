@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-17T07:23:27+00:00_
+_Generated: 2026-07-17T08:10:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `47`
 
 ## Top Signals
 
@@ -22,46 +22,46 @@ _Generated: 2026-07-17T07:23:27+00:00_
 - url: https://jvn.jp/vu/JVNVU95874748/
 - summary: 2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-07-17T05:34:20+00:00`
-- url: https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/
-- summary: Singapore-based quantum-safe cybersecurity startup pQCee has raised US$3.9 million in a seed funding round, as governments and large enterprises begin moving post-quantum cryptography from research papers and standards discussions into procurement plans. The…
-
-### 4. [UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen
+### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-17T05:30:03+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317
-- summary: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsv…
+- published: `2026-07-17T07:35:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen.
 
-### 5. PostHog/posthog
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (Advanced Cluster Management): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-17T07:35:04+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0226
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Advanced Cluster Management ausnutzen, um Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand zu verursachen.
+
+### 5. Euro area monthly balance of payments: May 2026
+- source: ECB Statistical Press Releases
+- score: `13`
+- published: `2026-07-17T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html
+- summary: Euro area monthly balance of payments: May 2026
+
+### 6. PostHog/posthog
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/PostHog/posthog
 - summary: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opp…
 
-### 6. ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました
+### 7. ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました
 - source: Japan Digital Agency News RSS
 - score: `11`
 - published: `2026-07-17T06:00:00+00:00`
 - url: https://www.digital.go.jp/resources/dashboard-guidebook
 - summary: ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました
 
-### 7. M 4.8 - 262 km SSE of Dunhuang, China
+### 8. M 4.8 - 262 km SSE of Dunhuang, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-07-17T01:27:22.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171
 - summary: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
-
-### 8. CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-07-17T03:36:48+00:00`
-- url: https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/
-- summary: Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often…
 
 END OF DOCUMENT

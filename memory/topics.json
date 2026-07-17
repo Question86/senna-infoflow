@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T07:23:27+00:00",
+  "generated_at": "2026-07-17T08:10:36+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://github.com/apache/ossie"
       },
       {
+        "title": "ルーターに挿す約320円の広告ブロッカー、13万ドメインをRAM40KBで判定 - FabScene（ファブシーン）",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-17T02:48:53+00:00",
+        "relevance_score": 5,
+        "url": "https://fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/"
+      },
+      {
         "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-17T02:05:58+00:00",
         "relevance_score": 5,
         "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html"
-      },
-      {
-        "title": "GMOの在宅勤務廃止は間違っていない？ ワサビのインシデントから考える企業防衛",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-16T23:07:38+00:00",
-        "relevance_score": 5,
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news039.html"
       }
     ],
     "github": [
@@ -128,6 +128,20 @@
         "url": "https://jvn.jp/vu/JVNVU95874748/"
       },
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T07:35:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Advanced Cluster Management): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T07:35:04+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0226"
+      },
+      {
         "title": "pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-17T05:34:20+00:00",
@@ -163,41 +177,41 @@
         "url": "https://jvn.jp/vu/JVNVU90968686/"
       },
       {
-        "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T06:50:33+00:00",
+        "published_at": "2026-07-17T07:35:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2386"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1087"
       },
       {
-        "title": "[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T06:50:32+00:00",
+        "published_at": "2026-07-17T07:35:04+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2378"
-      },
-      {
-        "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T06:50:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2377"
-      },
-      {
-        "title": "[UPDATE] [hoch] Ruby: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T06:50:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2379"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0562"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T07:35:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869"
+      },
       {
         "title": "pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-17T05:34:20+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
+      },
+      {
+        "title": "Euro area monthly balance of payments: May 2026",
+        "source": "ECB Statistical Press Releases",
+        "published_at": "2026-07-17T08:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html"
       },
       {
         "title": "apache/ossie",
@@ -228,6 +242,13 @@
         "published_at": "2026-07-17T01:27:22.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171"
+      },
+      {
+        "title": "M 4.7 - 283 km NE of Lospalos, Timor Leste",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T07:56:26.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t18g"
       },
       {
         "title": "M 4.5 - Owen Fracture Zone region",
@@ -277,13 +298,6 @@
         "published_at": "2026-07-17T01:56:16+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html"
-      },
-      {
-        "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T01:39:56+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html"
       }
     ],
     "economy": [

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T07:23:27+00:00_
+_Generiert: 2026-07-17T08:10:36+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+47 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-17T07:35:05+00:00`, fetched `2026-07-17T08:10:05+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (Advanced Cluster Management): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0226)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-17T07:35:04+00:00`, fetched `2026-07-17T08:10:05+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Advanced Cluster Management ausnutzen, um Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race** — Score 16, observation — [Quelle](https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-17T05:34:20+00:00`, fetched `2026-07-17T05:45:06+00:00`
@@ -120,15 +138,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [niedrig] ESET Server Security: Schwachstelle ermöglicht Denial of Service** — Score 15, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2385)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-17T06:50:33+00:00`, fetched `2026-07-17T07:22:53+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in ESET Server Security ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90338324/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -148,15 +157,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2386)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-17T06:50:33+00:00`, fetched `2026-07-17T07:22:53+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **openinterpreter/openinterpreter** — Score 14, observation — [Quelle](https://github.com/openinterpreter/openinterpreter)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
@@ -169,6 +169,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Euro area monthly balance of payments: May 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-07-17T08:00:00+00:00`, fetched `2026-07-17T08:10:05+00:00`
+  - Treffer: balance of payments, euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area monthly balance of payments: May 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PostHog/posthog** — Score 13, opportunity — [Quelle](https://github.com/PostHog/posthog)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
@@ -195,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - 283 km NE of Lospalos, Timor Leste** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t18g)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-17T07:56:26.040+00:00`, fetched `2026-07-17T08:10:05+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-17 07:41:25 UTC 2026-07-17 07:41:25 UTC at epicenter Location 6.468°S 128.533°E Depth 309.91 km (192.57 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms** — Score 9, observation — [Quelle](https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -285,24 +303,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Not Found
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2125939.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-17T02:05:58+00:00`, fetched `2026-07-17T03:40:00+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2125948.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-17T01:56:16+00:00`, fetched `2026-07-17T03:40:00+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

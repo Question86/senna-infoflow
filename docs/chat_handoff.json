@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-17T07:23:27+00:00",
+  "generated_at": "2026-07-17T08:10:36+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 8,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
-    "medium": 13,
-    "observe": 26
+    "medium": 18,
+    "observe": 29
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,24 +35,34 @@
       "section": "medium"
     },
     {
-      "title": "pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-17T05:34:20+00:00",
+      "published_at": "2026-07-17T07:35:05+00:00",
       "relevance_score": 16,
-      "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/",
-      "summary": "Singapore-based quantum-safe cybersecurity startup pQCee has raised US$3.9 million in a seed funding round, as governments and large enterprises begin moving post-quantum cryptography from research papers and standards discussions into procurement plans. The…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen.",
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Advanced Cluster Management): Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-17T05:30:03+00:00",
+      "published_at": "2026-07-17T07:35:04+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsv…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0226",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Advanced Cluster Management ausnutzen, um Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand zu verursachen.",
       "section": "medium"
+    },
+    {
+      "title": "Euro area monthly balance of payments: May 2026",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-17T08:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html",
+      "summary": "Euro area monthly balance of payments: May 2026",
+      "section": "observe"
     },
     {
       "title": "PostHog/posthog",
@@ -83,16 +93,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "summary": "Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-17T03:36:48+00:00",
-      "relevance_score": 9,
-      "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
-      "summary": "Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,138 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T05:30:03+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, code",
-          "security high-signal: kritisch, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2378",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T06:50:32+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, root",
-          "security high-signal: code, root"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um erweiterte Berechtigungen zu erlangen und beliebigen Code mit Root-Rechten auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Ruby: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2379",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T06:50:12+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Ruby ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T04:55:29+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenClaw ausnutzen, um erweiterte Rechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）",
-        "url": "https://jvn.jp/vu/JVNVU95874748/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-17T11:00:30+09:00",
-        "age_days": 0.25,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      }
-    ]
-  }
+  ]
 }
