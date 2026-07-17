@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-16T23:56:19+00:00_
+_Generiert: 2026-07-17T00:22:32+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Prompting guidance for GPT-5.6 Sol | OpenAI API“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+1 neue relevante Treffer. Stärkstes Signal: „一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -85,285 +85,23 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Prompting guidance for GPT-5.6 Sol | OpenAI API** — Score 23, observation — [Quelle](https://developers.openai.com/api/docs/guides/prompt-guidance-gpt-5p6)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-11T03:01:25+00:00`, fetched `2026-07-16T23:10:57+00:00`
-  - Treffer: Content-Chance, developer, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Example workflows and tasks teams can take on with ChatGPT or Codex
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0935)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-16T11:31:59+00:00`, fetched `2026-07-16T11:37:47+00:00`
-  - Treffer: APAC Trend Radar, Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.5 - Volcano Islands, Japan region** — Score 22, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-16T08:16:58.416+00:00`, fetched `2026-07-16T08:39:35+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami, Watchgraph:volcano_aviation
-  - Watchgraph: earthquakes_tsunami, volcano_aviation
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, DIS, CMCSA
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)
-  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-07-16 07:49:09 UTC 2026-07-16 07:49:09 UTC at epicenter Location 22.859°N 144.391°E Depth 12.81 km (7.96 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] n8n: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1589)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-16T06:46:39+00:00`, fetched `2026-07-16T07:08:59+00:00`
-  - Treffer: Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in n8n ausnutzen, um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How Cars24 scales conversations and builds faster with OpenAI** — Score 18, opportunity — [Quelle](https://openai.com/index/cars24)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-16T00:00:00+00:00`, fetched `2026-07-16T16:25:05+00:00`
-  - Treffer: AI Agents, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
-  - Kurz: Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **[UPDATE] [hoch] Red Hat OpenShift Container Platform (gRPC-Go): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1136)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-16T11:32:04+00:00`, fetched `2026-07-16T11:37:47+00:00`
-  - Treffer: APAC Trend Radar, BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claude Codeのスキル設計で効く4つのポイント —— 「AIへの仕事の任せ方」を意識した設計 - RAKUS Developers Blog | ラクス エンジニアブログ** — Score 16, observation — [Quelle](https://tech-blog.rakus.co.jp/entry/20260716/claude)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-16T06:03:52+00:00`, fetched `2026-07-16T12:09:41+00:00`
-  - Treffer: agent, AI Agents, developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.0); recent (+1.0)
-  - Kurz: こんにちは、菊池（akikuchi_rks）です。 私の所属するチームではClaude Codeを開発フローに取り入れており、私自身も設計書のレビューや定型調査の自動化など、さまざまな業務でスキル（Agent Skills）を作成してきました。 スキルを書き続けていて特に感じるのは、「とりあえず動くスキル」と「安定して業務に組み込め...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **163,000 workers, 37% training: Malaysia’s AI skills gap in focus** — Score 16, observation — [Quelle](https://e27.co/163000-workers-37-training-malaysias-ai-skills-gap-in-focus-20260709/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-16T03:00:17+00:00`, fetched `2026-07-16T03:18:46+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: A government-commissioned study found that 24 per cent of Global Business Services roles in Malaysia are highly impacted by AI and 65 per cent are medium impacted. Nearly nine in ten GBS jobs are changing in some material way within the next three to five years. The same study put a number on the people […] The post 163,000 workers, 37% training: Malaysia’s AI skills gap in focus appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Deepfake fraud losses hit US$3.7B as scams spread beyond social media** — Score 16, risk — [Quelle](https://e27.co/deepfake-fraud-losses-hit-us3-7b-as-scams-spread-beyond-social-media-20260715/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-16T01:30:11+00:00`, fetched `2026-07-16T02:09:26+00:00`
-  - Treffer: APAC Trend Radar, Reputationsrisiko, Watchgraph:narrative_social_reputation
-  - Watchgraph: narrative_social_reputation
-  - Markt-/Kontextkorb: META, GOOGL, MSFT, RDDT, SNAP, PINS
-  - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0)
-  - Kurz: Deepfake fraud is no longer a fringe cybercrime problem built around crude celebrity videos or novelty face swaps. New data tracking publicly reported incidents from January 2020 to June 2026 shows recorded global losses have reached US$3.7 billion, with the sharpest acceleration coming in the past 18 months. The findings were revealed by a study […] The post Deepfake fraud losses hit US$3.7B as scams spread beyond…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物** — Score 16, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news055.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T22:40:47+00:00`, fetched `2026-07-16T00:49:01+00:00`
-  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 48 km E of Nishinoomote, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-16T22:07:42.040+00:00`, fetched `2026-07-16T22:27:13+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-16 21:49:42 UTC 2026-07-16 21:49:42 UTC at epicenter Location 30.763°N 131.510°E Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Updates to the Data Download Program (DDP) and DDP Data Releases** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/PRATES.html#3929)
-  - Quelle: Federal Reserve Policy Rates Feed / `rss`
-  - Zeit: published `2026-07-16T11:00:00-04:00`, fetched `2026-07-16T15:21:41+00:00`
-  - Treffer: Macro/Policy, policy rates, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the "Build Your Package" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the r…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Updates to the Data Download Program (DDP) and DDP Data Releases** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/H15.html#3929)
-  - Quelle: Federal Reserve Selected Interest Rates H.15 / `rss`
-  - Zeit: published `2026-07-16T11:00:00-04:00`, fetched `2026-07-16T15:21:41+00:00`
-  - Treffer: H.15, Macro/Policy, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the "Build Your Package" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the r…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste** — Score 15, observation — [Quelle](https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-16T02:43:03+00:00`, fetched `2026-07-16T03:18:46+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Winnow, the London-headquartered AI food waste measurement company, has acquired Singapore-founded Lumitics, in a deal that strengthens its position in Asia Pacific’s hospitality technology market. The companies did not disclose the financial terms of the transaction. The acquisition brings Lumitics’s regional deployments and hotel relationships into Winnow’s global platform, which is used by foodservice and […] The…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 1 km WNW of Sōsa, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-16T00:23:18.349+00:00`, fetched `2026-07-16T00:49:01+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-07-16 00:01:08 UTC 2026-07-16 00:01:08 UTC at epicenter Location 35.720°N 140.535°E Depth 59.69 km (37.09 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **Jefferson, Navigating Economic Shocks: A Monetary Policymaker’s Perspective** — Score 13, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-07-16T23:00:00+00:00`, fetched `2026-07-16T23:10:57+00:00`
-  - Treffer: Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech At the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sovereign alpha: An investment thesis for a scarcer world** — Score 13, observation — [Quelle](https://e27.co/sovereign-alpha-an-investment-thesis-for-a-scarcer-world-20260710/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-16T03:00:23+00:00`, fetched `2026-07-16T03:18:46+00:00`
-  - Treffer: APAC Trend Radar, Security, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Software is no longer the primary driver of alpha; physical sovereignty is. Market value is shifting from “software-only” models to “control points” where technology meets physical security and national resilience. In this new operating environment, capital is moving away from pure digital scalability and toward the “Sovereign Alpha”—the premium generated by infrastructure that ensures a […] The post Sovereign alpha…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why teens deserve access to safe AI** — Score 11, opportunity — [Quelle](https://openai.com/index/why-teens-deserve-access-safe-ai)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-16T16:00:00+00:00`, fetched `2026-07-16T16:25:05+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
-  - Kurz: Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.2 - 122 km SE of McCarthy, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-16T12:05:18.329+00:00`, fetched `2026-07-16T12:09:41+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - VI DYFI? - III Time 2026-07-16 11:37:21 UTC 2026-07-16 11:37:21 UTC at epicenter Location 60.569°N 141.508°W Depth 8.50 km (5.28 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Bitcoin at US$64,660: The hidden on-chain signal that suggests we’re still in a bear market** — Score 11, observation — [Quelle](https://e27.co/bitcoin-at-us64660-the-hidden-on-chain-signal-that-suggests-were-still-in-a-bear-market-20260716/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-16T03:51:49+00:00`, fetched `2026-07-16T04:26:12+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
-  - Kurz: Bitcoin recently outperformed both United States and European equities following the United States Consumer Price Index inflation report on Tuesday. This decisive move marks a strong recovery after weeks of trading sideways near recent lows. This price action is a structural shift rather than a random fluctuation. The current market dynamics suggest that selling pressure […] The post Bitcoin at US$64,660: The hidden…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法** — Score 11, observation — [Quelle](https://zenn.dev/sonicmoov/articles/8712598f532b18)
+- **一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2125917.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-16T02:38:31+00:00`, fetched `2026-07-16T12:09:41+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
+  - Zeit: published `2026-07-16T17:04:37+00:00`, fetched `2026-07-17T00:22:03+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに 株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。 ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。 この記事...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Full Disclosure als Notwehr: Der Cursor Zero Day** — Score 10, risk — [Quelle](https://www.heise.de/meinung/Full-Disclosure-als-Notwehr-Der-Cursor-Zero-Day-11367342.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-16T16:00:00.000+00:00`, fetched `2026-07-16T16:25:05+00:00`
-  - Treffer: Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Jürgen Schmidt, Leiter von heise security, erklärt, warum Responsible und Coordinated Disclosure keine Zukunft mehr haben.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **グーグルにまた訴訟、「Gemini」の著作権侵害で 大手出版社らが「無断利用」に怒り** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35250597/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-15T09:27:22+00:00`, fetched `2026-07-16T19:11:24+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Googleに対し、出版社や作家らが新たな訴訟を提起した。原告は、Googleが出版社との提携関係を悪用して「膨大な数の著作物を臆面もなく複製」し、AIの学習に利用したと主張している。 出版社のHachette Book Group、Cengage、Elsevier、そして作家のScott Turow氏は米国時間7月10日、ニューヨーク南部地区連邦地方裁判所...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Suricata (10 juillet 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0859/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-10T00:00:00+00:00`, fetched `2026-07-16T13:17:49+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - southern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15z)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-16T22:21:41.040+00:00`, fetched `2026-07-16T22:27:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-16 21:53:58 UTC 2026-07-16 21:53:58 UTC at epicenter Location 12.787°S 15.090°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - southern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15b)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-16T21:36:23.040+00:00`, fetched `2026-07-16T21:37:58+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-16 21:16:33 UTC 2026-07-16 21:16:33 UTC at epicenter Location 12.624°S 14.845°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **CloudFront VPCオリジン障害をInter-Region VPCピアリングで迂回してみた | DevelopersIO** — Score 8, observation — [Quelle](https://dev.classmethod.jp/articles/cloudfront-vpc-origin-failure-inter-region-vpc-peering-bypass/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-16T12:28:26+00:00`, fetched `2026-07-16T20:47:48+00:00`
-  - Treffer: developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
-  - Kurz: 2026年7月16日に発生したCloudFront VPCオリジン障害に対し、Inter-Region VPCピアリングとバージニア北部ALBによる迂回構成を構築して復旧しました。CloudFrontアクセスログによる障害進行の観測と、迂回構成の設計判断・構築手順を紹介します。 はじめに 2026年7月16日 16:45 JST頃（12:45 AM PDT）、CloudFront の VP...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Rize raises US$31M to scale low-emission rice farming in Southeast Asia** — Score 8, observation — [Quelle](https://e27.co/rize-raises-us31m-to-scale-low-emission-rice-farming-in-southeast-asia-20260716/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-16T11:46:50+00:00`, fetched `2026-07-16T12:09:41+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
-  - Kurz: Rize, a Singapore-based sustainable rice platform, has raised US$31 million in Series B financing to expand its work with smallholder farmers in Vietnam and Indonesia and push further into traceable, low-emission rice exports. The round comprises US$20 million in equity led by BNP Paribas Asset Management Alts, with participation from The Rockefeller Foundation, Temasek, and […] The post Rize raises US$31M to scale…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vulnérabilité dans NetApp ONTAP 9 (10 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0857/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-10T00:00:00+00:00`, fetched `2026-07-16T13:17:49+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vulnérabilité dans CPython (10 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0858/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-10T00:00:00+00:00`, fetched `2026-07-16T13:17:49+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance.
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
