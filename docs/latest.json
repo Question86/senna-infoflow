@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:45:37+00:00",
-  "run_id": "2026-07-17T05:45:37+00:00",
+  "generated_at": "2026-07-17T06:32:35+00:00",
+  "run_id": "2026-07-17T06:32:35+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 4,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 8,
-    "observe": 21,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -309,6 +309,27 @@
         "id": "f6bf22b45d718185d2df"
       },
       {
+        "title": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
+        "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-17T06:00:00+00:00",
+        "fetched_at": "2026-07-17T06:32:04+00:00",
+        "summary": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cfed29f9fa7c1ff9fce7"
+      },
+      {
         "title": "M 4.8 - 262 km SSE of Dunhuang, China",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -485,6 +506,66 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c0271cb017eb55de50bd"
+      },
+      {
+        "title": "Google Chrome: Ungeplantes Sicherheitsupdate Nummer zwei in dieser Woche",
+        "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-17T06:27:00.000+00:00",
+        "fetched_at": "2026-07-17T06:32:04+00:00",
+        "summary": "Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dfbf35e84251f62fad6b"
+      },
+      {
+        "title": "7-Zip: Update stopft Codeschmuggel-Lücke",
+        "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-17T06:07:00.000+00:00",
+        "fetched_at": "2026-07-17T06:32:04+00:00",
+        "summary": "Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "df9687bd03288728341a"
+      },
+      {
+        "title": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました",
+        "url": "https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-17T06:00:00+00:00",
+        "fetched_at": "2026-07-17T06:32:04+00:00",
+        "summary": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f6f86af151d72ecce53a"
       },
       {
         "title": "松本大臣記者会見（令和8年7月17日）動画を掲載しました",
@@ -1056,6 +1137,27 @@
       "id": "f6bf22b45d718185d2df"
     },
     {
+      "title": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
+      "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-17T06:00:00+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cfed29f9fa7c1ff9fce7"
+    },
+    {
       "title": "M 4.8 - 262 km SSE of Dunhuang, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1232,6 +1334,66 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c0271cb017eb55de50bd"
+    },
+    {
+      "title": "Google Chrome: Ungeplantes Sicherheitsupdate Nummer zwei in dieser Woche",
+      "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-17T06:27:00.000+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dfbf35e84251f62fad6b"
+    },
+    {
+      "title": "7-Zip: Update stopft Codeschmuggel-Lücke",
+      "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-17T06:07:00.000+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df9687bd03288728341a"
+    },
+    {
+      "title": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました",
+      "url": "https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-17T06:00:00+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f6f86af151d72ecce53a"
     },
     {
       "title": "松本大臣記者会見（令和8年7月17日）動画を掲載しました",
@@ -1525,94 +1687,85 @@
   ],
   "new_findings": [
     {
-      "title": "pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race",
-      "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
+      "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-17T05:34:20+00:00",
-      "fetched_at": "2026-07-17T05:45:06+00:00",
-      "summary": "Singapore-based quantum-safe cybersecurity startup pQCee has raised US$3.9 million in a seed funding round, as governments and large enterprises begin moving post-quantum cryptography from research papers and standards discussions into procurement plans. The round was co-led by SGInnovate and Lotus One Investment, with participation from In Group Holdings, Wavemaker Ventures, SUTD Venture Holdings, and Apsara […] Th…",
+      "published_at": "2026-07-17T06:00:00+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
       "matched_keywords": [
         "APAC Trend Radar",
-        "funding",
-        "Security"
+        "Content-Chance"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3a25a9ce21dd9ee0a053"
+      "id": "cfed29f9fa7c1ff9fce7"
     },
     {
-      "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Google Chrome: Ungeplantes Sicherheitsupdate Nummer zwei in dieser Woche",
+      "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-17T05:30:03+00:00",
-      "fetched_at": "2026-07-17T05:45:06+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-17T06:27:00.000+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fcc0f0280a80338e928a"
+      "id": "dfbf35e84251f62fad6b"
     },
     {
-      "title": "[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "7-Zip: Update stopft Codeschmuggel-Lücke",
+      "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-17T04:55:29+00:00",
-      "fetched_at": "2026-07-17T05:45:06+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenClaw ausnutzen, um erweiterte Rechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+      "published_at": "2026-07-17T06:07:00.000+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3dbab2ea137fae530122"
+      "id": "df9687bd03288728341a"
     },
     {
-      "title": "GMOの在宅勤務廃止は間違っていない？ ワサビのインシデントから考える企業防衛",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news039.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました",
+      "url": "https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-16T23:07:38+00:00",
-      "fetched_at": "2026-07-17T05:45:06+00:00",
-      "summary": "GMOの在宅勤務廃止は間違っていない？ ワサビのインシデントから考える企業防衛：侵入口は自宅ルーター GMOインターネットグループの在宅勤務制度見直しをきっかけに、テレワークの是非が改めて議論されている。そうした中、ワサビが公表した不正アクセスでは、自宅の開発環境が侵入口となったことが判明した。この事例...",
+      "published_at": "2026-07-17T06:00:00+00:00",
+      "fetched_at": "2026-07-17T06:32:04+00:00",
+      "summary": "マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "589d8607952c44d8b1e2"
+      "id": "f6f86af151d72ecce53a"
     }
   ],
   "source_errors": [],

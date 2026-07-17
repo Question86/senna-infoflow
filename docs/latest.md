@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T05:45:37+00:00_
+_Generiert: 2026-07-17T06:32:35+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+33 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is th…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/dashboard-guidebook)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-17T06:00:00+00:00`, fetched `2026-07-17T06:32:04+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 262 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-17T01:27:22.040+00:00`, fetched `2026-07-17T01:34:47+00:00`
@@ -150,6 +159,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data Apache Ossie (incubating) Apache Ossie is a collaborative, open-source effort dedicated to standardizing and streamlining semantic model exchange and utilization across the diverse array of tools and platforms wit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Google Chrome: Ungeplantes Sicherheitsupdate Nummer zwei in dieser Woche** — Score 7, observation — [Quelle](https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-17T06:27:00.000+00:00`, fetched `2026-07-17T06:32:04+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **7-Zip: Update stopft Codeschmuggel-Lücke** — Score 7, observation — [Quelle](https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-17T06:07:00.000+00:00`, fetched `2026-07-17T06:32:04+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-17T06:00:00+00:00`, fetched `2026-07-17T06:32:04+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年7月17日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260717-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-17T02:16:50+00:00`, fetched `2026-07-17T02:28:37+00:00`
@@ -158,24 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年7月17日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **任期付職員の募集を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/fixed-term)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-17T00:58:30+00:00`, fetched `2026-07-17T01:34:47+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 任期付職員の募集を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **商業登記電子証明書のリモート署名方式の運用開始についてお知らせします** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-17T00:52:11+00:00`, fetched `2026-07-17T00:56:48+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 商業登記電子証明書のリモート署名方式の運用開始についてお知らせします
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2125939.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -203,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PrismML-Eng/Bonsai-demo** — Score 4, observation — [Quelle](https://github.com/PrismML-Eng/Bonsai-demo)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: Bonsai Demo Bonsai Demo Website | GitHub | Discord HF Collections: Bonsai 27B · Bonsai (1-bit) · Ternary-Bonsai Whitepapers: Bonsai 27B · 1-bit Bonsai 8B · Ternary-Bonsai 8B Using this demo repository you can run Bonsai (1-bit) and Ternary-Bonsai language models locally on Mac (Metal), Linux/Windows (CUDA, Vulkan, ROCm), or CPU. 🌱 New: Bonsai 27B The family's newest and largest generation, and its first vision-langu…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
