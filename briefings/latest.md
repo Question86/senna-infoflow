@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T18:58:27+00:00_
+_Generiert: 2026-07-17T19:28:58+00:00_
 
 ## Kurzlage
 
@@ -12,7 +12,7 @@ _Generiert: 2026-07-17T18:58:27+00:00_
 - **USGS earthquake M7.3 - 58 km WSW of Puerto Madero, Mexico** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu)
   - Quelle: USGS
   - Zeit: `2026-07-17T14:48:39+00:00`
-  - Kurz: M7.3 - 58 km WSW of Puerto Madero, Mexico. PAGER alert: orange. Tsunami flag: 0.
+  - Kurz: M7.3 - 58 km WSW of Puerto Madero, Mexico. PAGER alert: yellow. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-58644 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-16`
@@ -33,10 +33,10 @@ _Generiert: 2026-07-17T18:58:27+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-15`
   - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability
-- **GDACS: Orange earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 100 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420)
+- **GDACS: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 100 thousand (in MMI&gt;=VII).
+  - Kurz: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).
 - **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104028)
   - Quelle: GDACS
   - Zeit: ``

@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-17T18:58:29+00:00",
+  "generated_at": "2026-07-17T19:29:01+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "critical",
         "title": "USGS earthquake M7.3 - 58 km WSW of Puerto Madero, Mexico",
-        "summary": "M7.3 - 58 km WSW of Puerto Madero, Mexico. PAGER alert: orange. Tsunami flag: 0.",
+        "summary": "M7.3 - 58 km WSW of Puerto Madero, Mexico. PAGER alert: yellow. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
         "published_at": "2026-07-17T14:48:39+00:00",
         "metrics": {
           "mag": 7.3,
-          "alert": "orange",
-          "sig": 1139.0,
+          "alert": "yellow",
+          "sig": 959.0,
           "tsunami": 0
         }
       },
@@ -80,8 +80,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Orange earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 100 thousand (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 100 thousand (in MMI&gt;=VII).",
+        "title": "GDACS: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420",
         "published_at": "",
