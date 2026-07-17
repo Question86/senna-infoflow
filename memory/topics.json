@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T22:01:08+00:00",
+  "generated_at": "2026-07-17T22:22:20+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,20 @@
         "url": "https://github.com/apache/ossie"
       },
       {
+        "title": "Repository-level GitHub Copilot usage metrics generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-17T22:05:18+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available"
+      },
+      {
+        "title": "GitHub Copilot app now available in the usage metrics API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-17T22:05:11+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api"
+      },
+      {
         "title": "Copilot code review: Customization and configurability improvements",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-07-17T21:08:30+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-07-17T19:47:45+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent"
-      },
-      {
-        "title": "The cost of saying yes has changed",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-07-17T16:46:47+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/"
-      },
-      {
-        "title": "PrismML-Eng/Bonsai-demo",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 4,
-        "url": "https://github.com/PrismML-Eng/Bonsai-demo"
       }
     ],
     "security": [
