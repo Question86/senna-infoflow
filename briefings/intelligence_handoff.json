@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-17T07:01:33Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-07-17T07:53:38Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2378",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:32+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, root",
+        "security high-signal: code, root"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um erweiterte Berechtigungen zu erlangen und beliebigen Code mit Root-Rechten auszuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T04:55:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://jvn.jp/vu/JVNVU90338324/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:15+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -64,7 +89,7 @@
       "url": "https://jvn.jp/vu/JVNVU90968686/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -84,16 +109,15 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.19,
+      "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2386",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:33+00:00",
+      "age_days": 0.04,
       "topics": [
-        "ai",
-        "infra"
+        "security"
       ],
-      "dynamics_score": 25.0,
+      "dynamics_score": 26.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -104,17 +128,40 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: rce, exchange",
-        "security high-signal: rce, exchange"
+        "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data Apache Ossie (incubating) Apache Ossie is a collaborative, open-source effort dedicated to standardizing and stre…"
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2377",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:32+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
       "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T05:30:03+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -136,11 +183,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
+      "title": "[UPDATE] [hoch] Ruby: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2379",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:12+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Ruby ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）",
       "url": "https://jvn.jp/vu/JVNVU95874748/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:30+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -165,7 +238,7 @@
       "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T05:34:20+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -191,7 +264,7 @@
       "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -213,97 +286,16 @@
       "summary": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました"
     },
     {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 28.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.95,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.95",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -2.5 for 28.2d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。",
-      "url": "https://github.com/interfacex-co-jp/genshijin",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-16T15:34:13+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert"
-    },
-    {
-      "title": "Google Chrome: Ungeplantes Sicherheitsupdate Nummer zwei in dieser Woche",
-      "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-07-17T06:27:00.000+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch",
-        "security high-signal: kritisch"
-      ],
-      "summary": "Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt."
-    },
-    {
-      "title": "7-Zip: Update stopft Codeschmuggel-Lücke",
-      "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-07-17T06:07:00.000+00:00",
+      "title": "[UPDATE] [niedrig] ESET Server Security: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2385",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:33+00:00",
       "age_days": 0.04,
       "topics": [
         "security"
       ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -313,10 +305,10 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code"
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen."
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in ESET Server Security ausnutzen, um einen Denial of Service Angriff durchzuführen."
     }
   ],
   "read_order": [
@@ -328,8 +320,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }

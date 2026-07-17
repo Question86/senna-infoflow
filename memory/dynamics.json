@@ -1,30 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-17T07:01:33Z",
+  "generated_at": "2026-07-17T07:53:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 37,
+    "dynamics": 40,
     "bands": {
-      "krass": 5,
-      "strong": 8,
+      "krass": 8,
+      "strong": 10,
       "watch": 2,
-      "quiet": 22
+      "quiet": 20
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 12,
+      "krass": 2,
+      "strong": 16,
       "watch": 2,
-      "quiet": 22
+      "quiet": 20
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2378",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:32+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, root",
+        "security high-signal: code, root"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um erweiterte Berechtigungen zu erlangen und beliebigen Code mit Root-Rechten auszuführen."
+    },
     {
       "title": "[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T04:55:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -49,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU90338324/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:15+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -73,7 +98,7 @@
       "url": "https://jvn.jp/vu/JVNVU90968686/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -93,11 +118,59 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2386",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:33+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2377",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:32+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "infra"
@@ -123,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T05:30:03+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -145,11 +218,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
+      "title": "[UPDATE] [hoch] Ruby: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2379",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:12+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Ruby ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）",
       "url": "https://jvn.jp/vu/JVNVU95874748/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:30+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -174,7 +273,7 @@
       "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T05:34:20+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -200,7 +299,7 @@
       "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -222,11 +321,36 @@
       "summary": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました"
     },
     {
+      "title": "[UPDATE] [niedrig] ESET Server Security: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2385",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-17T06:50:33+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in ESET Server Security ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 28.21,
+      "age_days": 28.25,
       "topics": [
         "ai"
       ],
@@ -255,7 +379,7 @@
       "url": "https://github.com/interfacex-co-jp/genshijin",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T15:34:13+00:00",
-      "age_days": 0.64,
+      "age_days": 0.68,
       "topics": [
         "ai",
         "macro"
@@ -282,7 +406,7 @@
       "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-17T06:27:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -307,7 +431,7 @@
       "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-17T06:07:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -332,7 +456,7 @@
       "url": "https://github.com/PostHog/posthog",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -358,7 +482,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T01:27:22.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -383,7 +507,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T02:21:48.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -408,7 +532,7 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -434,7 +558,7 @@
       "url": "https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -458,7 +582,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T01:39:56+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -482,7 +606,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260717-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T02:16:50+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -506,7 +630,7 @@
       "url": "https://www.digital.go.jp/recruitment/fixed-term",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:58:30+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -530,7 +654,7 @@
       "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:52:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -550,11 +674,35 @@
       "summary": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします"
     },
     {
+      "title": "Not Found",
+      "url": "https://anond.hatelabo.jp/20260717130259",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T04:21:23+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Not Found"
+    },
+    {
       "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
       "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T01:56:16+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -578,7 +726,7 @@
       "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T03:00:47+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -602,7 +750,7 @@
       "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:12:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -626,7 +774,7 @@
       "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T03:36:48+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -651,7 +799,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 27.17,
+      "age_days": 27.21,
       "topics": [
         "general"
       ],
@@ -676,7 +824,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 27.17,
+      "age_days": 27.21,
       "topics": [
         "general"
       ],
@@ -701,7 +849,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 27.17,
+      "age_days": 27.21,
       "topics": [
         "ai"
       ],
@@ -728,7 +876,7 @@
       "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:45:06+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -753,7 +901,7 @@
       "url": "https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:15:04+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -778,7 +926,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T02:05:58+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -803,7 +951,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news039.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T23:07:38+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -828,7 +976,7 @@
       "url": "https://sizu.me/laiso/posts/mcerekex7091",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T22:33:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -853,7 +1001,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T17:04:37+00:00",
-      "age_days": 0.58,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -872,84 +1020,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表"
-    },
-    {
-      "title": "Product symbiosis: When two features create unexpected value together",
-      "url": "https://e27.co/product-symbiosis-when-two-features-create-unexpected-value-together-20260713/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-17T01:15:35+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Product teams usually discuss features as separate units of value. One feature improves activation. Another helps retention. A third supports monetisation. A fourth reduces friction in an important workflow. This way of thinking is useful for planning, but it quietly narrows how teams understand growth. In live produc…"
-    },
-    {
-      "title": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Bonsai Demo Bonsai Demo Website | GitHub | Discord HF Collections: Bonsai 27B · Bonsai (1-bit) · Ternary-Bonsai Whitepapers: Bonsai 27B · 1-bit Bonsai 8B · Ternary-Bonsai 8B Using this demo repository you can run Bonsai (1-bit) and Ternary-Bonsai language models locally on Mac (Metal), Linux/Windows (CUDA, Vulkan, ROC…"
-    },
-    {
-      "title": "The fatwa lag: How AI is overtaking the system designed to govern Islamic finance",
-      "url": "https://e27.co/the-fatwa-lag-how-ai-is-overtaking-the-system-designed-to-govern-islamic-finance-20260713/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-17T02:00:48+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A sharia bank in Jakarta asked me last quarter whether their new credit scoring model needed Sharia Supervisory Board review. They had deployed it three months earlier, trained on five years of their own portfolio data, and were preparing to roll it out across their consumer financing book. The risk committee was sati…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
