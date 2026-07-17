@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T17:43:07+00:00",
-  "run_id": "2026-07-17T17:43:07+00:00",
+  "generated_at": "2026-07-17T18:09:23+00:00",
+  "run_id": "2026-07-17T18:09:23+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "new_relevant_findings": 1,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 33,
-    "observe": 59,
+    "observe": 60,
     "source_errors": 0
   },
   "sections": {
@@ -1180,6 +1180,42 @@
           "PINS"
         ],
         "id": "415089ddbcf224cf417a"
+      },
+      {
+        "title": "M 5.0 - 59 km SSW of Puerto Madero, Mexico",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f6",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-17T17:46:50.040+00:00",
+        "fetched_at": "2026-07-17T18:08:49+00:00",
+        "summary": "Time 2026-07-17 17:23:30 UTC 2026-07-17 17:23:30 UTC at epicenter Location 14.263°N 92.713°W Depth 35.13 km (21.83 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "aaeb803c7512c83562a2"
       },
       {
         "title": "M 5.1 - 72 km SW of Puerto Madero, Mexico",
@@ -3552,6 +3588,42 @@
       "id": "415089ddbcf224cf417a"
     },
     {
+      "title": "M 5.0 - 59 km SSW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-17T17:46:50.040+00:00",
+      "fetched_at": "2026-07-17T18:08:49+00:00",
+      "summary": "Time 2026-07-17 17:23:30 UTC 2026-07-17 17:23:30 UTC at epicenter Location 14.263°N 92.713°W Depth 35.13 km (21.83 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "aaeb803c7512c83562a2"
+    },
+    {
       "title": "M 5.1 - 72 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4771,13 +4843,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.1 - 72 km SW of Puerto Madero, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f0",
+      "title": "M 5.0 - 59 km SSW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-17T17:35:12.040+00:00",
-      "fetched_at": "2026-07-17T17:42:36+00:00",
-      "summary": "Time 2026-07-17 17:15:19 UTC 2026-07-17 17:15:19 UTC at epicenter Location 14.345°N 92.971°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-17T17:46:50.040+00:00",
+      "fetched_at": "2026-07-17T18:08:49+00:00",
+      "summary": "Time 2026-07-17 17:23:30 UTC 2026-07-17 17:23:30 UTC at epicenter Location 14.263°N 92.713°W Depth 35.13 km (21.83 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -4804,43 +4876,7 @@
         "HD",
         "LOW"
       ],
-      "id": "33aa5f73254e75897516"
-    },
-    {
-      "title": "M 5.1 - 78 km WSW of Puerto Madero, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ey",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-17T17:20:56.040+00:00",
-      "fetched_at": "2026-07-17T17:42:36+00:00",
-      "summary": "Time 2026-07-17 17:03:38 UTC 2026-07-17 17:03:38 UTC at epicenter Location 14.337°N 93.032°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "89e8ca4711d9dadec577"
+      "id": "aaeb803c7512c83562a2"
     }
   ],
   "source_errors": [],

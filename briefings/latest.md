@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T17:43:07+00:00_
+_Generiert: 2026-07-17T18:09:23+00:00_
 
 ## Kurzlage
 
-92 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+93 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -286,14 +286,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region canada: Toronto (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
   - Kurz: As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 72 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f0)
+- **M 5.0 - 59 km SSW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-17T17:35:12.040+00:00`, fetched `2026-07-17T17:42:36+00:00`
+  - Zeit: published `2026-07-17T17:46:50.040+00:00`, fetched `2026-07-17T18:08:49+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-17 17:15:19 UTC 2026-07-17 17:15:19 UTC at epicenter Location 14.345°N 92.971°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-07-17 17:23:30 UTC 2026-07-17 17:23:30 UTC at epicenter Location 14.263°N 92.713°W Depth 35.13 km (21.83 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms** — Score 9, observation — [Quelle](https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
