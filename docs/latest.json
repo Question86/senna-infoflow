@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T00:22:32+00:00",
-  "run_id": "2026-07-17T00:22:32+00:00",
+  "generated_at": "2026-07-17T00:57:19+00:00",
+  "run_id": "2026-07-17T00:57:19+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,17 +19,37 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
+        "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-17T00:52:11+00:00",
+        "fetched_at": "2026-07-17T00:56:48+00:00",
+        "summary": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d1a9498783433a272545"
+      },
       {
         "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
         "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
@@ -55,6 +75,26 @@
   },
   "findings": [
     {
+      "title": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
+      "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-17T00:52:11+00:00",
+      "fetched_at": "2026-07-17T00:56:48+00:00",
+      "summary": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d1a9498783433a272545"
+    },
+    {
       "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -78,25 +118,24 @@
   ],
   "new_findings": [
     {
-      "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
+      "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-16T17:04:37+00:00",
-      "fetched_at": "2026-07-17T00:22:03+00:00",
-      "summary": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
+      "published_at": "2026-07-17T00:52:11+00:00",
+      "fetched_at": "2026-07-17T00:56:48+00:00",
+      "summary": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8138b96926cb53ff9197"
+      "id": "d1a9498783433a272545"
     }
   ],
   "source_errors": [],

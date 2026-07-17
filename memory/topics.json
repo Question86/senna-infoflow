@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T00:22:32+00:00",
+  "generated_at": "2026-07-17T00:57:19+00:00",
   "topics": {
     "general": [
+      {
+        "title": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-17T00:52:11+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324"
+      },
       {
         "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
         "source": "Hatena Bookmark Hotentry IT",
