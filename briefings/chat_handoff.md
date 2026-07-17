@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-17T13:00:31+00:00_
+_Generated: 2026-07-17T13:37:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `73`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-17T13:00:31+00:00_
 - url: https://github.com/PostHog/posthog
 - summary: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opp…
 
-### 8. ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました
-- source: Japan Digital Agency News RSS
+### 8. A scorecard for the AI age
+- source: OpenAI News RSS
 - score: `11`
-- published: `2026-07-17T06:00:00+00:00`
-- url: https://www.digital.go.jp/resources/dashboard-guidebook
-- summary: ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました
+- published: `2026-07-17T10:00:00+00:00`
+- url: https://openai.com/index/a-scorecard-for-the-ai-age
+- summary: Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
 
 END OF DOCUMENT

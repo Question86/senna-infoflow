@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T13:00:31+00:00_
+_Generiert: 2026-07-17T13:37:38+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+73 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,46 @@ _Generiert: 2026-07-17T13:00:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-15`
   - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fa9d8dde4d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104028)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in France
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:76.397km) in New Zealand 16/07/2026 09:14 UTC, 130 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552156)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:76.397km) in New Zealand 16/07/2026 09:14 UTC, 130 thousand in MMI&gt;=IV.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552150)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].
+- **GDACS: Volcanic eruption is on going for Mayon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000144)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Mayon in Philippines
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552085)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:13.061km) in East Of South Sandwich Islands 15/07/2026 14:51 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552027)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:13.061km) in East Of South Sandwich Islands 15/07/2026 14:51 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551894)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.
+- **GDACS: Green notification for tropical cyclone ELIDA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001282)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone ELIDA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551779)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:140.088km) in Peru 14/07/2026 08:21 UTC, 20 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -158,6 +196,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is th…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **A scorecard for the AI age** — Score 11, observation — [Quelle](https://openai.com/index/a-scorecard-for-the-ai-age)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-17T10:00:00+00:00`, fetched `2026-07-17T13:37:08+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/dashboard-guidebook)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-17T06:00:00+00:00`, fetched `2026-07-17T06:32:04+00:00`
@@ -176,6 +223,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Can AI beat a goldfish at calling the World Cup?** — Score 10, observation — [Quelle](https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-17T13:00:00+00:00`, fetched `2026-07-17T13:37:08+00:00`
+  - Treffer: AI/KI, Watchgraph:sports_sf_tech_events
+  - Watchgraph: sports_sf_tech_events
+  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region canada: Toronto (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
+  - Kurz: As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 203 km N of Hadibu, Yemen** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19u)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-17T12:21:15.040+00:00`, fetched `2026-07-17T12:34:26+00:00`
@@ -247,24 +303,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **7-Zip: Update stopft Codeschmuggel-Lücke** — Score 7, observation — [Quelle](https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-17T06:07:00.000+00:00`, fetched `2026-07-17T06:32:04+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-17T06:00:00+00:00`, fetched `2026-07-17T06:32:04+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

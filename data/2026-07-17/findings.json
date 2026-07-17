@@ -858,6 +858,27 @@
     "id": "f6bf22b45d718185d2df"
   },
   {
+    "title": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-17T10:00:00+00:00",
+    "fetched_at": "2026-07-17T13:37:08+00:00",
+    "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5b1f47b5b6df1b8debd9"
+  },
+  {
     "title": "ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました",
     "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
     "source": "Japan Digital Agency News RSS",
@@ -913,6 +934,47 @@
       "LOW"
     ],
     "id": "7fa28157fab1299c73d3"
+  },
+  {
+    "title": "Can AI beat a goldfish at calling the World Cup?",
+    "url": "https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-17T13:00:00+00:00",
+    "fetched_at": "2026-07-17T13:37:08+00:00",
+    "summary": "As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.",
+    "matched_keywords": [
+      "AI/KI",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region canada: Toronto (+2.0); watchgraph modules sports_sf_tech_events (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: World Cup"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "415089ddbcf224cf417a"
   },
   {
     "title": "M 5.3 - 203 km N of Hadibu, Yemen",

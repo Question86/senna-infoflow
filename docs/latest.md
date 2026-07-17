@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T13:00:31+00:00_
+_Generiert: 2026-07-17T13:37:38+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+73 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is th…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **A scorecard for the AI age** — Score 11, observation — [Quelle](https://openai.com/index/a-scorecard-for-the-ai-age)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-17T10:00:00+00:00`, fetched `2026-07-17T13:37:08+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/dashboard-guidebook)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-17T06:00:00+00:00`, fetched `2026-07-17T06:32:04+00:00`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Can AI beat a goldfish at calling the World Cup?** — Score 10, observation — [Quelle](https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-17T13:00:00+00:00`, fetched `2026-07-17T13:37:08+00:00`
+  - Treffer: AI/KI, Watchgraph:sports_sf_tech_events
+  - Watchgraph: sports_sf_tech_events
+  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region canada: Toronto (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
+  - Kurz: As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 203 km N of Hadibu, Yemen** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19u)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-17T12:21:15.040+00:00`, fetched `2026-07-17T12:34:26+00:00`
@@ -212,24 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **7-Zip: Update stopft Codeschmuggel-Lücke** — Score 7, observation — [Quelle](https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-17T06:07:00.000+00:00`, fetched `2026-07-17T06:32:04+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-17T06:00:00+00:00`, fetched `2026-07-17T06:32:04+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: マイナンバーカードの普及・利用の推進に関する関係省庁連絡会議（第8回）の議事概要を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

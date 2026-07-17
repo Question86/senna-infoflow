@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T13:00:31+00:00",
+  "generated_at": "2026-07-17T13:37:38+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,20 @@
         "url": "https://github.com/PostHog/posthog"
       },
       {
+        "title": "A scorecard for the AI age",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-17T10:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+      },
+      {
+        "title": "Can AI beat a goldfish at calling the World Cup?",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-17T13:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-17T03:36:48+00:00",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-17T09:36:28+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ecosystem-roundup-why-winnows-lumitics-deal-matters-20260717/"
-      },
-      {
-        "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-17T02:45:06+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/"
-      },
-      {
-        "title": "The sovereignty of judgment: Why human intelligence is your startup’s last moat",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-17T02:15:04+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/"
       }
     ],
     "github": [
