@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T10:19:17+00:00",
+  "generated_at": "2026-07-17T10:58:18+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://github.com/interfacex-co-jp/genshijin"
       },
       {
+        "title": "[NEU] [mittel] Microsoft SharePoint und SharePoint Server: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:40:04+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2397"
+      },
+      {
         "title": "openinterpreter/openinterpreter",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -135,6 +142,27 @@
         "url": "https://jvn.jp/vu/JVNVU95874748/"
       },
       {
+        "title": "[NEU] [hoch] Microsoft Office 365 (Moodle Plugin): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:50:03+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2400"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft SharePoint und SharePoint Server: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:40:04+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2397"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft Windows Terminal: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:40:03+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2396"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-17T09:50:05+00:00",
@@ -168,30 +196,30 @@
         "published_at": "2026-07-17T05:34:20+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T05:30:03+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317"
-      },
-      {
-        "title": "[UPDATE] [niedrig] ESET Server Security: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T06:50:33+00:00",
-        "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2385"
-      },
-      {
-        "title": "一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-17T11:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90338324/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Microsoft Office 365 (Moodle Plugin): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:50:03+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2400"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft SharePoint und SharePoint Server: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:40:04+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2397"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft Windows Terminal: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:40:03+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2396"
+      },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -207,6 +235,27 @@
         "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/"
       },
       {
+        "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:45:04+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2399"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:45:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2398"
+      },
+      {
+        "title": "[NEU] [mittel] IBM Cognos Analytics: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T10:40:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2395"
+      },
+      {
         "title": "[NEU] [mittel] HTTP/2 Server: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-17T08:10:05+00:00",
@@ -219,41 +268,6 @@
         "published_at": "2026-07-17T08:10:04+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2387"
-      },
-      {
-        "title": "Euro area monthly balance of payments: May 2026",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-07-17T08:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html"
-      },
-      {
-        "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-17T10:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html"
-      },
-      {
-        "title": "apache/ossie",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/apache/ossie"
-      },
-      {
-        "title": "VMware Avi Load Balancer: Kritische Lücke erlaubt Umgehung von Anmeldung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-17T10:11:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/VMware-Avi-Load-Balancer-Kritische-Luecke-erlaubt-Umgehung-von-Anmeldung-11368661.html"
-      },
-      {
-        "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-17T02:12:10+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/"
       }
     ],
     "general": [

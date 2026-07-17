@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-17T10:19:17+00:00_
+_Generated: 2026-07-17T10:58:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `66`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-17T10:19:17+00:00_
 - url: https://jvn.jp/vu/JVNVU95874748/
 - summary: 2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [NEU] [hoch] Microsoft Office 365 (Moodle Plugin): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-17T09:50:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2077
-- summary: Ein entfernter Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen und weitere, nicht näher spezifizierte Auswirkungen zu erzielen.
+- published: `2026-07-17T10:50:03+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2400
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Office 365 (Moodle Plugin) ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Benutzer zu imitieren und sich so erweiterte Berechtigungen, einschließlich Administratorzugriff, zu verschaff…
 
 ### 5. CMBI, SMBC back Whale’s US$40M Series C extension for enterprise AI expansion
 - source: e27 Asia Startup and Tech Feed
