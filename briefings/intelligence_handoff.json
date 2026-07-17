@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-17T02:37:01Z",
+  "generated_at": "2026-07-17T03:49:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU90338324/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU90968686/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://github.com/apache/ossie",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "infra"
@@ -89,7 +89,7 @@
       "url": "https://jvn.jp/vu/JVNVU95874748/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:30+09:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -114,7 +114,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 28.03,
+      "age_days": 28.08,
       "topics": [
         "ai"
       ],
@@ -133,7 +133,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -2.5 for 28.0d old signal",
+        "aging penalty -2.5 for 28.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -143,7 +143,7 @@
       "url": "https://github.com/interfacex-co-jp/genshijin",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T15:34:13+00:00",
-      "age_days": 0.46,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "macro"
@@ -170,7 +170,7 @@
       "url": "https://github.com/PostHog/posthog",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -196,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T01:27:22.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -221,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T02:21:48.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -246,7 +246,7 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -268,11 +268,35 @@
       "summary": "A coding agent for open models like Kimi K3 Open Interpreter A coding agent optimized for low-cost models. Blog post ↗ Note Today: Kimi K3 is here. We have reimplemented the provider-recommended Kimi Code harness in Rust, giving you maximum K3 performance with a Codex-like interface. Kimi Docs → Installation macOS and…"
     },
     {
+      "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T01:39:56+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日..."
+    },
+    {
       "title": "松本大臣記者会見（令和8年7月17日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260717-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T02:16:50+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -290,30 +314,6 @@
         "no strong comparative reason"
       ],
       "summary": "松本大臣記者会見（令和8年7月17日）動画を掲載しました"
-    },
-    {
-      "title": "任期付職員の募集を掲載しました",
-      "url": "https://www.digital.go.jp/recruitment/fixed-term",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-07-17T00:58:30+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "任期付職員の募集を掲載しました"
     }
   ],
   "read_order": [

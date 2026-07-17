@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-17T02:37:01Z",
+  "generated_at": "2026-07-17T03:49:13Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 22,
+    "dynamics": 29,
     "bands": {
       "krass": 1,
       "strong": 6,
       "watch": 2,
-      "quiet": 13
+      "quiet": 20
     },
     "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 2,
-      "quiet": 13
+      "quiet": 20
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU90338324/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU90968686/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://github.com/apache/ossie",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "infra"
@@ -97,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU95874748/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:30+09:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 28.03,
+      "age_days": 28.08,
       "topics": [
         "ai"
       ],
@@ -141,7 +141,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -2.5 for 28.0d old signal",
+        "aging penalty -2.5 for 28.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -151,7 +151,7 @@
       "url": "https://github.com/interfacex-co-jp/genshijin",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T15:34:13+00:00",
-      "age_days": 0.46,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "macro"
@@ -178,7 +178,7 @@
       "url": "https://github.com/PostHog/posthog",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -204,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T01:27:22.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -229,7 +229,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T02:21:48.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -254,7 +254,7 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -276,11 +276,35 @@
       "summary": "A coding agent for open models like Kimi K3 Open Interpreter A coding agent optimized for low-cost models. Blog post ↗ Note Today: Kimi K3 is here. We have reimplemented the provider-recommended Kimi Code harness in Rust, giving you maximum K3 performance with a Codex-like interface. Kimi Docs → Installation macOS and…"
     },
     {
+      "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T01:39:56+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが、前場では前日..."
+    },
+    {
       "title": "松本大臣記者会見（令和8年7月17日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260717-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T02:16:50+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -304,7 +328,7 @@
       "url": "https://www.digital.go.jp/recruitment/fixed-term",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:58:30+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -328,7 +352,7 @@
       "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:52:11+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -348,11 +372,59 @@
       "summary": "商業登記電子証明書のリモート署名方式の運用開始についてお知らせします"
     },
     {
+      "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T01:56:16+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も"
+    },
+    {
+      "title": "How Asia is turning football’s year-round calendar into a fan engagement battleground",
+      "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-17T03:00:47+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Basketball has always been built for momentum. A fast break, a buzzer-beater, a chasedown block or a no-look pass can change the mood of a game in seconds. That rhythm has made the sport especially well-suited to the digital age, where fans increasingly discover, follow and debate sport through clips, personalities, l…"
+    },
+    {
       "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
       "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:12:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -372,11 +444,36 @@
       "summary": "Bitcoin trades at US$63,780.63, representing more than a 50 per cent correction from the all-time high of US$126,198 it established in October 2025. While the fourth post-halving cycle successfully produced a peak higher than any prior market expansion, the subsequent downward correction has proved exactly as aggressi…"
     },
     {
+      "title": "CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms",
+      "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-17T03:36:48+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often fall outside conventional bank lending criteria. The MD Tech…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.99,
+      "age_days": 27.04,
       "topics": [
         "general"
       ],
@@ -392,7 +489,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.7 for 27.0d old signal"
+        "aging penalty -12.8 for 27.0d old signal"
       ],
       "summary": ""
     },
@@ -401,7 +498,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.99,
+      "age_days": 27.04,
       "topics": [
         "general"
       ],
@@ -417,7 +514,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -12.7 for 27.0d old signal"
+        "aging penalty -12.8 for 27.0d old signal"
       ],
       "summary": ""
     },
@@ -426,7 +523,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 26.99,
+      "age_days": 27.04,
       "topics": [
         "ai"
       ],
@@ -443,17 +540,42 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -12.7 for 27.0d old signal",
+        "aging penalty -12.8 for 27.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
+      "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-17T02:45:06+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "I couldn’t understand why my student had ignored almost all of my feedback. I had carefully reviewed his capstone presentation, working through each slide, thinking about the structure, the technical flow and how he could communicate his ideas more effectively. Like many educators adapting to the AI era, I also used A…"
     },
     {
       "title": "The sovereignty of judgment: Why human intelligence is your startup’s last moat",
       "url": "https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:15:04+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -474,11 +596,61 @@
       "summary": "As we move deeper into 2026, the initial efficiency high of AI adoption is being met with a sobering reality: when everyone uses the same models to automate, the result is beige decay, a technically perfect but culturally hollow sameness. Recent findings from the iF Design Trend Report 2026 argue that we are entering…"
     },
     {
+      "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T02:05:58+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント"
+    },
+    {
+      "title": "なぜAI臭さを消したいのか？｜laiso",
+      "url": "https://sizu.me/laiso/posts/mcerekex7091",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-16T22:33:19+00:00",
+      "age_days": 0.22,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "前に「AIの作文はなぜつまらないのか」という記事を書いた。AIの文章は分量のわりに情報量が少ないし、面白さを自動で評価する仕組みもないから、みたいな話だった。今回は逆に書き手としての話をしたい。 きっかけは cognitive-rhythm-writing というスキルがタイムラインに流れてきたことで、これは日本語の文章に緩急..."
+    },
+    {
       "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T17:04:37+00:00",
-      "age_days": 0.4,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -503,7 +675,7 @@
       "url": "https://e27.co/product-symbiosis-when-two-features-create-unexpected-value-together-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T01:15:35+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -529,7 +701,7 @@
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -555,7 +727,7 @@
       "url": "https://e27.co/the-fatwa-lag-how-ai-is-overtaking-the-system-designed-to-govern-islamic-finance-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T02:00:48+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
