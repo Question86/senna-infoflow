@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T15:54:45+00:00_
+_Generiert: 2026-07-17T16:23:44+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+86 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,10 @@ _Generiert: 2026-07-17T15:54:45+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846)
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 60 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552424)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 60 thousand in 100km.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:76.397km) in New Zealand 16/07/2026 09:14 UTC, 130 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552156)
   - Quelle: GDACS
   - Zeit: ``
@@ -277,14 +277,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region canada: Toronto (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
   - Kurz: As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 93 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1)
+- **M 5.0 - 66 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1du)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-17T15:49:47.022+00:00`, fetched `2026-07-17T15:54:17+00:00`
+  - Zeit: published `2026-07-17T16:13:38.040+00:00`, fetched `2026-07-17T16:23:16+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-07-17 15:14:55 UTC 2026-07-17 15:14:55 UTC at epicenter Location 14.189°N 93.099°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-07-17 15:30:38 UTC 2026-07-17 15:30:38 UTC at epicenter Location 14.348°N 92.909°W Depth 53.73 km (33.39 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms** — Score 9, observation — [Quelle](https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

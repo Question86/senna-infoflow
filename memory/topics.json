@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T15:54:45+00:00",
+  "generated_at": "2026-07-17T16:23:44+00:00",
   "topics": {
     "ai": [
       {
@@ -293,6 +293,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171"
       },
       {
+        "title": "M 5.0 - 66 km SW of Puerto Madero, Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T16:13:38.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1du"
+      },
+      {
         "title": "M 5.3 - 93 km SW of Puerto Madero, Mexico",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-17T15:49:47.022+00:00",
@@ -333,13 +340,6 @@
         "published_at": "2026-07-17T07:56:26.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t18g"
-      },
-      {
-        "title": "M 4.5 - Owen Fracture Zone region",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-17T02:21:48.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e"
       }
     ],
     "economy": [
