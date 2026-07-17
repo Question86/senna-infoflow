@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-17T09:25:19Z",
+  "generated_at": "2026-07-17T10:09:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2378",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T06:50:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T04:55:29+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU90338324/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:15+09:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://jvn.jp/vu/JVNVU90968686/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2388",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T08:10:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2387",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T08:10:04+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0562",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T07:35:04+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-1384",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T07:35:03+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -218,7 +218,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2386",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T06:50:33+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -242,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2377",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T06:50:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -266,7 +266,7 @@
       "url": "https://github.com/apache/ossie",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "infra"
@@ -292,7 +292,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T07:35:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -318,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T05:30:03+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -344,7 +344,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2347",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T08:10:03+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -370,7 +370,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1087",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T07:35:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -396,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T06:50:12+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -422,7 +422,7 @@
       "url": "https://jvn.jp/vu/JVNVU95874748/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-17T11:00:30+09:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -447,7 +447,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0226",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T07:35:04+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -472,7 +472,7 @@
       "url": "https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T05:34:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -498,7 +498,7 @@
       "url": "https://www.digital.go.jp/resources/dashboard-guidebook",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T06:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -524,7 +524,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2385",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-17T06:50:33+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -549,7 +549,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 28.31,
+      "age_days": 28.34,
       "topics": [
         "ai"
       ],
@@ -578,7 +578,7 @@
       "url": "https://github.com/interfacex-co-jp/genshijin",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T15:34:13+00:00",
-      "age_days": 0.74,
+      "age_days": 0.77,
       "topics": [
         "ai",
         "macro"
@@ -605,7 +605,7 @@
       "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-17T06:27:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -630,7 +630,7 @@
       "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-17T06:07:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -655,7 +655,7 @@
       "url": "https://github.com/PostHog/posthog",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -681,7 +681,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T01:27:22.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -706,7 +706,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t18g",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T07:56:26.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -731,7 +731,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-17T02:21:48.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -756,7 +756,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-07-17T08:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -780,7 +780,7 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-17T02:28:37+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -806,7 +806,7 @@
       "url": "https://www.digital.go.jp/councils/mynumbercard-promotion/18e0dbef-510b-43f9-882f-3e09d811dde9",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T06:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -830,7 +830,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T01:39:56+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -854,7 +854,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260717-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T02:16:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -878,7 +878,7 @@
       "url": "https://www.digital.go.jp/recruitment/fixed-term",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:58:30+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -902,7 +902,7 @@
       "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-17T00:52:11+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -926,7 +926,7 @@
       "url": "https://anond.hatelabo.jp/20260717130259",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T04:21:23+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -946,11 +946,35 @@
       "summary": "Not Found"
     },
     {
+      "title": "かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news073.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T03:02:55+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「POPOPOは私財30億円を突っ込んでしまったプロジェクトでした」――ドワンゴ創業者で、通話アプリ「POPOPO」に個人で出資していた川上量生（かわんご）氏は7月16日、自身のXでこう明かした。17日には「やっぱ30億ぽっちで勝とうとはずうずうしかった。最低でも300億ぐらいは必要だった」と振り返り、自腹出資で「ケチって..."
+    },
+    {
       "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
       "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T01:56:16+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -974,7 +998,7 @@
       "url": "https://e27.co/how-asia-is-turning-footballs-year-round-calendar-into-a-fan-engagement-battleground-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-17T03:00:47+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -992,30 +1016,6 @@
         "no strong comparative reason"
       ],
       "summary": "Basketball has always been built for momentum. A fast break, a buzzer-beater, a chasedown block or a no-look pass can change the mood of a game in seconds. That rhythm has made the sport especially well-suited to the digital age, where fans increasingly discover, follow and debate sport through clips, personalities, l…"
-    },
-    {
-      "title": "Bitcoin at US$63,780: Buying opportunity or trap? The uncomfortable truth",
-      "url": "https://e27.co/bitcoin-at-us63780-buying-opportunity-or-trap-the-uncomfortable-truth-20260717/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-17T02:12:10+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Bitcoin trades at US$63,780.63, representing more than a 50 per cent correction from the all-time high of US$126,198 it established in October 2025. While the fourth post-halving cycle successfully produced a peak higher than any prior market expansion, the subsequent downward correction has proved exactly as aggressi…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
