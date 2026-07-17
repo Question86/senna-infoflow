@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T08:58:56+00:00_
+_Generiert: 2026-07-17T09:39:25+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+53 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -232,6 +232,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-17 02:04:04 UTC 2026-07-17 02:04:04 UTC at epicenter Location 13.741°N 58.341°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Ecosystem Roundup: Why Winnow’s Lumitics deal matters** — Score 8, observation — [Quelle](https://e27.co/ecosystem-roundup-why-winnows-lumitics-deal-matters-20260717/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-17T09:36:28+00:00`, fetched `2026-07-17T09:38:57+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Food waste is a US$1T global problem, and Southeast Asia sits at its bleeding edge. Hotels and commercial kitchens across the region discard tonnes of food daily, not from carelessness, but from an absence of data. That gap is exactly what Singapore-based Lumitics was built to close. Winnow’s acquisition of Lumitics is not just a […] The post Ecosystem Roundup: Why Winnow’s Lumitics deal matters appeared first on e2…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI and the crisis of recognition: Do we still see the human behind the words?** — Score 8, observation — [Quelle](https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-17T02:45:06+00:00`, fetched `2026-07-17T03:40:00+00:00`
@@ -240,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: I couldn’t understand why my student had ignored almost all of my feedback. I had carefully reviewed his capstone presentation, working through each slide, thinking about the structure, the technical flow and how he could communicate his ideas more effectively. Like many educators adapting to the AI era, I also used AI to help organise […] The post AI and the crisis of recognition: Do we still see the human behind t…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The sovereignty of judgment: Why human intelligence is your startup’s last moat** — Score 8, observation — [Quelle](https://e27.co/the-sovereignty-of-judgment-why-human-intelligence-is-your-startups-last-moat-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T02:15:04+00:00`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: As we move deeper into 2026, the initial efficiency high of AI adoption is being met with a sobering reality: when everyone uses the same models to automate, the result is beige decay, a technically perfect but culturally hollow sameness. Recent findings from the iF Design Trend Report 2026 argue that we are entering an […] The post The sovereignty of judgment: Why human intelligence is your startup’s last moat appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **apache/ossie** — Score 8, observation — [Quelle](https://github.com/apache/ossie)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

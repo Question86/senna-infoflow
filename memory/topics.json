@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T08:58:56+00:00",
+  "generated_at": "2026-07-17T09:39:25+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/"
       },
       {
+        "title": "Ecosystem Roundup: Why Winnow’s Lumitics deal matters",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-17T09:36:28+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ecosystem-roundup-why-winnows-lumitics-deal-matters-20260717/"
+      },
+      {
         "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-17T02:45:06+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-17T02:48:53+00:00",
         "relevance_score": 5,
         "url": "https://fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/"
-      },
-      {
-        "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T02:05:58+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/news/2125939.html"
       }
     ],
     "github": [
@@ -307,11 +307,11 @@
         "url": "https://anond.hatelabo.jp/20260717130259"
       },
       {
-        "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+        "title": "かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T01:56:16+00:00",
+        "published_at": "2026-07-17T03:02:55+00:00",
         "relevance_score": 5,
-        "url": "https://forest.watch.impress.co.jp/docs/news/2125948.html"
+        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news073.html"
       }
     ],
     "economy": [
