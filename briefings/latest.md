@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T16:23:44+00:00_
+_Generiert: 2026-07-17T16:48:31+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+90 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.3 - 48 km SW of Aquiles Serdán, Mexico** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu)
+- **USGS earthquake M7.3 - 58 km WSW of Puerto Madero, Mexico** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu)
   - Quelle: USGS
   - Zeit: `2026-07-17T14:48:39+00:00`
-  - Kurz: M7.3 - 48 km SW of Aquiles Serdán, Mexico. PAGER alert: pending. Tsunami flag: 0.
+  - Kurz: M7.3 - 58 km WSW of Puerto Madero, Mexico. PAGER alert: orange. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-58644 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-16`
@@ -33,18 +33,18 @@ _Generiert: 2026-07-17T16:23:44+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-15`
   - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability
-- **GDACS: Orange earthquake (Magnitude 7.3M, Depth:15.178km) in Mexico 17/07/2026 14:48 UTC, 350 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420)
+- **GDACS: Orange earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 160 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 7.3M, Depth:15.178km) in Mexico 17/07/2026 14:48 UTC, 350 thousand (in MMI&gt;=VII).
+  - Kurz: Orange earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 160 thousand (in MMI&gt;=VII).
 - **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104028)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 60 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552424)
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552424)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 60 thousand in 100km.
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:76.397km) in New Zealand 16/07/2026 09:14 UTC, 130 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552156)
   - Quelle: GDACS
   - Zeit: ``
@@ -148,6 +148,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 9 km ENE of Pangyan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1e8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-17T16:42:58.810+00:00`, fetched `2026-07-17T16:48:01+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - V Time 2026-07-17 16:12:56 UTC 2026-07-17 16:12:56 UTC at epicenter Location 5.742°N 125.352°E Depth 66.13 km (41.09 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90338324/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-17T11:00:15+09:00`, fetched `2026-07-17T02:28:37+00:00`
@@ -277,14 +286,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region canada: Toronto (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
   - Kurz: As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 66 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1du)
+- **M 4.7 - 161 km ESE of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ej)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-17T16:13:38.040+00:00`, fetched `2026-07-17T16:23:16+00:00`
+  - Zeit: published `2026-07-17T16:40:16.040+00:00`, fetched `2026-07-17T16:48:01+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-17 15:30:38 UTC 2026-07-17 15:30:38 UTC at epicenter Location 14.348°N 92.909°W Depth 53.73 km (33.39 mi)
+  - Kurz: Time 2026-07-17 16:22:50 UTC 2026-07-17 16:22:50 UTC at epicenter Location 4.815°S 153.648°E Depth 118.74 km (73.78 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms** — Score 9, observation — [Quelle](https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

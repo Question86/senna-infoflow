@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T16:23:44+00:00",
+  "generated_at": "2026-07-17T16:48:31+00:00",
   "topics": {
     "ai": [
       {
@@ -117,6 +117,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/apache/ossie"
+      },
+      {
+        "title": "The cost of saying yes has changed",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-17T16:46:47+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/"
       },
       {
         "title": "PrismML-Eng/Bonsai-demo",
@@ -272,6 +279,13 @@
     ],
     "general": [
       {
+        "title": "M 5.3 - 9 km ENE of Pangyan, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T16:42:58.810+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1e8"
+      },
+      {
         "title": "M 7.3 - 48 km SW of Aquiles Serdán, Mexico",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-17T15:20:46.016+00:00",
@@ -291,6 +305,20 @@
         "published_at": "2026-07-17T01:27:22.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171"
+      },
+      {
+        "title": "M 4.7 - 161 km ESE of Kokopo, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T16:40:16.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ej"
+      },
+      {
+        "title": "M 5.1 - 70 km WSW of Puerto Madero, Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-17T16:25:27.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1dv"
       },
       {
         "title": "M 5.0 - 66 km SW of Puerto Madero, Mexico",
@@ -319,27 +347,6 @@
         "published_at": "2026-07-17T13:37:58.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1b0"
-      },
-      {
-        "title": "M 5.3 - 203 km N of Hadibu, Yemen",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-17T12:21:15.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19u"
-      },
-      {
-        "title": "M 4.6 - 206 km N of Hadibu, Yemen",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-17T12:07:36.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19p"
-      },
-      {
-        "title": "M 4.7 - 283 km NE of Lospalos, Timor Leste",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-17T07:56:26.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t18g"
       }
     ],
     "economy": [
