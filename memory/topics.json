@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-17T06:32:35+00:00",
+  "generated_at": "2026-07-17T07:23:27+00:00",
   "topics": {
     "ai": [
       {
@@ -142,6 +142,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317"
       },
       {
+        "title": "[UPDATE] [niedrig] ESET Server Security: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T06:50:33+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2385"
+      },
+      {
         "title": "一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-17T11:00:15+09:00",
@@ -156,25 +163,32 @@
         "url": "https://jvn.jp/vu/JVNVU90968686/"
       },
       {
-        "title": "[UPDATE] [hoch] OpenClaw: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T04:55:29+00:00",
+        "published_at": "2026-07-17T06:50:33+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2133"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2386"
       },
       {
-        "title": "Google Chrome: Ungeplantes Sicherheitsupdate Nummer zwei in dieser Woche",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-17T06:27:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html"
+        "title": "[UPDATE] [mittel] X.Org X11 Server (libXfont2): Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T06:50:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2378"
       },
       {
-        "title": "7-Zip: Update stopft Codeschmuggel-Lücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-17T06:07:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html"
+        "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T06:50:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2377"
+      },
+      {
+        "title": "[UPDATE] [hoch] Ruby: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-17T06:50:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2379"
       }
     ],
     "geopolitics": [
@@ -251,6 +265,13 @@
         "url": "https://www.digital.go.jp/news/aa53adcd-9b8a-4a1e-bc94-0f7cd5858324"
       },
       {
+        "title": "Not Found",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-17T04:21:23+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260717130259"
+      },
+      {
         "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-17T01:56:16+00:00",
@@ -263,13 +284,6 @@
         "published_at": "2026-07-17T01:39:56+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html"
-      },
-      {
-        "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-16T17:04:37+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/news/2125917.html"
       }
     ],
     "economy": [

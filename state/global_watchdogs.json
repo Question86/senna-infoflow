@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T06:32:37+00:00",
+  "generated_at": "2026-07-17T07:23:31+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,20 +65,20 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.",
+        "title": "GDACS: Green flood alert in France",
+        "summary": "Green flood alert in France",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104028",
         "published_at": "",
         "metrics": {}
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Austria",
-        "summary": "Green flood alert in Austria",
+        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 6.2M, Depth:46.427km) in Philippines 14/07/2026 15:49 UTC, 60 thousand in MMI VI.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104023",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551846",
         "published_at": "",
         "metrics": {}
       },
