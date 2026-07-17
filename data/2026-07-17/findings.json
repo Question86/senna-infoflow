@@ -1830,6 +1830,28 @@
     "id": "2cf75b95faf49fc74b56"
   },
   {
+    "title": "Claude Artifact",
+    "url": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-17T02:49:50+00:00",
+    "fetched_at": "2026-07-17T23:23:47+00:00",
+    "summary": "Try out Artifacts created by Claude users",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fdc3d2cb2632d713ba85"
+  },
+  {
     "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
     "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
     "source": "e27 Asia Startup and Tech Feed",

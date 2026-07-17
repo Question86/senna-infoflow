@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T23:02:26+00:00",
-  "run_id": "2026-07-17T23:02:26+00:00",
+  "generated_at": "2026-07-17T23:24:18+00:00",
+  "run_id": "2026-07-17T23:24:18+00:00",
   "date": "2026-07-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 101
+      "configured_public_sources_only": 102
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 101,
-    "displayed_findings": 101,
+    "new_relevant_findings": 1,
+    "today_file_total": 102,
+    "displayed_findings": 102,
     "high": 0,
     "medium": 33,
-    "observe": 68,
+    "observe": 69,
     "source_errors": 0
   },
   "sections": {
@@ -1860,6 +1860,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2cf75b95faf49fc74b56"
+      },
+      {
+        "title": "Claude Artifact",
+        "url": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-17T02:49:50+00:00",
+        "fetched_at": "2026-07-17T23:23:47+00:00",
+        "summary": "Try out Artifacts created by Claude users",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fdc3d2cb2632d713ba85"
       },
       {
         "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
@@ -4466,6 +4488,28 @@
       "id": "2cf75b95faf49fc74b56"
     },
     {
+      "title": "Claude Artifact",
+      "url": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T02:49:50+00:00",
+      "fetched_at": "2026-07-17T23:23:47+00:00",
+      "summary": "Try out Artifacts created by Claude users",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdc3d2cb2632d713ba85"
+    },
+    {
       "title": "AI and the crisis of recognition: Do we still see the human behind the words?",
       "url": "https://e27.co/ai-and-the-crisis-of-recognition-do-we-still-see-the-human-behind-the-words-20260714/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -5237,7 +5281,30 @@
       "id": "fc6379561cc2082c2586"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Claude Artifact",
+      "url": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T02:49:50+00:00",
+      "fetched_at": "2026-07-17T23:23:47+00:00",
+      "summary": "Try out Artifacts created by Claude users",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdc3d2cb2632d713ba85"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
