@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T20:33:14+00:00",
+  "generated_at": "2026-07-18T20:54:38+00:00",
   "topics": {
     "security": [
       {
@@ -207,6 +207,13 @@
         "published_at": "2026-07-17T12:21:56+00:00",
         "relevance_score": 12,
         "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/"
+      },
+      {
+        "title": "Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-07-18T20:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271984-1032_bits.html"
       },
       {
         "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",

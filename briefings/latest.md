@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T20:33:14+00:00_
+_Generiert: 2026-07-18T20:54:38+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk).
+39 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 OpenAI's new flagship model deletes files on its own, people keep warning | TechCrunch https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-peop...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]** — Score 11, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271984-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-07-18T20:00:00+00:00`, fetched `2026-07-18T20:54:10+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)
+  - Kurz: Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし** — Score 11, observation — [Quelle](https://gigazine.net/news/20260718-comaps/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
