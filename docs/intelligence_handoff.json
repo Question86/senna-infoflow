@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-18T21:31:25Z",
+  "generated_at": "2026-07-18T22:02:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271984-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-07-18T20:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-18T05:19:00.000+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -66,7 +66,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 29.81,
+      "age_days": 29.84,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T13:03:36+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T08:37:35.040+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -146,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:45:17.977+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T20:13:55.400+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -196,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T17:54:01.418+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -217,11 +217,38 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-18 17:26:25 UTC 2026-07-18 17:26:25 UTC at epicenter Location 14.239°N 92.881°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "AI時代の開発生産性は、個人技からチーム設計へ",
+      "url": "https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T12:22:28+00:00",
+      "age_days": 1.4,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Developers Summit 2026 Summer・IT Strategy Summit 2026での発表資料です。 https://event.shoeisha.jp/devsumi/20260716"
+    },
+    {
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -247,7 +274,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T16:26:12.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -272,7 +299,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T11:35:36.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -291,31 +318,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-07-18 11:12:57 UTC 2026-07-18 11:12:57 UTC at epicenter Location 24.384°S 116.110°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - central Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-18T06:43:52.040+00:00",
-      "age_days": 0.62,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-18 06:26:08 UTC 2026-07-18 06:26:08 UTC at epicenter Location 0.920°S 21.495°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -328,8 +330,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 8,
-      "watch": 3
+      "strong": 9,
+      "watch": 2
     }
   }
 }

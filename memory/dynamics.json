@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-18T21:31:25Z",
+  "generated_at": "2026-07-18T22:02:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
-      "strong": 7,
+      "strong": 8,
       "watch": 15,
-      "quiet": 16
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 8,
+      "strong": 9,
       "watch": 15,
-      "quiet": 16
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271984-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-07-18T20:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-18T05:19:00.000+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 29.81,
+      "age_days": 29.84,
       "topics": [
         "ai"
       ],
@@ -104,7 +104,7 @@
       "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T13:03:36+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -130,7 +130,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T08:37:35.040+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -155,7 +155,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:45:17.977+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -180,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T20:13:55.400+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -205,7 +205,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T17:54:01.418+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -226,11 +226,38 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-18 17:26:25 UTC 2026-07-18 17:26:25 UTC at epicenter Location 14.239°N 92.881°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "AI時代の開発生産性は、個人技からチーム設計へ",
+      "url": "https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-17T12:22:28+00:00",
+      "age_days": 1.4,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Developers Summit 2026 Summer・IT Strategy Summit 2026での発表資料です。 https://event.shoeisha.jp/devsumi/20260716"
+    },
+    {
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -256,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T16:26:12.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -281,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T11:35:36.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -306,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:43:52.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -331,7 +358,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:28:19.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -356,7 +383,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:05:44.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -381,7 +408,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T03:35:08.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "disaster"
       ],
@@ -406,7 +433,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1im",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:05:01.040+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "disaster"
       ],
@@ -431,7 +458,7 @@
       "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T05:49:42+00:00",
-      "age_days": 1.65,
+      "age_days": 1.68,
       "topics": [
         "ai"
       ],
@@ -457,7 +484,7 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -484,7 +511,7 @@
       "url": "https://gazlog.jp/entry/lg-gaming-ads-install/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T03:26:24+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -508,7 +535,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1l4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T10:26:32.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -532,7 +559,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T08:46:49.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -556,7 +583,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T07:08:53.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -580,7 +607,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T04:42:47.040+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "disaster"
       ],
@@ -604,7 +631,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:42:41.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.81,
       "topics": [
         "disaster"
       ],
@@ -628,7 +655,7 @@
       "url": "https://gigazine.net/news/20260718-comaps/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T05:48:26+00:00",
-      "age_days": 0.65,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -652,7 +679,7 @@
       "url": "https://github.com/anthropics/cwc-workshops",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -678,7 +705,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1l8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T10:46:45.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "disaster"
@@ -706,7 +733,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:13:39.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "disaster"
@@ -734,7 +761,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T22:45:39+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -760,7 +787,7 @@
       "url": "https://endform.dev/blog/playwright-github-actions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T23:52:15+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -785,7 +812,7 @@
       "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T12:21:56+00:00",
-      "age_days": 1.38,
+      "age_days": 1.4,
       "topics": [
         "ai"
       ],
@@ -810,7 +837,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T22:50:00+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -836,7 +863,7 @@
       "url": "https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T04:23:35+00:00",
-      "age_days": 0.71,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -861,7 +888,7 @@
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -886,7 +913,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 28.78,
+      "age_days": 28.8,
       "topics": [
         "general"
       ],
@@ -911,7 +938,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 28.78,
+      "age_days": 28.8,
       "topics": [
         "general"
       ],
@@ -936,7 +963,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 28.78,
+      "age_days": 28.8,
       "topics": [
         "ai"
       ],
@@ -963,7 +990,7 @@
       "url": "https://www.techno-edge.net/article/2026/07/18/5311.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T10:13:25+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -988,31 +1015,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T04:37:12+00:00",
-      "age_days": 0.7,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "米Anthropicは7月17日（現地時間）、最上位AIモデル「Claude Fable 5」を20日から有料プラン「Max」「Team Premium」の標準機能にすると発表した。両プランでは、利用上限の50%までFable 5を追加費用なしで使える。 一方、「Pro」「Team Standard」の各プランでは、月額料金とは別に課金される「使用クレジット」（従量..."
-    },
-    {
-      "title": "【NVIDIAグルメ】時価総額800兆円エヌビディア・フアンCEOが行った串焼き80円の激安居酒屋が最高な件 / 東京・神田「やきとん三吉」で半導体グルメ|ガジェット通信 GetNews",
-      "url": "https://getnews.jp/archives/3731287",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-18T04:04:37+00:00",
       "age_days": 0.73,
       "topics": [
         "ai"
@@ -1031,7 +1033,7 @@
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "【NVIDIAグルメ】時価総額800兆円エヌビディア・フアンCEOが行った串焼き80円の激安居酒屋が最高な件 / 東京・神田「やきとん三吉」で半導体グルメ NVIDIA(エヌビディア)といえば、時価総額が約800兆円の超大企業であり、世界規模というより、もはや地球規模で世界にとって重要かつ必要不可欠な存在である。 パソコンだ..."
+      "summary": "米Anthropicは7月17日（現地時間）、最上位AIモデル「Claude Fable 5」を20日から有料プラン「Max」「Team Premium」の標準機能にすると発表した。両プランでは、利用上限の50%までFable 5を追加費用なしで使える。 一方、「Pro」「Team Standard」の各プランでは、月額料金とは別に課金される「使用クレジット」（従量..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0."
