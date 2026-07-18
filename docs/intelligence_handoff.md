@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-18T09:46:03Z_
+_Generated: 2026-07-18T10:27:18Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-18T05:19:00.000+00:00` / age_days `0.19`
+- Published: `2026-07-18T05:19:00.000+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, security high-signal: kritisch, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,17 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `29.32`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `29.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -2.9 for 29.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -2.9 for 29.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
 ### M 4.9 - 208 km SW of Bandar Lampung, Indonesia
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-07-18T08:37:35.040+00:00` / age_days `0.05`
+- Published: `2026-07-18T08:37:35.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-07-18T02:45:17.977+00:00` / age_days `0.29`
+- Published: `2026-07-18T02:45:17.977+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-07-18T02:06:25+00:00` / age_days `0.32`
+- Published: `2026-07-18T02:06:25+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T06:43:52.040+00:00` / age_days `0.13`
+- Published: `2026-07-18T06:43:52.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T06:28:19.040+00:00` / age_days `0.14`
+- Published: `2026-07-18T06:28:19.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T06:05:44.040+00:00` / age_days `0.15`
+- Published: `2026-07-18T06:05:44.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T03:35:08.040+00:00` / age_days `0.26`
+- Published: `2026-07-18T03:35:08.040+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T02:05:01.040+00:00` / age_days `0.32`
+- Published: `2026-07-18T02:05:01.040+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-07-17T05:49:42+00:00` / age_days `1.16`
+- Published: `2026-07-17T05:49:42+00:00` / age_days `1.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: container, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-07-18T02:06:25+00:00` / age_days `0.32`
+- Published: `2026-07-18T02:06:25+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: chain, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
