@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-18T09:11:53Z",
+  "generated_at": "2026-07-18T09:46:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-18T05:19:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 29.3,
+      "age_days": 29.32,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T08:37:35.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:45:17.977+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -120,7 +120,7 @@
       "url": "https://github.com/github/copilot-sdk",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -146,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:43:52.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:28:19.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -196,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:05:44.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -221,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T03:35:08.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -246,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1im",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:05:01.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -271,7 +271,7 @@
       "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T05:49:42+00:00",
-      "age_days": 1.14,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
@@ -297,7 +297,7 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
