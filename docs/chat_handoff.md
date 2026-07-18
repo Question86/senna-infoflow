@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-18T07:56:26+00:00_
+_Generated: 2026-07-18T08:33:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-07-18T07:56:26+00:00_
 - url: https://github.com/anthropics/cwc-workshops
 - summary: cwc-workshops Workshop materials. Not maintained and not accepting contributions. Materials from Anthropic-run Code with Claude workshops. Workshops rightmodel/ — Picking the Right Model : use a Claude Code SKILL to audit an LLM eval suite and sweep it across…
 
-### 6. GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘
+### 6. LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
-- published: `2026-07-17T12:21:56+00:00`
-- url: https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/
-- summary: OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 OpenAI's new flagship model deletes files on its own, people keep warning | TechCrunch https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-peop...
+- published: `2026-07-18T03:26:24+00:00`
+- url: https://gazlog.jp/entry/lg-gaming-ads-install/
+- summary: LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...
 
 END OF DOCUMENT

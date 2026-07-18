@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:56:26+00:00",
-  "run_id": "2026-07-18T07:56:26+00:00",
+  "generated_at": "2026-07-18T08:33:02+00:00",
+  "run_id": "2026-07-18T08:33:02+00:00",
   "date": "2026-07-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 2,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -206,6 +206,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3ee84d9b4cf7198cc268"
+      },
+      {
+        "title": "LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も",
+        "url": "https://gazlog.jp/entry/lg-gaming-ads-install/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-18T03:26:24+00:00",
+        "fetched_at": "2026-07-18T08:32:32+00:00",
+        "summary": "LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a66e53f0f240abade895"
       },
       {
         "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
@@ -925,6 +947,28 @@
       "id": "3ee84d9b4cf7198cc268"
     },
     {
+      "title": "LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も",
+      "url": "https://gazlog.jp/entry/lg-gaming-ads-install/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-18T03:26:24+00:00",
+      "fetched_at": "2026-07-18T08:32:32+00:00",
+      "summary": "LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a66e53f0f240abade895"
+    },
+    {
       "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
       "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1465,25 +1509,26 @@
   ],
   "new_findings": [
     {
-      "title": "最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか",
-      "url": "https://togetter.com/li/2721800",
+      "title": "LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も",
+      "url": "https://gazlog.jp/entry/lg-gaming-ads-install/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-18T02:31:11+00:00",
-      "fetched_at": "2026-07-18T07:55:58+00:00",
-      "summary": "横坂 拓也_Webディレクター｜群馬の制作会社emo planning LLC @taku_coco9 デザイン参考はPinterest使いますが 最近はAIで参考作ってデザイナーさんに渡す でもそうするとデザイナーは 「いやいや もこれ80点ラインですやん」 「ここからどうデザインしろと？」 となる だから相当に細かく指示してあげないと デザイナー...",
+      "published_at": "2026-07-18T03:26:24+00:00",
+      "fetched_at": "2026-07-18T08:32:32+00:00",
+      "summary": "LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Reputationsrisiko"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 12,
+      "relevance_reason": "Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "82995e4eb088758da890"
+      "id": "a66e53f0f240abade895"
     }
   ],
   "source_errors": [],

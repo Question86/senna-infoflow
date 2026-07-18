@@ -176,6 +176,28 @@
     "id": "3ee84d9b4cf7198cc268"
   },
   {
+    "title": "LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も",
+    "url": "https://gazlog.jp/entry/lg-gaming-ads-install/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T03:26:24+00:00",
+    "fetched_at": "2026-07-18T08:32:32+00:00",
+    "summary": "LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Reputationsrisiko"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a66e53f0f240abade895"
+  },
+  {
     "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
     "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
     "source": "Hatena Bookmark Hotentry IT",
