@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T14:04:49+00:00",
-  "run_id": "2026-07-18T14:04:49+00:00",
+  "generated_at": "2026-07-18T14:32:54+00:00",
+  "run_id": "2026-07-18T14:32:54+00:00",
   "date": "2026-07-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 34,
     "displayed_findings": 34,
     "high": 0,
@@ -2073,44 +2073,7 @@
       "id": "cafe93deaa470082d526"
     }
   ],
-  "new_findings": [
-    {
-      "title": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog",
-      "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-18T13:03:36+00:00",
-      "fetched_at": "2026-07-18T14:04:21+00:00",
-      "summary": "2026年7月17日、認証不要でリモートからの任意コード実行（RCE）につながる脆弱性「CVE-2026-63030」「CVE-2026-60137」を修正したWordPress 6.8.6、6.9.5、および 7.0.2 が公開されました（参考：WordPress 7.0.2 Release）。 弊社 GMO Flatt Security リサーチチームの検証では、脆弱なバージョンでは標準構成でも、管...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security",
-        "Watchgraph:cyber_active_exploitation",
-        "Webentwicklung"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: RCE"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "d0bd2888a58b0f0504cd"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
