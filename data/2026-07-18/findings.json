@@ -220,6 +220,64 @@
     "id": "a42d1b996b995f1156bb"
   },
   {
+    "title": "M 4.9 - 71 km WSW of Puerto Madero, Mexico",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-18T04:42:47.040+00:00",
+    "fetched_at": "2026-07-18T05:11:23+00:00",
+    "summary": "Time 2026-07-18 04:28:52 UTC 2026-07-18 04:28:52 UTC at epicenter Location 14.581°N 93.074°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3b1d0df79e713424c666"
+  },
+  {
+    "title": "最近の AI コーディングで実践している、設計を中心とした開発の進め方",
+    "url": "https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T04:23:35+00:00",
+    "fetched_at": "2026-07-18T05:11:23+00:00",
+    "summary": "AI コーディングエージェントの自律性が向上し、複数のエージェントを並行して動かすことが日常になったことで、開発の中で最も時間を使う工程が実装から設計へ移りつつあります。この記事では、設計セッション、Git worktree を使った並列実行、自律的な検証、AI によるコードレビューなど、最近の私が実践している開発...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b1201dcbd5bbde7ee02a"
+  },
+  {
     "title": "M 5.0 - 17 km SE of Malatya, Turkey",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
     "source": "USGS M4.5+ Earthquakes Past Hour",
