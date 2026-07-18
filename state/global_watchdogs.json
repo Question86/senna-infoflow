@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:56:43+00:00",
+  "generated_at": "2026-07-18T20:15:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -84,11 +84,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Vietnam",
-        "summary": "Green flood alert in Vietnam",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, No people affected in 100km.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104029",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552700",
         "published_at": "",
         "metrics": {}
       },

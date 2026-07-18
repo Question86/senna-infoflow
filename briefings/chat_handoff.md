@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-18T19:56:40+00:00_
+_Generated: 2026-07-18T20:15:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `38`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-18T19:56:40+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it
 - summary: DYFI? - III Time 2026-07-18 02:23:40 UTC 2026-07-18 02:23:40 UTC at epicenter Location 4.506°N 124.857°E Depth 10.00 km (6.21 mi)
 
-### 5. M 5.7 - 72 km SW of Puerto Madero, Mexico
+### 5. M 5.5 - Scotia Sea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-18T20:13:55.400+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng
+- summary: PAGER - GREEN ShakeMap - III Time 2026-07-18 19:50:37 UTC 2026-07-18 19:50:37 UTC at epicenter Location 60.707°S 51.056°W Depth 10.00 km (6.21 mi)
+
+### 6. M 5.7 - 72 km SW of Puerto Madero, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-18T17:54:01.418+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-18 17:26:25 UTC 2026-07-18 17:26:25 UTC at epicenter Location 14.239°N 92.881°W Depth 10.00 km (6.21 mi)
 
-### 6. github/copilot-sdk
+### 7. github/copilot-sdk
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/github/copilot-sdk
 - summary: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services GitHub Copilot CLI SDKs Agents for every app. Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, TypeScript, Go, .NET, Java, and Rust. Th…
 
-### 7. codecrafters-io/build-your-own-x
+### 8. codecrafters-io/build-your-own-x
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/codecrafters-io/build-your-own-x
 - summary: Master programming by recreating your favorite technologies from scratch. Build your own <insert-technology-here> This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot creat…
-
-### 8. anthropics/cwc-workshops
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/anthropics/cwc-workshops
-- summary: cwc-workshops Workshop materials. Not maintained and not accepting contributions. Materials from Anthropic-run Code with Claude workshops. Workshops rightmodel/ — Picking the Right Model : use a Claude Code SKILL to audit an LLM eval suite and sweep it across…
 
 END OF DOCUMENT
