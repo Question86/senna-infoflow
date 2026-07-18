@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T12:58:01+00:00",
+  "generated_at": "2026-07-18T13:32:33+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "url": "https://gazlog.jp/entry/lg-gaming-ads-install/"
       },
       {
+        "title": "無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T05:48:26+00:00",
+        "relevance_score": 11,
+        "url": "https://gigazine.net/news/20260718-comaps/"
+      },
+      {
         "title": "M 4.9 - southern East Pacific Rise",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-18T11:35:36.040+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-18T06:43:52.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw"
-      },
-      {
-        "title": "M 4.6 - 73 km SW of Puerto Madero, Mexico",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-18T06:28:19.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt"
       }
     ],
     "github": [

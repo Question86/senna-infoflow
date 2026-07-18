@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T12:58:01+00:00_
+_Generiert: 2026-07-18T13:32:33+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+33 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 OpenAI's new flagship model deletes files on its own, people keep warning | TechCrunch https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-peop...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし** — Score 11, observation — [Quelle](https://gigazine.net/news/20260718-comaps/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-18T05:48:26+00:00`, fetched `2026-07-18T13:32:00+00:00`
+  - Treffer: Datenschutz, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Datenschutz (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: スマホで使用できる地図アプリは出先など土地勘のないところで地図を確認できるので大変便利である反面、電波の届かないところだと使用できず途方に暮れる場合もあります。CoMapsはオープンソースの地図アプリで、ネット接続なしでも使えるように設計されています。 Hike, Bike, Drive Offline – Navigate with Privacy ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API** — Score 11, observation — [Quelle](https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-18T05:19:00.000+00:00`, fetched `2026-07-18T05:55:06+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Durch Verkettung einer SQL-Injection- und einer API-Lücke können Angreifer Code einschleusen. WordPress hat ein Update veröffentlicht, die Finder einen Hotfix.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **中国AI・Kimiの衝撃、米専門家「アンソロピック最新型と僅差」 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-17T22:45:39+00:00`, fetched `2026-07-18T03:14:11+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【シリコンバレー=山田遼太郎、ニューヨーク=内山瑞貴】中国の人工知能（AI）新興、月之暗面（ムーンショットAI）の新型モデル「Kimi K3」の性能に米国の専門家の間で驚きが広がった。米アンソロピックの最新AI「フェイブル」を上回る性能には達しないものの、僅差に迫っていると受け止められた。ディープシーク・ショッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - southern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ld)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

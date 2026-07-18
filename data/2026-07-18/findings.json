@@ -280,6 +280,28 @@
     "id": "dbe0df5213034ba22f9c"
   },
   {
+    "title": "無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし",
+    "url": "https://gigazine.net/news/20260718-comaps/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T05:48:26+00:00",
+    "fetched_at": "2026-07-18T13:32:00+00:00",
+    "summary": "スマホで使用できる地図アプリは出先など土地勘のないところで地図を確認できるので大変便利である反面、電波の届かないところだと使用できず途方に暮れる場合もあります。CoMapsはオープンソースの地図アプリで、ネット接続なしでも使えるように設計されています。 Hike, Bike, Drive Offline – Navigate with Privacy ...",
+    "matched_keywords": [
+      "Datenschutz",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Datenschutz (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "144c39e5b39229ecf5b1"
+  },
+  {
     "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
     "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
     "source": "heise Security Alerts",
