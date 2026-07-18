@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-18T20:13:52Z",
+  "generated_at": "2026-07-18T20:32:02Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-18T05:19:00.000+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 29.76,
+      "age_days": 29.77,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T13:03:36+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T08:37:35.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:45:17.977+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "disaster"
       ],
@@ -142,11 +142,36 @@
       "summary": "DYFI? - III Time 2026-07-18 02:23:40 UTC 2026-07-18 02:23:40 UTC at epicenter Location 4.506°N 124.857°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.5 - Scotia Sea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-18T20:13:55.400+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-18 19:50:37 UTC 2026-07-18 19:50:37 UTC at epicenter Location 60.707°S 51.056°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.7 - 72 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T17:54:01.418+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -171,7 +196,7 @@
       "url": "https://github.com/github/copilot-sdk",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -197,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T16:26:12.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -222,7 +247,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T11:35:36.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -247,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:43:52.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -272,31 +297,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:28:19.040+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-18 06:10:19 UTC 2026-07-18 06:10:19 UTC at epicenter Location 14.269°N 92.924°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "M 5.2 - south of the Kermadec Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-18T06:05:44.040+00:00",
       "age_days": 0.59,
       "topics": [
         "disaster"
@@ -315,7 +315,7 @@
         "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": "Time 2026-07-18 05:46:47 UTC 2026-07-18 05:46:47 UTC at epicenter Location 32.819°S 178.115°W Depth 10.00 km (6.21 mi)"
+      "summary": "Time 2026-07-18 06:10:19 UTC 2026-07-18 06:10:19 UTC at epicenter Location 14.269°N 92.924°W Depth 35.00 km (21.75 mi)"
     }
   ],
   "read_order": [
@@ -327,8 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 5
+      "strong": 8,
+      "watch": 4
     }
   }
 }
