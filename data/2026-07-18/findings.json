@@ -121,6 +121,29 @@
     "id": "c4b345a681c9cf51f47b"
   },
   {
+    "title": "Playwright on GitHub Actions: The setup that actually runs fast",
+    "url": "https://endform.dev/blog/playwright-github-actions",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-17T23:52:15+00:00",
+    "fetched_at": "2026-07-18T11:32:11+00:00",
+    "summary": "Treat the table as a starting point rather than a prescription. Begin at 50%, look at the actual wall-clock time on your suite, and raise the value in steps until the run stops getting faster or the tests start going flaky. There is no single correct number, because it depends on your core count,...",
+    "matched_keywords": [
+      "GitHub",
+      "GitHub Actions",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "GitHub Actions (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "de9eedcd0c9652bde095"
+  },
+  {
     "title": "github/copilot-sdk",
     "url": "https://github.com/github/copilot-sdk",
     "source": "GitHub Trending RSS All Languages Daily",

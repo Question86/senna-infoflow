@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-18T11:10:36+00:00_
+_Generated: 2026-07-18T11:32:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -29,28 +29,35 @@ _Generated: 2026-07-18T11:10:36+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it
 - summary: DYFI? - III Time 2026-07-18 02:23:40 UTC 2026-07-18 02:23:40 UTC at epicenter Location 4.506°N 124.857°E Depth 10.00 km (6.21 mi)
 
-### 4. github/copilot-sdk
+### 4. Playwright on GitHub Actions: The setup that actually runs fast
+- source: Hatena Bookmark Hotentry IT
+- score: `14`
+- published: `2026-07-17T23:52:15+00:00`
+- url: https://endform.dev/blog/playwright-github-actions
+- summary: Treat the table as a starting point rather than a prescription. Begin at 50%, look at the actual wall-clock time on your suite, and raise the value in steps until the run stops getting faster or the tests start going flaky. There is no single correct number,…
+
+### 5. github/copilot-sdk
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/github/copilot-sdk
 - summary: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services GitHub Copilot CLI SDKs Agents for every app. Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, TypeScript, Go, .NET, Java, and Rust. Th…
 
-### 5. codecrafters-io/build-your-own-x
+### 6. codecrafters-io/build-your-own-x
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/codecrafters-io/build-your-own-x
 - summary: Master programming by recreating your favorite technologies from scratch. Build your own <insert-technology-here> This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot creat…
 
-### 6. anthropics/cwc-workshops
+### 7. anthropics/cwc-workshops
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/anthropics/cwc-workshops
 - summary: cwc-workshops Workshop materials. Not maintained and not accepting contributions. Materials from Anthropic-run Code with Claude workshops. Workshops rightmodel/ — Picking the Right Model : use a Claude Code SKILL to audit an LLM eval suite and sweep it across…
 
-### 7. LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も
+### 8. LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-07-18T03:26:24+00:00`

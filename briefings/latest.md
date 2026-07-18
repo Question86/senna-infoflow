@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T11:10:36+00:00_
+_Generiert: 2026-07-18T11:32:42+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+30 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -112,6 +112,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-07-18 02:23:40 UTC 2026-07-18 02:23:40 UTC at epicenter Location 4.506°N 124.857°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Playwright on GitHub Actions: The setup that actually runs fast** — Score 14, observation — [Quelle](https://endform.dev/blog/playwright-github-actions)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-17T23:52:15+00:00`, fetched `2026-07-18T11:32:11+00:00`
+  - Treffer: GitHub, GitHub Actions, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: Treat the table as a starting point rather than a prescription. Begin at 50%, look at the actual wall-clock time on your suite, and raise the value in steps until the run stops getting faster or the tests start going flaky. There is no single correct number, because it depends on your core count,...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
