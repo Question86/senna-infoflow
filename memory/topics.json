@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T08:33:02+00:00",
+  "generated_at": "2026-07-18T09:09:35+00:00",
   "topics": {
     "ai": [
       {
@@ -77,6 +77,13 @@
     ],
     "general": [
       {
+        "title": "M 4.9 - 208 km SW of Bandar Lampung, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-18T08:37:35.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf"
+      },
+      {
         "title": "M 5.3 - 119 km SW of Sarangani, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-18T02:45:17.977+00:00",
@@ -89,6 +96,13 @@
         "published_at": "2026-07-18T03:26:24+00:00",
         "relevance_score": 12,
         "url": "https://gazlog.jp/entry/lg-gaming-ads-install/"
+      },
+      {
+        "title": "M 4.7 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-18T08:46:49.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kh"
       },
       {
         "title": "M 5.3 - 87 km WSW of Puerto Madero, Mexico",
@@ -131,20 +145,6 @@
         "published_at": "2026-07-18T04:42:47.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb"
-      },
-      {
-        "title": "M 5.0 - 17 km SE of Malatya, Turkey",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-18T03:35:08.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0"
-      },
-      {
-        "title": "M 4.5 - 74 km SW of Puerto Madero, Mexico",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-18T02:42:41.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu"
       }
     ],
     "github": [
