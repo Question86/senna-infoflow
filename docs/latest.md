@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-17T23:43:33+00:00_
+_Generiert: 2026-07-18T00:05:55+00:00_
 
 ## Kurzlage
 
-102 neue relevante Treffer. Stärkstes Signal: „GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+1 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -12,248 +12,23 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。** — Score 23, observation — [Quelle](https://github.com/interfacex-co-jp/genshijin)
+- **SQL MCP Server が GA したらしい** — Score 18, observation — [Quelle](https://zenn.dev/microsoft/articles/1113250e1e63dc)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-16T15:34:13+00:00`, fetched `2026-07-17T01:34:47+00:00`
-  - Treffer: AI Agents, GitHub, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Zeit: published `2026-07-17T05:49:42+00:00`, fetched `2026-07-18T00:05:25+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry, Watchgraph:ai_agents_workflow
   - Watchgraph: ai_agents_workflow
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] libssh2: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1996)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-17T09:50:04+00:00`, fetched `2026-07-17T10:18:46+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU95874748/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-17T11:00:30+09:00`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Microsoft Office 365 (Moodle Plugin): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2400)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-17T10:50:03+00:00`, fetched `2026-07-17T10:57:50+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Office 365 (Moodle Plugin) ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Benutzer zu imitieren und sich so erweiterte Berechtigungen, einschließlich Administratorzugriff, zu verschaffen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] Microsoft SharePoint und SharePoint Server: Schwachstelle ermöglicht Cross-Site Scripting** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2397)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-17T10:40:04+00:00`, fetched `2026-07-17T10:57:50+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Microsoft SharePoint und Microsoft SharePoint Server ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race** — Score 16, observation — [Quelle](https://e27.co/pqcees-us3-9m-raise-puts-singapore-in-the-post-quantum-cybersecurity-race-20260717/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T05:34:20+00:00`, fetched `2026-07-17T05:45:06+00:00`
-  - Treffer: APAC Trend Radar, funding, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore-based quantum-safe cybersecurity startup pQCee has raised US$3.9 million in a seed funding round, as governments and large enterprises begin moving post-quantum cryptography from research papers and standards discussions into procurement plans. The round was co-led by SGInnovate and Lotus One Investment, with participation from In Group Holdings, Wavemaker Ventures, SUTD Venture Holdings, and Apsara […] Th…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Microsoft Azure Linux (10 juillet 2026)** — Score 16, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0866/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-10T00:00:00+00:00`, fetched `2026-07-17T14:14:23+00:00`
-  - Treffer: avis, CERT-FR, Linux, Microsoft, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 9 km ENE of Pangyan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1e8)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-17T16:42:58.810+00:00`, fetched `2026-07-17T16:48:01+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - V Time 2026-07-17 16:12:56 UTC 2026-07-17 16:12:56 UTC at epicenter Location 5.742°N 125.352°E Depth 66.13 km (41.09 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **一部のHTTP/2サーバーにおけるフロー制御に起因したサービス拒否（DoS）の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90338324/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-17T11:00:15+09:00`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **SGLangにおけるPickleのデシリアライゼーションに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90968686/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-17T11:00:00+09:00`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **openinterpreter/openinterpreter** — Score 14, observation — [Quelle](https://github.com/openinterpreter/openinterpreter)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: A coding agent for open models like Kimi K3 Open Interpreter A coding agent optimized for low-cost models. Blog post ↗ Note Today: Kimi K3 is here. We have reimplemented the provider-recommended Kimi Code harness in Rust, giving you maximum K3 performance with a Codex-like interface. Kimi Docs → Installation macOS and Linux: curl -fsSL https://www.openinterpreter.com/install | sh Windows: irm https://www.openinterpr…
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: 実際の使用では、Azure Container Apps にデプロイして使用する想定と思いますが、DAB コマンド ラインを使用してローカルで実行することもできます。ちょっと触ってみたいだけなので、今回はこのローカル実行で動きを確認しました。なので、RBAC の辺りなどは未確認です。 ツールの公開はコントロール可能 デフォルトで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
-- **CMBI, SMBC back Whale’s US$40M Series C extension for enterprise AI expansion** — Score 13, observation — [Quelle](https://e27.co/cmbi-smbc-back-whales-us40m-series-c-extension-for-enterprise-ai-expansion-20260717/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T09:53:10+00:00`, fetched `2026-07-17T10:18:46+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore-headquartered enterprise AI company Whale has raised a US$40 million extension to its Series C round, bringing the total Series C financing to US$100 million, as it looks to expand deployments across Asia Pacific and North America. The extension was led by CMB International, through an investment fund focused on AI and frontier technology, and […] The post CMBI, SMBC back Whale’s US$40M Series C extension…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Euro area monthly balance of payments: May 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html)
-  - Quelle: ECB Statistical Press Releases / `rss`
-  - Zeit: published `2026-07-17T08:00:00+00:00`, fetched `2026-07-17T08:10:05+00:00`
-  - Treffer: balance of payments, euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Euro area monthly balance of payments: May 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Microsoft Edge (15 juillet 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0867/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-17T14:14:23+00:00`
-  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PostHog/posthog** — Score 13, opportunity — [Quelle](https://github.com/PostHog/posthog)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-17T02:28:37+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, developer tools, GitHub Trending, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is th…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 7.3 - 48 km SW of Aquiles Serdán, Mexico** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-17T15:20:46.016+00:00`, fetched `2026-07-17T15:21:56+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - VII DYFI? - V Time 2026-07-17 14:48:39 UTC 2026-07-17 14:48:39 UTC at epicenter Location 14.691°N 92.886°W Depth 15.18 km (9.43 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **A scorecard for the AI age** — Score 11, observation — [Quelle](https://openai.com/index/a-scorecard-for-the-ai-age)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-17T10:00:00+00:00`, fetched `2026-07-17T13:37:08+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
-  - Kurz: Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/dashboard-guidebook)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-17T06:00:00+00:00`, fetched `2026-07-17T06:32:04+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ダッシュボードデザインの実践ガイドブックとデザインテンプレートにおいてカラーコードを更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 262 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t171)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-17T01:27:22.040+00:00`, fetched `2026-07-17T01:34:47+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-17 01:08:11 UTC 2026-07-17 01:08:11 UTC at epicenter Location 37.875°N 95.428°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Multiples vulnérabilités dans le noyau Linux de SUSE (10 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0864/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-10T00:00:00+00:00`, fetched `2026-07-17T14:14:23+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de Red Hat (10 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0863/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-10T00:00:00+00:00`, fetched `2026-07-17T14:14:23+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Can AI beat a goldfish at calling the World Cup?** — Score 10, observation — [Quelle](https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-17T13:00:00+00:00`, fetched `2026-07-17T13:37:08+00:00`
-  - Treffer: AI/KI, Watchgraph:sports_sf_tech_events
-  - Watchgraph: sports_sf_tech_events
-  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region canada: Toronto (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
-  - Kurz: As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 79 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1hd)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-17T22:33:12.040+00:00`, fetched `2026-07-17T22:39:47+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-17 22:13:06 UTC 2026-07-17 22:13:06 UTC at epicenter Location 14.224°N 92.958°W Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **CapBay, MDEC set up US$47M debt financing pool for Malaysian tech firms** — Score 9, observation — [Quelle](https://e27.co/capbay-mdec-set-up-us47m-debt-financing-pool-for-malaysian-tech-firms-20260717/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T03:36:48+00:00`, fetched `2026-07-17T03:40:00+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Malaysian fintech company CapBay has partnered the Malaysia Digital Economy Corporation (MDEC) to offer growth financing to Malaysia Digital-status technology companies, in a move aimed at widening access to debt capital for startups and scale-ups that often fall outside conventional bank lending criteria. The MD Technology Financing Programme is backed by a RM200 million (~US$47.1 […] The post CapBay, MDEC set up U…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **WBBA convenes Asia-Pacific’s first Broadband Development Summit in Bangkok, launches AI-Net Certification** — Score 8, opportunity — [Quelle](https://e27.co/wbba-convenes-asia-pacifics-first-broadband-development-summit-in-bangkok-launches-ai-net-certification-20260717/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-17T11:32:52+00:00`, fetched `2026-07-17T11:58:56+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Regulators, standards bodies and leading operators met in Bangkok on 14 July for the region’s inaugural summit, where the World Broadband Association set out a shared agenda for network infrastructure in the AI era and named XLSmart its first AI-Net Champion. Government officials, international standards bodies and the region’s leading telecom operators gathered in Bangkok […] The post WBBA convenes Asia-Pacific’s f…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Piero Cipollone: The cooperative spirit at the heart of the digital euro** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-17T10:00:00+00:00`, fetched `2026-07-17T10:18:46+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: The cooperative spirit at the heart of the digital euro
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+Keine neuen Beobachtungssignale.
 
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

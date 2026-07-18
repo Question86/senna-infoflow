@@ -1,98 +1,28 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-17T23:43:33+00:00",
+  "generated_at": "2026-07-18T00:05:55+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 102,
-    "displayed_findings": 102,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 33,
-    "observe": 69
+    "medium": 1,
+    "observe": 0
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。",
+      "title": "SQL MCP Server が GA したらしい",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-16T15:34:13+00:00",
-      "relevance_score": 23,
-      "url": "https://github.com/interfacex-co-jp/genshijin",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "published_at": "2026-07-17T05:49:42+00:00",
+      "relevance_score": 18,
+      "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+      "summary": "実際の使用では、Azure Container Apps にデプロイして使用する想定と思いますが、DAB コマンド ラインを使用してローカルで実行することもできます。ちょっと触ってみたいだけなので、今回はこのローカル実行で動きを確認しました。なので、RBAC の辺りなどは未確認です。 ツールの公開はコントロール可能 デフォルトで...",
       "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-17T09:50:04+00:00",
-      "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1996",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code auszuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月16日）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-17T11:00:30+09:00",
-      "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU95874748/",
-      "summary": "2026年07月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] Microsoft Office 365 (Moodle Plugin): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-17T10:50:03+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2400",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Office 365 (Moodle Plugin) ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Benutzer zu imitieren und sich so erweiterte Berechtigungen, einschließlich Administratorzugriff, zu verschaff…",
-      "section": "medium"
-    },
-    {
-      "title": "CMBI, SMBC back Whale’s US$40M Series C extension for enterprise AI expansion",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-17T09:53:10+00:00",
-      "relevance_score": 13,
-      "url": "https://e27.co/cmbi-smbc-back-whales-us40m-series-c-extension-for-enterprise-ai-expansion-20260717/",
-      "summary": "Singapore-headquartered enterprise AI company Whale has raised a US$40 million extension to its Series C round, bringing the total Series C financing to US$100 million, as it looks to expand deployments across Asia Pacific and North America. The extension was…",
-      "section": "observe"
-    },
-    {
-      "title": "Euro area monthly balance of payments: May 2026",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-07-17T08:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html",
-      "summary": "Euro area monthly balance of payments: May 2026",
-      "section": "observe"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (15 juillet 2026)",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-15T00:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0867/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "section": "observe"
-    },
-    {
-      "title": "PostHog/posthog",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 13,
-      "url": "https://github.com/PostHog/posthog",
-      "summary": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opp…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,139 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [mittel] Microsoft SharePoint und SharePoint Server: Schwachstelle ermöglicht Cross-Site Scripting” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [mittel] Microsoft SharePoint und SharePoint Server: Schwachstelle ermöglicht Cross-Site Scripting",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2397",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T10:40:04+00:00",
-        "age_days": 0.56,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: sharepoint, auth",
-          "security high-signal: sharepoint, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Microsoft SharePoint und Microsoft SharePoint Server ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen."
-      },
-      {
-        "title": "[NEU] [mittel] Microsoft Windows Terminal: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2396",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T10:40:03+00:00",
-        "age_days": 0.56,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Windows Terminal ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1869",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T07:35:05+00:00",
-        "age_days": 0.69,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2317",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T05:30:03+00:00",
-        "age_days": 0.77,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, code",
-          "security high-signal: kritisch, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um seine Privilegien zu erhöhen, und um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2398",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-17T10:45:03+00:00",
-        "age_days": 0.55,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen. Mögliche Auswirkungen sind unter anderem Speicherbeschädigungen, die Ausführung von beliebigem Code, die Manipulation oder Offenlegung von Daten sowie das Auslösen eines Denial-of-Service-Zu…"
-      }
-    ]
-  }
+  ]
 }
