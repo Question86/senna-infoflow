@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T22:54:32+00:00",
+  "generated_at": "2026-07-18T23:15:07+00:00",
   "topics": {
     "security": [
       {
@@ -77,18 +77,18 @@
         "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/"
       },
       {
+        "title": "中国のAIエージェントQwen Codeで、Ryzen AI MaxのローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T14:54:36+00:00",
+        "relevance_score": 9,
+        "url": "https://note.com/takasu/n/n572992ce17a8"
+      },
+      {
         "title": "最近の AI コーディングで実践している、設計を中心とした開発の進め方",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-18T04:23:35+00:00",
         "relevance_score": 9,
         "url": "https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/"
-      },
-      {
-        "title": "HenryNdubuaku/maths-cs-ai-compendium",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
       }
     ],
     "general": [
