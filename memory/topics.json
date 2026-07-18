@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T21:13:27+00:00",
+  "generated_at": "2026-07-18T21:33:38+00:00",
   "topics": {
     "security": [
       {
@@ -33,6 +33,13 @@
         "published_at": "2026-07-17T23:52:15+00:00",
         "relevance_score": 14,
         "url": "https://endform.dev/blog/playwright-github-actions"
+      },
+      {
+        "title": "AI時代の開発生産性は、個人技からチーム設計へ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-17T12:22:28+00:00",
+        "relevance_score": 13,
+        "url": "https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he"
       },
       {
         "title": "github/copilot-sdk",
@@ -82,13 +89,6 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
-      },
-      {
-        "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-18T04:37:12+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html"
       }
     ],
     "general": [
@@ -198,6 +198,15 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+      }
+    ],
+    "economy": [
+      {
+        "title": "AI時代の開発生産性は、個人技からチーム設計へ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-17T12:22:28+00:00",
+        "relevance_score": 13,
+        "url": "https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he"
       }
     ],
     "geopolitics": [

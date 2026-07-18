@@ -256,6 +256,29 @@
     "id": "654735e945087a37e8eb"
   },
   {
+    "title": "AI時代の開発生産性は、個人技からチーム設計へ",
+    "url": "https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-17T12:22:28+00:00",
+    "fetched_at": "2026-07-18T21:33:08+00:00",
+    "summary": "Developers Summit 2026 Summer・IT Strategy Summit 2026での発表資料です。 https://event.shoeisha.jp/devsumi/20260716",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry",
+      "Markets/Capital Structure"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Markets/Capital Structure (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1949d001927e3259a6bc"
+  },
+  {
     "title": "github/copilot-sdk",
     "url": "https://github.com/github/copilot-sdk",
     "source": "GitHub Trending RSS All Languages Daily",

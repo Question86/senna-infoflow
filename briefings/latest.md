@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T21:13:27+00:00_
+_Generiert: 2026-07-18T21:33:38+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk).
+40 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -151,6 +151,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-07-18 17:26:25 UTC 2026-07-18 17:26:25 UTC at epicenter Location 14.239°N 92.881°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI時代の開発生産性は、個人技からチーム設計へ** — Score 13, opportunity — [Quelle](https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-17T12:22:28+00:00`, fetched `2026-07-18T21:33:08+00:00`
+  - Treffer: developer, Hatena, hotentry, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Markets/Capital Structure (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: Developers Summit 2026 Summer・IT Strategy Summit 2026での発表資料です。 https://event.shoeisha.jp/devsumi/20260716
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **github/copilot-sdk** — Score 13, opportunity — [Quelle](https://github.com/github/copilot-sdk)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-18T02:06:25+00:00`
@@ -205,15 +214,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)
   - Kurz: Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし** — Score 11, observation — [Quelle](https://gigazine.net/news/20260718-comaps/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-18T05:48:26+00:00`, fetched `2026-07-18T13:32:00+00:00`
-  - Treffer: Datenschutz, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Datenschutz (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: スマホで使用できる地図アプリは出先など土地勘のないところで地図を確認できるので大変便利である反面、電波の届かないところだと使用できず途方に暮れる場合もあります。CoMapsはオープンソースの地図アプリで、ネット接続なしでも使えるように設計されています。 Hike, Bike, Drive Offline – Navigate with Privacy ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API** — Score 11, observation — [Quelle](https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-18T05:19:00.000+00:00`, fetched `2026-07-18T05:55:06+00:00`
@@ -241,3 +241,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW

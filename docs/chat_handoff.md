@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-18T21:13:27+00:00_
+_Generated: 2026-07-18T21:33:38+00:00_
 
 ## Status
-- status: `normal`
-- findings: `39`
+- status: `warning`
+- findings: `40`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-18T21:13:27+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-18 17:26:25 UTC 2026-07-18 17:26:25 UTC at epicenter Location 14.239°N 92.881°W Depth 10.00 km (6.21 mi)
 
-### 7. github/copilot-sdk
+### 7. AI時代の開発生産性は、個人技からチーム設計へ
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-07-17T12:22:28+00:00`
+- url: https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he
+- summary: Developers Summit 2026 Summer・IT Strategy Summit 2026での発表資料です。 https://event.shoeisha.jp/devsumi/20260716
+
+### 8. github/copilot-sdk
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/github/copilot-sdk
 - summary: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services GitHub Copilot CLI SDKs Agents for every app. Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, TypeScript, Go, .NET, Java, and Rust. Th…
-
-### 8. codecrafters-io/build-your-own-x
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/codecrafters-io/build-your-own-x
-- summary: Master programming by recreating your favorite technologies from scratch. Build your own <insert-technology-here> This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot creat…
 
 END OF DOCUMENT
