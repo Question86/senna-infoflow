@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T13:32:33+00:00",
+  "generated_at": "2026-07-18T14:04:49+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T13:03:36+00:00",
+        "relevance_score": 19,
+        "url": "https://blog.flatt.tech/entry/wp2shell_wordpress"
+      },
+      {
+        "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-18T05:19:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html"
+      }
+    ],
     "ai": [
       {
         "title": "SQL MCP Server が GA したらしい",
@@ -192,15 +208,6 @@
         "relevance_score": 12,
         "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/"
       },
-      {
-        "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-18T05:19:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html"
-      }
-    ],
-    "security": [
       {
         "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
         "source": "heise Security Alerts",

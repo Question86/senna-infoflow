@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T13:32:33+00:00_
+_Generiert: 2026-07-18T14:04:49+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+34 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -85,6 +85,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog** — Score 19, risk — [Quelle](https://blog.flatt.tech/entry/wp2shell_wordpress)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-18T13:03:36+00:00`, fetched `2026-07-18T14:04:21+00:00`
+  - Treffer: Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation, Webentwicklung
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: 2026年7月17日、認証不要でリモートからの任意コード実行（RCE）につながる脆弱性「CVE-2026-63030」「CVE-2026-60137」を修正したWordPress 6.8.6、6.9.5、および 7.0.2 が公開されました（参考：WordPress 7.0.2 Release）。 弊社 GMO Flatt Security リサーチチームの検証では、脆弱なバージョンでは標準構成でも、管...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **SQL MCP Server が GA したらしい** — Score 18, observation — [Quelle](https://zenn.dev/microsoft/articles/1113250e1e63dc)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-17T05:49:42+00:00`, fetched `2026-07-18T00:05:25+00:00`
@@ -217,8 +226,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

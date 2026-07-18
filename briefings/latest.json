@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T13:32:33+00:00",
-  "run_id": "2026-07-18T13:32:33+00:00",
+  "generated_at": "2026-07-18T14:04:49+00:00",
+  "run_id": "2026-07-18T14:04:49+00:00",
   "date": "2026-07-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,52 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 29,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog",
+        "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-18T13:03:36+00:00",
+        "fetched_at": "2026-07-18T14:04:21+00:00",
+        "summary": "2026年7月17日、認証不要でリモートからの任意コード実行（RCE）につながる脆弱性「CVE-2026-63030」「CVE-2026-60137」を修正したWordPress 6.8.6、6.9.5、および 7.0.2 が公開されました（参考：WordPress 7.0.2 Release）。 弊社 GMO Flatt Security リサーチチームの検証では、脆弱なバージョンでは標準構成でも、管...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security",
+          "Watchgraph:cyber_active_exploitation",
+          "Webentwicklung"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: RCE"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "d0bd2888a58b0f0504cd"
+      },
       {
         "title": "SQL MCP Server が GA したらしい",
         "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
@@ -1018,6 +1054,42 @@
   },
   "findings": [
     {
+      "title": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog",
+      "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-18T13:03:36+00:00",
+      "fetched_at": "2026-07-18T14:04:21+00:00",
+      "summary": "2026年7月17日、認証不要でリモートからの任意コード実行（RCE）につながる脆弱性「CVE-2026-63030」「CVE-2026-60137」を修正したWordPress 6.8.6、6.9.5、および 7.0.2 が公開されました（参考：WordPress 7.0.2 Release）。 弊社 GMO Flatt Security リサーチチームの検証では、脆弱なバージョンでは標準構成でも、管...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation",
+        "Webentwicklung"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: RCE"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "d0bd2888a58b0f0504cd"
+    },
+    {
       "title": "SQL MCP Server が GA したらしい",
       "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2003,26 +2075,40 @@
   ],
   "new_findings": [
     {
-      "title": "無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし",
-      "url": "https://gigazine.net/news/20260718-comaps/",
+      "title": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog",
+      "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-18T05:48:26+00:00",
-      "fetched_at": "2026-07-18T13:32:00+00:00",
-      "summary": "スマホで使用できる地図アプリは出先など土地勘のないところで地図を確認できるので大変便利である反面、電波の届かないところだと使用できず途方に暮れる場合もあります。CoMapsはオープンソースの地図アプリで、ネット接続なしでも使えるように設計されています。 Hike, Bike, Drive Offline – Navigate with Privacy ...",
+      "published_at": "2026-07-18T13:03:36+00:00",
+      "fetched_at": "2026-07-18T14:04:21+00:00",
+      "summary": "2026年7月17日、認証不要でリモートからの任意コード実行（RCE）につながる脆弱性「CVE-2026-63030」「CVE-2026-60137」を修正したWordPress 6.8.6、6.9.5、および 7.0.2 が公開されました（参考：WordPress 7.0.2 Release）。 弊社 GMO Flatt Security リサーチチームの検証では、脆弱なバージョンでは標準構成でも、管...",
       "matched_keywords": [
-        "Datenschutz",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation",
+        "Webentwicklung"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Datenschutz (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "144c39e5b39229ecf5b1"
+      "relevance_score": 19,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: RCE"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "d0bd2888a58b0f0504cd"
     }
   ],
   "source_errors": [],
