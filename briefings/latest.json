@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18T21:33:38+00:00",
-  "run_id": "2026-07-18T21:33:38+00:00",
+  "generated_at": "2026-07-18T21:55:23+00:00",
+  "run_id": "2026-07-18T21:55:23+00:00",
   "date": "2026-07-18",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 40
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
     "medium": 5,
     "observe": 35,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -2431,39 +2431,8 @@
       "id": "cafe93deaa470082d526"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI時代の開発生産性は、個人技からチーム設計へ",
-      "url": "https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-17T12:22:28+00:00",
-      "fetched_at": "2026-07-18T21:33:08+00:00",
-      "summary": "Developers Summit 2026 Summer・IT Strategy Summit 2026での発表資料です。 https://event.shoeisha.jp/devsumi/20260716",
-      "matched_keywords": [
-        "developer",
-        "Hatena",
-        "hotentry",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Markets/Capital Structure (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1949d001927e3259a6bc"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "google_trends_taiwan_hot",
-      "source_name": "Google Trends Taiwan Hot Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
