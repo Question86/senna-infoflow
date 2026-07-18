@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T03:14:42+00:00",
+  "generated_at": "2026-07-18T04:17:33+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,13 @@
         "published_at": "2026-07-18T02:45:17.977+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it"
+      },
+      {
+        "title": "M 5.0 - 17 km SE of Malatya, Turkey",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-18T03:35:08.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0"
       },
       {
         "title": "M 4.5 - 74 km SW of Puerto Madero, Mexico",

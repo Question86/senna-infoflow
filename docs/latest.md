@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T03:14:42+00:00_
+_Generiert: 2026-07-18T04:17:33+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+14 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=山田遼太郎、ニューヨーク=内山瑞貴】中国の人工知能（AI）新興、月之暗面（ムーンショットAI）の新型モデル「Kimi K3」の性能に米国の専門家の間で驚きが広がった。米アンソロピックの最新AI「フェイブル」を上回る性能には達しないものの、僅差に迫っていると受け止められた。ディープシーク・ショッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 17 km SE of Malatya, Turkey** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-18T03:35:08.040+00:00`, fetched `2026-07-18T04:16:58+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-18 03:21:00 UTC 2026-07-18 03:21:00 UTC at epicenter Location 38.261°N 38.481°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 74 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-18T02:42:41.040+00:00`, fetched `2026-07-18T03:14:11+00:00`

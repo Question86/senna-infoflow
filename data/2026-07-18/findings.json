@@ -220,6 +220,42 @@
     "id": "a42d1b996b995f1156bb"
   },
   {
+    "title": "M 5.0 - 17 km SE of Malatya, Turkey",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-18T03:35:08.040+00:00",
+    "fetched_at": "2026-07-18T04:16:58+00:00",
+    "summary": "Time 2026-07-18 03:21:00 UTC 2026-07-18 03:21:00 UTC at epicenter Location 38.261°N 38.481°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2ba6620cc499a172b891"
+  },
+  {
     "title": "M 4.5 - 74 km SW of Puerto Madero, Mexico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu",
     "source": "USGS M4.5+ Earthquakes Past Hour",
