@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T00:05:55+00:00",
-  "run_id": "2026-07-18T00:05:55+00:00",
+  "generated_at": "2026-07-18T00:48:29+00:00",
+  "run_id": "2026-07-18T00:48:29+00:00",
   "date": "2026-07-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 1,
-    "observe": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
@@ -77,7 +77,29 @@
         "id": "70c2c19dd02327f3b0a0"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-17T22:50:00+00:00",
+        "fetched_at": "2026-07-18T00:47:57+00:00",
+        "summary": "Apple MusicとApple Oneの値上げは2022年10月以来、約4年ぶりだ。当時も値上げの理由をライセンス料の高騰と説明し、さらに、この値上げで「アーティストやソングライターは、より多くの収入を得ることができるようになる」としていた。 関連記事 アップル、iPhoneを一斉値上げ Watch・AirPodsも 米Appleは7月18日、国...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "209e4dc4885d05a0e52f"
+      }
+    ]
   },
   "findings": [
     {
@@ -126,55 +148,50 @@
         "PINS"
       ],
       "id": "70c2c19dd02327f3b0a0"
+    },
+    {
+      "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-17T22:50:00+00:00",
+      "fetched_at": "2026-07-18T00:47:57+00:00",
+      "summary": "Apple MusicとApple Oneの値上げは2022年10月以来、約4年ぶりだ。当時も値上げの理由をライセンス料の高騰と説明し、さらに、この値上げで「アーティストやソングライターは、より多くの収入を得ることができるようになる」としていた。 関連記事 アップル、iPhoneを一斉値上げ Watch・AirPodsも 米Appleは7月18日、国...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "209e4dc4885d05a0e52f"
     }
   ],
   "new_findings": [
     {
-      "title": "SQL MCP Server が GA したらしい",
-      "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+      "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-17T05:49:42+00:00",
-      "fetched_at": "2026-07-18T00:05:25+00:00",
-      "summary": "実際の使用では、Azure Container Apps にデプロイして使用する想定と思いますが、DAB コマンド ラインを使用してローカルで実行することもできます。ちょっと触ってみたいだけなので、今回はこのローカル実行で動きを確認しました。なので、RBAC の辺りなどは未確認です。 ツールの公開はコントロール可能 デフォルトで...",
+      "published_at": "2026-07-17T22:50:00+00:00",
+      "fetched_at": "2026-07-18T00:47:57+00:00",
+      "summary": "Apple MusicとApple Oneの値上げは2022年10月以来、約4年ぶりだ。当時も値上げの理由をライセンス料の高騰と説明し、さらに、この値上げで「アーティストやソングライターは、より多くの収入を得ることができるようになる」としていた。 関連記事 アップル、iPhoneを一斉値上げ Watch・AirPodsも 米Appleは7月18日、国...",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
         "Hatena",
-        "hotentry",
-        "Watchgraph:ai_agents_workflow"
+        "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP, MCP server"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "70c2c19dd02327f3b0a0"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "209e4dc4885d05a0e52f"
     }
   ],
   "source_errors": [],

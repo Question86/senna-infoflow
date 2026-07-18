@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T00:05:55+00:00",
+  "generated_at": "2026-07-18T00:48:29+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-17T05:49:42+00:00",
         "relevance_score": 18,
         "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc"
+      },
+      {
+        "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-17T22:50:00+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html"
       }
     ]
   }
