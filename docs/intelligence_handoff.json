@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-18T17:19:04Z",
+  "generated_at": "2026-07-18T17:46:00Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-18T05:19:00.000+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 29.64,
+      "age_days": 29.66,
       "topics": [
         "ai"
       ],
@@ -60,7 +60,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.0 for 29.6d old signal",
+        "aging penalty -3.0 for 29.7d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -70,7 +70,7 @@
       "url": "https://blog.flatt.tech/entry/wp2shell_wordpress",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T13:03:36+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T08:37:35.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:45:17.977+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -146,7 +146,7 @@
       "url": "https://github.com/github/copilot-sdk",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -172,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T16:26:12.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -197,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T11:35:36.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -222,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:43:52.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -247,7 +247,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:28:19.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -272,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T06:05:44.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -297,7 +297,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T03:35:08.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
