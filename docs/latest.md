@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T22:33:24+00:00_
+_Generiert: 2026-07-18T22:54:32+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk).
+41 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk).
 
 ## Priorität Hoch
 
