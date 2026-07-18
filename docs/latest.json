@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T23:15:07+00:00",
-  "run_id": "2026-07-18T23:15:07+00:00",
+  "generated_at": "2026-07-18T23:36:17+00:00",
+  "run_id": "2026-07-18T23:36:17+00:00",
   "date": "2026-07-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
     "medium": 5,
-    "observe": 37,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -1103,6 +1103,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "164383b0ece0236b908b"
+      },
+      {
+        "title": "無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」",
+        "url": "https://gigazine.net/news/20260718-sync-in/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-18T12:01:32+00:00",
+        "fetched_at": "2026-07-18T23:35:47+00:00",
+        "summary": "会社や組織など複数人でファイルを共有する際にセキュリティの規約などでクラウドサービスが利用できないケースがあります。そういう時に使えるのが「Sync-in」、セルフホスト可能なファイルサーバーとなっており、Windows・macOS・Linux用クライアントからファイルの双方向と一方向同期・自動バックグラウンド同期など...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "75dceba08a0f73630968"
       },
       {
         "title": "キース・エマーソンみたいに弾けないので、無限にシンセソロを弾き続けるアプリをClaude Fable 5に作ってもらった。（CloseBox） | テクノエッジ TechnoEdge",
@@ -2349,6 +2370,27 @@
       "id": "164383b0ece0236b908b"
     },
     {
+      "title": "無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」",
+      "url": "https://gigazine.net/news/20260718-sync-in/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-18T12:01:32+00:00",
+      "fetched_at": "2026-07-18T23:35:47+00:00",
+      "summary": "会社や組織など複数人でファイルを共有する際にセキュリティの規約などでクラウドサービスが利用できないケースがあります。そういう時に使えるのが「Sync-in」、セルフホスト可能なファイルサーバーとなっており、Windows・macOS・Linux用クライアントからファイルの双方向と一方向同期・自動バックグラウンド同期など...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "75dceba08a0f73630968"
+    },
+    {
       "title": "キース・エマーソンみたいに弾けないので、無限にシンセソロを弾き続けるアプリをClaude Fable 5に作ってもらった。（CloseBox） | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/07/18/5311.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2519,26 +2561,25 @@
   ],
   "new_findings": [
     {
-      "title": "中国のAIエージェントQwen Codeで、Ryzen AI MaxのローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu",
-      "url": "https://note.com/takasu/n/n572992ce17a8",
+      "title": "無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」",
+      "url": "https://gigazine.net/news/20260718-sync-in/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-18T14:54:36+00:00",
-      "fetched_at": "2026-07-18T23:14:37+00:00",
-      "summary": "前回は、Ryzen AI Max+ 395、メモリ128GBのWindows PCを、深圳オフィスのローカルAI端末として使う方針を検討した。 今回は実際に、中国国内からVPNなしで利用できるQwen Codeを構築エージェントとして使い、Windowsの監査、モデル取得、Ollamaへの登録、GPU動作確認、バックエンド比較まで進めた。 単にQwenを動かした...",
+      "published_at": "2026-07-18T12:01:32+00:00",
+      "fetched_at": "2026-07-18T23:35:47+00:00",
+      "summary": "会社や組織など複数人でファイルを共有する際にセキュリティの規約などでクラウドサービスが利用できないケースがあります。そういう時に使えるのが「Sync-in」、セルフホスト可能なファイルサーバーとなっており、Windows・macOS・Linux用クライアントからファイルの双方向と一方向同期・自動バックグラウンド同期など...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a4855785571328523921"
+      "id": "75dceba08a0f73630968"
     }
   ],
   "source_errors": [],
