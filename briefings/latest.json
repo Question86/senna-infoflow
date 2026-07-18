@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T00:48:29+00:00",
-  "run_id": "2026-07-18T00:48:29+00:00",
+  "generated_at": "2026-07-18T01:20:18+00:00",
+  "run_id": "2026-07-18T01:20:18+00:00",
   "date": "2026-07-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 2,
     "displayed_findings": 2,
     "high": 0,
@@ -171,29 +171,7 @@
       "id": "209e4dc4885d05a0e52f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-17T22:50:00+00:00",
-      "fetched_at": "2026-07-18T00:47:57+00:00",
-      "summary": "Apple MusicとApple Oneの値上げは2022年10月以来、約4年ぶりだ。当時も値上げの理由をライセンス料の高騰と説明し、さらに、この値上げで「アーティストやソングライターは、より多くの収入を得ることができるようになる」としていた。 関連記事 アップル、iPhoneを一斉値上げ Watch・AirPodsも 米Appleは7月18日、国...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "209e4dc4885d05a0e52f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
