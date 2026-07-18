@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-07-18T14:32:55+00:00",
+  "generated_at": "2026-07-18T14:54:50+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "critical",
-        "title": "USGS earthquake M7.3 - 58 km WSW of Puerto Madero, Mexico",
-        "summary": "M7.3 - 58 km WSW of Puerto Madero, Mexico. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
-        "published_at": "2026-07-17T14:48:39+00:00",
-        "metrics": {
-          "mag": 7.3,
-          "alert": "yellow",
-          "sig": 973.0,
-          "tsunami": 0
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
@@ -164,6 +149,16 @@
         "summary": "Green earthquake (Magnitude 5.7M, Depth:13.061km) in East Of South Sandwich Islands 15/07/2026 14:51 UTC, [unknown].",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552027",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551894",
         "published_at": "",
         "metrics": {}
       }

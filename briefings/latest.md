@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T14:32:54+00:00_
+_Generiert: 2026-07-18T14:54:47+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-07-18T14:32:54+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.3 - 58 km WSW of Puerto Madero, Mexico** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu)
-  - Quelle: USGS
-  - Zeit: `2026-07-17T14:48:39+00:00`
-  - Kurz: M7.3 - 58 km WSW of Puerto Madero, Mexico. PAGER alert: yellow. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-58644 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-16`
@@ -69,6 +65,10 @@ _Generiert: 2026-07-18T14:32:54+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:13.061km) in East Of South Sandwich Islands 15/07/2026 14:51 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551894)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.
 
 ## Wirtschaft global
 
