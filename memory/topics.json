@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T05:11:51+00:00",
+  "generated_at": "2026-07-18T05:55:38+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
       },
       {
+        "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T04:37:12+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html"
+      },
+      {
         "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-17T22:50:00+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html"
-      },
-      {
-        "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T17:27:34+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html"
       }
     ],
     "general": [
@@ -149,6 +149,22 @@
         "published_at": "2026-07-17T12:21:56+00:00",
         "relevance_score": 12,
         "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/"
+      },
+      {
+        "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-18T05:19:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html"
+      }
+    ],
+    "security": [
+      {
+        "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-18T05:19:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html"
       }
     ]
   }

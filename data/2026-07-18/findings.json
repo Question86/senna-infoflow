@@ -198,6 +198,27 @@
     "id": "dbe0df5213034ba22f9c"
   },
   {
+    "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
+    "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-18T05:19:00.000+00:00",
+    "fetched_at": "2026-07-18T05:55:06+00:00",
+    "summary": "Durch Verkettung einer SQL-Injection- und einer API-Lücke können Angreifer Code einschleusen. WordPress hat ein Update veröffentlicht, die Finder einen Hotfix.",
+    "matched_keywords": [
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e4856a7c1be11b8e98f9"
+  },
+  {
     "title": "中国AI・Kimiの衝撃、米専門家「アンソロピック最新型と僅差」 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -406,6 +427,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "164383b0ece0236b908b"
+  },
+  {
+    "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T04:37:12+00:00",
+    "fetched_at": "2026-07-18T05:55:06+00:00",
+    "summary": "米Anthropicは7月17日（現地時間）、最上位AIモデル「Claude Fable 5」を20日から有料プラン「Max」「Team Premium」の標準機能にすると発表した。両プランでは、利用上限の50%までFable 5を追加費用なしで使える。 一方、「Pro」「Team Standard」の各プランでは、月額料金とは別に課金される「使用クレジット」（従量...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cf58f073e02ee9819642"
   },
   {
     "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",

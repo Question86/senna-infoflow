@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T05:11:51+00:00_
+_Generiert: 2026-07-18T05:55:38+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+18 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 OpenAI's new flagship model deletes files on its own, people keep warning | TechCrunch https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-peop...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API** — Score 11, observation — [Quelle](https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-18T05:19:00.000+00:00`, fetched `2026-07-18T05:55:06+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Durch Verkettung einer SQL-Injection- und einer API-Lücke können Angreifer Code einschleusen. WordPress hat ein Update veröffentlicht, die Finder einen Hotfix.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **中国AI・Kimiの衝撃、米専門家「アンソロピック最新型と僅差」 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
