@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-18T04:45:04Z",
+  "generated_at": "2026-07-18T05:36:27Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 29.12,
+      "age_days": 29.15,
       "topics": [
         "ai"
       ],
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -2.8 for 29.1d old signal",
+        "aging penalty -2.9 for 29.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:45:17.977+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://github.com/github/copilot-sdk",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T03:35:08.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -120,7 +120,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1im",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:05:01.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -145,7 +145,7 @@
       "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T05:49:42+00:00",
-      "age_days": 0.96,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -171,7 +171,7 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -194,11 +194,35 @@
       "summary": "Master programming by recreating your favorite technologies from scratch. Build your own <insert-technology-here> This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot create, I do not understand — Richard Feynman. It's a great way t…"
     },
     {
+      "title": "M 4.9 - 71 km WSW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-18T04:42:47.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-18 04:28:52 UTC 2026-07-18 04:28:52 UTC at epicenter Location 14.581°N 93.074°W Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "M 4.5 - 74 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:42:41.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -222,7 +246,7 @@
       "url": "https://github.com/anthropics/cwc-workshops",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -248,7 +272,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T22:45:39+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -274,7 +298,7 @@
       "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T12:21:56+00:00",
-      "age_days": 0.68,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -293,32 +317,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 OpenAI's new flagship model deletes files on its own, people keep warning | TechCrunch https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-peop..."
-    },
-    {
-      "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-17T22:50:00+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Apple MusicとApple Oneの値上げは2022年10月以来、約4年ぶりだ。当時も値上げの理由をライセンス料の高騰と説明し、さらに、この値上げで「アーティストやソングライターは、より多くの収入を得ることができるようになる」としていた。 関連記事 アップル、iPhoneを一斉値上げ Watch・AirPodsも 米Appleは7月18日、国..."
     }
   ],
   "read_order": [
@@ -331,8 +329,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 5,
-      "quiet": 4
+      "watch": 6,
+      "quiet": 3
     }
   }
 }
