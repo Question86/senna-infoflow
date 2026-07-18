@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T07:14:15+00:00_
+_Generiert: 2026-07-18T07:56:26+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+24 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 

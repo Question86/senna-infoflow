@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:14:15+00:00",
-  "run_id": "2026-07-18T07:14:15+00:00",
+  "generated_at": "2026-07-18T07:56:26+00:00",
+  "run_id": "2026-07-18T07:56:26+00:00",
   "date": "2026-07-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 1,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 2,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -660,6 +660,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cf58f073e02ee9819642"
+      },
+      {
+        "title": "最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか",
+        "url": "https://togetter.com/li/2721800",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-18T02:31:11+00:00",
+        "fetched_at": "2026-07-18T07:55:58+00:00",
+        "summary": "横坂 拓也_Webディレクター｜群馬の制作会社emo planning LLC @taku_coco9 デザイン参考はPinterest使いますが 最近はAIで参考作ってデザイナーさんに渡す でもそうするとデザイナーは 「いやいや もこれ80点ラインですやん」 「ここからどうデザインしろと？」 となる だから相当に細かく指示してあげないと デザイナー...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "82995e4eb088758da890"
       },
       {
         "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
@@ -1358,6 +1379,27 @@
       "id": "cf58f073e02ee9819642"
     },
     {
+      "title": "最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか",
+      "url": "https://togetter.com/li/2721800",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-18T02:31:11+00:00",
+      "fetched_at": "2026-07-18T07:55:58+00:00",
+      "summary": "横坂 拓也_Webディレクター｜群馬の制作会社emo planning LLC @taku_coco9 デザイン参考はPinterest使いますが 最近はAIで参考作ってデザイナーさんに渡す でもそうするとデザイナーは 「いやいや もこれ80点ラインですやん」 「ここからどうデザインしろと？」 となる だから相当に細かく指示してあげないと デザイナー...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82995e4eb088758da890"
+    },
+    {
       "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1423,76 +1465,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.3 - 87 km WSW of Puerto Madero, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか",
+      "url": "https://togetter.com/li/2721800",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-18T07:08:53.040+00:00",
-      "fetched_at": "2026-07-18T07:13:47+00:00",
-      "summary": "Time 2026-07-18 06:51:50 UTC 2026-07-18 06:51:50 UTC at epicenter Location 14.380°N 93.151°W Depth 35.00 km (21.75 mi)",
+      "published_at": "2026-07-18T02:31:11+00:00",
+      "fetched_at": "2026-07-18T07:55:58+00:00",
+      "summary": "横坂 拓也_Webディレクター｜群馬の制作会社emo planning LLC @taku_coco9 デザイン参考はPinterest使いますが 最近はAIで参考作ってデザイナーさんに渡す でもそうするとデザイナーは 「いやいや もこれ80点ラインですやん」 「ここからどうデザインしろと？」 となる だから相当に細かく指示してあげないと デザイナー...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "bcaf929e22a3ce23f210"
-    },
-    {
-      "title": "M 4.5 - central Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-18T06:43:52.040+00:00",
-      "fetched_at": "2026-07-18T07:13:47+00:00",
-      "summary": "Time 2026-07-18 06:26:08 UTC 2026-07-18 06:26:08 UTC at epicenter Location 0.920°S 21.495°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "f8f3c12f6eb2d6664111"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82995e4eb088758da890"
     }
   ],
   "source_errors": [],

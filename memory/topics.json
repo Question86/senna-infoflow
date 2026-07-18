@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-18T07:14:15+00:00",
+  "generated_at": "2026-07-18T07:56:26+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html"
       },
       {
-        "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+        "title": "最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T22:50:00+00:00",
+        "published_at": "2026-07-18T02:31:11+00:00",
         "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html"
+        "url": "https://togetter.com/li/2721800"
       }
     ],
     "general": [
