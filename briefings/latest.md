@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T05:55:38+00:00_
+_Generiert: 2026-07-18T06:34:45+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+21 neue relevante Treffer. Stärkstes Signal: „SQL MCP Server が GA したらしい“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -160,14 +160,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=山田遼太郎、ニューヨーク=内山瑞貴】中国の人工知能（AI）新興、月之暗面（ムーンショットAI）の新型モデル「Kimi K3」の性能に米国の専門家の間で驚きが広がった。米アンソロピックの最新AI「フェイブル」を上回る性能には達しないものの、僅差に迫っていると受け止められた。ディープシーク・ショッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 71 km WSW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb)
+- **M 4.6 - 73 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T04:42:47.040+00:00`, fetched `2026-07-18T05:11:23+00:00`
+  - Zeit: published `2026-07-18T06:28:19.040+00:00`, fetched `2026-07-18T06:34:16+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-18 04:28:52 UTC 2026-07-18 04:28:52 UTC at epicenter Location 14.581°N 93.074°W Depth 35.00 km (21.75 mi)
+  - Kurz: Time 2026-07-18 06:10:19 UTC 2026-07-18 06:10:19 UTC at epicenter Location 14.269°N 92.924°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - 116 km ENE of Murghob, Tajikistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-18T06:13:39.040+00:00`, fetched `2026-07-18T06:34:16+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-18 05:47:22 UTC 2026-07-18 05:47:22 UTC at epicenter Location 38.623°N 75.167°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-18T06:05:44.040+00:00`, fetched `2026-07-18T06:34:16+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-18 05:46:47 UTC 2026-07-18 05:46:47 UTC at epicenter Location 32.819°S 178.115°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **最近の AI コーディングで実践している、設計を中心とした開発の進め方** — Score 9, observation — [Quelle](https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -178,24 +196,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI コーディングエージェントの自律性が向上し、複数のエージェントを並行して動かすことが日常になったことで、開発の中で最も時間を使う工程が実装から設計へ移りつつあります。この記事では、設計セッション、Git worktree を使った並列実行、自律的な検証、AI によるコードレビューなど、最近の私が実践している開発...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 17 km SE of Malatya, Turkey** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T03:35:08.040+00:00`, fetched `2026-07-18T04:16:58+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-18 03:21:00 UTC 2026-07-18 03:21:00 UTC at epicenter Location 38.261°N 38.481°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 74 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T02:42:41.040+00:00`, fetched `2026-07-18T03:14:11+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-18 02:29:36 UTC 2026-07-18 02:29:36 UTC at epicenter Location 14.209°N 92.872°W Depth 41.22 km (25.61 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
