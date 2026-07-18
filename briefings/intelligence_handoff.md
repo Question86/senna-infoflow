@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-18T07:07:30Z_
+_Generated: 2026-07-18T07:51:42Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-18T05:19:00.000+00:00` / age_days `0.08`
+- Published: `2026-07-18T05:19:00.000+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, security high-signal: kritisch, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `29.21`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `29.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -2.9 for 29.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-07-18T02:45:17.977+00:00` / age_days `0.18`
+- Published: `2026-07-18T02:45:17.977+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-07-18T02:06:25+00:00` / age_days `0.21`
+- Published: `2026-07-18T02:06:25+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.com/github/copilot-sdk
 
+### M 4.5 - central Mid-Atlantic Ridge
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-07-18T06:43:52.040+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jw
+
 ### M 4.6 - 73 km SW of Puerto Madero, Mexico
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T06:28:19.040+00:00` / age_days `0.03`
+- Published: `2026-07-18T06:28:19.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T06:05:44.040+00:00` / age_days `0.04`
+- Published: `2026-07-18T06:05:44.040+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T03:35:08.040+00:00` / age_days `0.15`
+- Published: `2026-07-18T03:35:08.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-18T02:05:01.040+00:00` / age_days `0.21`
+- Published: `2026-07-18T02:05:01.040+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-07-17T05:49:42+00:00` / age_days `1.05`
+- Published: `2026-07-17T05:49:42+00:00` / age_days `1.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: container, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,30 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lüc
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-07-18T02:06:25+00:00` / age_days `0.21`
+- Published: `2026-07-18T02:06:25+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: chain, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.com/codecrafters-io/build-your-own-x
 
-### M 4.9 - 71 km WSW of Puerto Madero, Mexico
+### M 5.3 - 87 km WSW of Puerto Madero, Mexico
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-07-18T04:42:47.040+00:00` / age_days `0.1`
+- Published: `2026-07-18T07:08:53.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb
-
-### M 4.5 - 74 km SW of Puerto Madero, Mexico
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-07-18T02:42:41.040+00:00` / age_days `0.18`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy
 
 END OF DOCUMENT
