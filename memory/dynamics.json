@@ -1,28 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-18T05:36:27Z",
+  "generated_at": "2026-07-18T06:24:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 22,
     "bands": {
+      "krass": 1,
       "strong": 3,
       "watch": 6,
-      "quiet": 11
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 6,
-      "quiet": 11
+      "quiet": 12
     }
   },
   "top_dynamics": [
+    {
+      "title": "„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
+      "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-18T05:19:00.000+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Durch Verkettung einer SQL-Injection- und einer API-Lücke können Angreifer Code einschleusen. WordPress hat ein Update veröffentlicht, die Finder einen Hotfix."
+    },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 29.15,
+      "age_days": 29.19,
       "topics": [
         "ai"
       ],
@@ -51,7 +78,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:45:17.977+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -76,7 +103,7 @@
       "url": "https://github.com/github/copilot-sdk",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -102,7 +129,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T03:35:08.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -127,7 +154,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1im",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:05:01.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -152,7 +179,7 @@
       "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T05:49:42+00:00",
-      "age_days": 0.99,
+      "age_days": 1.02,
       "topics": [
         "ai"
       ],
@@ -178,7 +205,7 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -205,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T04:42:47.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -229,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-18T02:42:41.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -253,7 +280,7 @@
       "url": "https://github.com/anthropics/cwc-workshops",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -279,7 +306,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T22:45:39+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -305,7 +332,7 @@
       "url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T12:21:56+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -330,7 +357,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T22:50:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -356,7 +383,7 @@
       "url": "https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T04:23:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -381,7 +408,7 @@
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-18T02:06:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -406,7 +433,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 28.12,
+      "age_days": 28.15,
       "topics": [
         "general"
       ],
@@ -431,7 +458,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 28.12,
+      "age_days": 28.15,
       "topics": [
         "general"
       ],
@@ -456,7 +483,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 28.12,
+      "age_days": 28.15,
       "topics": [
         "ai"
       ],
@@ -479,11 +506,36 @@
       "summary": ""
     },
     {
+      "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-18T04:37:12+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "米Anthropicは7月17日（現地時間）、最上位AIモデル「Claude Fable 5」を20日から有料プラン「Max」「Team Premium」の標準機能にすると発表した。両プランでは、利用上限の50%までFable 5を追加費用なしで使える。 一方、「Pro」「Team Standard」の各プランでは、月額料金とは別に課金される「使用クレジット」（従量..."
+    },
+    {
       "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T17:27:34+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -508,7 +560,7 @@
       "url": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-17T12:24:37+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -529,5 +581,5 @@
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに AIエージェントのコーディング環境として、Docker Sandboxesを使っています。 本稿執筆時点ではまだExperimentalな扱いなので、まとめ記事を書くタイミングが難しいのだけ..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
