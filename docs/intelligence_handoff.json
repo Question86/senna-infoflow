@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-19T10:05:09Z",
+  "generated_at": "2026-07-19T10:43:52Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ibelick/ui-skills” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.34,
+      "age_days": 30.36,
       "topics": [
         "ai"
       ],
@@ -88,7 +88,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.3 for 30.3d old signal",
+        "aging penalty -3.3 for 30.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T08:43:01.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T03:01:36.657+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -144,11 +144,36 @@
       "summary": "PAGER - YELLOW ShakeMap - VII DYFI? - VI Time 2026-07-19 02:24:36 UTC 2026-07-19 02:24:36 UTC at epicenter Location 12.043°S 75.301°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.6 - 91 km ESE of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-19T10:42:08.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-19 09:48:03 UTC 2026-07-19 09:48:03 UTC at epicenter Location 16.345°S 173.038°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 40 km ENE of Shahrak-e Kūlūrī, Iran",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:51:14.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -173,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T00:56:40.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -198,7 +223,7 @@
       "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T08:30:17+00:00",
-      "age_days": 3.07,
+      "age_days": 3.09,
       "topics": [
         "ai"
       ],
@@ -224,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T05:19:28.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -248,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:35:44.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -272,7 +297,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T00:03:40+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -290,30 +315,6 @@
         "high terms: 10"
       ],
       "summary": "発端は7月17日未明（米太平洋時間、以下同）に発生したコスト管理ツール「Cost Explorer」のバグだ。単価設定の誤りにより、月30円程度の利用者に25億ドルの見積が届くなど、桁違いの金額が表示された。 高額な見積もりを受け取ったユーザーの中には、アカウントが不正アクセスされた可能性を疑い、リソースを全て削除し..."
-    },
-    {
-      "title": "POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超えると、社内決裁がほぼ通らない。つまり10億以上かかる企画は競合がほぼ存在しなくなる」",
-      "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-18T20:16:11+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "POPOPO @official_popopo 【重要】POPOPOサービス終了のお知らせ 『POPOPO』は、2026年9月17日(木)15:00をもちまして、サービスの提供を終了させていただくこととなりました。 POPOPOが皆さまに愛されるコンテンツとなるよう努力して参りましたが、このようなご報告となりましたことを心よりお詫び申し上げます。 なお、..."
     }
   ],
   "read_order": [
@@ -326,8 +327,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 5,
-      "quiet": 2
+      "watch": 6,
+      "quiet": 1
     }
   }
 }
