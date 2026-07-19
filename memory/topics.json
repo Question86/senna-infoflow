@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T03:13:41+00:00",
+  "generated_at": "2026-07-19T04:25:01+00:00",
   "topics": {
     "general": [
       {
@@ -38,6 +38,13 @@
         "published_at": "2026-07-19T00:03:40+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html"
+      },
+      {
+        "title": "Xの新UIが自分にも適応された",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T02:49:07+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260718114734"
       }
     ],
     "ai": [
@@ -68,6 +75,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      },
+      {
+        "title": "開発が速く安くなった後の話 AI時代のソフトウェアエンジニアリング組織論 #devsumi",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T08:30:17+00:00",
+        "relevance_score": 6,
+        "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda"
       },
       {
         "title": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
