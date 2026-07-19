@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-19T04:25:01+00:00_
+_Generated: 2026-07-19T05:33:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `14`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-07-19T04:25:01+00:00_
 - url: https://github.com/tirth8205/code-review-graph
 - summary: Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. code-review-graph Stop burning tokens. Start revi…
 
-### 5. M 4.9 - 40 km ENE of Shahrak-e Kūlūrī, Iran
+### 5. M 4.6 - Kuril Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-07-19T05:19:28.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt
+- summary: Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)
+
+### 6. M 4.9 - 40 km ENE of Shahrak-e Kūlūrī, Iran
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-07-19T02:51:14.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8
 - summary: Time 2026-07-19 02:25:20 UTC 2026-07-19 02:25:20 UTC at epicenter Location 32.552°N 48.838°E Depth 10.00 km (6.21 mi)
-
-### 6. M 5.3 - 59 km SW of Puerto Madero, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-07-19T02:35:44.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6
-- summary: Time 2026-07-19 02:18:54 UTC 2026-07-19 02:18:54 UTC at epicenter Location 14.292°N 92.759°W Depth 19.59 km (12.17 mi)
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:25:01+00:00",
-  "run_id": "2026-07-19T04:25:01+00:00",
+  "generated_at": "2026-07-19T05:33:13+00:00",
+  "run_id": "2026-07-19T05:33:13+00:00",
   "date": "2026-07-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 2,
-    "observe": 10,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -160,6 +160,42 @@
           "PINS"
         ],
         "id": "81027e00b7c97996f12e"
+      },
+      {
+        "title": "M 4.6 - Kuril Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-19T05:19:28.040+00:00",
+        "fetched_at": "2026-07-19T05:32:46+00:00",
+        "summary": "Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "70f6254f31db280749be"
       },
       {
         "title": "M 4.9 - 40 km ENE of Shahrak-e Kūlūrī, Iran",
@@ -356,6 +392,27 @@
         "id": "21aa07f7bb53a8e703cf"
       },
       {
+        "title": "POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超えると、社内決裁がほぼ通らない。つまり10億以上かかる企画は競合がほぼ存在しなくなる」",
+        "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-18T20:16:11+00:00",
+        "fetched_at": "2026-07-19T05:32:46+00:00",
+        "summary": "POPOPO @official_popopo 【重要】POPOPOサービス終了のお知らせ 『POPOPO』は、2026年9月17日(木)15:00をもちまして、サービスの提供を終了させていただくこととなりました。 POPOPOが皆さまに愛されるコンテンツとなるよう努力して参りましたが、このようなご報告となりましたことを心よりお詫び申し上げます。 なお、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ebed794f63bac5e716b0"
+      },
+      {
         "title": "Xの新UIが自分にも適応された",
         "url": "https://anond.hatelabo.jp/20260718114734",
         "source": "Hatena Bookmark Hotentry IT",
@@ -508,6 +565,42 @@
         "PINS"
       ],
       "id": "81027e00b7c97996f12e"
+    },
+    {
+      "title": "M 4.6 - Kuril Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-19T05:19:28.040+00:00",
+      "fetched_at": "2026-07-19T05:32:46+00:00",
+      "summary": "Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "70f6254f31db280749be"
     },
     {
       "title": "M 4.9 - 40 km ENE of Shahrak-e Kūlūrī, Iran",
@@ -704,6 +797,27 @@
       "id": "21aa07f7bb53a8e703cf"
     },
     {
+      "title": "POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超えると、社内決裁がほぼ通らない。つまり10億以上かかる企画は競合がほぼ存在しなくなる」",
+      "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-18T20:16:11+00:00",
+      "fetched_at": "2026-07-19T05:32:46+00:00",
+      "summary": "POPOPO @official_popopo 【重要】POPOPOサービス終了のお知らせ 『POPOPO』は、2026年9月17日(木)15:00をもちまして、サービスの提供を終了させていただくこととなりました。 POPOPOが皆さまに愛されるコンテンツとなるよう努力して参りましたが、このようなご報告となりましたことを心よりお詫び申し上げます。 なお、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ebed794f63bac5e716b0"
+    },
+    {
       "title": "Xの新UIが自分にも適応された",
       "url": "https://anond.hatelabo.jp/20260718114734",
       "source": "Hatena Bookmark Hotentry IT",
@@ -727,35 +841,49 @@
   ],
   "new_findings": [
     {
-      "title": "開発が速く安くなった後の話 AI時代のソフトウェアエンジニアリング組織論 #devsumi",
-      "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.6 - Kuril Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-16T08:30:17+00:00",
-      "fetched_at": "2026-07-19T04:24:29+00:00",
-      "summary": "2026/7/16に、Developers Summit 2026 Summerで発表した黒田の資料になります。",
+      "published_at": "2026-07-19T05:19:28.040+00:00",
+      "fetched_at": "2026-07-19T05:32:46+00:00",
+      "summary": "Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)",
       "matched_keywords": [
-        "developer",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8f80e3cb3e9066892a92"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "70f6254f31db280749be"
     },
     {
-      "title": "Xの新UIが自分にも適応された",
-      "url": "https://anond.hatelabo.jp/20260718114734",
+      "title": "POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超えると、社内決裁がほぼ通らない。つまり10億以上かかる企画は競合がほぼ存在しなくなる」",
+      "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-18T02:49:07+00:00",
-      "fetched_at": "2026-07-19T04:24:29+00:00",
-      "summary": "アカウント個別画面の通常ツイートとRTが分けられたのは、「空リプとかしないで引用で堂々と言え」っていうのが一つの思想としてナシじゃないと思うのでまあ許すのだが、アカウント切り替えた時とか、アプリ起動した時に「おすすめ」欄を見させられるのはいただけない フォロー中の最新だけずっと見てたいのよ",
+      "published_at": "2026-07-18T20:16:11+00:00",
+      "fetched_at": "2026-07-19T05:32:46+00:00",
+      "summary": "POPOPO @official_popopo 【重要】POPOPOサービス終了のお知らせ 『POPOPO』は、2026年9月17日(木)15:00をもちまして、サービスの提供を終了させていただくこととなりました。 POPOPOが皆さまに愛されるコンテンツとなるよう努力して参りましたが、このようなご報告となりましたことを心よりお詫び申し上げます。 なお、...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -767,7 +895,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "41d2910c328ed04571b6"
+      "id": "ebed794f63bac5e716b0"
     }
   ],
   "source_errors": [],

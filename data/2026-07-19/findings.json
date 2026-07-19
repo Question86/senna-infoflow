@@ -130,6 +130,42 @@
     "id": "81027e00b7c97996f12e"
   },
   {
+    "title": "M 4.6 - Kuril Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-19T05:19:28.040+00:00",
+    "fetched_at": "2026-07-19T05:32:46+00:00",
+    "summary": "Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "70f6254f31db280749be"
+  },
+  {
     "title": "M 4.9 - 40 km ENE of Shahrak-e Kūlūrī, Iran",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -322,6 +358,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "21aa07f7bb53a8e703cf"
+  },
+  {
+    "title": "POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超えると、社内決裁がほぼ通らない。つまり10億以上かかる企画は競合がほぼ存在しなくなる」",
+    "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T20:16:11+00:00",
+    "fetched_at": "2026-07-19T05:32:46+00:00",
+    "summary": "POPOPO @official_popopo 【重要】POPOPOサービス終了のお知らせ 『POPOPO』は、2026年9月17日(木)15:00をもちまして、サービスの提供を終了させていただくこととなりました。 POPOPOが皆さまに愛されるコンテンツとなるよう努力して参りましたが、このようなご報告となりましたことを心よりお詫び申し上げます。 なお、...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ebed794f63bac5e716b0"
   },
   {
     "title": "Xの新UIが自分にも適応された",

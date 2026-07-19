@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T04:25:01+00:00",
+  "generated_at": "2026-07-19T05:33:13+00:00",
   "topics": {
     "general": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-19T03:01:36.657+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7"
+      },
+      {
+        "title": "M 4.6 - Kuril Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-19T05:19:28.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt"
       },
       {
         "title": "M 4.9 - 40 km ENE of Shahrak-e Kūlūrī, Iran",
@@ -38,6 +45,13 @@
         "published_at": "2026-07-19T00:03:40+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html"
+      },
+      {
+        "title": "POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超えると、社内決裁がほぼ通らない。つまり10億以上かかる企画は競合がほぼ存在しなくなる」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T20:16:11+00:00",
+        "relevance_score": 5,
+        "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s"
       },
       {
         "title": "Xの新UIが自分にも適応された",
