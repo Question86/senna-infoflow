@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T01:17:18+00:00",
+  "generated_at": "2026-07-19T02:02:41+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "ibelick/ui-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/ibelick/ui-skills"
+      },
       {
         "title": "役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計",
         "source": "Hatena Bookmark Hotentry IT",
@@ -12,11 +19,48 @@
         "url": "https://zenn.dev/discus0434/articles/customizable-agent-teams"
       },
       {
+        "title": "tirth8205/code-review-graph",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 11,
+        "url": "https://github.com/tirth8205/code-review-graph"
+      },
+      {
+        "title": "rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      },
+      {
         "title": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-18T21:22:45+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2722026"
+      }
+    ],
+    "github": [
+      {
+        "title": "ibelick/ui-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/ibelick/ui-skills"
+      },
+      {
+        "title": "tirth8205/code-review-graph",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 11,
+        "url": "https://github.com/tirth8205/code-review-graph"
+      },
+      {
+        "title": "rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
       }
     ],
     "general": [
