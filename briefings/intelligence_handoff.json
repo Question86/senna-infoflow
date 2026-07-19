@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-19T09:28:13Z",
+  "generated_at": "2026-07-19T10:05:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ibelick/ui-skills” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.31,
+      "age_days": 30.34,
       "topics": [
         "ai"
       ],
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T08:43:01.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T03:01:36.657+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -148,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:51:14.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -173,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T00:56:40.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -198,7 +198,7 @@
       "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T08:30:17+00:00",
-      "age_days": 3.04,
+      "age_days": 3.07,
       "topics": [
         "ai"
       ],
@@ -224,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T05:19:28.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -248,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:35:44.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -272,7 +272,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T00:03:40+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -296,7 +296,7 @@
       "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T20:16:11+00:00",
-      "age_days": 0.55,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
