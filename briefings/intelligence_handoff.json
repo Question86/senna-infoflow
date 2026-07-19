@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-19T07:54:19Z",
+  "generated_at": "2026-07-19T08:44:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ibelick/ui-skills” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.25,
+      "age_days": 30.28,
       "topics": [
         "ai"
       ],
@@ -88,7 +88,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.2 for 30.2d old signal",
+        "aging penalty -3.2 for 30.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T03:01:36.657+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:51:14.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -148,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T00:56:40.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -173,7 +173,7 @@
       "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T08:30:17+00:00",
-      "age_days": 2.98,
+      "age_days": 3.01,
       "topics": [
         "ai"
       ],
@@ -199,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T05:19:28.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -223,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:35:44.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -247,7 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T00:03:40+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -271,7 +271,7 @@
       "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T20:16:11+00:00",
-      "age_days": 0.48,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -295,7 +295,7 @@
       "url": "https://zenn.dev/seekseep/articles/git-with-coding-agents-patterns",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T20:23:37+00:00",
-      "age_days": 0.48,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
