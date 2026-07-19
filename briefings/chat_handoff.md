@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-19T10:08:51+00:00_
+_Generated: 2026-07-19T10:42:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-07-19T10:08:51+00:00_
 - url: https://github.com/tirth8205/code-review-graph
 - summary: Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. code-review-graph Stop burning tokens. Start revi…
 
-### 7. M 4.6 - Kuril Islands
+### 7. M 4.6 - 91 km ESE of Hihifo, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-07-19T05:19:28.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt
-- summary: Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)
+- published: `2026-07-19T10:42:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx
+- summary: Time 2026-07-19 09:48:03 UTC 2026-07-19 09:48:03 UTC at epicenter Location 16.345°S 173.038°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

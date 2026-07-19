@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T10:08:51+00:00",
-  "run_id": "2026-07-19T10:08:51+00:00",
+  "generated_at": "2026-07-19T10:42:53+00:00",
+  "run_id": "2026-07-19T10:42:53+00:00",
   "date": "2026-07-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 3,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -220,6 +220,42 @@
           "PINS"
         ],
         "id": "81027e00b7c97996f12e"
+      },
+      {
+        "title": "M 4.6 - 91 km ESE of Hihifo, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-19T10:42:08.040+00:00",
+        "fetched_at": "2026-07-19T10:42:23+00:00",
+        "summary": "Time 2026-07-19 09:48:03 UTC 2026-07-19 09:48:03 UTC at epicenter Location 16.345°S 173.038°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "3ec44e52806b926393c3"
       },
       {
         "title": "M 4.6 - Kuril Islands",
@@ -751,6 +787,42 @@
       "id": "81027e00b7c97996f12e"
     },
     {
+      "title": "M 4.6 - 91 km ESE of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-19T10:42:08.040+00:00",
+      "fetched_at": "2026-07-19T10:42:23+00:00",
+      "summary": "Time 2026-07-19 09:48:03 UTC 2026-07-19 09:48:03 UTC at epicenter Location 16.345°S 173.038°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3ec44e52806b926393c3"
+    },
+    {
       "title": "M 4.6 - Kuril Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1087,7 +1159,44 @@
       "id": "41d2910c328ed04571b6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.6 - 91 km ESE of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-19T10:42:08.040+00:00",
+      "fetched_at": "2026-07-19T10:42:23+00:00",
+      "summary": "Time 2026-07-19 09:48:03 UTC 2026-07-19 09:48:03 UTC at epicenter Location 16.345°S 173.038°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3ec44e52806b926393c3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
