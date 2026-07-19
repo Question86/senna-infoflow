@@ -745,6 +745,27 @@
     "id": "ebed794f63bac5e716b0"
   },
   {
+    "title": "マルチエージェントに関する論文を40本再実装してみて分かったこと - Qiita",
+    "url": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T04:14:40+00:00",
+    "fetched_at": "2026-07-19T19:49:04+00:00",
+    "summary": "コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの手法が、どのようなループを持ち、どのような役...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "297badc70a42b84de687"
+  },
+  {
     "title": "Xの新UIが自分にも適応された",
     "url": "https://anond.hatelabo.jp/20260718114734",
     "source": "Hatena Bookmark Hotentry IT",
