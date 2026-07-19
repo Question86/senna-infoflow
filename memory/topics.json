@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T06:26:43+00:00",
+  "generated_at": "2026-07-19T07:18:41+00:00",
   "topics": {
     "general": [
       {
@@ -96,6 +96,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      },
+      {
+        "title": "AI駆動開発時代の品質保証",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T02:15:06+00:00",
+        "relevance_score": 8,
+        "url": "https://speakerdeck.com/naonana777/aiqu-dong-kai-fa-shi-dai-pin-zhi-bao-zheng?slide=33"
       },
       {
         "title": "開発が速く安くなった後の話 AI時代のソフトウェアエンジニアリング組織論 #devsumi",

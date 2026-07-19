@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T06:26:43+00:00_
+_Generiert: 2026-07-19T07:18:41+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 2 km WSW of Sicaya, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+16 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 2 km WSW of Sicaya, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -96,15 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Learn it. Build it. Ship it for others. From the creator of Agent Memory - #1 Persistent memory ⭐ which naturally works with any agents or chat assistants. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ 84% of students already use AI tools. Only 18% feel prepared to use them professionally. This curriculum closes that gap. 503 lessons. 20 phases. ~320 hours. Python, TypeSc…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **開発が速く安くなった後の話 AI時代のソフトウェアエンジニアリング組織論 #devsumi** — Score 6, opportunity — [Quelle](https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda)
+- **AI駆動開発時代の品質保証** — Score 8, observation — [Quelle](https://speakerdeck.com/naonana777/aiqu-dong-kai-fa-shi-dai-pin-zhi-bao-zheng?slide=33)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-16T08:30:17+00:00`, fetched `2026-07-19T04:24:29+00:00`
-  - Treffer: developer, Hatena, hotentry
+  - Zeit: published `2026-07-18T02:15:06+00:00`, fetched `2026-07-19T07:18:11+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0)
-  - Kurz: 2026/7/16に、Developers Summit 2026 Summerで発表した黒田の資料になります。
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: KAG AI WEEK ummer Day4 ~KDDI DIGIAL GAEゲスト会！~ AI駆動開発時代品質保証 山本 直弥（Nao）/ 上田 瀟逸 (ハリネズミ) 2026年7月16日 (木)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
