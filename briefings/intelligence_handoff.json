@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-19T08:44:45Z",
+  "generated_at": "2026-07-19T09:28:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ibelick/ui-skills” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.28,
+      "age_days": 30.31,
       "topics": [
         "ai"
       ],
@@ -88,17 +88,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.2 for 30.3d old signal",
+        "aging penalty -3.3 for 30.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.8 - 83 km S of Pelabuhanratu, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-19T08:43:01.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-19 08:11:02 UTC 2026-07-19 08:11:02 UTC at epicenter Location 7.739°S 106.446°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 5.5 - 2 km WSW of Sicaya, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T03:01:36.657+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -123,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:51:14.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -148,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T00:56:40.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -173,7 +198,7 @@
       "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T08:30:17+00:00",
-      "age_days": 3.01,
+      "age_days": 3.04,
       "topics": [
         "ai"
       ],
@@ -199,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T05:19:28.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -223,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:35:44.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -247,7 +272,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T00:03:40+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -271,7 +296,7 @@
       "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T20:16:11+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -289,32 +314,6 @@
         "high terms: 10"
       ],
       "summary": "POPOPO @official_popopo 【重要】POPOPOサービス終了のお知らせ 『POPOPO』は、2026年9月17日(木)15:00をもちまして、サービスの提供を終了させていただくこととなりました。 POPOPOが皆さまに愛されるコンテンツとなるよう努力して参りましたが、このようなご報告となりましたことを心よりお詫び申し上げます。 なお、..."
-    },
-    {
-      "title": "コーディングエージェントとGitを組み合わせる — Simon Willison のパターン集を読む",
-      "url": "https://zenn.dev/seekseep/articles/git-with-coding-agents-patterns",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-18T20:23:37+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "この記事では、Simon Willison 氏のガイド Using Git with coding agents を日本語で要約し、コーディングエージェントとGitを組み合わせて使うための考え方を整理します。Claude Code のようなエージェントを普段の開発に使っていて、Gitまわりをもっと任せたいと感じている方を対象としています。 このガイドの主張 Si..."
     }
   ],
   "read_order": [
@@ -326,9 +325,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 5,
-      "quiet": 3
+      "quiet": 2
     }
   }
 }

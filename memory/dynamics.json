@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-19T08:44:45Z",
+  "generated_at": "2026-07-19T09:28:13Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 23,
     "bands": {
       "krass": 2,
-      "strong": 2,
+      "strong": 3,
       "watch": 5,
-      "quiet": 12
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 5,
-      "quiet": 12
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.28,
+      "age_days": 30.31,
       "topics": [
         "ai"
       ],
@@ -96,17 +96,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.2 for 30.3d old signal",
+        "aging penalty -3.3 for 30.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.8 - 83 km S of Pelabuhanratu, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-19T08:43:01.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-19 08:11:02 UTC 2026-07-19 08:11:02 UTC at epicenter Location 7.739°S 106.446°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 5.5 - 2 km WSW of Sicaya, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T03:01:36.657+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -131,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:51:14.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -156,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T00:56:40.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -181,7 +206,7 @@
       "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T08:30:17+00:00",
-      "age_days": 3.01,
+      "age_days": 3.04,
       "topics": [
         "ai"
       ],
@@ -207,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T05:19:28.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -231,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:35:44.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -255,7 +280,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T00:03:40+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -279,7 +304,7 @@
       "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T20:16:11+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -303,7 +328,7 @@
       "url": "https://zenn.dev/seekseep/articles/git-with-coding-agents-patterns",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T20:23:37+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -325,11 +350,35 @@
       "summary": "この記事では、Simon Willison 氏のガイド Using Git with coding agents を日本語で要約し、コーディングエージェントとGitを組み合わせて使うための考え方を整理します。Claude Code のようなエージェントを普段の開発に使っていて、Gitまわりをもっと任せたいと感じている方を対象としています。 このガイドの主張 Si..."
     },
     {
+      "title": "アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ",
+      "url": "https://gigazine.net/news/20260719-emacs-in-pop-culture/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-19T03:58:12+00:00",
+      "age_days": 0.23,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Emacsはオリジナルが1976年にリリースされ、50年経った記事作成時点でも脈々と更新が続いている古参かつ現役のテキストエディタです。歴史の長さゆえに根強い愛好者が多く、同じく長い歴史を持つviとの「エディタ戦争」に代表されるミームにも事欠きません。そんなEmacsは映画などのワンシーンを演出するツールとしても..."
+    },
+    {
       "title": "Xの新UIが自分にも適応された",
       "url": "https://anond.hatelabo.jp/20260718114734",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T02:49:07+00:00",
-      "age_days": 1.25,
+      "age_days": 1.28,
       "topics": [
         "general"
       ],
@@ -353,7 +402,7 @@
       "url": "https://zenn.dev/discus0434/articles/customizable-agent-teams",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T13:13:50+00:00",
-      "age_days": 2.81,
+      "age_days": 2.84,
       "topics": [
         "ai"
       ],
@@ -378,7 +427,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T03:16:42+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -404,7 +453,7 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -429,7 +478,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.25,
+      "age_days": 29.28,
       "topics": [
         "general"
       ],
@@ -445,7 +494,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -14.4 for 29.2d old signal"
+        "aging penalty -14.5 for 29.3d old signal"
       ],
       "summary": ""
     },
@@ -454,7 +503,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.25,
+      "age_days": 29.28,
       "topics": [
         "general"
       ],
@@ -470,7 +519,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -14.4 for 29.2d old signal"
+        "aging penalty -14.5 for 29.3d old signal"
       ],
       "summary": ""
     },
@@ -479,7 +528,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.25,
+      "age_days": 29.28,
       "topics": [
         "ai"
       ],
@@ -496,7 +545,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -14.4 for 29.2d old signal",
+        "aging penalty -14.5 for 29.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -506,7 +555,7 @@
       "url": "https://speakerdeck.com/naonana777/aiqu-dong-kai-fa-shi-dai-pin-zhi-bao-zheng?slide=33",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T02:15:06+00:00",
-      "age_days": 1.27,
+      "age_days": 1.3,
       "topics": [
         "ai"
       ],
@@ -531,7 +580,7 @@
       "url": "https://togetter.com/li/2722026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T21:22:45+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
