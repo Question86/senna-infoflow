@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T20:30:35+00:00",
+  "generated_at": "2026-07-19T20:51:08+00:00",
   "topics": {
     "general": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-19T18:06:41.606+00:00",
         "relevance_score": 13,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
+      },
+      {
+        "title": "M 4.5 - south of the Kermadec Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-19T20:44:08.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ue"
       },
       {
         "title": "M 4.5 - 46 km NE of Tulsīpur, Nepal",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-19T00:56:40.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
-      },
-      {
-        "title": "穢れた技術選定について",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-17T08:51:01+00:00",
-        "relevance_score": 6,
-        "url": "https://speakerdeck.com/watany/questionable-technical-choices"
       }
     ],
     "github": [
