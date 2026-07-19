@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T05:33:13+00:00_
+_Generiert: 2026-07-19T06:26:43+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 2 km WSW of Sicaya, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+15 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 2 km WSW of Sicaya, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **コーディングエージェントとGitを組み合わせる — Simon Willison のパターン集を読む** — Score 12, observation — [Quelle](https://zenn.dev/seekseep/articles/git-with-coding-agents-patterns)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-18T20:23:37+00:00`, fetched `2026-07-19T06:26:12+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: この記事では、Simon Willison 氏のガイド Using Git with coding agents を日本語で要約し、コーディングエージェントとGitを組み合わせて使うための考え方を整理します。Claude Code のようなエージェントを普段の開発に使っていて、Gitまわりをもっと任せたいと感じている方を対象としています。 このガイドの主張 Si...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計** — Score 12, observation — [Quelle](https://zenn.dev/discus0434/articles/customizable-agent-teams)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-16T13:13:50+00:00`, fetched `2026-07-19T00:46:18+00:00`
@@ -96,15 +105,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0)
   - Kurz: 2026/7/16に、Developers Summit 2026 Summerで発表した黒田の資料になります。
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/19/news010.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-19T00:03:40+00:00`, fetched `2026-07-19T01:16:48+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 発端は7月17日未明（米太平洋時間、以下同）に発生したコスト管理ツール「Cost Explorer」のバグだ。単価設定の誤りにより、月30円程度の利用者に25億ドルの見積が届くなど、桁違いの金額が表示された。 高額な見積もりを受け取ったユーザーの中には、アカウントが不正アクセスされた可能性を疑い、リソースを全て削除し...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

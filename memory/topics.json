@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T05:33:13+00:00",
+  "generated_at": "2026-07-19T06:26:43+00:00",
   "topics": {
     "general": [
       {
@@ -68,6 +68,13 @@
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/ibelick/ui-skills"
+      },
+      {
+        "title": "コーディングエージェントとGitを組み合わせる — Simon Willison のパターン集を読む",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T20:23:37+00:00",
+        "relevance_score": 12,
+        "url": "https://zenn.dev/seekseep/articles/git-with-coding-agents-patterns"
       },
       {
         "title": "役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計",

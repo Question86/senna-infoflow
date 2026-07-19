@@ -61,6 +61,29 @@
     "id": "72c1c378f9253264a886"
   },
   {
+    "title": "コーディングエージェントとGitを組み合わせる — Simon Willison のパターン集を読む",
+    "url": "https://zenn.dev/seekseep/articles/git-with-coding-agents-patterns",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T20:23:37+00:00",
+    "fetched_at": "2026-07-19T06:26:12+00:00",
+    "summary": "この記事では、Simon Willison 氏のガイド Using Git with coding agents を日本語で要約し、コーディングエージェントとGitを組み合わせて使うための考え方を整理します。Claude Code のようなエージェントを普段の開発に使っていて、Gitまわりをもっと任せたいと感じている方を対象としています。 このガイドの主張 Si...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bc4f3bd9601c0182c2f8"
+  },
+  {
     "title": "役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計",
     "url": "https://zenn.dev/discus0434/articles/customizable-agent-teams",
     "source": "Hatena Bookmark Hotentry IT",
