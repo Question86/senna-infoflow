@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T07:18:41+00:00",
+  "generated_at": "2026-07-19T08:04:45+00:00",
   "topics": {
     "general": [
       {
@@ -103,6 +103,13 @@
         "published_at": "2026-07-18T02:15:06+00:00",
         "relevance_score": 8,
         "url": "https://speakerdeck.com/naonana777/aiqu-dong-kai-fa-shi-dai-pin-zhi-bao-zheng?slide=33"
+      },
+      {
+        "title": "ITエンジニアの賃金二極化 「AI代替」の仕事5割安、日本も雇用縮小 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T03:16:42+00:00",
+        "relevance_score": 7,
+        "url": "https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/"
       },
       {
         "title": "開発が速く安くなった後の話 AI時代のソフトウェアエンジニアリング組織論 #devsumi",

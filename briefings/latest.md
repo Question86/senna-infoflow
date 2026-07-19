@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T07:18:41+00:00_
+_Generiert: 2026-07-19T08:04:45+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 2 km WSW of Sicaya, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+17 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 2 km WSW of Sicaya, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
