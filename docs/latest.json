@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T16:15:26+00:00",
-  "run_id": "2026-07-19T16:15:26+00:00",
+  "generated_at": "2026-07-19T16:36:14+00:00",
+  "run_id": "2026-07-19T16:36:14+00:00",
   "date": "2026-07-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1445,30 +1445,7 @@
       "id": "41d2910c328ed04571b6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "欧州の古書店に入る不可解な大量発注─その裏に潜む「AI」の存在 | 本は喰われて、捨てられる…",
-      "url": "https://courrier.jp/news/archives/452714/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-19T03:34:57+00:00",
-      "fetched_at": "2026-07-19T16:14:57+00:00",
-      "summary": "「古書の買い占めだ」──カナダ企業による不可解な中古本取引について、スイスの放送局「RTS」はそう断言している。 RTSは、スペインメディア「エル・ディアリオ」とドイツ紙「ターゲスツァイトゥング（TAZ）」の調査を掘り下げ、「中古書籍が買い取られ、デジタル化された後、人工知能（AI）の言語モデルを学習させるた...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1ec75a9991156db2a684"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
