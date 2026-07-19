@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-19T22:56:09+00:00_
+_Generated: 2026-07-19T23:16:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
-### 1. M 4.8 - 83 km S of Pelabuhanratu, Indonesia
+### 1. GitHub Release 作成をパッケージリリースのトリガーにするな！
+- source: Hatena Bookmark Hotentry IT
+- score: `16`
+- published: `2026-07-18T10:55:01+00:00`
+- url: https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger
+- summary: はじめに GitHub Actions からパッケージを公開するとき，こんなワークフローを組んでいないでしょうか？ GitHub 上で Release を作成する → on: release: types: [published] でワークフローが起動する → npm publish が走る 操作する側から見ると，非常に分かりやすいですよね。Release を作れば NPM にも公開される。...
+
+### 2. M 4.8 - 83 km S of Pelabuhanratu, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-07-19T08:43:01.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh
 - summary: Time 2026-07-19 08:11:02 UTC 2026-07-19 08:11:02 UTC at epicenter Location 7.739°S 106.446°E Depth 10.00 km (6.21 mi)
 
-### 2. M 5.5 - 2 km WSW of Sicaya, Peru
+### 3. M 5.5 - 2 km WSW of Sicaya, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-07-19T03:01:36.657+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7
 - summary: PAGER - YELLOW ShakeMap - VII DYFI? - VI Time 2026-07-19 02:24:36 UTC 2026-07-19 02:24:36 UTC at epicenter Location 12.043°S 75.301°W Depth 10.00 km (6.21 mi)
 
-### 3. 【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築
+### 4. 【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築
 - source: Hatena Bookmark Hotentry IT
 - score: `14`
 - published: `2026-07-19T02:57:42+00:00`
 - url: https://techfeed.io/entries/6a5be90b3d5307dbb0d5d745
 - summary: 【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築
-
-### 4. E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践
-- source: Hatena Bookmark Hotentry IT
-- score: `14`
-- published: `2026-07-18T08:31:32+00:00`
-- url: https://zenn.dev/berry_blog/articles/39392e1da7ca71
-- summary: 私たちのチームでは、品質管理システム（QMS）SaaS「QMSmart」の開発で、約 100 spec / 140 テストケースの E2E テストを、PR ごとに CI で自動実行し、wall-clock 6〜8 分で完走させる運用が回っています。これはユニットテスト（Vitest）の CI とほぼ同じ所要時間です。 本記事では、これを実現するために行った 並列...
 
 ### 5. M 5.5 - 81 km SW of Puerto Madero, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour

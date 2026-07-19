@@ -1,8 +1,45 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T22:56:09+00:00",
+  "generated_at": "2026-07-19T23:16:55+00:00",
   "topics": {
+    "github": [
+      {
+        "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T10:55:01+00:00",
+        "relevance_score": 16,
+        "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger"
+      },
+      {
+        "title": "E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T08:31:32+00:00",
+        "relevance_score": 14,
+        "url": "https://zenn.dev/berry_blog/articles/39392e1da7ca71"
+      },
+      {
+        "title": "ibelick/ui-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/ibelick/ui-skills"
+      },
+      {
+        "title": "tirth8205/code-review-graph",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 11,
+        "url": "https://github.com/tirth8205/code-review-graph"
+      },
+      {
+        "title": "rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      }
+    ],
     "general": [
       {
         "title": "M 4.8 - 83 km S of Pelabuhanratu, Indonesia",
@@ -145,36 +182,6 @@
         "published_at": "2026-07-16T08:30:17+00:00",
         "relevance_score": 6,
         "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda"
-      }
-    ],
-    "github": [
-      {
-        "title": "E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-18T08:31:32+00:00",
-        "relevance_score": 14,
-        "url": "https://zenn.dev/berry_blog/articles/39392e1da7ca71"
-      },
-      {
-        "title": "ibelick/ui-skills",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/ibelick/ui-skills"
-      },
-      {
-        "title": "tirth8205/code-review-graph",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 11,
-        "url": "https://github.com/tirth8205/code-review-graph"
-      },
-      {
-        "title": "rohitg00/ai-engineering-from-scratch",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
       }
     ]
   }

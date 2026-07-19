@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T22:56:09+00:00",
-  "run_id": "2026-07-19T22:56:09+00:00",
+  "generated_at": "2026-07-19T23:16:55+00:00",
+  "run_id": "2026-07-19T23:16:55+00:00",
   "date": "2026-07-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,62 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 1,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 27,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+        "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-18T10:55:01+00:00",
+        "fetched_at": "2026-07-19T23:16:20+00:00",
+        "summary": "はじめに GitHub Actions からパッケージを公開するとき，こんなワークフローを組んでいないでしょうか？ GitHub 上で Release を作成する → on: release: types: [published] でワークフローが起動する → npm publish が走る 操作する側から見ると，非常に分かりやすいですよね。Release を作れば NPM にも公開される。...",
+        "matched_keywords": [
+          "GitHub",
+          "GitHub Actions",
+          "Hatena",
+          "hotentry",
+          "Watchgraph:software_supply_chain"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "software_supply_chain"
+        ],
+        "watchgraph_reasons": [
+          "software_supply_chain: npm"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM"
+        ],
+        "id": "6787f6f9d0a6cb141d36"
+      },
       {
         "title": "M 4.8 - 83 km S of Pelabuhanratu, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
@@ -902,6 +947,51 @@
   },
   "findings": [
     {
+      "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+      "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-18T10:55:01+00:00",
+      "fetched_at": "2026-07-19T23:16:20+00:00",
+      "summary": "はじめに GitHub Actions からパッケージを公開するとき，こんなワークフローを組んでいないでしょうか？ GitHub 上で Release を作成する → on: release: types: [published] でワークフローが起動する → npm publish が走る 操作する側から見ると，非常に分かりやすいですよね。Release を作れば NPM にも公開される。...",
+      "matched_keywords": [
+        "GitHub",
+        "GitHub Actions",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "6787f6f9d0a6cb141d36"
+    },
+    {
       "title": "M 4.8 - 83 km S of Pelabuhanratu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1769,7 +1859,53 @@
       "id": "41d2910c328ed04571b6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+      "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-18T10:55:01+00:00",
+      "fetched_at": "2026-07-19T23:16:20+00:00",
+      "summary": "はじめに GitHub Actions からパッケージを公開するとき，こんなワークフローを組んでいないでしょうか？ GitHub 上で Release を作成する → on: release: types: [published] でワークフローが起動する → npm publish が走る 操作する側から見ると，非常に分かりやすいですよね。Release を作れば NPM にも公開される。...",
+      "matched_keywords": [
+        "GitHub",
+        "GitHub Actions",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "6787f6f9d0a6cb141d36"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
