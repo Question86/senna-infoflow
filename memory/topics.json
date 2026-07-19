@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T21:10:55+00:00",
+  "generated_at": "2026-07-19T21:53:15+00:00",
   "topics": {
     "general": [
       {
@@ -75,37 +75,14 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
       }
     ],
-    "github": [
-      {
-        "title": "E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-18T08:31:32+00:00",
-        "relevance_score": 14,
-        "url": "https://zenn.dev/berry_blog/articles/39392e1da7ca71"
-      },
-      {
-        "title": "ibelick/ui-skills",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/ibelick/ui-skills"
-      },
-      {
-        "title": "tirth8205/code-review-graph",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 11,
-        "url": "https://github.com/tirth8205/code-review-graph"
-      },
-      {
-        "title": "rohitg00/ai-engineering-from-scratch",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-      }
-    ],
     "ai": [
+      {
+        "title": "【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T02:57:42+00:00",
+        "relevance_score": 14,
+        "url": "https://techfeed.io/entries/6a5be90b3d5307dbb0d5d745"
+      },
       {
         "title": "ibelick/ui-skills",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -168,13 +145,36 @@
         "published_at": "2026-07-16T08:30:17+00:00",
         "relevance_score": 6,
         "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda"
+      }
+    ],
+    "github": [
+      {
+        "title": "E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-18T08:31:32+00:00",
+        "relevance_score": 14,
+        "url": "https://zenn.dev/berry_blog/articles/39392e1da7ca71"
       },
       {
-        "title": "イスラム教徒の女性が「私たちが祈ってる間、犬の吠え声を止めてください。」と言っているのはAIによる捏造動画だよ - 電脳塵芥",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-19T08:38:26+00:00",
-        "relevance_score": 5,
-        "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/19/150000"
+        "title": "ibelick/ui-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/ibelick/ui-skills"
+      },
+      {
+        "title": "tirth8205/code-review-graph",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 11,
+        "url": "https://github.com/tirth8205/code-review-graph"
+      },
+      {
+        "title": "rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
       }
     ]
   }

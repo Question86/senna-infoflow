@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T21:10:55+00:00_
+_Generiert: 2026-07-19T21:53:15+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+31 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,10 @@ _Generiert: 2026-07-19T21:10:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone SIX-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001289)
+- **GDACS: Green notification for tropical cyclone FAUSTO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001289)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone SIX-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone FAUSTO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 30 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552752)
   - Quelle: GDACS
   - Zeit: ``
@@ -103,6 +103,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - YELLOW ShakeMap - VII DYFI? - VI Time 2026-07-19 02:24:36 UTC 2026-07-19 02:24:36 UTC at epicenter Location 12.043°S 75.301°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築** — Score 14, observation — [Quelle](https://techfeed.io/entries/6a5be90b3d5307dbb0d5d745)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-19T02:57:42+00:00`, fetched `2026-07-19T21:52:42+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: 【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践** — Score 14, observation — [Quelle](https://zenn.dev/berry_blog/articles/39392e1da7ca71)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-18T08:31:32+00:00`, fetched `2026-07-19T18:07:52+00:00`

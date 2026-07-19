@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-19T21:10:55+00:00_
+_Generated: 2026-07-19T21:53:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-19T21:10:55+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7
 - summary: PAGER - YELLOW ShakeMap - VII DYFI? - VI Time 2026-07-19 02:24:36 UTC 2026-07-19 02:24:36 UTC at epicenter Location 12.043°S 75.301°W Depth 10.00 km (6.21 mi)
 
-### 3. E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践
+### 3. 【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築
+- source: Hatena Bookmark Hotentry IT
+- score: `14`
+- published: `2026-07-19T02:57:42+00:00`
+- url: https://techfeed.io/entries/6a5be90b3d5307dbb0d5d745
+- summary: 【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築
+
+### 4. E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践
 - source: Hatena Bookmark Hotentry IT
 - score: `14`
 - published: `2026-07-18T08:31:32+00:00`
 - url: https://zenn.dev/berry_blog/articles/39392e1da7ca71
 - summary: 私たちのチームでは、品質管理システム（QMS）SaaS「QMSmart」の開発で、約 100 spec / 140 テストケースの E2E テストを、PR ごとに CI で自動実行し、wall-clock 6〜8 分で完走させる運用が回っています。これはユニットテスト（Vitest）の CI とほぼ同じ所要時間です。 本記事では、これを実現するために行った 並列...
-
-### 4. ibelick/ui-skills
-- source: GitHub Trending RSS All Languages Daily
-- score: `14`
-- published: `None`
-- url: https://github.com/ibelick/ui-skills
-- summary: Skills for Design Engineers UI Skills Skills for Design Engineers More on ui-skills.com Run npx ui-skills start to route your agent through the right UI skill set for the task. CLI npx ui-skills npx ui-skills start npx ui-skills categories npx ui-skills list…
 
 ### 5. M 5.5 - 81 km SW of Puerto Madero, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour
