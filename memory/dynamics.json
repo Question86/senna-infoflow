@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-19T05:08:13Z",
+  "generated_at": "2026-07-19T06:10:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 18,
     "bands": {
       "krass": 2,
       "strong": 2,
-      "watch": 4,
-      "quiet": 8
+      "watch": 5,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 4,
-      "quiet": 8
+      "watch": 5,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.13,
+      "age_days": 30.18,
       "topics": [
         "ai"
       ],
@@ -96,7 +96,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.2 for 30.1d old signal",
+        "aging penalty -3.2 for 30.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -106,7 +106,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T03:01:36.657+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:51:14.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -156,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T00:56:40.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -181,7 +181,7 @@
       "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T08:30:17+00:00",
-      "age_days": 2.86,
+      "age_days": 2.9,
       "topics": [
         "ai"
       ],
@@ -203,11 +203,35 @@
       "summary": "2026/7/16に、Developers Summit 2026 Summerで発表した黒田の資料になります。"
     },
     {
+      "title": "M 4.6 - Kuril Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-19T05:19:28.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)"
+    },
+    {
       "title": "M 5.3 - 59 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:35:44.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -231,7 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T00:03:40+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -251,11 +275,35 @@
       "summary": "発端は7月17日未明（米太平洋時間、以下同）に発生したコスト管理ツール「Cost Explorer」のバグだ。単価設定の誤りにより、月30円程度の利用者に25億ドルの見積が届くなど、桁違いの金額が表示された。 高額な見積もりを受け取ったユーザーの中には、アカウントが不正アクセスされた可能性を疑い、リソースを全て削除し..."
     },
     {
+      "title": "POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超えると、社内決裁がほぼ通らない。つまり10億以上かかる企画は競合がほぼ存在しなくなる」",
+      "url": "https://posfie.com/@golden_haniwa/p/ULY4V9s",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-18T20:16:11+00:00",
+      "age_days": 0.41,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "POPOPO @official_popopo 【重要】POPOPOサービス終了のお知らせ 『POPOPO』は、2026年9月17日(木)15:00をもちまして、サービスの提供を終了させていただくこととなりました。 POPOPOが皆さまに愛されるコンテンツとなるよう努力して参りましたが、このようなご報告となりましたことを心よりお詫び申し上げます。 なお、..."
+    },
+    {
       "title": "Xの新UIが自分にも適応された",
       "url": "https://anond.hatelabo.jp/20260718114734",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T02:49:07+00:00",
-      "age_days": 1.1,
+      "age_days": 1.14,
       "topics": [
         "general"
       ],
@@ -279,7 +327,7 @@
       "url": "https://zenn.dev/discus0434/articles/customizable-agent-teams",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T13:13:50+00:00",
-      "age_days": 2.66,
+      "age_days": 2.71,
       "topics": [
         "ai"
       ],
@@ -304,7 +352,7 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -329,7 +377,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.1,
+      "age_days": 29.14,
       "topics": [
         "general"
       ],
@@ -345,7 +393,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -14.3 for 29.1d old signal"
+        "aging penalty -14.4 for 29.1d old signal"
       ],
       "summary": ""
     },
@@ -354,7 +402,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.1,
+      "age_days": 29.14,
       "topics": [
         "general"
       ],
@@ -370,7 +418,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -14.3 for 29.1d old signal"
+        "aging penalty -14.4 for 29.1d old signal"
       ],
       "summary": ""
     },
@@ -379,7 +427,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.1,
+      "age_days": 29.14,
       "topics": [
         "ai"
       ],
@@ -396,7 +444,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -14.3 for 29.1d old signal",
+        "aging penalty -14.4 for 29.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -406,7 +454,7 @@
       "url": "https://togetter.com/li/2722026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T21:22:45+00:00",
-      "age_days": 0.32,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
