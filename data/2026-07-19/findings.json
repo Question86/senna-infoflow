@@ -1,5 +1,42 @@
 [
   {
+    "title": "M 4.8 - 83 km S of Pelabuhanratu, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-19T08:43:01.040+00:00",
+    "fetched_at": "2026-07-19T08:55:36+00:00",
+    "summary": "Time 2026-07-19 08:11:02 UTC 2026-07-19 08:11:02 UTC at epicenter Location 7.739°S 106.446°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "18b70a22fdf38e9372f3"
+  },
+  {
     "title": "M 5.5 - 2 km WSW of Sicaya, Peru",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -382,6 +419,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8f80e3cb3e9066892a92"
+  },
+  {
+    "title": "アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ",
+    "url": "https://gigazine.net/news/20260719-emacs-in-pop-culture/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-19T03:58:12+00:00",
+    "fetched_at": "2026-07-19T08:55:36+00:00",
+    "summary": "Emacsはオリジナルが1976年にリリースされ、50年経った記事作成時点でも脈々と更新が続いている古参かつ現役のテキストエディタです。歴史の長さゆえに根強い愛好者が多く、同じく長い歴史を持つviとの「エディタ戦争」に代表されるミームにも事欠きません。そんなEmacsは映画などのワンシーンを演出するツールとしても...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "319e7b8bd261be68d1e6"
   },
   {
     "title": "AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応",
