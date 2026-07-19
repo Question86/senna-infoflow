@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T12:45:44+00:00",
+  "generated_at": "2026-07-19T13:14:26+00:00",
   "topics": {
     "general": [
       {
@@ -61,18 +61,18 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
       },
       {
+        "title": "穢れた技術選定について",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-17T08:51:01+00:00",
+        "relevance_score": 6,
+        "url": "https://speakerdeck.com/watany/questionable-technical-choices"
+      },
+      {
         "title": "セキュリティの勉強になるサイト138選(2026年版) - Qiita",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-19T05:44:51+00:00",
         "relevance_score": 5,
         "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00"
-      },
-      {
-        "title": "アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-19T03:58:12+00:00",
-        "relevance_score": 5,
-        "url": "https://gigazine.net/news/20260719-emacs-in-pop-culture/"
       }
     ],
     "ai": [

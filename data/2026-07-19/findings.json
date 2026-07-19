@@ -471,6 +471,28 @@
     "id": "5e68a2f9b04a8e3f1a7f"
   },
   {
+    "title": "穢れた技術選定について",
+    "url": "https://speakerdeck.com/watany/questionable-technical-choices",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-17T08:51:01+00:00",
+    "fetched_at": "2026-07-19T13:13:51+00:00",
+    "summary": "Developers Summit 2026 summerで話した内容です。 https://event.shoeisha.jp/devsumi/20260716/session/6900",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "609df86de01856080ccb"
+  },
+  {
     "title": "開発が速く安くなった後の話 AI時代のソフトウェアエンジニアリング組織論 #devsumi",
     "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda",
     "source": "Hatena Bookmark Hotentry IT",

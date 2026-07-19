@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T12:45:44+00:00_
+_Generiert: 2026-07-19T13:14:26+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+23 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
