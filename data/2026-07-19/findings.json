@@ -457,6 +457,27 @@
     "id": "8f80e3cb3e9066892a92"
   },
   {
+    "title": "セキュリティの勉強になるサイト138選(2026年版) - Qiita",
+    "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-19T05:44:51+00:00",
+    "fetched_at": "2026-07-19T11:09:05+00:00",
+    "summary": "セキュリティを独学するときに役立つサイトを、Webアプリ・クラウド・CTF・マルウェア解析・資格まで分野ごとにまとめました。ほとんどが無料で、ブラウザだけ、あるいはDockerで自分のマシンに立てればすぐ試せます。 全部で138本。リンクはすべて2026年7月17日に到達を確認しています。上から順に読む必要はないので、...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "325d400a4fa12cb77c4d"
+  },
+  {
     "title": "アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ",
     "url": "https://gigazine.net/news/20260719-emacs-in-pop-culture/",
     "source": "Hatena Bookmark Hotentry IT",
