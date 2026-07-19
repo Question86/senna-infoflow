@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T23:16:55+00:00",
+  "generated_at": "2026-07-19T23:39:25+00:00",
   "topics": {
     "github": [
       {
@@ -63,6 +63,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
       },
       {
+        "title": "M 4.5 - 77 km NNW of Pārūn, Afghanistan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-19T23:17:48.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1uv"
+      },
+      {
         "title": "M 4.5 - south of the Kermadec Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-19T20:44:08.040+00:00",
@@ -103,13 +110,6 @@
         "published_at": "2026-07-19T02:35:44.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6"
-      },
-      {
-        "title": "M 5.3 - 190 km SSE of Vilyuchinsk, Russia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-19T00:56:40.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
       }
     ],
     "ai": [

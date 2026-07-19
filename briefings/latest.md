@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T23:16:55+00:00_
+_Generiert: 2026-07-19T23:39:25+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „GitHub Release 作成をパッケージリリースのトリガーにするな！“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+34 neue relevante Treffer. Stärkstes Signal: „GitHub Release 作成をパッケージリリースのトリガーにするな！“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -178,6 +178,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. code-review-graph Stop burning tokens. Start reviewing smarter. English | 简体中文 | 日本語 | 한국어 | हिन्दी Usage · Commands · FAQ · Troubleshooting · GitHub Action · Reproducing the benchmarks · Roadmap AI coding too…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.5 - 77 km NNW of Pārūn, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1uv)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-19T23:17:48.040+00:00`, fetched `2026-07-19T23:38:51+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-19 22:58:43 UTC 2026-07-19 22:58:43 UTC at epicenter Location 36.034°N 70.514°E Depth 104.79 km (65.11 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ue)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-19T20:44:08.040+00:00`, fetched `2026-07-19T20:50:38+00:00`
@@ -186,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-19 20:23:42 UTC 2026-07-19 20:23:42 UTC at epicenter Location 32.888°S 178.618°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 46 km NE of Tulsīpur, Nepal** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1s3)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-19T11:12:08.040+00:00`, fetched `2026-07-19T11:35:19+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-19 10:45:30 UTC 2026-07-19 10:45:30 UTC at epicenter Location 28.458°N 82.602°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **欧州の古書店に入る不可解な大量発注─その裏に潜む「AI」の存在 | 本は喰われて、捨てられる…** — Score 9, observation — [Quelle](https://courrier.jp/news/archives/452714/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
