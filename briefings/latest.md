@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T15:08:05+00:00_
+_Generiert: 2026-07-19T15:32:02+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+25 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-07-19T15:08:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).
+- **GDACS: Green notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001290)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone SIX-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001289)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-07-19T15:08:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].
-- **GDACS: Volcanic eruption is on going for Mayon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000144)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Mayon in Philippines
 
 ## Wirtschaft global
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T15:08:07+00:00",
+  "generated_at": "2026-07-19T15:32:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,6 +85,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001290",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone SIX-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone SIX-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -149,16 +159,6 @@
         "summary": "Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552150",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Volcanic eruption is on going for Mayon in Philippines",
-        "summary": "Volcanic eruption is on going for Mayon in Philippines",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000144",
         "published_at": "",
         "metrics": {}
       }

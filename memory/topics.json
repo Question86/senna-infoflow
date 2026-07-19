@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T15:08:05+00:00",
+  "generated_at": "2026-07-19T15:32:02+00:00",
   "topics": {
     "general": [
       {
@@ -131,6 +131,13 @@
         "published_at": "2026-07-16T08:30:17+00:00",
         "relevance_score": 6,
         "url": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda"
+      },
+      {
+        "title": "イスラム教徒の女性が「私たちが祈ってる間、犬の吠え声を止めてください。」と言っているのはAIによる捏造動画だよ - 電脳塵芥",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T08:38:26+00:00",
+        "relevance_score": 5,
+        "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/19/150000"
       },
       {
         "title": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",

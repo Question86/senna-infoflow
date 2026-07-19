@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T15:08:05+00:00",
-  "run_id": "2026-07-19T15:08:05+00:00",
+  "generated_at": "2026-07-19T15:32:02+00:00",
+  "run_id": "2026-07-19T15:32:02+00:00",
   "date": "2026-07-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 1,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 3,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -545,6 +545,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8f80e3cb3e9066892a92"
+      },
+      {
+        "title": "イスラム教徒の女性が「私たちが祈ってる間、犬の吠え声を止めてください。」と言っているのはAIによる捏造動画だよ - 電脳塵芥",
+        "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/19/150000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-19T08:38:26+00:00",
+        "fetched_at": "2026-07-19T15:31:31+00:00",
+        "summary": "https://x.com/Tanakaseiji14/status/2077959039686934896 イスラム教徒の女性による、「祈ってる間に犬の吠え声を止めてください」という動画が拡散していた。簡潔に書くが外国のMAGA系アカウントが作成したAI動画である。 https://archive.md/8I18k 「Olivia@Excellentsalvic」の動画の下部に\"Grok Imagineで作成され...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "250250192f2c90766b9f"
       },
       {
         "title": "セキュリティの勉強になるサイト138選(2026年版) - Qiita",
@@ -1212,6 +1233,27 @@
       "id": "8f80e3cb3e9066892a92"
     },
     {
+      "title": "イスラム教徒の女性が「私たちが祈ってる間、犬の吠え声を止めてください。」と言っているのはAIによる捏造動画だよ - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/19/150000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-19T08:38:26+00:00",
+      "fetched_at": "2026-07-19T15:31:31+00:00",
+      "summary": "https://x.com/Tanakaseiji14/status/2077959039686934896 イスラム教徒の女性による、「祈ってる間に犬の吠え声を止めてください」という動画が拡散していた。簡潔に書くが外国のMAGA系アカウントが作成したAI動画である。 https://archive.md/8I18k 「Olivia@Excellentsalvic」の動画の下部に\"Grok Imagineで作成され...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "250250192f2c90766b9f"
+    },
+    {
       "title": "セキュリティの勉強になるサイト138選(2026年版) - Qiita",
       "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1359,7 +1401,29 @@
       "id": "41d2910c328ed04571b6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "イスラム教徒の女性が「私たちが祈ってる間、犬の吠え声を止めてください。」と言っているのはAIによる捏造動画だよ - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/19/150000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-19T08:38:26+00:00",
+      "fetched_at": "2026-07-19T15:31:31+00:00",
+      "summary": "https://x.com/Tanakaseiji14/status/2077959039686934896 イスラム教徒の女性による、「祈ってる間に犬の吠え声を止めてください」という動画が拡散していた。簡潔に書くが外国のMAGA系アカウントが作成したAI動画である。 https://archive.md/8I18k 「Olivia@Excellentsalvic」の動画の下部に\"Grok Imagineで作成され...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "250250192f2c90766b9f"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
