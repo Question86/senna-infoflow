@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T12:25:15+00:00",
+  "generated_at": "2026-07-19T12:45:46+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2023-4346"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in South Korea",
+        "summary": "Green flood alert in South Korea",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104032",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -149,16 +159,6 @@
         "summary": "Volcanic eruption is on going for Mayon in Philippines",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000144",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552085",
         "published_at": "",
         "metrics": {}
       }
