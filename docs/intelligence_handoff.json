@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-19T20:44:31Z",
+  "generated_at": "2026-07-19T21:06:26Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ibelick/ui-skills” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-19T02:02:11+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.78,
+      "age_days": 30.8,
       "topics": [
         "ai"
       ],
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T08:43:01.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T03:01:36.657+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "disaster"
       ],
@@ -148,7 +148,7 @@
       "url": "https://zenn.dev/berry_blog/articles/39392e1da7ca71",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-18T08:31:32+00:00",
-      "age_days": 1.51,
+      "age_days": 1.52,
       "topics": [
         "general"
       ],
@@ -168,11 +168,36 @@
       "summary": "私たちのチームでは、品質管理システム（QMS）SaaS「QMSmart」の開発で、約 100 spec / 140 テストケースの E2E テストを、PR ごとに CI で自動実行し、wall-clock 6〜8 分で完走させる運用が回っています。これはユニットテスト（Vitest）の CI とほぼ同じ所要時間です。 本記事では、これを実現するために行った 並列..."
     },
     {
+      "title": "M 4.5 - south of the Kermadec Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ue",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-19T20:44:08.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-19 20:23:42 UTC 2026-07-19 20:23:42 UTC at epicenter Location 32.888°S 178.618°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 46 km NE of Tulsīpur, Nepal",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1s3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T11:12:08.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -197,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T10:42:08.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -222,7 +247,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T02:51:14.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -247,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T00:56:40.040+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "disaster"
       ],
@@ -272,7 +297,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-19T18:06:41.606+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -290,29 +315,6 @@
         "early terms: earthquake"
       ],
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-19 17:45:16 UTC 2026-07-19 17:45:16 UTC at epicenter Location 14.159°N 92.905°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "穢れた技術選定について",
-      "url": "https://speakerdeck.com/watany/questionable-technical-choices",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-17T08:51:01+00:00",
-      "age_days": 2.5,
-      "topics": [],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Developers Summit 2026 summerで話した内容です。 https://event.shoeisha.jp/devsumi/20260716/session/6900"
     }
   ],
   "read_order": [
