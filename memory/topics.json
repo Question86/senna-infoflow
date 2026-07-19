@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T00:46:48+00:00",
+  "generated_at": "2026-07-19T01:17:18+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,22 @@
         "published_at": "2026-07-18T21:22:45+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2722026"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 5.3 - 190 km SSE of Vilyuchinsk, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-19T00:56:40.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
+      },
+      {
+        "title": "AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T00:03:40+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html"
       }
     ]
   }
