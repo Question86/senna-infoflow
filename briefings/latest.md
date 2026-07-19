@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T15:53:58+00:00_
+_Generiert: 2026-07-19T16:15:26+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+26 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 83 km S of Pelabuhanratu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -169,6 +169,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-19 04:58:25 UTC 2026-07-19 04:58:25 UTC at epicenter Location 47.570°N 152.554°E Depth 112.89 km (70.14 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **欧州の古書店に入る不可解な大量発注─その裏に潜む「AI」の存在 | 本は喰われて、捨てられる…** — Score 9, observation — [Quelle](https://courrier.jp/news/archives/452714/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-19T03:34:57+00:00`, fetched `2026-07-19T16:14:57+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「古書の買い占めだ」──カナダ企業による不可解な中古本取引について、スイスの放送局「RTS」はそう断言している。 RTSは、スペインメディア「エル・ディアリオ」とドイツ紙「ターゲスツァイトゥング（TAZ）」の調査を掘り下げ、「中古書籍が買い取られ、デジタル化された後、人工知能（AI）の言語モデルを学習させるた...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **rohitg00/ai-engineering-from-scratch** — Score 9, observation — [Quelle](https://github.com/rohitg00/ai-engineering-from-scratch)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-19T02:02:11+00:00`
@@ -177,15 +186,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Learn it. Build it. Ship it for others. From the creator of Agent Memory - #1 Persistent memory ⭐ which naturally works with any agents or chat assistants. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ 84% of students already use AI tools. Only 18% feel prepared to use them professionally. This curriculum closes that gap. 503 lessons. 20 phases. ~320 hours. Python, TypeSc…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI駆動開発時代の品質保証** — Score 8, observation — [Quelle](https://speakerdeck.com/naonana777/aiqu-dong-kai-fa-shi-dai-pin-zhi-bao-zheng?slide=33)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-18T02:15:06+00:00`, fetched `2026-07-19T07:18:11+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: KAG AI WEEK ummer Day4 ~KDDI DIGIAL GAEゲスト会！~ AI駆動開発時代品質保証 山本 直弥（Nao）/ 上田 瀟逸 (ハリネズミ) 2026年7月16日 (木)
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

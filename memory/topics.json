@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-19T15:53:58+00:00",
+  "generated_at": "2026-07-19T16:15:26+00:00",
   "topics": {
     "general": [
       {
@@ -105,6 +105,13 @@
         "url": "https://github.com/tirth8205/code-review-graph"
       },
       {
+        "title": "欧州の古書店に入る不可解な大量発注─その裏に潜む「AI」の存在 | 本は喰われて、捨てられる…",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T03:34:57+00:00",
+        "relevance_score": 9,
+        "url": "https://courrier.jp/news/archives/452714/"
+      },
+      {
         "title": "rohitg00/ai-engineering-from-scratch",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -138,13 +145,6 @@
         "published_at": "2026-07-19T08:38:26+00:00",
         "relevance_score": 5,
         "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/19/150000"
-      },
-      {
-        "title": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-18T21:22:45+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2722026"
       }
     ],
     "github": [
