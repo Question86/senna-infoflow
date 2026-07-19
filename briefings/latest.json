@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T13:14:26+00:00",
-  "run_id": "2026-07-19T13:14:26+00:00",
+  "generated_at": "2026-07-19T13:51:01+00:00",
+  "run_id": "2026-07-19T13:51:01+00:00",
   "date": "2026-07-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 3,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -566,6 +566,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "325d400a4fa12cb77c4d"
+      },
+      {
+        "title": "ルールを書いて終わらせないハーネスエンジニアリング",
+        "url": "https://speakerdeck.com/yug1224/2026-07-18",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-19T03:59:01+00:00",
+        "fetched_at": "2026-07-19T13:50:29+00:00",
+        "summary": "Mujeres en SEO Summit 2026 - Greatest Disaster Hits en Web Performance",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f031fae62a68b699aec4"
       },
       {
         "title": "アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ",
@@ -1212,6 +1233,27 @@
       "id": "325d400a4fa12cb77c4d"
     },
     {
+      "title": "ルールを書いて終わらせないハーネスエンジニアリング",
+      "url": "https://speakerdeck.com/yug1224/2026-07-18",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-19T03:59:01+00:00",
+      "fetched_at": "2026-07-19T13:50:29+00:00",
+      "summary": "Mujeres en SEO Summit 2026 - Greatest Disaster Hits en Web Performance",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f031fae62a68b699aec4"
+    },
+    {
       "title": "アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ",
       "url": "https://gigazine.net/news/20260719-emacs-in-pop-culture/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1319,26 +1361,25 @@
   ],
   "new_findings": [
     {
-      "title": "穢れた技術選定について",
-      "url": "https://speakerdeck.com/watany/questionable-technical-choices",
+      "title": "ルールを書いて終わらせないハーネスエンジニアリング",
+      "url": "https://speakerdeck.com/yug1224/2026-07-18",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-17T08:51:01+00:00",
-      "fetched_at": "2026-07-19T13:13:51+00:00",
-      "summary": "Developers Summit 2026 summerで話した内容です。 https://event.shoeisha.jp/devsumi/20260716/session/6900",
+      "published_at": "2026-07-19T03:59:01+00:00",
+      "fetched_at": "2026-07-19T13:50:29+00:00",
+      "summary": "Mujeres en SEO Summit 2026 - Greatest Disaster Hits en Web Performance",
       "matched_keywords": [
-        "developer",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "609df86de01856080ccb"
+      "id": "f031fae62a68b699aec4"
     }
   ],
   "source_errors": [],
