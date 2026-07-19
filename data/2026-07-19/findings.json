@@ -1,0 +1,46 @@
+[
+  {
+    "title": "役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計",
+    "url": "https://zenn.dev/discus0434/articles/customizable-agent-teams",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-16T13:13:50+00:00",
+    "fetched_at": "2026-07-19T00:46:18+00:00",
+    "summary": "はじめに こんにちは。 ここ2週間ほどで、コーディングに使えるモデルが一気に増えました。 Anthropic からは Fable 5 が出て、GPT-5.6 は Sol、Terra、Luna の3段構えで登場し、しかもティアごとに reasoning effort の設定まで付いています。 どれを使えばいいのか、Fable と Sol はどちらが強いのか、という比較記事...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b718cb63a342322420e4"
+  },
+  {
+    "title": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
+    "url": "https://togetter.com/li/2722026",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-18T21:22:45+00:00",
+    "fetched_at": "2026-07-19T00:46:18+00:00",
+    "summary": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "21aa07f7bb53a8e703cf"
+  }
+]

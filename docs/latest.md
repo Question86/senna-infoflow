@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-18T23:59:00+00:00_
+_Generiert: 2026-07-19T00:46:48+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog“ aus Hatena Bookmark Hotentry IT (Score 19, risk).
+2 neue relevante Treffer. Stärkstes Signal: „役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計“ aus Hatena Bookmark Hotentry IT (Score 12, observation).
 
 ## Priorität Hoch
 
@@ -12,158 +12,32 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog** — Score 19, risk — [Quelle](https://blog.flatt.tech/entry/wp2shell_wordpress)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-18T13:03:36+00:00`, fetched `2026-07-18T14:04:21+00:00`
-  - Treffer: Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation, Webentwicklung
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+7.5); Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: 2026年7月17日、認証不要でリモートからの任意コード実行（RCE）につながる脆弱性「CVE-2026-63030」「CVE-2026-60137」を修正したWordPress 6.8.6、6.9.5、および 7.0.2 が公開されました（参考：WordPress 7.0.2 Release）。 弊社 GMO Flatt Security リサーチチームの検証では、脆弱なバージョンでは標準構成でも、管...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **SQL MCP Server が GA したらしい** — Score 18, observation — [Quelle](https://zenn.dev/microsoft/articles/1113250e1e63dc)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-17T05:49:42+00:00`, fetched `2026-07-18T00:05:25+00:00`
-  - Treffer: AI Agents, AI/KI, Hatena, hotentry, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: 実際の使用では、Azure Container Apps にデプロイして使用する想定と思いますが、DAB コマンド ラインを使用してローカルで実行することもできます。ちょっと触ってみたいだけなので、今回はこのローカル実行で動きを確認しました。なので、RBAC の辺りなどは未確認です。 ツールの公開はコントロール可能 デフォルトで...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 208 km SW of Bandar Lampung, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T08:37:35.040+00:00`, fetched `2026-07-18T09:09:05+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-18 08:21:42 UTC 2026-07-18 08:21:42 UTC at epicenter Location 6.603°S 103.788°E Depth 23.73 km (14.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - 119 km SW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T02:45:17.977+00:00`, fetched `2026-07-18T03:14:11+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-07-18 02:23:40 UTC 2026-07-18 02:23:40 UTC at epicenter Location 4.506°N 124.857°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Playwright on GitHub Actions: The setup that actually runs fast** — Score 14, observation — [Quelle](https://endform.dev/blog/playwright-github-actions)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-17T23:52:15+00:00`, fetched `2026-07-18T11:32:11+00:00`
-  - Treffer: GitHub, GitHub Actions, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: Treat the table as a starting point rather than a prescription. Begin at 50%, look at the actual wall-clock time on your suite, and raise the value in steps until the run stops getting faster or the tests start going flaky. There is no single correct number, because it depends on your core count,...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **M 5.5 - Scotia Sea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T20:13:55.400+00:00`, fetched `2026-07-18T20:15:02+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-18 19:50:37 UTC 2026-07-18 19:50:37 UTC at epicenter Location 60.707°S 51.056°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.7 - 72 km SW of Puerto Madero, Mexico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T17:54:01.418+00:00`, fetched `2026-07-18T17:56:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-07-18 17:26:25 UTC 2026-07-18 17:26:25 UTC at epicenter Location 14.239°N 92.881°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI時代の開発生産性は、個人技からチーム設計へ** — Score 13, opportunity — [Quelle](https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he)
+- **役割ごとにFableとGPT-5.6を使い分けるAgent Teamの設計** — Score 12, observation — [Quelle](https://zenn.dev/discus0434/articles/customizable-agent-teams)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-17T12:22:28+00:00`, fetched `2026-07-18T21:33:08+00:00`
-  - Treffer: developer, Hatena, hotentry, Markets/Capital Structure
+  - Zeit: published `2026-07-16T13:13:50+00:00`, fetched `2026-07-19T00:46:18+00:00`
+  - Treffer: agent, Hatena, hotentry, OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Markets/Capital Structure (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
-  - Kurz: Developers Summit 2026 Summer・IT Strategy Summit 2026での発表資料です。 https://event.shoeisha.jp/devsumi/20260716
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **github/copilot-sdk** — Score 13, opportunity — [Quelle](https://github.com/github/copilot-sdk)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-18T02:06:25+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services GitHub Copilot CLI SDKs Agents for every app. Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, TypeScript, Go, .NET, Java, and Rust. The GitHub Copilot SDK exposes the same engine behind Copilot CLI: a production-tested agent runtime you can invoke programmatically. No need to build your own or…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **codecrafters-io/build-your-own-x** — Score 13, observation — [Quelle](https://github.com/codecrafters-io/build-your-own-x)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-18T02:06:25+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
-  - Kurz: Master programming by recreating your favorite technologies from scratch. Build your own <insert-technology-here> This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot create, I do not understand — Richard Feynman. It's a great way to learn. 3D Renderer AI Model Augmented Reality BitTorrent Client Blockchain / Cryptocurrency Bot Co…
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5)
+  - Kurz: はじめに こんにちは。 ここ2週間ほどで、コーディングに使えるモデルが一気に増えました。 Anthropic からは Fable 5 が出て、GPT-5.6 は Sol、Terra、Luna の3段構えで登場し、しかもティアごとに reasoning effort の設定まで付いています。 どれを使えばいいのか、Fable と Sol はどちらが強いのか、という比較記事...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **anthropics/cwc-workshops** — Score 13, observation — [Quelle](https://github.com/anthropics/cwc-workshops)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-18T02:06:25+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: cwc-workshops Workshop materials. Not maintained and not accepting contributions. Materials from Anthropic-run Code with Claude workshops. Workshops rightmodel/ — Picking the Right Model : use a Claude Code SKILL to audit an LLM eval suite and sweep it across models and inference parameters (extended thinking, effort) to find the best quality-per-dollar and quality-per-second configuration. agent-decomposition/ — Co…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も** — Score 12, risk — [Quelle](https://gazlog.jp/entry/lg-gaming-ads-install/)
+- **「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう** — Score 5, observation — [Quelle](https://togetter.com/li/2722026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-18T03:26:24+00:00`, fetched `2026-07-18T08:32:32+00:00`
-  - Treffer: Hatena, hotentry, Reputationsrisiko
+  - Zeit: published `2026-07-18T21:22:45+00:00`, fetched `2026-07-19T00:46:18+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘** — Score 12, observation — [Quelle](https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-17T12:21:56+00:00`, fetched `2026-07-18T03:14:11+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 OpenAI's new flagship model deletes files on its own, people keep warning | TechCrunch https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-peop...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]** — Score 11, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-271984-1032_bits.html)
-  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
-  - Zeit: published `2026-07-18T20:00:00+00:00`, fetched `2026-07-18T20:54:10+00:00`
-  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)
-  - Kurz: Version 1.0: [WordPress] - [Wordpress]: [Schwachstellen erlauben Remote Code Execution- PoC verfügbar]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API** — Score 11, observation — [Quelle](https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-18T05:19:00.000+00:00`, fetched `2026-07-18T05:55:06+00:00`
-  - Treffer: Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
-  - Kurz: Durch Verkettung einer SQL-Injection- und einer API-Lücke können Angreifer Code einschleusen. WordPress hat ein Update veröffentlicht, die Finder einen Hotfix.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 149 km S of George Town, Cayman Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-18T16:26:12.040+00:00`, fetched `2026-07-18T16:26:12+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-18 16:08:44 UTC 2026-07-18 16:08:44 UTC at epicenter Location 17.944°N 81.543°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
