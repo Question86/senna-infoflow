@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-19T18:08:26+00:00_
+_Generiert: 2026-07-19T18:32:00+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-07-19T18:08:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:35km) in Mexico 19/07/2026 17:45 UTC, 440 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552874)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:35km) in Mexico 19/07/2026 17:45 UTC, 440 thousand in MMI IV.
 - **GDACS: Green notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001290)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-07-19T18:08:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:76.397km) in New Zealand 16/07/2026 09:14 UTC, 130 thousand in MMI&gt;=IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552150)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].
 
 ## Wirtschaft global
 
