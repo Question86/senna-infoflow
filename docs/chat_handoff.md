@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-19T11:09:35+00:00_
+_Generated: 2026-07-19T11:35:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-07-19T11:09:35+00:00_
 - url: https://github.com/tirth8205/code-review-graph
 - summary: Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. code-review-graph Stop burning tokens. Start revi…
 
-### 7. M 4.6 - 91 km ESE of Hihifo, Tonga
+### 7. M 4.5 - 46 km NE of Tulsīpur, Nepal
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-07-19T10:42:08.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rx
-- summary: Time 2026-07-19 09:48:03 UTC 2026-07-19 09:48:03 UTC at epicenter Location 16.345°S 173.038°W Depth 10.00 km (6.21 mi)
+- published: `2026-07-19T11:12:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1s3
+- summary: Time 2026-07-19 10:45:30 UTC 2026-07-19 10:45:30 UTC at epicenter Location 28.458°N 82.602°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
