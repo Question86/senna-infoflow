@@ -394,6 +394,75 @@
     "id": "b3050bc6b4e0b21bc0df"
   },
   {
+    "title": "[UPDATE] [mittel] systemd-coredump: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1204",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:32:53+00:00",
+    "fetched_at": "2026-07-20T12:17:16+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in systemd ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "76ecf9d0f0bb87cb3b4b"
+  },
+  {
+    "title": "[UPDATE] [mittel] libTIFF: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0219",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:32:53+00:00",
+    "fetched_at": "2026-07-20T12:17:16+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libTIFF ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36e835baae61bc53fff7"
+  },
+  {
+    "title": "[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2122",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:27:55+00:00",
+    "fetched_at": "2026-07-20T12:17:16+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libTIFF ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5fde3b62d379eb613206"
+  },
+  {
     "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2411",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1254,6 +1323,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "25d24d18b92f7f4f6e6f"
+  },
+  {
+    "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+    "url": "https://zenn.dev/uhyo/articles/async-react-action-queue",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T05:52:33+00:00",
+    "fetched_at": "2026-07-20T12:17:16+00:00",
+    "summary": "useActionStateは、React 19で導入された新しいフックです。 その挙動を見ると、非同期版useReducerと言えるような挙動をします。 ただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そのゴールは「良いUX」であるように思います...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "10f6864f7fc77c99ea90"
   },
   {
     "title": "Beyond the code: How Vietnam evolved from an execution hub to a product powerhouse",

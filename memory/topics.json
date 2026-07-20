@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T11:28:13+00:00",
+  "generated_at": "2026-07-20T12:17:50+00:00",
   "topics": {
     "ai": [
       {
@@ -163,32 +163,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985"
       },
       {
+        "title": "[UPDATE] [mittel] systemd-coredump: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T11:32:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1204"
+      },
+      {
+        "title": "[UPDATE] [mittel] libTIFF: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T11:32:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0219"
+      },
+      {
+        "title": "[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T11:27:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2122"
+      },
+      {
         "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-20T11:12:54+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2411"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat OpenShift Pipelines Operator (Fulcio): Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-20T10:52:58+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0199"
-      },
-      {
-        "title": "[UPDATE] [mittel] Apache HTTP Server: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-20T10:12:54+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0801"
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-20T10:12:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1529"
       }
     ],
     "geopolitics": [
@@ -247,6 +247,13 @@
         "published_at": "2026-07-20T02:55:16+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/"
+      },
+      {
+        "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T05:52:33+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/uhyo/articles/async-react-action-queue"
       }
     ],
     "general": [
