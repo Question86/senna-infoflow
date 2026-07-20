@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-20T12:57:07Z",
+  "generated_at": "2026-07-20T13:36:35Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2122",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T11:27:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1504",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:08:09+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1354",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:08:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -116,11 +116,39 @@
       "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and…"
     },
     {
+      "title": "Google Search Console APIを使ってSEO改善を自動化する",
+      "url": "https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-19T19:43:02+00:00",
+      "age_days": 0.75,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "はじめに Futuristic Imagination LLC 代表の佐藤です。AI技術を実事業に注ぎ込み、圧倒的な開発・検証スピードと**徹底した自動化・省力化（仕組み化）**を武器に日々プロダクト開発に励んでいます。自社ではAIオウンドメディアを11サイト運営しており、Next.jsとGemini API、Vercel Cronを組み合わせることで、毎日記..."
+    },
+    {
       "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-20T07:03:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security"
@@ -149,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2416",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:07:56+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -175,7 +203,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0899",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T09:22:55+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -201,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0199",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:52:58+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security",
         "infra"
@@ -228,7 +256,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1268",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:53:02+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -253,7 +281,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0306",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:52:59+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -278,7 +306,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0207",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:52:59+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -297,31 +325,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-20T09:22:57+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen."
     }
   ],
   "read_order": [
