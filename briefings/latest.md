@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T13:42:49+00:00_
+_Generiert: 2026-07-20T14:33:07+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,10 @@ _Generiert: 2026-07-20T13:42:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone FAUSTO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 30 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552752)
+- **GDACS: Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 320 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552752)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 30 thousand (in MMI&gt;=VII).
+  - Kurz: Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 320 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552700)
   - Quelle: GDACS
   - Zeit: ``

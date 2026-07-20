@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T13:42:49+00:00",
-  "run_id": "2026-07-20T13:42:49+00:00",
+  "generated_at": "2026-07-20T14:33:07+00:00",
+  "run_id": "2026-07-20T14:33:07+00:00",
   "date": "2026-07-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 62,
     "displayed_findings": 62,
     "high": 0,
@@ -3225,87 +3225,7 @@
       "id": "07006af62cb3feea4b76"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-07-20T14:40:21+00:00",
-      "fetched_at": "2026-07-20T13:42:20+00:00",
-      "summary": "Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d8b5724e2fca139fdea9"
-    },
-    {
-      "title": "M 4.8 - 51 km NNE of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1xp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-20T13:10:38.040+00:00",
-      "fetched_at": "2026-07-20T13:42:20+00:00",
-      "summary": "Time 2026-07-20 12:53:50 UTC 2026-07-20 12:53:50 UTC at epicenter Location 14.635°S 167.300°E Depth 172.26 km (107.04 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5a67cd71fa983dd70ccb"
-    },
-    {
-      "title": "GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-20T13:01:24+00:00",
-      "fetched_at": "2026-07-20T13:42:20+00:00",
-      "summary": "GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. It solves an emerging challenge for software development: AI accelerates code output, and Code Quality helps… The post GitHub Code Quality is now generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9cb326c4df8bfc447b38"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
