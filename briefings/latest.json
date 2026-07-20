@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:20:09+00:00",
-  "run_id": "2026-07-20T15:20:09+00:00",
+  "generated_at": "2026-07-20T16:00:46+00:00",
+  "run_id": "2026-07-20T16:00:46+00:00",
   "date": "2026-07-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 1,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 0,
     "medium": 27,
-    "observe": 35,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -791,6 +791,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "11d73b4c909fa6104879"
+      },
+      {
+        "title": "$100 million for open source: A milestone built by the community",
+        "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-20T16:00:00+00:00",
+        "fetched_at": "2026-07-20T16:00:10+00:00",
+        "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source",
+          "Public Health"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Open Source (+3.8); Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3fc96443a326e1fc359a"
       },
       {
         "title": "Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -2391,6 +2413,28 @@
       "id": "11d73b4c909fa6104879"
     },
     {
+      "title": "$100 million for open source: A milestone built by the community",
+      "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-20T16:00:00+00:00",
+      "fetched_at": "2026-07-20T16:00:10+00:00",
+      "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source",
+        "Public Health"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Open Source (+3.8); Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3fc96443a326e1fc359a"
+    },
+    {
       "title": "Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -3225,7 +3269,30 @@
       "id": "07006af62cb3feea4b76"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "$100 million for open source: A milestone built by the community",
+      "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-20T16:00:00+00:00",
+      "fetched_at": "2026-07-20T16:00:10+00:00",
+      "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source",
+        "Public Health"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Open Source (+3.8); Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3fc96443a326e1fc359a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

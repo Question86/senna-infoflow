@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T15:20:09+00:00",
+  "generated_at": "2026-07-20T16:00:46+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/"
       },
       {
+        "title": "$100 million for open source: A milestone built by the community",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-20T16:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/"
+      },
+      {
         "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-20T03:50:50+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/"
-      },
-      {
-        "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T02:15:18+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
       }
     ],
     "github": [
@@ -82,6 +82,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      {
+        "title": "$100 million for open source: A milestone built by the community",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-20T16:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/"
       },
       {
         "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",

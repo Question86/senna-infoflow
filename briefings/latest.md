@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T15:20:09+00:00_
+_Generiert: 2026-07-20T16:00:46+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+63 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -214,6 +214,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Dubai has put a deadline on autonomous AI. The companies that treat it as a compliance project will end up with a more efficient version of the business they already have. The ones that change the game will end up with a different business. The mandate is real, and it has a clock on it. […] The post 2 years to agentic: Will you comply, or will you grow? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **$100 million for open source: A milestone built by the community** — Score 12, opportunity — [Quelle](https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-07-20T16:00:00+00:00`, fetched `2026-07-20T16:00:10+00:00`
+  - Treffer: GitHub, Open Source, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.8); Public Health (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-07-20T14:40:21+00:00`, fetched `2026-07-20T13:42:20+00:00`
@@ -330,15 +339,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Survey on the Access to Finance of Enterprises: lending conditions tightened
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **„HollowByte“: Denial-of-Service-Lücke in OpenSSL** — Score 7, observation — [Quelle](https://www.heise.de/news/HollowByte-Denial-of-Service-Luecke-in-OpenSSL-11370866.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-20T11:17:00.000+00:00`, fetched `2026-07-20T11:27:42+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die OpenSSL-Maintainer haben stillschweigend eine Denial-of-Service-Lücke geschlossen. Okta nennt sie „HollowByte“.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
