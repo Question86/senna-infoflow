@@ -1430,6 +1430,28 @@
     "id": "050586ee62bb578989b9"
   },
   {
+    "title": "解説「照らす技術」をRubyで照らす #kanrk09 - Harukasan-dot-dev",
+    "url": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T15:28:45+00:00",
+    "fetched_at": "2026-07-20T20:24:00+00:00",
+    "summary": "解説「照らす技術」をRubyで照らす #kanrk092026年7月20日 7月18日(土)に大津市伝統芸能会館で開催された関西Ruby会議09にて、「『照らす技術』をRubyで照らす」という題で登壇させていただきました。今回の発表はデモが多く、スライドもアニメーションを多用しておりそのまま公開するのが難しいです。また、発表中にふ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "technology"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "68dfd0d675f789902452"
+  },
+  {
     "title": "„HollowByte“: Denial-of-Service-Lücke in OpenSSL",
     "url": "https://www.heise.de/news/HollowByte-Denial-of-Service-Luecke-in-OpenSSL-11370866.html",
     "source": "heise Security Alerts",

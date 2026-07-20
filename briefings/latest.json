@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T19:53:02+00:00",
-  "run_id": "2026-07-20T19:53:02+00:00",
+  "generated_at": "2026-07-20T20:24:29+00:00",
+  "run_id": "2026-07-20T20:24:29+00:00",
   "date": "2026-07-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 70
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 29,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1460,6 +1460,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "050586ee62bb578989b9"
+      },
+      {
+        "title": "解説「照らす技術」をRubyで照らす #kanrk09 - Harukasan-dot-dev",
+        "url": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-20T15:28:45+00:00",
+        "fetched_at": "2026-07-20T20:24:00+00:00",
+        "summary": "解説「照らす技術」をRubyで照らす #kanrk092026年7月20日 7月18日(土)に大津市伝統芸能会館で開催された関西Ruby会議09にて、「『照らす技術』をRubyで照らす」という題で登壇させていただきました。今回の発表はデモが多く、スライドもアニメーションを多用しておりそのまま公開するのが難しいです。また、発表中にふ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "technology"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "68dfd0d675f789902452"
       },
       {
         "title": "„HollowByte“: Denial-of-Service-Lücke in OpenSSL",
@@ -3249,6 +3271,28 @@
       "id": "050586ee62bb578989b9"
     },
     {
+      "title": "解説「照らす技術」をRubyで照らす #kanrk09 - Harukasan-dot-dev",
+      "url": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T15:28:45+00:00",
+      "fetched_at": "2026-07-20T20:24:00+00:00",
+      "summary": "解説「照らす技術」をRubyで照らす #kanrk092026年7月20日 7月18日(土)に大津市伝統芸能会館で開催された関西Ruby会議09にて、「『照らす技術』をRubyで照らす」という題で登壇させていただきました。今回の発表はデモが多く、スライドもアニメーションを多用しておりそのまま公開するのが難しいです。また、発表中にふ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "technology"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "68dfd0d675f789902452"
+    },
+    {
       "title": "„HollowByte“: Denial-of-Service-Lücke in OpenSSL",
       "url": "https://www.heise.de/news/HollowByte-Denial-of-Service-Luecke-in-OpenSSL-11370866.html",
       "source": "heise Security Alerts",
@@ -3605,40 +3649,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 193 km ENE of Saipan, Northern Mariana Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20d",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "解説「照らす技術」をRubyで照らす #kanrk09 - Harukasan-dot-dev",
+      "url": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-20T19:36:28.040+00:00",
-      "fetched_at": "2026-07-20T19:52:32+00:00",
-      "summary": "Time 2026-07-20 19:14:04 UTC 2026-07-20 19:14:04 UTC at epicenter Location 15.847°N 147.439°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-20T15:28:45+00:00",
+      "fetched_at": "2026-07-20T20:24:00+00:00",
+      "summary": "解説「照らす技術」をRubyで照らす #kanrk092026年7月20日 7月18日(土)に大津市伝統芸能会館で開催された関西Ruby会議09にて、「『照らす技術』をRubyで照らす」という題で登壇させていただきました。今回の発表はデモが多く、スライドもアニメーションを多用しておりそのまま公開するのが難しいです。また、発表中にふ...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry",
+        "technology"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6609c8bc00f78fb2c867"
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "68dfd0d675f789902452"
     }
   ],
   "source_errors": [],
