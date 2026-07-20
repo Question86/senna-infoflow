@@ -1,8 +1,110 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T01:29:46+00:00",
+  "generated_at": "2026-07-20T03:37:26+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "KnockOutEZ/wigolo",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      {
+        "title": "2 years to agentic: Will you comply, or will you grow?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T01:20:05+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/"
+      },
+      {
+        "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:15:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
+      },
+      {
+        "title": "AIエージェントに仕様書なしで実装させると何が起きるか — O'Reillyが説く「適切な仕様量」の見極め方",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T02:31:28+00:00",
+        "relevance_score": 12,
+        "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b"
+      },
+      {
+        "title": "The job you’re studying for might not exist: Here’s what still will",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T01:00:04+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/"
+      },
+      {
+        "title": "kvcache-ai/ktransformers",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/kvcache-ai/ktransformers"
+      },
+      {
+        "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T03:00:05+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/"
+      },
+      {
+        "title": "The psychology of believing AI: Certainty vs truth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:45:01+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-psychology-of-believing-ai-certainty-vs-truth-20260719/"
+      },
+      {
+        "title": "From tools to partners: The Socratic dream of two butterflies",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:00:56+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/from-tools-to-partners-the-socratic-dream-of-two-butterflies-20260718/"
+      },
+      {
+        "title": "Beyond the code: How Vietnam evolved from an execution hub to a product powerhouse",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:30:51+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/beyond-the-code-how-vietnam-evolved-from-an-execution-hub-to-a-product-powerhouse-20260719/"
+      }
+    ],
+    "github": [
+      {
+        "title": "KnockOutEZ/wigolo",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      {
+        "title": "kvcache-ai/ktransformers",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/kvcache-ai/ktransformers"
+      },
+      {
+        "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T11:46:19+00:00",
+        "relevance_score": 7,
+        "url": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a"
+      },
+      {
+        "title": "andrewrabert/jellium-desktop",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/andrewrabert/jellium-desktop"
+      }
+    ],
     "general": [
       {
         "title": "M 4.7 - 173 km W of Fakfak, Indonesia",
@@ -19,6 +121,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2"
       },
       {
+        "title": "「仕事を辞めるとボケる」は本当なのか？ ベトナム高齢者2000人超を早大などが分析",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T23:16:01+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html"
+      },
+      {
         "title": "「アルゴリズム」が大っ嫌い？ ならRSSを使いなさいよ » p2ptk[.]org",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-19T19:43:13+00:00",
@@ -26,36 +135,43 @@
         "url": "https://p2ptk.org/digital-rights/5632"
       }
     ],
-    "ai": [
-      {
-        "title": "2 years to agentic: Will you comply, or will you grow?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T01:20:05+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/"
-      },
-      {
-        "title": "AIエージェントに仕様書なしで実装させると何が起きるか — O'Reillyが説く「適切な仕様量」の見極め方",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-19T02:31:28+00:00",
-        "relevance_score": 12,
-        "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b"
-      },
-      {
-        "title": "The job you’re studying for might not exist: Here’s what still will",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T01:00:04+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/"
-      }
-    ],
     "economy": [
+      {
+        "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:15:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
+      },
+      {
+        "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:55:16+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/"
+      },
       {
         "title": "The extinction events in product evolution",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-20T01:15:57+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/the-extinction-events-in-product-evolution-20260716/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:15:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
+      },
+      {
+        "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:55:16+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/"
       }
     ]
   }
