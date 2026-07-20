@@ -49,6 +49,50 @@
     "id": "c99dd60e24fe75a96d25"
   },
   {
+    "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
+    "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-20T05:04:13+00:00",
+    "fetched_at": "2026-07-20T05:57:29+00:00",
+    "summary": "Artificial intelligence is no longer a distant promise for Southeast Asia; it is the single most consequential bet being made across the region’s venture capital landscape. In 2025, AI startup investment in Vietnam alone surged 13-fold to US$130 million, while Singapore continued to serve as the region’s capital allocator, with Temasek deploying US$34 billion globally […] The post Inside SEA’s AI gold rush: The 20 i…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "22faa07fae8a6ef7e1eb"
+  },
+  {
     "title": "M 4.7 - 173 km W of Fakfak, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -435,6 +479,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "07c7457cc70eb210c879"
+  },
+  {
+    "title": "「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ",
+    "url": "https://posfie.com/@lenchroot/p/AVSFamQ",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-19T17:31:48+00:00",
+    "fetched_at": "2026-07-20T05:57:29+00:00",
+    "summary": "https://lp.bookbase.jp/bosyu/xEPKRwYv 第２回ダンガン文庫大賞 (抜粋) 注意事項 ・公序良俗に反しないこと ・明確なR18描写が描かれていないこと ・未発表作品であること（すでにWeb等に掲載済みの作品はNG） ・企画や文章の作成において、生成AIの利用を禁止いたします。使用が発覚した場合には、いかなる理由であろ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a4eb2ea2256736bf30fa"
   },
   {
     "title": "andrewrabert/jellium-desktop",
