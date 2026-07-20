@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T07:10:06+00:00",
+  "generated_at": "2026-07-20T08:16:36+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,20 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      {
+        "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T04:05:10+00:00",
+        "relevance_score": 16,
+        "url": "https://forbesjapan.com/articles/detail/101067"
+      },
+      {
+        "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T08:10:40+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/"
       },
       {
         "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
@@ -59,20 +73,6 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/kvcache-ai/ktransformers"
-      },
-      {
-        "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T03:00:05+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/"
-      },
-      {
-        "title": "The psychology of believing AI: Certainty vs truth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T02:45:01+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-psychology-of-believing-ai-certainty-vs-truth-20260719/"
       }
     ],
     "github": [
@@ -200,6 +200,13 @@
         "published_at": "2026-07-20T02:15:18+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
+      },
+      {
+        "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-20T08:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html"
       },
       {
         "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",

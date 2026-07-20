@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-20T07:10:06+00:00",
-  "run_id": "2026-07-20T07:10:06+00:00",
+  "generated_at": "2026-07-20T08:16:36+00:00",
+  "run_id": "2026-07-20T08:16:36+00:00",
   "date": "2026-07-20",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
-    "medium": 4,
-    "observe": 21,
-    "source_errors": 1
+    "medium": 6,
+    "observe": 22,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -77,6 +77,50 @@
           "PINS"
         ],
         "id": "c99dd60e24fe75a96d25"
+      },
+      {
+        "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+        "url": "https://forbesjapan.com/articles/detail/101067",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-20T04:05:10+00:00",
+        "fetched_at": "2026-07-20T08:16:04+00:00",
+        "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア...",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e1920e41406782d2784b"
+      },
+      {
+        "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
+        "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-20T08:10:40+00:00",
+        "fetched_at": "2026-07-20T08:16:04+00:00",
+        "summary": "Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million and represented a 2.51 per cent stake in the company. The clarification comes after media scrutiny of eFishery, once one […] The post Malaysian pension fund KWA…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Malaysia (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ce9453bb1491248a67c8"
       },
       {
         "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
@@ -387,6 +431,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "79dc16eaf159aeb91197"
+      },
+      {
+        "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-20T08:00:00+00:00",
+        "fetched_at": "2026-07-20T08:16:04+00:00",
+        "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3185fdb767ac56bf7891"
       },
       {
         "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
@@ -727,6 +791,50 @@
       "id": "c99dd60e24fe75a96d25"
     },
     {
+      "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/101067",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T04:05:10+00:00",
+      "fetched_at": "2026-07-20T08:16:04+00:00",
+      "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア...",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e1920e41406782d2784b"
+    },
+    {
+      "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
+      "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-20T08:10:40+00:00",
+      "fetched_at": "2026-07-20T08:16:04+00:00",
+      "summary": "Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million and represented a 2.51 per cent stake in the company. The clarification comes after media scrutiny of eFishery, once one […] The post Malaysian pension fund KWA…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Malaysia (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce9453bb1491248a67c8"
+    },
+    {
       "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1035,6 +1143,26 @@
       "id": "79dc16eaf159aeb91197"
     },
     {
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-20T08:00:00+00:00",
+      "fetched_at": "2026-07-20T08:16:04+00:00",
+      "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3185fdb767ac56bf7891"
+    },
+    {
       "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
       "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1323,93 +1451,71 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/101067",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-20T07:07:33.183+00:00",
-      "fetched_at": "2026-07-20T07:09:25+00:00",
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-20 06:41:30 UTC 2026-07-20 06:41:30 UTC at epicenter Location 49.408°N 129.342°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-20T04:05:10+00:00",
+      "fetched_at": "2026-07-20T08:16:04+00:00",
+      "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "AI Agents",
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9e6188f2474f64e3e4e6"
-    },
-    {
-      "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-20T07:03:00.000+00:00",
-      "fetched_at": "2026-07-20T07:09:25+00:00",
-      "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.",
-      "matched_keywords": [
-        "Open Source",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); Open Source (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a2e31188437406ffc55b"
-    },
-    {
-      "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
-      "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-20T06:39:00.000+00:00",
-      "fetched_at": "2026-07-20T07:09:25+00:00",
-      "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fb93ebdcc3f3ed102613"
-    }
-  ],
-  "source_errors": [
+      "id": "e1920e41406782d2784b"
+    },
     {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
+      "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
+      "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-07-20T08:10:40+00:00",
+      "fetched_at": "2026-07-20T08:16:04+00:00",
+      "summary": "Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million and represented a 2.51 per cent stake in the company. The clarification comes after media scrutiny of eFishery, once one […] The post Malaysian pension fund KWA…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Malaysia (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce9453bb1491248a67c8"
+    },
+    {
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-20T08:00:00+00:00",
+      "fetched_at": "2026-07-20T08:16:04+00:00",
+      "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3185fdb767ac56bf7891"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

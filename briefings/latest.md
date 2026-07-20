@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T07:10:06+00:00_
+_Generiert: 2026-07-20T08:16:36+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+28 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-07-20T07:10:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vancouver Island, Canada Region 20/07/2026 06:41 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552972)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552972)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vancouver Island, Canada Region 20/07/2026 06:41 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:35km) in Mexico 19/07/2026 17:45 UTC, 440 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552874)
   - Quelle: GDACS
   - Zeit: ``
@@ -94,6 +94,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and beyond LangChain · CrewAI · LlamaIndex · Vercel AI SDK · n8n & self-hosted agents · any MCP client…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 16, observation — [Quelle](https://forbesjapan.com/articles/detail/101067)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-20T04:05:10+00:00`, fetched `2026-07-20T08:16:04+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock** — Score 15, risk — [Quelle](https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-20T08:10:40+00:00`, fetched `2026-07-20T08:16:04+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Malaysia (+2.0)
+  - Kurz: Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million and represented a 2.51 per cent stake in the company. The clarification comes after media scrutiny of eFishery, once one […] The post Malaysian pension fund KWA…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.6 - 208 km SW of Port McNeill, Canada** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-20T07:07:33.183+00:00`, fetched `2026-07-20T07:09:25+00:00`
@@ -187,6 +205,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 Citation | 🚀 Roadmap(2026Q2) 🎯 Overview KTransformers is a research project focused on efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing. The project no…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Survey on the Access to Finance of Enterprises: lending conditions tightened** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-20T08:00:00+00:00`, fetched `2026-07-20T08:16:04+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Survey on the Access to Finance of Enterprises: lending conditions tightened
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz** — Score 7, observation — [Quelle](https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-20T06:39:00.000+00:00`, fetched `2026-07-20T07:09:25+00:00`
@@ -227,13 +254,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)

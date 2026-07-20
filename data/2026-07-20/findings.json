@@ -49,6 +49,50 @@
     "id": "c99dd60e24fe75a96d25"
   },
   {
+    "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/101067",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T04:05:10+00:00",
+    "fetched_at": "2026-07-20T08:16:04+00:00",
+    "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア...",
+    "matched_keywords": [
+      "AI Agents",
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e1920e41406782d2784b"
+  },
+  {
+    "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
+    "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-20T08:10:40+00:00",
+    "fetched_at": "2026-07-20T08:16:04+00:00",
+    "summary": "Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million and represented a 2.51 per cent stake in the company. The clarification comes after media scrutiny of eFishery, once one […] The post Malaysian pension fund KWA…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Reputationsrisiko"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Malaysia (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ce9453bb1491248a67c8"
+  },
+  {
     "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -355,6 +399,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "79dc16eaf159aeb91197"
+  },
+  {
+    "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T08:00:00+00:00",
+    "fetched_at": "2026-07-20T08:16:04+00:00",
+    "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3185fdb767ac56bf7891"
   },
   {
     "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
