@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T16:36:02+00:00",
+  "generated_at": "2026-07-20T17:07:55+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-07-15T00:00:00+00:00",
         "relevance_score": 17,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/"
+      },
+      {
+        "title": "Safety and alignment in an era of long-horizon models",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-20T10:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models"
       },
       {
         "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-20T16:00:00+00:00",
         "relevance_score": 12,
         "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/"
-      },
-      {
-        "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T03:50:50+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/"
       }
     ],
     "github": [
@@ -103,6 +103,13 @@
         "published_at": "2026-07-20T07:03:00.000+00:00",
         "relevance_score": 10,
         "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html"
+      },
+      {
+        "title": "Copilot users can now see AI credits used per billing cycle",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-20T16:00:14+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle"
       },
       {
         "title": "kvcache-ai/ktransformers",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T16:36:02+00:00_
+_Generiert: 2026-07-20T17:07:55+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+65 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -129,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Safety and alignment in an era of long-horizon models** — Score 16, observation — [Quelle](https://openai.com/index/safety-alignment-long-horizon-models)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-20T10:00:00+00:00`, fetched `2026-07-20T17:07:24+00:00`
+  - Treffer: AI/KI, OpenAI, safety, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Webentwicklung (+3.0); safety (+2.5); recent (+1.0)
+  - Kurz: OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 16, observation — [Quelle](https://forbesjapan.com/articles/detail/101067)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -295,6 +304,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Open Source (+3.0); recent (+1.0)
   - Kurz: Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Copilot users can now see AI credits used per billing cycle** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-20T16:00:14+00:00`, fetched `2026-07-20T17:07:24+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: Copilot Business and Copilot Enterprise users can now see how many AI credits they’ve used this billing cycle, even without an individual budget. Find this on your GitHub Copilot usage… The post Copilot users can now see AI credits used per billing cycle appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 51 km NNE of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1xp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-20T13:10:38.040+00:00`, fetched `2026-07-20T13:42:20+00:00`
@@ -330,15 +348,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 Citation | 🚀 Roadmap(2026Q2) 🎯 Overview KTransformers is a research project focused on efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing. The project no…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Survey on the Access to Finance of Enterprises: lending conditions tightened** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-20T08:00:00+00:00`, fetched `2026-07-20T08:16:04+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Survey on the Access to Finance of Enterprises: lending conditions tightened
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

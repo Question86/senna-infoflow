@@ -170,6 +170,29 @@
     "id": "d53acc1a67e119a67df6"
   },
   {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-20T10:00:00+00:00",
+    "fetched_at": "2026-07-20T17:07:24+00:00",
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "safety",
+      "Webentwicklung"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Webentwicklung (+3.0); safety (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a859f2fa989d2c454329"
+  },
+  {
     "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1025,6 +1048,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d941d1d395c38e019b94"
+  },
+  {
+    "title": "Copilot users can now see AI credits used per billing cycle",
+    "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:00:14+00:00",
+    "fetched_at": "2026-07-20T17:07:24+00:00",
+    "summary": "Copilot Business and Copilot Enterprise users can now see how many AI credits they’ve used this billing cycle, even without an individual budget. Find this on your GitHub Copilot usage… The post Copilot users can now see AI credits used per billing cycle appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f0462413919c8ebdd2e6"
   },
   {
     "title": "M 4.8 - 51 km NNE of Port-Olry, Vanuatu",
