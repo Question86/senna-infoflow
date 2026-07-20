@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T03:37:26+00:00_
+_Generiert: 2026-07-20T04:53:28+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -115,6 +115,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Dubai has put a deadline on autonomous AI. The companies that treat it as a compliance project will end up with a more efficient version of the business they already have. The ones that change the game will end up with a different business. The mandate is real, and it has a clock on it. […] The post 2 years to agentic: Will you comply, or will you grow? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution** — Score 12, observation — [Quelle](https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-20T03:50:50+00:00`, fetched `2026-07-20T04:52:59+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
+  - Kurz: In the rapidly accelerating digital landscape of the Association of Southeast Asian Nations (ASEAN) region, a seismic shift has occurred that is fundamentally altering the trajectory of the internet economy. According to “The Gemini Report Southeast Asia 2026” published by Google, the region has emerged as a definitive global frontrunner in the adoption, experimentation, and […] The post Beyond the chatbot: How Gen…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean** — Score 12, observation — [Quelle](https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-20T02:15:18+00:00`, fetched `2026-07-20T03:36:53+00:00`
@@ -132,15 +141,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: 7月17日、O'Reillyが「The Right Amount of Spec for Agentic Development」と題した記事を公開した。AIエージェントで「仕様書はもう要らない」という空気が広がるなか、「ゼロ仕様は安くない」という逆説から出発し、ボトルネックの移動・マルチエージェント間の「契約」概念・仕様の賞味期限まで、実装コストが激減し...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The job you’re studying for might not exist: Here’s what still will** — Score 10, observation — [Quelle](https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-20T01:00:04+00:00`, fetched `2026-07-20T01:29:16+00:00`
-  - Treffer: APAC Trend Radar, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Daniel Kokotajlo used to lead research at OpenAI, thinking several years ahead. He left in 2023 and gave up a chunk of equity/money to do it because he didn’t want to sign away his right to talk about what he was seeing. Since then, he’s built out some of the more detailed public forecasts of […] The post The job you’re studying for might not exist: Here’s what still will appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 203 km ESE of Ozernovskiy, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

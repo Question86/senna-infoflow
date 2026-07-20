@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T03:37:26+00:00",
-  "run_id": "2026-07-20T03:37:26+00:00",
+  "generated_at": "2026-07-20T04:53:28+00:00",
+  "run_id": "2026-07-20T04:53:28+00:00",
   "date": "2026-07-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 11,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 2,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 2,
-    "observe": 16,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -138,6 +138,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "11d73b4c909fa6104879"
+      },
+      {
+        "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
+        "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-20T03:50:50+00:00",
+        "fetched_at": "2026-07-20T04:52:59+00:00",
+        "summary": "In the rapidly accelerating digital landscape of the Association of Southeast Asian Nations (ASEAN) region, a seismic shift has occurred that is fundamentally altering the trajectory of the internet economy. According to “The Gemini Report Southeast Asia 2026” published by Google, the region has emerged as a definitive global frontrunner in the adoption, experimentation, and […] The post Beyond the chatbot: How Gen…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4af553133bd467436798"
       },
       {
         "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
@@ -486,6 +508,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0af14af635b6135a491b"
+      },
+      {
+        "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
+        "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-16T11:24:15+00:00",
+        "fetched_at": "2026-07-20T04:52:59+00:00",
+        "summary": "こんにちは、estie でソフトウェアエンジニアをしている木村です。 ローカルでアプリケーションを動かすときに API キーといったシークレットをどう渡すか、地味に毎回ついてまわる問題です。.env に平文で置いたり、aws ssm get-parameter の結果を手でコピペしたり、op run と 1Password CLI で実行時に解決したりと、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "07006af62cb3feea4b76"
       }
     ]
   },
@@ -597,6 +640,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "11d73b4c909fa6104879"
+    },
+    {
+      "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
+      "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-20T03:50:50+00:00",
+      "fetched_at": "2026-07-20T04:52:59+00:00",
+      "summary": "In the rapidly accelerating digital landscape of the Association of Southeast Asian Nations (ASEAN) region, a seismic shift has occurred that is fundamentally altering the trajectory of the internet economy. According to “The Gemini Report Southeast Asia 2026” published by Google, the region has emerged as a definitive global frontrunner in the adoption, experimentation, and […] The post Beyond the chatbot: How Gen…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4af553133bd467436798"
     },
     {
       "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
@@ -945,284 +1010,72 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0af14af635b6135a491b"
+    },
+    {
+      "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
+      "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-16T11:24:15+00:00",
+      "fetched_at": "2026-07-20T04:52:59+00:00",
+      "summary": "こんにちは、estie でソフトウェアエンジニアをしている木村です。 ローカルでアプリケーションを動かすときに API キーといったシークレットをどう渡すか、地味に毎回ついてまわる問題です。.env に平文で置いたり、aws ssm get-parameter の結果を手でコピペしたり、op run と 1Password CLI で実行時に解決したりと、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07006af62cb3feea4b76"
     }
   ],
   "new_findings": [
     {
-      "title": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and beyond LangChain · CrewAI · LlamaIndex · Vercel AI SDK · n8n & self-hosted agents · any MCP client…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung",
-        "GitHub Trending",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents, local-first, MCP, Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "c99dd60e24fe75a96d25"
-    },
-    {
-      "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
-      "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/",
+      "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
+      "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-20T02:15:18+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "There is a version of Southeast Asia’s AI story that is told almost entirely in positive terms: surging investment, government ambition, hyperscaler expansion, new data centre campuses rising across Singapore, Malaysia, Indonesia, the Philippines, and Vietnam. That story is accurate. And hidden inside it is a carbon time-bomb. The emissions math that nobody is talking […] The post AI is about to blow a hole in ASEAN…",
+      "published_at": "2026-07-20T03:50:50+00:00",
+      "fetched_at": "2026-07-20T04:52:59+00:00",
+      "summary": "In the rapidly accelerating digital landscape of the Association of Southeast Asian Nations (ASEAN) region, a seismic shift has occurred that is fundamentally altering the trajectory of the internet economy. According to “The Gemini Report Southeast Asia 2026” published by Google, the region has emerged as a definitive global frontrunner in the adoption, experimentation, and […] The post Beyond the chatbot: How Gen…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
         "Southeast Asia"
       ],
       "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)",
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8a67787ff36055f7dbc8"
+      "id": "4af553133bd467436798"
     },
     {
-      "title": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 Citation | 🚀 Roadmap(2026Q2) 🎯 Overview KTransformers is a research project focused on efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing. The project no…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "79dc16eaf159aeb91197"
-    },
-    {
-      "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
-      "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-20T03:00:05+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "Artificial intelligence innovators outside of the United States can no longer be ignored. Does it mean that your AI-focused portfolio is at risk if you haven’t looked beyond Wall Street? There’s no doubt that AI is the largest driver of growth for investors in the post-pandemic landscape, but as valuations continue to swell, challenges to […] The post Should AI investing involve diversifying into Chinese tech stocks…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Public Health",
-        "Watchgraph:public_health_biosecurity"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph modules public_health_biosecurity (+3.0); watchgraph demote portfolio (x0.45)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "public_health_biosecurity"
-      ],
-      "watchgraph_reasons": [
-        "public_health_biosecurity: pandemic"
-      ],
-      "market_context": [
-        "PFE",
-        "MRNA",
-        "BNTX",
-        "GSK",
-        "AZN",
-        "TMO",
-        "DHR"
-      ],
-      "id": "b148d45bd7f8bc9b9dfa"
-    },
-    {
-      "title": "The psychology of believing AI: Certainty vs truth",
-      "url": "https://e27.co/the-psychology-of-believing-ai-certainty-vs-truth-20260719/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-20T02:45:01+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "A client sits down, starts to speak, and within a minute, I can hear that the problem has already been shaped somewhere else. The language arrives too clean; the situation has an outline before the two of us have looked at it together. Later in the session, they often tell me where the outline came […] The post The psychology of believing AI: Certainty vs truth appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7b46436647062c32d6a9"
-    },
-    {
-      "title": "From tools to partners: The Socratic dream of two butterflies",
-      "url": "https://e27.co/from-tools-to-partners-the-socratic-dream-of-two-butterflies-20260718/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-20T02:00:56+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "When a simple AI task turns into a meditation on intelligence, systems, and the nature of thinking. The shift It started, as many things do in tech, with something trivial. A to-do app. A specification. A test. A way to validate a system design. But somewhere between iterating on a dual primitive model—atom() as TCP, […] The post From tools to partners: The Socratic dream of two butterflies appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "147581d39e13559fff97"
-    },
-    {
-      "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",
-      "url": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
+      "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
+      "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-19T11:46:19+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "📋 この記事の前提 前回記事「ループエンジニアリングをGitHub Copilotで組めるか調べてみた」を読んでいると話が早い 「ハーネスエンジニアリング」「ループエンジニアリング」という言葉を見聞きしたことがある この記事は2026年7月18日時点、生まれて1日も経っていない議論を扱っている。数日後には前提が変わってい...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ccdef4ac18687088a6f2"
-    },
-    {
-      "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
-      "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-20T02:55:16+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "Bitcoin currently trades sideways around the US$64,000 level as global risk appetite wanes significantly. Market participants closely monitor the escalating possibility of a full-scale war between the United States and Iran. According to CoinMarketCap data this morning, the price per bitcoin stood at US$64,682. This represents a slight decline of 0.15 per cent from 24 […] The post Could your Bitcoin balance soon hel…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4930c46de37fe4ca33c1"
-    },
-    {
-      "title": "Beyond the code: How Vietnam evolved from an execution hub to a product powerhouse",
-      "url": "https://e27.co/beyond-the-code-how-vietnam-evolved-from-an-execution-hub-to-a-product-powerhouse-20260719/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-20T02:30:51+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "I’ve written tech hiring campaigns in Vietnam for years, and the old brief: “sell juniors on growth and mentorship” has completely disappeared. Why? Because founders are realising that paying for junior headcount in 2026 is often a waste of budget. Generative AI now handles the boilerplate code, scaffolding, and basic debugging that used to keep […] The post Beyond the code: How Vietnam evolved from an execution hub…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph demote boilerplate (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0dcc7ff969b3f27ea4e9"
-    },
-    {
-      "title": "「仕事を辞めるとボケる」は本当なのか？ ベトナム高齢者2000人超を早大などが分析",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-19T23:16:01+00:00",
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同...",
+      "published_at": "2026-07-16T11:24:15+00:00",
+      "fetched_at": "2026-07-20T04:52:59+00:00",
+      "summary": "こんにちは、estie でソフトウェアエンジニアをしている木村です。 ローカルでアプリケーションを動かすときに API キーといったシークレットをどう渡すか、地味に毎回ついてまわる問題です。.env に平文で置いたり、aws ssm get-parameter の結果を手でコピペしたり、op run と 1Password CLI で実行時に解決したりと、...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "059af846d2f0049557f0"
-    },
-    {
-      "title": "andrewrabert/jellium-desktop",
-      "url": "https://github.com/andrewrabert/jellium-desktop",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:36:53+00:00",
-      "summary": "An unofficial desktop client for Jellyfin Jellium Desktop An unofficial Jellyfin desktop client built on CEF and mpv . Downloads Linux AppImage x86_64 aarch64 Arch Linux (AUR): jellium-desktop-git Flatpak (non-Flathub bundle) macOS Apple Silicon Intel After installing, remove quarantine: sudo xattr -cr /Applications/Jellium\\ Desktop.app Windows x64 arm64 Development This project uses just as a command runner. Availa…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d4ed7657de150d993ce8"
+      "id": "07006af62cb3feea4b76"
     }
   ],
   "source_errors": [],

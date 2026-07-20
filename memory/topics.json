@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T03:37:26+00:00",
+  "generated_at": "2026-07-20T04:53:28+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-07-20T01:20:05+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/"
+      },
+      {
+        "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T03:50:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/"
       },
       {
         "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-20T02:00:56+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/from-tools-to-partners-the-socratic-dream-of-two-butterflies-20260718/"
-      },
-      {
-        "title": "Beyond the code: How Vietnam evolved from an execution hub to a product powerhouse",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T02:30:51+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/beyond-the-code-how-vietnam-evolved-from-an-execution-hub-to-a-product-powerhouse-20260719/"
       }
     ],
     "github": [
@@ -82,6 +82,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      {
+        "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T03:50:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/"
       },
       {
         "title": "kvcache-ai/ktransformers",
@@ -133,9 +140,23 @@
         "published_at": "2026-07-19T19:43:13+00:00",
         "relevance_score": 5,
         "url": "https://p2ptk.org/digital-rights/5632"
+      },
+      {
+        "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-16T11:24:15+00:00",
+        "relevance_score": 4,
+        "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a"
       }
     ],
     "economy": [
+      {
+        "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T03:50:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/"
+      },
       {
         "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
         "source": "e27 Asia Startup and Tech Feed",

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-20T03:37:26+00:00",
+  "generated_at": "2026-07-20T04:53:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 11,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 2,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 2,
-    "observe": 16
+    "observe": 18
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "observe"
     },
     {
+      "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-20T03:50:50+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/",
+      "summary": "In the rapidly accelerating digital landscape of the Association of Southeast Asian Nations (ASEAN) region, a seismic shift has occurred that is fundamentally altering the trajectory of the internet economy. According to “The Gemini Report Southeast Asia 2026…",
+      "section": "observe"
+    },
+    {
       "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -63,16 +73,6 @@
       "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b",
       "summary": "7月17日、O'Reillyが「The Right Amount of Spec for Agentic Development」と題した記事を公開した。AIエージェントで「仕様書はもう要らない」という空気が広がるなか、「ゼロ仕様は安くない」という逆説から出発し、ボトルネックの移動・マルチエージェント間の「契約」概念・仕様の賞味期限まで、実装コストが激減し...",
       "section": "observe"
-    },
-    {
-      "title": "The job you’re studying for might not exist: Here’s what still will",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-20T01:00:04+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/",
-      "summary": "Daniel Kokotajlo used to lead research at OpenAI, thinking several years ahead. He left in 2023 and gave up a chunk of equity/money to do it because he didn’t want to sign away his right to talk about what he was seeing. Since then, he’s built out some of the…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -80,149 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “KnockOutEZ/wigolo” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=51.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "KnockOutEZ/wigolo",
-        "url": "https://github.com/KnockOutEZ/wigolo",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-20T03:36:53+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 51.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: chain, local",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and…"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 31.09,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -3.5 for 31.1d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
-        "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T03:00:05+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Artificial intelligence innovators outside of the United States can no longer be ignored. Does it mean that your AI-focused portfolio is at risk if you haven’t looked beyond Wall Street? There’s no doubt that AI is the largest driver of growth for investors in the post-pandemic landscape, but as valuations continue to…"
-      },
-      {
-        "title": "M 4.7 - 173 km W of Fakfak, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-20T00:51:59.040+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-07-20 00:27:46 UTC 2026-07-20 00:27:46 UTC at epicenter Location 3.228°S 130.771°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.6 - 203 km ESE of Ozernovskiy, Russia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-20T00:36:01.040+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "ai",
-          "disaster"
-        ],
-        "dynamics_score": 9.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Time 2026-07-20 00:09:14 UTC 2026-07-20 00:09:14 UTC at epicenter Location 51.156°N 159.377°E Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }
