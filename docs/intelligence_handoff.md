@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-20T12:04:10Z_
+_Generated: 2026-07-20T12:57:07Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
 
 ## Top Dynamics
+
+### [UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-07-20T11:27:55+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2122
 
 ### [UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-07-20T10:08:09+00:00` / age_days `0.08`
+- Published: `2026-07-20T10:08:09+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,27 +32,17 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-07-20T10:08:05+00:00` / age_days `0.08`
+- Published: `2026-07-20T10:08:05+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1354
 
-### [NEU] [mittel] Mattermost: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-07-20T11:12:54+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2411
-
 ### KnockOutEZ/wigolo
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T03:36:53+00:00` / age_days `0.35`
+- Published: `2026-07-20T03:36:53+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: chain, local, high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T07:03:00.000+00:00` / age_days `0.21`
+- Published: `2026-07-20T07:03:00.000+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, rce, code, security high-signal: kritisch, rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T10:07:56+00:00` / age_days `0.08`
+- Published: `2026-07-20T10:07:56+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T09:22:55+00:00` / age_days `0.11`
+- Published: `2026-07-20T09:22:55+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T10:52:58+00:00` / age_days `0.05`
+- Published: `2026-07-20T10:52:58+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: pipeline, security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T10:53:02+00:00` / age_days `0.05`
+- Published: `2026-07-20T10:53:02+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T10:52:59+00:00` / age_days `0.05`
+- Published: `2026-07-20T10:52:59+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T10:52:59+00:00` / age_days `0.05`
+- Published: `2026-07-20T10:52:59+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehr
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-20T09:22:57+00:00` / age_days `0.11`
+- Published: `2026-07-20T09:22:57+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong

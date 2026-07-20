@@ -1,31 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-20T12:04:10Z",
+  "generated_at": "2026-07-20T12:57:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 9,
-      "strong": 13,
-      "watch": 7,
-      "quiet": 9
+      "krass": 10,
+      "strong": 15,
+      "watch": 8,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 22,
-      "watch": 7,
-      "quiet": 9
+      "krass": 3,
+      "strong": 24,
+      "watch": 8,
+      "quiet": 5
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2122",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-20T11:27:55+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libTIFF ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
+    },
     {
       "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1504",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:08:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -50,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1354",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:08:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -75,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T09:27:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -97,11 +122,59 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "[UPDATE] [mittel] systemd-coredump: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1204",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-20T11:32:53+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in systemd ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [mittel] libTIFF: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0219",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-20T11:32:53+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libTIFF ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2411",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T11:12:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -125,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0801",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:12:54+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -149,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1529",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:12:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -173,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T09:27:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -197,7 +270,7 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -227,7 +300,7 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-20T07:03:00.000+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -256,7 +329,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2416",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:07:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -282,7 +355,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0899",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T09:22:55+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -308,7 +381,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0199",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:52:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security",
         "infra"
@@ -335,7 +408,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1268",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:53:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -360,7 +433,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0306",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:52:59+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -385,7 +458,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0207",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T10:52:59+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -410,7 +483,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-20T09:22:57+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -435,7 +508,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 31.42,
+      "age_days": 31.46,
       "topics": [
         "ai"
       ],
@@ -454,7 +527,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.6 for 31.4d old signal",
+        "aging penalty -3.7 for 31.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -464,7 +537,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-07-15T00:00:00+00:00",
-      "age_days": 5.5,
+      "age_days": 5.54,
       "topics": [
         "ai",
         "security"
@@ -491,7 +564,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T10:04:34.818+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -516,7 +589,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T07:07:33.183+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -541,7 +614,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:51:59.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -566,7 +639,7 @@
       "url": "https://restofworld.org/2026/ai-video-games-developer-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-20T10:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -591,7 +664,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-01-12T00:00:00+00:00",
-      "age_days": 920.5,
+      "age_days": 920.54,
       "topics": [
         "security"
       ],
@@ -617,7 +690,7 @@
       "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T03:00:05+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -642,7 +715,7 @@
       "url": "https://www.heise.de/news/HollowByte-Denial-of-Service-Luecke-in-OpenSSL-11370866.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-20T11:17:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -667,7 +740,7 @@
       "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-20T06:39:00.000+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -692,7 +765,7 @@
       "url": "https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T08:54:45+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "infra",
         "macro"
@@ -717,7 +790,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1x8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T11:25:43.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -742,7 +815,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1x3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T11:18:08.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -767,7 +840,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T10:23:24.546+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -792,7 +865,7 @@
       "url": "https://forbesjapan.com/articles/detail/101067",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-20T04:05:10+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -814,11 +887,34 @@
       "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア..."
     },
     {
+      "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+      "url": "https://zenn.dev/uhyo/articles/async-react-action-queue",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-20T05:52:33+00:00",
+      "age_days": 0.29,
+      "topics": [],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "useActionStateは、React 19で導入された新しいフックです。 その挙動を見ると、非同期版useReducerと言えるような挙動をします。 ただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そのゴールは「良いUX」であるように思います..."
+    },
+    {
       "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
       "url": "https://ascii.jp/elem/000/004/420/4420739/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-20T01:21:48+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -844,7 +940,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:36:01.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "disaster"
@@ -872,7 +968,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0868/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-07-15T00:00:00+00:00",
-      "age_days": 5.5,
+      "age_days": 5.54,
       "topics": [
         "ai"
       ],
@@ -898,7 +994,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0870/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-07-15T00:00:00+00:00",
-      "age_days": 5.5,
+      "age_days": 5.54,
       "topics": [
         "ai"
       ],
@@ -924,7 +1020,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-07-20T08:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -942,105 +1038,7 @@
         "no strong comparative reason"
       ],
       "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened"
-    },
-    {
-      "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
-      "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-20T08:10:40+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million and represented a 2.51 per cent stake in the company. The cl…"
-    },
-    {
-      "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
-      "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-20T05:04:13+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Artificial intelligence is no longer a distant promise for Southeast Asia; it is the single most consequential bet being made across the region’s venture capital landscape. In 2025, AI startup investment in Vietnam alone surged 13-fold to US$130 million, while Singapore continued to serve as the region’s capital alloc…"
-    },
-    {
-      "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",
-      "url": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-19T11:46:19+00:00",
-      "age_days": 1.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "📋 この記事の前提 前回記事「ループエンジニアリングをGitHub Copilotで組めるか調べてみた」を読んでいると話が早い 「ハーネスエンジニアリング」「ループエンジニアリング」という言葉を見聞きしたことがある この記事は2026年7月18日時点、生まれて1日も経っていない議論を扱っている。数日後には前提が変わってい..."
-    },
-    {
-      "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
-      "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-20T02:55:16+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Bitcoin currently trades sideways around the US$64,000 level as global risk appetite wanes significantly. Market participants closely monitor the escalating possibility of a full-scale war between the United States and Iran. According to CoinMarketCap data this morning, the price per bitcoin stood at US$64,682. This r…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
