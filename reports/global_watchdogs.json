@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:52:18+00:00",
+  "generated_at": "2026-07-20T21:20:10+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,21 +74,21 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).",
-        "summary": "Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552972",
         "published_at": "",
         "metrics": {}
       },
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, No people affected in 100km.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552972",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553068",
         "published_at": "",
         "metrics": {}
       },

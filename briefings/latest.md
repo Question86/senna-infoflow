@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T20:52:16+00:00_
+_Generiert: 2026-07-20T21:20:09+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+72 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,14 +33,14 @@ _Generiert: 2026-07-20T20:52:16+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in South Korea
-- **GDACS: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552420)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 7.3M, Depth:18.584km) in Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552972)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553068)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:35km) in Mexico 19/07/2026 17:45 UTC, 440 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552874)
   - Quelle: GDACS
   - Zeit: ``
@@ -304,6 +304,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Open Source (+3.0); recent (+1.0)
   - Kurz: Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.0 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21e)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-20T21:05:24.040+00:00`, fetched `2026-07-20T21:19:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-20 20:44:19 UTC 2026-07-20 20:44:19 UTC at epicenter Location 32.759°S 178.088°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 193 km ENE of Saipan, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20d)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-20T19:36:28.040+00:00`, fetched `2026-07-20T19:52:32+00:00`
@@ -330,15 +339,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-20 12:53:50 UTC 2026-07-20 12:53:50 UTC at epicenter Location 14.635°S 167.300°E Depth 172.26 km (107.04 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 70 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1x8)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-20T11:25:43.040+00:00`, fetched `2026-07-20T11:27:42+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-20 11:10:48 UTC 2026-07-20 11:10:48 UTC at epicenter Location 14.222°N 92.831°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **kvcache-ai/ktransformers** — Score 9, observation — [Quelle](https://github.com/kvcache-ai/ktransformers)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

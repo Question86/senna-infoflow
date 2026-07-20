@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T20:52:16+00:00",
+  "generated_at": "2026-07-20T21:20:09+00:00",
   "topics": {
     "ai": [
       {
@@ -314,6 +314,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5"
       },
       {
+        "title": "M 5.0 - south of the Kermadec Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-20T21:05:24.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21e"
+      },
+      {
         "title": "M 4.8 - 51 km NNE of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-20T13:10:38.040+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-07-20T15:28:45+00:00",
         "relevance_score": 7,
         "url": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby"
-      },
-      {
-        "title": "「ドコモの銀行」で何が変わる？ ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T05:00:57+00:00",
-        "relevance_score": 5,
-        "url": "https://ascii.jp/elem/000/004/420/4420599/"
       }
     ],
     "economy": [
