@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T21:20:09+00:00_
+_Generiert: 2026-07-20T21:46:56+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-07-20T21:20:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in South Korea
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 80 thousand in 100km.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552424)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 80 thousand in 100km.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552972)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-07-20T21:20:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552424)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV.
 
 ## Wirtschaft global
 
