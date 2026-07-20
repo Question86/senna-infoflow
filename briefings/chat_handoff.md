@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-20T13:03:12+00:00_
+_Generated: 2026-07-20T13:42:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `62`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-07-20T13:03:12+00:00_
 - url: https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/
 - summary: Dubai has put a deadline on autonomous AI. The companies that treat it as a compliance project will end up with a more efficient version of the business they already have. The ones that change the game will end up with a different business. The mandate is rea…
 
-### 6. SBI buys majority stake in Coinhako to deepen Singapore digital asset push
+### 6. Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-07-20T14:40:21+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html
+- summary: Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 7. SBI buys majority stake in Coinhako to deepen Singapore digital asset push
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-20T08:54:45+00:00`
 - url: https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/
 - summary: Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MA…
 
-### 7. Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution
+### 8. Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-20T03:50:50+00:00`
 - url: https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/
 - summary: In the rapidly accelerating digital landscape of the Association of Southeast Asian Nations (ASEAN) region, a seismic shift has occurred that is fundamentally altering the trajectory of the internet economy. According to “The Gemini Report Southeast Asia 2026…
-
-### 8. AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-07-20T02:15:18+00:00`
-- url: https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/
-- summary: There is a version of Southeast Asia’s AI story that is told almost entirely in positive terms: surging investment, government ambition, hyperscaler expansion, new data centre campuses rising across Singapore, Malaysia, Indonesia, the Philippines, and Vietnam…
 
 END OF DOCUMENT

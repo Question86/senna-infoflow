@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T13:03:12+00:00",
+  "generated_at": "2026-07-20T13:42:49+00:00",
   "topics": {
     "ai": [
       {
@@ -110,6 +110,13 @@
         "published_at": "2026-07-19T11:46:19+00:00",
         "relevance_score": 7,
         "url": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a"
+      },
+      {
+        "title": "GitHub Code Quality is now generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-20T13:01:24+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available"
       },
       {
         "title": "andrewrabert/jellium-desktop",
@@ -221,6 +228,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408"
       },
       {
+        "title": "Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-20T14:40:21+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html"
+      },
+      {
         "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-20T02:15:18+00:00",
@@ -242,18 +256,18 @@
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html"
       },
       {
+        "title": "GitHub Code Quality is now generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-20T13:01:24+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available"
+      },
+      {
         "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-20T02:55:16+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/"
-      },
-      {
-        "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T05:52:33+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/uhyo/articles/async-react-action-queue"
       }
     ],
     "general": [
@@ -277,6 +291,13 @@
         "published_at": "2026-07-20T00:51:59.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5"
+      },
+      {
+        "title": "M 4.8 - 51 km NNE of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-20T13:10:38.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1xp"
       },
       {
         "title": "M 4.5 - 70 km SW of Puerto Madero, Mexico",
@@ -319,16 +340,16 @@
         "published_at": "2026-07-19T19:43:13+00:00",
         "relevance_score": 5,
         "url": "https://p2ptk.org/digital-rights/5632"
-      },
-      {
-        "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-16T11:24:15+00:00",
-        "relevance_score": 4,
-        "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a"
       }
     ],
     "economy": [
+      {
+        "title": "Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-20T14:40:21+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html"
+      },
       {
         "title": "SBI buys majority stake in Coinhako to deepen Singapore digital asset push",
         "source": "e27 Asia Startup and Tech Feed",
@@ -349,6 +370,13 @@
         "published_at": "2026-07-20T02:15:18+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
+      },
+      {
+        "title": "GitHub Code Quality is now generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-20T13:01:24+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available"
       },
       {
         "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
