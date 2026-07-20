@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T22:11:29+00:00_
+_Generiert: 2026-07-20T22:57:10+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+75 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
