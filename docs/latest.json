@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-20T05:58:00+00:00",
-  "run_id": "2026-07-20T05:58:00+00:00",
+  "generated_at": "2026-07-20T07:10:06+00:00",
+  "run_id": "2026-07-20T07:10:06+00:00",
   "date": "2026-07-20",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 3,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
-    "medium": 3,
-    "observe": 19,
-    "source_errors": 0
+    "medium": 4,
+    "observe": 21,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -77,6 +77,44 @@
           "PINS"
         ],
         "id": "c99dd60e24fe75a96d25"
+      },
+      {
+        "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-20T07:07:33.183+00:00",
+        "fetched_at": "2026-07-20T07:09:25+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-20 06:41:30 UTC 2026-07-20 06:41:30 UTC at epicenter Location 49.408°N 129.342°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "9e6188f2474f64e3e4e6"
       },
       {
         "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
@@ -251,6 +289,27 @@
         "id": "9bc8a71fc51d0349242d"
       },
       {
+        "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+        "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-20T07:03:00.000+00:00",
+        "fetched_at": "2026-07-20T07:09:25+00:00",
+        "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.",
+        "matched_keywords": [
+          "Open Source",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); Open Source (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a2e31188437406ffc55b"
+      },
+      {
         "title": "The job you’re studying for might not exist: Here’s what still will",
         "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -384,6 +443,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7b46436647062c32d6a9"
+      },
+      {
+        "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+        "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-20T06:39:00.000+00:00",
+        "fetched_at": "2026-07-20T07:09:25+00:00",
+        "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fb93ebdcc3f3ed102613"
       },
       {
         "title": "From tools to partners: The Socratic dream of two butterflies",
@@ -648,6 +727,44 @@
       "id": "c99dd60e24fe75a96d25"
     },
     {
+      "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-20T07:07:33.183+00:00",
+      "fetched_at": "2026-07-20T07:09:25+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-20 06:41:30 UTC 2026-07-20 06:41:30 UTC at epicenter Location 49.408°N 129.342°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9e6188f2474f64e3e4e6"
+    },
+    {
       "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
       "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -818,6 +935,27 @@
       "id": "9bc8a71fc51d0349242d"
     },
     {
+      "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-20T07:03:00.000+00:00",
+      "fetched_at": "2026-07-20T07:09:25+00:00",
+      "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.",
+      "matched_keywords": [
+        "Open Source",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); Open Source (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a2e31188437406ffc55b"
+    },
+    {
       "title": "The job you’re studying for might not exist: Here’s what still will",
       "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -951,6 +1089,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7b46436647062c32d6a9"
+    },
+    {
+      "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+      "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-20T06:39:00.000+00:00",
+      "fetched_at": "2026-07-20T07:09:25+00:00",
+      "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb93ebdcc3f3ed102613"
     },
     {
       "title": "From tools to partners: The Socratic dream of two butterflies",
@@ -1165,72 +1323,93 @@
   ],
   "new_findings": [
     {
-      "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
-      "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-20T05:04:13+00:00",
-      "fetched_at": "2026-07-20T05:57:29+00:00",
-      "summary": "Artificial intelligence is no longer a distant promise for Southeast Asia; it is the single most consequential bet being made across the region’s venture capital landscape. In 2025, AI startup investment in Vietnam alone surged 13-fold to US$130 million, while Singapore continued to serve as the region’s capital allocator, with Temasek deploying US$34 billion globally […] The post Inside SEA’s AI gold rush: The 20 i…",
+      "published_at": "2026-07-20T07:07:33.183+00:00",
+      "fetched_at": "2026-07-20T07:09:25+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-20 06:41:30 UTC 2026-07-20 06:41:30 UTC at epicenter Location 49.408°N 129.342°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia",
-        "Watchgraph:capitals_power_centers"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
       "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "capitals_power_centers"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "capitals_power_centers: capital"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "22faa07fae8a6ef7e1eb"
+      "id": "9e6188f2474f64e3e4e6"
     },
     {
-      "title": "「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ",
-      "url": "https://posfie.com/@lenchroot/p/AVSFamQ",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-19T17:31:48+00:00",
-      "fetched_at": "2026-07-20T05:57:29+00:00",
-      "summary": "https://lp.bookbase.jp/bosyu/xEPKRwYv 第２回ダンガン文庫大賞 (抜粋) 注意事項 ・公序良俗に反しないこと ・明確なR18描写が描かれていないこと ・未発表作品であること（すでにWeb等に掲載済みの作品はNG） ・企画や文章の作成において、生成AIの利用を禁止いたします。使用が発覚した場合には、いかなる理由であろ...",
+      "published_at": "2026-07-20T07:03:00.000+00:00",
+      "fetched_at": "2026-07-20T07:09:25+00:00",
+      "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Open Source",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); Open Source (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a2e31188437406ffc55b"
+    },
+    {
+      "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+      "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-20T06:39:00.000+00:00",
+      "fetched_at": "2026-07-20T07:09:25+00:00",
+      "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a4eb2ea2256736bf30fa"
+      "id": "fb93ebdcc3f3ed102613"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

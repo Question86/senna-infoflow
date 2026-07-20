@@ -49,6 +49,44 @@
     "id": "c99dd60e24fe75a96d25"
   },
   {
+    "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-20T07:07:33.183+00:00",
+    "fetched_at": "2026-07-20T07:09:25+00:00",
+    "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-20 06:41:30 UTC 2026-07-20 06:41:30 UTC at epicenter Location 49.408°N 129.342°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9e6188f2474f64e3e4e6"
+  },
+  {
     "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
     "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -219,6 +257,27 @@
     "id": "9bc8a71fc51d0349242d"
   },
   {
+    "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+    "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-20T07:03:00.000+00:00",
+    "fetched_at": "2026-07-20T07:09:25+00:00",
+    "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.",
+    "matched_keywords": [
+      "Open Source",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); Open Source (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a2e31188437406ffc55b"
+  },
+  {
     "title": "The job you’re studying for might not exist: Here’s what still will",
     "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -352,6 +411,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7b46436647062c32d6a9"
+  },
+  {
+    "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+    "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-20T06:39:00.000+00:00",
+    "fetched_at": "2026-07-20T07:09:25+00:00",
+    "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fb93ebdcc3f3ed102613"
   },
   {
     "title": "From tools to partners: The Socratic dream of two butterflies",

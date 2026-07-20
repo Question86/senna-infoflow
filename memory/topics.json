@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T05:58:00+00:00",
+  "generated_at": "2026-07-20T07:10:06+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/"
       },
       {
+        "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-20T07:03:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html"
+      },
+      {
         "title": "kvcache-ai/ktransformers",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -113,6 +120,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-20T07:07:33.183+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2"
+      },
       {
         "title": "M 4.7 - 173 km W of Fakfak, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -193,6 +207,22 @@
         "published_at": "2026-07-20T02:55:16+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-20T07:03:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html"
+      },
+      {
+        "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-20T06:39:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html"
       }
     ]
   }
