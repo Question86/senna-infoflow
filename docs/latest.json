@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T08:16:36+00:00",
-  "run_id": "2026-07-20T08:16:36+00:00",
+  "generated_at": "2026-07-20T09:29:20+00:00",
+  "run_id": "2026-07-20T09:29:20+00:00",
   "date": "2026-07-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 10,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 6,
-    "observe": 22,
+    "medium": 12,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -77,6 +77,79 @@
           "PINS"
         ],
         "id": "c99dd60e24fe75a96d25"
+      },
+      {
+        "title": "[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-20T09:27:54+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf6699091bafe6b68cae"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-56155...",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Microsoft",
+          "Security",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d32466489437116ddfd4"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-20T09:22:57+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7b6378a31facb2880f6a"
       },
       {
         "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
@@ -240,6 +313,98 @@
           "LOW"
         ],
         "id": "b3050bc6b4e0b21bc0df"
+      },
+      {
+        "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-20T09:27:54+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in HCL BigFix ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e7e3fce25252ac1583a"
+      },
+      {
+        "title": "[UPDATE] [hoch] Grafana: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0899",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-20T09:22:55+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen, Code auszuführen oder Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e35d4f73d13cdb3160ee"
+      },
+      {
+        "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
+        "url": "https://ascii.jp/elem/000/004/420/4420739/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-20T01:21:48+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "48930260901bbc6bfe91"
       }
     ],
     "observe": [
@@ -264,6 +429,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "11d73b4c909fa6104879"
+      },
+      {
+        "title": "SBI buys majority stake in Coinhako to deepen Singapore digital asset push",
+        "url": "https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-20T08:54:45+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MAS). The transaction, completed on July 16 through SBI Ventures Asset, involves both a capital injection into Holdbuild, Coinhako’s parent company, […] The post…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "ec74fa7b2c8fe31f8601"
       },
       {
         "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
@@ -331,6 +538,77 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9bc8a71fc51d0349242d"
+      },
+      {
+        "title": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/",
+        "source": "CERT-FR Alertes",
+        "source_type": "rss",
+        "published_at": "2024-01-12T00:00:00+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "\\[Mise à jour du 29 janvier 2024\\] Le 25 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. La vulnérabilité CVE-2024-0402 est considérée critique avec un score CVSSv3 de 9,9. Elle permet à un attaquant authentifié d'écrire des...",
+        "matched_keywords": [
+          "alerte",
+          "CERT-FR",
+          "Security",
+          "vulnérabilité"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c96a3e9dce0cba7e8e97"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Office (15 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0868/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Microsoft",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "370ee9cf7cbc8e5c08d6"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft .Net (15 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0870/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "fetched_at": "2026-07-20T09:28:50+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Microsoft",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bd4423f0e2bc2eeb1e0f"
       },
       {
         "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
@@ -791,6 +1069,79 @@
       "id": "c99dd60e24fe75a96d25"
     },
     {
+      "title": "[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-20T09:27:54+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf6699091bafe6b68cae"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-56155...",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "Security",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d32466489437116ddfd4"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-20T09:22:57+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b6378a31facb2880f6a"
+    },
+    {
       "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/101067",
       "source": "Hatena Bookmark Hotentry IT",
@@ -954,6 +1305,98 @@
       "id": "b3050bc6b4e0b21bc0df"
     },
     {
+      "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-20T09:27:54+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in HCL BigFix ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e7e3fce25252ac1583a"
+    },
+    {
+      "title": "[UPDATE] [hoch] Grafana: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0899",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-20T09:22:55+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen, Code auszuführen oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e35d4f73d13cdb3160ee"
+    },
+    {
+      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
+      "url": "https://ascii.jp/elem/000/004/420/4420739/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T01:21:48+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "48930260901bbc6bfe91"
+    },
+    {
       "title": "2 years to agentic: Will you comply, or will you grow?",
       "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -974,6 +1417,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "11d73b4c909fa6104879"
+    },
+    {
+      "title": "SBI buys majority stake in Coinhako to deepen Singapore digital asset push",
+      "url": "https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-20T08:54:45+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MAS). The transaction, completed on July 16 through SBI Ventures Asset, involves both a capital injection into Holdbuild, Coinhako’s parent company, […] The post…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "ec74fa7b2c8fe31f8601"
     },
     {
       "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
@@ -1041,6 +1526,77 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9bc8a71fc51d0349242d"
+    },
+    {
+      "title": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/",
+      "source": "CERT-FR Alertes",
+      "source_type": "rss",
+      "published_at": "2024-01-12T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "\\[Mise à jour du 29 janvier 2024\\] Le 25 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. La vulnérabilité CVE-2024-0402 est considérée critique avec un score CVSSv3 de 9,9. Elle permet à un attaquant authentifié d'écrire des...",
+      "matched_keywords": [
+        "alerte",
+        "CERT-FR",
+        "Security",
+        "vulnérabilité"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c96a3e9dce0cba7e8e97"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Office (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0868/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "370ee9cf7cbc8e5c08d6"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft .Net (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0870/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd4423f0e2bc2eeb1e0f"
     },
     {
       "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
@@ -1451,68 +2007,282 @@
   ],
   "new_findings": [
     {
-      "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "url": "https://forbesjapan.com/articles/detail/101067",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-20T04:05:10+00:00",
-      "fetched_at": "2026-07-20T08:16:04+00:00",
-      "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア...",
+      "published_at": "2026-07-20T09:27:54+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Webentwicklung"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e1920e41406782d2784b"
+      "id": "cf6699091bafe6b68cae"
     },
     {
-      "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
-      "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-07-20T08:10:40+00:00",
-      "fetched_at": "2026-07-20T08:16:04+00:00",
-      "summary": "Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million and represented a 2.51 per cent stake in the company. The clarification comes after media scrutiny of eFishery, once one […] The post Malaysian pension fund KWA…",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-56155...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Reputationsrisiko"
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "Security",
+        "sécurité",
+        "vulnérabilité"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Malaysia (+2.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ce9453bb1491248a67c8"
+      "id": "d32466489437116ddfd4"
     },
     {
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-20T08:00:00+00:00",
-      "fetched_at": "2026-07-20T08:16:04+00:00",
-      "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "published_at": "2026-07-20T09:22:57+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3185fdb767ac56bf7891"
+      "id": "7b6378a31facb2880f6a"
+    },
+    {
+      "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-20T09:27:54+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in HCL BigFix ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e7e3fce25252ac1583a"
+    },
+    {
+      "title": "[UPDATE] [hoch] Grafana: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0899",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-20T09:22:55+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen, Code auszuführen oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e35d4f73d13cdb3160ee"
+    },
+    {
+      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
+      "url": "https://ascii.jp/elem/000/004/420/4420739/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T01:21:48+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "48930260901bbc6bfe91"
+    },
+    {
+      "title": "SBI buys majority stake in Coinhako to deepen Singapore digital asset push",
+      "url": "https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-20T08:54:45+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MAS). The transaction, completed on July 16 through SBI Ventures Asset, involves both a capital injection into Holdbuild, Coinhako’s parent company, […] The post…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "ec74fa7b2c8fe31f8601"
+    },
+    {
+      "title": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/",
+      "source": "CERT-FR Alertes",
+      "source_type": "rss",
+      "published_at": "2024-01-12T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "\\[Mise à jour du 29 janvier 2024\\] Le 25 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. La vulnérabilité CVE-2024-0402 est considérée critique avec un score CVSSv3 de 9,9. Elle permet à un attaquant authentifié d'écrire des...",
+      "matched_keywords": [
+        "alerte",
+        "CERT-FR",
+        "Security",
+        "vulnérabilité"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c96a3e9dce0cba7e8e97"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Office (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0868/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "370ee9cf7cbc8e5c08d6"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft .Net (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0870/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "fetched_at": "2026-07-20T09:28:50+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd4423f0e2bc2eeb1e0f"
     }
   ],
   "source_errors": [],

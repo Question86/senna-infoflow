@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T08:16:36+00:00_
+_Generiert: 2026-07-20T09:29:20+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+38 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -94,6 +94,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and beyond LangChain · CrewAI · LlamaIndex · Vercel AI SDK · n8n & self-hosted agents · any MCP client…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-20T09:27:54+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)** — Score 17, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, Security, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-56155...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-20T09:22:57+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 16, observation — [Quelle](https://forbesjapan.com/articles/detail/101067)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-20T04:05:10+00:00`, fetched `2026-07-20T08:16:04+00:00`
@@ -139,6 +166,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-20 00:27:46 UTC 2026-07-20 00:27:46 UTC at epicenter Location 3.228°S 130.771°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-20T09:27:54+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in HCL BigFix ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)** — Score 14, observation — [Quelle](https://ascii.jp/elem/000/004/420/4420739/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-20T01:21:48+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -151,6 +196,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Dubai has put a deadline on autonomous AI. The companies that treat it as a compliance project will end up with a more efficient version of the business they already have. The ones that change the game will end up with a different business. The mandate is real, and it has a clock on it. […] The post 2 years to agentic: Will you comply, or will you grow? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SBI buys majority stake in Coinhako to deepen Singapore digital asset push** — Score 12, observation — [Quelle](https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-20T08:54:45+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MAS). The transaction, completed on July 16 through SBI Ventures Asset, involves both a capital injection into Holdbuild, Coinhako’s parent company, […] The post…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution** — Score 12, observation — [Quelle](https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-20T03:50:50+00:00`, fetched `2026-07-20T04:52:59+00:00`
@@ -160,15 +214,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: In the rapidly accelerating digital landscape of the Association of Southeast Asian Nations (ASEAN) region, a seismic shift has occurred that is fundamentally altering the trajectory of the internet economy. According to “The Gemini Report Southeast Asia 2026” published by Google, the region has emerged as a definitive global frontrunner in the adoption, experimentation, and […] The post Beyond the chatbot: How Gen…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean** — Score 12, observation — [Quelle](https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-20T02:15:18+00:00`, fetched `2026-07-20T03:36:53+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
-  - Kurz: There is a version of Southeast Asia’s AI story that is told almost entirely in positive terms: surging investment, government ambition, hyperscaler expansion, new data centre campuses rising across Singapore, Malaysia, Indonesia, the Philippines, and Vietnam. That story is accurate. And hidden inside it is a carbon time-bomb. The emissions math that nobody is talking […] The post AI is about to blow a hole in ASEAN…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIエージェントに仕様書なしで実装させると何が起きるか — O'Reillyが説く「適切な仕様量」の見極め方** — Score 12, observation — [Quelle](https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-19T02:31:28+00:00`, fetched `2026-07-20T00:53:57+00:00`
@@ -177,6 +222,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: 7月17日、O'Reillyが「The Right Amount of Spec for Agentic Development」と題した記事を公開した。AIエージェントで「仕様書はもう要らない」という空気が広がるなか、「ゼロ仕様は安くない」という逆説から出発し、ボトルネックの移動・マルチエージェント間の「契約」概念・仕様の賞味期限まで、実装コストが激減し...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)** — Score 12, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-01-12T00:00:00+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: alerte, CERT-FR, Security, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
+  - Kurz: \[Mise à jour du 29 janvier 2024\] Le 25 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. La vulnérabilité CVE-2024-0402 est considérée critique avec un score CVSSv3 de 9,9. Elle permet à un attaquant authentifié d'écrire des...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans Microsoft Office (15 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0868/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft .Net (15 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0870/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen** — Score 10, opportunity — [Quelle](https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html)
   - Quelle: heise Security Alerts / `rss`

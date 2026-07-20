@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-20T08:16:36+00:00",
+  "generated_at": "2026-07-20T09:29:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 10,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 6,
-    "observe": 22
+    "medium": 12,
+    "observe": 26
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,33 +25,33 @@
       "section": "medium"
     },
     {
-      "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-20T04:05:10+00:00",
+      "published_at": "2026-07-20T09:27:54+00:00",
+      "relevance_score": 17,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
+      "section": "medium"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "relevance_score": 17,
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique…",
+      "section": "medium"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-20T09:22:57+00:00",
       "relevance_score": 16,
-      "url": "https://forbesjapan.com/articles/detail/101067",
-      "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア...",
-      "section": "medium"
-    },
-    {
-      "title": "Malaysian pension fund KWAP moves to contain damage after eFishery fraud shock",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-20T08:10:40+00:00",
-      "relevance_score": 15,
-      "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
-      "summary": "Malaysia’s public-sector pension fund, Kumpulan Wang Persaraan (Diperbadankan), or KWAP, has moved to contain concerns over its exposure to eFishery, saying its total investment in the troubled Indonesian aquaculture startup amounted to about US$38.4 million…",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-20T07:07:33.183+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-20 06:41:30 UTC 2026-07-20 06:41:30 UTC at epicenter Location 49.408°N 129.342°W Depth 10.00 km (6.21 mi)",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen.",
       "section": "medium"
     },
     {
@@ -62,6 +62,16 @@
       "relevance_score": 13,
       "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/",
       "summary": "Dubai has put a deadline on autonomous AI. The companies that treat it as a compliance project will end up with a more efficient version of the business they already have. The ones that change the game will end up with a different business. The mandate is rea…",
+      "section": "observe"
+    },
+    {
+      "title": "SBI buys majority stake in Coinhako to deepen Singapore digital asset push",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-20T08:54:45+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/",
+      "summary": "Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MA…",
       "section": "observe"
     },
     {
@@ -83,16 +93,6 @@
       "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/",
       "summary": "There is a version of Southeast Asia’s AI story that is told almost entirely in positive terms: surging investment, government ambition, hyperscaler expansion, new data centre campuses rising across Singapore, Malaysia, Indonesia, the Philippines, and Vietnam…",
       "section": "observe"
-    },
-    {
-      "title": "AIエージェントに仕様書なしで実装させると何が起きるか — O'Reillyが説く「適切な仕様量」の見極め方",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-19T02:31:28+00:00",
-      "relevance_score": 12,
-      "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b",
-      "summary": "7月17日、O'Reillyが「The Right Amount of Spec for Agentic Development」と題した記事を公開した。AIエージェントで「仕様書はもう要らない」という空気が広がるなか、「ゼロ仕様は安くない」という逆説から出発し、ボトルネックの移動・マルチエージェント間の「契約」概念・仕様の賞味期限まで、実装コストが激減し...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,150 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “KnockOutEZ/wigolo” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=51.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "KnockOutEZ/wigolo",
-        "url": "https://github.com/KnockOutEZ/wigolo",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-20T03:36:53+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 51.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: chain, local",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and…"
-      },
-      {
-        "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
-        "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-20T07:03:00.000+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 35.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, rce, code",
-          "security high-signal: kritisch, rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar."
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 31.28,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -3.6 for 31.3d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
-        "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T03:00:05+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Artificial intelligence innovators outside of the United States can no longer be ignored. Does it mean that your AI-focused portfolio is at risk if you haven’t looked beyond Wall Street? There’s no doubt that AI is the largest driver of growth for investors in the post-pandemic landscape, but as valuations continue to…"
-      },
-      {
-        "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
-        "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-20T06:39:00.000+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht."
-      }
-    ]
-  }
+  ]
 }

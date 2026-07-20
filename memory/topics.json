@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T08:16:36+00:00",
+  "generated_at": "2026-07-20T09:29:20+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/"
       },
       {
         "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
@@ -31,6 +38,13 @@
         "published_at": "2026-07-20T05:04:13+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/"
+      },
+      {
+        "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T01:21:48+00:00",
+        "relevance_score": 14,
+        "url": "https://ascii.jp/elem/000/004/420/4420739/"
       },
       {
         "title": "2 years to agentic: Will you comply, or will you grow?",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-19T02:31:28+00:00",
         "relevance_score": 12,
         "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b"
-      },
-      {
-        "title": "The job you’re studying for might not exist: Here’s what still will",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T01:00:04+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/"
-      },
-      {
-        "title": "kvcache-ai/ktransformers",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/kvcache-ai/ktransformers"
       }
     ],
     "github": [
@@ -117,6 +117,108 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/andrewrabert/jellium-desktop"
+      }
+    ],
+    "security": [
+      {
+        "title": "[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T09:27:54+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T09:22:57+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985"
+      },
+      {
+        "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T09:27:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408"
+      },
+      {
+        "title": "[UPDATE] [hoch] Grafana: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T09:22:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0899"
+      },
+      {
+        "title": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
+        "source": "CERT-FR Alertes",
+        "published_at": "2024-01-12T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/"
+      },
+      {
+        "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-20T07:03:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html"
+      },
+      {
+        "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-20T06:39:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T09:27:54+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409"
+      },
+      {
+        "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-20T09:27:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408"
+      },
+      {
+        "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:15:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
+      },
+      {
+        "title": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
+        "source": "CERT-FR Alertes",
+        "published_at": "2024-01-12T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/"
+      },
+      {
+        "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-20T08:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html"
+      },
+      {
+        "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T02:55:16+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/"
       }
     ],
     "general": [
@@ -165,6 +267,13 @@
     ],
     "economy": [
       {
+        "title": "SBI buys majority stake in Coinhako to deepen Singapore digital asset push",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-20T08:54:45+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/"
+      },
+      {
         "title": "Beyond the chatbot: How Gen Z pioneers are leading ASEAN’s new AI revolution",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-20T03:50:50+00:00",
@@ -191,45 +300,6 @@
         "published_at": "2026-07-20T01:15:57+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/the-extinction-events-in-product-evolution-20260716/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "AI is about to blow a hole in ASEAN’s climate targets, unless baseload goes clean",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T02:15:18+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/"
-      },
-      {
-        "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-20T08:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html"
-      },
-      {
-        "title": "Could your Bitcoin balance soon help you qualify for a home mortgage?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-20T02:55:16+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/"
-      }
-    ],
-    "security": [
-      {
-        "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-20T07:03:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html"
-      },
-      {
-        "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-20T06:39:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html"
       }
     ]
   }
