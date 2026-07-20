@@ -1,17 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-20T06:30:38Z",
+  "generated_at": "2026-07-20T07:45:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 29,
     "bands": {
-      "extreme": 1,
-      "strong": 3,
+      "extreme": 2,
+      "strong": 4,
+      "watch": 1,
       "quiet": 22
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 6,
+      "watch": 1,
       "quiet": 22
     }
   },
@@ -21,7 +23,7 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -47,11 +49,40 @@
       "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and…"
     },
     {
+      "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-20T07:03:00.000+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, rce, code",
+        "security high-signal: kritisch, rce, code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 31.19,
+      "age_days": 31.24,
       "topics": [
         "ai"
       ],
@@ -76,11 +107,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-20T07:07:33.183+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-07-20 06:41:30 UTC 2026-07-20 06:41:30 UTC at epicenter Location 49.408°N 129.342°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.7 - 173 km W of Fakfak, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:51:59.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -105,7 +161,7 @@
       "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T03:00:05+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -126,11 +182,36 @@
       "summary": "Artificial intelligence innovators outside of the United States can no longer be ignored. Does it mean that your AI-focused portfolio is at risk if you haven’t looked beyond Wall Street? There’s no doubt that AI is the largest driver of growth for investors in the post-pandemic landscape, but as valuations continue to…"
     },
     {
+      "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+      "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-20T06:39:00.000+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht."
+    },
+    {
       "title": "M 4.6 - 203 km ESE of Ozernovskiy, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:36:01.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "disaster"
@@ -158,7 +239,7 @@
       "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T05:04:13+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -183,7 +264,7 @@
       "url": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T11:46:19+00:00",
-      "age_days": 0.78,
+      "age_days": 0.83,
       "topics": [
         "general"
       ],
@@ -207,7 +288,7 @@
       "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:55:16+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -231,7 +312,7 @@
       "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T01:20:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -256,7 +337,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T23:16:01+00:00",
-      "age_days": 0.3,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -280,7 +361,7 @@
       "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T03:50:50+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -305,7 +386,7 @@
       "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:15:18+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -331,7 +412,7 @@
       "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T02:31:28+00:00",
-      "age_days": 1.17,
+      "age_days": 1.22,
       "topics": [
         "ai"
       ],
@@ -356,7 +437,7 @@
       "url": "https://e27.co/the-extinction-events-in-product-evolution-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T01:15:57+00:00",
-      "age_days": 0.22,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -380,7 +461,7 @@
       "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T11:24:15+00:00",
-      "age_days": 3.8,
+      "age_days": 3.85,
       "topics": [
         "general"
       ],
@@ -404,7 +485,7 @@
       "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T01:00:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -429,7 +510,7 @@
       "url": "https://e27.co/beyond-the-code-how-vietnam-evolved-from-an-execution-hub-to-a-product-powerhouse-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:30:51+00:00",
-      "age_days": 0.17,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -455,7 +536,7 @@
       "url": "https://posfie.com/@lenchroot/p/AVSFamQ",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T17:31:48+00:00",
-      "age_days": 0.54,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -481,7 +562,7 @@
       "url": "https://github.com/kvcache-ai/ktransformers",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -506,7 +587,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 30.15,
+      "age_days": 30.21,
       "topics": [
         "general"
       ],
@@ -522,7 +603,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -15.1 for 30.2d old signal"
+        "aging penalty -15.2 for 30.2d old signal"
       ],
       "summary": ""
     },
@@ -531,7 +612,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 30.15,
+      "age_days": 30.21,
       "topics": [
         "general"
       ],
@@ -547,7 +628,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -15.1 for 30.2d old signal"
+        "aging penalty -15.2 for 30.2d old signal"
       ],
       "summary": ""
     },
@@ -556,7 +637,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 30.15,
+      "age_days": 30.21,
       "topics": [
         "ai"
       ],
@@ -573,7 +654,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -15.1 for 30.2d old signal",
+        "aging penalty -15.2 for 30.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -583,7 +664,7 @@
       "url": "https://e27.co/the-psychology-of-believing-ai-certainty-vs-truth-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:45:01+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -608,7 +689,7 @@
       "url": "https://e27.co/from-tools-to-partners-the-socratic-dream-of-two-butterflies-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:00:56+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -633,7 +714,7 @@
       "url": "https://p2ptk.org/digital-rights/5632",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T19:43:13+00:00",
-      "age_days": 0.45,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -658,7 +739,7 @@
       "url": "https://github.com/andrewrabert/jellium-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
