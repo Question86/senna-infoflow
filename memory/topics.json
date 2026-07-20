@@ -1,6 +1,32 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T00:03:36+00:00",
-  "topics": {}
+  "generated_at": "2026-07-20T00:54:26+00:00",
+  "topics": {
+    "general": [
+      {
+        "title": "M 4.7 - 173 km W of Fakfak, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-20T00:51:59.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5"
+      },
+      {
+        "title": "M 4.6 - 203 km ESE of Ozernovskiy, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-20T00:36:01.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2"
+      }
+    ],
+    "ai": [
+      {
+        "title": "AIエージェントに仕様書なしで実装させると何が起きるか — O'Reillyが説く「適切な仕様量」の見極め方",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-19T02:31:28+00:00",
+        "relevance_score": 12,
+        "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b"
+      }
+    ]
+  }
 }
