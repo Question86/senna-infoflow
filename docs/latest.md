@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T10:29:34+00:00_
+_Generiert: 2026-07-20T11:28:13+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+54 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -39,14 +39,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-56155...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985)
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (go-jose): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1268)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-20T09:22:57+00:00`, fetched `2026-07-20T09:28:50+00:00`
+  - Zeit: published `2026-07-20T10:53:02+00:00`, fetched `2026-07-20T11:27:42+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (pyasn1): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0306)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-20T10:52:59+00:00`, fetched `2026-07-20T11:27:42+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 16, observation — [Quelle](https://forbesjapan.com/articles/detail/101067)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -102,15 +111,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-20 00:27:46 UTC 2026-07-20 00:27:46 UTC at epicenter Location 3.228°S 130.771°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Apache HTTP Server: Mehrere Schwachstellen ermöglichen Manipulation von Daten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0801)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-20T10:12:54+00:00`, fetched `2026-07-20T10:29:05+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um Daten zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)** — Score 14, observation — [Quelle](https://ascii.jp/elem/000/004/420/4420739/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-20T01:21:48+00:00`, fetched `2026-07-20T09:28:50+00:00`
@@ -195,6 +195,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Open Source (+3.0); recent (+1.0)
   - Kurz: Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.5 - 70 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1x8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-20T11:25:43.040+00:00`, fetched `2026-07-20T11:27:42+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-20 11:10:48 UTC 2026-07-20 11:10:48 UTC at epicenter Location 14.222°N 92.831°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 48 km WSW of Brisas Barra de Suchiate, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1x3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-20T11:18:08.040+00:00`, fetched `2026-07-20T11:27:42+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-20 10:53:50 UTC 2026-07-20 10:53:50 UTC at epicenter Location 14.324°N 92.616°W Depth 39.89 km (24.79 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 22 km NNW of Scarborough, Trinidad and Tobago** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-20T10:23:24.546+00:00`, fetched `2026-07-20T10:29:05+00:00`
@@ -203,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-07-20 09:45:10 UTC 2026-07-20 09:45:10 UTC at epicenter Location 11.374°N 60.804°W Depth 83.51 km (51.89 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 203 km ESE of Ozernovskiy, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-20T00:36:01.040+00:00`, fetched `2026-07-20T00:53:57+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-20 00:09:14 UTC 2026-07-20 00:09:14 UTC at epicenter Location 51.156°N 159.377°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **kvcache-ai/ktransformers** — Score 9, observation — [Quelle](https://github.com/kvcache-ai/ktransformers)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -231,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Survey on the Access to Finance of Enterprises: lending conditions tightened
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **„HollowByte“: Denial-of-Service-Lücke in OpenSSL** — Score 7, observation — [Quelle](https://www.heise.de/news/HollowByte-Denial-of-Service-Luecke-in-OpenSSL-11370866.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-20T11:17:00.000+00:00`, fetched `2026-07-20T11:27:42+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die OpenSSL-Maintainer haben stillschweigend eine Denial-of-Service-Lücke geschlossen. Okta nennt sie „HollowByte“.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz** — Score 7, observation — [Quelle](https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-20T06:39:00.000+00:00`, fetched `2026-07-20T07:09:25+00:00`
@@ -239,24 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ループエンジニアリングの次は本当に「グラフ」なのか考えてみた** — Score 7, observation — [Quelle](https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-19T11:46:19+00:00`, fetched `2026-07-20T03:36:53+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 📋 この記事の前提 前回記事「ループエンジニアリングをGitHub Copilotで組めるか調べてみた」を読んでいると話が早い 「ハーネスエンジニアリング」「ループエンジニアリング」という言葉を見聞きしたことがある この記事は2026年7月18日時点、生まれて1日も経っていない議論を扱っている。数日後には前提が変わってい...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI is shrinking video game development teams to one** — Score 5, observation — [Quelle](https://restofworld.org/2026/ai-video-games-developer-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-20T10:00:00+00:00`, fetched `2026-07-20T10:29:05+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0)
-  - Kurz: AI is helping solo developers thrive in Turkey’s gaming industry, but writers, artists, and junior programmers are being left behind.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

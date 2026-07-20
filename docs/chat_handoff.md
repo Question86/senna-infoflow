@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-20T10:29:34+00:00_
+_Generated: 2026-07-20T11:28:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `46`
+- findings: `54`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-20T10:29:34+00:00_
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique…
 
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (go-jose): Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-20T09:22:57+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985
-- summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen.
+- published: `2026-07-20T10:53:02+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1268
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. 2 years to agentic: Will you comply, or will you grow?
 - source: e27 Asia Startup and Tech Feed
