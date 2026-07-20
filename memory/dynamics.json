@@ -1,29 +1,80 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-20T08:45:45Z",
+  "generated_at": "2026-07-20T10:00:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 32,
+    "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "strong": 4,
-      "watch": 2,
-      "quiet": 24
+      "krass": 2,
+      "strong": 8,
+      "watch": 3,
+      "quiet": 25
     },
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 2,
-      "quiet": 24
+      "strong": 12,
+      "watch": 3,
+      "quiet": 25
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2409",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-20T09:27:54+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[NEU] [mittel] HCL BigFix: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2408",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-20T09:27:54+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in HCL BigFix ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
     {
       "title": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.21,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -53,7 +104,7 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-20T07:03:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -78,11 +129,62 @@
       "summary": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar."
     },
     {
+      "title": "[UPDATE] [hoch] Grafana: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0899",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-20T09:22:55+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, auth",
+        "security high-signal: code, auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um einen Denial of Service Angriff durchzuführen, Code auszuführen oder Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0985",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-20T09:22:57+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um unter anderem einen Denial of Service-Angriff auszuführen oder um Sicherheitsmechanismen zu umgehen."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 31.28,
+      "age_days": 31.33,
       "topics": [
         "ai"
       ],
@@ -107,11 +209,38 @@
       "summary": ""
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "age_days": 5.42,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-56155..."
+    },
+    {
       "title": "M 5.6 - 208 km SW of Port McNeill, Canada",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T07:07:33.183+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -136,7 +265,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:51:59.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -157,11 +286,37 @@
       "summary": "Time 2026-07-20 00:27:46 UTC 2026-07-20 00:27:46 UTC at epicenter Location 3.228°S 130.771°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2024-01-12T00:00:00+00:00",
+      "age_days": 920.42,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: cvss, cvss, cvss",
+        "security high-signal: cvss, cvss, cvss, auth",
+        "aging penalty -8.0 for 920.4d old signal"
+      ],
+      "summary": "\\[Mise à jour du 29 janvier 2024\\] Le 25 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. La vulnérabilité CVE-2024-0402 est considérée critique avec un score CVSSv3 de 9,9. Elle permet à un attaquant authentifié d'écrire des..."
+    },
+    {
       "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
       "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T03:00:05+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security"
@@ -186,7 +341,7 @@
       "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-20T06:39:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -207,11 +362,36 @@
       "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht."
     },
     {
+      "title": "SBI buys majority stake in Coinhako to deepen Singapore digital asset push",
+      "url": "https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-20T08:54:45+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: exchange, auth"
+      ],
+      "summary": "Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MAS). The transaction, completed on July 16 through SBI Ventur…"
+    },
+    {
       "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/101067",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-20T04:05:10+00:00",
-      "age_days": 0.19,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -233,11 +413,37 @@
       "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア..."
     },
     {
+      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
+      "url": "https://ascii.jp/elem/000/004/420/4420739/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-20T01:21:48+00:00",
+      "age_days": 0.36,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ..."
+    },
+    {
       "title": "M 4.6 - 203 km ESE of Ozernovskiy, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:36:01.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "disaster"
@@ -261,11 +467,63 @@
       "summary": "Time 2026-07-20 00:09:14 UTC 2026-07-20 00:09:14 UTC at epicenter Location 51.156°N 159.377°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Office (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0868/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "age_days": 5.42,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft .Net (15 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0870/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "age_days": 5.42,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+    },
+    {
       "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-07-20T08:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -289,7 +547,7 @@
       "url": "https://e27.co/malaysian-pension-fund-kwap-moves-to-contain-damage-after-efishery-fraud-shock-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T08:10:40+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -314,7 +572,7 @@
       "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T05:04:13+00:00",
-      "age_days": 0.15,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -339,7 +597,7 @@
       "url": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T11:46:19+00:00",
-      "age_days": 0.87,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -363,7 +621,7 @@
       "url": "https://e27.co/could-your-bitcoin-balance-soon-help-you-qualify-for-a-home-mortgage-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:55:16+00:00",
-      "age_days": 0.24,
+      "age_days": 0.3,
       "topics": [
         "macro"
       ],
@@ -387,7 +645,7 @@
       "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T01:20:05+00:00",
-      "age_days": 0.31,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -412,7 +670,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T23:16:01+00:00",
-      "age_days": 0.4,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -436,7 +694,7 @@
       "url": "https://e27.co/beyond-the-chatbot-how-gen-z-pioneers-are-leading-aseans-new-ai-revolution-20260720/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T03:50:50+00:00",
-      "age_days": 0.2,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -461,7 +719,7 @@
       "url": "https://e27.co/ai-is-about-to-blow-a-hole-in-aseans-climate-targets-unless-baseload-goes-clean-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:15:18+00:00",
-      "age_days": 0.27,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -487,7 +745,7 @@
       "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T02:31:28+00:00",
-      "age_days": 1.26,
+      "age_days": 1.31,
       "topics": [
         "ai"
       ],
@@ -512,7 +770,7 @@
       "url": "https://e27.co/the-extinction-events-in-product-evolution-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T01:15:57+00:00",
-      "age_days": 0.31,
+      "age_days": 0.36,
       "topics": [
         "macro"
       ],
@@ -536,7 +794,7 @@
       "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-16T11:24:15+00:00",
-      "age_days": 3.89,
+      "age_days": 3.94,
       "topics": [
         "general"
       ],
@@ -560,7 +818,7 @@
       "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T01:00:04+00:00",
-      "age_days": 0.32,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -585,7 +843,7 @@
       "url": "https://e27.co/beyond-the-code-how-vietnam-evolved-from-an-execution-hub-to-a-product-powerhouse-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:30:51+00:00",
-      "age_days": 0.26,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -611,7 +869,7 @@
       "url": "https://posfie.com/@lenchroot/p/AVSFamQ",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T17:31:48+00:00",
-      "age_days": 0.63,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -637,7 +895,7 @@
       "url": "https://github.com/kvcache-ai/ktransformers",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.21,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -662,7 +920,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 30.25,
+      "age_days": 30.3,
       "topics": [
         "general"
       ],
@@ -678,7 +936,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -15.2 for 30.2d old signal"
+        "aging penalty -15.2 for 30.3d old signal"
       ],
       "summary": ""
     },
@@ -687,7 +945,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 30.25,
+      "age_days": 30.3,
       "topics": [
         "general"
       ],
@@ -703,7 +961,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -15.2 for 30.2d old signal"
+        "aging penalty -15.2 for 30.3d old signal"
       ],
       "summary": ""
     },
@@ -712,7 +970,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 30.25,
+      "age_days": 30.3,
       "topics": [
         "ai"
       ],
@@ -729,7 +987,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -15.2 for 30.2d old signal",
+        "aging penalty -15.2 for 30.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -739,7 +997,7 @@
       "url": "https://e27.co/the-psychology-of-believing-ai-certainty-vs-truth-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:45:01+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -764,7 +1022,7 @@
       "url": "https://e27.co/from-tools-to-partners-the-socratic-dream-of-two-butterflies-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-20T02:00:56+00:00",
-      "age_days": 0.28,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -783,57 +1041,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "When a simple AI task turns into a meditation on intelligence, systems, and the nature of thinking. The shift It started, as many things do in tech, with something trivial. A to-do app. A specification. A test. A way to validate a system design. But somewhere between iterating on a dual primitive model—atom() as TCP,…"
-    },
-    {
-      "title": "「アルゴリズム」が大っ嫌い？ ならRSSを使いなさいよ » p2ptk[.]org",
-      "url": "https://p2ptk.org/digital-rights/5632",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-19T19:43:13+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "以下の文章は、電子フロンティア財団の「Hate “The Algorithm?” RSS Is One of the Tools You’ve Been Looking For」という記事を翻訳したものである。 Electronic Frontier Foundation オンラインのソーシャルネットワーク――あるいはインターネット文化をめぐるあらゆる会話――を軽く覗くだけでも、たいてい1人か2人の怪..."
-    },
-    {
-      "title": "andrewrabert/jellium-desktop",
-      "url": "https://github.com/andrewrabert/jellium-desktop",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-20T03:36:53+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "An unofficial desktop client for Jellyfin Jellium Desktop An unofficial Jellyfin desktop client built on CEF and mpv . Downloads Linux AppImage x86_64 aarch64 Arch Linux (AUR): jellium-desktop-git Flatpak (non-Flathub bundle) macOS Apple Silicon Intel After installing, remove quarantine: sudo xattr -cr /Applications/J…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “KnockOutEZ/wigolo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] WordPress: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
