@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-20T21:46:56+00:00_
+_Generated: 2026-07-20T22:11:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `72`
+- findings: `73`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-20T21:46:56+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1268
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 5. 2 years to agentic: Will you comply, or will you grow?
+### 5. M 5.6 - northern Mid-Atlantic Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-20T21:53:05.069+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z
+- summary: PAGER - GREEN ShakeMap - I Time 2026-07-20 21:28:30 UTC 2026-07-20 21:28:30 UTC at epicenter Location 14.522°N 45.100°W Depth 10.00 km (6.21 mi)
+
+### 6. 2 years to agentic: Will you comply, or will you grow?
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-20T01:20:05+00:00`
 - url: https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/
 - summary: Dubai has put a deadline on autonomous AI. The companies that treat it as a compliance project will end up with a more efficient version of the business they already have. The ones that change the game will end up with a different business. The mandate is rea…
 
-### 6. $100 million for open source: A milestone built by the community
+### 7. $100 million for open source: A milestone built by the community
 - source: GitHub Blog Atom
 - score: `12`
 - published: `2026-07-20T16:00:00+00:00`
 - url: https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/
 - summary: Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .
 
-### 7. Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30
+### 8. Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-07-20T14:40:21+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html
 - summary: Announcing 20260063 (MRO,liquidity providing), for 7 days deadline 09:30
-
-### 8. SBI buys majority stake in Coinhako to deepen Singapore digital asset push
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-07-20T08:54:45+00:00`
-- url: https://e27.co/sbi-buys-majority-stake-in-coinhako-to-deepen-singapore-digital-asset-push-20260720/
-- summary: Japanese financial services group SBI Holdings has acquired a majority stake in Singapore-based crypto exchange Coinhako, turning the company into a consolidated subsidiary after receiving approval from the market regulator Monetary Authority of Singapore (MA…
 
 END OF DOCUMENT

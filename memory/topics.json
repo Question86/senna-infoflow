@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T21:46:56+00:00",
+  "generated_at": "2026-07-20T22:11:29+00:00",
   "topics": {
     "ai": [
       {
@@ -314,6 +314,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5"
       },
       {
+        "title": "M 5.6 - northern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-20T21:53:05.069+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z"
+      },
+      {
         "title": "M 5.0 - south of the Kermadec Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-20T21:05:24.040+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-07-20T00:36:01.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2"
-      },
-      {
-        "title": "解説「照らす技術」をRubyで照らす #kanrk09 - Harukasan-dot-dev",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T15:28:45+00:00",
-        "relevance_score": 7,
-        "url": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby"
       }
     ],
     "economy": [

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T21:46:56+00:00",
-  "run_id": "2026-07-20T21:46:56+00:00",
+  "generated_at": "2026-07-20T22:11:29+00:00",
+  "run_id": "2026-07-20T22:11:29+00:00",
   "date": "2026-07-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 1,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 29,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -816,6 +816,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.6 - northern Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-20T21:53:05.069+00:00",
+        "fetched_at": "2026-07-20T22:10:57+00:00",
+        "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-20 21:28:30 UTC 2026-07-20 21:28:30 UTC at epicenter Location 14.522°N 45.100°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6e274be0b0488573abcf"
+      },
       {
         "title": "2 years to agentic: Will you comply, or will you grow?",
         "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/",
@@ -2662,6 +2700,44 @@
       "id": "29441ca3bb159a277e22"
     },
     {
+      "title": "M 5.6 - northern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-20T21:53:05.069+00:00",
+      "fetched_at": "2026-07-20T22:10:57+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-20 21:28:30 UTC 2026-07-20 21:28:30 UTC at epicenter Location 14.522°N 45.100°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6e274be0b0488573abcf"
+    },
+    {
       "title": "2 years to agentic: Will you comply, or will you grow?",
       "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3719,7 +3795,46 @@
       "id": "07006af62cb3feea4b76"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.6 - northern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-20T21:53:05.069+00:00",
+      "fetched_at": "2026-07-20T22:10:57+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-20 21:28:30 UTC 2026-07-20 21:28:30 UTC at epicenter Location 14.522°N 45.100°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6e274be0b0488573abcf"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
