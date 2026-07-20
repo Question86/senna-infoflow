@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-20T17:07:55+00:00",
-  "run_id": "2026-07-20T17:07:55+00:00",
+  "generated_at": "2026-07-20T17:54:29+00:00",
+  "run_id": "2026-07-20T17:54:29+00:00",
   "date": "2026-07-20",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 65
+      "configured_public_sources_only": 66
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 1,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 0,
     "medium": 28,
-    "observe": 37,
-    "source_errors": 0
+    "observe": 38,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1545,6 +1545,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "10f6864f7fc77c99ea90"
+      },
+      {
+        "title": "「ドコモの銀行」で何が変わる？ ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
+        "url": "https://ascii.jp/elem/000/004/420/4420599/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-20T05:00:57+00:00",
+        "fetched_at": "2026-07-20T17:53:46+00:00",
+        "summary": "7月1日、NTTドコモ傘下の金融関連会社をまとめた「NTTドコモ・フィナンシャルグループ」が誕生した。 8月3日には住信SBIネット銀行が「ドコモSMTBネット銀行」に社名が変更となり、「ドコモの銀行」というブランドを冠することになる。 SNS上では「ドコモの銀行、ダサすぎる。SBI新生銀行に乗り換える」といった不満の声...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "da9f4e0677db4805ad42"
       },
       {
         "title": "Beyond the code: How Vietnam evolved from an execution hub to a product powerhouse",
@@ -3212,6 +3233,27 @@
       "id": "10f6864f7fc77c99ea90"
     },
     {
+      "title": "「ドコモの銀行」で何が変わる？ ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
+      "url": "https://ascii.jp/elem/000/004/420/4420599/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T05:00:57+00:00",
+      "fetched_at": "2026-07-20T17:53:46+00:00",
+      "summary": "7月1日、NTTドコモ傘下の金融関連会社をまとめた「NTTドコモ・フィナンシャルグループ」が誕生した。 8月3日には住信SBIネット銀行が「ドコモSMTBネット銀行」に社名が変更となり、「ドコモの銀行」というブランドを冠することになる。 SNS上では「ドコモの銀行、ダサすぎる。SBI新生銀行に乗り換える」といった不満の声...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da9f4e0677db4805ad42"
+    },
+    {
       "title": "Beyond the code: How Vietnam evolved from an execution hub to a product powerhouse",
       "url": "https://e27.co/beyond-the-code-how-vietnam-evolved-from-an-execution-hub-to-a-product-powerhouse-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3361,52 +3403,35 @@
   ],
   "new_findings": [
     {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI News RSS",
+      "title": "「ドコモの銀行」で何が変わる？ ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
+      "url": "https://ascii.jp/elem/000/004/420/4420599/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-20T10:00:00+00:00",
-      "fetched_at": "2026-07-20T17:07:24+00:00",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "published_at": "2026-07-20T05:00:57+00:00",
+      "fetched_at": "2026-07-20T17:53:46+00:00",
+      "summary": "7月1日、NTTドコモ傘下の金融関連会社をまとめた「NTTドコモ・フィナンシャルグループ」が誕生した。 8月3日には住信SBIネット銀行が「ドコモSMTBネット銀行」に社名が変更となり、「ドコモの銀行」というブランドを冠することになる。 SNS上では「ドコモの銀行、ダサすぎる。SBI新生銀行に乗り換える」といった不満の声...",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "safety",
-        "Webentwicklung"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Webentwicklung (+3.0); safety (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a859f2fa989d2c454329"
-    },
-    {
-      "title": "Copilot users can now see AI credits used per billing cycle",
-      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-20T16:00:14+00:00",
-      "fetched_at": "2026-07-20T17:07:24+00:00",
-      "summary": "Copilot Business and Copilot Enterprise users can now see how many AI credits they’ve used this billing cycle, even without an individual budget. Find this on your GitHub Copilot usage… The post Copilot users can now see AI credits used per billing cycle appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f0462413919c8ebdd2e6"
+      "id": "da9f4e0677db4805ad42"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

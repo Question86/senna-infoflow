@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T17:07:55+00:00",
+  "generated_at": "2026-07-20T17:54:29+00:00",
   "topics": {
     "ai": [
       {
@@ -342,18 +342,18 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2"
       },
       {
+        "title": "「ドコモの銀行」で何が変わる？ ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T05:00:57+00:00",
+        "relevance_score": 5,
+        "url": "https://ascii.jp/elem/000/004/420/4420599/"
+      },
+      {
         "title": "「仕事を辞めるとボケる」は本当なのか？ ベトナム高齢者2000人超を早大などが分析",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-19T23:16:01+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html"
-      },
-      {
-        "title": "「アルゴリズム」が大っ嫌い？ ならRSSを使いなさいよ » p2ptk[.]org",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-19T19:43:13+00:00",
-        "relevance_score": 5,
-        "url": "https://p2ptk.org/digital-rights/5632"
       }
     ],
     "economy": [
