@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-20T00:55:46Z",
+  "generated_at": "2026-07-20T03:12:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 30.96,
+      "age_days": 31.05,
       "topics": [
         "ai"
       ],
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -3.5 for 31.0d old signal",
+        "aging penalty -3.5 for 31.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:51:59.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1v2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-20T00:36:01.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "disaster"
@@ -93,11 +93,36 @@
       "summary": "Time 2026-07-20 00:09:14 UTC 2026-07-20 00:09:14 UTC at epicenter Location 51.156°N 159.377°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "2 years to agentic: Will you comply, or will you grow?",
+      "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-20T01:20:05+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Dubai has put a deadline on autonomous AI. The companies that treat it as a compliance project will end up with a more efficient version of the business they already have. The ones that change the game will end up with a different business. The mandate is real, and it has a clock on it. […] The post 2 years to agentic…"
+    },
+    {
       "title": "AIエージェントに仕様書なしで実装させると何が起きるか — O'Reillyが説く「適切な仕様量」の見極め方",
       "url": "https://techfeed.io/entries/6a5ab5cb3d5307dbb0d5779b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-19T02:31:28+00:00",
-      "age_days": 0.93,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -118,11 +143,60 @@
       "summary": "7月17日、O'Reillyが「The Right Amount of Spec for Agentic Development」と題した記事を公開した。AIエージェントで「仕様書はもう要らない」という空気が広がるなか、「ゼロ仕様は安くない」という逆説から出発し、ボトルネックの移動・マルチエージェント間の「契約」概念・仕様の賞味期限まで、実装コストが激減し..."
     },
     {
+      "title": "The extinction events in product evolution",
+      "url": "https://e27.co/the-extinction-events-in-product-evolution-20260716/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-20T01:15:57+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Most product leaders are taught to watch competitors, benchmark features, and track market share as if category collapse begins with a stronger rival building a better version of the same thing. That story is tidy, but it is not how extinction usually works. Entire product categories do not disappear because somebody…"
+    },
+    {
+      "title": "The job you’re studying for might not exist: Here’s what still will",
+      "url": "https://e27.co/the-job-youre-studying-for-might-not-exist-heres-what-still-will-20260718/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-20T01:00:04+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Daniel Kokotajlo used to lead research at OpenAI, thinking several years ahead. He left in 2023 and gave up a chunk of equity/money to do it because he didn’t want to sign away his right to talk about what he was seeing. Since then, he’s built out some of the more detailed public forecasts of […] The post The job you’…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.92,
+      "age_days": 30.02,
       "topics": [
         "general"
       ],
@@ -138,7 +212,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -14.9 for 29.9d old signal"
+        "aging penalty -15.0 for 30.0d old signal"
       ],
       "summary": ""
     },
@@ -147,7 +221,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.92,
+      "age_days": 30.02,
       "topics": [
         "general"
       ],
@@ -163,7 +237,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -14.9 for 29.9d old signal"
+        "aging penalty -15.0 for 30.0d old signal"
       ],
       "summary": ""
     },
@@ -172,7 +246,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 29.92,
+      "age_days": 30.02,
       "topics": [
         "ai"
       ],
@@ -189,10 +263,35 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -14.9 for 29.9d old signal",
+        "aging penalty -15.0 for 30.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "「アルゴリズム」が大っ嫌い？ ならRSSを使いなさいよ » p2ptk[.]org",
+      "url": "https://p2ptk.org/digital-rights/5632",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-19T19:43:13+00:00",
+      "age_days": 0.31,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "以下の文章は、電子フロンティア財団の「Hate “The Algorithm?” RSS Is One of the Tools You’ve Been Looking For」という記事を翻訳したものである。 Electronic Frontier Foundation オンラインのソーシャルネットワーク――あるいはインターネット文化をめぐるあらゆる会話――を軽く覗くだけでも、たいてい1人か2人の怪..."
     }
   ],
   "read_order": [
@@ -205,7 +304,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 2,
-      "quiet": 5
+      "quiet": 9
     }
   }
 }
