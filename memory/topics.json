@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-20T18:33:57+00:00",
+  "generated_at": "2026-07-20T19:12:47+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://ascii.jp/elem/000/004/420/4420739/"
       },
       {
+        "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T00:10:35+00:00",
+        "relevance_score": 14,
+        "url": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide"
+      },
+      {
         "title": "Google Search Console APIを使ってSEO改善を自動化する",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-19T19:43:02+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-20T01:20:05+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/2-years-to-agentic-will-you-comply-or-will-you-grow-20260718/"
-      },
-      {
-        "title": "$100 million for open source: A milestone built by the community",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-07-20T16:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/"
       }
     ],
     "github": [
@@ -117,6 +117,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/kvcache-ai/ktransformers"
+      },
+      {
+        "title": "AI credit pools for cost centers in the billing UI",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-20T18:24:14+00:00",
+        "relevance_score": 7,
+        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui"
       },
       {
         "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",

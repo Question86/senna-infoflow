@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-20T18:33:57+00:00_
+_Generiert: 2026-07-20T19:12:47+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „KnockOutEZ/wigolo“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -129,15 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Google Search Console APIを使ってSEO改善を自動化する** — Score 14, opportunity — [Quelle](https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation)
+- **1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す** — Score 14, observation — [Quelle](https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-19T19:43:02+00:00`, fetched `2026-07-20T13:02:41+00:00`
-  - Treffer: Automatisierung, GitHub Actions, Hatena, hotentry
+  - Zeit: published `2026-07-20T00:10:35+00:00`, fetched `2026-07-20T19:12:15+00:00`
+  - Treffer: AI/KI, Content-Chance, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに Futuristic Imagination LLC 代表の佐藤です。AI技術を実事業に注ぎ込み、圧倒的な開発・検証スピードと**徹底した自動化・省力化（仕組み化）**を武器に日々プロダクト開発に励んでいます。自社ではAIオウンドメディアを11サイト運営しており、Next.jsとGemini API、Vercel Cronを組み合わせることで、毎日記...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: AI/KI (+3.8); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに 2026年3月31日、Caltech 発のスタートアップ PrismML が 1-bit LLM ファミリー Bonsai を発表しました。8B クラスのモデルがわずか 1.15GB、必要メモリ約 1.5GB で動作し、GPU なしの普通の PC でも実用的な速度で推論できるとして大きな話題になっています。 Bonsai の注目ポイントは次の3つです。 真の 1-bit...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
