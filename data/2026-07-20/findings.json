@@ -1073,6 +1073,42 @@
     "id": "d941d1d395c38e019b94"
   },
   {
+    "title": "M 4.9 - 193 km ENE of Saipan, Northern Mariana Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20d",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-20T19:36:28.040+00:00",
+    "fetched_at": "2026-07-20T19:52:32+00:00",
+    "summary": "Time 2026-07-20 19:14:04 UTC 2026-07-20 19:14:04 UTC at epicenter Location 15.847°N 147.439°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6609c8bc00f78fb2c867"
+  },
+  {
     "title": "Copilot users can now see AI credits used per billing cycle",
     "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
     "source": "GitHub Changelog Atom",
