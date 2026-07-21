@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T07:26:04+00:00_
+_Generated: 2026-07-21T08:15:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `41`
 
 ## Top Signals
 
@@ -15,33 +15,33 @@ _Generated: 2026-07-21T07:26:04+00:00_
 - url: https://jvn.jp/jp/JVN20592637/
 - summary: Drupalが提供するプラグイン「AI Agents」には、不正な認証の脆弱性が存在します。
 
-### 2. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+### 2. [UPDATE] [mittel] Red Hat Ansible Automation Platform: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `22`
+- published: `2026-07-21T07:46:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand herbeizuführen.
+
+### 3. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-07-21T07:46:07+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955
+- summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten…
+
+### 4. [UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-21T07:46:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938
+- summary: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Root-Rechte zu erlangen.
+
+### 5. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-21T06:48:25+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2190
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-21T06:48:25+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653
-- summary: Ein entfernter anonymer Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen.
-
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-21T06:48:24+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2175
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise das Auslösen eines Denial-of-Service-Zustands, die Umgehung von Sicherheitsmaßnahmen oder das Verursachen v…
-
-### 5. 非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-07-21T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN40509781/
-- summary: ソニー株式会社より2017年以前に出荷された一部のFeliCa ICチップでは、暗号処理プロセスにおいて特定の操作を行うことにより、本来のセキュリティ強度が低下する事象が発生します。
 
 ### 6. Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian
 - source: e27 Asia Startup and Tech Feed
@@ -57,18 +57,18 @@ _Generated: 2026-07-21T07:26:04+00:00_
 - url: https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html
 - summary: Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できます...
 
-### 8. Singapore turns AI scrutiny towards chatbots, personal data, and digital twins
+### 8. July 2026 euro area bank lending survey
+- source: ECB Press Releases Speeches Interviews
+- score: `10`
+- published: `2026-07-21T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html
+- summary: July 2026 euro area bank lending survey
+
+### 9. Singapore turns AI scrutiny towards chatbots, personal data, and digital twins
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-07-21T04:45:28+00:00`
 - url: https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/
 - summary: Singapore is moving to sharpen the rules around how companies use personal data in generative AI, as the country tries to square two competing realities: businesses want more data to build AI systems, while users are increasingly asked to trust tools they bar…
-
-### 9. It’s time to rebuild the house: The AI-driven transformation of enterprise
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-21T02:45:36+00:00`
-- url: https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/
-- summary: Somewhere around 2017, at a family dinner in my hometown in Gujarat (India), an uncle asked me what I actually did for a living. I said “cloud consulting,” and he had no idea what that meant. So I reached for an analogy, and it worked so well that I’ve been u…
 
 END OF DOCUMENT

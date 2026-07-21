@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T07:26:04+00:00",
+  "generated_at": "2026-07-21T08:15:55+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/"
       },
       {
+        "title": "AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜｜kunpe (ymdpharm)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T00:30:45+00:00",
+        "relevance_score": 10,
+        "url": "https://note.com/ymdpharm3/n/n8515d151e56d"
+      },
+      {
         "title": "Global expansion is no longer about reducing information costs, it’s about reducing trust costs",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-21T03:00:57+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-21T02:30:56+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/"
-      },
-      {
-        "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T23:13:38+00:00",
-        "relevance_score": 8,
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html"
       }
     ],
     "security": [
@@ -82,6 +82,27 @@
         "published_at": "2026-07-21T12:00:15+09:00",
         "relevance_score": 27,
         "url": "https://jvn.jp/jp/JVN20592637/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Ansible Automation Platform: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T07:46:06+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923"
+      },
+      {
+        "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T07:46:07+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T07:46:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -112,18 +133,18 @@
         "url": "https://jvn.jp/jp/JVN40509781/"
       },
       {
+        "title": "[UPDATE] [mittel] FreeRDP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T07:46:08+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1963"
+      },
+      {
         "title": "[UPDATE] [mittel] PHP: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-21T06:48:26+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2186"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Satellite (foreman, python-pillow, go): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T06:48:24+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2166"
       }
     ],
     "geopolitics": [
@@ -135,11 +156,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653"
       },
       {
+        "title": "July 2026 euro area bank lending survey",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-21T08:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html"
+      },
+      {
         "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-21T04:45:28+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/"
+      },
+      {
+        "title": "AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜｜kunpe (ymdpharm)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T00:30:45+00:00",
+        "relevance_score": 10,
+        "url": "https://note.com/ymdpharm3/n/n8515d151e56d"
       },
       {
         "title": "Global expansion is no longer about reducing information costs, it’s about reducing trust costs",
@@ -191,6 +226,13 @@
         "published_at": "2026-07-21T06:51:50+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/"
+      },
+      {
+        "title": "July 2026 euro area bank lending survey",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-21T08:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html"
       },
       {
         "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
@@ -249,6 +291,13 @@
         "published_at": "2026-07-21T02:39:45+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260721-01"
+      },
+      {
+        "title": "NY市に「ワンクリック解約」と「隠し手数料禁止」の新ルール。市民は年1.6億ドルの節約に | ギズモード・ジャパン",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T05:32:14+00:00",
+        "relevance_score": 5,
+        "url": "https://www.gizmodo.jp/article/mamdanis-new-click-to-cancel-rule-makes-it-easier-for-new-yorkers-to-cancel-subscriptions/"
       },
       {
         "title": "Appleはもう「メモリのお得意様」ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
