@@ -2115,6 +2115,27 @@
     "id": "2da2ef0c4cd75035895a"
   },
   {
+    "title": "最近、なぜみんなuvを使っているんですか？ Pythonパッケージ管理の変遷と現在地 - Findy Media",
+    "url": "https://findy-code.io/media/articles/chotto-wakaru-python",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T23:36:53+00:00",
+    "fetched_at": "2026-07-21T22:21:13+00:00",
+    "summary": "Pythonのパッケージ管理や仮想環境の構築においては、長らく「多種多様なツールが存在するが、どれがベストプラクティスなのかわからない」という状況が続いてきました。しかし、近年登場したRust製のパッケージ管理ツールuvは、その有力な回答として多くのユーザーから支持され、今、急速に普及しています。 過去に登場...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "88eb2a0274481378a3bd"
+  },
+  {
     "title": "Appleはもう「メモリのお得意様」ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
     "url": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html",
     "source": "Hatena Bookmark Hotentry IT",
