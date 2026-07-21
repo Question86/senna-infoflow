@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T15:20:01+00:00_
+_Generated: 2026-07-21T15:56:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `81`
+- findings: `82`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-07-21T15:20:01+00:00_
 - url: https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/
 - summary: For years, much of Southeast Asia’s digital economy has been built around a quiet compromise: if users wanted access to the best technology, they often had to meet it in English. That bargain is beginning to shift. New usage data around Google’s Gemini sugges…
 
-### 9. WordPress-Lücke „wp2shell“ wird angegriffen
-- source: heise Security Alerts
+### 9. Gemini 3.6 Flash is now available in GitHub Copilot
+- source: GitHub Changelog Atom
 - score: `11`
-- published: `2026-07-21T12:13:00.000+00:00`
-- url: https://www.heise.de/news/WordPress-Luecke-wp2shell-wird-angegriffen-11372213.html
-- summary: Zum Wochenende wurde die „wp2shell“-WordPress-Lücke bekannt. Seitdem beobachten IT-Sicherheitsforscher Attacken im Internet darauf.
+- published: `2026-07-21T15:04:31+00:00`
+- url: https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot
+- summary: Gemini 3.6 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. It is designed for web and app development, coding, and longer-horizon agentic tasks. It has configurable… The post Gemini 3.6 Flash is now available in GitHub Copilot appear…
 
 END OF DOCUMENT

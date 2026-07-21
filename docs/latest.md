@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T15:20:01+00:00_
+_Generiert: 2026-07-21T15:56:03+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+82 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 ## Priorität Hoch
 
@@ -131,6 +131,15 @@ _Generiert: 2026-07-21T15:20:01+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)
   - Kurz: For years, much of Southeast Asia’s digital economy has been built around a quiet compromise: if users wanted access to the best technology, they often had to meet it in English. That bargain is beginning to shift. New usage data around Google’s Gemini suggests that generative AI in the region is increasingly being used in local […] The post Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Gemini 3.6 Flash is now available in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-21T15:04:31+00:00`, fetched `2026-07-21T15:55:33+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Gemini 3.6 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. It is designed for web and app development, coding, and longer-horizon agentic tasks. It has configurable… The post Gemini 3.6 Flash is now available in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **WordPress-Lücke „wp2shell“ wird angegriffen** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Luecke-wp2shell-wird-angegriffen-11372213.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-21T12:13:00.000+00:00`, fetched `2026-07-21T12:42:27+00:00`
@@ -229,15 +238,6 @@ _Generiert: 2026-07-21T15:20:01+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Roundcube (06 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0835/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-06T00:00:00+00:00`, fetched `2026-07-21T11:30:03+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

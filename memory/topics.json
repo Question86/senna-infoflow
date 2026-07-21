@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T15:20:01+00:00",
+  "generated_at": "2026-07-21T15:56:03+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/"
       },
       {
+        "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-21T15:04:31+00:00",
+        "relevance_score": 11,
+        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot"
+      },
+      {
         "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-20T21:39:31+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-21T04:45:28+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/"
-      },
-      {
-        "title": "It’s time to rebuild the house: The AI-driven transformation of enterprise",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T02:45:36+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/"
       }
     ],
     "security": [
@@ -329,6 +329,13 @@
       }
     ],
     "github": [
+      {
+        "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-21T15:04:31+00:00",
+        "relevance_score": 11,
+        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot"
+      },
       {
         "title": "1jehuang/jcode",
         "source": "GitHub Trending RSS All Languages Daily",

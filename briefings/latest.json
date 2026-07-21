@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T15:20:01+00:00",
-  "run_id": "2026-07-21T15:20:01+00:00",
+  "generated_at": "2026-07-21T15:56:03+00:00",
+  "run_id": "2026-07-21T15:56:03+00:00",
   "date": "2026-07-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "new_relevant_findings": 1,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 1,
     "medium": 38,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1102,6 +1102,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1532f15723ce5a40b57e"
+      },
+      {
+        "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-21T15:04:31+00:00",
+        "fetched_at": "2026-07-21T15:55:33+00:00",
+        "summary": "Gemini 3.6 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. It is designed for web and app development, coding, and longer-horizon agentic tasks. It has configurable… The post Gemini 3.6 Flash is now available in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cb4c4786d8787c7feb73"
       },
       {
         "title": "WordPress-Lücke „wp2shell“ wird angegriffen",
@@ -3095,6 +3117,28 @@
       "id": "1532f15723ce5a40b57e"
     },
     {
+      "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-21T15:04:31+00:00",
+      "fetched_at": "2026-07-21T15:55:33+00:00",
+      "summary": "Gemini 3.6 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. It is designed for web and app development, coding, and longer-horizon agentic tasks. It has configurable… The post Gemini 3.6 Flash is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb4c4786d8787c7feb73"
+    },
+    {
       "title": "WordPress-Lücke „wp2shell“ wird angegriffen",
       "url": "https://www.heise.de/news/WordPress-Luecke-wp2shell-wird-angegriffen-11372213.html",
       "source": "heise Security Alerts",
@@ -4012,7 +4056,30 @@
       "id": "80dadd7b42369a97f427"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-21T15:04:31+00:00",
+      "fetched_at": "2026-07-21T15:55:33+00:00",
+      "summary": "Gemini 3.6 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. It is designed for web and app development, coding, and longer-horizon agentic tasks. It has configurable… The post Gemini 3.6 Flash is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb4c4786d8787c7feb73"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
