@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-21T00:04:46Z",
+  "generated_at": "2026-07-21T00:52:50Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,44 +23,9 @@
   ],
   "current_dynamic_memory_candidates": [
     {
-      "title": "KnockOutEZ/wigolo",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "Google Search Console APIを使ってSEO改善を自動化する",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "$100 million for open source: A milestone built by the community",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "Kritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Codeausführung und Denial of Service",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[NEU] [hoch] Extreme Networks ExtremeXOS: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
   ]
 }
