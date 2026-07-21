@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T05:37:59+00:00_
+_Generiert: 2026-07-21T06:32:10+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+26 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,10 @@ _Generiert: 2026-07-21T05:37:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:35km) in Mexico 19/07/2026 17:45 UTC, 450 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone 02L-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001290)
+- **GDACS: Green notification for tropical cyclone BERTHA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001290)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone 02L-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone BERTHA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone FAUSTO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001289)
   - Quelle: GDACS
   - Zeit: ``
@@ -204,14 +204,23 @@ _Generiert: 2026-07-21T05:37:59+00:00_
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https://jcode.sh/install.ps1 | iex Need…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年7月21日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260721-01)
+- **第7回デジタル社会推進会議の会議資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-promotion/b1ab9739-cc25-4126-a2d8-e5d00cf809ff)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-21T02:39:45+00:00`, fetched `2026-07-21T03:27:09+00:00`
+  - Zeit: published `2026-07-21T06:00:00+00:00`, fetched `2026-07-21T06:31:37+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年7月21日）動画を掲載しました
+  - Kurz: 第7回デジタル社会推進会議の会議資料等を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **モビリティ・ロードマップ2026を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/mobility-working-group)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-21T06:00:00+00:00`, fetched `2026-07-21T06:31:37+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: モビリティ・ロードマップ2026を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Appleはもう「メモリのお得意様」ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/16/news092.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T05:37:59+00:00",
-  "run_id": "2026-07-21T05:37:59+00:00",
+  "generated_at": "2026-07-21T06:32:10+00:00",
+  "run_id": "2026-07-21T06:32:10+00:00",
   "date": "2026-07-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 4,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 1,
     "medium": 3,
-    "observe": 18,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -430,6 +430,87 @@
           "EWZ"
         ],
         "id": "0847c8379d7331dc863f"
+      },
+      {
+        "title": "GoSerpent exposes the quiet cyber war against Southeast Asian governments",
+        "url": "https://e27.co/goserpent-exposes-the-quiet-cyber-war-against-southeast-asian-governments-20260721/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-21T06:11:51+00:00",
+        "fetched_at": "2026-07-21T06:31:37+00:00",
+        "summary": "Kaspersky researchers say they have uncovered a long-running cyber-espionage campaign targeting government and diplomatic organisations in Southeast Asia, using a Go-based remote access trojan designed less for smash-and-grab theft than for patient intelligence collection. The campaign, which Kaspersky’s Global Research and Analysis Team has dubbed GoSerpent, was identified in July 2026. According to the company, [……",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c71cb307364f05da5729"
+      },
+      {
+        "title": "第7回デジタル社会推進会議の会議資料等を掲載しました",
+        "url": "https://www.digital.go.jp/councils/social-promotion/b1ab9739-cc25-4126-a2d8-e5d00cf809ff",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-21T06:00:00+00:00",
+        "fetched_at": "2026-07-21T06:31:37+00:00",
+        "summary": "第7回デジタル社会推進会議の会議資料等を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c46d732f71a00c0351d8"
+      },
+      {
+        "title": "モビリティ・ロードマップ2026を掲載しました",
+        "url": "https://www.digital.go.jp/councils/mobility-working-group",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-21T06:00:00+00:00",
+        "fetched_at": "2026-07-21T06:31:37+00:00",
+        "summary": "モビリティ・ロードマップ2026を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5454f1c2f550546750ad"
+      },
+      {
+        "title": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+        "url": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-21T06:00:00+00:00",
+        "fetched_at": "2026-07-21T06:31:37+00:00",
+        "summary": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f2b6d55a57ab2f8bff67"
       },
       {
         "title": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
@@ -977,6 +1058,87 @@
       "id": "0847c8379d7331dc863f"
     },
     {
+      "title": "GoSerpent exposes the quiet cyber war against Southeast Asian governments",
+      "url": "https://e27.co/goserpent-exposes-the-quiet-cyber-war-against-southeast-asian-governments-20260721/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T06:11:51+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "Kaspersky researchers say they have uncovered a long-running cyber-espionage campaign targeting government and diplomatic organisations in Southeast Asia, using a Go-based remote access trojan designed less for smash-and-grab theft than for patient intelligence collection. The campaign, which Kaspersky’s Global Research and Analysis Team has dubbed GoSerpent, was identified in July 2026. According to the company, [……",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c71cb307364f05da5729"
+    },
+    {
+      "title": "第7回デジタル社会推進会議の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/social-promotion/b1ab9739-cc25-4126-a2d8-e5d00cf809ff",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T06:00:00+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "第7回デジタル社会推進会議の会議資料等を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c46d732f71a00c0351d8"
+    },
+    {
+      "title": "モビリティ・ロードマップ2026を掲載しました",
+      "url": "https://www.digital.go.jp/councils/mobility-working-group",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T06:00:00+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "モビリティ・ロードマップ2026を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5454f1c2f550546750ad"
+    },
+    {
+      "title": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+      "url": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T06:00:00+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2b6d55a57ab2f8bff67"
+    },
+    {
       "title": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260721-01",
       "source": "Japan Digital Agency News RSS",
@@ -1122,25 +1284,85 @@
   ],
   "new_findings": [
     {
-      "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
-      "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/",
+      "title": "GoSerpent exposes the quiet cyber war against Southeast Asian governments",
+      "url": "https://e27.co/goserpent-exposes-the-quiet-cyber-war-against-southeast-asian-governments-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-21T04:45:28+00:00",
-      "fetched_at": "2026-07-21T05:37:30+00:00",
-      "summary": "Singapore is moving to sharpen the rules around how companies use personal data in generative AI, as the country tries to square two competing realities: businesses want more data to build AI systems, while users are increasingly asked to trust tools they barely understand. At the Singapore Data Festival on Monday, Minister for Digital Development […] The post Singapore turns AI scrutiny towards chatbots, personal d…",
+      "published_at": "2026-07-21T06:11:51+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "Kaspersky researchers say they have uncovered a long-running cyber-espionage campaign targeting government and diplomatic organisations in Southeast Asia, using a Go-based remote access trojan designed less for smash-and-grab theft than for patient intelligence collection. The campaign, which Kaspersky’s Global Research and Analysis Team has dubbed GoSerpent, was identified in July 2026. According to the company, [……",
       "matched_keywords": [
-        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c71cb307364f05da5729"
+    },
+    {
+      "title": "モビリティ・ロードマップ2026を掲載しました",
+      "url": "https://www.digital.go.jp/councils/mobility-working-group",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T06:00:00+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "モビリティ・ロードマップ2026を掲載しました",
+      "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c91a98fac7f31b7342f5"
+      "id": "5454f1c2f550546750ad"
+    },
+    {
+      "title": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+      "url": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T06:00:00+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2b6d55a57ab2f8bff67"
+    },
+    {
+      "title": "第7回デジタル社会推進会議の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/social-promotion/b1ab9739-cc25-4126-a2d8-e5d00cf809ff",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T06:00:00+00:00",
+      "fetched_at": "2026-07-21T06:31:37+00:00",
+      "summary": "第7回デジタル社会推進会議の会議資料等を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c46d732f71a00c0351d8"
     }
   ],
   "source_errors": [],

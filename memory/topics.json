@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T05:37:59+00:00",
+  "generated_at": "2026-07-21T06:32:10+00:00",
   "topics": {
     "ai": [
       {
@@ -149,6 +149,13 @@
         "published_at": "2026-07-21T02:21:42+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/"
+      },
+      {
+        "title": "GoSerpent exposes the quiet cyber war against Southeast Asian governments",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T06:11:51+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/goserpent-exposes-the-quiet-cyber-war-against-southeast-asian-governments-20260721/"
       }
     ],
     "general": [
@@ -158,6 +165,27 @@
         "published_at": "2026-07-21T01:19:56.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
+      },
+      {
+        "title": "第7回デジタル社会推進会議の会議資料等を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-21T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/councils/social-promotion/b1ab9739-cc25-4126-a2d8-e5d00cf809ff"
+      },
+      {
+        "title": "モビリティ・ロードマップ2026を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-21T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/councils/mobility-working-group"
+      },
+      {
+        "title": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-21T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0"
       },
       {
         "title": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
