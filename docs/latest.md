@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T08:15:55+00:00_
+_Generiert: 2026-07-21T09:12:59+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+47 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 ## Priorität Hoch
 
@@ -56,6 +56,15 @@ _Generiert: 2026-07-21T08:15:55+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ソニー株式会社より2017年以前に出荷された一部のFeliCa ICチップでは、暗号処理プロセスにおいて特定の操作を行うことにより、本来のセキュリティ強度が低下する事象が発生します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Ecosystem Roundup: SEA’s AI future is being coded in its own languages** — Score 14, observation — [Quelle](https://e27.co/ecosystem-roundup-seas-ai-future-is-being-coded-in-its-own-languages-20260721/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-21T09:10:16+00:00`, fetched `2026-07-21T09:12:27+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0)
+  - Kurz: Southeast Asia‘s AI moment is arriving, but not in English. Across Vietnam, Thailand, and Indonesia, a quiet but consequential shift is under way: researchers, startups, and governments are building large language models trained on local languages, dialects, and cultural contexts, rather than waiting for Silicon Valley to localise its tools. The stakes are significant. English-centric […] The post Ecosystem Roundup:…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore is not a small market, it is a compressed one** — Score 14, observation — [Quelle](https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-21T01:15:23+00:00`, fetched `2026-07-21T01:25:30+00:00`

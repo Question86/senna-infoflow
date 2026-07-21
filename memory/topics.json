@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T08:15:55+00:00",
+  "generated_at": "2026-07-21T09:12:59+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-07-21T12:00:15+09:00",
         "relevance_score": 27,
         "url": "https://jvn.jp/jp/JVN20592637/"
+      },
+      {
+        "title": "Ecosystem Roundup: SEA’s AI future is being coded in its own languages",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T09:10:16+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ecosystem-roundup-seas-ai-future-is-being-coded-in-its-own-languages-20260721/"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM App Connect Enterprise Certified Container: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T09:02:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1407"
       },
       {
         "title": "AI is answering your customers before they ever click, and it may never mention you",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-21T03:00:57+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/global-expansion-is-no-longer-about-reducing-information-costs-its-about-reducing-trust-costs-20260719/"
-      },
-      {
-        "title": "M 5.0 - 141 km SSW of Gataivai, Samoa",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-21T00:02:27.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232"
-      },
-      {
-        "title": "Your offshore vendor’s AI is running on your code: Do you know which one?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T02:30:56+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/"
       }
     ],
     "security": [
@@ -133,18 +133,18 @@
         "url": "https://jvn.jp/jp/JVN40509781/"
       },
       {
-        "title": "[UPDATE] [mittel] FreeRDP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T07:46:08+00:00",
+        "published_at": "2026-07-21T09:02:55+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1963"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1828"
       },
       {
-        "title": "[UPDATE] [mittel] PHP: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[UPDATE] [mittel] PostgreSQL JDBC Driver: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T06:48:26+00:00",
+        "published_at": "2026-07-21T09:02:53+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2186"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2199"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,34 @@
         "published_at": "2026-07-21T06:48:25+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653"
+      },
+      {
+        "title": "Ecosystem Roundup: SEA’s AI future is being coded in its own languages",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T09:10:16+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ecosystem-roundup-seas-ai-future-is-being-coded-in-its-own-languages-20260721/"
+      },
+      {
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T09:02:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1828"
+      },
+      {
+        "title": "[NEU] [niedrig] Zoho ManageEngine Endpoint Central: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T08:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2422"
+      },
+      {
+        "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht Denial of Service und potenziell Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T08:32:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2421"
       },
       {
         "title": "July 2026 euro area bank lending survey",
@@ -189,27 +217,6 @@
         "published_at": "2026-07-21T02:30:56+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/"
-      },
-      {
-        "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-21T00:14:37+00:00",
-        "relevance_score": 8,
-        "url": "https://www.digital.go.jp/policies/priority-policy-program"
-      },
-      {
-        "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T02:21:42+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/"
-      },
-      {
-        "title": "GoSerpent exposes the quiet cyber war against Southeast Asian governments",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T06:11:51+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/goserpent-exposes-the-quiet-cyber-war-against-southeast-asian-governments-20260721/"
       }
     ],
     "economy": [
