@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T15:56:03+00:00",
+  "generated_at": "2026-07-21T18:03:07+00:00",
   "topics": {
     "ai": [
       {
@@ -12,11 +12,25 @@
         "url": "https://jvn.jp/jp/JVN20592637/"
       },
       {
+        "title": "Introducing the ChatGPT for small business program",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-21T17:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      },
+      {
         "title": "政府、マイナカードをAIエージェントと連携へ 重点計画に明記",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-21T08:32:46+00:00",
         "relevance_score": 16,
         "url": "https://japan.cnet.com/article/35250805/"
+      },
+      {
+        "title": "How to build interactive experiences with canvases",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-21T16:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/"
       },
       {
         "title": "Ecosystem Roundup: SEA’s AI future is being coded in its own languages",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-20T21:39:31+00:00",
         "relevance_score": 11,
         "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html"
-      },
-      {
-        "title": "Multiples vulnérabilités dans Microsoft Azure (15 juillet 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-07-15T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0871/"
-      },
-      {
-        "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T04:45:28+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/"
       }
     ],
     "security": [
@@ -149,6 +149,13 @@
     ],
     "geopolitics": [
       {
+        "title": "Introducing the ChatGPT for small business program",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-21T17:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-21T10:47:53+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-07-21T08:32:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2421"
-      },
-      {
-        "title": "July 2026 euro area bank lending survey",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-21T08:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html"
       }
     ],
     "general": [
@@ -291,6 +291,36 @@
         "url": "https://www.digital.go.jp/councils/mobility-working-group"
       }
     ],
+    "github": [
+      {
+        "title": "How to build interactive experiences with canvases",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-21T16:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/"
+      },
+      {
+        "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-21T15:04:31+00:00",
+        "relevance_score": 11,
+        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot"
+      },
+      {
+        "title": "1jehuang/jcode",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/1jehuang/jcode"
+      },
+      {
+        "title": "Why boards are getting CEO succession wrong, and what it’s costing them",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T03:15:36+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-boards-are-getting-ceo-succession-wrong-and-what-its-costing-them-20260719/"
+      }
+    ],
     "economy": [
       {
         "title": "Singapore is not a small market, it is a compressed one",
@@ -326,29 +356,6 @@
         "published_at": "2026-07-21T02:00:18+00:00",
         "relevance_score": 5,
         "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/"
-      }
-    ],
-    "github": [
-      {
-        "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-21T15:04:31+00:00",
-        "relevance_score": 11,
-        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot"
-      },
-      {
-        "title": "1jehuang/jcode",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/1jehuang/jcode"
-      },
-      {
-        "title": "Why boards are getting CEO succession wrong, and what it’s costing them",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T03:15:36+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-boards-are-getting-ceo-succession-wrong-and-what-its-costing-them-20260719/"
       }
     ]
   }

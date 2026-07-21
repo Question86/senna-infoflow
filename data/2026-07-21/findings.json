@@ -97,6 +97,28 @@
     "id": "c254f78bfa77f830c016"
   },
   {
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-21T17:00:00+00:00",
+    "fetched_at": "2026-07-21T18:02:36+00:00",
+    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "73a05a323b7d989ef955"
+  },
+  {
     "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2099",
     "source": "BSI CERT-Bund Security Advisories",
@@ -539,6 +561,29 @@
       "LOW"
     ],
     "id": "a6c121ad773394ded689"
+  },
+  {
+    "title": "How to build interactive experiences with canvases",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-21T16:00:00+00:00",
+    "fetched_at": "2026-07-21T18:02:36+00:00",
+    "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "Content-Chance",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9918880e2e0aba83da5f"
   },
   {
     "title": "非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性",
