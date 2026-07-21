@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-21T01:26:02+00:00",
+  "generated_at": "2026-07-21T02:15:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 4,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 2,
-    "observe": 5
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -80,144 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 31.98,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -3.8 for 32.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.2 - northern Mid-Atlantic Ridge",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-21T01:19:56.040+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-07-21 01:03:34 UTC 2026-07-21 01:03:34 UTC at epicenter Location 25.904°N 45.089°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "Singapore is not a small market, it is a compressed one",
-        "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T01:15:23+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "Singapore is often described as a small market. That is true in population terms, but misleading in almost every other way. It is better understood as a compressed market. Customers, investors, regulators, partners, talent, and competitors operate unusually close to one another. Information moves quickly. So does repu…"
-      },
-      {
-        "title": "M 5.0 - 141 km SSW of Gataivai, Samoa",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-21T00:02:27.040+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai",
-          "disaster"
-        ],
-        "dynamics_score": 9.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Time 2026-07-20 23:37:57 UTC 2026-07-20 23:37:57 UTC at epicenter Location 14.968°S 172.862°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-        "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T21:39:31+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 8.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できます..."
-      }
-    ]
-  }
+  ]
 }

@@ -158,6 +158,70 @@
     "id": "0caa88f0b9ec95483ba7"
   },
   {
+    "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T23:13:38+00:00",
+    "fetched_at": "2026-07-21T02:14:58+00:00",
+    "summary": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」：Go AbekawaのGo Global！ 牛尾剛さん AI vs.人間編（前編）（1/2 ページ） 米国MS開発の最前線では「コーディングエージェントブーム」は既に終息し、AIは日常の文房具に。AI時代に本当に求められる「人間の本体の強さ」と、思考を手放さ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e7d207a99b0253e38d5b"
+  },
+  {
+    "title": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-21T02:14:58+00:00",
+    "summary": "The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https://jcode.sh/install.ps1 | iex Need…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "98e7198d3bcc5d801620"
+  },
+  {
+    "title": "Why DNA is becoming the next platform layer in digital health",
+    "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-21T02:00:18+00:00",
+    "fetched_at": "2026-07-21T02:14:58+00:00",
+    "summary": "Digital health has spent the last decade building around behaviour. Apps track our steps, sleep, heart rate, calories, menstrual cycles, medication reminders and mental health check-ins. Wearables have made continuous health data feel normal. Telehealth has made remote consultations more acceptable. Wellness platforms have made personalised recommendations part of everyday consumer language. However, most of […] The…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2da2ef0c4cd75035895a"
+  },
+  {
     "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
     "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
     "source": "Hatena Bookmark Hotentry IT",
@@ -177,5 +241,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4d58a581b76168574aa6"
+  },
+  {
+    "title": "AIによる生産性向上「10年でわずか0.66％」ノーベル賞学者の驚きの“検算”、巨額投資も株価高騰も正当化されない？ 【小泉秀人の時事ネタ経済学】ゴールドマン予測と桁違いに低い経済効果、資料作成が爆速になっても経済全体にはほぼ影響なし？ | JBpress (ジェイビープレス)",
+    "url": "https://jbpress.ismedia.jp/articles/-/96002",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T06:37:31+00:00",
+    "fetched_at": "2026-07-21T02:14:58+00:00",
+    "summary": "この連載で、AIブームを支えるデータセンターへの巨額投資が、いずれ“請求書”として届きかねないという議論＊1を紹介した。その請求書を最終的に払えるかどうかは、AIが経済全体の生産性をどれだけ押し上げるかにかかっている。この本丸の問いに対し、現在までに経済学者がどのような試算を出しているか、いくつかの研究...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "747f955e52f1be9a9c0f"
   }
 ]

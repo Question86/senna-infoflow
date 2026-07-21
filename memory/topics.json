@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T01:26:02+00:00",
+  "generated_at": "2026-07-21T02:15:31+00:00",
   "topics": {
     "economy": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-21T01:15:23+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/"
+      },
+      {
+        "title": "Why DNA is becoming the next platform layer in digital health",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T02:00:18+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/"
       }
     ],
     "ai": [
@@ -33,6 +40,27 @@
         "published_at": "2026-07-21T00:02:27.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232"
+      },
+      {
+        "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T23:13:38+00:00",
+        "relevance_score": 8,
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html"
+      },
+      {
+        "title": "1jehuang/jcode",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/1jehuang/jcode"
+      },
+      {
+        "title": "AIによる生産性向上「10年でわずか0.66％」ノーベル賞学者の驚きの“検算”、巨額投資も株価高騰も正当化されない？ 【小泉秀人の時事ネタ経済学】ゴールドマン予測と桁違いに低い経済効果、資料作成が爆速になっても経済全体にはほぼ影響なし？ | JBpress (ジェイビープレス)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T06:37:31+00:00",
+        "relevance_score": 5,
+        "url": "https://jbpress.ismedia.jp/articles/-/96002"
       }
     ],
     "general": [
@@ -58,6 +86,15 @@
         "published_at": "2026-07-21T00:14:37+00:00",
         "relevance_score": 8,
         "url": "https://www.digital.go.jp/policies/priority-policy-program"
+      }
+    ],
+    "github": [
+      {
+        "title": "1jehuang/jcode",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/1jehuang/jcode"
       }
     ]
   }

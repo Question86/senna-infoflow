@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T01:26:02+00:00_
+_Generiert: 2026-07-21T02:15:31+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Singapore is not a small market, it is a compressed one“ aus e27 Asia Startup and Tech Feed (Score 14, observation).
+11 neue relevante Treffer. Stärkstes Signal: „Singapore is not a small market, it is a compressed one“ aus e27 Asia Startup and Tech Feed (Score 14, observation).
 
 ## Priorität Hoch
 
@@ -68,6 +68,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」** — Score 8, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-20T23:13:38+00:00`, fetched `2026-07-21T02:14:58+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」：Go AbekawaのGo Global！ 牛尾剛さん AI vs.人間編（前編）（1/2 ページ） 米国MS開発の最前線では「コーディングエージェントブーム」は既に終息し、AIは日常の文房具に。AI時代に本当に求められる「人間の本体の強さ」と、思考を手放さ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **1jehuang/jcode** — Score 8, observation — [Quelle](https://github.com/1jehuang/jcode)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-21T02:14:58+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https://jcode.sh/install.ps1 | iex Need…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why DNA is becoming the next platform layer in digital health** — Score 5, observation — [Quelle](https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-21T02:00:18+00:00`, fetched `2026-07-21T02:14:58+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: Digital health has spent the last decade building around behaviour. Apps track our steps, sleep, heart rate, calories, menstrual cycles, medication reminders and mental health check-ins. Wearables have made continuous health data feel normal. Telehealth has made remote consultations more acceptable. Wellness platforms have made personalised recommendations part of everyday consumer language. However, most of […] The…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと** — Score 5, observation — [Quelle](https://zenn.dev/ncdc/articles/6c8eabde83cf0a)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
