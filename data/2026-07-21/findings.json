@@ -73,6 +73,28 @@
     "id": "701dc7db71b4f1005a00"
   },
   {
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-21T07:00:00+00:00",
+    "fetched_at": "2026-07-21T20:09:07+00:00",
+    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "Security"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f338f2bdbd7abce738b"
+  },
+  {
     "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1669,6 +1691,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0caa88f0b9ec95483ba7"
+  },
+  {
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-21T00:00:00+00:00",
+    "fetched_at": "2026-07-21T20:09:07+00:00",
+    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3a596c01e03ae0582594"
   },
   {
     "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T19:40:59+00:00_
+_Generated: 2026-07-21T20:09:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `88`
 
 ## Top Signals
 
@@ -22,26 +22,26 @@ _Generated: 2026-07-21T19:40:59+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand herbeizuführen.
 
-### 3. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen
+### 3. OpenAI and Hugging Face partner to address security incident during model evaluation
+- source: OpenAI News RSS
+- score: `19`
+- published: `2026-07-21T07:00:00+00:00`
+- url: https://openai.com/index/hugging-face-model-evaluation-security-incident
+- summary: OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
+
+### 4. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
 - published: `2026-07-21T07:46:07+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955
 - summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten…
 
-### 4. Introducing the ChatGPT for small business program
+### 5. Introducing the ChatGPT for small business program
 - source: OpenAI News RSS
 - score: `16`
 - published: `2026-07-21T17:00:00+00:00`
 - url: https://openai.com/index/introducing-chatgpt-small-business-program
 - summary: OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
-
-### 5. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-21T11:47:57+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2099
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.
 
 ### 6. M 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal
 - source: USGS M4.5+ Earthquakes Past Hour

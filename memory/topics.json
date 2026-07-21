@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T19:40:59+00:00",
+  "generated_at": "2026-07-21T20:09:40+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-21T12:00:15+09:00",
         "relevance_score": 27,
         "url": "https://jvn.jp/jp/JVN20592637/"
+      },
+      {
+        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-21T07:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
       },
       {
         "title": "Introducing the ChatGPT for small business program",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-21T15:04:31+00:00",
         "relevance_score": 11,
         "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot"
-      },
-      {
-        "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T21:39:31+00:00",
-        "relevance_score": 11,
-        "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html"
       }
     ],
     "security": [
@@ -89,6 +89,13 @@
         "published_at": "2026-07-21T07:46:06+00:00",
         "relevance_score": 22,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923"
+      },
+      {
+        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-21T07:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
       },
       {
         "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-21T10:47:57+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0754"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T10:47:56+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2929"
       }
     ],
     "geopolitics": [

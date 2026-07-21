@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T19:40:59+00:00_
+_Generiert: 2026-07-21T20:09:40+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+88 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -102,6 +102,15 @@ _Generiert: 2026-07-21T19:40:59+00:00_
   - Warum relevant: Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand herbeizuführen.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **OpenAI and Hugging Face partner to address security incident during model evaluation** — Score 19, observation — [Quelle](https://openai.com/index/hugging-face-model-evaluation-security-incident)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-21T07:00:00+00:00`, fetched `2026-07-21T20:09:07+00:00`
+  - Treffer: AI/KI, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Security (+7.5); recent (+1.0)
+  - Kurz: OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-21T07:46:07+00:00`, fetched `2026-07-21T08:15:25+00:00`
