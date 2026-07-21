@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-21T05:01:20Z_
+_Generated: 2026-07-21T06:09:16Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-21T12:00:00+09:00` / age_days `0.08`
+- Published: `2026-07-21T12:00:00+09:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-21T12:00:15+09:00` / age_days `0.08`
+- Published: `2026-07-21T12:00:15+09:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `32.13`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `32.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -3.9 for 32.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -3.9 for 32.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
+
+### Singapore turns AI scrutiny towards chatbots, personal data, and digital twins
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.0`
+- Published: `2026-07-21T04:45:28+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/
 
 ### M 5.2 - northern Mid-Atlantic Ridge
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-21T01:19:56.040+00:00` / age_days `0.15`
+- Published: `2026-07-21T01:19:56.040+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-07-21T01:15:23+00:00` / age_days `0.16`
+- Published: `2026-07-21T01:15:23+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-07-21T02:00:18+00:00` / age_days `0.13`
+- Published: `2026-07-21T02:00:18+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: remote
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-07-21T00:02:27.040+00:00` / age_days `0.21`
+- Published: `2026-07-21T00:02:27.040+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: earthquake, high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-07-20T21:39:31+00:00` / age_days `0.31`
+- Published: `2026-07-20T21:39:31+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-07-21T00:14:37+00:00` / age_days `0.2`
+- Published: `2026-07-21T00:14:37+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-07-21T01:00:50+00:00` / age_days `0.17`
+- Published: `2026-07-21T01:00:50+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “非接触型ICカード技術FeliCaの�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-07-21T02:39:45+00:00` / age_days `0.1`
+- Published: `2026-07-21T02:39:45+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://www.digital.go.jp/speech/minister-260721-01
-
-### Your offshore vendor’s AI is running on your code: Do you know which one?
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-07-21T02:30:56+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/
 
 END OF DOCUMENT
