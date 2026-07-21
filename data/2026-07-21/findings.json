@@ -526,6 +526,43 @@
     "id": "c6020d9de692dbf44f00"
   },
   {
+    "title": "M 5.1 - 7 km WNW of Kalbay, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a7",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:52:25.040+00:00",
+    "fetched_at": "2026-07-21T19:03:48+00:00",
+    "summary": "Time 2026-07-21 18:33:27 UTC 2026-07-21 18:33:27 UTC at epicenter Location 5.739°N 125.430°E Depth 68.77 km (42.73 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "865e81438c3ea73ce7e8"
+  },
+  {
     "title": "M 4.7 - 195 km W of Abepura, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26j",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1346,6 +1383,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a1d262955033fc48a5c9"
+  },
+  {
+    "title": "M 4.6 - 214 km W of Bandon, Oregon",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a5",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:53:00.398+00:00",
+    "fetched_at": "2026-07-21T19:03:48+00:00",
+    "summary": "Time 2026-07-21 18:32:56 UTC 2026-07-21 18:32:56 UTC at epicenter Location 43.347°N 127.034°W Depth 17.40 km (10.81 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "75eadb0b31f526aafb34"
   },
   {
     "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
