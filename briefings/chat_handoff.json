@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-21T00:06:40+00:00",
+  "generated_at": "2026-07-21T00:52:01+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 2
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -32,6 +32,26 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232",
       "summary": "Time 2026-07-20 23:37:57 UTC 2026-07-20 23:37:57 UTC at epicenter Location 14.968°S 172.862°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T00:14:37+00:00",
+      "relevance_score": 8,
+      "url": "https://www.digital.go.jp/policies/priority-policy-program",
+      "summary": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+      "section": "observe"
+    },
+    {
+      "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T22:50:18+00:00",
+      "relevance_score": 5,
+      "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+      "summary": "会議の場で「あいまい検索でお願いします」「部分一致でお願いします」という言葉だけが飛び交うことがよくありますが、この4つのどれを指しているかで、実装コストが変わります。 完全一致・前方一致であればRDBのB-treeインデックスがそのまま使えますが、後方一致・部分一致はLIKE '%〇〇%'の形になり、インデックス...",
       "section": "observe"
     }
   ],

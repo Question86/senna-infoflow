@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T00:06:40+00:00",
+  "generated_at": "2026-07-21T00:52:01+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,24 @@
         "published_at": "2026-07-21T00:02:27.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-21T00:14:37+00:00",
+        "relevance_score": 8,
+        "url": "https://www.digital.go.jp/policies/priority-policy-program"
+      }
+    ],
+    "general": [
+      {
+        "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T22:50:18+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a"
       }
     ]
   }

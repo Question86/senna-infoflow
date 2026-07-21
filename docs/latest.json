@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T00:06:40+00:00",
-  "run_id": "2026-07-21T00:06:40+00:00",
+  "generated_at": "2026-07-21T00:52:01+00:00",
+  "run_id": "2026-07-21T00:52:01+00:00",
   "date": "2026-07-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 2,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -87,6 +87,48 @@
           "LOW"
         ],
         "id": "3850d02aa9f4d959224e"
+      },
+      {
+        "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+        "url": "https://www.digital.go.jp/policies/priority-policy-program",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-21T00:14:37+00:00",
+        "fetched_at": "2026-07-21T00:51:32+00:00",
+        "summary": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0caa88f0b9ec95483ba7"
+      },
+      {
+        "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+        "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-20T22:50:18+00:00",
+        "fetched_at": "2026-07-21T00:51:32+00:00",
+        "summary": "会議の場で「あいまい検索でお願いします」「部分一致でお願いします」という言葉だけが飛び交うことがよくありますが、この4つのどれを指しているかで、実装コストが変わります。 完全一致・前方一致であればRDBのB-treeインデックスがそのまま使えますが、後方一致・部分一致はLIKE '%〇〇%'の形になり、インデックス...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4d58a581b76168574aa6"
       }
     ]
   },
@@ -148,66 +190,92 @@
         "LOW"
       ],
       "id": "3850d02aa9f4d959224e"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+      "url": "https://www.digital.go.jp/policies/priority-policy-program",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-20T21:39:31+00:00",
-      "fetched_at": "2026-07-21T00:06:08+00:00",
-      "summary": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できます...",
+      "published_at": "2026-07-21T00:14:37+00:00",
+      "fetched_at": "2026-07-21T00:51:32+00:00",
+      "summary": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
       "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "policy"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bca7d98cfdc17a527dfc"
+      "id": "0caa88f0b9ec95483ba7"
     },
     {
-      "title": "M 5.0 - 141 km SSW of Gataivai, Samoa",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+      "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-21T00:02:27.040+00:00",
-      "fetched_at": "2026-07-21T00:06:08+00:00",
-      "summary": "Time 2026-07-20 23:37:57 UTC 2026-07-20 23:37:57 UTC at epicenter Location 14.968°S 172.862°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-20T22:50:18+00:00",
+      "fetched_at": "2026-07-21T00:51:32+00:00",
+      "summary": "会議の場で「あいまい検索でお願いします」「部分一致でお願いします」という言葉だけが飛び交うことがよくありますが、この4つのどれを指しているかで、実装コストが変わります。 完全一致・前方一致であればRDBのB-treeインデックスがそのまま使えますが、後方一致・部分一致はLIKE '%〇〇%'の形になり、インデックス...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d58a581b76168574aa6"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+      "url": "https://www.digital.go.jp/policies/priority-policy-program",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T00:14:37+00:00",
+      "fetched_at": "2026-07-21T00:51:32+00:00",
+      "summary": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "policy"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0caa88f0b9ec95483ba7"
+    },
+    {
+      "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+      "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T22:50:18+00:00",
+      "fetched_at": "2026-07-21T00:51:32+00:00",
+      "summary": "会議の場で「あいまい検索でお願いします」「部分一致でお願いします」という言葉だけが飛び交うことがよくありますが、この4つのどれを指しているかで、実装コストが変わります。 完全一致・前方一致であればRDBのB-treeインデックスがそのまま使えますが、後方一致・部分一致はLIKE '%〇〇%'の形になり、インデックス...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
       ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "3850d02aa9f4d959224e"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d58a581b76168574aa6"
     }
   ],
   "source_errors": [],
