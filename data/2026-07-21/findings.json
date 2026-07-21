@@ -97,6 +97,30 @@
     "id": "c254f78bfa77f830c016"
   },
   {
+    "title": "[NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2419",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-21T09:47:54+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a75d7e2f2ebb260262b"
+  },
+  {
     "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938",
     "source": "BSI CERT-Bund Security Advisories",
@@ -213,6 +237,98 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c409ce70ba44cbc2bd5a"
+  },
+  {
+    "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2426",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-21T10:02:53+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OPNsense ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "11526c050e420f3ca926"
+  },
+  {
+    "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1929",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-21T09:47:54+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17e8d17292b62e528cf6"
+  },
+  {
+    "title": "[UPDATE] [kritisch] Samba: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1686",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-21T09:47:53+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Samba ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "998ebca2caff28c4c3c3"
+  },
+  {
+    "title": "[NEU] [mittel] Netty: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2425",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-21T09:42:53+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "035c815911e848ea0fe2"
   },
   {
     "title": "Ecosystem Roundup: SEA’s AI future is being coded in its own languages",
@@ -809,6 +925,46 @@
     "id": "98e7198d3bcc5d801620"
   },
   {
+    "title": "China’s AI talent race is starting in high school",
+    "url": "https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-21T10:00:00+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "As demand for elite AI engineers outpaces supply, companies are recruiting teenagers through camps, research programs, and guaranteed job pipelines.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "170a802f3267afe4b14d"
+  },
+  {
+    "title": "Sicherheitspatch Grafana: Angreifer können sensible Daten abgreifen",
+    "url": "https://www.heise.de/news/Sicherheitspatch-Grafana-Angreifer-koennen-sensible-Daten-abgreifen-11371859.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-21T09:25:00.000+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "Das Open-Source-Visualisierungs- und Monitoring-Tool Grafana ist verwundbar. Nun haben die Entwickler eine kritische Sicherheitslücke geschlossen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "953973e3f05bd44e89e3"
+  },
+  {
     "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
     "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -950,6 +1106,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3008438288141bff8eb8"
+  },
+  {
+    "title": "XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否 「UI変わりすぎ」「スペース使えない」の声も",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/21/news081.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T06:24:03+00:00",
+    "fetched_at": "2026-07-21T10:05:55+00:00",
+    "summary": "米Xは7月20日（現地時間）、Android向けアプリをゼロから作り直したと発表した。1年以上をかけた再構築で、画面の動きがより速く正確になったという。Cashtagsやカスタムタイムラインなど、複数の新機能はすでに利用可能で、動画によるリアクション機能や動画編集機能は、近日中に提供する予定という。 同社の製品責任者...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2098c542d531ef8ff9bb"
   },
   {
     "title": "NY市に「ワンクリック解約」と「隠し手数料禁止」の新ルール。市民は年1.6億ドルの節約に | ギズモード・ジャパン",

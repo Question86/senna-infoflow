@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T09:12:59+00:00_
+_Generiert: 2026-07-21T10:06:28+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+55 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-07-21T09:12:59+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-15`
   - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability
-- **GDACS: Green flood alert in South Korea** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104032)
+- **GDACS: Green flood alert in Afghanistan** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104033)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in South Korea
+  - Kurz: Green flood alert in Afghanistan
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Northern Mid-Atlantic Ridge 20/07/2026 21:28 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553080)
   - Quelle: GDACS
   - Zeit: ``
@@ -111,14 +111,14 @@ _Generiert: 2026-07-21T09:12:59+00:00_
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938)
+- **[NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2419)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-21T07:46:06+00:00`, fetched `2026-07-21T08:15:25+00:00`
+  - Zeit: published `2026-07-21T09:47:54+00:00`, fetched `2026-07-21T10:05:55+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Root-Rechte zu erlangen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN40509781/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -267,6 +267,24 @@ _Generiert: 2026-07-21T09:12:59+00:00_
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https://jcode.sh/install.ps1 | iex Need…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **China’s AI talent race is starting in high school** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-21T10:00:00+00:00`, fetched `2026-07-21T10:05:55+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: As demand for elite AI engineers outpaces supply, companies are recruiting teenagers through camps, research programs, and guaranteed job pipelines.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitspatch Grafana: Angreifer können sensible Daten abgreifen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitspatch-Grafana-Angreifer-koennen-sensible-Daten-abgreifen-11371859.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-21T09:25:00.000+00:00`, fetched `2026-07-21T10:05:55+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Das Open-Source-Visualisierungs- und Monitoring-Tool Grafana ist verwundbar. Nun haben die Entwickler eine kritische Sicherheitslücke geschlossen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **第7回デジタル社会推進会議の会議資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-promotion/b1ab9739-cc25-4126-a2d8-e5d00cf809ff)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-21T06:00:00+00:00`, fetched `2026-07-21T06:31:37+00:00`
@@ -275,15 +293,6 @@ _Generiert: 2026-07-21T09:12:59+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 第7回デジタル社会推進会議の会議資料等を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **モビリティ・ロードマップ2026を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/mobility-working-group)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-21T06:00:00+00:00`, fetched `2026-07-21T06:31:37+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: モビリティ・ロードマップ2026を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

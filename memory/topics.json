@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T09:12:59+00:00",
+  "generated_at": "2026-07-21T10:06:28+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T09:47:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2419"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-21T07:46:06+00:00",
@@ -133,27 +140,41 @@
         "url": "https://jvn.jp/jp/JVN40509781/"
       },
       {
-        "title": "[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T09:02:55+00:00",
+        "published_at": "2026-07-21T10:02:53+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1828"
-      },
-      {
-        "title": "[UPDATE] [mittel] PostgreSQL JDBC Driver: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T09:02:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2199"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2426"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T09:47:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2419"
+      },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-21T06:48:25+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653"
+      },
+      {
+        "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T10:02:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2426"
+      },
+      {
+        "title": "[NEU] [mittel] Netty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T09:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2425"
       },
       {
         "title": "Ecosystem Roundup: SEA’s AI future is being coded in its own languages",
@@ -196,27 +217,6 @@
         "published_at": "2026-07-21T04:45:28+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/"
-      },
-      {
-        "title": "AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜｜kunpe (ymdpharm)",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-21T00:30:45+00:00",
-        "relevance_score": 10,
-        "url": "https://note.com/ymdpharm3/n/n8515d151e56d"
-      },
-      {
-        "title": "Global expansion is no longer about reducing information costs, it’s about reducing trust costs",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T03:00:57+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/global-expansion-is-no-longer-about-reducing-information-costs-its-about-reducing-trust-costs-20260719/"
-      },
-      {
-        "title": "Your offshore vendor’s AI is running on your code: Do you know which one?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T02:30:56+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/"
       }
     ],
     "economy": [
@@ -298,6 +298,13 @@
         "published_at": "2026-07-21T02:39:45+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260721-01"
+      },
+      {
+        "title": "XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否 「UI変わりすぎ」「スペース使えない」の声も",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T06:24:03+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/21/news081.html"
       },
       {
         "title": "NY市に「ワンクリック解約」と「隠し手数料禁止」の新ルール。市民は年1.6億ドルの節約に | ギズモード・ジャパン",

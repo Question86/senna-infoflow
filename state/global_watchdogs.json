@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:13:01+00:00",
+  "generated_at": "2026-07-21T10:06:29+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,10 +65,10 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in South Korea",
-        "summary": "Green flood alert in South Korea",
+        "title": "GDACS: Green flood alert in Afghanistan",
+        "summary": "Green flood alert in Afghanistan",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104032",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104033",
         "published_at": "",
         "metrics": {}
       },

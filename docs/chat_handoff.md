@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T09:12:59+00:00_
+_Generated: 2026-07-21T10:06:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `47`
+- findings: `55`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-07-21T09:12:59+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955
 - summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten…
 
-### 4. [UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation
+### 4. [NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-21T09:47:54+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2419
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
+
+### 5. [UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-21T07:46:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938
 - summary: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Root-Rechte zu erlangen.
-
-### 5. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-21T06:48:25+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2190
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 6. Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian
 - source: e27 Asia Startup and Tech Feed
