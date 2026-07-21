@@ -1455,6 +1455,42 @@
     "id": "a1d262955033fc48a5c9"
   },
   {
+    "title": "M 4.8 - 41 km SE of Port-Vila, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2c9",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-21T22:50:00.040+00:00",
+    "fetched_at": "2026-07-21T23:05:10+00:00",
+    "summary": "Time 2026-07-21 22:33:01 UTC 2026-07-21 22:33:01 UTC at epicenter Location 17.968°S 168.620°E Depth 146.72 km (91.17 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f4701ee7f23008083bbb"
+  },
+  {
     "title": "M 4.6 - 214 km W of Bandon, Oregon",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a5",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2031,6 +2067,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3008438288141bff8eb8"
+  },
+  {
+    "title": "【速報】ニチレイ障害、ハッカー集団が犯行声明",
+    "url": "https://www.47news.jp/14661811.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T21:16:23+00:00",
+    "fetched_at": "2026-07-21T23:05:10+00:00",
+    "summary": "サイバー攻撃を受けシステム障害を起こしたニチレイに対し「ランサムハウス」と呼ばれるハッカー集団が、インターネットのダークウェブ上に犯行声明を出したことが21日、セキュリティー関係者への取材で分かった。",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "33d70457ea7f9b7cabfe"
+  },
+  {
+    "title": "Gemini 3.6 Flash登場！17%効率化+値下げ。3.5 Flash-Liteも",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2126733.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:04:38+00:00",
+    "fetched_at": "2026-07-21T23:05:10+00:00",
+    "summary": "Gemini 3.6 Flash登場！17%効率化+値下げ。3.5 Flash-Liteも",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f1ad37d9d7363e95c394"
   },
   {
     "title": "XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否 「UI変わりすぎ」「スペース使えない」の声も",
