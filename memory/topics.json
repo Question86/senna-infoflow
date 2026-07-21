@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T04:37:02+00:00",
+  "generated_at": "2026-07-21T05:37:59+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-20T21:39:31+00:00",
         "relevance_score": 11,
         "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html"
+      },
+      {
+        "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T04:45:28+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/"
       },
       {
         "title": "It’s time to rebuild the house: The AI-driven transformation of enterprise",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/1jehuang/jcode"
-      },
-      {
-        "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T02:21:42+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/"
       }
     ],
     "security": [
@@ -115,6 +115,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T04:45:28+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/"
+      },
       {
         "title": "Global expansion is no longer about reducing information costs, it’s about reducing trust costs",
         "source": "e27 Asia Startup and Tech Feed",

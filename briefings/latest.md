@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T04:37:02+00:00_
+_Generiert: 2026-07-21T05:37:59+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+22 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -132,6 +132,15 @@ _Generiert: 2026-07-21T04:37:02+00:00_
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できます...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore turns AI scrutiny towards chatbots, personal data, and digital twins** — Score 10, observation — [Quelle](https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-21T04:45:28+00:00`, fetched `2026-07-21T05:37:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore is moving to sharpen the rules around how companies use personal data in generative AI, as the country tries to square two competing realities: businesses want more data to build AI systems, while users are increasingly asked to trust tools they barely understand. At the Singapore Data Festival on Monday, Minister for Digital Development […] The post Singapore turns AI scrutiny towards chatbots, personal d…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **It’s time to rebuild the house: The AI-driven transformation of enterprise** — Score 10, observation — [Quelle](https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-21T02:45:36+00:00`, fetched `2026-07-21T03:27:09+00:00`
@@ -168,15 +177,6 @@ _Generiert: 2026-07-21T04:37:02+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-20 23:37:57 UTC 2026-07-20 23:37:57 UTC at epicenter Location 14.968°S 172.862°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Your offshore vendor’s AI is running on your code: Do you know which one?** — Score 8, observation — [Quelle](https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-21T02:30:56+00:00`, fetched `2026-07-21T03:27:09+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Picture a software engineer working on your production system. They open their laptop, load the task, and run the problem through an AI coding assistant. The output is clean, efficient, and correctly structured. What you may not know is which AI tool processed your business logic, whose infrastructure it ran on, or whether your proprietary […] The post Your offshore vendor’s AI is running on your code: Do you know w…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/policies/priority-policy-program)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-21T00:14:37+00:00`, fetched `2026-07-21T00:51:32+00:00`
