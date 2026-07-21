@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-07-21T14:37:57+00:00",
+  "generated_at": "2026-07-21T15:20:02+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-60137 WordPress Core",
+        "summary": "Known exploited vulnerability. Added 2026-07-21. Due 2026-08-04. WordPress Core SQL Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-21",
+        "metrics": {
+          "cve": "CVE-2026-60137"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-63030 WordPress Core",
+        "summary": "Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. WordPress Core Interpretation Conflict Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-21",
+        "metrics": {
+          "cve": "CVE-2026-63030"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-0770 Langflow Langflow",
+        "summary": "Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-21",
+        "metrics": {
+          "cve": "CVE-2026-0770"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2021-27137 DD-WRT DD-WRT",
+        "summary": "Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. DD-WRT Stack-Based Buffer Overflow Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-21",
+        "metrics": {
+          "cve": "CVE-2021-27137"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -12,54 +60,6 @@
         "published_at": "2026-07-16",
         "metrics": {
           "cve": "CVE-2026-58644"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-25089 Fortinet FortiSandbox",
-        "summary": "Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-16",
-        "metrics": {
-          "cve": "CVE-2026-25089"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-39808 Fortinet FortiSandbox",
-        "summary": "Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-16",
-        "metrics": {
-          "cve": "CVE-2026-39808"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-46817 Oracle E-Business Suite",
-        "summary": "Known exploited vulnerability. Added 2026-07-15. Due 2026-07-18. Oracle E-Business Suite Improper Privilege Management Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-15",
-        "metrics": {
-          "cve": "CVE-2026-46817"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2023-4346 KNX Association KNX Protocol Connection Authorization Option 1",
-        "summary": "Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-15",
-        "metrics": {
-          "cve": "CVE-2023-4346"
         }
       },
       {

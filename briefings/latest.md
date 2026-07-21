@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T14:37:55+00:00_
+_Generiert: 2026-07-21T15:20:01+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,26 @@ _Generiert: 2026-07-21T14:37:55+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-60137 WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-21`
+  - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-08-04. WordPress Core SQL Injection Vulnerability
+- **CISA KEV: CVE-2026-63030 WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-21`
+  - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. WordPress Core Interpretation Conflict Vulnerability
+- **CISA KEV: CVE-2026-0770 Langflow Langflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-21`
+  - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
+- **CISA KEV: CVE-2021-27137 DD-WRT DD-WRT** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-21`
+  - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. DD-WRT Stack-Based Buffer Overflow Vulnerability
 - **CISA KEV: CVE-2026-58644 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-16`
   - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability
-- **CISA KEV: CVE-2026-25089 Fortinet FortiSandbox** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-16`
-  - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-39808 Fortinet FortiSandbox** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-16`
-  - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Fortinet FortiSandbox OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-46817 Oracle E-Business Suite** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-15`
-  - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-18. Oracle E-Business Suite Improper Privilege Management Vulnerability
-- **CISA KEV: CVE-2023-4346 KNX Association KNX Protocol Connection Authorization Option 1** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-15`
-  - Kurz: Known exploited vulnerability. Added 2026-07-15. Due 2026-07-29. KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability
 - **GDACS: Green flood alert in Afghanistan** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104033)
   - Quelle: GDACS
   - Zeit: ``
