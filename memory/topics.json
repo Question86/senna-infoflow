@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T13:54:10+00:00",
+  "generated_at": "2026-07-21T14:37:55+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-21T12:00:15+09:00",
         "relevance_score": 27,
         "url": "https://jvn.jp/jp/JVN20592637/"
+      },
+      {
+        "title": "政府、マイナカードをAIエージェントと連携へ 重点計画に明記",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T08:32:46+00:00",
+        "relevance_score": 16,
+        "url": "https://japan.cnet.com/article/35250805/"
       },
       {
         "title": "Ecosystem Roundup: SEA’s AI future is being coded in its own languages",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-21T02:45:36+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/"
-      },
-      {
-        "title": "AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜｜kunpe (ymdpharm)",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-21T00:30:45+00:00",
-        "relevance_score": 10,
-        "url": "https://note.com/ymdpharm3/n/n8515d151e56d"
       }
     ],
     "security": [
@@ -219,44 +219,14 @@
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html"
       }
     ],
-    "economy": [
-      {
-        "title": "Singapore is not a small market, it is a compressed one",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T01:15:23+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/"
-      },
-      {
-        "title": "Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T06:51:50+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/"
-      },
-      {
-        "title": "July 2026 euro area bank lending survey",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-21T08:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html"
-      },
-      {
-        "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T02:21:42+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/"
-      },
-      {
-        "title": "Why DNA is becoming the next platform layer in digital health",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T02:00:18+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/"
-      }
-    ],
     "general": [
+      {
+        "title": "M 4.7 - 195 km W of Abepura, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-21T14:30:47.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26j"
+      },
       {
         "title": "M 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -319,13 +289,43 @@
         "published_at": "2026-07-21T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/councils/mobility-working-group"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Singapore is not a small market, it is a compressed one",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T01:15:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/"
       },
       {
-        "title": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-21T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0"
+        "title": "Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T06:51:50+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/"
+      },
+      {
+        "title": "July 2026 euro area bank lending survey",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-21T08:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html"
+      },
+      {
+        "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T02:21:42+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/"
+      },
+      {
+        "title": "Why DNA is becoming the next platform layer in digital health",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T02:00:18+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/"
       }
     ],
     "github": [

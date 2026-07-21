@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T13:54:10+00:00_
+_Generiert: 2026-07-21T14:37:55+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+81 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 ## Priorität Hoch
 
@@ -47,6 +47,24 @@ _Generiert: 2026-07-21T13:54:10+00:00_
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **政府、マイナカードをAIエージェントと連携へ 重点計画に明記** — Score 16, observation — [Quelle](https://japan.cnet.com/article/35250805/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-21T08:32:46+00:00`, fetched `2026-07-21T14:37:24+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: 政府は7月21日、令和8年の「デジタル社会の実現に向けた重点計画」の概要を公表した。マイナンバーカードと外部のAIエージェントを安全につなぐ基盤「MCP」の構築を盛り込んだ。本人に代わってAIが行政手続きを進める将来を見据えた動きだ。 重点計画では、マイナカードについて官民での活用を推進し、「使うことが当た...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 195 km W of Abepura, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26j)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-21T14:30:47.040+00:00`, fetched `2026-07-21T14:37:24+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-21 13:47:12 UTC 2026-07-21 13:47:12 UTC at epicenter Location 2.578°S 138.873°E Depth 7.88 km (4.89 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN40509781/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-21T12:00:00+09:00`, fetched `2026-07-21T03:27:09+00:00`
@@ -194,6 +212,15 @@ _Generiert: 2026-07-21T13:54:10+00:00_
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
   - Kurz: AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜 AI に仕事を頼むと、まず会社のことを説明する仕事が発生する。この困りごとは世界共通のようで、Y Combinator は「Company Brain」というカテゴリを立て、世界のすべての会社が必要とするようになる、と言...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB appoints Boris Kisselevsky as Director General Secretariat** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-21T14:00:00+00:00`, fetched `2026-07-21T14:37:24+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB appoints Boris Kisselevsky as Director General Secretariat
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/policies/priority-policy-program)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-21T00:14:37+00:00`, fetched `2026-07-21T00:51:32+00:00`
@@ -211,15 +238,6 @@ _Generiert: 2026-07-21T13:54:10+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **1jehuang/jcode** — Score 8, observation — [Quelle](https://github.com/1jehuang/jcode)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-21T02:14:58+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https://jcode.sh/install.ps1 | iex Need…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
