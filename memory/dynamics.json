@@ -1,29 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-21T11:33:28Z",
+  "generated_at": "2026-07-21T12:12:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 20,
+      "krass": 24,
       "strong": 13,
-      "watch": 5
+      "watch": 1
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 31,
-      "watch": 5
+      "krass": 5,
+      "strong": 34,
+      "watch": 1
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [niedrig] OpenSSH: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2212",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-21T11:47:57+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um beliebigen Programmcode auszuführen."
+    },
     {
       "title": "[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1828",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T09:02:55+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -48,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1407",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T09:02:53+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -74,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2421",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T08:32:53+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -99,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1963",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T07:46:08+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -124,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T07:46:07+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -150,7 +175,7 @@
       "url": "https://jvn.jp/jp/JVN40509781/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-21T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -174,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1513",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T11:28:09+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -199,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1774",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T11:27:56+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -223,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2426",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T10:02:53+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -247,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1929",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T09:47:54+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -271,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2425",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T09:42:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -295,7 +320,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2199",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T09:02:53+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -319,7 +344,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2186",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T06:48:26+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -343,7 +368,7 @@
       "url": "https://jvn.jp/jp/JVN20592637/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-21T12:00:15+09:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -371,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T07:46:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -395,10 +420,36 @@
     },
     {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1665",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-21T11:47:56+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht spezifizierte Angriffe durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0922",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T11:28:03+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -424,7 +475,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2929",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T10:47:56+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -450,7 +501,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2920",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T10:47:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -476,7 +527,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T07:46:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -502,7 +553,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T06:48:25+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -528,7 +579,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1686",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T09:47:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -554,7 +605,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2422",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T08:42:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -580,7 +631,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2166",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T06:48:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -602,11 +653,61 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Satellite ausnutzen, um sich erweiterte Rechte, einschließlich Administratorrechte, zu verschaffen, die Authentifizierung zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand zu verursachen."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2099",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-21T11:47:57+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1522",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-21T11:47:55+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht spezifizierte Auswirkungen zu verursachen."
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T11:28:04+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -631,7 +732,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0754",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T10:47:57+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -656,7 +757,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2914",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T10:47:54+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -681,7 +782,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2756",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T10:47:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -706,7 +807,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2419",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T09:47:54+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -731,7 +832,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2190",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T06:48:25+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -756,7 +857,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2175",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-21T06:48:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -781,7 +882,7 @@
       "url": "https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-21T10:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "infra"
@@ -809,7 +910,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 32.4,
+      "age_days": 32.43,
       "topics": [
         "ai"
       ],
@@ -838,7 +939,7 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-Grafana-Angreifer-koennen-sensible-Daten-abgreifen-11371859.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-21T09:25:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -863,7 +964,7 @@
       "url": "https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-21T06:51:50+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -890,7 +991,7 @@
       "url": "https://e27.co/goserpent-exposes-the-quiet-cyber-war-against-southeast-asian-governments-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-21T06:11:51+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -916,7 +1017,7 @@
       "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-21T04:45:28+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -936,107 +1037,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Singapore is moving to sharpen the rules around how companies use personal data in generative AI, as the country tries to square two competing realities: businesses want more data to build AI systems, while users are increasingly asked to trust tools they barely understand. At the Singapore Data Festival on Monday, Mi…"
-    },
-    {
-      "title": "M 5.2 - northern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-21T01:19:56.040+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-21 01:03:34 UTC 2026-07-21 01:03:34 UTC at epicenter Location 25.904°N 45.089°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Ecosystem Roundup: SEA’s AI future is being coded in its own languages",
-      "url": "https://e27.co/ecosystem-roundup-seas-ai-future-is-being-coded-in-its-own-languages-20260721/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-21T09:10:16+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Southeast Asia‘s AI moment is arriving, but not in English. Across Vietnam, Thailand, and Indonesia, a quiet but consequential shift is under way: researchers, startups, and governments are building large language models trained on local languages, dialects, and cultural contexts, rather than waiting for Silicon Valle…"
-    },
-    {
-      "title": "Singapore is not a small market, it is a compressed one",
-      "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-21T01:15:23+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Singapore is often described as a small market. That is true in population terms, but misleading in almost every other way. It is better understood as a compressed market. Customers, investors, regulators, partners, talent, and competitors operate unusually close to one another. Information moves quickly. So does repu…"
-    },
-    {
-      "title": "M 5.0 - 58 km SSW of Merizo Village, Guam",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25j",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-21T11:29:47.498+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "DYFI? - IV Time 2026-07-21 11:09:45 UTC 2026-07-21 11:09:45 UTC at epicenter Location 12.822°N 144.381°E Depth 12.16 km (7.56 mi)"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] OpenSSH: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
