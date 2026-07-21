@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T02:15:31+00:00",
-  "run_id": "2026-07-21T02:15:31+00:00",
+  "generated_at": "2026-07-21T03:27:40+00:00",
+  "run_id": "2026-07-21T03:27:40+00:00",
   "date": "2026-07-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,88 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 11,
-    "displayed_findings": 11,
-    "high": 0,
-    "medium": 2,
-    "observe": 9,
+    "new_relevant_findings": 10,
+    "today_file_total": 21,
+    "displayed_findings": 21,
+    "high": 1,
+    "medium": 3,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
-    "high": [],
+    "high": [
+      {
+        "title": "Drupalプラグイン「AI Agents」における不正な認証の脆弱性",
+        "url": "https://jvn.jp/jp/JVN20592637/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-21T12:00:15+09:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "Drupalが提供するプラグイン「AI Agents」には、不正な認証の脆弱性が存在します。",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "JVN",
+          "Security",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 27,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "92f3c125dc8e8d0aa2a3"
+      }
+    ],
     "medium": [
+      {
+        "title": "非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性",
+        "url": "https://jvn.jp/jp/JVN40509781/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-21T12:00:00+09:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "ソニー株式会社より2017年以前に出荷された一部のFeliCa ICチップでは、暗号処理プロセスにおいて特定の操作を行うことにより、本来のセキュリティ強度が低下する事象が発生します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c409ce70ba44cbc2bd5a"
+      },
       {
         "title": "Singapore is not a small market, it is a compressed one",
         "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/",
@@ -95,6 +166,49 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bca7d98cfdc17a527dfc"
+      },
+      {
+        "title": "It’s time to rebuild the house: The AI-driven transformation of enterprise",
+        "url": "https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-21T02:45:36+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "Somewhere around 2017, at a family dinner in my hometown in Gujarat (India), an uncle asked me what I actually did for a living. I said “cloud consulting,” and he had no idea what that meant. So I reached for an analogy, and it worked so well that I’ve been using it for a decade […] The post It’s time to rebuild the house: The AI-driven transformation of enterprise appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2389c530d139bb154f17"
+      },
+      {
+        "title": "Global expansion is no longer about reducing information costs, it’s about reducing trust costs",
+        "url": "https://e27.co/global-expansion-is-no-longer-about-reducing-information-costs-its-about-reducing-trust-costs-20260719/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-21T03:00:57+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "For decades, globalisation followed a predictable economic logic. Technology lowered the cost of communication, cloud computing reduced infrastructure costs, SaaS standardised business processes, and AI is now making information almost free. Every major wave of innovation has reduced the friction of doing business across borders. Yet after spending the past year working with founders, government […] The post Global…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ee94dd5c7a73edc27a5e"
       },
       {
         "title": "M 5.2 - northern Mid-Atlantic Ridge",
@@ -169,6 +283,27 @@
         "id": "3850d02aa9f4d959224e"
       },
       {
+        "title": "Your offshore vendor’s AI is running on your code: Do you know which one?",
+        "url": "https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-21T02:30:56+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "Picture a software engineer working on your production system. They open their laptop, load the task, and run the problem through an AI coding assistant. The output is clean, efficient, and correctly structured. What you may not know is which AI tool processed your business logic, whose infrastructure it ran on, or whether your proprietary […] The post Your offshore vendor’s AI is running on your code: Do you know w…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3369668b826bf58cc602"
+      },
+      {
         "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
         "url": "https://www.digital.go.jp/policies/priority-policy-program",
         "source": "Japan Digital Agency News RSS",
@@ -234,6 +369,68 @@
         "id": "98e7198d3bcc5d801620"
       },
       {
+        "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
+        "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-21T02:21:42+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "The digital asset market displays a distinct realignment as institutional investors re-enter the space with renewed vigour. Over the past 24 hours, Bitcoin advanced by 0.69 per cent to US$65,111.21, closely tracking a broader 0.77 per cent increase in the total cryptocurrency market capitalisation. While these daily gains might appear modest at first glance, the […] The post Bitcoin reclaims key technical levels, Et…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "0847c8379d7331dc863f"
+      },
+      {
+        "title": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
+        "url": "https://www.digital.go.jp/speech/minister-260721-01",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-21T02:39:45+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3008438288141bff8eb8"
+      },
+      {
         "title": "Why DNA is becoming the next platform layer in digital health",
         "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -252,6 +449,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2da2ef0c4cd75035895a"
+      },
+      {
+        "title": "Appleはもう「メモリのお得意様」ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-20T22:55:21+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "5月末に「それで、メモリ不足はいつまで続くの？ なかなか終わらない狂騒のウラ側」と題した記事をお届けしたが、その余波が遂にスマートフォンを直撃する事になった。米Appleが中国のメモリメーカー・CXMTからのメモリ調達を検討しているという話題が英Financial Times（FT）で報じられ、騒ぎになっている。 さらにApp...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "718d074cd42be65d8a8f"
       },
       {
         "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
@@ -294,10 +512,120 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "747f955e52f1be9a9c0f"
+      },
+      {
+        "title": "Why boards are getting CEO succession wrong, and what it’s costing them",
+        "url": "https://e27.co/why-boards-are-getting-ceo-succession-wrong-and-what-its-costing-them-20260719/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-21T03:15:36+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "Consider this: Russell Reynolds Associates’ 2025 Global Board Culture and Director Behaviours study found that only eight per cent of boards plan more than five years ahead for CEO succession. Half report succession horizons of just one to three years. And when the moment of truth arrives, only 44 per cent of directors believe their […] The post Why boards are getting CEO succession wrong, and what it’s costing them…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3b8f906a7ce24b7ed291"
+      },
+      {
+        "title": "Finance doesn’t have a math problem, it has an ego problem.",
+        "url": "https://e27.co/finance-doesnt-have-a-math-problem-it-has-an-ego-problem-20260719/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-21T02:30:06+00:00",
+        "fetched_at": "2026-07-21T03:27:09+00:00",
+        "summary": "Every year, someone builds a smarter, more elegant financial model. Every few years, that same model blows up spectacularly the moment a real crisis hits. The industry has been solving for the wrong thing entirely, and the fix isn’t more math. It’s more humility. Behavioural finance research keeps circling back to the same uncomfortable observation: […] The post Finance doesn’t have a math problem, it has an ego pro…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "80dadd7b42369a97f427"
       }
     ]
   },
   "findings": [
+    {
+      "title": "Drupalプラグイン「AI Agents」における不正な認証の脆弱性",
+      "url": "https://jvn.jp/jp/JVN20592637/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-21T12:00:15+09:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Drupalが提供するプラグイン「AI Agents」には、不正な認証の脆弱性が存在します。",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "JVN",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 27,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "92f3c125dc8e8d0aa2a3"
+    },
+    {
+      "title": "非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性",
+      "url": "https://jvn.jp/jp/JVN40509781/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-21T12:00:00+09:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "ソニー株式会社より2017年以前に出荷された一部のFeliCa ICチップでは、暗号処理プロセスにおいて特定の操作を行うことにより、本来のセキュリティ強度が低下する事象が発生します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c409ce70ba44cbc2bd5a"
+    },
     {
       "title": "Singapore is not a small market, it is a compressed one",
       "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/",
@@ -362,6 +690,49 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bca7d98cfdc17a527dfc"
+    },
+    {
+      "title": "It’s time to rebuild the house: The AI-driven transformation of enterprise",
+      "url": "https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:45:36+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Somewhere around 2017, at a family dinner in my hometown in Gujarat (India), an uncle asked me what I actually did for a living. I said “cloud consulting,” and he had no idea what that meant. So I reached for an analogy, and it worked so well that I’ve been using it for a decade […] The post It’s time to rebuild the house: The AI-driven transformation of enterprise appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2389c530d139bb154f17"
+    },
+    {
+      "title": "Global expansion is no longer about reducing information costs, it’s about reducing trust costs",
+      "url": "https://e27.co/global-expansion-is-no-longer-about-reducing-information-costs-its-about-reducing-trust-costs-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T03:00:57+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "For decades, globalisation followed a predictable economic logic. Technology lowered the cost of communication, cloud computing reduced infrastructure costs, SaaS standardised business processes, and AI is now making information almost free. Every major wave of innovation has reduced the friction of doing business across borders. Yet after spending the past year working with founders, government […] The post Global…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee94dd5c7a73edc27a5e"
     },
     {
       "title": "M 5.2 - northern Mid-Atlantic Ridge",
@@ -436,6 +807,27 @@
       "id": "3850d02aa9f4d959224e"
     },
     {
+      "title": "Your offshore vendor’s AI is running on your code: Do you know which one?",
+      "url": "https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:30:56+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Picture a software engineer working on your production system. They open their laptop, load the task, and run the problem through an AI coding assistant. The output is clean, efficient, and correctly structured. What you may not know is which AI tool processed your business logic, whose infrastructure it ran on, or whether your proprietary […] The post Your offshore vendor’s AI is running on your code: Do you know w…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3369668b826bf58cc602"
+    },
+    {
       "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
       "url": "https://www.digital.go.jp/policies/priority-policy-program",
       "source": "Japan Digital Agency News RSS",
@@ -501,6 +893,68 @@
       "id": "98e7198d3bcc5d801620"
     },
     {
+      "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
+      "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:21:42+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "The digital asset market displays a distinct realignment as institutional investors re-enter the space with renewed vigour. Over the past 24 hours, Bitcoin advanced by 0.69 per cent to US$65,111.21, closely tracking a broader 0.77 per cent increase in the total cryptocurrency market capitalisation. While these daily gains might appear modest at first glance, the […] The post Bitcoin reclaims key technical levels, Et…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "0847c8379d7331dc863f"
+    },
+    {
+      "title": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260721-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:39:45+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3008438288141bff8eb8"
+    },
+    {
       "title": "Why DNA is becoming the next platform layer in digital health",
       "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -519,6 +973,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2da2ef0c4cd75035895a"
+    },
+    {
+      "title": "Appleはもう「メモリのお得意様」ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-20T22:55:21+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "5月末に「それで、メモリ不足はいつまで続くの？ なかなか終わらない狂騒のウラ側」と題した記事をお届けしたが、その余波が遂にスマートフォンを直撃する事になった。米Appleが中国のメモリメーカー・CXMTからのメモリ調達を検討しているという話題が英Financial Times（FT）で報じられ、騒ぎになっている。 さらにApp...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "718d074cd42be65d8a8f"
     },
     {
       "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
@@ -561,81 +1036,253 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "747f955e52f1be9a9c0f"
+    },
+    {
+      "title": "Why boards are getting CEO succession wrong, and what it’s costing them",
+      "url": "https://e27.co/why-boards-are-getting-ceo-succession-wrong-and-what-its-costing-them-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T03:15:36+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Consider this: Russell Reynolds Associates’ 2025 Global Board Culture and Director Behaviours study found that only eight per cent of boards plan more than five years ahead for CEO succession. Half report succession horizons of just one to three years. And when the moment of truth arrives, only 44 per cent of directors believe their […] The post Why boards are getting CEO succession wrong, and what it’s costing them…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b8f906a7ce24b7ed291"
+    },
+    {
+      "title": "Finance doesn’t have a math problem, it has an ego problem.",
+      "url": "https://e27.co/finance-doesnt-have-a-math-problem-it-has-an-ego-problem-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:30:06+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Every year, someone builds a smarter, more elegant financial model. Every few years, that same model blows up spectacularly the moment a real crisis hits. The industry has been solving for the wrong thing entirely, and the fix isn’t more math. It’s more humility. Behavioural finance research keeps circling back to the same uncomfortable observation: […] The post Finance doesn’t have a math problem, it has an ego pro…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80dadd7b42369a97f427"
     }
   ],
   "new_findings": [
     {
-      "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Drupalプラグイン「AI Agents」における不正な認証の脆弱性",
+      "url": "https://jvn.jp/jp/JVN20592637/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-07-20T23:13:38+00:00",
-      "fetched_at": "2026-07-21T02:14:58+00:00",
-      "summary": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」：Go AbekawaのGo Global！ 牛尾剛さん AI vs.人間編（前編）（1/2 ページ） 米国MS開発の最前線では「コーディングエージェントブーム」は既に終息し、AIは日常の文房具に。AI時代に本当に求められる「人間の本体の強さ」と、思考を手放さ...",
+      "published_at": "2026-07-21T12:00:15+09:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Drupalが提供するプラグイン「AI Agents」には、不正な認証の脆弱性が存在します。",
       "matched_keywords": [
+        "AI Agents",
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "JVN",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e7d207a99b0253e38d5b"
+      "relevance_score": 27,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "92f3c125dc8e8d0aa2a3"
     },
     {
-      "title": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性",
+      "url": "https://jvn.jp/jp/JVN40509781/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-21T02:14:58+00:00",
-      "summary": "The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https://jcode.sh/install.ps1 | iex Need…",
+      "published_at": "2026-07-21T12:00:00+09:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "ソニー株式会社より2017年以前に出荷された一部のFeliCa ICチップでは、暗号処理プロセスにおいて特定の操作を行うことにより、本来のセキュリティ強度が低下する事象が発生します。",
       "matched_keywords": [
         "APAC Trend Radar",
-        "GitHub Trending",
-        "Webentwicklung"
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c409ce70ba44cbc2bd5a"
+    },
+    {
+      "title": "It’s time to rebuild the house: The AI-driven transformation of enterprise",
+      "url": "https://e27.co/its-time-to-rebuild-the-house-the-ai-driven-transformation-of-enterprise-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:45:36+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Somewhere around 2017, at a family dinner in my hometown in Gujarat (India), an uncle asked me what I actually did for a living. I said “cloud consulting,” and he had no idea what that meant. So I reached for an analogy, and it worked so well that I’ve been using it for a decade […] The post It’s time to rebuild the house: The AI-driven transformation of enterprise appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "98e7198d3bcc5d801620"
+      "id": "2389c530d139bb154f17"
     },
     {
-      "title": "Why DNA is becoming the next platform layer in digital health",
-      "url": "https://e27.co/why-dna-is-becoming-the-next-platform-layer-in-digital-health-20260719/",
+      "title": "Global expansion is no longer about reducing information costs, it’s about reducing trust costs",
+      "url": "https://e27.co/global-expansion-is-no-longer-about-reducing-information-costs-its-about-reducing-trust-costs-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-21T02:00:18+00:00",
-      "fetched_at": "2026-07-21T02:14:58+00:00",
-      "summary": "Digital health has spent the last decade building around behaviour. Apps track our steps, sleep, heart rate, calories, menstrual cycles, medication reminders and mental health check-ins. Wearables have made continuous health data feel normal. Telehealth has made remote consultations more acceptable. Wellness platforms have made personalised recommendations part of everyday consumer language. However, most of […] The…",
+      "published_at": "2026-07-21T03:00:57+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "For decades, globalisation followed a predictable economic logic. Technology lowered the cost of communication, cloud computing reduced infrastructure costs, SaaS standardised business processes, and AI is now making information almost free. Every major wave of innovation has reduced the friction of doing business across borders. Yet after spending the past year working with founders, government […] The post Global…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee94dd5c7a73edc27a5e"
+    },
+    {
+      "title": "Your offshore vendor’s AI is running on your code: Do you know which one?",
+      "url": "https://e27.co/your-offshore-vendors-ai-is-running-on-your-code-do-you-know-which-one-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:30:56+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Picture a software engineer working on your production system. They open their laptop, load the task, and run the problem through an AI coding assistant. The output is clean, efficient, and correctly structured. What you may not know is which AI tool processed your business logic, whose infrastructure it ran on, or whether your proprietary […] The post Your offshore vendor’s AI is running on your code: Do you know w…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3369668b826bf58cc602"
+    },
+    {
+      "title": "Bitcoin reclaims key technical levels, Ethereum leads broader market gains",
+      "url": "https://e27.co/bitcoin-reclaims-key-technical-levels-ethereum-leads-broader-market-gains-20260721/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:21:42+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "The digital asset market displays a distinct realignment as institutional investors re-enter the space with renewed vigour. Over the past 24 hours, Bitcoin advanced by 0.69 per cent to US$65,111.21, closely tracking a broader 0.77 per cent increase in the total cryptocurrency market capitalisation. While these daily gains might appear modest at first glance, the […] The post Bitcoin reclaims key technical levels, Et…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "0847c8379d7331dc863f"
+    },
+    {
+      "title": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260721-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:39:45+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "松本大臣記者会見（令和8年7月21日）動画を掲載しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2da2ef0c4cd75035895a"
+      "id": "3008438288141bff8eb8"
     },
     {
-      "title": "AIによる生産性向上「10年でわずか0.66％」ノーベル賞学者の驚きの“検算”、巨額投資も株価高騰も正当化されない？ 【小泉秀人の時事ネタ経済学】ゴールドマン予測と桁違いに低い経済効果、資料作成が爆速になっても経済全体にはほぼ影響なし？ | JBpress (ジェイビープレス)",
-      "url": "https://jbpress.ismedia.jp/articles/-/96002",
+      "title": "Appleはもう「メモリのお得意様」ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-20T06:37:31+00:00",
-      "fetched_at": "2026-07-21T02:14:58+00:00",
-      "summary": "この連載で、AIブームを支えるデータセンターへの巨額投資が、いずれ“請求書”として届きかねないという議論＊1を紹介した。その請求書を最終的に払えるかどうかは、AIが経済全体の生産性をどれだけ押し上げるかにかかっている。この本丸の問いに対し、現在までに経済学者がどのような試算を出しているか、いくつかの研究...",
+      "published_at": "2026-07-20T22:55:21+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "5月末に「それで、メモリ不足はいつまで続くの？ なかなか終わらない狂騒のウラ側」と題した記事をお届けしたが、その余波が遂にスマートフォンを直撃する事になった。米Appleが中国のメモリメーカー・CXMTからのメモリ調達を検討しているという話題が英Financial Times（FT）で報じられ、騒ぎになっている。 さらにApp...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -647,7 +1294,47 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "747f955e52f1be9a9c0f"
+      "id": "718d074cd42be65d8a8f"
+    },
+    {
+      "title": "Why boards are getting CEO succession wrong, and what it’s costing them",
+      "url": "https://e27.co/why-boards-are-getting-ceo-succession-wrong-and-what-its-costing-them-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T03:15:36+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Consider this: Russell Reynolds Associates’ 2025 Global Board Culture and Director Behaviours study found that only eight per cent of boards plan more than five years ahead for CEO succession. Half report succession horizons of just one to three years. And when the moment of truth arrives, only 44 per cent of directors believe their […] The post Why boards are getting CEO succession wrong, and what it’s costing them…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b8f906a7ce24b7ed291"
+    },
+    {
+      "title": "Finance doesn’t have a math problem, it has an ego problem.",
+      "url": "https://e27.co/finance-doesnt-have-a-math-problem-it-has-an-ego-problem-20260719/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:30:06+00:00",
+      "fetched_at": "2026-07-21T03:27:09+00:00",
+      "summary": "Every year, someone builds a smarter, more elegant financial model. Every few years, that same model blows up spectacularly the moment a real crisis hits. The industry has been solving for the wrong thing entirely, and the fix isn’t more math. It’s more humility. Behavioural finance research keeps circling back to the same uncomfortable observation: […] The post Finance doesn’t have a math problem, it has an ego pro…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80dadd7b42369a97f427"
     }
   ],
   "source_errors": [],
