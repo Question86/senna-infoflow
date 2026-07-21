@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T20:39:10+00:00_
+_Generiert: 2026-07-21T21:05:05+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+89 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ _Generiert: 2026-07-21T20:39:10+00:00_
 
 ## Priorität Mittel
 
+- **Claude CodeやCodexのサンドボックスを支えるbubblewrapを自作して理解する。その勢いでDockerも理解する - エムスリーテックブログ** — Score 23, observation — [Quelle](https://www.m3tech.blog/entry/2026/07/21/100000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-21T06:54:22+00:00`, fetched `2026-07-21T21:04:34+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: こんにちは、エンジニアリンググループSREチームGeneral Managerの横本(@yokomotod)です。 この記事はSREチームブログリレーの4日目の記事です。前回は山本さんによるAWS DevOps Agentの記事でした。手書きの図が上手過ぎじゃないですかね。 www.m3tech.blog さて、Claude Code や Codex のサンドボックス機能*1は使われ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Ansible Automation Platform: Mehrere Schwachstellen** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-21T07:46:06+00:00`, fetched `2026-07-21T08:15:25+00:00`
@@ -279,8 +288,8 @@ _Generiert: 2026-07-21T20:39:10+00:00_
 ## Empfehlungen
 
 - Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten

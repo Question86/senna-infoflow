@@ -48,6 +48,54 @@
     "id": "92f3c125dc8e8d0aa2a3"
   },
   {
+    "title": "Claude CodeやCodexのサンドボックスを支えるbubblewrapを自作して理解する。その勢いでDockerも理解する - エムスリーテックブログ",
+    "url": "https://www.m3tech.blog/entry/2026/07/21/100000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T06:54:22+00:00",
+    "fetched_at": "2026-07-21T21:04:34+00:00",
+    "summary": "こんにちは、エンジニアリンググループSREチームGeneral Managerの横本(@yokomotod)です。 この記事はSREチームブログリレーの4日目の記事です。前回は山本さんによるAWS DevOps Agentの記事でした。手書きの図が上手過ぎじゃないですかね。 www.m3tech.blog さて、Claude Code や Codex のサンドボックス機能*1は使われ...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "3dfe28eda1d1750f30d5"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Ansible Automation Platform: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923",
     "source": "BSI CERT-Bund Security Advisories",

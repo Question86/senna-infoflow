@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T20:39:10+00:00_
+_Generated: 2026-07-21T21:05:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `88`
+- findings: `89`
 
 ## Top Signals
 
@@ -15,33 +15,33 @@ _Generated: 2026-07-21T20:39:10+00:00_
 - url: https://jvn.jp/jp/JVN20592637/
 - summary: Drupalが提供するプラグイン「AI Agents」には、不正な認証の脆弱性が存在します。
 
-### 2. [UPDATE] [mittel] Red Hat Ansible Automation Platform: Mehrere Schwachstellen
+### 2. Claude CodeやCodexのサンドボックスを支えるbubblewrapを自作して理解する。その勢いでDockerも理解する - エムスリーテックブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-07-21T06:54:22+00:00`
+- url: https://www.m3tech.blog/entry/2026/07/21/100000
+- summary: こんにちは、エンジニアリンググループSREチームGeneral Managerの横本(@yokomotod)です。 この記事はSREチームブログリレーの4日目の記事です。前回は山本さんによるAWS DevOps Agentの記事でした。手書きの図が上手過ぎじゃないですかね。 www.m3tech.blog さて、Claude Code や Codex のサンドボックス機能*1は使われ...
+
+### 3. [UPDATE] [mittel] Red Hat Ansible Automation Platform: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `22`
 - published: `2026-07-21T07:46:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand herbeizuführen.
 
-### 3. OpenAI and Hugging Face partner to address security incident during model evaluation
+### 4. OpenAI and Hugging Face partner to address security incident during model evaluation
 - source: OpenAI News RSS
 - score: `19`
 - published: `2026-07-21T07:00:00+00:00`
 - url: https://openai.com/index/hugging-face-model-evaluation-security-incident
 - summary: OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
-### 4. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen
+### 5. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
 - published: `2026-07-21T07:46:07+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955
 - summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten…
-
-### 5. Introducing the ChatGPT for small business program
-- source: OpenAI News RSS
-- score: `16`
-- published: `2026-07-21T17:00:00+00:00`
-- url: https://openai.com/index/introducing-chatgpt-small-business-program
-- summary: OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
 
 ### 6. M 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal
 - source: USGS M4.5+ Earthquakes Past Hour
