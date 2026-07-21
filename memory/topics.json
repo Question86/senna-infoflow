@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T10:06:28+00:00",
+  "generated_at": "2026-07-21T10:52:04+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,41 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T10:47:57+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0754"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T10:47:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2929"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T10:47:55+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2920"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T10:47:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2914"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T10:47:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2756"
+      },
+      {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-21T09:47:54+00:00",
@@ -110,44 +145,16 @@
         "published_at": "2026-07-21T07:46:06+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T06:48:25+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2190"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T06:48:25+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T06:48:24+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2175"
-      },
-      {
-        "title": "非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-21T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN40509781/"
-      },
-      {
-        "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T10:02:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2426"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-21T10:47:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2756"
+      },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -210,13 +217,6 @@
         "published_at": "2026-07-21T08:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html"
-      },
-      {
-        "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-21T04:45:28+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/"
       }
     ],
     "economy": [
@@ -314,18 +314,18 @@
         "url": "https://www.gizmodo.jp/article/mamdanis-new-click-to-cancel-rule-makes-it-easier-for-new-yorkers-to-cancel-subscriptions/"
       },
       {
+        "title": "「リポスト直後のポスト」を一括で表示するサービスを始めました！｜Togetter（トゥギャッター ）",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T03:01:07+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/togetter/n/n1b911f1524e4"
+      },
+      {
         "title": "Appleはもう「メモリのお得意様」ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-20T22:55:21+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html"
-      },
-      {
-        "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T22:50:18+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a"
       }
     ],
     "github": [

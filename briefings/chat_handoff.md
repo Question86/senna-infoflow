@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T10:06:28+00:00_
+_Generated: 2026-07-21T10:52:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `61`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-07-21T10:06:28+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1955
 - summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten…
 
-### 4. [NEU] [hoch] Red Hat Enterprise Linux (sssd, glib, c-ares): Mehrere Schwachstellen
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-21T09:47:54+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2419
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
+- published: `2026-07-21T10:47:57+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0754
+- summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
-### 5. [UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation
+### 5. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-21T07:46:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1938
-- summary: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Root-Rechte zu erlangen.
+- published: `2026-07-21T10:47:56+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2929
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
 
 ### 6. Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian
 - source: e27 Asia Startup and Tech Feed
