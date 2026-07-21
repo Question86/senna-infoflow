@@ -889,6 +889,44 @@
     "id": "ae482861f179cdd29a1e"
   },
   {
+    "title": "M 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-21T13:53:55.204+00:00",
+    "fetched_at": "2026-07-21T13:53:37+00:00",
+    "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-21 13:13:11 UTC 2026-07-21 13:13:11 UTC at epicenter Location 39.937°N 29.718°W Depth 6.74 km (4.19 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "09a3245c2e737f42dc64"
+  },
+  {
     "title": "M 5.6 - Kermadec Islands region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1193,6 +1231,28 @@
       "LOW"
     ],
     "id": "24b18a0603eabddf0685"
+  },
+  {
+    "title": "LLM の「脳内」をハッキングする技術 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "url": "https://joisino.hatenablog.com/entry/hack",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T09:10:55+00:00",
+    "fetched_at": "2026-07-21T13:53:37+00:00",
+    "summary": "LLM の内部状態やパラメータ、いわばLLM の「脳内」を局所的に書き換えることで、LLM の動作に介入する手法が発展を遂げています。 まずは最も基本的な操舵ベクトルについてみていきましょう。 操舵ベクトル LLM の内部状態を特定の方向に動かすことで動作を操作できます。このときに用いるベクトルのことを操舵ベクトル...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "810d54dcae0a7b2d2f94"
   },
   {
     "title": "M 4.6 - 84 km SW of Puerto Madero, Mexico",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T13:12:19+00:00_
+_Generated: 2026-07-21T13:54:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `76`
+- findings: `78`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-07-21T13:12:19+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1665
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht spezifizierte Angriffe durchzuführen.
 
-### 6. M 5.6 - Kermadec Islands region
+### 6. M 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-21T13:53:55.204+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b
+- summary: PAGER - GREEN ShakeMap - III Time 2026-07-21 13:13:11 UTC 2026-07-21 13:13:11 UTC at epicenter Location 39.937°N 29.718°W Depth 6.74 km (4.19 mi)
+
+### 7. M 5.6 - Kermadec Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-21T12:41:48.361+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y
 - summary: PAGER - GREEN ShakeMap - III Time 2026-07-21 12:14:33 UTC 2026-07-21 12:14:33 UTC at epicenter Location 29.512°S 176.995°W Depth 10.00 km (6.21 mi)
 
-### 7. Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian
+### 8. Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-21T06:51:50+00:00`
 - url: https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/
 - summary: For years, much of Southeast Asia’s digital economy has been built around a quiet compromise: if users wanted access to the best technology, they often had to meet it in English. That bargain is beginning to shift. New usage data around Google’s Gemini sugges…
 
-### 8. WordPress-Lücke „wp2shell“ wird angegriffen
+### 9. WordPress-Lücke „wp2shell“ wird angegriffen
 - source: heise Security Alerts
 - score: `11`
 - published: `2026-07-21T12:13:00.000+00:00`
 - url: https://www.heise.de/news/WordPress-Luecke-wp2shell-wird-angegriffen-11372213.html
 - summary: Zum Wochenende wurde die „wp2shell“-WordPress-Lücke bekannt. Seitdem beobachten IT-Sicherheitsforscher Attacken im Internet darauf.
-
-### 9. M 4.9 - 78 km NE of Simao, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-21T12:12:53.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25s
-- summary: Time 2026-07-21 11:43:08 UTC 2026-07-21 11:43:08 UTC at epicenter Location 23.271°N 101.540°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

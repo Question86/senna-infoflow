@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T13:12:19+00:00_
+_Generiert: 2026-07-21T13:54:10+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+78 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 ## Priorität Hoch
 
@@ -86,6 +86,15 @@ _Generiert: 2026-07-21T13:12:19+00:00_
 
 ## Nur beobachten
 
+- **M 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-21T13:53:55.204+00:00`, fetched `2026-07-21T13:53:37+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-21 13:13:11 UTC 2026-07-21 13:13:11 UTC at epicenter Location 39.937°N 29.718°W Depth 6.74 km (4.19 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.6 - Kermadec Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-21T12:41:48.361+00:00`, fetched `2026-07-21T12:42:27+00:00`
@@ -185,15 +194,6 @@ _Generiert: 2026-07-21T13:12:19+00:00_
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
   - Kurz: AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜 AI に仕事を頼むと、まず会社のことを説明する仕事が発生する。この困りごとは世界共通のようで、Y Combinator は「Company Brain」というカテゴリを立て、世界のすべての会社が必要とするようになる、と言...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 58 km SSW of Merizo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25j)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-21T11:29:47.498+00:00`, fetched `2026-07-21T11:30:03+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - IV Time 2026-07-21 11:09:45 UTC 2026-07-21 11:09:45 UTC at epicenter Location 12.822°N 144.381°E Depth 12.16 km (7.56 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/policies/priority-policy-program)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-21T00:14:37+00:00`, fetched `2026-07-21T00:51:32+00:00`
