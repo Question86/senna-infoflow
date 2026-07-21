@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-21T12:07:45+00:00_
+_Generated: 2026-07-21T12:42:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `72`
+- findings: `75`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-07-21T12:07:45+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1665
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht spezifizierte Angriffe durchzuführen.
 
-### 6. Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian
+### 6. M 5.6 - Kermadec Islands region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-21T12:41:48.361+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y
+- summary: PAGER - GREEN ShakeMap - III Time 2026-07-21 12:14:33 UTC 2026-07-21 12:14:33 UTC at epicenter Location 29.512°S 176.995°W Depth 10.00 km (6.21 mi)
+
+### 7. Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-21T06:51:50+00:00`
 - url: https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/
 - summary: For years, much of Southeast Asia’s digital economy has been built around a quiet compromise: if users wanted access to the best technology, they often had to meet it in English. That bargain is beginning to shift. New usage data around Google’s Gemini sugges…
 
-### 7. Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場
-- source: Hatena Bookmark Hotentry IT
+### 8. WordPress-Lücke „wp2shell“ wird angegriffen
+- source: heise Security Alerts
 - score: `11`
-- published: `2026-07-20T21:39:31+00:00`
-- url: https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html
-- summary: Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できます...
+- published: `2026-07-21T12:13:00.000+00:00`
+- url: https://www.heise.de/news/WordPress-Luecke-wp2shell-wird-angegriffen-11372213.html
+- summary: Zum Wochenende wurde die „wp2shell“-WordPress-Lücke bekannt. Seitdem beobachten IT-Sicherheitsforscher Attacken im Internet darauf.
 
-### 8. Multiples vulnérabilités dans Microsoft Azure (15 juillet 2026)
-- source: CERT-FR Avis de sécurité
+### 9. M 4.9 - 78 km NE of Simao, China
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-07-15T00:00:00+00:00`
-- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0871/
-- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
-
-### 9. July 2026 euro area bank lending survey
-- source: ECB Press Releases Speeches Interviews
-- score: `10`
-- published: `2026-07-21T08:00:00+00:00`
-- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html
-- summary: July 2026 euro area bank lending survey
+- published: `2026-07-21T12:12:53.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25s
+- summary: Time 2026-07-21 11:43:08 UTC 2026-07-21 11:43:08 UTC at epicenter Location 23.271°N 101.540°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

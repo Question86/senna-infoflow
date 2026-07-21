@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-21T12:07:45+00:00",
+  "generated_at": "2026-07-21T12:42:59+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 3,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 1,
     "medium": 36,
-    "observe": 35
+    "observe": 38
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.6 - Kermadec Islands region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-21T12:41:48.361+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-21 12:14:33 UTC 2026-07-21 12:14:33 UTC at epicenter Location 29.512°S 176.995°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -75,33 +85,23 @@
       "section": "observe"
     },
     {
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "WordPress-Lücke „wp2shell“ wird angegriffen",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-20T21:39:31+00:00",
+      "published_at": "2026-07-21T12:13:00.000+00:00",
       "relevance_score": 11,
-      "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "summary": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できます...",
+      "url": "https://www.heise.de/news/WordPress-Luecke-wp2shell-wird-angegriffen-11372213.html",
+      "summary": "Zum Wochenende wurde die „wp2shell“-WordPress-Lücke bekannt. Seitdem beobachten IT-Sicherheitsforscher Attacken im Internet darauf.",
       "section": "observe"
     },
     {
-      "title": "Multiples vulnérabilités dans Microsoft Azure (15 juillet 2026)",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "M 4.9 - 78 km NE of Simao, China",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-15T00:00:00+00:00",
+      "published_at": "2026-07-21T12:12:53.040+00:00",
       "relevance_score": 11,
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0871/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "section": "observe"
-    },
-    {
-      "title": "July 2026 euro area bank lending survey",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-07-21T08:00:00+00:00",
-      "relevance_score": 10,
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
-      "summary": "July 2026 euro area bank lending survey",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25s",
+      "summary": "Time 2026-07-21 11:43:08 UTC 2026-07-21 11:43:08 UTC at epicenter Location 23.271°N 101.540°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -110,142 +110,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Drupalプラグイン「AI Agents」における不正な認証の脆弱性” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=47.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Drupalプラグイン「AI Agents」における不正な認証の脆弱性",
-        "url": "https://jvn.jp/jp/JVN20592637/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-21T12:00:15+09:00",
-        "age_days": 0.38,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 47.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Drupalが提供するプラグイン「AI Agents」には、不正な認証の脆弱性が存在します。"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Ansible Automation Platform: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1923",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T07:46:06+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 42.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand herbeizuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1665",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T11:47:56+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0922",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T11:28:03+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff und nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2929",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-21T10:47:56+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
-      }
-    ]
-  }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T12:07:45+00:00",
+  "generated_at": "2026-07-21T12:42:59+00:00",
   "topics": {
     "ai": [
       {
@@ -258,6 +258,20 @@
     ],
     "general": [
       {
+        "title": "M 5.6 - Kermadec Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-21T12:41:48.361+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y"
+      },
+      {
+        "title": "M 4.9 - 78 km NE of Simao, China",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-21T12:12:53.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25s"
+      },
+      {
         "title": "M 5.0 - 58 km SSW of Merizo Village, Guam",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-21T11:29:47.498+00:00",
@@ -312,20 +326,6 @@
         "published_at": "2026-07-21T06:24:03+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/21/news081.html"
-      },
-      {
-        "title": "NY市に「ワンクリック解約」と「隠し手数料禁止」の新ルール。市民は年1.6億ドルの節約に | ギズモード・ジャパン",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-21T05:32:14+00:00",
-        "relevance_score": 5,
-        "url": "https://www.gizmodo.jp/article/mamdanis-new-click-to-cancel-rule-makes-it-easier-for-new-yorkers-to-cancel-subscriptions/"
-      },
-      {
-        "title": "「リポスト直後のポスト」を一括で表示するサービスを始めました！｜Togetter（トゥギャッター ）",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-21T03:01:07+00:00",
-        "relevance_score": 5,
-        "url": "https://note.com/togetter/n/n1b911f1524e4"
       }
     ],
     "github": [
