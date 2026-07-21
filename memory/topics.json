@@ -1,9 +1,25 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-21T00:52:01+00:00",
+  "generated_at": "2026-07-21T01:26:02+00:00",
   "topics": {
+    "economy": [
+      {
+        "title": "Singapore is not a small market, it is a compressed one",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T01:15:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/singapore-is-not-a-small-market-it-is-a-compressed-one-20260719/"
+      }
+    ],
     "ai": [
+      {
+        "title": "AI is answering your customers before they ever click, and it may never mention you",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-21T01:00:50+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ai-is-answering-your-customers-before-they-ever-click-and-it-may-never-mention-you-20260719/"
+      },
       {
         "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
         "source": "Hatena Bookmark Hotentry IT",
@@ -19,6 +35,22 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232"
       }
     ],
+    "general": [
+      {
+        "title": "M 5.2 - northern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-21T01:19:56.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
+      },
+      {
+        "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-20T22:50:18+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a"
+      }
+    ],
     "geopolitics": [
       {
         "title": "「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました",
@@ -26,15 +58,6 @@
         "published_at": "2026-07-21T00:14:37+00:00",
         "relevance_score": 8,
         "url": "https://www.digital.go.jp/policies/priority-policy-program"
-      }
-    ],
-    "general": [
-      {
-        "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-20T22:50:18+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a"
       }
     ]
   }
