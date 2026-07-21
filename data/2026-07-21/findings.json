@@ -1006,6 +1006,28 @@
     "id": "b9e07b54215f12a01486"
   },
   {
+    "title": "Claude Code Web の Routine で日々の開発を自動化する",
+    "url": "https://zenn.dev/mizchi/scraps/4e5d72496e2bfc",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T08:10:33+00:00",
+    "fetched_at": "2026-07-21T13:11:49+00:00",
+    "summary": "自分が気に入ってる Claude Code Web を使った開発の(一部)自動化の手法を紹介します。 周りにあまり使ってる人がいないのですが、作者のボリスを参考に自分も開発の一部を自動化するのにある程度成功しています。 Claude Code Web Claude Code は Web 上のダッシュボードからコンテナ環境で開発することができます (一...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "688eb6fa409858c22188"
+  },
+  {
     "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
     "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
     "source": "Hatena Bookmark Hotentry IT",

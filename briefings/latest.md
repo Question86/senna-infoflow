@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T12:42:59+00:00_
+_Generiert: 2026-07-21T13:12:19+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+76 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-07-21T12:42:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Afghanistan
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 21/07/2026 12:14 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553193)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 21/07/2026 12:14 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Northern Mid-Atlantic Ridge 20/07/2026 21:28 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553080)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-07-21T12:42:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552687)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -195,6 +195,15 @@ _Generiert: 2026-07-21T12:42:59+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-21 11:43:08 UTC 2026-07-21 11:43:08 UTC at epicenter Location 23.271°N 101.540°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Code Web の Routine で日々の開発を自動化する** — Score 11, observation — [Quelle](https://zenn.dev/mizchi/scraps/4e5d72496e2bfc)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-21T08:10:33+00:00`, fetched `2026-07-21T13:11:49+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 自分が気に入ってる Claude Code Web を使った開発の(一部)自動化の手法を紹介します。 周りにあまり使ってる人がいないのですが、作者のボリスを参考に自分も開発の一部を自動化するのにある程度成功しています。 Claude Code Web Claude Code は Web 上のダッシュボードからコンテナ環境で開発することができます (一...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場** — Score 11, observation — [Quelle](https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-20T21:39:31+00:00`, fetched `2026-07-21T00:06:08+00:00`
@@ -266,15 +275,6 @@ _Generiert: 2026-07-21T12:42:59+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「デジタル社会の実現に向けた重点計画」（2026年7月21日閣議決定）を公表しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」** — Score 8, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-20T23:13:38+00:00`, fetched `2026-07-21T02:14:58+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」：Go AbekawaのGo Global！ 牛尾剛さん AI vs.人間編（前編）（1/2 ページ） 米国MS開発の最前線では「コーディングエージェントブーム」は既に終息し、AIは日常の文房具に。AI時代に本当に求められる「人間の本体の強さ」と、思考を手放さ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Roundcube (06 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0835/)
   - Quelle: CERT-FR Avis de sécurité / `rss`

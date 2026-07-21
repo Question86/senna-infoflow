@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:43:00+00:00",
+  "generated_at": "2026-07-21T13:12:20+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,6 +69,16 @@
         "summary": "Green flood alert in Afghanistan",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104033",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 21/07/2026 12:14 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 21/07/2026 12:14 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553193",
         "published_at": "",
         "metrics": {}
       },
@@ -149,16 +159,6 @@
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, [unknown].",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552700",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552687",
         "published_at": "",
         "metrics": {}
       }
