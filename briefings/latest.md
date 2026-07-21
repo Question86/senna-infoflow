@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-21T06:32:10+00:00_
+_Generiert: 2026-07-21T07:26:04+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
+33 neue relevante Treffer. Stärkstes Signal: „Drupalプラグイン「AI Agents」における不正な認証の脆弱性“ aus JVN Japan Vulnerability Notes (Score 27, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -93,6 +93,33 @@ _Generiert: 2026-07-21T06:32:10+00:00_
 
 ## Priorität Mittel
 
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2190)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-21T06:48:25+00:00`, fetched `2026-07-21T07:25:37+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1653)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-21T06:48:25+00:00`, fetched `2026-07-21T07:25:37+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter anonymer Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere nicht spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2175)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-21T06:48:24+00:00`, fetched `2026-07-21T07:25:37+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise das Auslösen eines Denial-of-Service-Zustands, die Umgehung von Sicherheitsmaßnahmen oder das Verursachen von Speicherbeschädigungen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN40509781/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-21T12:00:00+09:00`, fetched `2026-07-21T03:27:09+00:00`
@@ -123,6 +150,15 @@ _Generiert: 2026-07-21T06:32:10+00:00_
 
 ## Nur beobachten
 
+- **Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian** — Score 13, observation — [Quelle](https://e27.co/southeast-asias-ai-future-is-being-written-in-vietnamese-thai-indonesian-20260721/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-21T06:51:50+00:00`, fetched `2026-07-21T07:25:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)
+  - Kurz: For years, much of Southeast Asia’s digital economy has been built around a quiet compromise: if users wanted access to the best technology, they often had to meet it in English. That bargain is beginning to shift. New usage data around Google’s Gemini suggests that generative AI in the region is increasingly being used in local […] The post Southeast Asia’s AI future is being written in Vietnamese, Thai, Indonesian…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場** — Score 11, observation — [Quelle](https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-20T21:39:31+00:00`, fetched `2026-07-21T00:06:08+00:00`
@@ -150,15 +186,15 @@ _Generiert: 2026-07-21T06:32:10+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
   - Kurz: Somewhere around 2017, at a family dinner in my hometown in Gujarat (India), an uncle asked me what I actually did for a living. I said “cloud consulting,” and he had no idea what that meant. So I reached for an analogy, and it worked so well that I’ve been using it for a decade […] The post It’s time to rebuild the house: The AI-driven transformation of enterprise appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Global expansion is no longer about reducing information costs, it’s about reducing trust costs** — Score 9, observation — [Quelle](https://e27.co/global-expansion-is-no-longer-about-reducing-information-costs-its-about-reducing-trust-costs-20260719/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-21T03:00:57+00:00`, fetched `2026-07-21T03:27:09+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
-  - Kurz: For decades, globalisation followed a predictable economic logic. Technology lowered the cost of communication, cloud computing reduced infrastructure costs, SaaS standardised business processes, and AI is now making information almost free. Every major wave of innovation has reduced the friction of doing business across borders. Yet after spending the past year working with founders, government […] The post Global…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 84 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t24u)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-21T06:59:29.040+00:00`, fetched `2026-07-21T07:25:37+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-21 06:43:15 UTC 2026-07-21 06:43:15 UTC at epicenter Location 14.207°N 93.002°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-21T01:19:56.040+00:00`, fetched `2026-07-21T01:25:30+00:00`
@@ -235,8 +271,8 @@ _Generiert: 2026-07-21T06:32:10+00:00_
 ## Empfehlungen
 
 - Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
