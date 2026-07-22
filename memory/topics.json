@@ -1,8 +1,84 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T00:52:01+00:00",
+  "generated_at": "2026-07-22T01:25:54+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:15:57+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
+      },
+      {
+        "title": "bojieli/ai-agent-book",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/bojieli/ai-agent-book"
+      },
+      {
+        "title": "earthtojake/text-to-cad",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      {
+        "title": "ayghri/i-have-adhd",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      }
+    ],
+    "github": [
+      {
+        "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:15:57+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
+      },
+      {
+        "title": "bojieli/ai-agent-book",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/bojieli/ai-agent-book"
+      },
+      {
+        "title": "earthtojake/text-to-cad",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      {
+        "title": "ayghri/i-have-adhd",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      }
+    ],
+    "economy": [
+      {
+        "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:15:57+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
+      },
+      {
+        "title": "ayghri/i-have-adhd",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      }
+    ],
     "security": [
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
@@ -17,6 +93,15 @@
         "published_at": "2026-07-21T23:27:45+00:00",
         "relevance_score": 11,
         "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "earthtojake/text-to-cad",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/earthtojake/text-to-cad"
       }
     ]
   }

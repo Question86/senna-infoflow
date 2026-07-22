@@ -1,5 +1,29 @@
 [
   {
+    "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
+    "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T01:15:57+00:00",
+    "fetched_at": "2026-07-22T01:25:23+00:00",
+    "summary": "Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a strong reputation with developers, and Claude Code has become one of the clearest examples of an AI product […] The post The real difference between OpenAI and An…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "OpenAI",
+      "Reputationsrisiko"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2a5cff4c4857e0bd373a"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
     "url": "https://jvn.jp/vu/JVNVU98832565/",
     "source": "JVN Japan Vulnerability Notes",
@@ -23,6 +47,29 @@
     "id": "7510f0b2ba97c056fa5e"
   },
   {
+    "title": "bojieli/ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-22T01:25:23+00:00",
+    "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · 台灣正體 · English · Tiếng Việt · தமிழ் Agent = LLM + 上下文 + 工具 ——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、 88 个配套实验 全部开源，欢迎亲手把实验跑一遍。 📚 10 章 正文，从基础到生产 📂 88 个 配套项目（70+ 可独立运行） 🌐 5 种 语言：中 / 台灣正體 / 英 / 泰 / 越 📖 电子书 📥 直接下载 （全书正文，开源免费）。以下链接始终指向 main 分支的最新构建；固定版本见 Releases ： 中文（原版） ： PDF · EPUB 台灣正體 （社区翻译，by @tigercosmos ）： PDF · EP…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "45ab8ed59fdd6ffc18c7"
+  },
+  {
     "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
     "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -43,5 +90,74 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e3598cd0ca411d078cbf"
+  },
+  {
+    "title": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-22T01:25:23+00:00",
+    "summary": "A collection of agent skills for CAD, robotics and hardware design ██████╗ █████╗ ██████╗ ███████╗██╗ ██╗██╗██╗ ██╗ ███████╗ ██╔════╝██╔══██╗██╔══██╗ ██╔════╝██║ ██╔╝██║██║ ██║ ██╔════╝ ██║ ███████║██║ ██║ ███████╗█████╔╝ ██║██║ ██║ ███████╗ ██║ ██╔══██║██║ ██║ ╚════██║██╔═██╗ ██║██║ ██║ ╚════██║ ╚██████╗██║ ██║██████╔╝ ███████║██║ ██╗██║███████╗███████╗███████║ ╚═════╝╚═╝ ╚═╝╚═════╝ ╚══════╝╚═╝ ╚═╝╚═╝╚══════╝╚═════…",
+    "matched_keywords": [
+      "AI Agents",
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cfac5d588da28b95f264"
+  },
+  {
+    "title": "ayghri/i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-22T01:25:23+00:00",
+    "summary": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main co…",
+    "matched_keywords": [
+      "AI Agents",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote clone (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "ec69ddaef62440c89ecb"
   }
 ]
