@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T20:00:20+00:00_
+_Generiert: 2026-07-22T20:31:29+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-22 17:34:36 UTC 2026-07-22 17:34:36 UTC at epicenter Location 23.377°S 68.527°W Depth 108.73 km (67.56 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How news organizations are using AI to advance their vital missions** — Score 11, observation — [Quelle](https://openai.com/index/how-news-organizations-are-using-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-22T13:00:00+00:00`, fetched `2026-07-22T20:30:59+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 103 km S of San Pedro de Atacama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2g0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-22T11:54:04.040+00:00`, fetched `2026-07-22T12:09:04+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s data professionals are proving to be among the most cautious in the world when it comes to letting artificial intelligence (AI) operate unsupervised. According to a new global study, 61 per cent of the city-state’s data analysts prefer a human-in-the-loop approach to AI, the highest share recorded across all regions surveyed. Also Read: AI […] The post Singapore’s data analysts trust AI to work, not to t…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Most AI projects don’t fail on technology, they fail on the workflow nobody fixed first** — Score 10, observation — [Quelle](https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-22T02:15:19+00:00`, fetched `2026-07-22T03:26:49+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: Artificial intelligence has become Southeast Asia’s favourite business conversation. Boardrooms are discussing it. Investors are asking about it. Startups are building around it. Established companies are scrambling to integrate it. In many ways, AI has become the defining technology race of this decade. But after working with businesses across different industries, an uncomfortable pattern continues […] The post Mo…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
