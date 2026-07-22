@@ -1430,6 +1430,78 @@
     "id": "cfac5d588da28b95f264"
   },
   {
+    "title": "M 4.9 - 104 km ENE of Port-Olry, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2jh",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-22T22:27:57.040+00:00",
+    "fetched_at": "2026-07-22T22:36:32+00:00",
+    "summary": "Time 2026-07-22 21:42:50 UTC 2026-07-22 21:42:50 UTC at epicenter Location 14.732°S 167.994°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b79a6897584a52a5c556"
+  },
+  {
+    "title": "M 4.9 - 17 km NW of Hihifo, Tonga",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2jk",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-22T22:17:45.040+00:00",
+    "fetched_at": "2026-07-22T22:36:32+00:00",
+    "summary": "Time 2026-07-22 21:58:51 UTC 2026-07-22 21:58:51 UTC at epicenter Location 15.832°S 173.903°W Depth 71.25 km (44.27 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "cbe2c6f9d855aa34f7fd"
+  },
+  {
     "title": "M 4.8 - Kermadec Islands region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2hm",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1669,6 +1741,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "33607a02d9a3fc6f8fea"
+  },
+  {
+    "title": "オープンAIの人工知能 テスト中に隔離環境抜け出し、サイバー攻撃「自律的に起こった」",
+    "url": "https://www.sankei.com/article/20260722-2MMNPNOKB5EXJL7M3EUB3LVKGY/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T07:21:10+00:00",
+    "fetched_at": "2026-07-22T22:36:32+00:00",
+    "summary": "米オープンAIは21日、テスト中の人工知能（AI）が隔離された環境を抜け出して、米AI新興企業ハギングフェイスをサイバー攻撃する事故が起きたと発表した。「最先端のサイバー技術が関わった前例のないサイバー攻撃事例だと認識している」として、調査を始めた。 オープンAIのブログによると、社内でサイバー攻撃能力をテ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9aab49c37407a713a5a4"
   },
   {
     "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
@@ -2045,6 +2139,27 @@
       "PINS"
     ],
     "id": "36f9f0220563e60b1d2e"
+  },
+  {
+    "title": "三脚もスタンドもこの1台に集約！ 新発想のカメラマン向けキャリー「FRAME-ONE」[Sponsored]",
+    "url": "https://dc.watch.impress.co.jp/docs/topic/special/2123637.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T04:23:41+00:00",
+    "fetched_at": "2026-07-22T22:36:32+00:00",
+    "summary": "三脚もスタンドもこの1台に集約！ 新発想のカメラマン向けキャリー「FRAME-ONE」[Sponsored]",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b9ef9bd52d63eea1dfcf"
   },
   {
     "title": "DRAM、NANDの価格が10倍に…世界半導体市場の「異常」な急拡大を引き起こしているメモリ価格高騰の真因 生成AIが引き起こしたスーパーサイクルの構造と限界 | JBpress (ジェイビープレス)",
