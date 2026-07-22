@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T07:26:47+00:00_
+_Generiert: 2026-07-22T08:17:07+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+33 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,46 @@ _Generiert: 2026-07-22T07:26:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-16`
   - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7ff49842df90>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green flood alert in Latvia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104037)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Latvia
+- **GDACS: Green flood alert in Romania** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104039)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Romania
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 21/07/2026 12:14 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553193)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 21/07/2026 12:14 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Northern Mid-Atlantic Ridge 20/07/2026 21:28 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553080)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Northern Mid-Atlantic Ridge 20/07/2026 21:28 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552972)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553068)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:35km) in Mexico 19/07/2026 17:45 UTC, 450 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552874)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:35km) in Mexico 19/07/2026 17:45 UTC, 450 thousand in MMI IV.
+- **GDACS: Green notification for tropical cyclone BERTHA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001290)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone BERTHA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green notification for tropical cyclone FAUSTO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001289)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone FAUSTO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 240 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552752)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 240 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
@@ -158,6 +196,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Payments statistics: second half of 2025** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-07-22T08:00:00+00:00`, fetched `2026-07-22T08:16:36+00:00`
+  - Treffer: Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Payments statistics: second half of 2025
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore’s data analysts trust AI to work, not to think** — Score 10, observation — [Quelle](https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-22T04:07:28+00:00`, fetched `2026-07-22T04:36:38+00:00`
@@ -212,6 +259,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote clone (x0.45)
   - Kurz: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main co…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Backupsoftware Veeam: Updater ermöglicht Rechteausweitung** — Score 7, observation — [Quelle](https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-22T07:37:00.000+00:00`, fetched `2026-07-22T08:16:36+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: IT-Sicherheitsforscher haben in der Update-Komponente von Veeam eine Sicherheitslücke entdeckt, die das Ausweiten der Rechte ermöglicht.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Oracle Critical Patch Update: 1449 Softwareflicken im Juli** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-22T06:30:00.000+00:00`, fetched `2026-07-22T07:26:15+00:00`
@@ -238,15 +294,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 第10回デジタル社会構想会議の議事録を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **DRAM、NANDの価格が10倍に…世界半導体市場の「異常」な急拡大を引き起こしているメモリ価格高騰の真因 生成AIが引き起こしたスーパーサイクルの構造と限界 | JBpress (ジェイビープレス)** — Score 5, observation — [Quelle](https://jbpress.ismedia.jp/articles/-/96024)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-22T03:25:58+00:00`, fetched `2026-07-22T07:26:15+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2025年から2026年にかけて、半導体業界を見つめてきた者なら誰もが目を疑うような数字が並び始めた。世界半導体市場は史上初めて年間1兆ドルを超えて2兆ドルに迫る規模へと駆け上がり、中でもDRAMとNANDという2大メモリの市場が「異常」としか言いようのない急拡大を見せている。 DRAMとNANDのスポット価格は1年半余りで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

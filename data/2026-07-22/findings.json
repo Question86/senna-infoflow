@@ -321,6 +321,27 @@
     "id": "e3598cd0ca411d078cbf"
   },
   {
+    "title": "Payments statistics: second half of 2025",
+    "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html",
+    "source": "ECB Statistical Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-07-22T08:00:00+00:00",
+    "fetched_at": "2026-07-22T08:16:36+00:00",
+    "summary": "Payments statistics: second half of 2025",
+    "matched_keywords": [
+      "Macro/Policy",
+      "statistics"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7013bd9452b0d73e7454"
+  },
+  {
     "title": "Singapore’s data analysts trust AI to work, not to think",
     "url": "https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -553,6 +574,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "adfb785977d02ea92bb1"
+  },
+  {
+    "title": "Backupsoftware Veeam: Updater ermöglicht Rechteausweitung",
+    "url": "https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-22T07:37:00.000+00:00",
+    "fetched_at": "2026-07-22T08:16:36+00:00",
+    "summary": "IT-Sicherheitsforscher haben in der Update-Komponente von Veeam eine Sicherheitslücke entdeckt, die das Ausweiten der Rechte ermöglicht.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "73a6356f0d8a73d06c1a"
   },
   {
     "title": "Oracle Critical Patch Update: 1449 Softwareflicken im Juli",
