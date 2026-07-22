@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T21:21:44+00:00",
-  "run_id": "2026-07-22T21:21:44+00:00",
+  "generated_at": "2026-07-22T21:50:29+00:00",
+  "run_id": "2026-07-22T21:50:29+00:00",
   "date": "2026-07-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 34,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -2159,6 +2159,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a60ef9bc8878df04e1d1"
+      },
+      {
+        "title": "非エンジニアの技術広報は、技術をどこまで学べばいいのか｜かわまた／コミュニケーションドラフト代表",
+        "url": "https://note.com/r_kawamata/n/nf7c7f5247ea6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-21T02:15:57+00:00",
+        "fetched_at": "2026-07-22T21:50:00+00:00",
+        "summary": "こんにちは、コミュニケーションドラフト代表の河又です。 前回は「技術広報の最初の90日でやることを、全部書く」を書きました。 拡散やスキをくださった皆さん、ありがとうございました。 これで最初にやるべきことは分かった。とはいえ、エンジニアのバックグラウンドを持たない人事や広報が技術広報を始めるとき、ど...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "143bf15475d1aef3e285"
       },
       {
         "title": "schollz/croc",
@@ -4334,6 +4355,27 @@
       "id": "a60ef9bc8878df04e1d1"
     },
     {
+      "title": "非エンジニアの技術広報は、技術をどこまで学べばいいのか｜かわまた／コミュニケーションドラフト代表",
+      "url": "https://note.com/r_kawamata/n/nf7c7f5247ea6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-21T02:15:57+00:00",
+      "fetched_at": "2026-07-22T21:50:00+00:00",
+      "summary": "こんにちは、コミュニケーションドラフト代表の河又です。 前回は「技術広報の最初の90日でやることを、全部書く」を書きました。 拡散やスキをくださった皆さん、ありがとうございました。 これで最初にやるべきことは分かった。とはいえ、エンジニアのバックグラウンドを持たない人事や広報が技術広報を始めるとき、ど...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "143bf15475d1aef3e285"
+    },
+    {
       "title": "schollz/croc",
       "url": "https://github.com/schollz/croc",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -4377,13 +4419,13 @@
   ],
   "new_findings": [
     {
-      "title": "XZ Utilsのバックドア事件についての電子書籍『Half a Second』 - YAMDAS現更新履歴",
-      "url": "https://yamdas.hatenablog.com/entry/20260721/half-a-second",
+      "title": "非エンジニアの技術広報は、技術をどこまで学べばいいのか｜かわまた／コミュニケーションドラフト代表",
+      "url": "https://note.com/r_kawamata/n/nf7c7f5247ea6",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-21T10:15:27+00:00",
-      "fetched_at": "2026-07-22T21:21:14+00:00",
-      "summary": "www.half-second.com 多くの Linux ディストリビューションに含まれた XZ Utils にバックドアが2024年に発見された問題は、Wikipedia の項目にもなったし、WIRED や Black Duck の記事も参考になる。 Half a Second はこの事件の全容を扱った電子書籍で、ウェブでも読めるし、PDF や EPUB でも公開されている。PDF で260...",
+      "published_at": "2026-07-21T02:15:57+00:00",
+      "fetched_at": "2026-07-22T21:50:00+00:00",
+      "summary": "こんにちは、コミュニケーションドラフト代表の河又です。 前回は「技術広報の最初の90日でやることを、全部書く」を書きました。 拡散やスキをくださった皆さん、ありがとうございました。 これで最初にやるべきことは分かった。とはいえ、エンジニアのバックグラウンドを持たない人事や広報が技術広報を始めるとき、ど...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4395,7 +4437,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a60ef9bc8878df04e1d1"
+      "id": "143bf15475d1aef3e285"
     }
   ],
   "source_errors": [],
