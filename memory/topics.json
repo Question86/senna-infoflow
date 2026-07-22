@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T08:17:07+00:00",
+  "generated_at": "2026-07-22T09:13:26+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,13 @@
         "published_at": "2026-07-22T01:15:57+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
+      },
+      {
+        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-07-22T10:39:13+00:00",
+        "relevance_score": 15,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
       },
       {
         "title": "bojieli/ai-agent-book",
@@ -186,6 +193,27 @@
         "url": "https://jvn.jp/vu/JVNVU98832565/"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T08:57:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T08:52:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427"
+      },
+      {
+        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-07-22T10:39:13+00:00",
+        "relevance_score": 15,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
+      },
+      {
         "title": "プロジェクト管理ツール「Plane」における認可回避の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-22T11:30:00+09:00",
@@ -193,11 +221,90 @@
         "url": "https://jvn.jp/vu/JVNVU90683587/"
       },
       {
+        "title": "[UPDATE] [niedrig] helm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T08:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2412"
+      },
+      {
+        "title": "[UPDATE] [hoch] libssh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T08:52:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2428"
+      },
+      {
         "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-21T23:27:45+00:00",
         "relevance_score": 11,
         "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/"
+      },
+      {
+        "title": "Datentransfersoftware Serv-U hat 15 kritische Sicherheitslücken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-22T08:20:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Datentransfersoftware-Serv-U-hat-15-kritische-Sicherheitsluecken-11373098.html"
+      },
+      {
+        "title": "Backupsoftware Veeam: Updater ermöglicht Rechteausweitung",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-22T07:37:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-07-22T10:39:13+00:00",
+        "relevance_score": 15,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
+      },
+      {
+        "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-22T08:15:19+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
+      },
+      {
+        "title": "Payments statistics: second half of 2025",
+        "source": "ECB Statistical Press Releases",
+        "published_at": "2026-07-22T08:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html"
+      },
+      {
+        "title": "earthtojake/text-to-cad",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      {
+        "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:45:03+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/"
+      },
+      {
+        "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T05:50:53+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/southeast-asia-loves-digital-nomads-until-the-paperwork-gets-complicated-20260722/"
+      },
+      {
+        "title": "Datentransfersoftware Serv-U hat 15 kritische Sicherheitslücken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-22T08:20:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Datentransfersoftware-Serv-U-hat-15-kritische-Sicherheitsluecken-11373098.html"
       },
       {
         "title": "Backupsoftware Veeam: Updater ermöglicht Rechteausweitung",
@@ -212,6 +319,13 @@
         "published_at": "2026-07-22T06:30:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html"
+      },
+      {
+        "title": "Bitcoin just broke US$66,000: Is this the start of the next bull run or a trap for late investors?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T04:15:47+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-just-broke-us66000-is-this-the-start-of-the-next-bull-run-or-a-trap-for-late-investors-20260722/"
       }
     ],
     "general": [
@@ -270,64 +384,6 @@
         "published_at": "2026-07-22T00:54:31+00:00",
         "relevance_score": 5,
         "url": "https://zenn.dev/mattn/articles/cace8c5a00b9cc"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-07-22T08:15:19+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
-      },
-      {
-        "title": "Payments statistics: second half of 2025",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-07-22T08:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html"
-      },
-      {
-        "title": "earthtojake/text-to-cad",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/earthtojake/text-to-cad"
-      },
-      {
-        "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T01:45:03+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/"
-      },
-      {
-        "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T05:50:53+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/southeast-asia-loves-digital-nomads-until-the-paperwork-gets-complicated-20260722/"
-      },
-      {
-        "title": "Backupsoftware Veeam: Updater ermöglicht Rechteausweitung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-22T07:37:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html"
-      },
-      {
-        "title": "Oracle Critical Patch Update: 1449 Softwareflicken im Juli",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-22T06:30:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html"
-      },
-      {
-        "title": "Bitcoin just broke US$66,000: Is this the start of the next bull run or a trap for late investors?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T04:15:47+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-just-broke-us66000-is-this-the-start-of-the-next-bull-run-or-a-trap-for-late-investors-20260722/"
       }
     ]
   }

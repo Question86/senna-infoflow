@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T08:17:07+00:00_
+_Generiert: 2026-07-22T09:13:26+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+39 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-22T08:57:53+00:00`, fetched `2026-07-22T09:12:54+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-22T08:52:54+00:00`, fetched `2026-07-22T09:12:54+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise um Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026-009: Critical Vulnerability in Microsoft SharePoint** — Score 15, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-009/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-07-22T10:39:13+00:00`, fetched `2026-07-22T09:12:54+00:00`
+  - Treffer: CERT-EU, Microsoft, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); CERT-EU (+2.0); Microsoft (+2.5); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: On 14 July 2026, Microsoft released a security update addressing a critical Remote Code Execution (RCE) in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code, and later, successful exploitation attempts. CERT-EU strongly recommend to update affected servers and to rotate credentials on any assets that may have been vulnerable and exposed on the internet.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 208 km W of Abepura, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-22T07:24:30.040+00:00`, fetched `2026-07-22T07:26:15+00:00`
@@ -139,6 +166,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [niedrig] helm: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2412)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-22T08:57:53+00:00`, fetched `2026-07-22T09:12:54+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in helm ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Rewriting the rules: Southeast Asia as climate capital proving ground** — Score 14, observation — [Quelle](https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-22T01:30:34+00:00`, fetched `2026-07-22T02:14:58+00:00`
@@ -259,6 +295,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote clone (x0.45)
   - Kurz: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main co…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Datentransfersoftware Serv-U hat 15 kritische Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Datentransfersoftware-Serv-U-hat-15-kritische-Sicherheitsluecken-11373098.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-22T08:20:00.000+00:00`, fetched `2026-07-22T09:12:54+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In Serv-U schließt SolarWinds mit einem Update diverse kritische Lücken, die etwa das Einschleusen von Schadcode erlauben.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Backupsoftware Veeam: Updater ermöglicht Rechteausweitung** — Score 7, observation — [Quelle](https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-22T07:37:00.000+00:00`, fetched `2026-07-22T08:16:36+00:00`
@@ -285,15 +330,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 第12回デジタル社会構想会議の議事録を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **第10回デジタル社会構想会議の議事録を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-22T06:00:00+00:00`, fetched `2026-07-22T06:30:21+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 第10回デジタル社会構想会議の議事録を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

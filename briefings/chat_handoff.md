@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-22T08:17:07+00:00_
+_Generated: 2026-07-22T09:13:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `39`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-22T08:17:07+00:00_
 - url: https://jvn.jp/vu/JVNVU98832565/
 - summary: 2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. M 4.9 - 208 km W of Abepura, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-07-22T07:24:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei
-- summary: Time 2026-07-22 06:46:40 UTC 2026-07-22 06:46:40 UTC at epicenter Location 2.635°S 138.760°E Depth 21.59 km (13.41 mi)
+### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-22T08:57:53+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offe…
 
-### 4. M 5.0 - 55 km WSW of Langsa, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-07-22T04:34:01.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz
-- summary: Time 2026-07-22 04:18:22 UTC 2026-07-22 04:18:22 UTC at epicenter Location 4.244°N 97.524°E Depth 10.00 km (6.21 mi)
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-22T08:52:54+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise um Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu…
 
 ### 5. Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
