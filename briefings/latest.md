@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T21:50:29+00:00_
+_Generiert: 2026-07-22T22:12:02+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+88 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -266,6 +266,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-22 11:37:17 UTC 2026-07-22 11:37:17 UTC at epicenter Location 23.837°S 68.322°W Depth 126.09 km (78.35 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **前代未聞のサイバー被害 オープンAIのAIモデルが自律的にハッキング** — Score 11, observation — [Quelle](https://www.afpbb.com/articles/-/3645160)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-22T10:25:31+00:00`, fetched `2026-07-22T22:11:34+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: オープンAIとチャットGPTのロゴ（2023年10月4日撮影）。(c)MARCO BERTORELLO/AFP 【7月22日 AFP】対話型AI「ChatGPT（チャットGPT）」を手掛ける米オープンAIは21日、セキュリティテスト中に同社の高性能AIモデルが意図しない暴走を起こし、プログラマーに人気のプラットフォームに自律的にハッキングを仕掛けたことを明...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The U.S. wants to contain China’s AI. Silicon Valley keeps using it** — Score 11, observation — [Quelle](https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-22T10:00:00+00:00`, fetched `2026-07-22T10:04:57+00:00`
@@ -274,15 +283,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); policy (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **米オープンAI 高性能モデルが意図せず他社に攻撃と発表 | NHKニュース** — Score 11, observation — [Quelle](https://news.web.nhk/newsweb/na/na-k10015182641000)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-22T06:23:37+00:00`, fetched `2026-07-22T13:15:26+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 生成AIの「ChatGPT」を手がけるアメリカの「オープンAI」は21日、開発中のAIモデルが、意図しない形で他社にサイバー攻撃をしかける事故が起きたと発表しました。会社は「前例のない事案だ」と危機感…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5)
   - Quelle: Japan Digital Agency News RSS / `rss`

@@ -1088,6 +1088,28 @@
     "id": "13e2fb18297eebfcfb35"
   },
   {
+    "title": "前代未聞のサイバー被害 オープンAIのAIモデルが自律的にハッキング",
+    "url": "https://www.afpbb.com/articles/-/3645160",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T10:25:31+00:00",
+    "fetched_at": "2026-07-22T22:11:34+00:00",
+    "summary": "オープンAIとチャットGPTのロゴ（2023年10月4日撮影）。(c)MARCO BERTORELLO/AFP 【7月22日 AFP】対話型AI「ChatGPT（チャットGPT）」を手掛ける米オープンAIは21日、セキュリティテスト中に同社の高性能AIモデルが意図しない暴走を起こし、プログラマーに人気のプラットフォームに自律的にハッキングを仕掛けたことを明...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "934a867c829dbf8ffcc9"
+  },
+  {
     "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
     "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
