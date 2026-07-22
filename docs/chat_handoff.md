@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-22T12:45:17+00:00_
+_Generated: 2026-07-22T13:15:59+00:00_
 
 ## Status
-- status: `warning`
-- findings: `63`
+- status: `normal`
+- findings: `67`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-22T12:45:17+00:00_
 - url: https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/
 - summary: Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a st…
 
-### 3. [UPDATE] [mittel] Red Hat OpenShift Container Platform (kubelet, cri-o, kube-apiserver): Schwachstelle ermöglicht Denial of Service
+### 3. Introducing OpenAI Presence
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-07-22T05:30:00+00:00`
+- url: https://openai.com/index/introducing-openai-presence
+- summary: Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
+
+### 4. [UPDATE] [mittel] Red Hat OpenShift Container Platform (kubelet, cri-o, kube-apiserver): Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
 - published: `2026-07-22T12:02:54+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1950
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. [UPDATE] [mittel] Red Hat OpenShift Container Platform (Router): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-07-22T12:02:54+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2040
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
 ### 5. Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication

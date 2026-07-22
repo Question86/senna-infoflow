@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T12:45:17+00:00",
+  "generated_at": "2026-07-22T13:15:59+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-07-22T01:15:57+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
+      },
+      {
+        "title": "Introducing OpenAI Presence",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-22T05:30:00+00:00",
+        "relevance_score": 20,
+        "url": "https://openai.com/index/introducing-openai-presence"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (kubelet, cri-o, kube-apiserver): Schwachstelle ermöglicht Denial of Service",
@@ -40,6 +47,13 @@
         "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/"
       },
       {
+        "title": "Building AI infrastructure with the Effingham County community",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-22T13:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+      },
+      {
         "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-22T01:30:34+00:00",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-21T23:04:49+00:00",
         "relevance_score": 12,
         "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html"
-      },
-      {
-        "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-07-22T10:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Singapore’s data analysts trust AI to work, not to think",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T04:07:28+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/"
       }
     ],
     "security": [

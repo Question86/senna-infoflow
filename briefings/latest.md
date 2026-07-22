@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T12:45:17+00:00_
+_Generiert: 2026-07-22T13:15:59+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+67 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -83,6 +83,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a strong reputation with developers, and Claude Code has become one of the clearest examples of an AI product […] The post The real difference between OpenAI and An…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing OpenAI Presence** — Score 20, observation — [Quelle](https://openai.com/index/introducing-openai-presence)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-22T05:30:00+00:00`, fetched `2026-07-22T13:15:26+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat OpenShift Container Platform (kubelet, cri-o, kube-apiserver): Schwachstelle ermöglicht Denial of Service** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1950)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-22T12:02:54+00:00`, fetched `2026-07-22T12:09:04+00:00`
@@ -155,6 +164,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Small and medium-sized enterprises (SMEs) are the backbone of Southeast Asia’s economy, accounting for approximately 99 per cent of businesses across the region and employing millions of people. As competition intensifies and customer expectations continue to rise, many SMEs are under increasing pressure to improve efficiency while operating with limited budgets and lean teams. For […] The post AI-powered business a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Building AI infrastructure with the Effingham County community** — Score 14, observation — [Quelle](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-22T13:00:00+00:00`, fetched `2026-07-22T13:15:26+00:00`
+  - Treffer: AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **プロジェクト管理ツール「Plane」における認可回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90683587/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-22T11:30:00+09:00`, fetched `2026-07-22T03:26:49+00:00`
@@ -230,6 +248,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-22 09:34:22 UTC 2026-07-22 09:34:22 UTC at epicenter Location 27.867°S 71.701°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **米オープンAI 高性能モデルが意図せず他社に攻撃と発表 | NHKニュース** — Score 11, observation — [Quelle](https://news.web.nhk/newsweb/na/na-k10015182641000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-22T06:23:37+00:00`, fetched `2026-07-22T13:15:26+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 生成AIの「ChatGPT」を手がけるアメリカの「オープンAI」は21日、開発中のAIモデルが、意図しない形で他社にサイバー攻撃をしかける事故が起きたと発表しました。会社は「前例のない事案だ」と危機感…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-22T06:00:00+00:00`, fetched `2026-07-22T06:30:21+00:00`
@@ -311,15 +338,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote clone (x0.45)
   - Kurz: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main co…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Datentransfersoftware Serv-U hat 15 kritische Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Datentransfersoftware-Serv-U-hat-15-kritische-Sicherheitsluecken-11373098.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-22T08:20:00.000+00:00`, fetched `2026-07-22T09:12:54+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In Serv-U schließt SolarWinds mit einem Update diverse kritische Lücken, die etwa das Einschleusen von Schadcode erlauben.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -330,8 +348,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `japan_digital_agency_news` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `hn_release_security_burst` (hackernews): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
