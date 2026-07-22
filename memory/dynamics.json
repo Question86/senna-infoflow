@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-22T00:57:51Z",
+  "generated_at": "2026-07-22T01:39:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 10,
     "bands": {
       "krass": 1,
-      "strong": 2,
-      "quiet": 3
+      "strong": 3,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "quiet": 3
+      "strong": 4,
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://jvn.jp/vu/JVNVU98832565/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T09:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 32.96,
+      "age_days": 32.99,
       "topics": [
         "ai"
       ],
@@ -71,11 +71,38 @@
       "summary": ""
     },
     {
+      "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
+      "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-22T01:15:57+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a strong reputation with developers, and Claude Code has become…"
+    },
+    {
       "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-21T23:27:45+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -95,11 +122,90 @@
       "summary": "RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業..."
     },
     {
+      "title": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-22T01:25:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · 台灣正體 · English · Tiếng Việt · தமிழ் Agent = LLM + 上下文 + 工具 ——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、 88 个配套实验 全部开源，欢迎亲手把实验跑一遍。 📚 10 章 正文，从基础到生产 📂 88 个 配套项目（70+ 可独立运行） 🌐 5 种 语言：中 / 台灣正體 / 英 / 泰 / 越 📖 电子书 📥 直接下载 （全书正文，开源免…"
+    },
+    {
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-22T01:25:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetche…"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-22T01:25:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "A collection of agent skills for CAD, robotics and hardware design ██████╗ █████╗ ██████╗ ███████╗██╗ ██╗██╗██╗ ██╗ ███████╗ ██╔════╝██╔══██╗██╔══██╗ ██╔════╝██║ ██╔╝██║██║ ██║ ██╔════╝ ██║ ███████║██║ ██║ ███████╗█████╔╝ ██║██║ ██║ ███████╗ ██║ ██╔══██║██║ ██║ ╚════██║██╔═██╗ ██║██║ ██║ ╚════██║ ╚██████╗██║ ██║██████…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 31.92,
+      "age_days": 31.95,
       "topics": [
         "general"
       ],
@@ -115,7 +221,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 31.9d old signal"
+        "aging penalty -16.0 for 32.0d old signal"
       ],
       "summary": ""
     },
@@ -124,7 +230,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 31.92,
+      "age_days": 31.95,
       "topics": [
         "general"
       ],
@@ -140,7 +246,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 31.9d old signal"
+        "aging penalty -16.0 for 32.0d old signal"
       ],
       "summary": ""
     },
@@ -149,7 +255,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 31.92,
+      "age_days": 31.95,
       "topics": [
         "ai"
       ],
@@ -166,7 +272,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 31.9d old signal",
+        "aging penalty -16.0 for 32.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
