@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-22T05:01:27Z",
+  "generated_at": "2026-07-22T06:08:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プロジェクト管理ツール「Plane」における認可回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU90683587/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T11:30:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:45:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -65,7 +65,7 @@
       "url": "https://jvn.jp/vu/JVNVU98832565/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T09:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 33.13,
+      "age_days": 33.17,
       "topics": [
         "ai"
       ],
@@ -109,7 +109,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.2 for 33.1d old signal",
+        "aging penalty -4.3 for 33.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -119,7 +119,7 @@
       "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:15:57+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -146,7 +146,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-21T23:27:45+00:00",
-      "age_days": 0.23,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T04:34:01.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -195,7 +195,7 @@
       "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T03:00:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -217,11 +217,36 @@
       "summary": "Small and medium-sized enterprises (SMEs) are the backbone of Southeast Asia’s economy, accounting for approximately 99 per cent of businesses across the region and employing millions of people. As competition intensifies and customer expectations continue to rise, many SMEs are under increasing pressure to improve ef…"
     },
     {
+      "title": "Singapore’s startup rise puts corporate venturing in sharper focus",
+      "url": "https://e27.co/singapores-startup-rise-puts-corporate-venturing-in-sharper-focus-20260722/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-22T05:00:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "For years, corporate innovation in Southeast Asia often meant a hackathon, an accelerator demo day, or a small pilot that rarely survived the next budget cycle. Singapore is trying to push the model into something more durable: corporate venturing as a repeatable business capability, not a branding exercise. That is t…"
+    },
+    {
       "title": "M 4.6 - 124 km SE of Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T03:59:58.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -245,7 +270,7 @@
       "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:45:03+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "macro"
       ],
@@ -269,7 +294,7 @@
       "url": "https://github.com/bojieli/ai-agent-book",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-22T01:25:23+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -289,34 +314,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · 台灣正體 · English · Tiếng Việt · தமிழ் Agent = LLM + 上下文 + 工具 ——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、 88 个配套实验 全部开源，欢迎亲手把实验跑一遍。 📚 10 章 正文，从基础到生产 📂 88 个 配套项目（70+ 可独立运行） 🌐 5 种 语言：中 / 台灣正體 / 英 / 泰 / 越 📖 电子书 📥 直接下载 （全书正文，开源免…"
-    },
-    {
-      "title": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-22T01:25:23+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetche…"
     }
   ],
   "read_order": [
@@ -329,8 +326,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 2,
-      "quiet": 2
+      "watch": 3,
+      "quiet": 1
     }
   }
 }
