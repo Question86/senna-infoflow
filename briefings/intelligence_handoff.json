@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-22T07:07:39Z",
+  "generated_at": "2026-07-22T07:58:27Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プロジェクト管理ツール「Plane」における認可回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU90683587/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T11:30:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:45:24+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -65,7 +65,7 @@
       "url": "https://jvn.jp/vu/JVNVU98832565/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T09:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-22T06:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -116,7 +116,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 33.21,
+      "age_days": 33.25,
       "topics": [
         "ai"
       ],
@@ -145,7 +145,7 @@
       "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:15:57+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -168,11 +168,36 @@
       "summary": "Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a strong reputation with developers, and Claude Code has become…"
     },
     {
+      "title": "Oracle Critical Patch Update: 1449 Softwareflicken im Juli",
+      "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-22T06:30:00.000+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: critical",
+        "security high-signal: critical"
+      ],
+      "summary": "Zum vierteljährlichen Oracle CPU liefert der Hersteller 1449 Sicherheitsupdates aus – ein neuer Rekordwert. Admins sollten handeln."
+    },
+    {
       "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-21T23:27:45+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -196,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T04:34:01.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -221,7 +246,7 @@
       "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T03:00:09+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -243,11 +268,35 @@
       "summary": "Small and medium-sized enterprises (SMEs) are the backbone of Southeast Asia’s economy, accounting for approximately 99 per cent of businesses across the region and employing millions of people. As competition intensifies and customer expectations continue to rise, many SMEs are under increasing pressure to improve ef…"
     },
     {
+      "title": "M 4.9 - 208 km W of Abepura, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-22T07:24:30.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-22 06:46:40 UTC 2026-07-22 06:46:40 UTC at epicenter Location 2.635°S 138.760°E Depth 21.59 km (13.41 mi)"
+    },
+    {
       "title": "Singapore’s startup rise puts corporate venturing in sharper focus",
       "url": "https://e27.co/singapores-startup-rise-puts-corporate-venturing-in-sharper-focus-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T05:00:53+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -266,54 +315,6 @@
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": "For years, corporate innovation in Southeast Asia often meant a hackathon, an accelerator demo day, or a small pilot that rarely survived the next budget cycle. Singapore is trying to push the model into something more durable: corporate venturing as a repeatable business capability, not a branding exercise. That is t…"
-    },
-    {
-      "title": "M 4.6 - 124 km SE of Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-22T03:59:58.040+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-07-22 03:45:49 UTC 2026-07-22 03:45:49 UTC at epicenter Location 44.421°N 148.965°E Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
-      "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-22T01:45:03+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local, regional"
-      ],
-      "summary": "For years, startups in Southeast Asia had an unusual advantage. They could build across markets. A company in Singapore, Bangkok, Jakarta, or Kuala Lumpur could use US cloud software, Chinese hardware, regional logistics tools, and global customer platforms in the same operation. The choices looked technical. Cost mat…"
     }
   ],
   "read_order": [
@@ -325,8 +326,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 10,
+      "watch": 2
     }
   }
 }
