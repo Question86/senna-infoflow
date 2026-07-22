@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T05:37:13+00:00",
+  "generated_at": "2026-07-22T06:30:53+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,10 +65,20 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Afghanistan",
-        "summary": "Green flood alert in Afghanistan",
+        "title": "GDACS: Green flood alert in Latvia",
+        "summary": "Green flood alert in Latvia",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104033",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104037",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Romania",
+        "summary": "Green flood alert in Romania",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104039",
         "published_at": "",
         "metrics": {}
       },
@@ -149,16 +159,6 @@
         "summary": "Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 240 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552752",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1552700",
         "published_at": "",
         "metrics": {}
       }

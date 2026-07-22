@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T05:37:11+00:00",
+  "generated_at": "2026-07-22T06:30:51+00:00",
   "topics": {
     "ai": [
       {
@@ -209,11 +209,32 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
       },
       {
+        "title": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-22T06:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5"
+      },
+      {
         "title": "M 4.6 - 124 km SE of Kuril’sk, Russia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-22T03:59:58.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dv"
+      },
+      {
+        "title": "第12回デジタル社会構想会議の議事録を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-22T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/councils/social-concept/fd4f3007-18b2-4f88-a48a-1ba40c94a729"
+      },
+      {
+        "title": "第10回デジタル社会構想会議の議事録を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-22T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338"
       },
       {
         "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」",
@@ -244,6 +265,13 @@
         "published_at": "2026-07-22T01:45:03+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/"
+      },
+      {
+        "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T05:50:53+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/southeast-asia-loves-digital-nomads-until-the-paperwork-gets-complicated-20260722/"
       },
       {
         "title": "Bitcoin just broke US$66,000: Is this the start of the next bull run or a trap for late investors?",

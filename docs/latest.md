@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T05:37:11+00:00_
+_Generiert: 2026-07-22T06:30:51+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+27 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-22T06:00:00+00:00`, fetched `2026-07-22T06:30:21+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab** — Score 11, observation — [Quelle](https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-21T23:27:45+00:00`, fetched `2026-07-22T00:51:30+00:00`
@@ -149,6 +158,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote clone (x0.45)
   - Kurz: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main co…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **第12回デジタル社会構想会議の議事録を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-concept/fd4f3007-18b2-4f88-a48a-1ba40c94a729)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-22T06:00:00+00:00`, fetched `2026-07-22T06:30:21+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 第12回デジタル社会構想会議の議事録を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **第10回デジタル社会構想会議の議事録を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-22T06:00:00+00:00`, fetched `2026-07-22T06:30:21+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 第10回デジタル社会構想会議の議事録を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/22/news073.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

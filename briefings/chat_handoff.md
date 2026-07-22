@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-22T05:37:11+00:00_
+_Generated: 2026-07-22T06:30:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `27`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-07-22T05:37:11+00:00_
 - url: https://www.itmedia.co.jp/news/articles/2607/22/news056.html
 - summary: Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...
 
-### 6. ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab
+### 6. アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `11`
+- published: `2026-07-22T06:00:00+00:00`
+- url: https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5
+- summary: アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました
+
+### 7. ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-07-21T23:27:45+00:00`
 - url: https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/
 - summary: RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...
 
-### 7. Singapore’s data analysts trust AI to work, not to think
+### 8. Singapore’s data analysts trust AI to work, not to think
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-07-22T04:07:28+00:00`
 - url: https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/
 - summary: Singapore’s data professionals are proving to be among the most cautious in the world when it comes to letting artificial intelligence (AI) operate unsupervised. According to a new global study, 61 per cent of the city-state’s data analysts prefer a human-in-…
-
-### 8. Most AI projects don’t fail on technology, they fail on the workflow nobody fixed first
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-22T02:15:19+00:00`
-- url: https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/
-- summary: Artificial intelligence has become Southeast Asia’s favourite business conversation. Boardrooms are discussing it. Investors are asking about it. Startups are building around it. Established companies are scrambling to integrate it. In many ways, AI has becom…
 
 END OF DOCUMENT
