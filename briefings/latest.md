@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T02:15:28+00:00_
+_Generiert: 2026-07-22T03:27:19+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+16 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI-powered business automation: How SMEs are transforming operations in Southeast Asia** — Score 15, opportunity — [Quelle](https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-22T03:00:09+00:00`, fetched `2026-07-22T03:26:49+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Small and medium-sized enterprises (SMEs) are the backbone of Southeast Asia’s economy, accounting for approximately 99 per cent of businesses across the region and employing millions of people. As competition intensifies and customer expectations continue to rise, many SMEs are under increasing pressure to improve efficiency while operating with limited budgets and lean teams. For […] The post AI-powered business a…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **プロジェクト管理ツール「Plane」における認可回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90683587/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-22T11:30:00+09:00`, fetched `2026-07-22T03:26:49+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Rewriting the rules: Southeast Asia as climate capital proving ground** — Score 14, observation — [Quelle](https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-22T01:30:34+00:00`, fetched `2026-07-22T02:14:58+00:00`
@@ -142,6 +160,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Most AI projects don’t fail on technology, they fail on the workflow nobody fixed first** — Score 10, observation — [Quelle](https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-22T02:15:19+00:00`, fetched `2026-07-22T03:26:49+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: Artificial intelligence has become Southeast Asia’s favourite business conversation. Boardrooms are discussing it. Investors are asking about it. Startups are building around it. Established companies are scrambling to integrate it. In many ways, AI has become the defining technology race of this decade. But after working with businesses across different industries, an uncomfortable pattern continues […] The post Mo…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **earthtojake/text-to-cad** — Score 10, observation — [Quelle](https://github.com/earthtojake/text-to-cad)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-22T01:25:23+00:00`
@@ -169,29 +196,21 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote clone (x0.45)
   - Kurz: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main co…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why AI empowered teams are getting smaller, and why that is harder than it sounds** — Score 8, observation — [Quelle](https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/)
+- **An honest look at SEA venture in 2026, and where I’m still investing** — Score 8, observation — [Quelle](https://e27.co/an-honest-look-at-sea-venture-in-2026-and-where-im-still-investing-20260721/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-22T01:45:24+00:00`, fetched `2026-07-22T02:14:58+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-07-22T02:45:44+00:00`, fetched `2026-07-22T03:26:49+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The org chart that most companies still operate on was drawn for a different decade. CEO at the top. A few VPs. A layer of directors. Then managers. Then, associates and analysts did the actual execution work. That structure was built for a world where information was scarce, and coordination was expensive. Both of those […] The post Why AI empowered teams are getting smaller, and why that is harder than it sounds a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why remote no longer means anywhere** — Score 4, observation — [Quelle](https://e27.co/why-remote-no-longer-means-anywhere-20260721/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-22T02:00:43+00:00`, fetched `2026-07-22T02:14:58+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: I was retrenched at the end of January 2025. Over the past 18 months, I’ve applied for marketing roles across the Asia-Pacific region, many of them advertised as “remote”. At first glance, that sounded encouraging. Remote work was supposed to free us from geography. As long as we had a computer and a reliable internet […] The post Why remote no longer means anywhere appeared first on e27 .
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.0); recent (+1.0)
+  - Kurz: Southeast Asia’s venture market closed 2025 at a six-year low for deal count. Four years into the downturn, the rebound everyone keeps hoping for still hasn’t arrived. The region raised US$5.4 billion across 461 deals. Funding value climbed in the second half, but that came from a few outsized rounds, not a broad recovery, and […] The post An honest look at SEA venture in 2026, and where I’m still investing appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 

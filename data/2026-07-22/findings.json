@@ -47,6 +47,51 @@
     "id": "7510f0b2ba97c056fa5e"
   },
   {
+    "title": "AI-powered business automation: How SMEs are transforming operations in Southeast Asia",
+    "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T03:00:09+00:00",
+    "fetched_at": "2026-07-22T03:26:49+00:00",
+    "summary": "Small and medium-sized enterprises (SMEs) are the backbone of Southeast Asia’s economy, accounting for approximately 99 per cent of businesses across the region and employing millions of people. As competition intensifies and customer expectations continue to rise, many SMEs are under increasing pressure to improve efficiency while operating with limited budgets and lean teams. For […] The post AI-powered business a…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Automatisierung",
+      "Southeast Asia"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4610a2a60d8124ea83ec"
+  },
+  {
+    "title": "プロジェクト管理ツール「Plane」における認可回避の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU90683587/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-22T11:30:00+09:00",
+    "fetched_at": "2026-07-22T03:26:49+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "70461404a879eb7fd807"
+  },
+  {
     "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
     "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -159,6 +204,28 @@
     "id": "e3598cd0ca411d078cbf"
   },
   {
+    "title": "Most AI projects don’t fail on technology, they fail on the workflow nobody fixed first",
+    "url": "https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T02:15:19+00:00",
+    "fetched_at": "2026-07-22T03:26:49+00:00",
+    "summary": "Artificial intelligence has become Southeast Asia’s favourite business conversation. Boardrooms are discussing it. Investors are asking about it. Startups are building around it. Established companies are scrambling to integrate it. In many ways, AI has become the defining technology race of this decade. But after working with businesses across different industries, an uncomfortable pattern continues […] The post Mo…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "505309d906e0a61c264e"
+  },
+  {
     "title": "earthtojake/text-to-cad",
     "url": "https://github.com/earthtojake/text-to-cad",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -249,6 +316,28 @@
     "id": "ec69ddaef62440c89ecb"
   },
   {
+    "title": "An honest look at SEA venture in 2026, and where I’m still investing",
+    "url": "https://e27.co/an-honest-look-at-sea-venture-in-2026-and-where-im-still-investing-20260721/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T02:45:44+00:00",
+    "fetched_at": "2026-07-22T03:26:49+00:00",
+    "summary": "Southeast Asia’s venture market closed 2025 at a six-year low for deal count. Four years into the downturn, the rebound everyone keeps hoping for still hasn’t arrived. The region raised US$5.4 billion across 461 deals. Funding value climbed in the second half, but that came from a few outsized rounds, not a broad recovery, and […] The post An honest look at SEA venture in 2026, and where I’m still investing appeared…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "funding",
+      "Southeast Asia"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "710a719070dd5615e2e9"
+  },
+  {
     "title": "Why AI empowered teams are getting smaller, and why that is harder than it sounds",
     "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -268,6 +357,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "adfb785977d02ea92bb1"
+  },
+  {
+    "title": "Taiwan’s stablecoin moment: Why the NTD could outshine the dollar",
+    "url": "https://e27.co/taiwans-stablecoin-moment-why-the-ntd-could-outshine-the-dollar-20260721/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T02:30:41+00:00",
+    "fetched_at": "2026-07-22T03:26:49+00:00",
+    "summary": "The recent passage of Taiwan’s first comprehensive cryptocurrency bill has passed through the island’s legislature and is ready for the President’s signature, which will allow for locally issued stablecoins and open up a path for New Taiwan dollar-denominated digital tokens. Because of restrictions on the offshore use of the New Taiwan Dollar, it is widely […] The post Taiwan’s stablecoin moment: Why the NTD could o…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a7816f3817371b868992"
   },
   {
     "title": "Why remote no longer means anywhere",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T02:15:28+00:00",
+  "generated_at": "2026-07-22T03:27:19+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-22T01:15:57+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
+      },
+      {
+        "title": "AI-powered business automation: How SMEs are transforming operations in Southeast Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T03:00:09+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/"
       },
       {
         "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
@@ -33,6 +40,13 @@
         "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html"
       },
       {
+        "title": "Most AI projects don’t fail on technology, they fail on the workflow nobody fixed first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T02:15:19+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/"
+      },
+      {
         "title": "earthtojake/text-to-cad",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -45,6 +59,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      {
+        "title": "An honest look at SEA venture in 2026, and where I’m still investing",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T02:45:44+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/an-honest-look-at-sea-venture-in-2026-and-where-im-still-investing-20260721/"
       },
       {
         "title": "Why AI empowered teams are getting smaller, and why that is harder than it sounds",
@@ -93,11 +114,25 @@
         "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
       },
       {
+        "title": "AI-powered business automation: How SMEs are transforming operations in Southeast Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T03:00:09+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/"
+      },
+      {
         "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-22T01:30:34+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/"
+      },
+      {
+        "title": "Most AI projects don’t fail on technology, they fail on the workflow nobody fixed first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T02:15:19+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/"
       },
       {
         "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
@@ -112,6 +147,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      {
+        "title": "An honest look at SEA venture in 2026, and where I’m still investing",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T02:45:44+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/an-honest-look-at-sea-venture-in-2026-and-where-im-still-investing-20260721/"
       },
       {
         "title": "Why AI empowered teams are getting smaller, and why that is harder than it sounds",
@@ -135,6 +177,13 @@
         "published_at": "2026-07-22T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU98832565/"
+      },
+      {
+        "title": "プロジェクト管理ツール「Plane」における認可回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-22T11:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90683587/"
       },
       {
         "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
