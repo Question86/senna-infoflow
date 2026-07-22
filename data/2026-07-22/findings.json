@@ -47,6 +47,43 @@
     "id": "7510f0b2ba97c056fa5e"
   },
   {
+    "title": "M 4.9 - 208 km W of Abepura, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-22T07:24:30.040+00:00",
+    "fetched_at": "2026-07-22T07:26:15+00:00",
+    "summary": "Time 2026-07-22 06:46:40 UTC 2026-07-22 06:46:40 UTC at epicenter Location 2.635°S 138.760°E Depth 21.59 km (13.41 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6fb3a4b947dd78201ea4"
+  },
+  {
     "title": "M 5.0 - 55 km WSW of Langsa, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -195,6 +232,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "45ab8ed59fdd6ffc18c7"
+  },
+  {
+    "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-07-22T08:15:19+00:00",
+    "fetched_at": "2026-07-22T07:26:15+00:00",
+    "summary": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7791fe889f03adf50678"
   },
   {
     "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
@@ -496,6 +555,26 @@
     "id": "adfb785977d02ea92bb1"
   },
   {
+    "title": "Oracle Critical Patch Update: 1449 Softwareflicken im Juli",
+    "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-22T06:30:00.000+00:00",
+    "fetched_at": "2026-07-22T07:26:15+00:00",
+    "summary": "Zum vierteljährlichen Oracle CPU liefert der Hersteller 1449 Sicherheitsupdates aus – ein neuer Rekordwert. Admins sollten handeln.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ebb745a3a47746220dde"
+  },
+  {
     "title": "Bitcoin just broke US$66,000: Is this the start of the next bull run or a trap for late investors?",
     "url": "https://e27.co/bitcoin-just-broke-us66000-is-this-the-start-of-the-next-bull-run-or-a-trap-for-late-investors-20260722/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -618,6 +697,27 @@
       "PINS"
     ],
     "id": "36f9f0220563e60b1d2e"
+  },
+  {
+    "title": "DRAM、NANDの価格が10倍に…世界半導体市場の「異常」な急拡大を引き起こしているメモリ価格高騰の真因 生成AIが引き起こしたスーパーサイクルの構造と限界 | JBpress (ジェイビープレス)",
+    "url": "https://jbpress.ismedia.jp/articles/-/96024",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T03:25:58+00:00",
+    "fetched_at": "2026-07-22T07:26:15+00:00",
+    "summary": "2025年から2026年にかけて、半導体業界を見つめてきた者なら誰もが目を疑うような数字が並び始めた。世界半導体市場は史上初めて年間1兆ドルを超えて2兆ドルに迫る規模へと駆け上がり、中でもDRAMとNANDという2大メモリの市場が「異常」としか言いようのない急拡大を見せている。 DRAMとNANDのスポット価格は1年半余りで...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "244c61b4eafb52a4a4ac"
   },
   {
     "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T06:30:51+00:00",
+  "generated_at": "2026-07-22T07:26:47+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,13 @@
         "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/"
       },
       {
+        "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-22T08:15:19+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
+      },
+      {
         "title": "Singapore’s data analysts trust AI to work, not to think",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-22T04:07:28+00:00",
@@ -168,13 +175,6 @@
         "published_at": "2026-07-22T01:45:24+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/"
-      },
-      {
-        "title": "Bitcoin just broke US$66,000: Is this the start of the next bull run or a trap for late investors?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T04:15:47+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-just-broke-us66000-is-this-the-start-of-the-next-bull-run-or-a-trap-for-late-investors-20260722/"
       }
     ],
     "security": [
@@ -198,9 +198,23 @@
         "published_at": "2026-07-21T23:27:45+00:00",
         "relevance_score": 11,
         "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/"
+      },
+      {
+        "title": "Oracle Critical Patch Update: 1449 Softwareflicken im Juli",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-22T06:30:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html"
       }
     ],
     "general": [
+      {
+        "title": "M 4.9 - 208 km W of Abepura, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-22T07:24:30.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei"
+      },
       {
         "title": "M 5.0 - 55 km WSW of Langsa, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -253,6 +267,13 @@
     ],
     "geopolitics": [
       {
+        "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-22T08:15:19+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
+      },
+      {
         "title": "earthtojake/text-to-cad",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -272,6 +293,13 @@
         "published_at": "2026-07-22T05:50:53+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/southeast-asia-loves-digital-nomads-until-the-paperwork-gets-complicated-20260722/"
+      },
+      {
+        "title": "Oracle Critical Patch Update: 1449 Softwareflicken im Juli",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-22T06:30:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html"
       },
       {
         "title": "Bitcoin just broke US$66,000: Is this the start of the next bull run or a trap for late investors?",
