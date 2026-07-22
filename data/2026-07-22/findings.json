@@ -47,6 +47,51 @@
     "id": "7510f0b2ba97c056fa5e"
   },
   {
+    "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
+    "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T01:30:34+00:00",
+    "fetched_at": "2026-07-22T02:14:58+00:00",
+    "summary": "The rules of the global economy are being rewritten. Trade fragmentation, semiconductor controls, sovereign AI ambitions, and shifting capital flows are no longer abstract geopolitical events. They are lived realities shaping the decisions of founders, fund managers, and ecosystem builders across Southeast Asia. For those of us architecting climate‑resilient capital platforms, the experience is not […] The post Rewr…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "founder",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "06498d9fe91a0d61ed60"
+  },
+  {
     "title": "bojieli/ai-agent-book",
     "url": "https://github.com/bojieli/ai-agent-book",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -68,6 +113,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "45ab8ed59fdd6ffc18c7"
+  },
+  {
+    "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T23:04:49+00:00",
+    "fetched_at": "2026-07-22T02:14:58+00:00",
+    "summary": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "26877b1941b5bd7de315"
   },
   {
     "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
@@ -112,6 +179,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cfac5d588da28b95f264"
+  },
+  {
+    "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
+    "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T01:45:03+00:00",
+    "fetched_at": "2026-07-22T02:14:58+00:00",
+    "summary": "For years, startups in Southeast Asia had an unusual advantage. They could build across markets. A company in Singapore, Bangkok, Jakarta, or Kuala Lumpur could use US cloud software, Chinese hardware, regional logistics tools, and global customer platforms in the same operation. The choices looked technical. Cost mattered. Performance mattered. Local fit mattered. The vendor’s […] The post The myth of the neutral s…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c11aa9affd9829cd9100"
   },
   {
     "title": "ayghri/i-have-adhd",
@@ -159,5 +247,46 @@
       "PINS"
     ],
     "id": "ec69ddaef62440c89ecb"
+  },
+  {
+    "title": "Why AI empowered teams are getting smaller, and why that is harder than it sounds",
+    "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T01:45:24+00:00",
+    "fetched_at": "2026-07-22T02:14:58+00:00",
+    "summary": "The org chart that most companies still operate on was drawn for a different decade. CEO at the top. A few VPs. A layer of directors. Then managers. Then, associates and analysts did the actual execution work. That structure was built for a world where information was scarce, and coordination was expensive. Both of those […] The post Why AI empowered teams are getting smaller, and why that is harder than it sounds a…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "adfb785977d02ea92bb1"
+  },
+  {
+    "title": "Why remote no longer means anywhere",
+    "url": "https://e27.co/why-remote-no-longer-means-anywhere-20260721/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T02:00:43+00:00",
+    "fetched_at": "2026-07-22T02:14:58+00:00",
+    "summary": "I was retrenched at the end of January 2025. Over the past 18 months, I’ve applied for marketing roles across the Asia-Pacific region, many of them advertised as “remote”. At first glance, that sounded encouraging. Remote work was supposed to free us from geography. As long as we had a computer and a reliable internet […] The post Why remote no longer means anywhere appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "39998ea9e477142e33f1"
   }
 ]

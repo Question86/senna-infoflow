@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T01:25:54+00:00",
+  "generated_at": "2026-07-22T02:15:28+00:00",
   "topics": {
     "ai": [
       {
@@ -12,11 +12,25 @@
         "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
       },
       {
+        "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:30:34+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/"
+      },
+      {
         "title": "bojieli/ai-agent-book",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/bojieli/ai-agent-book"
+      },
+      {
+        "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T23:04:49+00:00",
+        "relevance_score": 12,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html"
       },
       {
         "title": "earthtojake/text-to-cad",
@@ -31,6 +45,13 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      {
+        "title": "Why AI empowered teams are getting smaller, and why that is harder than it sounds",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:45:24+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/"
       }
     ],
     "github": [
@@ -72,11 +93,39 @@
         "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
       },
       {
+        "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:30:34+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/"
+      },
+      {
+        "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:45:03+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/"
+      },
+      {
         "title": "ayghri/i-have-adhd",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      {
+        "title": "Why AI empowered teams are getting smaller, and why that is harder than it sounds",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:45:24+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/"
+      },
+      {
+        "title": "Why remote no longer means anywhere",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T02:00:43+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-remote-no-longer-means-anywhere-20260721/"
       }
     ],
     "security": [
@@ -102,6 +151,13 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      {
+        "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-22T01:45:03+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/"
       }
     ]
   }
