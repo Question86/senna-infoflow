@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T00:11:13+00:00",
+  "generated_at": "2026-07-22T00:52:01+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-22T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU98832565/"
+      },
+      {
+        "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T23:27:45+00:00",
+        "relevance_score": 11,
+        "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/"
       }
     ]
   }

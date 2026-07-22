@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T00:11:13+00:00_
+_Generiert: 2026-07-22T00:52:01+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+2 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -97,7 +97,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab** — Score 11, observation — [Quelle](https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-21T23:27:45+00:00`, fetched `2026-07-22T00:51:30+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

@@ -21,5 +21,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7510f0b2ba97c056fa5e"
+  },
+  {
+    "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T23:27:45+00:00",
+    "fetched_at": "2026-07-22T00:51:30+00:00",
+    "summary": "RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e3598cd0ca411d078cbf"
   }
 ]

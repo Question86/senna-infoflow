@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T00:11:13+00:00",
-  "run_id": "2026-07-22T00:11:13+00:00",
+  "generated_at": "2026-07-22T00:52:01+00:00",
+  "run_id": "2026-07-22T00:52:01+00:00",
   "date": "2026-07-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 1,
-    "observe": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
@@ -53,7 +53,30 @@
         "id": "7510f0b2ba97c056fa5e"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-21T23:27:45+00:00",
+        "fetched_at": "2026-07-22T00:51:30+00:00",
+        "summary": "RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e3598cd0ca411d078cbf"
+      }
+    ]
   },
   "findings": [
     {
@@ -78,31 +101,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7510f0b2ba97c056fa5e"
+    },
+    {
+      "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-21T23:27:45+00:00",
+      "fetched_at": "2026-07-22T00:51:30+00:00",
+      "summary": "RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e3598cd0ca411d078cbf"
     }
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
-      "url": "https://jvn.jp/vu/JVNVU98832565/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-22T09:00:00+09:00",
-      "fetched_at": "2026-07-22T00:10:44+00:00",
-      "summary": "2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "published_at": "2026-07-21T23:27:45+00:00",
+      "fetched_at": "2026-07-22T00:51:30+00:00",
+      "summary": "RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...",
       "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
+        "Hatena",
+        "hotentry",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7510f0b2ba97c056fa5e"
+      "id": "e3598cd0ca411d078cbf"
     }
   ],
   "source_errors": [],
