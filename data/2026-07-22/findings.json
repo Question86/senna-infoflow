@@ -238,6 +238,57 @@
     "id": "4ada1c66d3bc95e5995c"
   },
   {
+    "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access 1000 (15 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0875/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-22T15:22:16+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Secure Mobile Access 1000. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une falsification de requêtes côté serveur (SSRF). L'éditeur indique que les vulnérabilités CVE-2026-15409 et...",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Security",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5dbfca06c70bc993d843"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Microsoft Azure Linux (15 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0873/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-22T15:22:16+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dfd7bd209b271099416c"
+  },
+  {
     "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
     "url": "https://cert.europa.eu/publications/security-advisories/2026-009/",
     "source": "CERT-EU Security Advisories",
@@ -1107,6 +1158,54 @@
     "id": "505309d906e0a61c264e"
   },
   {
+    "title": "Multiples vulnérabilités dans Google Chrome (15 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0874/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-22T15:22:16+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4eb9c8adb6895c206a25"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Apache Tomcat (15 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0876/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-22T15:22:16+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d37b994bc2d103c72043"
+  },
+  {
     "title": "earthtojake/text-to-cad",
     "url": "https://github.com/earthtojake/text-to-cad",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -1267,6 +1366,28 @@
       "PINS"
     ],
     "id": "ec69ddaef62440c89ecb"
+  },
+  {
+    "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
+    "url": "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T10:28:26+00:00",
+    "fetched_at": "2026-07-22T15:22:16+00:00",
+    "summary": "中国の大手テクノロジー企業であるAlibabaはAI研究部門の「Qwen」を抱えており、大規模言語モデルや画像生成モデルなど数多くの高性能モデルをリリースしています。そんなQwenチームの公式サイトのソースに「hentai」などのセンシティブなキーワードが大量に含まれていることが発見されました。 Qwen https://qwen.ai/ho...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "33607a02d9a3fc6f8fea"
   },
   {
     "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
@@ -1497,6 +1618,28 @@
     "id": "2095ccabe1ab0f728aa8"
   },
   {
+    "title": "[MàJ] Incident affectant les solutions AnyDesk (05 février 2024)",
+    "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/",
+    "source": "CERT-FR Alertes",
+    "source_type": "rss",
+    "published_at": "2024-02-05T00:00:00+00:00",
+    "fetched_at": "2026-07-22T15:22:16+00:00",
+    "summary": "\\[Mise à jour du 27 février 2024\\] Le 29 janvier 2024 l'ANSSI a été alertée par le BSI que l'éditeur AnyDesk Software GmbH a été victime d'une fuite de données. Le code source des applications développées par l'éditeur ainsi que des certificats et clés privées pourraient avoir été dérobés. De...",
+    "matched_keywords": [
+      "alerte",
+      "ANSSI",
+      "CERT-FR"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "CERT-FR (+2.0); ANSSI (+2.0); alerte (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36bdd066c95bbe930eea"
+  },
+  {
     "title": "ガーミンが画面なし＆ブランド初のバンド型トラッカー「CIRQA Smart Band」発表、約3.3万円",
     "url": "https://k-tai.watch.impress.co.jp/docs/news/2127036.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1516,6 +1659,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9ca401626461c5a6e791"
+  },
+  {
+    "title": "オープンＡＩのモデルがテスト中に暴走、他社システムに侵入（ロイター） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/0d80bed0e10e082affc9c6fd20f19101e48df4a2",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T09:08:49+00:00",
+    "fetched_at": "2026-07-22T15:22:16+00:00",
+    "summary": "Raphael Satter [ワシントン ２１日 ロイター] - 対話型人工知能（ＡＩ）「チャットＧＰＴ」を手がけるオープンＡＩは２１日、自社の高性能モデルを搭載した自律‌型エージェントが先週、セキュリティーテスト中⁠に暴走し、ＡＩ新興企業ハギングフェイスのインフラに侵入するハッキングを引き起こしたと明らかにした。 オ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d7ab9a045712d409c5e1"
   },
   {
     "title": "「第二の脳」とやらについて",
