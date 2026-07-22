@@ -1365,6 +1365,42 @@
     "id": "cfac5d588da28b95f264"
   },
   {
+    "title": "M 4.8 - Kermadec Islands region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2hm",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-22T18:47:40.040+00:00",
+    "fetched_at": "2026-07-22T18:57:30+00:00",
+    "summary": "Time 2026-07-22 18:29:39 UTC 2026-07-22 18:29:39 UTC at epicenter Location 31.542°S 179.924°E Depth 346.44 km (215.27 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7df3e4302f2bb37ea191"
+  },
+  {
     "title": "Upcoming GHES change impacting uploading support bundles",
     "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
     "source": "GitHub Changelog Atom",
