@@ -1094,6 +1094,27 @@
     "id": "e3598cd0ca411d078cbf"
   },
   {
+    "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+    "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-22T16:00:00+00:00",
+    "fetched_at": "2026-07-22T16:28:58+00:00",
+    "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub’s bug bounty program appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "28c9580446998e62dcb5"
+  },
+  {
     "title": "Advancing the next era of national science",
     "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
     "source": "OpenAI News RSS",
