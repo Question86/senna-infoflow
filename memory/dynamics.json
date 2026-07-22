@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-22T10:41:40Z",
+  "generated_at": "2026-07-22T11:24:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 11,
-      "strong": 12,
+      "krass": 14,
+      "strong": 13,
       "watch": 8,
-      "quiet": 9
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 22,
+      "krass": 2,
+      "strong": 25,
       "watch": 8,
-      "quiet": 9
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-009/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-07-22T10:39:13+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -45,11 +45,36 @@
       "summary": "On 14 July 2026, Microsoft released a security update addressing a critical Remote Code Execution (RCE) in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code, and later, successful exploitation attempts. CERT-EU strongly recommend to update affected servers and to rotate…"
     },
     {
+      "title": "[UPDATE] [hoch] Evince: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1641",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-22T10:38:21+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Evince ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "プロジェクト管理ツール「Plane」における認可回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90683587/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T11:30:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -69,11 +94,35 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [mittel] libvirt: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1598",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-22T10:38:21+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [niedrig] helm: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2412",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T08:57:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -97,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2428",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T08:52:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -121,7 +170,7 @@
       "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:45:24+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "macro"
@@ -147,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2451",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T09:57:54+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -173,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2447",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T09:57:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -199,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2449",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T09:57:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -225,7 +274,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2448",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T09:57:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -251,7 +300,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2446",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T09:52:57+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -273,11 +322,61 @@
       "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Enterprise Manager ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-22T10:38:22+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel bezüglich der Bluetooth Komponente ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-22T10:38:22+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Zustand oder andere Auswirkungen herbeizuführen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
       "url": "https://jvn.jp/vu/JVNVU98832565/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T09:00:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -302,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T08:57:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -327,7 +426,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T08:52:54+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -352,7 +451,7 @@
       "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-22T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -378,7 +477,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-22T06:00:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -404,7 +503,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 33.36,
+      "age_days": 33.39,
       "topics": [
         "ai"
       ],
@@ -433,7 +532,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-22T09:57:54+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security",
@@ -463,7 +562,7 @@
       "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:15:57+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -490,7 +589,7 @@
       "url": "https://www.heise.de/news/Datentransfersoftware-Serv-U-hat-15-kritische-Sicherheitsluecken-11373098.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-22T08:20:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -515,7 +614,7 @@
       "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-22T06:30:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -540,7 +639,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-21T23:27:45+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -564,7 +663,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T04:34:01.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -589,7 +688,7 @@
       "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T03:00:09+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -615,7 +714,7 @@
       "url": "https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-22T07:37:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -639,7 +738,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T09:50:04.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -664,7 +763,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T10:02:35.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -688,7 +787,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T07:24:30.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -712,7 +811,7 @@
       "url": "https://e27.co/singapores-startup-rise-puts-corporate-venturing-in-sharper-focus-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T05:00:53+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -737,7 +836,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-07-22T08:15:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -761,7 +860,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T03:59:58.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -785,7 +884,7 @@
       "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:45:03+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "macro"
       ],
@@ -809,7 +908,7 @@
       "url": "https://github.com/bojieli/ai-agent-book",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-22T01:25:23+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -835,7 +934,7 @@
       "url": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-22T06:00:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -859,7 +958,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-07-22T08:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -883,7 +982,7 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-22T01:25:23+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -911,7 +1010,7 @@
       "url": "https://e27.co/why-remote-no-longer-means-anywhere-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T02:00:43+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "macro"
       ],
@@ -929,103 +1028,6 @@
         "high terms: remote"
       ],
       "summary": "I was retrenched at the end of January 2025. Over the past 18 months, I’ve applied for marketing roles across the Asia-Pacific region, many of them advertised as “remote”. At first glance, that sounded encouraging. Remote work was supposed to free us from geography. As long as we had a computer and a reliable internet…"
-    },
-    {
-      "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
-      "url": "https://e27.co/southeast-asia-loves-digital-nomads-until-the-paperwork-gets-complicated-20260722/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-22T05:50:53+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Balaji Srinivasan has never lacked for big ideas. The former Coinbase CTO and Andreessen Horowitz General Partner has spent years evangelising the “network state”, a borderless, internet-native community that eventually negotiates diplomatic recognition from existing governments. In late 2024, that theory got a physic…"
-    },
-    {
-      "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
-      "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-22T01:30:34+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The rules of the global economy are being rewritten. Trade fragmentation, semiconductor controls, sovereign AI ambitions, and shifting capital flows are no longer abstract geopolitical events. They are lived realities shaping the decisions of founders, fund managers, and ecosystem builders across Southeast Asia. For t…"
-    },
-    {
-      "title": "第12回デジタル社会構想会議の議事録を掲載しました",
-      "url": "https://www.digital.go.jp/councils/social-concept/fd4f3007-18b2-4f88-a48a-1ba40c94a729",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-07-22T06:00:00+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "第12回デジタル社会構想会議の議事録を掲載しました"
-    },
-    {
-      "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news073.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-22T02:50:32+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "プロフィギュアスケーター・浅田真央さんの旧公式サイトのドメイン「mao-asada.jp」を、「アフィリエイトサイトに」などとうたって「お名前.com」のオークションで販売し、批判を受けたGMOインターネットが、経緯と見解について、ITmedia NEWSの取材に答えた。 同社は「ドメインはインターネット上の共有資産」「廃止後..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “2026-009: Critical Vulnerability in Microsoft SharePoint” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0."
