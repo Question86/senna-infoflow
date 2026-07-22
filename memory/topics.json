@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T04:37:06+00:00",
+  "generated_at": "2026-07-22T05:37:11+00:00",
   "topics": {
     "ai": [
       {
@@ -214,6 +214,13 @@
         "published_at": "2026-07-22T03:59:58.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dv"
+      },
+      {
+        "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-22T02:50:32+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/22/news073.html"
       },
       {
         "title": "Rust に書き直さなくても C 言語をメモリ安全にできる Fil-C を試した",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T04:37:06+00:00_
+_Generiert: 2026-07-22T05:37:11+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+23 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -150,14 +150,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote clone (x0.45)
   - Kurz: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main co…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Rust に書き直さなくても C 言語をメモリ安全にできる Fil-C を試した** — Score 5, observation — [Quelle](https://zenn.dev/mattn/articles/cace8c5a00b9cc)
+- **浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/22/news073.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-22T00:54:31+00:00`, fetched `2026-07-22T04:36:38+00:00`
+  - Zeit: published `2026-07-22T02:50:32+00:00`, fetched `2026-07-22T05:36:39+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに 最近「どの言語で書くか」を巡る話題が続いています。今年 5 月、Zig で書かれていた JavaScript ランタイム Bun が Rust に移植されました。 50 万行超の Zig コードを大量の Claude エージェントに書かせるという力技で、理由の一つにメモリ安全性由来のバグが挙げられていました。これには Zig の作者 Andre...
+  - Kurz: プロフィギュアスケーター・浅田真央さんの旧公式サイトのドメイン「mao-asada.jp」を、「アフィリエイトサイトに」などとうたって「お名前.com」のオークションで販売し、批判を受けたGMOインターネットが、経緯と見解について、ITmedia NEWSの取材に答えた。 同社は「ドメインはインターネット上の共有資産」「廃止後...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

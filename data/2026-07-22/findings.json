@@ -495,6 +495,69 @@
     "id": "9e42b7a202925dd9813d"
   },
   {
+    "title": "Singapore’s startup rise puts corporate venturing in sharper focus",
+    "url": "https://e27.co/singapores-startup-rise-puts-corporate-venturing-in-sharper-focus-20260722/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-22T05:00:53+00:00",
+    "fetched_at": "2026-07-22T05:36:39+00:00",
+    "summary": "For years, corporate innovation in Southeast Asia often meant a hackathon, an accelerator demo day, or a small pilot that rarely survived the next budget cycle. Singapore is trying to push the model into something more durable: corporate venturing as a repeatable business capability, not a branding exercise. That is the central argument of a […] The post Singapore’s startup rise puts corporate venturing in sharper f…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules sports_sf_tech_events (+3.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: demo day"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "36f9f0220563e60b1d2e"
+  },
+  {
+    "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/22/news073.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T02:50:32+00:00",
+    "fetched_at": "2026-07-22T05:36:39+00:00",
+    "summary": "プロフィギュアスケーター・浅田真央さんの旧公式サイトのドメイン「mao-asada.jp」を、「アフィリエイトサイトに」などとうたって「お名前.com」のオークションで販売し、批判を受けたGMOインターネットが、経緯と見解について、ITmedia NEWSの取材に答えた。 同社は「ドメインはインターネット上の共有資産」「廃止後...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "24fbfe2d47c42c01d23e"
+  },
+  {
     "title": "Taiwan’s stablecoin moment: Why the NTD could outshine the dollar",
     "url": "https://e27.co/taiwans-stablecoin-moment-why-the-ntd-could-outshine-the-dollar-20260721/",
     "source": "e27 Asia Startup and Tech Feed",
