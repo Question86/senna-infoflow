@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T17:00:20+00:00",
+  "generated_at": "2026-07-22T17:59:58+00:00",
   "topics": {
     "ai": [
       {
@@ -386,6 +386,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
       },
       {
+        "title": "M 5.1 - 61 km SSW of San Pedro de Atacama, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-22T17:53:50.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9"
+      },
+      {
         "title": "M 4.6 - 103 km S of San Pedro de Atacama, Chile",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-22T11:54:04.040+00:00",
@@ -426,13 +433,6 @@
         "published_at": "2026-07-22T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/councils/social-concept/fd4f3007-18b2-4f88-a48a-1ba40c94a729"
-      },
-      {
-        "title": "第10回デジタル社会構想会議の議事録を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-22T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338"
       }
     ]
   }
