@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T11:30:22+00:00",
+  "generated_at": "2026-07-22T12:09:37+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,20 @@
         "published_at": "2026-07-22T01:15:57+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (kubelet, cri-o, kube-apiserver): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T12:02:54+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1950"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (Router): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T12:02:54+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2040"
       },
       {
         "title": "AI-powered business automation: How SMEs are transforming operations in Southeast Asia",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-22T04:07:28+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/"
-      },
-      {
-        "title": "Most AI projects don’t fail on technology, they fail on the workflow nobody fixed first",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T02:15:19+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/"
-      },
-      {
-        "title": "earthtojake/text-to-cad",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/earthtojake/text-to-cad"
       }
     ],
     "security": [
@@ -82,6 +82,20 @@
         "published_at": "2026-07-22T09:57:54+00:00",
         "relevance_score": 23,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (kubelet, cri-o, kube-apiserver): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T12:02:54+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1950"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (Router): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T12:02:54+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2040"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -126,25 +140,11 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
       },
       {
-        "title": "プロジェクト管理ツール「Plane」における認可回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-22T11:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90683587/"
-      },
-      {
-        "title": "[UPDATE] [mittel] libvirt: Schwachstelle ermöglicht Denial of Service",
+        "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T10:38:21+00:00",
+        "published_at": "2026-07-22T12:02:53+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1598"
-      },
-      {
-        "title": "[UPDATE] [hoch] Evince: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T10:38:21+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1641"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1300"
       }
     ],
     "geopolitics": [
@@ -161,6 +161,20 @@
         "published_at": "2026-07-22T10:39:13+00:00",
         "relevance_score": 15,
         "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
+      },
+      {
+        "title": "[NEU] [hoch] Budibase: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T11:57:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2472"
+      },
+      {
+        "title": "[NEU] [hoch] Aruba AOS-CX: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T11:57:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2473"
       },
       {
         "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
@@ -203,20 +217,6 @@
         "published_at": "2026-07-22T08:15:19+00:00",
         "relevance_score": 12,
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
-      },
-      {
-        "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-07-22T10:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Payments statistics: second half of 2025",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-07-22T08:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html"
       }
     ],
     "github": [
@@ -351,6 +351,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
       },
       {
+        "title": "M 4.6 - 103 km S of San Pedro de Atacama, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-22T11:54:04.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2g0"
+      },
+      {
         "title": "M 5.1 - 121 km NW of Vallenar, Chile",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-22T09:50:04.040+00:00",
@@ -391,13 +398,6 @@
         "published_at": "2026-07-22T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338"
-      },
-      {
-        "title": "「第二の脳」とやらについて",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-22T08:27:31+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260722172402"
       }
     ]
   }
