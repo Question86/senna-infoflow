@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T23:01:26+00:00_
+_Generiert: 2026-07-22T23:27:04+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+94 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -129,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Small and medium-sized enterprises (SMEs) are the backbone of Southeast Asia’s economy, accounting for approximately 99 per cent of businesses across the region and employing millions of people. As competition intensifies and customer expectations continue to rise, many SMEs are under increasing pressure to improve efficiency while operating with limited budgets and lean teams. For […] The post AI-powered business a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **GitHub - cursor/agent-trace: A standard format for tracing AI-generated code.** — Score 14, observation — [Quelle](https://github.com/cursor/agent-trace)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-22T15:05:05+00:00`, fetched `2026-07-22T23:26:34+00:00`
+  - Treffer: agent, AI/KI, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0)
+  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Building AI infrastructure with the Effingham County community** — Score 14, observation — [Quelle](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-07-22T13:00:00+00:00`, fetched `2026-07-22T13:15:26+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **プロジェクト管理ツール「Plane」における認可回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90683587/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-22T11:30:00+09:00`, fetched `2026-07-22T03:26:49+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
