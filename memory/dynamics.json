@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-22T06:08:41Z",
+  "generated_at": "2026-07-22T07:07:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 31,
     "bands": {
-      "krass": 1,
+      "krass": 2,
       "strong": 7,
       "watch": 3,
-      "quiet": 16
+      "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
+      "strong": 9,
       "watch": 3,
-      "quiet": 16
+      "quiet": 19
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU90683587/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T11:30:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:45:24+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU98832565/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-22T09:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -94,11 +94,37 @@
       "summary": "2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-22T06:00:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 33.17,
+      "age_days": 33.21,
       "topics": [
         "ai"
       ],
@@ -127,7 +153,7 @@
       "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:15:57+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -154,7 +180,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-21T23:27:45+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -178,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T04:34:01.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -203,7 +229,7 @@
       "url": "https://e27.co/ai-powered-business-automation-how-smes-are-transforming-operations-in-southeast-asia-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T03:00:09+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -229,7 +255,7 @@
       "url": "https://e27.co/singapores-startup-rise-puts-corporate-venturing-in-sharper-focus-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T05:00:53+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -254,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-22T03:59:58.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -278,7 +304,7 @@
       "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:45:03+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "macro"
       ],
@@ -302,7 +328,7 @@
       "url": "https://github.com/bojieli/ai-agent-book",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-22T01:25:23+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -324,11 +350,35 @@
       "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · 台灣正體 · English · Tiếng Việt · தமிழ் Agent = LLM + 上下文 + 工具 ——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、 88 个配套实验 全部开源，欢迎亲手把实验跑一遍。 📚 10 章 正文，从基础到生产 📂 88 个 配套项目（70+ 可独立运行） 🌐 5 种 语言：中 / 台灣正體 / 英 / 泰 / 越 📖 电子书 📥 直接下载 （全书正文，开源免…"
     },
     {
+      "title": "第10回デジタル社会構想会議の議事録を掲載しました",
+      "url": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-22T06:00:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "第10回デジタル社会構想会議の議事録を掲載しました"
+    },
+    {
       "title": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-22T01:25:23+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -356,7 +406,7 @@
       "url": "https://e27.co/why-remote-no-longer-means-anywhere-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T02:00:43+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -376,11 +426,35 @@
       "summary": "I was retrenched at the end of January 2025. Over the past 18 months, I’ve applied for marketing roles across the Asia-Pacific region, many of them advertised as “remote”. At first glance, that sounded encouraging. Remote work was supposed to free us from geography. As long as we had a computer and a reliable internet…"
     },
     {
+      "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
+      "url": "https://e27.co/southeast-asia-loves-digital-nomads-until-the-paperwork-gets-complicated-20260722/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-22T05:50:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Balaji Srinivasan has never lacked for big ideas. The former Coinbase CTO and Andreessen Horowitz General Partner has spent years evangelising the “network state”, a borderless, internet-native community that eventually negotiates diplomatic recognition from existing governments. In late 2024, that theory got a physic…"
+    },
+    {
       "title": "Rewriting the rules: Southeast Asia as climate capital proving ground",
       "url": "https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T01:30:34+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -401,11 +475,35 @@
       "summary": "The rules of the global economy are being rewritten. Trade fragmentation, semiconductor controls, sovereign AI ambitions, and shifting capital flows are no longer abstract geopolitical events. They are lived realities shaping the decisions of founders, fund managers, and ecosystem builders across Southeast Asia. For t…"
     },
     {
+      "title": "第12回デジタル社会構想会議の議事録を掲載しました",
+      "url": "https://www.digital.go.jp/councils/social-concept/fd4f3007-18b2-4f88-a48a-1ba40c94a729",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-22T06:00:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "第12回デジタル社会構想会議の議事録を掲載しました"
+    },
+    {
       "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」",
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news073.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T02:50:32+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -429,7 +527,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-21T23:04:49+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -454,7 +552,7 @@
       "url": "https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T04:07:28+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -480,7 +578,7 @@
       "url": "https://e27.co/most-ai-projects-dont-fail-on-technology-they-fail-on-the-workflow-nobody-fixed-first-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T02:15:19+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -506,7 +604,7 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-22T01:25:23+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -531,7 +629,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.14,
+      "age_days": 32.18,
       "topics": [
         "general"
       ],
@@ -547,7 +645,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 32.1d old signal"
+        "aging penalty -16.0 for 32.2d old signal"
       ],
       "summary": ""
     },
@@ -556,7 +654,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.14,
+      "age_days": 32.18,
       "topics": [
         "general"
       ],
@@ -572,7 +670,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 32.1d old signal"
+        "aging penalty -16.0 for 32.2d old signal"
       ],
       "summary": ""
     },
@@ -581,7 +679,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.14,
+      "age_days": 32.18,
       "topics": [
         "ai"
       ],
@@ -598,7 +696,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 32.1d old signal",
+        "aging penalty -16.0 for 32.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -608,7 +706,7 @@
       "url": "https://e27.co/an-honest-look-at-sea-venture-in-2026-and-where-im-still-investing-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T02:45:44+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -634,7 +732,7 @@
       "url": "https://e27.co/bitcoin-just-broke-us66000-is-this-the-start-of-the-next-bull-run-or-a-trap-for-late-investors-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T04:15:47+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -660,7 +758,7 @@
       "url": "https://e27.co/taiwans-stablecoin-moment-why-the-ntd-could-outshine-the-dollar-20260721/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-22T02:30:41+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -686,7 +784,7 @@
       "url": "https://zenn.dev/mattn/articles/cace8c5a00b9cc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T00:54:31+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
