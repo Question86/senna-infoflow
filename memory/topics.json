@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T10:51:41+00:00",
+  "generated_at": "2026-07-22T11:30:22+00:00",
   "topics": {
     "ai": [
       {
@@ -365,6 +365,13 @@
         "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5"
       },
       {
+        "title": "M 4.7 - 89 km NW of Finschhafen, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-22T11:21:28.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fu"
+      },
+      {
         "title": "M 4.6 - 124 km SE of Kuril’sk, Russia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-22T03:59:58.040+00:00",
@@ -386,18 +393,11 @@
         "url": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338"
       },
       {
-        "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」",
+        "title": "「第二の脳」とやらについて",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-22T02:50:32+00:00",
+        "published_at": "2026-07-22T08:27:31+00:00",
         "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/22/news073.html"
-      },
-      {
-        "title": "Rust に書き直さなくても C 言語をメモリ安全にできる Fil-C を試した",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-22T00:54:31+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/mattn/articles/cace8c5a00b9cc"
+        "url": "https://anond.hatelabo.jp/20260722172402"
       }
     ]
   }
