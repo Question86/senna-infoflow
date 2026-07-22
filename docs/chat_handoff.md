@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-22T17:59:58+00:00_
+_Generated: 2026-07-22T18:33:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `80`
+- findings: `81`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-22T17:59:58+00:00_
 - url: https://www.itmedia.co.jp/news/articles/2607/22/news056.html
 - summary: Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...
 
-### 7. M 5.1 - 61 km SSW of San Pedro de Atacama, Chile
+### 7. M 4.9 - 96 km SSE of Akhiok, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-07-22T18:32:25.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okmwzn
+- summary: ShakeMap - IV DYFI? - II Time 2026-07-22 18:13:23 UTC 2026-07-22 18:13:23 UTC at epicenter Location 56.199°N 153.375°W Depth 16.20 km (10.07 mi)
+
+### 8. M 5.1 - 61 km SSW of San Pedro de Atacama, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-07-22T17:53:50.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9
 - summary: Time 2026-07-22 17:34:36 UTC 2026-07-22 17:34:36 UTC at epicenter Location 23.377°S 68.527°W Depth 108.73 km (67.56 mi)
-
-### 8. M 4.6 - 103 km S of San Pedro de Atacama, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-22T11:54:04.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2g0
-- summary: Time 2026-07-22 11:37:17 UTC 2026-07-22 11:37:17 UTC at epicenter Location 23.837°S 68.322°W Depth 126.09 km (78.35 mi)
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T17:59:58+00:00_
+_Generiert: 2026-07-22T18:33:55+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+81 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 96 km SSE of Akhiok, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okmwzn)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-22T18:32:25.040+00:00`, fetched `2026-07-22T18:33:18+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV DYFI? - II Time 2026-07-22 18:13:23 UTC 2026-07-22 18:13:23 UTC at epicenter Location 56.199°N 153.375°W Depth 16.20 km (10.07 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 61 km SSW of San Pedro de Atacama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-22T17:53:50.040+00:00`, fetched `2026-07-22T17:59:23+00:00`
@@ -195,15 +204,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); policy (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 121 km NW of Vallenar, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-22T09:50:04.040+00:00`, fetched `2026-07-22T10:04:57+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-22 09:34:22 UTC 2026-07-22 09:34:22 UTC at epicenter Location 27.867°S 71.701°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **米オープンAI 高性能モデルが意図せず他社に攻撃と発表 | NHKニュース** — Score 11, observation — [Quelle](https://news.web.nhk/newsweb/na/na-k10015182641000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-22T06:23:37+00:00`, fetched `2026-07-22T13:15:26+00:00`
