@@ -1094,6 +1094,27 @@
     "id": "e3598cd0ca411d078cbf"
   },
   {
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-22T12:00:00+00:00",
+    "fetched_at": "2026-07-22T15:56:08+00:00",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ad80449dff4119c94c2"
+  },
+  {
     "title": "Payments statistics: second half of 2025",
     "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html",
     "source": "ECB Statistical Press Releases",
@@ -1226,6 +1247,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cfac5d588da28b95f264"
+  },
+  {
+    "title": "Upcoming GHES change impacting uploading support bundles",
+    "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-22T15:05:19+00:00",
+    "fetched_at": "2026-07-22T15:56:08+00:00",
+    "summary": "We want to give you advance notice of an upcoming security change that may affect GitHub Enterprise Server (GHES) support bundle uploads. Beginning August 18, 2026, GitHub will start rejecting… The post Upcoming GHES change impacting uploading support bundles appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Security (+6.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "03c07a22138825c2d44c"
   },
   {
     "title": "M 4.7 - 89 km NW of Finschhafen, Papua New Guinea",
@@ -1638,6 +1680,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "36bdd066c95bbe930eea"
+  },
+  {
+    "title": "サムスン、「Galaxy Z Fold8」など折りたたみ3機種 最上位モデルは29.6万円から",
+    "url": "https://www.watch.impress.co.jp/docs/news/2125732.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T13:05:48+00:00",
+    "fetched_at": "2026-07-22T15:56:08+00:00",
+    "summary": "サムスン、「Galaxy Z Fold8」など折りたたみ3機種 最上位モデルは29.6万円から",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d44f48f5f211a5b98caa"
   },
   {
     "title": "ガーミンが画面なし＆ブランド初のバンド型トラッカー「CIRQA Smart Band」発表、約3.3万円",

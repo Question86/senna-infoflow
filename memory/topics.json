@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T15:22:48+00:00",
+  "generated_at": "2026-07-22T15:56:40+00:00",
   "topics": {
     "ai": [
       {
@@ -249,6 +249,13 @@
         "url": "https://github.com/earthtojake/text-to-cad"
       },
       {
+        "title": "Upcoming GHES change impacting uploading support bundles",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-22T15:05:19+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles"
+      },
+      {
         "title": "ayghri/i-have-adhd",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -300,6 +307,13 @@
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
       },
       {
+        "title": "Advancing the next era of national science",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-22T12:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+      },
+      {
         "title": "Singapore’s data analysts trust AI to work, not to think",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-22T04:07:28+00:00",
@@ -333,13 +347,6 @@
         "published_at": "2026-07-22T02:45:44+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/an-honest-look-at-sea-venture-in-2026-and-where-im-still-investing-20260721/"
-      },
-      {
-        "title": "Why AI empowered teams are getting smaller, and why that is harder than it sounds",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T01:45:24+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/"
       }
     ],
     "general": [
