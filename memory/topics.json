@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T16:29:28+00:00",
+  "generated_at": "2026-07-22T17:00:20+00:00",
   "topics": {
     "ai": [
       {
@@ -240,6 +240,13 @@
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/bojieli/ai-agent-book"
+      },
+      {
+        "title": "New Copilot usage metrics impact dashboard",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-22T16:21:47+00:00",
+        "relevance_score": 10,
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard"
       },
       {
         "title": "Next chapter: Restructuring GitHub’s bug bounty program",

@@ -1094,6 +1094,28 @@
     "id": "e3598cd0ca411d078cbf"
   },
   {
+    "title": "New Copilot usage metrics impact dashboard",
+    "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-22T16:21:47+00:00",
+    "fetched_at": "2026-07-22T16:59:48+00:00",
+    "summary": "We’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is… The post New Copilot usage metrics impact dashboard appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "Public Health"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Public Health (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "501f6a0d47cd0d7fd24b"
+  },
+  {
     "title": "Next chapter: Restructuring GitHub’s bug bounty program",
     "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
     "source": "GitHub Blog Atom",
