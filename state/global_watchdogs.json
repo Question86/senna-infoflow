@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-22T19:32:26+00:00",
+  "generated_at": "2026-07-22T20:00:23+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-16232 Check Point SmartConsole",
+        "summary": "Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Check Point SmartConsole Improper Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-22",
+        "metrics": {
+          "cve": "CVE-2026-16232"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-50522 Microsoft SharePoint",
+        "summary": "Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability ",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-22",
+        "metrics": {
+          "cve": "CVE-2026-50522"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-07-21",
         "metrics": {
           "cve": "CVE-2026-0770"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2021-27137 DD-WRT DD-WRT",
-        "summary": "Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. DD-WRT Stack-Based Buffer Overflow Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-21",
-        "metrics": {
-          "cve": "CVE-2021-27137"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-58644 Microsoft SharePoint",
-        "summary": "Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-16",
-        "metrics": {
-          "cve": "CVE-2026-58644"
         }
       },
       {

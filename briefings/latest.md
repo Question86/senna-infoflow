@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T19:32:23+00:00_
+_Generiert: 2026-07-22T20:00:20+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-07-22T19:32:23+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-16232 Check Point SmartConsole** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-22`
+  - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Check Point SmartConsole Improper Authentication Vulnerability
+- **CISA KEV: CVE-2026-50522 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-22`
+  - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
 - **CISA KEV: CVE-2026-60137 WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
@@ -21,14 +29,6 @@ _Generiert: 2026-07-22T19:32:23+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
-- **CISA KEV: CVE-2021-27137 DD-WRT DD-WRT** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-21`
-  - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. DD-WRT Stack-Based Buffer Overflow Vulnerability
-- **CISA KEV: CVE-2026-58644 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-16`
-  - Kurz: Known exploited vulnerability. Added 2026-07-16. Due 2026-07-19. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability
 - **GDACS: Green flood alert in Latvia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104037)
   - Quelle: GDACS
   - Zeit: ``
