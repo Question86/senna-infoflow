@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-22T22:37:01+00:00",
+  "generated_at": "2026-07-22T23:01:26+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "new_relevant_findings": 1,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 34,
-    "observe": 58
+    "observe": 59
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-21T23:07:51+00:00",
+      "relevance_score": 13,
+      "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+      "summary": "1位のAnthropicを100とした場合、2位のOpenAIが66.9、3位のGoogle Workspaceが59.8、4位のGitHubが56.6、5位のCursorが42.4となっており、他と比較してこの4年間のAnthropicの成長率が飛び抜けて高かったことが示されました。 グラフの赤いマーカーは顧客成長率が4倍以上となる急成長企業を示しています。 また、ここで...",
+      "section": "observe"
+    },
+    {
       "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
       "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://www.techno-edge.net/article/2026/07/22/5318.html",
       "summary": "「音楽理論は不要」「いや、わかっていた方がいい」などとネット上では繰り返し繰り返し議論が起きていて、そこになんとなく混ざりたい気もするけど、そのレベルの知識もない状態です。 最近ではプロのミュージシャンの方々と音楽の仕事をしている関係上、最低限の知識は持っておきたいですし。 知人でバークリー音楽院...",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.9 - 96 km SSE of Akhiok, Alaska",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-22T18:32:25.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okmwzn",
-      "summary": "ShakeMap - IV DYFI? - II Time 2026-07-22 18:13:23 UTC 2026-07-22 18:13:23 UTC at epicenter Location 56.199°N 153.375°W Depth 16.20 km (10.07 mi)",
       "section": "observe"
     }
   ],

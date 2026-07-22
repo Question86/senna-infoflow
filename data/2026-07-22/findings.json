@@ -892,6 +892,29 @@
     "id": "45ab8ed59fdd6ffc18c7"
   },
   {
+    "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+    "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T23:07:51+00:00",
+    "fetched_at": "2026-07-22T23:00:56+00:00",
+    "summary": "1位のAnthropicを100とした場合、2位のOpenAIが66.9、3位のGoogle Workspaceが59.8、4位のGitHubが56.6、5位のCursorが42.4となっており、他と比較してこの4年間のAnthropicの成長率が飛び抜けて高かったことが示されました。 グラフの赤いマーカーは顧客成長率が4倍以上となる急成長企業を示しています。 また、ここで...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bd1af874f293cb3b4882"
+  },
+  {
     "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html",
     "source": "ECB Open Market Operations and Communication",

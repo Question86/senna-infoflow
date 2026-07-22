@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T22:37:01+00:00_
+_Generiert: 2026-07-22T23:01:26+00:00_
 
 ## Kurzlage
 
-92 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+93 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表** — Score 13, observation — [Quelle](https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-21T23:07:51+00:00`, fetched `2026-07-22T23:00:56+00:00`
+  - Treffer: GitHub, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 1位のAnthropicを100とした場合、2位のOpenAIが66.9、3位のGoogle Workspaceが59.8、4位のGitHubが56.6、5位のCursorが42.4となっており、他と比較してこの4年間のAnthropicの成長率が飛び抜けて高かったことが示されました。 グラフの赤いマーカーは顧客成長率が4倍以上となる急成長企業を示しています。 また、ここで...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-07-22T08:15:19+00:00`, fetched `2026-07-22T07:26:15+00:00`
@@ -213,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-22 11:37:17 UTC 2026-07-22 11:37:17 UTC at epicenter Location 23.837°S 68.322°W Depth 126.09 km (78.35 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **前代未聞のサイバー被害 オープンAIのAIモデルが自律的にハッキング** — Score 11, observation — [Quelle](https://www.afpbb.com/articles/-/3645160)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-22T10:25:31+00:00`, fetched `2026-07-22T22:11:34+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: オープンAIとチャットGPTのロゴ（2023年10月4日撮影）。(c)MARCO BERTORELLO/AFP 【7月22日 AFP】対話型AI「ChatGPT（チャットGPT）」を手掛ける米オープンAIは21日、セキュリティテスト中に同社の高性能AIモデルが意図しない暴走を起こし、プログラマーに人気のプラットフォームに自律的にハッキングを仕掛けたことを明...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The U.S. wants to contain China’s AI. Silicon Valley keeps using it** — Score 11, observation — [Quelle](https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-22T10:00:00+00:00`, fetched `2026-07-22T10:04:57+00:00`
