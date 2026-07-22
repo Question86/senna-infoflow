@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T09:13:26+00:00",
+  "generated_at": "2026-07-22T10:05:28+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:54+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450"
+      },
       {
         "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
         "source": "e27 Asia Startup and Tech Feed",
@@ -40,6 +47,13 @@
         "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html"
       },
       {
+        "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-22T10:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "Singapore’s data analysts trust AI to work, not to think",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-22T04:07:28+00:00",
@@ -59,20 +73,150 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/earthtojake/text-to-cad"
+      }
+    ],
+    "security": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:54+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450"
       },
       {
-        "title": "ayghri/i-have-adhd",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/ayghri/i-have-adhd"
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-22T09:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU98832565/"
       },
       {
-        "title": "An honest look at SEA venture in 2026, and where I’m still investing",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T02:45:44+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/an-honest-look-at-sea-venture-in-2026-and-where-im-still-investing-20260721/"
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T08:57:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T08:52:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427"
+      },
+      {
+        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-07-22T10:39:13+00:00",
+        "relevance_score": 15,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
+      },
+      {
+        "title": "プロジェクト管理ツール「Plane」における認可回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-22T11:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90683587/"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2451"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Virtualization: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2447"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Solaris: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2449"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2448"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:54+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450"
+      },
+      {
+        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-07-22T10:39:13+00:00",
+        "relevance_score": 15,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2451"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Virtualization: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2447"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Solaris: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2449"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2448"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T09:52:57+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2446"
+      },
+      {
+        "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-22T08:15:19+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
+      },
+      {
+        "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-22T10:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "Payments statistics: second half of 2025",
+        "source": "ECB Statistical Press Releases",
+        "published_at": "2026-07-22T08:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html"
       }
     ],
     "github": [
@@ -184,151 +328,14 @@
         "url": "https://e27.co/why-ai-empowered-teams-are-getting-smaller-and-why-that-is-harder-than-it-sounds-20260616/"
       }
     ],
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-22T09:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU98832565/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T08:57:53+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T08:52:54+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427"
-      },
-      {
-        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-07-22T10:39:13+00:00",
-        "relevance_score": 15,
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
-      },
-      {
-        "title": "プロジェクト管理ツール「Plane」における認可回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-22T11:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90683587/"
-      },
-      {
-        "title": "[UPDATE] [niedrig] helm: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T08:57:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2412"
-      },
-      {
-        "title": "[UPDATE] [hoch] libssh: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T08:52:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2428"
-      },
-      {
-        "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-21T23:27:45+00:00",
-        "relevance_score": 11,
-        "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/"
-      },
-      {
-        "title": "Datentransfersoftware Serv-U hat 15 kritische Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-22T08:20:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Datentransfersoftware-Serv-U-hat-15-kritische-Sicherheitsluecken-11373098.html"
-      },
-      {
-        "title": "Backupsoftware Veeam: Updater ermöglicht Rechteausweitung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-22T07:37:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-07-22T10:39:13+00:00",
-        "relevance_score": 15,
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/"
-      },
-      {
-        "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-07-22T08:15:19+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html"
-      },
-      {
-        "title": "Payments statistics: second half of 2025",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-07-22T08:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html"
-      },
-      {
-        "title": "earthtojake/text-to-cad",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/earthtojake/text-to-cad"
-      },
-      {
-        "title": "The myth of the neutral stack: Why SEA startups can no longer sit on the fence",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T01:45:03+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/the-myth-of-the-neutral-stack-why-sea-startups-can-no-longer-sit-on-the-fence-20260721/"
-      },
-      {
-        "title": "Southeast Asia loves digital nomads until the paperwork gets complicated",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T05:50:53+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/southeast-asia-loves-digital-nomads-until-the-paperwork-gets-complicated-20260722/"
-      },
-      {
-        "title": "Datentransfersoftware Serv-U hat 15 kritische Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-22T08:20:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Datentransfersoftware-Serv-U-hat-15-kritische-Sicherheitsluecken-11373098.html"
-      },
-      {
-        "title": "Backupsoftware Veeam: Updater ermöglicht Rechteausweitung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-22T07:37:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Backupsoftware-Veeam-Updater-ermoeglicht-Rechteausweitung-11372985.html"
-      },
-      {
-        "title": "Oracle Critical Patch Update: 1449 Softwareflicken im Juli",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-22T06:30:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html"
-      },
-      {
-        "title": "Bitcoin just broke US$66,000: Is this the start of the next bull run or a trap for late investors?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-22T04:15:47+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-just-broke-us66000-is-this-the-start-of-the-next-bull-run-or-a-trap-for-late-investors-20260722/"
-      }
-    ],
     "general": [
+      {
+        "title": "M 4.9 - 11 km NW of Sugal, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-22T10:02:35.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fj"
+      },
       {
         "title": "M 4.9 - 208 km W of Abepura, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -342,6 +349,13 @@
         "published_at": "2026-07-22T04:34:01.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
+      },
+      {
+        "title": "M 5.1 - 121 km NW of Vallenar, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-22T09:50:04.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd"
       },
       {
         "title": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました",

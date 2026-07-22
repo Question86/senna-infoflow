@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T09:13:26+00:00_
+_Generiert: 2026-07-22T10:05:28+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „The real difference between OpenAI and Anthropic is what happens when AI gets cheaper“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+48 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen** — Score 23, risk — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-22T09:57:54+00:00`, fetched `2026-07-22T10:04:57+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The real difference between OpenAI and Anthropic is what happens when AI gets cheaper** — Score 23, observation — [Quelle](https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-22T01:15:57+00:00`, fetched `2026-07-22T01:25:23+00:00`
@@ -57,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); CERT-EU (+2.0); Microsoft (+2.5); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: On 14 July 2026, Microsoft released a security update addressing a critical Remote Code Execution (RCE) in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code, and later, successful exploitation attempts. CERT-EU strongly recommend to update affected servers and to rotate credentials on any assets that may have been vulnerable and exposed on the internet.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 11 km NW of Sugal, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fj)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-22T10:02:35.040+00:00`, fetched `2026-07-22T10:04:57+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-22 09:47:20 UTC 2026-07-22 09:47:20 UTC at epicenter Location 5.733°N 125.390°E Depth 64.48 km (40.06 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 208 km W of Abepura, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-22T07:24:30.040+00:00`, fetched `2026-07-22T07:26:15+00:00`
@@ -93,15 +111,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [niedrig] helm: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2412)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-22T08:57:53+00:00`, fetched `2026-07-22T09:12:54+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in helm ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Rewriting the rules: Southeast Asia as climate capital proving ground** — Score 14, observation — [Quelle](https://e27.co/rewriting-the-rules-southeast-asia-as-climate-capital-proving-ground-20260719/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-22T01:30:34+00:00`, fetched `2026-07-22T02:14:58+00:00`
@@ -141,6 +150,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The U.S. wants to contain China’s AI. Silicon Valley keeps using it** — Score 11, observation — [Quelle](https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-22T10:00:00+00:00`, fetched `2026-07-22T10:04:57+00:00`
+  - Treffer: AI/KI, policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); policy (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 121 km NW of Vallenar, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-22T09:50:04.040+00:00`, fetched `2026-07-22T10:04:57+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-22 09:34:22 UTC 2026-07-22 09:34:22 UTC at epicenter Location 27.867°S 71.701°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-22T06:00:00+00:00`, fetched `2026-07-22T06:30:21+00:00`
@@ -240,29 +267,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: IT-Sicherheitsforscher haben in der Update-Komponente von Veeam eine Sicherheitslücke entdeckt, die das Ausweiten der Rechte ermöglicht.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Oracle Critical Patch Update: 1449 Softwareflicken im Juli** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-Critical-Patch-Update-1449-Softwareflicken-im-Juli-11372857.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-22T06:30:00.000+00:00`, fetched `2026-07-22T07:26:15+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Zum vierteljährlichen Oracle CPU liefert der Hersteller 1449 Sicherheitsupdates aus – ein neuer Rekordwert. Admins sollten handeln.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **第12回デジタル社会構想会議の議事録を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-concept/fd4f3007-18b2-4f88-a48a-1ba40c94a729)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-22T06:00:00+00:00`, fetched `2026-07-22T06:30:21+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 第12回デジタル社会構想会議の議事録を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten

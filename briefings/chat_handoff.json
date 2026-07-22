@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-22T09:13:26+00:00",
+  "generated_at": "2026-07-22T10:05:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 9,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 13,
-    "observe": 26
+    "medium": 20,
+    "observe": 28
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-22T09:57:54+00:00",
+      "relevance_score": 23,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "section": "medium"
+    },
     {
       "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
       "source": "e27 Asia Startup and Tech Feed",
@@ -45,16 +55,6 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-22T08:52:54+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise um Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu…",
-      "section": "medium"
-    },
-    {
       "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
       "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
@@ -75,23 +75,23 @@
       "section": "observe"
     },
     {
-      "title": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました",
-      "source": "Japan Digital Agency News RSS",
+      "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-22T06:00:00+00:00",
+      "published_at": "2026-07-22T10:00:00+00:00",
       "relevance_score": 11,
-      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
-      "summary": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました",
+      "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
       "section": "observe"
     },
     {
-      "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.1 - 121 km NW of Vallenar, Chile",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-21T23:27:45+00:00",
+      "published_at": "2026-07-22T09:50:04.040+00:00",
       "relevance_score": 11,
-      "url": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
-      "summary": "RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd",
+      "summary": "Time 2026-07-22 09:34:22 UTC 2026-07-22 09:34:22 UTC at epicenter Location 27.867°S 71.701°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -100,136 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “2026-009: Critical Vulnerability in Microsoft SharePoint” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-07-22T10:39:13+00:00",
-        "age_days": 0,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, rce"
-        ],
-        "summary": "On 14 July 2026, Microsoft released a security update addressing a critical Remote Code Execution (RCE) in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code, and later, successful exploitation attempts. CERT-EU strongly recommend to update affected servers and to rotate…"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
-        "url": "https://jvn.jp/vu/JVNVU98832565/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-22T09:00:00+09:00",
-        "age_days": 0.41,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T08:57:53+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offenzulegen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T08:52:54+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise um Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen."
-      },
-      {
-        "title": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました",
-        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-22T06:00:00+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました"
-      }
-    ]
-  }
+  ]
 }
