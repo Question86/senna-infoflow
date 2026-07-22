@@ -2108,6 +2108,27 @@
     "id": "639d04eb778588f7d385"
   },
   {
+    "title": "XZ Utilsのバックドア事件についての電子書籍『Half a Second』 - YAMDAS現更新履歴",
+    "url": "https://yamdas.hatenablog.com/entry/20260721/half-a-second",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-21T10:15:27+00:00",
+    "fetched_at": "2026-07-22T21:21:14+00:00",
+    "summary": "www.half-second.com 多くの Linux ディストリビューションに含まれた XZ Utils にバックドアが2024年に発見された問題は、Wikipedia の項目にもなったし、WIRED や Black Duck の記事も参考になる。 Half a Second はこの事件の全容を扱った電子書籍で、ウェブでも読めるし、PDF や EPUB でも公開されている。PDF で260...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a60ef9bc8878df04e1d1"
+  },
+  {
     "title": "schollz/croc",
     "url": "https://github.com/schollz/croc",
     "source": "GitHub Trending RSS All Languages Daily",
