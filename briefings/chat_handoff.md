@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-22T10:05:28+00:00_
+_Generated: 2026-07-22T10:51:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `52`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-22T10:05:28+00:00_
 - url: https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/
 - summary: Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a st…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-07-22T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU98832565/
-- summary: 2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
+### 3. [UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-22T08:57:53+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offe…
+- published: `2026-07-22T10:38:22+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel bezüglich der Bluetooth Komponente ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-22T10:38:22+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691
+- summary: Ein entfernter Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Zustand oder andere Auswirkungen herbeizuführen.
 
 ### 5. Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication

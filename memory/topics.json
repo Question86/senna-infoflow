@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T10:05:28+00:00",
+  "generated_at": "2026-07-22T10:51:41+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T10:38:22+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-22T10:38:22+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-22T09:00:00+09:00",
@@ -119,32 +133,18 @@
         "url": "https://jvn.jp/vu/JVNVU90683587/"
       },
       {
-        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] libvirt: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:54+00:00",
+        "published_at": "2026-07-22T10:38:21+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2451"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1598"
       },
       {
-        "title": "[NEU] [mittel] Oracle Virtualization: Mehrere Schwachstellen",
+        "title": "[UPDATE] [hoch] Evince: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:53+00:00",
+        "published_at": "2026-07-22T10:38:21+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2447"
-      },
-      {
-        "title": "[NEU] [mittel] Oracle Solaris: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2449"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2448"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1641"
       }
     ],
     "geopolitics": [

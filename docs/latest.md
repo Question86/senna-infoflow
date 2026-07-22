@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T10:05:28+00:00_
+_Generiert: 2026-07-22T10:51:41+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+52 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a strong reputation with developers, and Claude Code has become one of the clearest examples of an AI product […] The post The real difference between OpenAI and An…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-22T10:38:22+00:00`, fetched `2026-07-22T10:51:10+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel bezüglich der Bluetooth Komponente ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-22T10:38:22+00:00`, fetched `2026-07-22T10:51:10+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Zustand oder andere Auswirkungen herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU98832565/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-22T09:00:00+09:00`, fetched `2026-07-22T00:10:44+00:00`
@@ -39,24 +57,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-22T08:57:53+00:00`, fetched `2026-07-22T09:12:54+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2427)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-22T08:52:54+00:00`, fetched `2026-07-22T09:12:54+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise um Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **2026-009: Critical Vulnerability in Microsoft SharePoint** — Score 15, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-009/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-07-22T10:39:13+00:00`, fetched `2026-07-22T09:12:54+00:00`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T10:05:28+00:00",
-  "run_id": "2026-07-22T10:05:28+00:00",
+  "generated_at": "2026-07-22T10:51:41+00:00",
+  "run_id": "2026-07-22T10:51:41+00:00",
   "date": "2026-07-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 4,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
-    "medium": 20,
+    "medium": 24,
     "observe": 28,
     "source_errors": 0
   },
@@ -76,6 +76,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2a5cff4c4857e0bd373a"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-22T10:38:22+00:00",
+        "fetched_at": "2026-07-22T10:51:10+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel bezüglich der Bluetooth Komponente ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "982ebd26fe2359094325"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-22T10:38:22+00:00",
+        "fetched_at": "2026-07-22T10:51:10+00:00",
+        "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Zustand oder andere Auswirkungen herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "74dc8e14f8cfc24e3f6c"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
@@ -338,6 +386,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "70461404a879eb7fd807"
+      },
+      {
+        "title": "[UPDATE] [mittel] libvirt: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1598",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-22T10:38:21+00:00",
+        "fetched_at": "2026-07-22T10:51:10+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c230fd97547962a1795"
+      },
+      {
+        "title": "[UPDATE] [hoch] Evince: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1641",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-22T10:38:21+00:00",
+        "fetched_at": "2026-07-22T10:51:10+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Evince ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5ecfd0742b1ea6602573"
       },
       {
         "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
@@ -1308,6 +1402,54 @@
       "id": "2a5cff4c4857e0bd373a"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-22T10:38:22+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel bezüglich der Bluetooth Komponente ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "982ebd26fe2359094325"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-22T10:38:22+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Zustand oder andere Auswirkungen herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "74dc8e14f8cfc24e3f6c"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
       "url": "https://jvn.jp/vu/JVNVU98832565/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1568,6 +1710,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "70461404a879eb7fd807"
+    },
+    {
+      "title": "[UPDATE] [mittel] libvirt: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1598",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-22T10:38:21+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c230fd97547962a1795"
+    },
+    {
+      "title": "[UPDATE] [hoch] Evince: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1641",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-22T10:38:21+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Evince ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5ecfd0742b1ea6602573"
     },
     {
       "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
@@ -2487,74 +2675,61 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-22T09:57:54+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "published_at": "2026-07-22T10:38:22+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Zustand oder andere Auswirkungen herbeizuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Linux",
         "Schwachstelle",
-        "Security",
-        "Supply Chain Security"
+        "Security"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "78d36c3af2aa940d5cf5"
+      "id": "74dc8e14f8cfc24e3f6c"
     },
     {
-      "title": "M 4.9 - 11 km NW of Sugal, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-22T10:02:35.040+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Time 2026-07-22 09:47:20 UTC 2026-07-22 09:47:20 UTC at epicenter Location 5.733°N 125.390°E Depth 64.48 km (40.06 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "391c825c354e152522e0"
-    },
-    {
-      "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2451",
+      "title": "[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-22T09:57:54+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "published_at": "2026-07-22T10:38:22+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel bezüglich der Bluetooth Komponente ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "982ebd26fe2359094325"
+    },
+    {
+      "title": "[UPDATE] [hoch] Evince: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1641",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-22T10:38:21+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Evince ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2568,16 +2743,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fb46e96a1fe52e283451"
+      "id": "5ecfd0742b1ea6602573"
     },
     {
-      "title": "[NEU] [mittel] Oracle Solaris: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2449",
+      "title": "[UPDATE] [mittel] libvirt: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1598",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-22T09:57:53+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Oracle Solaris ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "published_at": "2026-07-22T10:38:21+00:00",
+      "fetched_at": "2026-07-22T10:51:10+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2591,133 +2766,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8a81172f747b6345e88f"
-    },
-    {
-      "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2448",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-22T09:57:53+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Utilities Applications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4bc1effd7ca3b82f17fb"
-    },
-    {
-      "title": "[NEU] [mittel] Oracle Virtualization: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2447",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-22T09:57:53+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Virtualization ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "246989c62875e3cf164e"
-    },
-    {
-      "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2446",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-22T09:52:57+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Enterprise Manager ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e1129f89f678ea01a8f"
-    },
-    {
-      "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
-      "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-22T10:00:00+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
-      "matched_keywords": [
-        "AI/KI",
-        "policy"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); policy (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8cc1b8e5a7230e213efa"
-    },
-    {
-      "title": "M 5.1 - 121 km NW of Vallenar, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-22T09:50:04.040+00:00",
-      "fetched_at": "2026-07-22T10:04:57+00:00",
-      "summary": "Time 2026-07-22 09:34:22 UTC 2026-07-22 09:34:22 UTC at epicenter Location 27.867°S 71.701°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "84f4e6ded1ac7ea5f080"
+      "id": "9c230fd97547962a1795"
     }
   ],
   "source_errors": [],

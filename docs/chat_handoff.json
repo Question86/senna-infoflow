@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-22T10:05:28+00:00",
+  "generated_at": "2026-07-22T10:51:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 4,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
-    "medium": 20,
+    "medium": 24,
     "observe": 28
   },
   "source_errors_count": 0,
@@ -35,23 +35,23 @@
       "section": "medium"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月21日）",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "[UPDATE] [mittel] Linux Kernel (Bluetooth): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-22T09:00:00+09:00",
+      "published_at": "2026-07-22T10:38:22+00:00",
       "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU98832565/",
-      "summary": "2026年07月21日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1684",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel bezüglich der Bluetooth Komponente ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-22T08:57:53+00:00",
+      "published_at": "2026-07-22T10:38:22+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2403",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offe…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1691",
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Zustand oder andere Auswirkungen herbeizuführen.",
       "section": "medium"
     },
     {
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “2026-009: Critical Vulnerability in Microsoft SharePoint” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-07-22T10:39:13+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, rce"
-        ],
-        "summary": "On 14 July 2026, Microsoft released a security update addressing a critical Remote Code Execution (RCE) in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code, and later, successful exploitation attempts. CERT-EU strongly recommend to update affected servers and to rotate…"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2451",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:54+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-      },
-      {
-        "title": "[NEU] [mittel] Oracle Virtualization: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2447",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:53+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Virtualization ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-      },
-      {
-        "title": "[NEU] [mittel] Oracle Solaris: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2449",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:53+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Oracle Solaris ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2448",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T09:57:53+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Utilities Applications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-      }
-    ]
-  }
+  ]
 }
