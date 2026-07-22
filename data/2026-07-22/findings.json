@@ -1346,6 +1346,27 @@
     "id": "9e42b7a202925dd9813d"
   },
   {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-22T12:44:49+00:00",
+    "summary": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. Apollo-11 🌐 Azerbaijani , bahasa Indonesia , Basa Jawa , Català , Čeština , Dansk , Deutsch , English , Español , Français , Galego , Italiano , Kurdî , Lietuvių , Mongolian , Nederlands , Norsk , Polski , Português , Română , Suomi , Svenska , tiếng Việt , Türkçe , Ελληνικά , Беларуская мова , Русский , Українська , العربية ,…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d326d99bd8dddcb0bc64"
+  },
+  {
     "title": "第12回デジタル社会構想会議の議事録を掲載しました",
     "url": "https://www.digital.go.jp/councils/social-concept/fd4f3007-18b2-4f88-a48a-1ba40c94a729",
     "source": "Japan Digital Agency News RSS",
@@ -1530,6 +1551,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "639d04eb778588f7d385"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-22T12:44:49+00:00",
+    "summary": "Easily and securely send things from one computer to another 🐊 📦 This project’s future depends on community support. Become a sponsor today . About croc is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, croc is the only CLI file-transfer tool that does all of the following: Allows any two computers to transfer data (using a relay) Provides end-to-end encryption (using…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d96a02b1cff8dfcfb3ad"
   },
   {
     "title": "Why remote no longer means anywhere",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T12:09:37+00:00",
+  "generated_at": "2026-07-22T12:45:17+00:00",
   "topics": {
     "ai": [
       {
@@ -254,6 +254,20 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      {
+        "title": "chrislgarry/Apollo-11",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 7,
+        "url": "https://github.com/chrislgarry/Apollo-11"
+      },
+      {
+        "title": "schollz/croc",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/schollz/croc"
       }
     ],
     "economy": [
