@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T18:57:59+00:00",
-  "run_id": "2026-07-22T18:57:59+00:00",
+  "generated_at": "2026-07-22T19:32:23+00:00",
+  "run_id": "2026-07-22T19:32:23+00:00",
   "date": "2026-07-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
     "medium": 34,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -1592,6 +1592,28 @@
           "PINS"
         ],
         "id": "ec69ddaef62440c89ecb"
+      },
+      {
+        "title": "Copilot vs. raw API access: What are you actually paying for?",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-22T19:00:00+00:00",
+        "fetched_at": "2026-07-22T19:31:47+00:00",
+        "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "da84b546be10db9f1826"
       },
       {
         "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
@@ -3681,6 +3703,28 @@
       "id": "ec69ddaef62440c89ecb"
     },
     {
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-22T19:00:00+00:00",
+      "fetched_at": "2026-07-22T19:31:47+00:00",
+      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da84b546be10db9f1826"
+    },
+    {
       "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
       "url": "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4205,40 +4249,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2hm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-22T18:47:40.040+00:00",
-      "fetched_at": "2026-07-22T18:57:30+00:00",
-      "summary": "Time 2026-07-22 18:29:39 UTC 2026-07-22 18:29:39 UTC at epicenter Location 31.542°S 179.924°E Depth 346.44 km (215.27 mi)",
+      "published_at": "2026-07-22T19:00:00+00:00",
+      "fetched_at": "2026-07-22T19:31:47+00:00",
+      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI",
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "7df3e4302f2bb37ea191"
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da84b546be10db9f1826"
     }
   ],
   "source_errors": [],
