@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-22T20:31:29+00:00_
+_Generiert: 2026-07-22T20:54:54+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+85 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -221,6 +221,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **音楽理論がわからない？ ならば自分で教材を作ってしまおう。ChatGPTとGeminiによる自分専用教科書構築メソッド（CloseBox） | テクノエッジ TechnoEdge** — Score 12, observation — [Quelle](https://www.techno-edge.net/article/2026/07/22/5318.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-21T22:35:47+00:00`, fetched `2026-07-22T20:54:23+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「音楽理論は不要」「いや、わかっていた方がいい」などとネット上では繰り返し繰り返し議論が起きていて、そこになんとなく混ざりたい気もするけど、そのレベルの知識もない状態です。 最近ではプロのミュージシャンの方々と音楽の仕事をしている関係上、最低限の知識は持っておきたいですし。 知人でバークリー音楽院...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 96 km SSE of Akhiok, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okmwzn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-22T18:32:25.040+00:00`, fetched `2026-07-22T18:33:18+00:00`
@@ -283,15 +292,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab** — Score 11, observation — [Quelle](https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-21T23:27:45+00:00`, fetched `2026-07-22T00:51:30+00:00`
-  - Treffer: Hatena, hotentry, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: RansomHouseによる犯行声明の内容 RansomHouseがダークウェブ上に設けているリークサイトには、被害を主張する企業として株式会社ニチレイが掲載されました。掲載ページには、ニチレイが日本を代表する冷凍食品メーカーであり、温度管理物流のリーダーであるといった企業紹介文とともに、売上高4.7B$(約47億ドル)、従業...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **New Copilot usage metrics impact dashboard** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard)
   - Quelle: GitHub Changelog Atom / `rss`

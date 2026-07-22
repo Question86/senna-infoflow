@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-22T20:31:29+00:00_
+_Generated: 2026-07-22T20:54:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `85`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-22T20:31:29+00:00_
 - url: https://www.itmedia.co.jp/news/articles/2607/22/news056.html
 - summary: Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...
 
-### 7. M 4.9 - 96 km SSE of Akhiok, Alaska
+### 7. 音楽理論がわからない？ ならば自分で教材を作ってしまおう。ChatGPTとGeminiによる自分専用教科書構築メソッド（CloseBox） | テクノエッジ TechnoEdge
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-07-21T22:35:47+00:00`
+- url: https://www.techno-edge.net/article/2026/07/22/5318.html
+- summary: 「音楽理論は不要」「いや、わかっていた方がいい」などとネット上では繰り返し繰り返し議論が起きていて、そこになんとなく混ざりたい気もするけど、そのレベルの知識もない状態です。 最近ではプロのミュージシャンの方々と音楽の仕事をしている関係上、最低限の知識は持っておきたいですし。 知人でバークリー音楽院...
+
+### 8. M 4.9 - 96 km SSE of Akhiok, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-07-22T18:32:25.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okmwzn
 - summary: ShakeMap - IV DYFI? - II Time 2026-07-22 18:13:23 UTC 2026-07-22 18:13:23 UTC at epicenter Location 56.199°N 153.375°W Depth 16.20 km (10.07 mi)
-
-### 8. M 5.1 - 61 km SSW of San Pedro de Atacama, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-22T17:53:50.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9
-- summary: Time 2026-07-22 17:34:36 UTC 2026-07-22 17:34:36 UTC at epicenter Location 23.377°S 68.527°W Depth 108.73 km (67.56 mi)
 
 END OF DOCUMENT

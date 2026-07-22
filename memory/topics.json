@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-22T20:31:29+00:00",
+  "generated_at": "2026-07-22T20:54:54+00:00",
   "topics": {
     "ai": [
       {
@@ -386,6 +386,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
       },
       {
+        "title": "音楽理論がわからない？ ならば自分で教材を作ってしまおう。ChatGPTとGeminiによる自分専用教科書構築メソッド（CloseBox） | テクノエッジ TechnoEdge",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-21T22:35:47+00:00",
+        "relevance_score": 12,
+        "url": "https://www.techno-edge.net/article/2026/07/22/5318.html"
+      },
+      {
         "title": "M 4.9 - 96 km SSE of Akhiok, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-22T18:32:25.040+00:00",
@@ -426,13 +433,6 @@
         "published_at": "2026-07-22T18:47:40.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2hm"
-      },
-      {
-        "title": "M 4.7 - 89 km NW of Finschhafen, Papua New Guinea",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-22T11:21:28.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fu"
       }
     ]
   }
