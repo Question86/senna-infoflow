@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-23T05:01:52Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI is already inside the enterprise. Has security kept up in Asia?” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-07-23T06:12:07Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,35 @@
   ],
   "top_dynamics": [
     {
+      "title": "リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN32082029/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-23T14:00:00+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "株式会社リコーが提供する複数のプリンターおよび複合機のSSH通信機能にはアクセス制御不備の脆弱性が存在します。"
+    },
+    {
       "title": "AI is already inside the enterprise. Has security kept up in Asia?",
       "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T02:00:12+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -39,11 +63,37 @@
       "summary": "Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud applications and collaboration workflows. That shift is cre…"
     },
     {
+      "title": "[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-23T04:57:54+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, umSQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Cross-Site-Scripting-Angriffe durchzuführen."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 34.13,
+      "age_days": 34.18,
       "topics": [
         "ai"
       ],
@@ -62,17 +112,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.6 for 34.1d old signal",
+        "aging penalty -4.6 for 34.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-23T03:59:48+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か（1/2 ページ） 7月16日の午前中から昼前後の時間帯にかけて起きていたクレジットカードの大規模障害について、ビザ・ワールドワイド・ジャパンは傘下企業の米Cybersourceでのプログラム変更に起因するトラブルが原因だったというの..."
     },
     {
       "title": "The role of thought leadership in scaling beyond your first market",
       "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T01:30:05+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -99,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-23T02:59:47.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -124,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-23T02:12:05.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -145,11 +220,37 @@
       "summary": "Time 2026-07-23 01:56:00 UTC 2026-07-23 01:56:00 UTC at epicenter Location 23.110°S 68.987°W Depth 95.96 km (59.63 mi)"
     },
     {
+      "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/101446",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-23T01:00:37+00:00",
+      "age_days": 0.22,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際..."
+    },
+    {
       "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-23T03:10:56.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -173,7 +274,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-07-23T02:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -197,7 +298,7 @@
       "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T00:40:28+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "macro"
       ],
@@ -215,102 +316,6 @@
         "no strong comparative reason"
       ],
       "summary": "Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ..."
-    },
-    {
-      "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
-      "url": "https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-23T03:36:25+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Vietnam’s electric vehicle (EV) market is entering a more practical phase. After years of attention on vehicle launches, subsidies, and consumer adoption, the next question is becoming harder to ignore: where will all these cars and motorbikes charge, and who will pay to build the network? That question sits at the ce…"
-    },
-    {
-      "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
-      "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-23T04:40:41+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Bitcoin sits at US$66,188.15 this morning, down 0.65 per cent over the past 24 hours, and the number tells only a fraction of the story. The cryptocurrency pulled back from a one-month high near US$67,000 as WTI crude oil surged above US$85 and then climbed further toward US$94 per barrel amid an escalating US-Iran co…"
-    },
-    {
-      "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-23T01:03:40+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」 「もうせっかくなのでできることは何でもやるよｗ 最後まで盛り上がっていこう！」――9月17日にサービス終了予定のアバター通話アプリ「POPOPO」運営元のCTOであるMIRO（岩城進之介）氏は7月21日、同アプリをMac..."
-    },
-    {
-      "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
-      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-22T23:43:01+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証"
     }
   ],
   "read_order": [
@@ -322,9 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 6,
-      "quiet": 3
+      "strong": 6,
+      "watch": 6
     }
   }
 }
