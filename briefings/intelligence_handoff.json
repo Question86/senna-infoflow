@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-23T10:02:49Z",
+  "generated_at": "2026-07-23T10:54:55Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (Cockpit): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1052",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:55+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1049",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2458",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T06:42:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T02:00:12+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -114,11 +114,89 @@
       "summary": "Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud applications and collaboration workflows. That shift is cre…"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-23T09:57:57+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-23T09:57:57+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service-Bedingung führen oder eine Speicherbeschädigung verursachen können."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0421",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-23T09:57:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:56+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -144,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:55+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -170,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:55+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -196,7 +274,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2454",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T08:22:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -222,7 +300,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2443",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T06:07:54+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -242,83 +320,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Java SE ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-    },
-    {
-      "title": "[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-23T04:57:54+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, umSQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Cross-Site-Scripting-Angriffe durchzuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (acl): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2453",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-23T08:22:56+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen und Daten zu manipulieren."
-    },
-    {
-      "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
-      "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-23T06:30:32+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "For years, cybersecurity teams have told employees to look for the usual clues: awkward grammar, strange email addresses, urgent requests, and links that do not quite look right. Generative AI is making that advice less reliable. A new Mimecast study suggests that many organisations in Asia Pacific now expect attacker…"
     }
   ],
   "read_order": [
