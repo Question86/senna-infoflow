@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T03:37:18+00:00",
-  "run_id": "2026-07-23T03:37:18+00:00",
+  "generated_at": "2026-07-23T04:47:54+00:00",
+  "run_id": "2026-07-23T04:47:54+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 2,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 1,
-    "observe": 12,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -75,6 +75,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7e576d7d60c5ce80d867"
+      },
+      {
+        "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
+        "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T00:40:28+00:00",
+        "fetched_at": "2026-07-23T04:47:21+00:00",
+        "summary": "Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...",
+        "matched_keywords": [
+          "Content-Chance",
+          "Hatena",
+          "hotentry",
+          "Webentwicklung"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "90d71a32a2830446de07"
       },
       {
         "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
@@ -250,6 +273,42 @@
         "id": "6dadc1d06b53dda2febe"
       },
       {
+        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-23T04:40:41+00:00",
+        "fetched_at": "2026-07-23T04:47:21+00:00",
+        "summary": "Bitcoin sits at US$66,188.15 this morning, down 0.65 per cent over the past 24 hours, and the number tells only a fraction of the story. The cryptocurrency pulled back from a one-month high near US$67,000 as WTI crude oil surged above US$85 and then climbed further toward US$94 per barrel amid an escalating US-Iran conflict […] The post Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree appeared fir…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:energy_oil_gas_power_uranium"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "energy_oil_gas_power_uranium"
+        ],
+        "watchgraph_reasons": [
+          "energy_oil_gas_power_uranium: WTI"
+        ],
+        "market_context": [
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "CCJ",
+          "ENB",
+          "SU",
+          "EQNR",
+          "URA"
+        ],
+        "id": "f6d4542b0139699a9ad5"
+      },
+      {
         "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
         "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -400,6 +459,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7e576d7d60c5ce80d867"
+    },
+    {
+      "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
+      "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T00:40:28+00:00",
+      "fetched_at": "2026-07-23T04:47:21+00:00",
+      "summary": "Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...",
+      "matched_keywords": [
+        "Content-Chance",
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "90d71a32a2830446de07"
     },
     {
       "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
@@ -575,6 +657,42 @@
       "id": "6dadc1d06b53dda2febe"
     },
     {
+      "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+      "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-23T04:40:41+00:00",
+      "fetched_at": "2026-07-23T04:47:21+00:00",
+      "summary": "Bitcoin sits at US$66,188.15 this morning, down 0.65 per cent over the past 24 hours, and the number tells only a fraction of the story. The cryptocurrency pulled back from a one-month high near US$67,000 as WTI crude oil surged above US$85 and then climbed further toward US$94 per barrel amid an escalating US-Iran conflict […] The post Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree appeared fir…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:energy_oil_gas_power_uranium"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "energy_oil_gas_power_uranium"
+      ],
+      "watchgraph_reasons": [
+        "energy_oil_gas_power_uranium: WTI"
+      ],
+      "market_context": [
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "CCJ",
+        "ENB",
+        "SU",
+        "EQNR",
+        "URA"
+      ],
+      "id": "f6d4542b0139699a9ad5"
+    },
+    {
       "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -681,118 +799,63 @@
   ],
   "new_findings": [
     {
-      "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
-      "url": "https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-23T03:36:25+00:00",
-      "fetched_at": "2026-07-23T03:36:49+00:00",
-      "summary": "Vietnam’s electric vehicle (EV) market is entering a more practical phase. After years of attention on vehicle launches, subsidies, and consumer adoption, the next question is becoming harder to ignore: where will all these cars and motorbikes charge, and who will pay to build the network? That question sits at the centre of Grab’s latest […] The post Grab invests in EBOOST as Vietnam’s EV charging race shifts into…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "81221dd4043f614fef80"
-    },
-    {
-      "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-23T03:10:56.040+00:00",
-      "fetched_at": "2026-07-23T03:36:49+00:00",
-      "summary": "Time 2026-07-23 02:55:40 UTC 2026-07-23 02:55:40 UTC at epicenter Location 9.660°S 79.074°W Depth 62.20 km (38.65 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "c5d757be4b70a6d8cbca"
-    },
-    {
-      "title": "M 4.8 - 33 km NNW of El Cardo, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-23T02:59:47.040+00:00",
-      "fetched_at": "2026-07-23T03:36:49+00:00",
-      "summary": "Time 2026-07-23 02:38:25 UTC 2026-07-23 02:38:25 UTC at epicenter Location 16.310°S 72.802°W Depth 96.29 km (59.83 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "1883ed72da9e4462a9a5"
-    },
-    {
-      "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
+      "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
+      "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T01:03:40+00:00",
-      "fetched_at": "2026-07-23T03:36:49+00:00",
-      "summary": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」 「もうせっかくなのでできることは何でもやるよｗ 最後まで盛り上がっていこう！」――9月17日にサービス終了予定のアバター通話アプリ「POPOPO」運営元のCTOであるMIRO（岩城進之介）氏は7月21日、同アプリをMac...",
+      "published_at": "2026-07-23T00:40:28+00:00",
+      "fetched_at": "2026-07-23T04:47:21+00:00",
+      "summary": "Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...",
       "matched_keywords": [
+        "Content-Chance",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Webentwicklung"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b0684c769c04c9987626"
+      "id": "90d71a32a2830446de07"
+    },
+    {
+      "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+      "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-23T04:40:41+00:00",
+      "fetched_at": "2026-07-23T04:47:21+00:00",
+      "summary": "Bitcoin sits at US$66,188.15 this morning, down 0.65 per cent over the past 24 hours, and the number tells only a fraction of the story. The cryptocurrency pulled back from a one-month high near US$67,000 as WTI crude oil surged above US$85 and then climbed further toward US$94 per barrel amid an escalating US-Iran conflict […] The post Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree appeared fir…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:energy_oil_gas_power_uranium"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "energy_oil_gas_power_uranium"
+      ],
+      "watchgraph_reasons": [
+        "energy_oil_gas_power_uranium: WTI"
+      ],
+      "market_context": [
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "CCJ",
+        "ENB",
+        "SU",
+        "EQNR",
+        "URA"
+      ],
+      "id": "f6d4542b0139699a9ad5"
     }
   ],
   "source_errors": [],

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T03:37:18+00:00",
+  "generated_at": "2026-07-23T04:47:54+00:00",
   "topics": {
     "ai": [
       {
@@ -52,6 +52,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T00:40:28+00:00",
+        "relevance_score": 13,
+        "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html"
+      },
       {
         "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
         "source": "e27 Asia Startup and Tech Feed",
@@ -109,6 +116,15 @@
         "published_at": "2026-07-22T04:46:34+00:00",
         "relevance_score": 5,
         "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T04:40:41+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
       }
     ]
   }

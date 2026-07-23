@@ -45,6 +45,29 @@
     "id": "7e576d7d60c5ce80d867"
   },
   {
+    "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
+    "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T00:40:28+00:00",
+    "fetched_at": "2026-07-23T04:47:21+00:00",
+    "summary": "Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...",
+    "matched_keywords": [
+      "Content-Chance",
+      "Hatena",
+      "hotentry",
+      "Webentwicklung"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "90d71a32a2830446de07"
+  },
+  {
     "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
     "url": "https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -216,6 +239,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6dadc1d06b53dda2febe"
+  },
+  {
+    "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+    "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-23T04:40:41+00:00",
+    "fetched_at": "2026-07-23T04:47:21+00:00",
+    "summary": "Bitcoin sits at US$66,188.15 this morning, down 0.65 per cent over the past 24 hours, and the number tells only a fraction of the story. The cryptocurrency pulled back from a one-month high near US$67,000 as WTI crude oil surged above US$85 and then climbed further toward US$94 per barrel amid an escalating US-Iran conflict […] The post Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree appeared fir…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:energy_oil_gas_power_uranium"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "energy_oil_gas_power_uranium"
+    ],
+    "watchgraph_reasons": [
+      "energy_oil_gas_power_uranium: WTI"
+    ],
+    "market_context": [
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "CCJ",
+      "ENB",
+      "SU",
+      "EQNR",
+      "URA"
+    ],
+    "id": "f6d4542b0139699a9ad5"
   },
   {
     "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
