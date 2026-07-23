@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T09:21:30+00:00",
+  "generated_at": "2026-07-23T10:10:00+00:00",
   "topics": {
     "ai": [
       {
@@ -40,11 +40,25 @@
         "url": "https://jbpress.ismedia.jp/articles/-/96058"
       },
       {
+        "title": "Fed up with Big Tech, communities turn to data collectives for control",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-23T10:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "The end of headcount as a success metric: How AI is redefining scale",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-23T01:00:07+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/"
+      },
+      {
+        "title": "Omio secures US$10M to expand multimodal travel booking in Japan, SEA",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T09:17:33+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/"
       },
       {
         "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
@@ -59,13 +73,6 @@
         "published_at": "2026-07-23T03:04:31+00:00",
         "relevance_score": 8,
         "url": "https://www.cnn.co.jp/tech/35250893.html"
-      },
-      {
-        "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-02-24T01:43:24+00:00",
-        "relevance_score": 4,
-        "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions"
       }
     ],
     "security": [
@@ -75,6 +82,34 @@
         "published_at": "2026-07-23T02:00:12+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T10:02:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2481"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T09:57:57+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T09:57:57+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T09:57:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0421"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -110,37 +145,16 @@
         "published_at": "2026-07-23T08:22:56+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2453"
-      },
-      {
-        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T06:30:32+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
-      },
-      {
-        "title": "ISC BINDにおける複数の脆弱性（2026年7月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-23T15:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU97496543/"
-      },
-      {
-        "title": "バックアップソフトウェア「Duplicati」における不適切な権限割り当てに関する脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-23T15:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98636554/"
-      },
-      {
-        "title": "Analog Way製メディアサーバー「Picturall Quad Compact Mark II」におけるローカル権限昇格の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-23T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98875819/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T10:02:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2481"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service oder Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
@@ -154,6 +168,13 @@
         "published_at": "2026-07-23T06:30:32+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
+      },
+      {
+        "title": "[NEU] [mittel] ImageMagick: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T10:02:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2480"
       },
       {
         "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
@@ -214,23 +235,21 @@
         "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/"
       }
     ],
-    "github": [
+    "general": [
       {
-        "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
-        "source": "JPCERT/CC English Blog Atom",
-        "published_at": "2026-07-23T02:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html"
+        "title": "M 5.1 - 85 km SE of Tatsugō, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T09:42:03.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3"
       },
       {
-        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-23T07:13:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
-      }
-    ],
-    "general": [
+        "title": "M 5.1 - 92 km SE of Atka, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T09:52:17.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5"
+      },
       {
         "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -281,25 +300,27 @@
         "url": "https://www.digital.go.jp/policies/digital_promotion_staff/community"
       },
       {
-        "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
+        "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T03:59:48+00:00",
+        "published_at": "2026-07-23T08:30:39+00:00",
         "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html"
+        "url": "https://togetter.com/li/2723866"
+      }
+    ],
+    "github": [
+      {
+        "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
+        "source": "JPCERT/CC English Blog Atom",
+        "published_at": "2026-07-23T02:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html"
       },
       {
-        "title": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T02:34:13+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/news/2127137.html"
-      },
-      {
-        "title": "スクラムの「うまくいかない」はなぜ？ 組織や関係性に隠れた課題を探る - Agile Journey",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T01:32:12+00:00",
-        "relevance_score": 5,
-        "url": "https://agilejourney.uzabase.com/entry/2026/07/23/103000"
+        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-23T07:13:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
       }
     ]
   }

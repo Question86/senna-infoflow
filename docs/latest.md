@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T09:21:30+00:00_
+_Generiert: 2026-07-23T10:10:00+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+58 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -30,32 +30,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088)
+- **[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2481)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-23T09:02:56+00:00`, fetched `2026-07-23T09:20:51+00:00`
+  - Zeit: published `2026-07-23T10:02:53+00:00`, fetched `2026-07-23T10:09:29+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise DoS-Angriffe, die Manipulation oder Offenlegung von Daten sowie die Umgehung von Sicherheitsmaßnahmen.
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063)
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-23T09:02:55+00:00`, fetched `2026-07-23T09:20:51+00:00`
+  - Zeit: published `2026-07-23T09:57:57+00:00`, fetched `2026-07-23T10:09:29+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Red Hat Enterprise Linux (Cockpit): Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1052)
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-23T09:02:55+00:00`, fetched `2026-07-23T09:20:51+00:00`
+  - Zeit: published `2026-07-23T09:57:57+00:00`, fetched `2026-07-23T10:09:29+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service-Bedingung führen oder eine Speicherbeschädigung verursachen können.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy** — Score 16, observation — [Quelle](https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: When Applied Materials brought ASTRA, its Applied Startup Technology & Research Accelerator, to Singapore for the first time this year, it marked more than a regional expansion. It signalled that Southeast Asia’s deeptech ecosystem has matured enough to bridge the gap between breakthrough technology and industrial deployment, a challenge now defining the AI era. Behind […] The post Corporate VC vs financial VC: What…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 85 km SE of Tatsugō, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-23T09:42:03.040+00:00`, fetched `2026-07-23T10:09:29+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-23 09:22:22 UTC 2026-07-23 09:22:22 UTC at epicenter Location 27.881°N 130.189°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI phishing is turning trust into APAC cybersecurity’s weakest link** — Score 15, risk — [Quelle](https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-23T06:30:32+00:00`, fetched `2026-07-23T06:40:06+00:00`
@@ -150,6 +159,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 92 km SE of Atka, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-23T09:52:17.040+00:00`, fetched `2026-07-23T10:09:29+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-07-23 09:30:18 UTC 2026-07-23 09:30:18 UTC at epicenter Location 51.604°N 173.248°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Atlassian: Schadcode-Lücken bedrohen Bamboo und Bitbucket** — Score 11, observation — [Quelle](https://www.heise.de/news/Atlassian-Schadcode-Luecken-bedrohen-Bamboo-und-Bitbucket-11375008.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-23T09:43:00.000+00:00`, fetched `2026-07-23T10:09:29+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Wichtige Sicherheitsupdates schließen mehrere Schwachstellen in verschiedenen Anwendungen von Atlassian.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 78 km WSW of Puerto Casma, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-23T03:10:56.040+00:00`, fetched `2026-07-23T03:36:49+00:00`
@@ -168,15 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-23 02:38:25 UTC 2026-07-23 02:38:25 UTC at epicenter Location 16.310°S 72.802°W Depth 96.29 km (59.83 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 72 km S of Calama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-23T02:12:05.040+00:00`, fetched `2026-07-23T02:21:46+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-23 01:56:00 UTC 2026-07-23 01:56:00 UTC at epicenter Location 23.110°S 68.987°W Depth 95.96 km (59.63 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Fed up with Big Tech, communities turn to data collectives for control** — Score 10, observation — [Quelle](https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-23T10:00:00+00:00`, fetched `2026-07-23T10:09:29+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Macro/Policy (+6.2); recent (+1.0)
+  - Kurz: Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Deeptech and a fracturing world: Why Southeast Asia needs a new playbook** — Score 10, observation — [Quelle](https://e27.co/deeptech-and-a-fracturing-world-why-southeast-asia-needs-a-new-playbook-20260723/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-23T05:06:31+00:00`, fetched `2026-07-23T05:47:57+00:00`
@@ -222,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-23T06:00:00+00:00`, fetched `2026-07-23T06:40:06+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -241,7 +259,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/

@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-23T09:21:30+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-07-23T10:10:00+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 11,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
-    "medium": 21,
-    "observe": 26
+    "medium": 27,
+    "observe": 31
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "AI is already inside the enterprise. Has security kept up in Asia?",
@@ -35,23 +35,23 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-23T09:02:56+00:00",
+      "published_at": "2026-07-23T10:02:53+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise DoS-Angriffe, die Manipulation oder Offenlegung von Daten sowie die Umgehung von Sicherheitsmaßnahmen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2481",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.",
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-23T09:02:55+00:00",
+      "published_at": "2026-07-23T09:57:57+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
       "section": "medium"
     },
     {
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “AI is already inside the enterprise. Has security kept up in Asia?” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=40.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "AI is already inside the enterprise. Has security kept up in Asia?",
-        "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T02:00:12+00:00",
-        "age_days": 0.34,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 40.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security, cloud",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud applications and collaboration workflows. That shift is cre…"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T09:02:56+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, 10",
-          "security high-signal: angriffe, 10"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise DoS-Angriffe, die Manipulation oder Offenlegung von Daten sowie die Umgehung von Sicherheitsmaßnahmen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T09:02:55+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Cockpit): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1052",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T09:02:55+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "security high-signal: code, 10"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service oder Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1049",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T09:02:54+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "security high-signal: code, 10"
-        ],
-        "summary": "Ein Angreifer mit physischem Zugriff kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder möglicherweise beliebigen Code auszuführen oder Informationen offenzulegen."
-      }
-    ]
-  }
+  ]
 }

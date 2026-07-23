@@ -46,6 +46,102 @@
     "id": "ca0a9f3cd522403a30f4"
   },
   {
+    "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2481",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-23T10:02:53+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7589000353b5660a4974"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:57:57+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7113d40f9c153e14dd40"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:57:57+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service-Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e45d9aa8d69faefa4a6c"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0421",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:57:56+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e51093320a4322265389"
+  },
+  {
     "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088",
     "source": "BSI CERT-Bund Security Advisories",
@@ -190,6 +286,43 @@
     "id": "e897a4080655d1fce2ad"
   },
   {
+    "title": "M 5.1 - 85 km SE of Tatsugō, Japan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:42:03.040+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Time 2026-07-23 09:22:22 UTC 2026-07-23 09:22:22 UTC at epicenter Location 27.881°N 130.189°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "c4cebcea87c95854022a"
+  },
+  {
     "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
     "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -298,6 +431,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b4c7f6b57c1c0bbfd8c5"
+  },
+  {
+    "title": "[NEU] [mittel] ImageMagick: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2480",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-23T10:02:52+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ImageMagick ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4c0a95a56bb9c4e34976"
   },
   {
     "title": "[UPDATE] [mittel] GNU tar: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -593,6 +749,64 @@
     "id": "0fe1e12abb0872753bf4"
   },
   {
+    "title": "M 5.1 - 92 km SE of Atka, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:52:17.040+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "ShakeMap - III Time 2026-07-23 09:30:18 UTC 2026-07-23 09:30:18 UTC at epicenter Location 51.604°N 173.248°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f2b278a4487311bd9119"
+  },
+  {
+    "title": "Atlassian: Schadcode-Lücken bedrohen Bamboo und Bitbucket",
+    "url": "https://www.heise.de/news/Atlassian-Schadcode-Luecken-bedrohen-Bamboo-und-Bitbucket-11375008.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:43:00.000+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen in verschiedenen Anwendungen von Atlassian.",
+    "matched_keywords": [
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d350b42edd36530380f"
+  },
+  {
     "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -701,6 +915,27 @@
     "id": "ac6a636db32017659376"
   },
   {
+    "title": "Fed up with Big Tech, communities turn to data collectives for control",
+    "url": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-23T10:00:00+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Macro/Policy (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "90c55c6b5b3f1524900f"
+  },
+  {
     "title": "Deeptech and a fracturing world: Why Southeast Asia needs a new playbook",
     "url": "https://e27.co/deeptech-and-a-fracturing-world-why-southeast-asia-needs-a-new-playbook-20260723/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -764,6 +999,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6dadc1d06b53dda2febe"
+  },
+  {
+    "title": "Omio secures US$10M to expand multimodal travel booking in Japan, SEA",
+    "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:17:33+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "For years, online travel has made flights and hotels relatively easy to compare. The messier part begins after touchdown: finding the right train, coach, ferry or local connection, often across operators that do not share booking systems, languages or payment flows. That gap is where Berlin-headquartered Omio is placing its next big Asia bet. Also […] The post Omio secures US$10M to expand multimodal travel booking…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: Berlin (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "319cae36e5debd5f7373"
   },
   {
     "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
@@ -944,6 +1199,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ca1928be52b5a778d8e"
+  },
+  {
+    "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
+    "url": "https://togetter.com/li/2723866",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T08:30:39+00:00",
+    "fetched_at": "2026-07-23T10:09:29+00:00",
+    "summary": "オレンジ🍊 @orange_3134 VRChatの世界を「3Dで覗き込める」ディスプレイを作りました！！！！🤯💣💥 これ実物ガチで感動するから見てほしい！！！😭 VketReal T04 ブースにこれ持っていきます！ VRC Avatar Collectionさんと共同企画をやるよ！題して「とびだせVRChat!!」 pic.x.com/wYITROjS5V 2026-07-20 08:00:02 オ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "979a1661ff3b0c8651a9"
   },
   {
     "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
