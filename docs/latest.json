@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T10:10:00+00:00",
-  "run_id": "2026-07-23T10:10:00+00:00",
+  "generated_at": "2026-07-23T10:54:37+00:00",
+  "run_id": "2026-07-23T10:54:37+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 11,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 6,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
-    "medium": 27,
-    "observe": 31,
+    "medium": 29,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ca0a9f3cd522403a30f4"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3289",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-23T10:42:53+00:00",
+        "fetched_at": "2026-07-23T10:54:06+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3f38d4bdd6c2f91aad51"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2173",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-23T10:42:53+00:00",
+        "fetched_at": "2026-07-23T10:54:06+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e6c7bf32581d980a249c"
       },
       {
         "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
@@ -672,6 +720,44 @@
     ],
     "observe": [
       {
+        "title": "M 5.0 - 38 km SSE of Spearman, Texas",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-23T10:52:10.040+00:00",
+        "fetched_at": "2026-07-23T10:54:06+00:00",
+        "summary": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-07-23 10:21:43 UTC 2026-07-23 10:21:43 UTC at epicenter Location 35.902°N 100.976°W Depth 5.69 km (3.53 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4f76f07bee22e43bea5f"
+      },
+      {
         "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
         "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html",
         "source": "JPCERT/CC English Blog Atom",
@@ -1053,6 +1139,28 @@
         "id": "319cae36e5debd5f7373"
       },
       {
+        "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T04:39:27+00:00",
+        "fetched_at": "2026-07-23T10:54:06+00:00",
+        "summary": "Google Cloudは2026年6月12日（米国時間）、大規模言語モデル（LLM）を活用するAIエージェントが必要とするナレッジを表現するためのオープンフォーマット「Open Knowledge Format」（OKF）のバージョン0.1を公開した。 OKFは、YAMLフロントマター（YAML形式のメタデータ）を持つMarkdownファイルのディレクトリとしてナ...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7ba1e2f62e17000ad838"
+      },
+      {
         "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
         "url": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1095,6 +1203,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a61bbcd3cda8891c388"
+      },
+      {
+        "title": "Rechteausweitungslücke in Ubuntu durch snap",
+        "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-23T10:28:00.000+00:00",
+        "fetched_at": "2026-07-23T10:54:06+00:00",
+        "summary": "Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "550ce7dc17e85036d922"
       },
       {
         "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
@@ -1252,6 +1380,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "979a1661ff3b0c8651a9"
+      },
+      {
+        "title": "PayPayとセブン-イレブン、顧客ID統合か 1億超のID基盤誕生へ 複数報道",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/23/news104.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T06:18:39+00:00",
+        "fetched_at": "2026-07-23T10:54:06+00:00",
+        "summary": "スマートフォン決済大手のPayPayとセブン＆アイ・ホールディングス（HD）が、顧客データを統合する方向で最終調整に入ったと、複数メディアが7月23日に報じた。日本経済新聞によると、実現すればID数1億超と国内最大級のポイント経済圏が誕生するという。 朝日新聞によると、セブン＆アイHDが運営する共通会員ID「7iD」...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5d343af148d24ce1d000"
       },
       {
         "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
@@ -1468,6 +1617,54 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ca0a9f3cd522403a30f4"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3289",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-23T10:42:53+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f38d4bdd6c2f91aad51"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2173",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-23T10:42:53+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e6c7bf32581d980a249c"
     },
     {
       "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
@@ -2064,6 +2261,44 @@
       "id": "4eb9ad9f676e351f7ebd"
     },
     {
+      "title": "M 5.0 - 38 km SSE of Spearman, Texas",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-23T10:52:10.040+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-07-23 10:21:43 UTC 2026-07-23 10:21:43 UTC at epicenter Location 35.902°N 100.976°W Depth 5.69 km (3.53 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4f76f07bee22e43bea5f"
+    },
+    {
       "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
       "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html",
       "source": "JPCERT/CC English Blog Atom",
@@ -2445,6 +2680,28 @@
       "id": "319cae36e5debd5f7373"
     },
     {
+      "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T04:39:27+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Google Cloudは2026年6月12日（米国時間）、大規模言語モデル（LLM）を活用するAIエージェントが必要とするナレッジを表現するためのオープンフォーマット「Open Knowledge Format」（OKF）のバージョン0.1を公開した。 OKFは、YAMLフロントマター（YAML形式のメタデータ）を持つMarkdownファイルのディレクトリとしてナ...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ba1e2f62e17000ad838"
+    },
+    {
       "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
       "url": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2487,6 +2744,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3a61bbcd3cda8891c388"
+    },
+    {
+      "title": "Rechteausweitungslücke in Ubuntu durch snap",
+      "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-23T10:28:00.000+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "550ce7dc17e85036d922"
     },
     {
       "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
@@ -2644,6 +2921,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "979a1661ff3b0c8651a9"
+    },
+    {
+      "title": "PayPayとセブン-イレブン、顧客ID統合か 1億超のID基盤誕生へ 複数報道",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news104.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T06:18:39+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "スマートフォン決済大手のPayPayとセブン＆アイ・ホールディングス（HD）が、顧客データを統合する方向で最終調整に入ったと、複数メディアが7月23日に報じた。日本経済新聞によると、実現すればID数1億超と国内最大級のポイント経済圏が誕生するという。 朝日新聞によると、セブン＆アイHDが運営する共通会員ID「7iD」...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5d343af148d24ce1d000"
     },
     {
       "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
@@ -2815,13 +3113,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2481",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3289",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-23T10:02:53+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.",
+      "published_at": "2026-07-23T10:42:53+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2836,16 +3134,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7589000353b5660a4974"
+      "id": "3f38d4bdd6c2f91aad51"
     },
     {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2173",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-23T09:57:57+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "published_at": "2026-07-23T10:42:53+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2860,138 +3158,31 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7113d40f9c153e14dd40"
+      "id": "e6c7bf32581d980a249c"
     },
     {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-23T09:57:57+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service-Bedingung führen oder eine Speicherbeschädigung verursachen können.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e45d9aa8d69faefa4a6c"
-    },
-    {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0421",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-23T09:57:56+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e51093320a4322265389"
-    },
-    {
-      "title": "M 5.1 - 85 km SE of Tatsugō, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3",
+      "title": "M 5.0 - 38 km SSE of Spearman, Texas",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-23T09:42:03.040+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Time 2026-07-23 09:22:22 UTC 2026-07-23 09:22:22 UTC at epicenter Location 27.881°N 130.189°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "c4cebcea87c95854022a"
-    },
-    {
-      "title": "[NEU] [mittel] ImageMagick: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2480",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-23T10:02:52+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ImageMagick ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4c0a95a56bb9c4e34976"
-    },
-    {
-      "title": "M 5.1 - 92 km SE of Atka, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-23T09:52:17.040+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "ShakeMap - III Time 2026-07-23 09:30:18 UTC 2026-07-23 09:30:18 UTC at epicenter Location 51.604°N 173.248°W Depth 35.00 km (21.75 mi)",
+      "published_at": "2026-07-23T10:52:10.040+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-07-23 10:21:43 UTC 2026-07-23 10:21:43 UTC at epicenter Location 35.902°N 100.976°W Depth 5.69 km (3.53 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
+        "PAGER",
         "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -3005,78 +3196,58 @@
         "HD",
         "LOW"
       ],
-      "id": "f2b278a4487311bd9119"
+      "id": "4f76f07bee22e43bea5f"
     },
     {
-      "title": "Atlassian: Schadcode-Lücken bedrohen Bamboo und Bitbucket",
-      "url": "https://www.heise.de/news/Atlassian-Schadcode-Luecken-bedrohen-Bamboo-und-Bitbucket-11375008.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-23T09:43:00.000+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen in verschiedenen Anwendungen von Atlassian.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7d350b42edd36530380f"
-    },
-    {
-      "title": "Fed up with Big Tech, communities turn to data collectives for control",
-      "url": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-23T10:00:00+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Macro/Policy (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "90c55c6b5b3f1524900f"
-    },
-    {
-      "title": "Omio secures US$10M to expand multimodal travel booking in Japan, SEA",
-      "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-23T09:17:33+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "For years, online travel has made flights and hotels relatively easy to compare. The messier part begins after touchdown: finding the right train, coach, ferry or local connection, often across operators that do not share booking systems, languages or payment flows. That gap is where Berlin-headquartered Omio is placing its next big Asia bet. Also […] The post Omio secures US$10M to expand multimodal travel booking…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: Berlin (+2.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "319cae36e5debd5f7373"
-    },
-    {
-      "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
-      "url": "https://togetter.com/li/2723866",
+      "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T08:30:39+00:00",
-      "fetched_at": "2026-07-23T10:09:29+00:00",
-      "summary": "オレンジ🍊 @orange_3134 VRChatの世界を「3Dで覗き込める」ディスプレイを作りました！！！！🤯💣💥 これ実物ガチで感動するから見てほしい！！！😭 VketReal T04 ブースにこれ持っていきます！ VRC Avatar Collectionさんと共同企画をやるよ！題して「とびだせVRChat!!」 pic.x.com/wYITROjS5V 2026-07-20 08:00:02 オ...",
+      "published_at": "2026-07-23T04:39:27+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Google Cloudは2026年6月12日（米国時間）、大規模言語モデル（LLM）を活用するAIエージェントが必要とするナレッジを表現するためのオープンフォーマット「Open Knowledge Format」（OKF）のバージョン0.1を公開した。 OKFは、YAMLフロントマター（YAML形式のメタデータ）を持つMarkdownファイルのディレクトリとしてナ...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ba1e2f62e17000ad838"
+    },
+    {
+      "title": "Rechteausweitungslücke in Ubuntu durch snap",
+      "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-23T10:28:00.000+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "550ce7dc17e85036d922"
+    },
+    {
+      "title": "PayPayとセブン-イレブン、顧客ID統合か 1億超のID基盤誕生へ 複数報道",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news104.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T06:18:39+00:00",
+      "fetched_at": "2026-07-23T10:54:06+00:00",
+      "summary": "スマートフォン決済大手のPayPayとセブン＆アイ・ホールディングス（HD）が、顧客データを統合する方向で最終調整に入ったと、複数メディアが7月23日に報じた。日本経済新聞によると、実現すればID数1億超と国内最大級のポイント経済圏が誕生するという。 朝日新聞によると、セブン＆アイHDが運営する共通会員ID「7iD」...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3088,7 +3259,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "979a1661ff3b0c8651a9"
+      "id": "5d343af148d24ce1d000"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T10:10:00+00:00_
+_Generiert: 2026-07-23T10:54:37+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+64 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -83,6 +83,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3289)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-23T10:42:53+00:00`, fetched `2026-07-23T10:54:06+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2173)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-23T10:42:53+00:00`, fetched `2026-07-23T10:54:06+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2481)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-23T10:02:53+00:00`, fetched `2026-07-23T10:09:29+00:00`
@@ -91,24 +109,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-23T09:57:57+00:00`, fetched `2026-07-23T10:09:29+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-23T09:57:57+00:00`, fetched `2026-07-23T10:09:29+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service-Bedingung führen oder eine Speicherbeschädigung verursachen können.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy** — Score 16, observation — [Quelle](https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.0 - 38 km SSE of Spearman, Texas** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-23T10:52:10.040+00:00`, fetched `2026-07-23T10:54:06+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-07-23 10:21:43 UTC 2026-07-23 10:21:43 UTC at epicenter Location 35.902°N 100.976°W Depth 5.69 km (3.53 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **TSUBAME Report Overflow (Jan-Mar 2026)** — Score 13, observation — [Quelle](https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html)
   - Quelle: JPCERT/CC English Blog Atom / `rss`
   - Zeit: published `2026-07-23T02:00:00+00:00`, fetched `2026-07-23T02:21:46+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-23 02:55:40 UTC 2026-07-23 02:55:40 UTC at epicenter Location 9.660°S 79.074°W Depth 62.20 km (38.65 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 33 km NNW of El Cardo, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-23T02:59:47.040+00:00`, fetched `2026-07-23T03:36:49+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-23 02:38:25 UTC 2026-07-23 02:38:25 UTC at epicenter Location 16.310°S 72.802°W Depth 96.29 km (59.83 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Fed up with Big Tech, communities turn to data collectives for control** — Score 10, observation — [Quelle](https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-23T10:00:00+00:00`, fetched `2026-07-23T10:09:29+00:00`
@@ -266,14 +266,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Deep tech in a fractured world needs something very different. For much of the last 30 years, the working assumption behind technology and capital was simple: the world was converging into one increasingly integrated market. If you could build a product that scaled, global demand and global capital would be there to meet you. That […] The post Deeptech and a fracturing world: Why Southeast Asia needs a new playbook…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言** — Score 8, observation — [Quelle](https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/)
+- **Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手** — Score 8, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-23T03:21:47+00:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Zeit: published `2026-07-23T04:39:27+00:00`, fetched `2026-07-23T10:54:06+00:00`
   - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 中国企業のMoonshot AIは日本時間の2026年7月17日に高性能AIモデル「Kimi K3」をリリースしました。このKimi K3について、ホワイトハウス科学技術政策局のマイケル・クラツィオス局長が「AnthropicのClaude Fableを蒸留したという情報をつかんだ」と発表しました。 We have information that Moonshot AI distilled Anth...
+  - Kurz: Google Cloudは2026年6月12日（米国時間）、大規模言語モデル（LLM）を活用するAIエージェントが必要とするナレッジを表現するためのオープンフォーマット「Open Knowledge Format」（OKF）のバージョン0.1を公開した。 OKFは、YAMLフロントマター（YAML形式のメタデータ）を持つMarkdownファイルのディレクトリとしてナ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Rechteausweitungslücke in Ubuntu durch snap** — Score 7, observation — [Quelle](https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-23T10:28:00.000+00:00`, fetched `2026-07-23T10:54:06+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke** — Score 7, observation — [Quelle](https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html)
   - Quelle: heise Security Alerts / `rss`
@@ -292,15 +301,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 政府情報システムにおける利用者満足度評価の導入について掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber_resources)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-23T06:00:00+00:00`, fetched `2026-07-23T06:40:06+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
