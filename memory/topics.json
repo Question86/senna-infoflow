@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T19:50:03+00:00",
+  "generated_at": "2026-07-23T20:18:24+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
       },
       {
+        "title": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-23T19:47:58+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent"
+      },
+      {
         "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-22T08:40:52+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-23T09:17:33+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/"
-      },
-      {
-        "title": "Agent automation controls in GitHub Issues in public preview",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-23T15:30:29+00:00",
-        "relevance_score": 8,
-        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview"
       }
     ],
     "security": [
@@ -154,6 +154,13 @@
         "published_at": "2026-07-23T16:00:00+00:00",
         "relevance_score": 18,
         "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/"
+      },
+      {
+        "title": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-23T19:47:58+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent"
       },
       {
         "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
@@ -358,6 +365,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
       },
       {
+        "title": "M 4.5 - 275 km E of Levuka, Fiji",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T20:15:49.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2up"
+      },
+      {
         "title": "M 4.7 - 150 km SSE of Lata, Solomon Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-23T14:38:00.040+00:00",
@@ -370,13 +384,6 @@
         "published_at": "2026-07-23T13:33:06.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p7"
-      },
-      {
-        "title": "M 4.9 - Pagan region, Northern Mariana Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T12:34:38.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p1"
       }
     ]
   }
