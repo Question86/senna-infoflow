@@ -1,0 +1,229 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Question86/senna-infoflow/schemas/economic_event.schema.json",
+  "title": "Senna Infoflow Economic Event",
+  "type": "object",
+  "required": [
+    "event_id",
+    "title",
+    "first_seen_at",
+    "last_seen_at",
+    "status",
+    "features",
+    "forecast",
+    "observations",
+    "monetary_evidence",
+    "outcome"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "pattern": "^evt_[0-9a-f]{20}$"
+    },
+    "event_key": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "first_seen_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "last_seen_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "dormant",
+        "stagnated",
+        "closed"
+      ]
+    },
+    "features": {
+      "type": "object",
+      "required": [
+        "event_classes",
+        "capital_channels"
+      ],
+      "properties": {
+        "event_classes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "capital_channels": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "regions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "watchgraph_modules": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "source_classes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "cross_source_confirmed": {
+          "type": "boolean"
+        }
+      }
+    },
+    "forecast": {
+      "type": "object",
+      "required": [
+        "lifetime_monetary_weight_usd",
+        "confidence",
+        "method"
+      ],
+      "properties": {
+        "lifetime_monetary_weight_usd": {
+          "type": "object",
+          "required": [
+            "p10",
+            "p50",
+            "p90"
+          ],
+          "properties": {
+            "p10": {
+              "type": "number",
+              "minimum": 0
+            },
+            "p50": {
+              "type": "number",
+              "minimum": 0
+            },
+            "p90": {
+              "type": "number",
+              "minimum": 0
+            }
+          }
+        },
+        "ranking_log10_p50": {
+          "type": "number"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "method": {
+          "type": "string"
+        }
+      }
+    },
+    "observations": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "monetary_evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "observed_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "component": {
+            "enum": [
+              "real_resource",
+              "valuation",
+              "capital_allocation",
+              "transfers"
+            ]
+          },
+          "gross_usd": {
+            "type": "number",
+            "minimum": 0
+          },
+          "net_usd": {
+            "type": "number"
+          },
+          "attribution_probability": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "overlap_group": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "outcome": {
+      "type": "object",
+      "required": [
+        "stagnation_reached"
+      ],
+      "properties": {
+        "gross_attributed_usd": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "net_attributed_usd": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "stagnation_reached": {
+          "type": "boolean"
+        },
+        "last_material_delta_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}
