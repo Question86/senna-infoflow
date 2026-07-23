@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T05:48:29+00:00_
+_Generated: 2026-07-23T06:40:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `32`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-23T05:48:29+00:00_
 - url: https://forbesjapan.com/articles/detail/101446
 - summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
 
-### 3. リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性
+### 3. AI phishing is turning trust into APAC cybersecurity’s weakest link
+- source: e27 Asia Startup and Tech Feed
+- score: `15`
+- published: `2026-07-23T06:30:32+00:00`
+- url: https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/
+- summary: For years, cybersecurity teams have told employees to look for the usual clues: awkward grammar, strange email addresses, urgent requests, and links that do not quite look right. Generative AI is making that advice less reliable. A new Mimecast study suggests…
+
+### 4. ISC BINDにおける複数の脆弱性（2026年7月）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-07-23T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN32082029/
-- summary: 株式会社リコーが提供する複数のプリンターおよび複合機のSSH通信機能にはアクセス制御不備の脆弱性が存在します。
-
-### 4. [UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `14`
-- published: `2026-07-23T04:57:54+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251
-- summary: Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, umSQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Cross-Site-Scripting-Angriffe durchzuführen.
+- published: `2026-07-23T15:00:30+09:00`
+- url: https://jvn.jp/vu/JVNVU97496543/
+- summary: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
 
 ### 5. TSUBAME Report Overflow (Jan-Mar 2026)
 - source: JPCERT/CC English Blog Atom

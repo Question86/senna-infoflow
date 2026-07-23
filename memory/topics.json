@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T05:48:29+00:00",
+  "generated_at": "2026-07-23T06:40:44+00:00",
   "topics": {
     "ai": [
       {
@@ -19,6 +19,13 @@
         "url": "https://forbesjapan.com/articles/detail/101446"
       },
       {
+        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T06:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
+      },
+      {
         "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-22T08:40:52+00:00",
@@ -31,6 +38,13 @@
         "published_at": "2026-07-23T01:00:07+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/"
+      },
+      {
+        "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T03:21:47+00:00",
+        "relevance_score": 8,
+        "url": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/"
       },
       {
         "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
@@ -49,6 +63,34 @@
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
       },
       {
+        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T06:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
+      },
+      {
+        "title": "ISC BINDにおける複数の脆弱性（2026年7月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-23T15:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU97496543/"
+      },
+      {
+        "title": "バックアップソフトウェア「Duplicati」における不適切な権限割り当てに関する脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-23T15:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98636554/"
+      },
+      {
+        "title": "Analog Way製メディアサーバー「Picturall Quad Compact Mark II」におけるローカル権限昇格の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-23T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98875819/"
+      },
+      {
         "title": "リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-23T14:00:00+09:00",
@@ -56,11 +98,34 @@
         "url": "https://jvn.jp/jp/JVN32082029/"
       },
       {
+        "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T06:07:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2443"
+      },
+      {
         "title": "[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-23T04:57:54+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T06:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
+      },
+      {
+        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T04:40:41+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
       }
     ],
     "github": [
@@ -132,6 +197,34 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
       },
       {
+        "title": "政府情報システムにおける利用者満足度評価の導入について掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-23T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation"
+      },
+      {
+        "title": "広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-23T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/mynumber_resources"
+      },
+      {
+        "title": "デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-23T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3"
+      },
+      {
+        "title": "デジタル推進委員オンラインコミュニティ登録マニュアルを更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-23T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/digital_promotion_staff/community"
+      },
+      {
         "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-23T03:59:48+00:00",
@@ -139,34 +232,18 @@
         "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html"
       },
       {
+        "title": "スクラムの「うまくいかない」はなぜ？ 組織や関係性に隠れた課題を探る - Agile Journey",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T01:32:12+00:00",
+        "relevance_score": 5,
+        "url": "https://agilejourney.uzabase.com/entry/2026/07/23/103000"
+      },
+      {
         "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-23T01:03:40+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html"
-      },
-      {
-        "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-22T23:43:01+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html"
-      },
-      {
-        "title": "斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-22T04:46:34+00:00",
-        "relevance_score": 5,
-        "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T04:40:41+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
       }
     ]
   }

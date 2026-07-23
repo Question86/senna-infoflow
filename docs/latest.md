@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T05:48:29+00:00_
+_Generiert: 2026-07-23T06:40:44+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+32 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -30,15 +30,51 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN32082029/)
+- **AI phishing is turning trust into APAC cybersecurity’s weakest link** — Score 15, risk — [Quelle](https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-23T06:30:32+00:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For years, cybersecurity teams have told employees to look for the usual clues: awkward grammar, strange email addresses, urgent requests, and links that do not quite look right. Generative AI is making that advice less reliable. A new Mimecast study suggests that many organisations in Asia Pacific now expect attackers to use AI against them, […] The post AI phishing is turning trust into APAC cybersecurity’s weakes…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ISC BINDにおける複数の脆弱性（2026年7月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97496543/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-23T14:00:00+09:00`, fetched `2026-07-23T05:47:57+00:00`
+  - Zeit: published `2026-07-23T15:00:30+09:00`, fetched `2026-07-23T06:40:06+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 株式会社リコーが提供する複数のプリンターおよび複合機のSSH通信機能にはアクセス制御不備の脆弱性が存在します。
+  - Kurz: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **バックアップソフトウェア「Duplicati」における不適切な権限割り当てに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98636554/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-23T15:00:15+09:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Analog Way製メディアサーバー「Picturall Quad Compact Mark II」におけるローカル権限昇格の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98875819/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-23T15:00:00+09:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2443)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-23T06:07:54+00:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Java SE ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-23T04:57:54+00:00`, fetched `2026-07-23T05:47:57+00:00`
@@ -132,14 +168,41 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Deep tech in a fractured world needs something very different. For much of the last 30 years, the working assumption behind technology and capital was simple: the world was converging into one increasingly integrated market. If you could build a product that scaled, global demand and global capital would be there to meet you. That […] The post Deeptech and a fracturing world: Why Southeast Asia needs a new playbook…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/23/news053.html)
+- **中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言** — Score 8, observation — [Quelle](https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-23T03:59:48+00:00`, fetched `2026-07-23T05:47:57+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-07-23T03:21:47+00:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か（1/2 ページ） 7月16日の午前中から昼前後の時間帯にかけて起きていたクレジットカードの大規模障害について、ビザ・ワールドワイド・ジャパンは傘下企業の米Cybersourceでのプログラム変更に起因するトラブルが原因だったというの...
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 中国企業のMoonshot AIは日本時間の2026年7月17日に高性能AIモデル「Kimi K3」をリリースしました。このKimi K3について、ホワイトハウス科学技術政策局のマイケル・クラツィオス局長が「AnthropicのClaude Fableを蒸留したという情報をつかんだ」と発表しました。 We have information that Moonshot AI distilled Anth...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **政府情報システムにおける利用者満足度評価の導入について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-23T06:00:00+00:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 政府情報システムにおける利用者満足度評価の導入について掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber_resources)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-23T06:00:00+00:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-23T06:00:00+00:00`, fetched `2026-07-23T06:40:06+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
