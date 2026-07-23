@@ -1501,6 +1501,26 @@
     "id": "3a61bbcd3cda8891c388"
   },
   {
+    "title": "Launching Health in ChatGPT",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-23T00:00:00+00:00",
+    "fetched_at": "2026-07-23T17:14:23+00:00",
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c1db5edd73b081e5590a"
+  },
+  {
     "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
     "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0884/",
     "source": "CERT-FR Avis de sécurité",

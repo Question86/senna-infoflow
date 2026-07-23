@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T16:10:59+00:00",
-  "run_id": "2026-07-23T16:10:59+00:00",
+  "generated_at": "2026-07-23T17:14:55+00:00",
+  "run_id": "2026-07-23T17:14:55+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 34,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1531,6 +1531,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a61bbcd3cda8891c388"
+      },
+      {
+        "title": "Launching Health in ChatGPT",
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-23T00:00:00+00:00",
+        "fetched_at": "2026-07-23T17:14:23+00:00",
+        "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c1db5edd73b081e5590a"
       },
       {
         "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
@@ -3596,6 +3616,26 @@
       "id": "3a61bbcd3cda8891c388"
     },
     {
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "fetched_at": "2026-07-23T17:14:23+00:00",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c1db5edd73b081e5590a"
+    },
+    {
       "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0884/",
       "source": "CERT-FR Avis de sécurité",
@@ -4157,26 +4197,24 @@
   ],
   "new_findings": [
     {
-      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
-      "source": "GitHub Blog Atom",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-23T16:00:00+00:00",
-      "fetched_at": "2026-07-23T16:10:28+00:00",
-      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "fetched_at": "2026-07-23T17:14:23+00:00",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
+        "OpenAI"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d03a720b66e3cc4a4dcc"
+      "id": "c1db5edd73b081e5590a"
     }
   ],
   "source_errors": [],
