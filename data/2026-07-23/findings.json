@@ -23,6 +23,74 @@
     "id": "6decf553e2e4f38920b5"
   },
   {
+    "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/101446",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T01:00:37+00:00",
+    "fetched_at": "2026-07-23T05:47:57+00:00",
+    "summary": "OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca0a9f3cd522403a30f4"
+  },
+  {
+    "title": "リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
+    "url": "https://jvn.jp/jp/JVN32082029/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-23T14:00:00+09:00",
+    "fetched_at": "2026-07-23T05:47:57+00:00",
+    "summary": "株式会社リコーが提供する複数のプリンターおよび複合機のSSH通信機能にはアクセス制御不備の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b4c7f6b57c1c0bbfd8c5"
+  },
+  {
+    "title": "[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-23T04:57:54+00:00",
+    "fetched_at": "2026-07-23T05:47:57+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, umSQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4eb9ad9f676e351f7ebd"
+  },
+  {
     "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
     "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html",
     "source": "JPCERT/CC English Blog Atom",
@@ -66,6 +134,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "90d71a32a2830446de07"
+  },
+  {
+    "title": "MAS pushes digital assets beyond crypto speculation as Coinbase expands in Singapore",
+    "url": "https://e27.co/mas-pushes-digital-assets-beyond-crypto-speculation-as-coinbase-expands-in-singapore-20260723/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-23T05:23:16+00:00",
+    "fetched_at": "2026-07-23T05:47:57+00:00",
+    "summary": "Singapore’s central bank is drawing a firmer line between digital assets built for speculation and those that could make financial markets work better, as global crypto exchange Coinbase expands its footprint in the city-state. Speaking at the opening of Coinbase’s new Singapore office, Kenneth Gay, Chief Fintech Officer at the Monetary Authority of Singapore (MAS), […] The post MAS pushes digital assets beyond cryp…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "992f90551e196550b4e4"
   },
   {
     "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
@@ -219,6 +308,49 @@
     "id": "ac6a636db32017659376"
   },
   {
+    "title": "Deeptech and a fracturing world: Why Southeast Asia needs a new playbook",
+    "url": "https://e27.co/deeptech-and-a-fracturing-world-why-southeast-asia-needs-a-new-playbook-20260723/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-23T05:06:31+00:00",
+    "fetched_at": "2026-07-23T05:47:57+00:00",
+    "summary": "Deep tech in a fractured world needs something very different. For much of the last 30 years, the working assumption behind technology and capital was simple: the world was converging into one increasingly integrated market. If you could build a product that scaled, global demand and global capital would be there to meet you. That […] The post Deeptech and a fracturing world: Why Southeast Asia needs a new playbook…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "1ed237fea49eb02fe311"
+  },
+  {
     "title": "The end of headcount as a success metric: How AI is redefining scale",
     "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -275,6 +407,27 @@
       "URA"
     ],
     "id": "f6d4542b0139699a9ad5"
+  },
+  {
+    "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T03:59:48+00:00",
+    "fetched_at": "2026-07-23T05:47:57+00:00",
+    "summary": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か（1/2 ページ） 7月16日の午前中から昼前後の時間帯にかけて起きていたクレジットカードの大規模障害について、ビザ・ワールドワイド・ジャパンは傘下企業の米Cybersourceでのプログラム変更に起因するトラブルが原因だったというの...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "939ee9920a71d6d1c811"
   },
   {
     "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",

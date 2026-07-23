@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T04:47:54+00:00_
+_Generiert: 2026-07-23T05:48:29+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud applications and collaboration workflows. That shift is creating an enormous opportunity. AI can help organisations move faster, automate routine work, […] The…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 18, observation — [Quelle](https://forbesjapan.com/articles/detail/101446)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-23T01:00:37+00:00`, fetched `2026-07-23T05:47:57+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN32082029/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-23T14:00:00+09:00`, fetched `2026-07-23T05:47:57+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社リコーが提供する複数のプリンターおよび複合機のSSH通信機能にはアクセス制御不備の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-23T04:57:54+00:00`, fetched `2026-07-23T05:47:57+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, umSQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Cross-Site-Scripting-Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -94,6 +121,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MAS pushes digital assets beyond crypto speculation as Coinbase expands in Singapore** — Score 12, observation — [Quelle](https://e27.co/mas-pushes-digital-assets-beyond-crypto-speculation-as-coinbase-expands-in-singapore-20260723/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-23T05:23:16+00:00`, fetched `2026-07-23T05:47:57+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s central bank is drawing a firmer line between digital assets built for speculation and those that could make financial markets work better, as global crypto exchange Coinbase expands its footprint in the city-state. Speaking at the opening of Coinbase’s new Singapore office, Kenneth Gay, Chief Fintech Officer at the Monetary Authority of Singapore (MAS), […] The post MAS pushes digital assets beyond cryp…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear** — Score 12, observation — [Quelle](https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -140,37 +176,30 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-23 01:56:00 UTC 2026-07-23 01:56:00 UTC at epicenter Location 23.110°S 68.987°W Depth 95.96 km (59.63 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The end of headcount as a success metric: How AI is redefining scale** — Score 10, observation — [Quelle](https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/)
+- **Deeptech and a fracturing world: Why Southeast Asia needs a new playbook** — Score 10, observation — [Quelle](https://e27.co/deeptech-and-a-fracturing-world-why-southeast-asia-needs-a-new-playbook-20260723/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-23T01:00:07+00:00`, fetched `2026-07-23T01:29:53+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
-  - Kurz: For years, startup success was often measured by visible growth. A bigger office. More departments. More employees. As founders, many of us dreamed of building the next great tech company, and somewhere along the way, headcount became a proxy for success. Every new hire felt like validation that the business was moving in the right […] The post The end of headcount as a success metric: How AI is redefining scale app…
+  - Zeit: published `2026-07-23T05:06:31+00:00`, fetched `2026-07-23T05:47:57+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Deep tech in a fractured world needs something very different. For much of the last 30 years, the working assumption behind technology and capital was simple: the world was converging into one increasingly integrated market. If you could build a product that scaled, global demand and global capital would be there to meet you. That […] The post Deeptech and a fracturing world: Why Southeast Asia needs a new playbook…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree** — Score 7, observation — [Quelle](https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-23T04:40:41+00:00`, fetched `2026-07-23T04:47:21+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:energy_oil_gas_power_uranium
-  - Watchgraph: energy_oil_gas_power_uranium
-  - Markt-/Kontextkorb: XOM, CVX, SHEL, TTE, BP, CCJ, ENB, SU, EQNR, URA
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)
-  - Kurz: Bitcoin sits at US$66,188.15 this morning, down 0.65 per cent over the past 24 hours, and the number tells only a fraction of the story. The cryptocurrency pulled back from a one-month high near US$67,000 as WTI crude oil surged above US$85 and then climbed further toward US$94 per barrel amid an escalating US-Iran conflict […] The post Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree appeared fir…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/23/news074.html)
+- **「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/23/news053.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-23T01:03:40+00:00`, fetched `2026-07-23T03:36:49+00:00`
+  - Zeit: published `2026-07-23T03:59:48+00:00`, fetched `2026-07-23T05:47:57+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」 「もうせっかくなのでできることは何でもやるよｗ 最後まで盛り上がっていこう！」――9月17日にサービス終了予定のアバター通話アプリ「POPOPO」運営元のCTOであるMIRO（岩城進之介）氏は7月21日、同アプリをMac...
+  - Kurz: 「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か（1/2 ページ） 7月16日の午前中から昼前後の時間帯にかけて起きていたクレジットカードの大規模障害について、ビザ・ワールドワイド・ジャパンは傘下企業の米Cybersourceでのプログラム変更に起因するトラブルが原因だったというの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

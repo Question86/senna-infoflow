@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T04:47:54+00:00",
+  "generated_at": "2026-07-23T05:48:29+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-23T02:00:12+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
+      },
+      {
+        "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T01:00:37+00:00",
+        "relevance_score": 18,
+        "url": "https://forbesjapan.com/articles/detail/101446"
       },
       {
         "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
@@ -40,6 +47,20 @@
         "published_at": "2026-07-23T02:00:12+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
+      },
+      {
+        "title": "リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-23T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN32082029/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T04:57:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251"
       }
     ],
     "github": [
@@ -60,11 +81,25 @@
         "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html"
       },
       {
+        "title": "MAS pushes digital assets beyond crypto speculation as Coinbase expands in Singapore",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T05:23:16+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/mas-pushes-digital-assets-beyond-crypto-speculation-as-coinbase-expands-in-singapore-20260723/"
+      },
+      {
         "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-23T03:36:25+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/"
+      },
+      {
+        "title": "Deeptech and a fracturing world: Why Southeast Asia needs a new playbook",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T05:06:31+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/deeptech-and-a-fracturing-world-why-southeast-asia-needs-a-new-playbook-20260723/"
       },
       {
         "title": "The role of thought leadership in scaling beyond your first market",
@@ -95,6 +130,13 @@
         "published_at": "2026-07-23T02:12:05.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
+      },
+      {
+        "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T03:59:48+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html"
       },
       {
         "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",

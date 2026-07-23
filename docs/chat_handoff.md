@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T04:47:54+00:00_
+_Generated: 2026-07-23T05:48:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `21`
 
 ## Top Signals
 
@@ -15,32 +15,53 @@ _Generated: 2026-07-23T04:47:54+00:00_
 - url: https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/
 - summary: Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud…
 
-### 2. TSUBAME Report Overflow (Jan-Mar 2026)
+### 2. 中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+- source: Hatena Bookmark Hotentry IT
+- score: `18`
+- published: `2026-07-23T01:00:37+00:00`
+- url: https://forbesjapan.com/articles/detail/101446
+- summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
+
+### 3. リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-07-23T14:00:00+09:00`
+- url: https://jvn.jp/jp/JVN32082029/
+- summary: 株式会社リコーが提供する複数のプリンターおよび複合機のSSH通信機能にはアクセス制御不備の脆弱性が存在します。
+
+### 4. [UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `14`
+- published: `2026-07-23T04:57:54+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251
+- summary: Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, umSQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Cross-Site-Scripting-Angriffe durchzuführen.
+
+### 5. TSUBAME Report Overflow (Jan-Mar 2026)
 - source: JPCERT/CC English Blog Atom
 - score: `13`
 - published: `2026-07-23T02:00:00+00:00`
 - url: https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html
 - summary: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas[Takumi1.1], as well as other topics not covered in the Internet Threat Monitoring Quarterly Report. This article covers monitoring results from Ja…
 
-### 3. これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins
+### 6. これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-07-23T00:40:28+00:00`
 - url: https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html
 - summary: Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...
 
-### 4. Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear
+### 7. MAS pushes digital assets beyond crypto speculation as Coinbase expands in Singapore
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-07-23T05:23:16+00:00`
+- url: https://e27.co/mas-pushes-digital-assets-beyond-crypto-speculation-as-coinbase-expands-in-singapore-20260723/
+- summary: Singapore’s central bank is drawing a firmer line between digital assets built for speculation and those that could make financial markets work better, as global crypto exchange Coinbase expands its footprint in the city-state. Speaking at the opening of Coin…
+
+### 8. Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-23T03:36:25+00:00`
 - url: https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/
 - summary: Vietnam’s electric vehicle (EV) market is entering a more practical phase. After years of attention on vehicle launches, subsidies, and consumer adoption, the next question is becoming harder to ignore: where will all these cars and motorbikes charge, and who…
-
-### 5. OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-07-22T08:40:52+00:00`
-- url: https://jbpress.ismedia.jp/articles/-/96058
-- summary: 2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社...
 
 END OF DOCUMENT
