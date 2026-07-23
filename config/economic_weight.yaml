@@ -1,0 +1,95 @@
+version: 1
+mode: shadow
+currency: USD
+
+# Economic-strategic target:
+# Forecast the deduplicated, causally attributable lifetime monetary weight
+# of an event until the incremental weight has effectively stagnated.
+target:
+  name: lifetime_monetary_weight_usd
+  ranking_transform: log10
+  include_transfers_in_gross: true
+  separate_net_effect: true
+
+forecast_horizons_days: [1, 7, 30, 90, 365]
+
+stagnation:
+  default:
+    rolling_window_days: 30
+    relative_delta_threshold: 0.01
+    consecutive_windows: 3
+  event_overrides:
+    vulnerability:
+      rolling_window_days: 14
+      consecutive_windows: 3
+    natural_disaster:
+      rolling_window_days: 30
+      consecutive_windows: 3
+    regulation:
+      rolling_window_days: 90
+      consecutive_windows: 4
+    conflict:
+      rolling_window_days: 90
+      consecutive_windows: 4
+
+components:
+  real_resource:
+    enabled: true
+    coefficient: 1.0
+  valuation:
+    enabled: true
+    coefficient: 1.0
+  capital_allocation:
+    enabled: true
+    coefficient: 1.0
+  transfers:
+    enabled: true
+    coefficient: 1.0
+
+# Initial priors are deliberately broad. They provide a comparable starting
+# distribution, not a claim of measured impact. The learning layer should
+# replace these priors with empirical conditional distributions over time.
+priors:
+  default:
+    p10: 100000
+    p50: 10000000
+    p90: 1000000000
+  by_event_class:
+    vulnerability: {p10: 250000, p50: 25000000, p90: 2500000000}
+    outage: {p10: 100000, p50: 10000000, p90: 1000000000}
+    natural_disaster: {p10: 1000000, p50: 100000000, p90: 10000000000}
+    regulation: {p10: 10000000, p50: 1000000000, p90: 100000000000}
+    funding: {p10: 1000000, p50: 25000000, p90: 1000000000}
+    acquisition: {p10: 10000000, p50: 500000000, p90: 25000000000}
+    product_release: {p10: 100000, p50: 10000000, p90: 1000000000}
+    conflict: {p10: 100000000, p50: 10000000000, p90: 1000000000000}
+
+feature_taxonomy:
+  event_classes:
+    - vulnerability
+    - exploit
+    - outage
+    - regulation
+    - product_release
+    - acquisition
+    - funding
+    - research
+    - natural_disaster
+    - conflict
+    - platform_change
+    - market_move
+    - supply_chain
+    - unknown
+  capital_channels:
+    - production
+    - revenue
+    - market_valuation
+    - credit
+    - insurance
+    - compliance
+    - infrastructure
+    - labor
+    - trade
+    - public_budget
+    - investment
+    - unknown
