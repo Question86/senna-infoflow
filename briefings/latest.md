@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T12:11:26+00:00_
+_Generiert: 2026-07-23T12:47:40+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+77 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -271,6 +271,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary policy decisions** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-23T12:15:00+00:00`, fetched `2026-07-23T12:47:08+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Monetary policy decisions
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手** — Score 8, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-23T04:39:27+00:00`, fetched `2026-07-23T10:54:06+00:00`
@@ -288,15 +297,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans Xen XAPI. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vulnérabilité dans Tenable Nessus Agent (15 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0886/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-23T12:10:55+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T12:11:26+00:00",
+  "generated_at": "2026-07-23T12:47:40+00:00",
   "topics": {
     "ai": [
       {
@@ -205,18 +205,18 @@
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0887/"
       },
       {
+        "title": "Monetary policy decisions",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-23T12:15:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html"
+      },
+      {
         "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-23T03:04:31+00:00",
         "relevance_score": 8,
         "url": "https://www.cnn.co.jp/tech/35250893.html"
-      },
-      {
-        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T04:40:41+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
       }
     ],
     "economy": [
@@ -307,6 +307,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
       },
       {
+        "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T12:34:38.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p1"
+      },
+      {
         "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
         "source": "CERT-FR Avis de sécurité",
         "published_at": "2026-07-15T00:00:00+00:00",
@@ -326,13 +333,6 @@
         "published_at": "2026-07-23T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/mynumber_resources"
-      },
-      {
-        "title": "デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-23T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3"
       }
     ],
     "github": [

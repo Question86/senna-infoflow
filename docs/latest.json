@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T12:11:26+00:00",
-  "run_id": "2026-07-23T12:11:26+00:00",
+  "generated_at": "2026-07-23T12:47:40+00:00",
+  "run_id": "2026-07-23T12:47:40+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 10,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 3,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 33,
-    "observe": 41,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1235,6 +1235,62 @@
         "id": "44a76dd4d3df89d53889"
       },
       {
+        "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-23T12:34:38.040+00:00",
+        "fetched_at": "2026-07-23T12:47:08+00:00",
+        "summary": "Time 2026-07-23 12:11:57 UTC 2026-07-23 12:11:57 UTC at epicenter Location 18.068°N 145.257°E Depth 320.64 km (199.24 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a37475438182c859c30c"
+      },
+      {
+        "title": "Monetary policy decisions",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-23T12:15:00+00:00",
+        "fetched_at": "2026-07-23T12:47:08+00:00",
+        "summary": "Monetary policy decisions",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "79b50f39dbbd51d5c7a2"
+      },
+      {
         "title": "Omio secures US$10M to expand multimodal travel booking in Japan, SEA",
         "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1567,6 +1623,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ca1928be52b5a778d8e"
+      },
+      {
+        "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
+        "url": "https://togetter.com/li/2723874",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T09:04:08+00:00",
+        "fetched_at": "2026-07-23T12:47:08+00:00",
+        "summary": "サイバー被害のニチレイ、バックアップで早期再開 システム復旧成功 - 日本経済新聞 ニチレイで発生したシステム障害で、ハッカー集団がインターネット上で犯行声明を公表したことが22日までにわかった。同社はバックアップデータからのシステム復旧に成功しており、週内にも通常稼働に戻る見込み… 3 users 日本経済新...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "90594c5e0cc7f564aa05"
       },
       {
         "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
@@ -3005,6 +3082,62 @@
       "id": "44a76dd4d3df89d53889"
     },
     {
+      "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-23T12:34:38.040+00:00",
+      "fetched_at": "2026-07-23T12:47:08+00:00",
+      "summary": "Time 2026-07-23 12:11:57 UTC 2026-07-23 12:11:57 UTC at epicenter Location 18.068°N 145.257°E Depth 320.64 km (199.24 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a37475438182c859c30c"
+    },
+    {
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-23T12:15:00+00:00",
+      "fetched_at": "2026-07-23T12:47:08+00:00",
+      "summary": "Monetary policy decisions",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "79b50f39dbbd51d5c7a2"
+    },
+    {
       "title": "Omio secures US$10M to expand multimodal travel booking in Japan, SEA",
       "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3339,6 +3472,27 @@
       "id": "2ca1928be52b5a778d8e"
     },
     {
+      "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
+      "url": "https://togetter.com/li/2723874",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T09:04:08+00:00",
+      "fetched_at": "2026-07-23T12:47:08+00:00",
+      "summary": "サイバー被害のニチレイ、バックアップで早期再開 システム復旧成功 - 日本経済新聞 ニチレイで発生したシステム障害で、ハッカー集団がインターネット上で犯行声明を公表したことが22日までにわかった。同社はバックアップデータからのシステム復旧に成功しており、週内にも通常稼働に戻る見込み… 3 users 日本経済新...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "90594c5e0cc7f564aa05"
+    },
+    {
       "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
       "url": "https://togetter.com/li/2723866",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3571,221 +3725,69 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Exim: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2494",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-23T11:52:52+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Exim ausnutzen, um beliebige Befehle auszuführen und Berechtigungen zu erweitern.",
+      "published_at": "2026-07-23T12:34:38.040+00:00",
+      "fetched_at": "2026-07-23T12:47:08+00:00",
+      "summary": "Time 2026-07-23 12:11:57 UTC 2026-07-23 12:11:57 UTC at epicenter Location 18.068°N 145.257°E Depth 320.64 km (199.24 mi)",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a37475438182c859c30c"
+    },
+    {
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-23T12:15:00+00:00",
+      "fetched_at": "2026-07-23T12:47:08+00:00",
+      "summary": "Monetary policy decisions",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8fecdd5aefd1deab89d5"
+      "id": "79b50f39dbbd51d5c7a2"
     },
     {
-      "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2384",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-23T11:47:52+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b4437d24ad7c10861fdd"
-    },
-    {
-      "title": "[NEU] [hoch] pg_partman: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2493",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-23T11:42:53+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in pg_partman ausnutzen, um einen Denial of Service Angriff durchzuführen, die Autorisierung zu umgehen und SQL-Injection-Angriffe durchzuführen, wodurch er erweiterte Berechtigungen erlangen und beliebige Betriebssystembefehle ausführen kann.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fd277d0d2fae9e26a24a"
-    },
-    {
-      "title": "[NEU] [mittel] Unbound: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2492",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-23T11:37:53+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "311ab15cb0ab4a7ef585"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mozilla Firefox (15 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0887/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-15T00:00:00+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "44a76dd4d3df89d53889"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Progress LoadMaster (15 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0883/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-15T00:00:00+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress LoadMaster. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "34dceeae5c52b3cf5ce4"
-    },
-    {
-      "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0884/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-15T00:00:00+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Xen XAPI. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "faf4a68a8b9ba1f3b843"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Citrix (15 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0885/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-15T00:00:00+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "26533b05a0c1b97b4d78"
-    },
-    {
-      "title": "Vulnérabilité dans Tenable Nessus Agent (15 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0886/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-15T00:00:00+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cb7aea0069d46e493e8e"
-    },
-    {
-      "title": "無償でも使えるインストーラー作成ソフト「Inno Setup 7」が公開 ～7年ぶりのメジャーアップデート／64bit版を新たに追加、「MAX_PATH」制限も撤廃",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2126929.html",
+      "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
+      "url": "https://togetter.com/li/2723874",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T02:46:15+00:00",
-      "fetched_at": "2026-07-23T12:10:55+00:00",
-      "summary": "無償でも使えるインストーラー作成ソフト「Inno Setup 7」が公開 ～7年ぶりのメジャーアップデート／64bit版を新たに追加、「MAX_PATH」制限も撤廃",
+      "published_at": "2026-07-23T09:04:08+00:00",
+      "fetched_at": "2026-07-23T12:47:08+00:00",
+      "summary": "サイバー被害のニチレイ、バックアップで早期再開 システム復旧成功 - 日本経済新聞 ニチレイで発生したシステム障害で、ハッカー集団がインターネット上で犯行声明を公表したことが22日までにわかった。同社はバックアップデータからのシステム復旧に成功しており、週内にも通常稼働に戻る見込み… 3 users 日本経済新...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3797,7 +3799,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2de9cec9ef4253b42296"
+      "id": "90594c5e0cc7f564aa05"
     }
   ],
   "source_errors": [],

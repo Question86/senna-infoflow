@@ -1203,6 +1203,62 @@
     "id": "44a76dd4d3df89d53889"
   },
   {
+    "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p1",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-23T12:34:38.040+00:00",
+    "fetched_at": "2026-07-23T12:47:08+00:00",
+    "summary": "Time 2026-07-23 12:11:57 UTC 2026-07-23 12:11:57 UTC at epicenter Location 18.068°N 145.257°E Depth 320.64 km (199.24 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "a37475438182c859c30c"
+  },
+  {
+    "title": "Monetary policy decisions",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-23T12:15:00+00:00",
+    "fetched_at": "2026-07-23T12:47:08+00:00",
+    "summary": "Monetary policy decisions",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "79b50f39dbbd51d5c7a2"
+  },
+  {
     "title": "Omio secures US$10M to expand multimodal travel booking in Japan, SEA",
     "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1535,6 +1591,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ca1928be52b5a778d8e"
+  },
+  {
+    "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
+    "url": "https://togetter.com/li/2723874",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T09:04:08+00:00",
+    "fetched_at": "2026-07-23T12:47:08+00:00",
+    "summary": "サイバー被害のニチレイ、バックアップで早期再開 システム復旧成功 - 日本経済新聞 ニチレイで発生したシステム障害で、ハッカー集団がインターネット上で犯行声明を公表したことが22日までにわかった。同社はバックアップデータからのシステム復旧に成功しており、週内にも通常稼働に戻る見込み… 3 users 日本経済新...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "90594c5e0cc7f564aa05"
   },
   {
     "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
