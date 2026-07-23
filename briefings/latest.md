@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T10:54:37+00:00_
+_Generiert: 2026-07-23T11:34:09+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-07-23T10:54:37+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553068)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, [unknown].
 
 ## Wirtschaft global
 
