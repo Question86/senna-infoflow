@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T12:47:40+00:00",
+  "generated_at": "2026-07-23T13:19:28+00:00",
   "topics": {
     "ai": [
       {
@@ -205,18 +205,18 @@
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0887/"
       },
       {
+        "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-23T13:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html"
+      },
+      {
         "title": "Monetary policy decisions",
         "source": "ECB Press Releases Speeches Interviews",
         "published_at": "2026-07-23T12:15:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html"
-      },
-      {
-        "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T03:04:31+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cnn.co.jp/tech/35250893.html"
       }
     ],
     "economy": [
