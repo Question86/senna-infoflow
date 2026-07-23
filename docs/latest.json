@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T00:12:48+00:00",
-  "run_id": "2026-07-23T00:12:48+00:00",
+  "generated_at": "2026-07-23T00:55:11+00:00",
+  "run_id": "2026-07-23T00:55:11+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -51,6 +51,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0fe1e12abb0872753bf4"
+      },
+      {
+        "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
+        "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-22T23:43:01+00:00",
+        "fetched_at": "2026-07-23T00:54:42+00:00",
+        "summary": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d9cd1db803a0967aaf33"
       },
       {
         "title": "斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話",
@@ -99,6 +120,27 @@
       "id": "0fe1e12abb0872753bf4"
     },
     {
+      "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
+      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-22T23:43:01+00:00",
+      "fetched_at": "2026-07-23T00:54:42+00:00",
+      "summary": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9cd1db803a0967aaf33"
+    },
+    {
       "title": "斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話",
       "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v",
       "source": "Hatena Bookmark Hotentry IT",
@@ -122,35 +164,13 @@
   ],
   "new_findings": [
     {
-      "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
-      "url": "https://jbpress.ismedia.jp/articles/-/96058",
+      "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
+      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-22T08:40:52+00:00",
-      "fetched_at": "2026-07-23T00:12:16+00:00",
-      "summary": "2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0fe1e12abb0872753bf4"
-    },
-    {
-      "title": "斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-22T04:46:34+00:00",
-      "fetched_at": "2026-07-23T00:12:16+00:00",
-      "summary": "私は今、『VRChat』というゲームの中にいる。誰でも入ることのできる集会所ワールド「FUJIYAMA」の片隅で、この原稿を書いているのである。 周りを見渡すと、多くの人々がそれぞれの話題に花を咲かせている様子が伺える。 互いのアバターを褒めあう人、VRChatで行われる各種イベントがまとめられたカレンダーを見ながら...",
+      "published_at": "2026-07-22T23:43:01+00:00",
+      "fetched_at": "2026-07-23T00:54:42+00:00",
+      "summary": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -162,7 +182,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dad710c049f31ea7d868"
+      "id": "d9cd1db803a0967aaf33"
     }
   ],
   "source_errors": [],

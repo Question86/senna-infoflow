@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T00:12:48+00:00_
+_Generated: 2026-07-23T00:55:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -15,7 +15,14 @@ _Generated: 2026-07-23T00:12:48+00:00_
 - url: https://jbpress.ismedia.jp/articles/-/96058
 - summary: 2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社...
 
-### 2. 斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話
+### 2. 【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-07-22T23:43:01+00:00`
+- url: https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html
+- summary: 【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証
+
+### 3. 斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-07-22T04:46:34+00:00`
