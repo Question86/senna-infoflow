@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T07:35:58+00:00",
+  "generated_at": "2026-07-23T08:29:33+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-07-23T01:00:37+00:00",
         "relevance_score": 18,
         "url": "https://forbesjapan.com/articles/detail/101446"
+      },
+      {
+        "title": "Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T08:21:00+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/"
       },
       {
         "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
@@ -47,6 +54,13 @@
         "url": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/"
       },
       {
+        "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T03:04:31+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cnn.co.jp/tech/35250893.html"
+      },
+      {
         "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-02-24T01:43:24+00:00",
@@ -61,6 +75,13 @@
         "published_at": "2026-07-23T02:00:12+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (acl): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T08:22:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2453"
       },
       {
         "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
@@ -98,67 +119,35 @@
         "url": "https://jvn.jp/jp/JVN32082029/"
       },
       {
-        "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] PowerDNS: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T06:42:53+00:00",
+        "published_at": "2026-07-23T08:22:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2458"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2471"
       },
       {
-        "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] Veeam Backup & Replication: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T06:07:54+00:00",
+        "published_at": "2026-07-23T08:22:55+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2443"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2461"
       },
       {
-        "title": "[UPDATE] [hoch] Drupal Module: Mehrere Schwachstellen",
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T04:57:54+00:00",
+        "published_at": "2026-07-23T08:22:55+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251"
-      },
-      {
-        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-23T07:13:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T06:30:32+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
-      },
-      {
-        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T04:40:41+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
-      }
-    ],
-    "github": [
-      {
-        "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
-        "source": "JPCERT/CC English Blog Atom",
-        "published_at": "2026-07-23T02:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html"
-      },
-      {
-        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-23T07:13:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2454"
       }
     ],
     "economy": [
+      {
+        "title": "Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T08:21:00+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/"
+      },
       {
         "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
         "source": "Hatena Bookmark Hotentry IT",
@@ -193,6 +182,45 @@
         "published_at": "2026-07-23T01:30:05+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T06:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
+      },
+      {
+        "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T03:04:31+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cnn.co.jp/tech/35250893.html"
+      },
+      {
+        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T04:40:41+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
+      }
+    ],
+    "github": [
+      {
+        "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
+        "source": "JPCERT/CC English Blog Atom",
+        "published_at": "2026-07-23T02:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html"
+      },
+      {
+        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-23T07:13:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
       }
     ],
     "general": [

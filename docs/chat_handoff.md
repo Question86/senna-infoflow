@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T07:35:58+00:00_
+_Generated: 2026-07-23T08:29:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `35`
+- findings: `42`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-23T07:35:58+00:00_
 - url: https://forbesjapan.com/articles/detail/101446
 - summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
 
-### 3. AI phishing is turning trust into APAC cybersecurity’s weakest link
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-07-23T06:30:32+00:00`
-- url: https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/
-- summary: For years, cybersecurity teams have told employees to look for the usual clues: awkward grammar, strange email addresses, urgent requests, and links that do not quite look right. Generative AI is making that advice less reliable. A new Mimecast study suggests…
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (acl): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Manipulation von Dateien
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-23T08:22:56+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2453
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen und Daten zu manipulieren.
 
-### 4. ISC BINDにおける複数の脆弱性（2026年7月）
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-07-23T15:00:30+09:00`
-- url: https://jvn.jp/vu/JVNVU97496543/
-- summary: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
+### 4. Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-07-23T08:21:00+00:00`
+- url: https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/
+- summary: When Applied Materials brought ASTRA, its Applied Startup Technology & Research Accelerator, to Singapore for the first time this year, it marked more than a regional expansion. It signalled that Southeast Asia’s deeptech ecosystem has matured enough to bridg…
 
 ### 5. TSUBAME Report Overflow (Jan-Mar 2026)
 - source: JPCERT/CC English Blog Atom
