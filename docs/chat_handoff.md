@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T08:29:33+00:00_
+_Generated: 2026-07-23T09:21:30+00:00_
 
 ## Status
-- status: `normal`
-- findings: `42`
+- status: `warning`
+- findings: `47`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-23T08:29:33+00:00_
 - url: https://forbesjapan.com/articles/detail/101446
 - summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (acl): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Manipulation von Dateien
+### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-23T08:22:56+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2453
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen und Daten zu manipulieren.
+- published: `2026-07-23T09:02:56+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise DoS-Angriffe, die Manipulation oder Offenlegung von Daten sowie die Umgehung von Sicherheitsmaßnahmen.
 
-### 4. Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-23T08:21:00+00:00`
-- url: https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/
-- summary: When Applied Materials brought ASTRA, its Applied Startup Technology & Research Accelerator, to Singapore for the first time this year, it marked more than a regional expansion. It signalled that Southeast Asia’s deeptech ecosystem has matured enough to bridg…
+- published: `2026-07-23T09:02:55+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063
+- summary: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.
 
 ### 5. TSUBAME Report Overflow (Jan-Mar 2026)
 - source: JPCERT/CC English Blog Atom

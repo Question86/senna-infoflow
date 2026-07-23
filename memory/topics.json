@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T08:29:33+00:00",
+  "generated_at": "2026-07-23T09:21:30+00:00",
   "topics": {
     "ai": [
       {
@@ -77,6 +77,34 @@
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T09:02:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T09:02:55+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Cockpit): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T09:02:55+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1052"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service oder Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T09:02:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1049"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (acl): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-23T08:22:56+00:00",
@@ -110,34 +138,36 @@
         "published_at": "2026-07-23T15:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU98875819/"
-      },
+      }
+    ],
+    "geopolitics": [
       {
-        "title": "リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-23T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN32082029/"
-      },
-      {
-        "title": "[UPDATE] [mittel] PowerDNS: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service oder Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T08:22:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2471"
+        "published_at": "2026-07-23T09:02:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1049"
       },
       {
-        "title": "[UPDATE] [mittel] Veeam Backup & Replication: Schwachstelle ermöglicht Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T08:22:55+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2461"
+        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T06:30:32+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
       },
       {
-        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T08:22:55+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2454"
+        "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T03:04:31+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cnn.co.jp/tech/35250893.html"
+      },
+      {
+        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T04:40:41+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
       }
     ],
     "economy": [
@@ -182,29 +212,6 @@
         "published_at": "2026-07-23T01:30:05+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T06:30:32+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
-      },
-      {
-        "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T03:04:31+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cnn.co.jp/tech/35250893.html"
-      },
-      {
-        "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T04:40:41+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/"
       }
     ],
     "github": [
