@@ -1,97 +1,37 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-22T23:49:00+00:00",
+  "generated_at": "2026-07-23T00:12:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 96,
-    "displayed_findings": 96,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 36,
-    "observe": 60
+    "medium": 0,
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-22T09:57:54+00:00",
-      "relevance_score": 23,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2450",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "section": "medium"
-    },
-    {
-      "title": "The real difference between OpenAI and Anthropic is what happens when AI gets cheaper",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-22T01:15:57+00:00",
-      "relevance_score": 23,
-      "url": "https://e27.co/the-real-difference-between-openai-and-anthropic-is-what-happens-when-ai-gets-cheaper-20260721/",
-      "summary": "Anthropic may look stronger than OpenAI on the usual pre-IPO scoreboard. It has reported stronger private-market momentum. It appears closer to near-term operating profit. Its gross margin is reported above OpenAI’s. It has deep enterprise relationships, a st…",
-      "section": "medium"
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-22T05:30:00+00:00",
-      "relevance_score": 20,
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (kubelet, cri-o, kube-apiserver): Schwachstelle ermöglicht Denial of Service",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-22T12:02:54+00:00",
-      "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1950",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+      "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-21T23:07:51+00:00",
-      "relevance_score": 13,
-      "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-      "summary": "1位のAnthropicを100とした場合、2位のOpenAIが66.9、3位のGoogle Workspaceが59.8、4位のGitHubが56.6、5位のCursorが42.4となっており、他と比較してこの4年間のAnthropicの成長率が飛び抜けて高かったことが示されました。 グラフの赤いマーカーは顧客成長率が4倍以上となる急成長企業を示しています。 また、ここで...",
+      "published_at": "2026-07-22T08:40:52+00:00",
+      "relevance_score": 12,
+      "url": "https://jbpress.ismedia.jp/articles/-/96058",
+      "summary": "2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社...",
       "section": "observe"
     },
     {
-      "title": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-07-22T08:15:19+00:00",
-      "relevance_score": 12,
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html",
-      "summary": "Announcing 20260064 (OT,liquidity providing), for 7 days deadline 09:45",
-      "section": "observe"
-    },
-    {
-      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
+      "title": "斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-21T23:04:49+00:00",
-      "relevance_score": 12,
-      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-      "summary": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入 社内で実施していたサイバー能力の評価中に、評価目的でサイバー攻撃関連の安全機能を抑制した「GPT-5.6 Sol」と、さらに高性能な未公開モデルの組み合わせが、テスト環境を脱出してHugging Face...",
-      "section": "observe"
-    },
-    {
-      "title": "音楽理論がわからない？ ならば自分で教材を作ってしまおう。ChatGPTとGeminiによる自分専用教科書構築メソッド（CloseBox） | テクノエッジ TechnoEdge",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-21T22:35:47+00:00",
-      "relevance_score": 12,
-      "url": "https://www.techno-edge.net/article/2026/07/22/5318.html",
-      "summary": "「音楽理論は不要」「いや、わかっていた方がいい」などとネット上では繰り返し繰り返し議論が起きていて、そこになんとなく混ざりたい気もするけど、そのレベルの知識もない状態です。 最近ではプロのミュージシャンの方々と音楽の仕事をしている関係上、最低限の知識は持っておきたいですし。 知人でバークリー音楽院...",
+      "published_at": "2026-07-22T04:46:34+00:00",
+      "relevance_score": 5,
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v",
+      "summary": "私は今、『VRChat』というゲームの中にいる。誰でも入ることのできる集会所ワールド「FUJIYAMA」の片隅で、この原稿を書いているのである。 周りを見渡すと、多くの人々がそれぞれの話題に花を咲かせている様子が伺える。 互いのアバターを褒めあう人、VRChatで行われる各種イベントがまとめられたカレンダーを見ながら...",
       "section": "observe"
     }
   ],
@@ -100,140 +40,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Multiples vulnérabilités dans Sonicwall Secure Mobile Access 1000 (15 juillet 2026)” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access 1000 (15 juillet 2026)",
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0875/",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-07-15T00:00:00+00:00",
-        "age_days": 8.0,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "security high-signal: code, 10"
-        ],
-        "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Secure Mobile Access 1000. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une falsification de requêtes côté serveur (SSRF). L'éditeur indique que les vulnérabilités CVE-2026-15409 et..."
-      },
-      {
-        "title": "2026-009: Critical Vulnerability in Microsoft SharePoint",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-009/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-07-22T10:39:13+00:00",
-        "age_days": 0.56,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, rce"
-        ],
-        "summary": "On 14 July 2026, Microsoft released a security update addressing a critical Remote Code Execution (RCE) in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code, and later, successful exploitation attempts. CERT-EU strongly recommend to update affected servers and to rotate…"
-      },
-      {
-        "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1300",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T12:02:53+00:00",
-        "age_days": 0.5,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Zustand zu verursachen oder vertrauliche Informationen offenzulegen."
-      },
-      {
-        "title": "[UPDATE] [kritisch] GNU libc: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1190",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T12:02:53+00:00",
-        "age_days": 0.5,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, kritisch",
-          "security high-signal: angriffe, kritisch"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um Dateien zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Budibase: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2472",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-22T11:57:55+00:00",
-        "age_days": 0.51,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Informationen offenzulegen Dateien zu manipulieren oder eine SQL-Injection durchzuführen."
-      }
-    ]
-  }
+  ]
 }
