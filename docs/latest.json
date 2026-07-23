@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T18:47:13+00:00",
-  "run_id": "2026-07-23T18:47:13+00:00",
+  "generated_at": "2026-07-23T19:16:33+00:00",
+  "run_id": "2026-07-23T19:16:33+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 89
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 89,
-    "displayed_findings": 89,
+    "new_relevant_findings": 1,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 0,
     "medium": 34,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -2149,6 +2149,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "832ef7ff4407b6f43578"
+      },
+      {
+        "title": "Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-23T18:19:14+00:00",
+        "fetched_at": "2026-07-23T19:16:00+00:00",
+        "summary": "You can now create multi-select fields in Projects and Issue fields so a single field can hold more than one value. Tag an item with everything it relates to (e.g.,… The post Multi-select fields for Projects and Issues in public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "091f4b420aad90f797bb"
       },
       {
         "title": "The hidden cost of Myanmar’s rare earth mines",
@@ -4291,6 +4311,26 @@
       "id": "832ef7ff4407b6f43578"
     },
     {
+      "title": "Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-23T18:19:14+00:00",
+      "fetched_at": "2026-07-23T19:16:00+00:00",
+      "summary": "You can now create multi-select fields in Projects and Issue fields so a single field can hold more than one value. Tag an item with everything it relates to (e.g.,… The post Multi-select fields for Projects and Issues in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "091f4b420aad90f797bb"
+    },
+    {
       "title": "The hidden cost of Myanmar’s rare earth mines",
       "url": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -4309,7 +4349,28 @@
       "id": "fe20a96428ca03b5f74a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-23T18:19:14+00:00",
+      "fetched_at": "2026-07-23T19:16:00+00:00",
+      "summary": "You can now create multi-select fields in Projects and Issue fields so a single field can hold more than one value. Tag an item with everything it relates to (e.g.,… The post Multi-select fields for Projects and Issues in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "091f4b420aad90f797bb"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
