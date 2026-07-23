@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T21:57:47+00:00",
-  "run_id": "2026-07-23T21:57:47+00:00",
+  "generated_at": "2026-07-23T22:23:10+00:00",
+  "run_id": "2026-07-23T22:23:10+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 98
+      "configured_public_sources_only": 99
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 98,
-    "displayed_findings": 98,
+    "today_file_total": 99,
+    "displayed_findings": 99,
     "high": 0,
     "medium": 36,
-    "observe": 62,
+    "observe": 63,
     "source_errors": 0
   },
   "sections": {
@@ -2004,6 +2004,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c0b7b1f08471fb49d60"
+      },
+      {
+        "title": "ソフトバンクの空飛ぶ基地局「HAPS」 8月に日本で飛行試験",
+        "url": "https://www.watch.impress.co.jp/docs/news/2127402.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T10:25:29+00:00",
+        "fetched_at": "2026-07-23T22:22:37+00:00",
+        "summary": "ソフトバンクの空飛ぶ基地局「HAPS」 8月に日本で飛行試験",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c6dced908d9843e2493"
       },
       {
         "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
@@ -4377,6 +4398,27 @@
       "id": "2c0b7b1f08471fb49d60"
     },
     {
+      "title": "ソフトバンクの空飛ぶ基地局「HAPS」 8月に日本で飛行試験",
+      "url": "https://www.watch.impress.co.jp/docs/news/2127402.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T10:25:29+00:00",
+      "fetched_at": "2026-07-23T22:22:37+00:00",
+      "summary": "ソフトバンクの空飛ぶ基地局「HAPS」 8月に日本で飛行試験",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c6dced908d9843e2493"
+    },
+    {
       "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4773,13 +4815,13 @@
   ],
   "new_findings": [
     {
-      "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html",
+      "title": "ソフトバンクの空飛ぶ基地局「HAPS」 8月に日本で飛行試験",
+      "url": "https://www.watch.impress.co.jp/docs/news/2127402.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T10:02:59+00:00",
-      "fetched_at": "2026-07-23T21:57:17+00:00",
-      "summary": "2025年の大阪・関西万博で紹介された最先端の製品や技術が、福祉分野で実用化され始めた。大阪ヘルスケアパビリオンで話題を呼んだ「ミライ人間洗濯機」を介護施設用に応用した入浴装置が、大阪市内の高齢者施設で導入されたほか、介護ロボットやAIによる見守りも注目される。介護の人手不足対策やヘルスケア産業の成長...",
+      "published_at": "2026-07-23T10:25:29+00:00",
+      "fetched_at": "2026-07-23T22:22:37+00:00",
+      "summary": "ソフトバンクの空飛ぶ基地局「HAPS」 8月に日本で飛行試験",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4791,7 +4833,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8a2d479a5a4ec714691f"
+      "id": "2c6dced908d9843e2493"
     }
   ],
   "source_errors": [],
