@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T11:34:09+00:00",
+  "generated_at": "2026-07-23T12:11:26+00:00",
   "topics": {
     "ai": [
       {
@@ -170,11 +170,39 @@
         "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/"
       },
       {
+        "title": "[NEU] [mittel] Exim: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T11:52:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2494"
+      },
+      {
+        "title": "[NEU] [hoch] pg_partman: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T11:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2493"
+      },
+      {
+        "title": "[NEU] [mittel] Unbound: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-23T11:37:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2492"
+      },
+      {
         "title": "[NEU] [mittel] ImageMagick: Schwachstelle ermöglicht nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-23T10:02:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2480"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Mozilla Firefox (15 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0887/"
       },
       {
         "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
@@ -279,6 +307,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
       },
       {
+        "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-15T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0884/"
+      },
+      {
         "title": "政府情報システムにおける利用者満足度評価の導入について掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-07-23T06:00:00+00:00",
@@ -298,13 +333,6 @@
         "published_at": "2026-07-23T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3"
-      },
-      {
-        "title": "デジタル推進委員オンラインコミュニティ登録マニュアルを更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-23T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/digital_promotion_staff/community"
       }
     ],
     "github": [

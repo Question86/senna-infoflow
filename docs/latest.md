@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T11:34:09+00:00_
+_Generiert: 2026-07-23T12:11:26+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+74 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Deep tech in a fractured world needs something very different. For much of the last 30 years, the working assumption behind technology and capital was simple: the world was converging into one increasingly integrated market. If you could build a product that scaled, global demand and global capital would be there to meet you. That […] The post Deeptech and a fracturing world: Why Southeast Asia needs a new playbook…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Mozilla Firefox (15 juillet 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0887/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-23T12:10:55+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手** — Score 8, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-23T04:39:27+00:00`, fetched `2026-07-23T10:54:06+00:00`
@@ -222,32 +231,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Google Cloudは2026年6月12日（米国時間）、大規模言語モデル（LLM）を活用するAIエージェントが必要とするナレッジを表現するためのオープンフォーマット「Open Knowledge Format」（OKF）のバージョン0.1を公開した。 OKFは、YAMLフロントマター（YAML形式のメタデータ）を持つMarkdownファイルのディレクトリとしてナ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Rechteausweitungslücke in Ubuntu durch snap** — Score 7, observation — [Quelle](https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-23T10:28:00.000+00:00`, fetched `2026-07-23T10:54:06+00:00`
-  - Treffer: Security
+- **Vulnérabilité dans Xen XAPI (15 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0884/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-23T12:10:55+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Xen XAPI. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke** — Score 7, observation — [Quelle](https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-23T07:13:00.000+00:00`, fetched `2026-07-23T07:35:24+00:00`
-  - Treffer: Security
+- **Vulnérabilité dans Tenable Nessus Agent (15 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0886/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-15T00:00:00+00:00`, fetched `2026-07-23T12:10:55+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Weitere Sicherheitslücken in SharePoint stehen unter Beschuss. Auch Check Point SmartConsole wird derzeit attackiert.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **政府情報システムにおける利用者満足度評価の導入について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-23T06:00:00+00:00`, fetched `2026-07-23T06:40:06+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 政府情報システムにおける利用者満足度評価の導入について掲載しました
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
