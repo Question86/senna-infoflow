@@ -113,7 +113,7 @@
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-23T02:00:12+00:00",
-        "age_days": 0.79,
+        "age_days": 0.81,
         "topics": [
           "axiom",
           "ai",
@@ -140,7 +140,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-23T09:57:57+00:00",
-        "age_days": 0.45,
+        "age_days": 0.48,
         "topics": [
           "security"
         ],
@@ -165,7 +165,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-23T09:57:57+00:00",
-        "age_days": 0.45,
+        "age_days": 0.48,
         "topics": [
           "security"
         ],
@@ -190,7 +190,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0421",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-23T09:57:56+00:00",
-        "age_days": 0.45,
+        "age_days": 0.48,
         "topics": [
           "security"
         ],
@@ -215,7 +215,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-23T09:02:56+00:00",
-        "age_days": 0.49,
+        "age_days": 0.51,
         "topics": [
           "security"
         ],
