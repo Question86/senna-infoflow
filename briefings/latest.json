@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T21:33:46+00:00",
-  "run_id": "2026-07-23T21:33:46+00:00",
+  "generated_at": "2026-07-23T21:57:47+00:00",
+  "run_id": "2026-07-23T21:57:47+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 97
+      "configured_public_sources_only": 98
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 97,
-    "displayed_findings": 97,
+    "new_relevant_findings": 1,
+    "today_file_total": 98,
+    "displayed_findings": 98,
     "high": 0,
     "medium": 36,
-    "observe": 61,
+    "observe": 62,
     "source_errors": 0
   },
   "sections": {
@@ -2004,6 +2004,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c0b7b1f08471fb49d60"
+      },
+      {
+        "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T10:02:59+00:00",
+        "fetched_at": "2026-07-23T21:57:17+00:00",
+        "summary": "2025年の大阪・関西万博で紹介された最先端の製品や技術が、福祉分野で実用化され始めた。大阪ヘルスケアパビリオンで話題を呼んだ「ミライ人間洗濯機」を介護施設用に応用した入浴装置が、大阪市内の高齢者施設で導入されたほか、介護ロボットやAIによる見守りも注目される。介護の人手不足対策やヘルスケア産業の成長...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8a2d479a5a4ec714691f"
       },
       {
         "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
@@ -4356,6 +4377,27 @@
       "id": "2c0b7b1f08471fb49d60"
     },
     {
+      "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T10:02:59+00:00",
+      "fetched_at": "2026-07-23T21:57:17+00:00",
+      "summary": "2025年の大阪・関西万博で紹介された最先端の製品や技術が、福祉分野で実用化され始めた。大阪ヘルスケアパビリオンで話題を呼んだ「ミライ人間洗濯機」を介護施設用に応用した入浴装置が、大阪市内の高齢者施設で導入されたほか、介護ロボットやAIによる見守りも注目される。介護の人手不足対策やヘルスケア産業の成長...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8a2d479a5a4ec714691f"
+    },
+    {
       "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
       "url": "https://togetter.com/li/2723874",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4731,81 +4773,13 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub MCP Server supports the next MCP specification",
-      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-23T20:38:22+00:00",
-      "fetched_at": "2026-07-23T21:33:11+00:00",
-      "summary": "The MCP protocol is going stateless on 28th July 2026, and the GitHub MCP Server supports the latest spec ahead of the official release. What’s changing The new stateless core… The post GitHub MCP Server supports the next MCP specification appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); GitHub (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP, MCP server"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "fa2c604340093cc7eae5"
-    },
-    {
-      "title": "アンソロピック「Claude Opus 5」明日にも発表か、GPT-5.6や中国AIに対抗 焦点は？",
-      "url": "https://www.sbbit.jp/article/cont1/186222",
+      "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T09:04:03+00:00",
-      "fetched_at": "2026-07-23T21:33:11+00:00",
-      "summary": "米アンソロピックが、次世代の最上位AIモデル「Claude Opus 5」を日本時間24日早朝にも発表するとの観測が強まっている。性能を高めながら安定性を高め、運用コストを抑えるモデルになるとの期待があり、OpenAIのGPT-5.6や低価格な中国勢との競争を左右しそうだ。 米アンソロピックが、次期最上位AIモデル「Claude Opus ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "63d8883d69c62e7ff240"
-    },
-    {
-      "title": "クラウドにOSSを「持っていかれる」問題：Elastic、Redis、HashiCorpから考えるAGPL - Convergence Lab.",
-      "url": "https://www.convergence-lab.com/blog/2026-07-23-open-core-agpl/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-23T02:17:28+00:00",
-      "fetched_at": "2026-07-23T21:33:11+00:00",
-      "summary": "「ソースコードを公開すれば、利用者が増え、改善が返ってきて、みんなが得をする」 OSSにはそんな理想があります。しかし、実際にプロジェクトが成功すると、別の光景が現れることがあります。巨大クラウド事業者がOSSをマネージドサービスとして提供し、運用の手軽さと販売網を武器に大きな売上を得る。一方、最初にソ...",
+      "published_at": "2026-07-23T10:02:59+00:00",
+      "fetched_at": "2026-07-23T21:57:17+00:00",
+      "summary": "2025年の大阪・関西万博で紹介された最先端の製品や技術が、福祉分野で実用化され始めた。大阪ヘルスケアパビリオンで話題を呼んだ「ミライ人間洗濯機」を介護施設用に応用した入浴装置が、大阪市内の高齢者施設で導入されたほか、介護ロボットやAIによる見守りも注目される。介護の人手不足対策やヘルスケア産業の成長...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4817,28 +4791,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1ece36135ce08e10d18d"
-    },
-    {
-      "title": "「惜しいデザイン」 を生み出さないための AIレビューループ",
-      "url": "https://speakerdeck.com/0b1tk/xi-siidezain-wosheng-michu-sanaitameno-airebiyurupu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-22T21:56:47+00:00",
-      "fetched_at": "2026-07-23T21:33:11+00:00",
-      "summary": "2026年7月22日 「AIで変わる設計と判断——デザイン × フロントエンド、複数社が語る失敗と工夫」 登壇資料",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "35632427e11de44d27e9"
+      "id": "8a2d479a5a4ec714691f"
     }
   ],
   "source_errors": [],
