@@ -23,6 +23,28 @@
     "id": "6decf553e2e4f38920b5"
   },
   {
+    "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+    "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-23T16:00:00+00:00",
+    "fetched_at": "2026-07-23T16:10:28+00:00",
+    "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d03a720b66e3cc4a4dcc"
+  },
+  {
     "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "url": "https://forbesjapan.com/articles/detail/101446",
     "source": "Hatena Bookmark Hotentry IT",

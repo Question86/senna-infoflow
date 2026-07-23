@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T15:35:21+00:00_
+_Generated: 2026-07-23T16:10:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `86`
 
 ## Top Signals
 
@@ -15,25 +15,25 @@ _Generated: 2026-07-23T15:35:21+00:00_
 - url: https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/
 - summary: Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud…
 
-### 2. 中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 2. The case for a cooldown: Why Dependabot now waits before issuing version updates
+- source: GitHub Blog Atom
+- score: `18`
+- published: `2026-07-23T16:00:00+00:00`
+- url: https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/
+- summary: A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version upd…
+
+### 3. 中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `18`
 - published: `2026-07-23T01:00:37+00:00`
 - url: https://forbesjapan.com/articles/detail/101446
 - summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
 
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-23T10:42:53+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3289
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.
-
 ### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-23T10:42:53+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2173
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3289
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.
 
 ### 5. M 5.0 - 38 km SSE of Spearman, Texas

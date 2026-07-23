@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T15:35:21+00:00",
+  "generated_at": "2026-07-23T16:10:59+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-23T02:00:12+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
+      },
+      {
+        "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-23T16:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/"
       },
       {
         "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-23T04:39:27+00:00",
         "relevance_score": 8,
         "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html"
-      },
-      {
-        "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T03:21:47+00:00",
-        "relevance_score": 8,
-        "url": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-07-23T02:00:12+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/"
+      },
+      {
+        "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-23T16:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -138,13 +145,29 @@
         "published_at": "2026-07-23T09:02:55+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063"
+      }
+    ],
+    "github": [
+      {
+        "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-23T16:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/"
       },
       {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Cockpit): Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-23T09:02:55+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1052"
+        "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
+        "source": "JPCERT/CC English Blog Atom",
+        "published_at": "2026-07-23T02:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html"
+      },
+      {
+        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-23T07:13:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
       }
     ],
     "geopolitics": [
@@ -340,22 +363,6 @@
         "published_at": "2026-07-23T12:27:20+00:00",
         "relevance_score": 8,
         "url": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o"
-      }
-    ],
-    "github": [
-      {
-        "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
-        "source": "JPCERT/CC English Blog Atom",
-        "published_at": "2026-07-23T02:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html"
-      },
-      {
-        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-23T07:13:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
       }
     ]
   }

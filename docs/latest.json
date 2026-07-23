@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T15:35:21+00:00",
-  "run_id": "2026-07-23T15:35:21+00:00",
+  "generated_at": "2026-07-23T16:10:59+00:00",
+  "run_id": "2026-07-23T16:10:59+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 33,
+    "medium": 34,
     "observe": 52,
     "source_errors": 0
   },
@@ -51,6 +51,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6decf553e2e4f38920b5"
+      },
+      {
+        "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+        "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-23T16:00:00+00:00",
+        "fetched_at": "2026-07-23T16:10:28+00:00",
+        "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d03a720b66e3cc4a4dcc"
       },
       {
         "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
@@ -2096,6 +2118,28 @@
       "id": "6decf553e2e4f38920b5"
     },
     {
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-23T16:00:00+00:00",
+      "fetched_at": "2026-07-23T16:10:28+00:00",
+      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d03a720b66e3cc4a4dcc"
+    },
+    {
       "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/101446",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4113,43 +4157,26 @@
   ],
   "new_findings": [
     {
-      "title": "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに ロッテが新サービス公開へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-23T04:06:48+00:00",
-      "fetched_at": "2026-07-23T15:34:50+00:00",
-      "summary": "ロッテは7月22日、生成AIサービス「ビックリマンAIグッズメーカー」を29日正午から提供開始すると発表した。利用者が顔写真をサイトにアップロードすると、AIがビックリマンの世界観に沿ったオリジナルキャラクター画像を生成。その画像を使った名刺やTシャツ、アクリルキーホルダーなどのグッズを注文できる。 ラインア...",
+      "published_at": "2026-07-23T16:00:00+00:00",
+      "fetched_at": "2026-07-23T16:10:28+00:00",
+      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3bb918eaaa9f6295ecb2"
-    },
-    {
-      "title": "The hidden cost of Myanmar’s rare earth mines",
-      "url": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-23T15:00:00+00:00",
-      "fetched_at": "2026-07-23T15:34:50+00:00",
-      "summary": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
-      "matched_keywords": [],
-      "relevance_score": 3,
-      "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fe20a96428ca03b5f74a"
+      "id": "d03a720b66e3cc4a4dcc"
     }
   ],
   "source_errors": [],
