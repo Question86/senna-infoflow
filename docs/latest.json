@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T17:49:19+00:00",
-  "run_id": "2026-07-23T17:49:19+00:00",
+  "generated_at": "2026-07-23T18:18:31+00:00",
+  "run_id": "2026-07-23T18:18:31+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 0,
     "medium": 34,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -979,6 +979,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0fe1e12abb0872753bf4"
+      },
+      {
+        "title": "M 4.6 - 8 km NNW of Jordán, Colombia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2u4",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-23T18:10:00.716+00:00",
+        "fetched_at": "2026-07-23T18:17:48+00:00",
+        "summary": "DYFI? - III Time 2026-07-23 17:50:29 UTC 2026-07-23 17:50:29 UTC at epicenter Location 6.804°N 73.126°W Depth 147.54 km (91.68 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d4d46c035fd259fdb868"
       },
       {
         "title": "M 5.1 - 92 km SE of Atka, Alaska",
@@ -3085,6 +3121,42 @@
       "id": "0fe1e12abb0872753bf4"
     },
     {
+      "title": "M 4.6 - 8 km NNW of Jordán, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2u4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-23T18:10:00.716+00:00",
+      "fetched_at": "2026-07-23T18:17:48+00:00",
+      "summary": "DYFI? - III Time 2026-07-23 17:50:29 UTC 2026-07-23 17:50:29 UTC at epicenter Location 6.804°N 73.126°W Depth 147.54 km (91.68 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d4d46c035fd259fdb868"
+    },
+    {
       "title": "M 5.1 - 92 km SE of Atka, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4239,25 +4311,40 @@
   ],
   "new_findings": [
     {
-      "title": "「マジで見づらいだけ」と大不評だったスーパーの生成AIポップ、看板ガチ勢の「きぬた歯科」さんの評価は意外にも…たしかに成功例はあるが、今回は的外れ？",
-      "url": "https://togetter.com/li/2723892",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.6 - 8 km NNW of Jordán, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2u4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-23T12:38:34+00:00",
-      "fetched_at": "2026-07-23T17:48:46+00:00",
-      "summary": "きぬた歯科 @西八王子 @kinutashika 看板王として言わせて頂きます。これはアリ、なんです。ありきたりでは差別化出来ません。POPをグチャグチャにする事で店内をカオス化させ、客のアドレナリンを促し、購買意欲を刺激する作戦です。パットしないスーパーは見習って下さい。#きぬた歯科 x.com/zoumotu/status… 2026-07-...",
+      "published_at": "2026-07-23T18:10:00.716+00:00",
+      "fetched_at": "2026-07-23T18:17:48+00:00",
+      "summary": "DYFI? - III Time 2026-07-23 17:50:29 UTC 2026-07-23 17:50:29 UTC at epicenter Location 6.804°N 73.126°W Depth 147.54 km (91.68 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2c0b7b1f08471fb49d60"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d4d46c035fd259fdb868"
     }
   ],
   "source_errors": [],

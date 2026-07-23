@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T17:49:19+00:00",
+  "generated_at": "2026-07-23T18:18:31+00:00",
   "topics": {
     "ai": [
       {
@@ -309,6 +309,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
       },
       {
+        "title": "M 4.6 - 8 km NNW of Jordán, Colombia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T18:10:00.716+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2u4"
+      },
+      {
         "title": "M 5.1 - 92 km SE of Atka, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-23T09:52:17.040+00:00",
@@ -356,13 +363,6 @@
         "published_at": "2026-07-23T12:34:38.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p1"
-      },
-      {
-        "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T12:27:20+00:00",
-        "relevance_score": 8,
-        "url": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o"
       }
     ]
   }
