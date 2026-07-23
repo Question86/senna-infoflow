@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-23T21:22:24Z",
+  "generated_at": "2026-07-23T21:48:31Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (Cockpit): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1052",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:55+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1049",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:54+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T02:00:12+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai",
         "security"
@@ -93,7 +93,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0774",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:57:57+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0614",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:57:57+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -145,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0421",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:57:56+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -171,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:56+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:55+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2384",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T11:47:52+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2493",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T11:42:53+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -275,7 +275,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T09:02:55+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -301,7 +301,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2454",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T08:22:55+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
