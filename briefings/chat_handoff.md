@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T23:07:21+00:00_
+_Generated: 2026-07-23T23:30:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `102`
+- findings: `103`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-23T23:07:21+00:00_
 - url: https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/
 - summary: Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud…
 
-### 2. The case for a cooldown: Why Dependabot now waits before issuing version updates
+### 2. M 5.8 - 130 km W of Ternate, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-07-23T23:29:04.056+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-07-23 22:58:36 UTC 2026-07-23 22:58:36 UTC at epicenter Location 0.592°N 126.224°E Depth 49.19 km (30.56 mi)
+
+### 3. The case for a cooldown: Why Dependabot now waits before issuing version updates
 - source: GitHub Blog Atom
 - score: `18`
 - published: `2026-07-23T16:00:00+00:00`
 - url: https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/
 - summary: A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version upd…
 
-### 3. 中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 4. 中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `18`
 - published: `2026-07-23T01:00:37+00:00`
 - url: https://forbesjapan.com/articles/detail/101446
 - summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
-
-### 4. GitHub MCP Server supports the next MCP specification
-- source: GitHub Changelog Atom
-- score: `16`
-- published: `2026-07-23T20:38:22+00:00`
-- url: https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification
-- summary: The MCP protocol is going stateless on 28th July 2026, and the GitHub MCP Server supports the latest spec ahead of the official release. What’s changing The new stateless core… The post GitHub MCP Server supports the next MCP specification appeared first on T…
 
 ### 5. M 5.0 - 38 km SSE of Spearman, Texas
 - source: USGS M4.5+ Earthquakes Past Hour

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T23:07:21+00:00_
+_Generiert: 2026-07-23T23:30:27+00:00_
 
 ## Kurzlage
 
-102 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+103 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud applications and collaboration workflows. That shift is creating an enormous opportunity. AI can help organisations move faster, automate routine work, […] The…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.8 - 130 km W of Ternate, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-23T23:29:04.056+00:00`, fetched `2026-07-23T23:29:59+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-07-23 22:58:36 UTC 2026-07-23 22:58:36 UTC at epicenter Location 0.592°N 126.224°E Depth 49.19 km (30.56 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The case for a cooldown: Why Dependabot now waits before issuing version updates** — Score 18, risk — [Quelle](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-07-23T16:00:00+00:00`, fetched `2026-07-23T16:10:28+00:00`

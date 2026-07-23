@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T23:07:21+00:00",
+  "generated_at": "2026-07-23T23:30:27+00:00",
   "topics": {
     "ai": [
       {
@@ -145,6 +145,78 @@
         "published_at": "2026-07-23T09:02:55+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1063"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 5.8 - 130 km W of Ternate, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T23:29:04.056+00:00",
+        "relevance_score": 19,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3"
+      },
+      {
+        "title": "M 5.1 - 85 km SE of Tatsugō, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T09:42:03.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3"
+      },
+      {
+        "title": "M 5.0 - 38 km SSE of Spearman, Texas",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T10:52:10.040+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
+      },
+      {
+        "title": "M 4.6 - 8 km NNW of Jordán, Colombia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T18:10:00.716+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2u4"
+      },
+      {
+        "title": "M 5.1 - 92 km SE of Atka, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T09:52:17.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5"
+      },
+      {
+        "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T03:10:56.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3"
+      },
+      {
+        "title": "M 4.8 - 33 km NNW of El Cardo, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T02:59:47.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku"
+      },
+      {
+        "title": "M 4.7 - 72 km S of Calama, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T02:12:05.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
+      },
+      {
+        "title": "M 4.5 - 275 km E of Levuka, Fiji",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T20:15:49.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2up"
+      },
+      {
+        "title": "M 4.7 - 150 km SSE of Lata, Solomon Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T14:38:00.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2t9"
       }
     ],
     "github": [
@@ -326,78 +398,6 @@
         "published_at": "2026-07-23T01:30:05+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/"
-      }
-    ],
-    "general": [
-      {
-        "title": "M 5.1 - 85 km SE of Tatsugō, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T09:42:03.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3"
-      },
-      {
-        "title": "M 5.0 - 38 km SSE of Spearman, Texas",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T10:52:10.040+00:00",
-        "relevance_score": 13,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
-      },
-      {
-        "title": "M 4.6 - 8 km NNW of Jordán, Colombia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T18:10:00.716+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2u4"
-      },
-      {
-        "title": "M 5.1 - 92 km SE of Atka, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T09:52:17.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5"
-      },
-      {
-        "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T03:10:56.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3"
-      },
-      {
-        "title": "M 4.8 - 33 km NNW of El Cardo, Peru",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T02:59:47.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku"
-      },
-      {
-        "title": "M 4.7 - 72 km S of Calama, Chile",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T02:12:05.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
-      },
-      {
-        "title": "M 4.5 - 275 km E of Levuka, Fiji",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T20:15:49.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2up"
-      },
-      {
-        "title": "M 4.7 - 150 km SSE of Lata, Solomon Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T14:38:00.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2t9"
-      },
-      {
-        "title": "M 4.9 - 57 km SW of Champerico, Guatemala",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-23T13:33:06.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p7"
       }
     ]
   }
