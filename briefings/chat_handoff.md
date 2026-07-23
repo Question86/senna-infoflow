@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T20:41:38+00:00_
+_Generated: 2026-07-23T21:33:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `93`
+- findings: `97`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-23T20:41:38+00:00_
 - url: https://forbesjapan.com/articles/detail/101446
 - summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
 
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
+### 4. GitHub MCP Server supports the next MCP specification
+- source: GitHub Changelog Atom
 - score: `16`
-- published: `2026-07-23T10:42:53+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3289
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder einen unspezifischen Angriff durchzuführen.
+- published: `2026-07-23T20:38:22+00:00`
+- url: https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification
+- summary: The MCP protocol is going stateless on 28th July 2026, and the GitHub MCP Server supports the latest spec ahead of the official release. What’s changing The new stateless core… The post GitHub MCP Server supports the next MCP specification appeared first on T…
 
 ### 5. M 5.0 - 38 km SSE of Spearman, Texas
 - source: USGS M4.5+ Earthquakes Past Hour
@@ -57,11 +57,11 @@ _Generated: 2026-07-23T20:41:38+00:00_
 - url: https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html
 - summary: Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...
 
-### 8. MAS pushes digital assets beyond crypto speculation as Coinbase expands in Singapore
-- source: e27 Asia Startup and Tech Feed
+### 8. アンソロピック「Claude Opus 5」明日にも発表か、GPT-5.6や中国AIに対抗 焦点は？
+- source: Hatena Bookmark Hotentry IT
 - score: `12`
-- published: `2026-07-23T05:23:16+00:00`
-- url: https://e27.co/mas-pushes-digital-assets-beyond-crypto-speculation-as-coinbase-expands-in-singapore-20260723/
-- summary: Singapore’s central bank is drawing a firmer line between digital assets built for speculation and those that could make financial markets work better, as global crypto exchange Coinbase expands its footprint in the city-state. Speaking at the opening of Coin…
+- published: `2026-07-23T09:04:03+00:00`
+- url: https://www.sbbit.jp/article/cont1/186222
+- summary: 米アンソロピックが、次世代の最上位AIモデル「Claude Opus 5」を日本時間24日早朝にも発表するとの観測が強まっている。性能を高めながら安定性を高め、運用コストを抑えるモデルになるとの期待があり、OpenAIのGPT-5.6や低価格な中国勢との競争を左右しそうだ。 米アンソロピックが、次期最上位AIモデル「Claude Opus ...
 
 END OF DOCUMENT

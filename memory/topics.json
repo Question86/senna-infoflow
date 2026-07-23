@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T20:41:38+00:00",
+  "generated_at": "2026-07-23T21:33:46+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent"
       },
       {
+        "title": "アンソロピック「Claude Opus 5」明日にも発表か、GPT-5.6や中国AIに対抗 焦点は？",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T09:04:03+00:00",
+        "relevance_score": 12,
+        "url": "https://www.sbbit.jp/article/cont1/186222"
+      },
+      {
         "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-22T08:40:52+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-23T01:00:07+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/"
-      },
-      {
-        "title": "Omio secures US$10M to expand multimodal travel booking in Japan, SEA",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T09:17:33+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/omio-secures-us10m-to-expand-multimodal-travel-booking-in-japan-sea-20260723/"
       }
     ],
     "security": [
@@ -154,6 +154,13 @@
         "published_at": "2026-07-23T16:00:00+00:00",
         "relevance_score": 18,
         "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/"
+      },
+      {
+        "title": "GitHub MCP Server supports the next MCP specification",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-23T20:38:22+00:00",
+        "relevance_score": 16,
+        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification"
       },
       {
         "title": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
