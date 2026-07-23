@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T00:55:11+00:00_
+_Generiert: 2026-07-23T01:30:24+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)“ aus Hatena Bookmark Hotentry IT (Score 12, observation).
+5 neue relevante Treffer. Stärkstes Signal: „OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)“ aus Hatena Bookmark Hotentry IT (Score 12, observation).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The end of headcount as a success metric: How AI is redefining scale** — Score 10, observation — [Quelle](https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-23T01:00:07+00:00`, fetched `2026-07-23T01:29:53+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
+  - Kurz: For years, startup success was often measured by visible growth. A bigger office. More departments. More employees. As founders, many of us dreamed of building the next great tech company, and somewhere along the way, headcount became a proxy for success. Every new hire felt like validation that the business was moving in the right […] The post The end of headcount as a success metric: How AI is redefining scale app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

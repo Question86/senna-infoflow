@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T00:55:11+00:00_
+_Generated: 2026-07-23T01:30:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `5`
 
 ## Top Signals
 
@@ -15,14 +15,21 @@ _Generated: 2026-07-23T00:55:11+00:00_
 - url: https://jbpress.ismedia.jp/articles/-/96058
 - summary: 2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社...
 
-### 2. 【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証
+### 2. The end of headcount as a success metric: How AI is redefining scale
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-07-23T01:00:07+00:00`
+- url: https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/
+- summary: For years, startup success was often measured by visible growth. A bigger office. More departments. More employees. As founders, many of us dreamed of building the next great tech company, and somewhere along the way, headcount became a proxy for success. Eve…
+
+### 3. 【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-07-22T23:43:01+00:00`
 - url: https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html
 - summary: 【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証
 
-### 3. 斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話
+### 4. 斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-07-22T04:46:34+00:00`

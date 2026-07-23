@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T00:55:11+00:00",
+  "generated_at": "2026-07-23T01:30:24+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-07-22T08:40:52+00:00",
         "relevance_score": 12,
         "url": "https://jbpress.ismedia.jp/articles/-/96058"
+      },
+      {
+        "title": "The end of headcount as a success metric: How AI is redefining scale",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T01:00:07+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/"
+      },
+      {
+        "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-02-24T01:43:24+00:00",
+        "relevance_score": 4,
+        "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions"
       }
     ],
     "general": [

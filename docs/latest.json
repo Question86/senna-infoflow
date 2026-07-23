@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T00:55:11+00:00",
-  "run_id": "2026-07-23T00:55:11+00:00",
+  "generated_at": "2026-07-23T01:30:24+00:00",
+  "run_id": "2026-07-23T01:30:24+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 2,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 0,
-    "observe": 3,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -51,6 +51,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0fe1e12abb0872753bf4"
+      },
+      {
+        "title": "The end of headcount as a success metric: How AI is redefining scale",
+        "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-23T01:00:07+00:00",
+        "fetched_at": "2026-07-23T01:29:53+00:00",
+        "summary": "For years, startup success was often measured by visible growth. A bigger office. More departments. More employees. As founders, many of us dreamed of building the next great tech company, and somewhere along the way, headcount became a proxy for success. Every new hire felt like validation that the business was moving in the right […] The post The end of headcount as a success metric: How AI is redefining scale app…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6dadc1d06b53dda2febe"
       },
       {
         "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
@@ -93,6 +115,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dad710c049f31ea7d868"
+      },
+      {
+        "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
+        "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-02-24T01:43:24+00:00",
+        "fetched_at": "2026-07-23T01:29:53+00:00",
+        "summary": "次の登壇イベントの資料です。 技術選定を突き詰める Online Conferenc​​e ――逆境を乗り越える意思決定プロセス # 参考資料 -",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "832ef7ff4407b6f43578"
       }
     ]
   },
@@ -118,6 +161,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0fe1e12abb0872753bf4"
+    },
+    {
+      "title": "The end of headcount as a success metric: How AI is redefining scale",
+      "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-23T01:00:07+00:00",
+      "fetched_at": "2026-07-23T01:29:53+00:00",
+      "summary": "For years, startup success was often measured by visible growth. A bigger office. More departments. More employees. As founders, many of us dreamed of building the next great tech company, and somewhere along the way, headcount became a proxy for success. Every new hire felt like validation that the business was moving in the right […] The post The end of headcount as a success metric: How AI is redefining scale app…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6dadc1d06b53dda2febe"
     },
     {
       "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
@@ -160,29 +225,72 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "dad710c049f31ea7d868"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
-      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
+      "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
+      "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-22T23:43:01+00:00",
-      "fetched_at": "2026-07-23T00:54:42+00:00",
-      "summary": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
+      "published_at": "2026-02-24T01:43:24+00:00",
+      "fetched_at": "2026-07-23T01:29:53+00:00",
+      "summary": "次の登壇イベントの資料です。 技術選定を突き詰める Online Conferenc​​e ――逆境を乗り越える意思決定プロセス # 参考資料 -",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d9cd1db803a0967aaf33"
+      "id": "832ef7ff4407b6f43578"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "The end of headcount as a success metric: How AI is redefining scale",
+      "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-23T01:00:07+00:00",
+      "fetched_at": "2026-07-23T01:29:53+00:00",
+      "summary": "For years, startup success was often measured by visible growth. A bigger office. More departments. More employees. As founders, many of us dreamed of building the next great tech company, and somewhere along the way, headcount became a proxy for success. Every new hire felt like validation that the business was moving in the right […] The post The end of headcount as a success metric: How AI is redefining scale app…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6dadc1d06b53dda2febe"
+    },
+    {
+      "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
+      "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-02-24T01:43:24+00:00",
+      "fetched_at": "2026-07-23T01:29:53+00:00",
+      "summary": "次の登壇イベントの資料です。 技術選定を突き詰める Online Conferenc​​e ――逆境を乗り越える意思決定プロセス # 参考資料 -",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "832ef7ff4407b6f43578"
     }
   ],
   "source_errors": [],
