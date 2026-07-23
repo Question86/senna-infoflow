@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-23T07:08:15Z",
+  "generated_at": "2026-07-23T08:00:23Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -26,6 +26,11 @@
       "title": "AI is already inside the enterprise. Has security kept up in Asia?",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
+      "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
       "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
@@ -54,11 +59,6 @@
     },
     {
       "title": "Analog Way製メディアサーバー「Picturall Quad Compact Mark II」におけるローカル権限昇格の脆弱性",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }

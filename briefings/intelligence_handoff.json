@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-23T07:08:15Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ISC BINDにおける複数の脆弱性（2026年7月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-07-23T08:00:23Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,62 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2458",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-23T06:42:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Berechtigungen zu erweitern, Sandbox-Escapes durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand au…"
+    },
+    {
+      "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
+      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-23T07:13:00.000+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, sharepoint",
+        "security high-signal: angriffe, sharepoint"
+      ],
+      "summary": "Weitere Sicherheitslücken in SharePoint stehen unter Beschuss. Auch Check Point SmartConsole wird derzeit attackiert."
+    },
+    {
       "title": "ISC BINDにおける複数の脆弱性（2026年7月）",
       "url": "https://jvn.jp/vu/JVNVU97496543/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-23T15:00:30+09:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -39,7 +90,7 @@
       "url": "https://jvn.jp/vu/JVNVU98636554/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-23T15:00:15+09:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -63,7 +114,7 @@
       "url": "https://jvn.jp/vu/JVNVU98875819/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-23T15:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -87,7 +138,7 @@
       "url": "https://jvn.jp/jp/JVN32082029/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-23T14:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -111,7 +162,7 @@
       "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T02:00:12+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -139,7 +190,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2443",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T06:07:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -165,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2251",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-23T04:57:54+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -191,7 +242,7 @@
       "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T06:30:32+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -217,7 +268,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 34.22,
+      "age_days": 34.25,
       "topics": [
         "ai"
       ],
@@ -236,7 +287,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.6 for 34.2d old signal",
+        "aging penalty -4.6 for 34.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -246,7 +297,7 @@
       "url": "https://www.digital.go.jp/policies/mynumber_resources",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-23T06:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -265,58 +316,6 @@
         "security high-signal: rce"
       ],
       "summary": "広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました"
-    },
-    {
-      "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-23T03:59:48+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か（1/2 ページ） 7月16日の午前中から昼前後の時間帯にかけて起きていたクレジットカードの大規模障害について、ビザ・ワールドワイド・ジャパンは傘下企業の米Cybersourceでのプログラム変更に起因するトラブルが原因だったというの..."
-    },
-    {
-      "title": "The role of thought leadership in scaling beyond your first market",
-      "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-23T01:30:05+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: regional",
-        "high terms: execution",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "For many startups, expanding into a second or third market is a defining milestone. It signals that the business has moved beyond product-market fit and is ready to grow regionally. Yet while expansion strategies often focus on hiring, partnerships, and go-to-market execution, communications are frequently treated as…"
     }
   ],
   "read_order": [
@@ -328,7 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }
