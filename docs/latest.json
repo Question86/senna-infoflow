@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T14:53:18+00:00",
-  "run_id": "2026-07-23T14:53:18+00:00",
+  "generated_at": "2026-07-23T15:35:21+00:00",
+  "run_id": "2026-07-23T15:35:21+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "new_relevant_findings": 2,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 33,
-    "observe": 50,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -1822,6 +1822,27 @@
         "id": "5d343af148d24ce1d000"
       },
       {
+        "title": "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに ロッテが新サービス公開へ",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T04:06:48+00:00",
+        "fetched_at": "2026-07-23T15:34:50+00:00",
+        "summary": "ロッテは7月22日、生成AIサービス「ビックリマンAIグッズメーカー」を29日正午から提供開始すると発表した。利用者が顔写真をサイトにアップロードすると、AIがビックリマンの世界観に沿ったオリジナルキャラクター画像を生成。その画像を使った名刺やTシャツ、アクリルキーホルダーなどのグッズを注文できる。 ラインア...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3bb918eaaa9f6295ecb2"
+      },
+      {
         "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
         "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2029,6 +2050,24 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "832ef7ff4407b6f43578"
+      },
+      {
+        "title": "The hidden cost of Myanmar’s rare earth mines",
+        "url": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-23T15:00:00+00:00",
+        "fetched_at": "2026-07-23T15:34:50+00:00",
+        "summary": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
+        "matched_keywords": [],
+        "relevance_score": 3,
+        "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fe20a96428ca03b5f74a"
       }
     ]
   },
@@ -3824,6 +3863,27 @@
       "id": "5d343af148d24ce1d000"
     },
     {
+      "title": "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに ロッテが新サービス公開へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T04:06:48+00:00",
+      "fetched_at": "2026-07-23T15:34:50+00:00",
+      "summary": "ロッテは7月22日、生成AIサービス「ビックリマンAIグッズメーカー」を29日正午から提供開始すると発表した。利用者が顔写真をサイトにアップロードすると、AIがビックリマンの世界観に沿ったオリジナルキャラクター画像を生成。その画像を使った名刺やTシャツ、アクリルキーホルダーなどのグッズを注文できる。 ラインア...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bb918eaaa9f6295ecb2"
+    },
+    {
       "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4031,86 +4091,65 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "832ef7ff4407b6f43578"
+    },
+    {
+      "title": "The hidden cost of Myanmar’s rare earth mines",
+      "url": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-23T15:00:00+00:00",
+      "fetched_at": "2026-07-23T15:34:50+00:00",
+      "summary": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
+      "matched_keywords": [],
+      "relevance_score": 3,
+      "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe20a96428ca03b5f74a"
     }
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 150 km SSE of Lata, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2t9",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-23T14:38:00.040+00:00",
-      "fetched_at": "2026-07-23T14:52:41+00:00",
-      "summary": "Time 2026-07-23 14:12:59 UTC 2026-07-23 14:12:59 UTC at epicenter Location 11.941°S 166.423°E Depth 186.51 km (115.89 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "df6b01ac5b40a4ee2a67"
-    },
-    {
-      "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-07-23T14:15:00+00:00",
-      "fetched_at": "2026-07-23T14:52:41+00:00",
-      "summary": "ECB reveals shortlisted designs for new banknotes and launches public survey",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "80df0fd839968cea7a7d"
-    },
-    {
-      "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
-      "url": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o",
+      "title": "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに ロッテが新サービス公開へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T12:27:20+00:00",
-      "fetched_at": "2026-07-23T14:52:41+00:00",
-      "summary": "はじめに Palantir Foundry の「オントロジー（Ontology）」—— 物理データを意味のあるビジネスオブジェクトに抽象化し、Read/Write-back を統制するレイヤー。あの概念を ミニマム実装した OSS が公開されていたので、動かして検証した。 本家リポジトリ: gura105/operational-ontology (MIT, 22★) この記事では、実際...",
+      "published_at": "2026-07-23T04:06:48+00:00",
+      "fetched_at": "2026-07-23T15:34:50+00:00",
+      "summary": "ロッテは7月22日、生成AIサービス「ビックリマンAIグッズメーカー」を29日正午から提供開始すると発表した。利用者が顔写真をサイトにアップロードすると、AIがビックリマンの世界観に沿ったオリジナルキャラクター画像を生成。その画像を使った名刺やTシャツ、アクリルキーホルダーなどのグッズを注文できる。 ラインア...",
       "matched_keywords": [
         "Hatena",
-        "hotentry",
-        "Open Source"
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8fa62642b29565869bcc"
+      "id": "3bb918eaaa9f6295ecb2"
+    },
+    {
+      "title": "The hidden cost of Myanmar’s rare earth mines",
+      "url": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-23T15:00:00+00:00",
+      "fetched_at": "2026-07-23T15:34:50+00:00",
+      "summary": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
+      "matched_keywords": [],
+      "relevance_score": 3,
+      "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe20a96428ca03b5f74a"
     }
   ],
   "source_errors": [],

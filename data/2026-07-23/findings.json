@@ -1790,6 +1790,27 @@
     "id": "5d343af148d24ce1d000"
   },
   {
+    "title": "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに ロッテが新サービス公開へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T04:06:48+00:00",
+    "fetched_at": "2026-07-23T15:34:50+00:00",
+    "summary": "ロッテは7月22日、生成AIサービス「ビックリマンAIグッズメーカー」を29日正午から提供開始すると発表した。利用者が顔写真をサイトにアップロードすると、AIがビックリマンの世界観に沿ったオリジナルキャラクター画像を生成。その画像を使った名刺やTシャツ、アクリルキーホルダーなどのグッズを注文できる。 ラインア...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3bb918eaaa9f6295ecb2"
+  },
+  {
     "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
     "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1997,5 +2018,23 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "832ef7ff4407b6f43578"
+  },
+  {
+    "title": "The hidden cost of Myanmar’s rare earth mines",
+    "url": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-23T15:00:00+00:00",
+    "fetched_at": "2026-07-23T15:34:50+00:00",
+    "summary": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
+    "matched_keywords": [],
+    "relevance_score": 3,
+    "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fe20a96428ca03b5f74a"
   }
 ]
