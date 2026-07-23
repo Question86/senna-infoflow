@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T02:22:26+00:00",
+  "generated_at": "2026-07-23T03:37:18+00:00",
   "topics": {
     "ai": [
       {
@@ -51,13 +51,50 @@
         "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html"
       }
     ],
+    "economy": [
+      {
+        "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T03:36:25+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/"
+      },
+      {
+        "title": "The role of thought leadership in scaling beyond your first market",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-23T01:30:05+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/"
+      }
+    ],
     "general": [
+      {
+        "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T03:10:56.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3"
+      },
+      {
+        "title": "M 4.8 - 33 km NNW of El Cardo, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T02:59:47.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku"
+      },
       {
         "title": "M 4.7 - 72 km S of Calama, Chile",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-23T02:12:05.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
+      },
+      {
+        "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T01:03:40+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html"
       },
       {
         "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
@@ -72,15 +109,6 @@
         "published_at": "2026-07-22T04:46:34+00:00",
         "relevance_score": 5,
         "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v"
-      }
-    ],
-    "economy": [
-      {
-        "title": "The role of thought leadership in scaling beyond your first market",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-23T01:30:05+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/"
       }
     ]
   }
