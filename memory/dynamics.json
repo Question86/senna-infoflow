@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-23T03:52:42Z",
+  "generated_at": "2026-07-23T05:01:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 17,
+    "dynamics": 19,
     "bands": {
       "extreme": 1,
       "strong": 2,
-      "watch": 5,
-      "quiet": 9
+      "watch": 6,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 5,
-      "quiet": 9
+      "watch": 6,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T02:00:12+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 34.08,
+      "age_days": 34.13,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T01:30:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -107,7 +107,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-23T02:59:47.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -132,7 +132,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-23T02:12:05.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -157,7 +157,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-23T03:10:56.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -181,7 +181,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-07-23T02:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -201,11 +201,35 @@
       "summary": "This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas[Takumi1.1], as well as other topics not covered in the Internet Threat Monitoring Quarterly Report. This article covers monitoring results from January to March 2026...."
     },
     {
+      "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
+      "url": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-23T00:40:28+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ..."
+    },
+    {
       "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
       "url": "https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T03:36:25+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -225,11 +249,35 @@
       "summary": "Vietnam’s electric vehicle (EV) market is entering a more practical phase. After years of attention on vehicle launches, subsidies, and consumer adoption, the next question is becoming harder to ignore: where will all these cars and motorbikes charge, and who will pay to build the network? That question sits at the ce…"
     },
     {
+      "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
+      "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-23T04:40:41+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Bitcoin sits at US$66,188.15 this morning, down 0.65 per cent over the past 24 hours, and the number tells only a fraction of the story. The cryptocurrency pulled back from a one-month high near US$67,000 as WTI crude oil surged above US$85 and then climbed further toward US$94 per barrel amid an escalating US-Iran co…"
+    },
+    {
       "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:03:40+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -253,7 +301,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T23:43:01+00:00",
-      "age_days": 0.17,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -277,7 +325,7 @@
       "url": "https://jbpress.ismedia.jp/articles/-/96058",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T08:40:52+00:00",
-      "age_days": 0.8,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -302,7 +350,7 @@
       "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T01:00:07+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -327,7 +375,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 33.04,
+      "age_days": 33.09,
       "topics": [
         "general"
       ],
@@ -343,7 +391,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 33.0d old signal"
+        "aging penalty -16.0 for 33.1d old signal"
       ],
       "summary": ""
     },
@@ -352,7 +400,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 33.04,
+      "age_days": 33.09,
       "topics": [
         "general"
       ],
@@ -368,7 +416,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 33.0d old signal"
+        "aging penalty -16.0 for 33.1d old signal"
       ],
       "summary": ""
     },
@@ -377,7 +425,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 33.04,
+      "age_days": 33.09,
       "topics": [
         "ai"
       ],
@@ -394,7 +442,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 33.0d old signal",
+        "aging penalty -16.0 for 33.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -404,7 +452,7 @@
       "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T04:46:34+00:00",
-      "age_days": 0.96,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -429,7 +477,7 @@
       "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-02-24T01:43:24+00:00",
-      "age_days": 149.09,
+      "age_days": 149.14,
       "topics": [
         "ai"
       ],
