@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T13:19:28+00:00",
-  "run_id": "2026-07-23T13:19:28+00:00",
+  "generated_at": "2026-07-23T14:04:38+00:00",
+  "run_id": "2026-07-23T14:04:38+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 2,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 33,
-    "observe": 45,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1235,6 +1235,42 @@
         "id": "44a76dd4d3df89d53889"
       },
       {
+        "title": "M 4.9 - 57 km SW of Champerico, Guatemala",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p7",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-23T13:33:06.040+00:00",
+        "fetched_at": "2026-07-23T14:04:07+00:00",
+        "summary": "Time 2026-07-23 13:14:03 UTC 2026-07-23 13:14:03 UTC at epicenter Location 13.876°N 92.234°W Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4006aaab3db787f72fe7"
+      },
+      {
         "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
         "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -1790,6 +1826,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "195a39237a6c98ebbb86"
+      },
+      {
+        "title": "「なんかアカウントもしかして乗っ取られてません?」10年以上前に使っていたX(Twitter)アカウントが乗っ取られたので、行政書士を通してX本社に書類を送りアカウントを復旧させた話",
+        "url": "https://togetter.com/li/2723727",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T01:31:23+00:00",
+        "fetched_at": "2026-07-23T14:04:07+00:00",
+        "summary": "アルコリリカ🍷公式アカウント @rcoririca 📢本日より連載開始❣✨ #アルコリリカ 『異世界では最推しになりたい』 漫画：砂尾（@suna_bl） 人間不信の宰相補佐×トラウマ持ち炎上アイドルの 人生リスタート神子選挙ファンタジーBL！ ▼連載はこちら👀 comic-walker.com/detail/KC_0087… pic.x.com/Im0obB1Mrs 2026-05-28 1...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2cfcc3499e4a334a0557"
       },
       {
         "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
@@ -3102,6 +3159,42 @@
       "id": "44a76dd4d3df89d53889"
     },
     {
+      "title": "M 4.9 - 57 km SW of Champerico, Guatemala",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-23T13:33:06.040+00:00",
+      "fetched_at": "2026-07-23T14:04:07+00:00",
+      "summary": "Time 2026-07-23 13:14:03 UTC 2026-07-23 13:14:03 UTC at epicenter Location 13.876°N 92.234°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4006aaab3db787f72fe7"
+    },
+    {
       "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
       "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -3659,6 +3752,27 @@
       "id": "195a39237a6c98ebbb86"
     },
     {
+      "title": "「なんかアカウントもしかして乗っ取られてません?」10年以上前に使っていたX(Twitter)アカウントが乗っ取られたので、行政書士を通してX本社に書類を送りアカウントを復旧させた話",
+      "url": "https://togetter.com/li/2723727",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T01:31:23+00:00",
+      "fetched_at": "2026-07-23T14:04:07+00:00",
+      "summary": "アルコリリカ🍷公式アカウント @rcoririca 📢本日より連載開始❣✨ #アルコリリカ 『異世界では最推しになりたい』 漫画：砂尾（@suna_bl） 人間不信の宰相補佐×トラウマ持ち炎上アイドルの 人生リスタート神子選挙ファンタジーBL！ ▼連載はこちら👀 comic-walker.com/detail/KC_0087… pic.x.com/Im0obB1Mrs 2026-05-28 1...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2cfcc3499e4a334a0557"
+    },
+    {
       "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3765,24 +3879,61 @@
   ],
   "new_findings": [
     {
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "M 4.9 - 57 km SW of Champerico, Guatemala",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-23T13:00:00+00:00",
-      "fetched_at": "2026-07-23T13:18:58+00:00",
-      "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "published_at": "2026-07-23T13:33:06.040+00:00",
+      "fetched_at": "2026-07-23T14:04:07+00:00",
+      "summary": "Time 2026-07-23 13:14:03 UTC 2026-07-23 13:14:03 UTC at epicenter Location 13.876°N 92.234°W Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
-        "Macro/Policy"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4006aaab3db787f72fe7"
+    },
+    {
+      "title": "「なんかアカウントもしかして乗っ取られてません?」10年以上前に使っていたX(Twitter)アカウントが乗っ取られたので、行政書士を通してX本社に書類を送りアカウントを復旧させた話",
+      "url": "https://togetter.com/li/2723727",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T01:31:23+00:00",
+      "fetched_at": "2026-07-23T14:04:07+00:00",
+      "summary": "アルコリリカ🍷公式アカウント @rcoririca 📢本日より連載開始❣✨ #アルコリリカ 『異世界では最推しになりたい』 漫画：砂尾（@suna_bl） 人間不信の宰相補佐×トラウマ持ち炎上アイドルの 人生リスタート神子選挙ファンタジーBL！ ▼連載はこちら👀 comic-walker.com/detail/KC_0087… pic.x.com/Im0obB1Mrs 2026-05-28 1...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b0e89bd56fb95ab20c2d"
+      "id": "2cfcc3499e4a334a0557"
     }
   ],
   "source_errors": [],

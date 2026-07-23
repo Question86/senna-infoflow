@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T13:19:28+00:00",
+  "generated_at": "2026-07-23T14:04:38+00:00",
   "topics": {
     "ai": [
       {
@@ -307,6 +307,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
       },
       {
+        "title": "M 4.9 - 57 km SW of Champerico, Guatemala",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-23T13:33:06.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p7"
+      },
+      {
         "title": "M 4.9 - Pagan region, Northern Mariana Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-23T12:34:38.040+00:00",
@@ -326,13 +333,6 @@
         "published_at": "2026-07-23T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation"
-      },
-      {
-        "title": "広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-23T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/mynumber_resources"
       }
     ],
     "github": [
