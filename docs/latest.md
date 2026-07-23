@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T06:40:44+00:00_
+_Generiert: 2026-07-23T07:35:58+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+35 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2458)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-23T06:42:53+00:00`, fetched `2026-07-23T07:35:24+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Berechtigungen zu erweitern, Sandbox-Escapes durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Speicherbeschädigungen zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2443)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-23T06:07:54+00:00`, fetched `2026-07-23T06:40:06+00:00`
@@ -176,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 中国企業のMoonshot AIは日本時間の2026年7月17日に高性能AIモデル「Kimi K3」をリリースしました。このKimi K3について、ホワイトハウス科学技術政策局のマイケル・クラツィオス局長が「AnthropicのClaude Fableを蒸留したという情報をつかんだ」と発表しました。 We have information that Moonshot AI distilled Anth...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke** — Score 7, observation — [Quelle](https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-23T07:13:00.000+00:00`, fetched `2026-07-23T07:35:24+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Weitere Sicherheitslücken in SharePoint stehen unter Beschuss. Auch Check Point SmartConsole wird derzeit attackiert.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **政府情報システムにおける利用者満足度評価の導入について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation)
   - Quelle: Japan Digital Agency News RSS / `rss`

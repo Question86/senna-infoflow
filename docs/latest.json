@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T06:40:44+00:00",
-  "run_id": "2026-07-23T06:40:44+00:00",
+  "generated_at": "2026-07-23T07:35:58+00:00",
+  "run_id": "2026-07-23T07:35:58+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 11,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 3,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
-    "medium": 9,
-    "observe": 23,
+    "medium": 10,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -184,6 +184,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b4c7f6b57c1c0bbfd8c5"
+      },
+      {
+        "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2458",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-23T06:42:53+00:00",
+        "fetched_at": "2026-07-23T07:35:24+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Berechtigungen zu erweitern, Sandbox-Escapes durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Speicherbeschädigungen zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "62759a2e7491c46d6d66"
       },
       {
         "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
@@ -538,6 +561,26 @@
         "id": "5e3541c48eff4d2727b9"
       },
       {
+        "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
+        "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-23T07:13:00.000+00:00",
+        "fetched_at": "2026-07-23T07:35:24+00:00",
+        "summary": "Weitere Sicherheitslücken in SharePoint stehen unter Beschuss. Auch Check Point SmartConsole wird derzeit attackiert.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "53dd59880309cfc3ceeb"
+      },
+      {
         "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
         "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -673,6 +716,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "939ee9920a71d6d1c811"
+      },
+      {
+        "title": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2127137.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T02:34:13+00:00",
+        "fetched_at": "2026-07-23T07:35:24+00:00",
+        "summary": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1521aad7da8763c11e6d"
       },
       {
         "title": "スクラムの「うまくいかない」はなぜ？ 組織や関係性に隠れた課題を探る - Agile Journey",
@@ -957,6 +1021,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b4c7f6b57c1c0bbfd8c5"
+    },
+    {
+      "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2458",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-23T06:42:53+00:00",
+      "fetched_at": "2026-07-23T07:35:24+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Berechtigungen zu erweitern, Sandbox-Escapes durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Speicherbeschädigungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "62759a2e7491c46d6d66"
     },
     {
       "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
@@ -1309,6 +1396,26 @@
       "id": "5e3541c48eff4d2727b9"
     },
     {
+      "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
+      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-23T07:13:00.000+00:00",
+      "fetched_at": "2026-07-23T07:35:24+00:00",
+      "summary": "Weitere Sicherheitslücken in SharePoint stehen unter Beschuss. Auch Check Point SmartConsole wird derzeit attackiert.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "53dd59880309cfc3ceeb"
+    },
+    {
       "title": "Bitcoin volume drops 6.14%, and everyone calls a bottom, I disagree",
       "url": "https://e27.co/bitcoin-volume-drops-6-14-and-everyone-calls-a-bottom-i-disagree-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1446,6 +1553,27 @@
       "id": "939ee9920a71d6d1c811"
     },
     {
+      "title": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2127137.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T02:34:13+00:00",
+      "fetched_at": "2026-07-23T07:35:24+00:00",
+      "summary": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1521aad7da8763c11e6d"
+    },
+    {
       "title": "スクラムの「うまくいかない」はなぜ？ 組織や関係性に隠れた課題を探る - Agile Journey",
       "url": "https://agilejourney.uzabase.com/entry/2026/07/23/103000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1573,101 +1701,13 @@
   ],
   "new_findings": [
     {
-      "title": "AI phishing is turning trust into APAC cybersecurity’s weakest link",
-      "url": "https://e27.co/ai-phishing-is-turning-trust-into-apac-cybersecuritys-weakest-link-20260723/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-23T06:30:32+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "For years, cybersecurity teams have told employees to look for the usual clues: awkward grammar, strange email addresses, urgent requests, and links that do not quite look right. Generative AI is making that advice less reliable. A new Mimecast study suggests that many organisations in Asia Pacific now expect attackers to use AI against them, […] The post AI phishing is turning trust into APAC cybersecurity’s weakes…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Security"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d208cb8421ad399b6749"
-    },
-    {
-      "title": "ISC BINDにおける複数の脆弱性（2026年7月）",
-      "url": "https://jvn.jp/vu/JVNVU97496543/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-23T15:00:30+09:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "29fe90aa0a78f9ce14ea"
-    },
-    {
-      "title": "バックアップソフトウェア「Duplicati」における不適切な権限割り当てに関する脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98636554/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-23T15:00:15+09:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a5757443f060f0f8c5b1"
-    },
-    {
-      "title": "Analog Way製メディアサーバー「Picturall Quad Compact Mark II」におけるローカル権限昇格の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98875819/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-23T15:00:00+09:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1692af8a2aee563dba74"
-    },
-    {
-      "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2443",
+      "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2458",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-23T06:07:54+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Java SE ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "published_at": "2026-07-23T06:42:53+00:00",
+      "fetched_at": "2026-07-23T07:35:24+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Berechtigungen zu erweitern, Sandbox-Escapes durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Speicherbeschädigungen zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1681,118 +1721,36 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ebee36a7d051cf4918f3"
+      "id": "62759a2e7491c46d6d66"
     },
     {
-      "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
-      "url": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
+      "title": "Microsoft SharePoint: Angriffe auf weitere Sicherheitslücke",
+      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-23T07:13:00.000+00:00",
+      "fetched_at": "2026-07-23T07:35:24+00:00",
+      "summary": "Weitere Sicherheitslücken in SharePoint stehen unter Beschuss. Auch Check Point SmartConsole wird derzeit attackiert.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "53dd59880309cfc3ceeb"
+    },
+    {
+      "title": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2127137.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T03:21:47+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "中国企業のMoonshot AIは日本時間の2026年7月17日に高性能AIモデル「Kimi K3」をリリースしました。このKimi K3について、ホワイトハウス科学技術政策局のマイケル・クラツィオス局長が「AnthropicのClaude Fableを蒸留したという情報をつかんだ」と発表しました。 We have information that Moonshot AI distilled Anth...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5e3541c48eff4d2727b9"
-    },
-    {
-      "title": "デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました",
-      "url": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-23T06:00:00+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e3ae183bf8edba19583b"
-    },
-    {
-      "title": "広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました",
-      "url": "https://www.digital.go.jp/policies/mynumber_resources",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-23T06:00:00+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "28772efb5727f6b72b1d"
-    },
-    {
-      "title": "デジタル推進委員オンラインコミュニティ登録マニュアルを更新しました",
-      "url": "https://www.digital.go.jp/policies/digital_promotion_staff/community",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-23T06:00:00+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "デジタル推進委員オンラインコミュニティ登録マニュアルを更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2ca1928be52b5a778d8e"
-    },
-    {
-      "title": "政府情報システムにおける利用者満足度評価の導入について掲載しました",
-      "url": "https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-23T06:00:00+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "政府情報システムにおける利用者満足度評価の導入について掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e497869c51bf4f94abc6"
-    },
-    {
-      "title": "スクラムの「うまくいかない」はなぜ？ 組織や関係性に隠れた課題を探る - Agile Journey",
-      "url": "https://agilejourney.uzabase.com/entry/2026/07/23/103000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-23T01:32:12+00:00",
-      "fetched_at": "2026-07-23T06:40:06+00:00",
-      "summary": "関西のスクラム・アジャイルコミュニティを牽引してきた「スクラム道関西」。2012年の設立以来、現場のリアルな葛藤を安心して分かち合える場として、これまで170回以上の「オープン・ジャム（定期開催している参加者同士の対話イベント）」を開催してきました。 「デイリースクラムが15分で終わらない」「スクラムマス...",
+      "published_at": "2026-07-23T02:34:13+00:00",
+      "fetched_at": "2026-07-23T07:35:24+00:00",
+      "summary": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1804,7 +1762,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "195a39237a6c98ebbb86"
+      "id": "1521aad7da8763c11e6d"
     }
   ],
   "source_errors": [],
