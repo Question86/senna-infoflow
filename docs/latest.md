@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-23T22:42:50+00:00_
+_Generiert: 2026-07-23T23:07:21+00:00_
 
 ## Kurzlage
 
-101 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+102 neue relevante Treffer. Stärkstes Signal: „AI is already inside the enterprise. Has security kept up in Asia?“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-23T22:42:50+00:00",
+  "generated_at": "2026-07-23T23:07:21+00:00",
   "topics": {
     "ai": [
       {
@@ -189,6 +189,13 @@
         "published_at": "2026-07-23T07:13:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html"
+      },
+      {
+        "title": "Copilot cloud agent for Linear is now generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-23T22:32:23+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available"
       },
       {
         "title": "Multi-select fields for Projects and Issues in public preview",

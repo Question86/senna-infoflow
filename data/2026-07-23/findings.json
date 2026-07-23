@@ -1895,6 +1895,27 @@
     "id": "f6d4542b0139699a9ad5"
   },
   {
+    "title": "Copilot cloud agent for Linear is now generally available",
+    "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-23T22:32:23+00:00",
+    "fetched_at": "2026-07-23T23:06:51+00:00",
+    "summary": "You can now assign issues in Linear to Copilot cloud agent, our asynchronous, autonomous background agent. When you assign a Linear issue to Copilot, it will: Analyze the issue contents… The post Copilot cloud agent for Linear is now generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b6580c599244c6c2137b"
+  },
+  {
     "title": "政府情報システムにおける利用者満足度評価の導入について掲載しました",
     "url": "https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation",
     "source": "Japan Digital Agency News RSS",
