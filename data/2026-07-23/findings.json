@@ -1203,6 +1203,62 @@
     "id": "44a76dd4d3df89d53889"
   },
   {
+    "title": "M 4.7 - 150 km SSE of Lata, Solomon Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2t9",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-23T14:38:00.040+00:00",
+    "fetched_at": "2026-07-23T14:52:41+00:00",
+    "summary": "Time 2026-07-23 14:12:59 UTC 2026-07-23 14:12:59 UTC at epicenter Location 11.941°S 166.423°E Depth 186.51 km (115.89 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "df6b01ac5b40a4ee2a67"
+  },
+  {
+    "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-23T14:15:00+00:00",
+    "fetched_at": "2026-07-23T14:52:41+00:00",
+    "summary": "ECB reveals shortlisted designs for new banknotes and launches public survey",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "80df0fd839968cea7a7d"
+  },
+  {
     "title": "M 4.9 - 57 km SW of Champerico, Guatemala",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2p7",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1333,6 +1389,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "319cae36e5debd5f7373"
+  },
+  {
+    "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
+    "url": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T12:27:20+00:00",
+    "fetched_at": "2026-07-23T14:52:41+00:00",
+    "summary": "はじめに Palantir Foundry の「オントロジー（Ontology）」—— 物理データを意味のあるビジネスオブジェクトに抽象化し、Read/Write-back を統制するレイヤー。あの概念を ミニマム実装した OSS が公開されていたので、動かして検証した。 本家リポジトリ: gura105/operational-ontology (MIT, 22★) この記事では、実際...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Open Source"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8fa62642b29565869bcc"
   },
   {
     "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",

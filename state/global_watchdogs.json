@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T14:04:42+00:00",
+  "generated_at": "2026-07-23T14:53:21+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,8 +65,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange notification for tropical cyclone ELEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 17.242 million .",
-        "summary": "Orange notification for tropical cyclone ELEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 17.242 million .",
+        "title": "GDACS: Orange notification for tropical cyclone ELEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 23.59 million .",
+        "summary": "Orange notification for tropical cyclone ELEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 23.59 million .",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001294",
         "published_at": "",
