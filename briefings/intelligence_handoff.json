@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-23T00:54:01Z",
+  "generated_at": "2026-07-23T01:32:12Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 33.96,
+      "age_days": 33.98,
       "topics": [
         "ai"
       ],
@@ -40,11 +40,35 @@
       "summary": ""
     },
     {
+      "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
+      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-22T23:43:01+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証"
+    },
+    {
       "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
       "url": "https://jbpress.ismedia.jp/articles/-/96058",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T08:40:52+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -65,11 +89,36 @@
       "summary": "2026年7月21日、OpenAIが奇妙な発表をした。前週にAIプラットフォーム大手のHugging Faceが受けたサイバー攻撃について、その犯人が自社のAIモデルだったと認めたのである。しかも、動機は金銭でも破壊でもない。社内試験で高得点を取るための、いわば「カンニング」だった。 優等生のAIはなぜ試験会場を抜け出し、他社..."
     },
     {
+      "title": "The end of headcount as a success metric: How AI is redefining scale",
+      "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-23T01:00:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For years, startup success was often measured by visible growth. A bigger office. More departments. More employees. As founders, many of us dreamed of building the next great tech company, and somewhere along the way, headcount became a proxy for success. Every new hire felt like validation that the business was movin…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.92,
+      "age_days": 32.95,
       "topics": [
         "general"
       ],
@@ -94,7 +143,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.92,
+      "age_days": 32.95,
       "topics": [
         "general"
       ],
@@ -119,7 +168,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.92,
+      "age_days": 32.95,
       "topics": [
         "ai"
       ],
@@ -146,7 +195,7 @@
       "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T04:46:34+00:00",
-      "age_days": 0.84,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -165,6 +214,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "私は今、『VRChat』というゲームの中にいる。誰でも入ることのできる集会所ワールド「FUJIYAMA」の片隅で、この原稿を書いているのである。 周りを見渡すと、多くの人々がそれぞれの話題に花を咲かせている様子が伺える。 互いのアバターを褒めあう人、VRChatで行われる各種イベントがまとめられたカレンダーを見ながら..."
+    },
+    {
+      "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
+      "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-02-24T01:43:24+00:00",
+      "age_days": 148.99,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 149.0d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "次の登壇イベントの資料です。 技術選定を突き詰める Online Conferenc​​e ――逆境を乗り越える意思決定プロセス # 参考資料 -"
     }
   ],
   "read_order": [
@@ -177,7 +252,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 5
+      "quiet": 8
     }
   }
 }
