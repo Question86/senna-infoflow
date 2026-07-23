@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T19:16:33+00:00",
-  "run_id": "2026-07-23T19:16:33+00:00",
+  "generated_at": "2026-07-23T19:50:03+00:00",
+  "run_id": "2026-07-23T19:50:03+00:00",
   "date": "2026-07-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 91
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "today_file_total": 91,
+    "displayed_findings": 91,
     "high": 0,
     "medium": 34,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1479,6 +1479,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "319cae36e5debd5f7373"
+      },
+      {
+        "title": "Agent automation controls in GitHub Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-23T15:30:29+00:00",
+        "fetched_at": "2026-07-23T19:49:33+00:00",
+        "summary": "Agent automations increasingly label, type, assign, and close issues for you. GitHub Issues now shows the reason behind each change and lets you review them before they’re applied, so you… The post Agent automation controls in GitHub Issues in public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Automatisierung",
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Automatisierung (+5.0); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7626a93fe685eae21a1d"
       },
       {
         "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
@@ -3641,6 +3662,27 @@
       "id": "319cae36e5debd5f7373"
     },
     {
+      "title": "Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-23T15:30:29+00:00",
+      "fetched_at": "2026-07-23T19:49:33+00:00",
+      "summary": "Agent automations increasingly label, type, assign, and close issues for you. GitHub Issues now shows the reason behind each change and lets you review them before they’re applied, so you… The post Agent automation controls in GitHub Issues in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Automatisierung",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Automatisierung (+5.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7626a93fe685eae21a1d"
+    },
+    {
       "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
       "url": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4351,24 +4393,25 @@
   ],
   "new_findings": [
     {
-      "title": "Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "title": "Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-23T18:19:14+00:00",
-      "fetched_at": "2026-07-23T19:16:00+00:00",
-      "summary": "You can now create multi-select fields in Projects and Issue fields so a single field can hold more than one value. Tag an item with everything it relates to (e.g.,… The post Multi-select fields for Projects and Issues in public preview appeared first on The GitHub Blog .",
+      "published_at": "2026-07-23T15:30:29+00:00",
+      "fetched_at": "2026-07-23T19:49:33+00:00",
+      "summary": "Agent automations increasingly label, type, assign, and close issues for you. GitHub Issues now shows the reason behind each change and lets you review them before they’re applied, so you… The post Agent automation controls in GitHub Issues in public preview appeared first on The GitHub Blog .",
       "matched_keywords": [
+        "Automatisierung",
         "GitHub"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 8,
+      "relevance_reason": "Automatisierung (+5.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "091f4b420aad90f797bb"
+      "id": "7626a93fe685eae21a1d"
     }
   ],
   "source_errors": [],

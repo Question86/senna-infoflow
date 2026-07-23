@@ -1449,6 +1449,27 @@
     "id": "319cae36e5debd5f7373"
   },
   {
+    "title": "Agent automation controls in GitHub Issues in public preview",
+    "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-23T15:30:29+00:00",
+    "fetched_at": "2026-07-23T19:49:33+00:00",
+    "summary": "Agent automations increasingly label, type, assign, and close issues for you. GitHub Issues now shows the reason behind each change and lets you review them before they’re applied, so you… The post Agent automation controls in GitHub Issues in public preview appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Automatisierung",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Automatisierung (+5.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7626a93fe685eae21a1d"
+  },
+  {
     "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
     "url": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o",
     "source": "Hatena Bookmark Hotentry IT",
