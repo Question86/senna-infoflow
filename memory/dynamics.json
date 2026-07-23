@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-23T02:37:05Z",
+  "generated_at": "2026-07-23T03:52:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 13,
+    "dynamics": 17,
     "bands": {
       "extreme": 1,
       "strong": 2,
-      "watch": 2,
-      "quiet": 8
+      "watch": 5,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 2,
-      "quiet": 8
+      "watch": 5,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T02:00:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 34.03,
+      "age_days": 34.08,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.6 for 34.0d old signal",
+        "aging penalty -4.6 for 34.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -80,7 +80,7 @@
       "url": "https://e27.co/the-role-of-thought-leadership-in-scaling-beyond-your-first-market-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T01:30:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -103,11 +103,36 @@
       "summary": "For many startups, expanding into a second or third market is a defining milestone. It signals that the business has moved beyond product-market fit and is ready to grow regionally. Yet while expansion strategies often focus on hiring, partnerships, and go-to-market execution, communications are frequently treated as…"
     },
     {
+      "title": "M 4.8 - 33 km NNW of El Cardo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ku",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-23T02:59:47.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.8"
+      ],
+      "summary": "Time 2026-07-23 02:38:25 UTC 2026-07-23 02:38:25 UTC at epicenter Location 16.310°S 72.802°W Depth 96.29 km (59.83 mi)"
+    },
+    {
       "title": "M 4.7 - 72 km S of Calama, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-23T02:12:05.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -128,11 +153,35 @@
       "summary": "Time 2026-07-23 01:56:00 UTC 2026-07-23 01:56:00 UTC at epicenter Location 23.110°S 68.987°W Depth 95.96 km (59.63 mi)"
     },
     {
+      "title": "M 4.6 - 78 km WSW of Puerto Casma, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-23T03:10:56.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-23 02:55:40 UTC 2026-07-23 02:55:40 UTC at epicenter Location 9.660°S 79.074°W Depth 62.20 km (38.65 mi)"
+    },
+    {
       "title": "TSUBAME Report Overflow (Jan-Mar 2026)",
       "url": "https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-07-23T02:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -152,11 +201,59 @@
       "summary": "This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas[Takumi1.1], as well as other topics not covered in the Internet Threat Monitoring Quarterly Report. This article covers monitoring results from January to March 2026...."
     },
     {
+      "title": "Grab invests in EBOOST as Vietnam’s EV charging race shifts into higher gear",
+      "url": "https://e27.co/grab-invests-in-eboost-as-vietnams-ev-charging-race-shifts-into-higher-gear-20260723/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-23T03:36:25+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Vietnam’s electric vehicle (EV) market is entering a more practical phase. After years of attention on vehicle launches, subsidies, and consumer adoption, the next question is becoming harder to ignore: where will all these cars and motorbikes charge, and who will pay to build the network? That question sits at the ce…"
+    },
+    {
+      "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-23T01:03:40+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」 「もうせっかくなのでできることは何でもやるよｗ 最後まで盛り上がっていこう！」――9月17日にサービス終了予定のアバター通話アプリ「POPOPO」運営元のCTOであるMIRO（岩城進之介）氏は7月21日、同アプリをMac..."
+    },
+    {
       "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
       "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T23:43:01+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -180,7 +277,7 @@
       "url": "https://jbpress.ismedia.jp/articles/-/96058",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T08:40:52+00:00",
-      "age_days": 0.75,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -205,7 +302,7 @@
       "url": "https://e27.co/the-end-of-headcount-as-a-success-metric-how-ai-is-redefining-scale-20260722/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-23T01:00:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -230,7 +327,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.99,
+      "age_days": 33.04,
       "topics": [
         "general"
       ],
@@ -255,7 +352,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.99,
+      "age_days": 33.04,
       "topics": [
         "general"
       ],
@@ -280,7 +377,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 32.99,
+      "age_days": 33.04,
       "topics": [
         "ai"
       ],
@@ -307,7 +404,7 @@
       "url": "https://news.denfaminicogamer.jp/kikakuthetower/260722v",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T04:46:34+00:00",
-      "age_days": 0.91,
+      "age_days": 0.96,
       "topics": [
         "ai"
       ],
@@ -332,7 +429,7 @@
       "url": "https://speakerdeck.com/soudai/designing-for-reversible-decisions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-02-24T01:43:24+00:00",
-      "age_days": 149.04,
+      "age_days": 149.09,
       "topics": [
         "ai"
       ],
@@ -348,7 +445,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 149.0d old signal",
+        "aging penalty -16.0 for 149.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "次の登壇イベントの資料です。 技術選定を突き詰める Online Conferenc​​e ――逆境を乗り越える意思決定プロセス # 参考資料 -"
