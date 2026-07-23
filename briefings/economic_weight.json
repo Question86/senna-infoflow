@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-23T21:06:28+00:00",
+  "generated_at": "2026-07-23T21:34:04+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -17,23 +17,6 @@
       "p50_usd": 12320000.0,
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
-      "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-06-20T02:49:51+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_8c98c19c7974a9893109",
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 106400.0,
-      "p50_usd": 10640000.0,
-      "p90_usd": 1064000000.0,
-      "confidence": 0.312,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-06-20T02:49:51+00:00",
       "status": "active"
@@ -58,6 +41,23 @@
     {
       "event_id": "evt_6e1817c1c44fda6c3530",
       "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 106400.0,
+      "p50_usd": 10640000.0,
+      "p90_usd": 1064000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-06-20T02:49:51+00:00",
+      "last_seen_at": "2026-06-20T02:49:51+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_8c98c19c7974a9893109",
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "event_classes": [
         "unknown"
       ],
