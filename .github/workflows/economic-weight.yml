@@ -40,7 +40,7 @@ jobs:
 
       - name: Commit generated economic-weight artifacts
         run: |
-          if git diff --quiet -- data/economic_events.jsonl briefings/economic_weight.json briefings/economic_weight.md; then
+          if [ -z "$(git status --porcelain -- data/economic_events.jsonl briefings/economic_weight.json briefings/economic_weight.md)" ]; then
             echo "No economic-weight changes to commit."
             exit 0
           fi
