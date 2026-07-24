@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T14:24:52+00:00_
+_Generiert: 2026-07-24T15:05:55+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-07-24T14:24:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Russia, Ukraine
+- **GDACS: Green notification for tropical cyclone SEVEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001296)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone SEVEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:49.188km) in Indonesia 23/07/2026 22:58 UTC, 5 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553664)
   - Quelle: GDACS
   - Zeit: ``

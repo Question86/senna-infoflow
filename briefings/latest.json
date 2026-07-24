@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T14:24:52+00:00",
-  "run_id": "2026-07-24T14:24:52+00:00",
+  "generated_at": "2026-07-24T15:05:55+00:00",
+  "run_id": "2026-07-24T15:05:55+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
@@ -3757,29 +3757,7 @@
       "id": "c7124785a1bd6dbbb889"
     }
   ],
-  "new_findings": [
-    {
-      "title": "https://ssl4.eir-parts.net/doc/3930/tdnet/2856001/00.pdf",
-      "url": "https://ssl4.eir-parts.net/doc/3930/tdnet/2856001/00.pdf",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-24T11:30:36+00:00",
-      "fetched_at": "2026-07-24T14:24:20+00:00",
-      "summary": "https://ssl4.eir-parts.net/doc/3930/tdnet/2856001/00.pdf",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c93199eb1a9c208108c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
