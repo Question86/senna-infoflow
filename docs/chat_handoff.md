@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-24T03:30:25+00:00_
+_Generated: 2026-07-24T04:39:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `20`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-24T03:30:25+00:00_
 - url: https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/
 - summary: Startup ventures in Asia have been growing over the past few years; however, many young companies think marketing is optional. However, marketing is not a choice, but a must, according to analysis, and without a proper strategy and budget, no amount of effort…
 
-### 8. M 4.8 - 59 km NNW of San Antonio, Puerto Rico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-07-24T03:28:59.368+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0
-- summary: DYFI? - V Time 2026-07-24 02:42:34 UTC 2026-07-24 02:42:34 UTC at epicenter Location 18.995°N 67.293°W Depth 10.00 km (6.21 mi)
+### 8. L.トーバルズ氏、AI反対派に強硬姿勢--「フォークしろ」
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-07-23T00:40:17+00:00`
+- url: https://japan.zdnet.com/article/35250695/
+- summary: 多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...
 
 END OF DOCUMENT

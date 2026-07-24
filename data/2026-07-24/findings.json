@@ -288,6 +288,28 @@
     "id": "a199d064a6777d38080b"
   },
   {
+    "title": "L.トーバルズ氏、AI反対派に強硬姿勢--「フォークしろ」",
+    "url": "https://japan.zdnet.com/article/35250695/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T00:40:17+00:00",
+    "fetched_at": "2026-07-24T04:39:09+00:00",
+    "summary": "多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e0dfcf45172f2e25d447"
+  },
+  {
     "title": "M 4.8 - 59 km NNW of San Antonio, Puerto Rico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -482,6 +504,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3dcdd523bb475e3d581b"
+  },
+  {
+    "title": "Ropedia raises US$22M to build the data layer for robots that understand the real world",
+    "url": "https://e27.co/ropedia-raises-us22m-to-build-the-data-layer-for-robots-that-understand-the-real-world-20260724/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-24T04:16:42+00:00",
+    "fetched_at": "2026-07-24T04:39:09+00:00",
+    "summary": "Robots are getting better at seeing, speaking, and planning. What they still struggle with is the messy business of doing. For a machine to reliably pack a box, wipe a table, load a warehouse shelf or assist someone at home, it needs more than internet text and video clips. It needs to understand grip, weight, […] The post Ropedia raises US$22M to build the data layer for robots that understand the real world appear…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bf30b6f6b123e7aed633"
   },
   {
     "title": "Product management as method acting: Becoming your user",
