@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T06:31:53+00:00",
-  "run_id": "2026-07-24T06:31:53+00:00",
+  "generated_at": "2026-07-24T07:25:19+00:00",
+  "run_id": "2026-07-24T07:25:19+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 1,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 10,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -621,6 +621,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e3539a2496ad568e2712"
+      },
+      {
+        "title": "「定休日にも予約取れそう」話題になっているAI予約システム「オートリザーブ」だが、店舗で拒否されてる事例が出ていて問題視する反応が集まる",
+        "url": "https://togetter.com/li/2724146",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-24T04:48:44+00:00",
+        "fetched_at": "2026-07-24T07:24:51+00:00",
+        "summary": "AutoReserve[オートリザーブ] | AIによるレストラン予約サイト 予約可能レストラン数No.1なら、AutoReserve。AIが世界中の飲食店の予約を行います。当サイトでしか予約できないレストラン情報やお店の写真、口コミなど豊富に取り揃えております。 7 users 111 autoreserve.com",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "367c18e2da34f423c9d3"
       },
       {
         "title": "クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし",
@@ -1341,6 +1362,27 @@
       "id": "e3539a2496ad568e2712"
     },
     {
+      "title": "「定休日にも予約取れそう」話題になっているAI予約システム「オートリザーブ」だが、店舗で拒否されてる事例が出ていて問題視する反応が集まる",
+      "url": "https://togetter.com/li/2724146",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T04:48:44+00:00",
+      "fetched_at": "2026-07-24T07:24:51+00:00",
+      "summary": "AutoReserve[オートリザーブ] | AIによるレストラン予約サイト 予約可能レストラン数No.1なら、AutoReserve。AIが世界中の飲食店の予約を行います。当サイトでしか予約できないレストラン情報やお店の写真、口コミなど豊富に取り揃えております。 7 users 111 autoreserve.com",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "367c18e2da34f423c9d3"
+    },
+    {
       "title": "クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし",
       "url": "https://note.com/kobudashiodashi/n/n9d24c3519f6a",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1467,95 +1509,13 @@
   ],
   "new_findings": [
     {
-      "title": "“The AI did it” is not a defence; it is a confession",
-      "url": "https://e27.co/the-ai-did-it-is-not-a-defence-it-is-a-confession-20260724/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-24T05:55:49+00:00",
-      "fetched_at": "2026-07-24T06:31:23+00:00",
-      "summary": "If the reported OpenAI-Hugging Face cyber incident stands up under scrutiny, the most alarming part is not that an AI system found a way to cheat a test. It is that one of the world’s most powerful AI companies appears to have built the conditions for that failure, then rushed to describe the result as […] The post “The AI did it” is not a defence; it is a confession appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "OpenAI"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "15ab65697a0b184a8058"
-    },
-    {
-      "title": "Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
-      "url": "https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-24T06:21:00.000+00:00",
-      "fetched_at": "2026-07-24T06:31:23+00:00",
-      "summary": "Russische Angreifer attackieren seit Juli 2025 westliche Regierungen und Einrichtungen durch eine Zero-Click-Lücke in Zimbra.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "65f7429e272465b308e1"
-    },
-    {
-      "title": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
-      "url": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-24T06:00:00+00:00",
-      "fetched_at": "2026-07-24T06:31:23+00:00",
-      "summary": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7457507050ecafe249c6"
-    },
-    {
-      "title": "Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました",
-      "url": "https://www.digital.go.jp/policies/health/public-medical-hub/terms-of-use/20260803",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-24T06:00:00+00:00",
-      "fetched_at": "2026-07-24T06:31:23+00:00",
-      "summary": "Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a4c206aa9e93ffe92f8e"
-    },
-    {
-      "title": "クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし",
-      "url": "https://note.com/kobudashiodashi/n/n9d24c3519f6a",
+      "title": "「定休日にも予約取れそう」話題になっているAI予約システム「オートリザーブ」だが、店舗で拒否されてる事例が出ていて問題視する反応が集まる",
+      "url": "https://togetter.com/li/2724146",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-24T03:57:57+00:00",
-      "fetched_at": "2026-07-24T06:31:23+00:00",
-      "summary": "※2026年7月現在で未解決です。 最後まで読んでも解決はしていませんのであしからず。 こんにちは。こぶだしという者です。 普段はインターネットでお絵かきをしたり、漫画を描いたりしています。 私のSNSをウォッチしている方は既にご存知かもしませんが ある日突然、Twitter（自称X）から あなたのアカウントは日本国内...",
+      "published_at": "2026-07-24T04:48:44+00:00",
+      "fetched_at": "2026-07-24T07:24:51+00:00",
+      "summary": "AutoReserve[オートリザーブ] | AIによるレストラン予約サイト 予約可能レストラン数No.1なら、AutoReserve。AIが世界中の飲食店の予約を行います。当サイトでしか予約できないレストラン情報やお店の写真、口コミなど豊富に取り揃えております。 7 users 111 autoreserve.com",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1567,7 +1527,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "441bf877a753d6154224"
+      "id": "367c18e2da34f423c9d3"
     }
   ],
   "source_errors": [],

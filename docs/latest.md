@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T06:31:53+00:00_
+_Generiert: 2026-07-24T07:25:19+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+29 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -204,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年7月24日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし** — Score 5, observation — [Quelle](https://note.com/kobudashiodashi/n/n9d24c3519f6a)
+- **「定休日にも予約取れそう」話題になっているAI予約システム「オートリザーブ」だが、店舗で拒否されてる事例が出ていて問題視する反応が集まる** — Score 5, observation — [Quelle](https://togetter.com/li/2724146)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-24T03:57:57+00:00`, fetched `2026-07-24T06:31:23+00:00`
+  - Zeit: published `2026-07-24T04:48:44+00:00`, fetched `2026-07-24T07:24:51+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ※2026年7月現在で未解決です。 最後まで読んでも解決はしていませんのであしからず。 こんにちは。こぶだしという者です。 普段はインターネットでお絵かきをしたり、漫画を描いたりしています。 私のSNSをウォッチしている方は既にご存知かもしませんが ある日突然、Twitter（自称X）から あなたのアカウントは日本国内...
+  - Kurz: AutoReserve[オートリザーブ] | AIによるレストラン予約サイト 予約可能レストラン数No.1なら、AutoReserve。AIが世界中の飲食店の予約を行います。当サイトでしか予約できないレストラン情報やお店の写真、口コミなど豊富に取り揃えております。 7 users 111 autoreserve.com
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **shiyu-coder/Kronos** — Score 5, observation — [Quelle](https://github.com/shiyu-coder/Kronos)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
