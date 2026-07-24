@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T15:40:26+00:00",
-  "run_id": "2026-07-24T15:40:26+00:00",
+  "generated_at": "2026-07-24T16:50:00+00:00",
+  "run_id": "2026-07-24T16:50:00+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -3799,29 +3799,7 @@
       "id": "c7124785a1bd6dbbb889"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-07-24T15:30:00+00:00",
-      "fetched_at": "2026-07-24T15:39:57+00:00",
-      "summary": "Philip R. Lane: Outlook for the euro area economy",
-      "matched_keywords": [
-        "euro area",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dc7f04a548c533765623"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
