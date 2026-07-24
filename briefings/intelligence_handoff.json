@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-24T05:01:27Z",
+  "generated_at": "2026-07-24T06:07:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU99418634/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -35,11 +35,35 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T05:27:53+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
       "url": "https://jvn.jp/vu/JVNVU93636354/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -64,7 +88,7 @@
       "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T21:38:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -91,7 +115,7 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -117,7 +141,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 35.13,
+      "age_days": 35.17,
       "topics": [
         "ai"
       ],
@@ -136,7 +160,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.9 for 35.1d old signal",
+        "aging penalty -5.0 for 35.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -146,7 +170,7 @@
       "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:27:42+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -172,7 +196,7 @@
       "url": "https://github.com/block/buzz",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -198,7 +222,7 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "infra",
@@ -225,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T01:25:43.027+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -250,7 +274,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T03:28:59.368+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -275,7 +299,7 @@
       "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:15:41+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -296,30 +320,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "In the tech ecosystem, we often talk about the next big thing in terms of code and cloud scalability. But as we move further into 2026, I’ve realised that the most complex system I am currently architecting isn’t a SaaS platform. It is a physical puzzle hunt in the heartlands of Singapore. I call it […] The post The m…"
-    },
-    {
-      "title": "M 4.9 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-24T00:56:47.040+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)"
     }
   ],
   "read_order": [
@@ -331,8 +331,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 4
+      "strong": 9,
+      "watch": 3
     }
   }
 }

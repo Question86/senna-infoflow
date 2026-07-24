@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-24T05:01:27Z",
+  "generated_at": "2026-07-24T06:07:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 27,
     "bands": {
       "krass": 3,
-      "strong": 5,
+      "strong": 6,
       "watch": 5,
-      "quiet": 11
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
+      "strong": 9,
       "watch": 5,
-      "quiet": 11
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU99418634/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -43,11 +43,35 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T05:27:53+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
       "url": "https://jvn.jp/vu/JVNVU93636354/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -72,7 +96,7 @@
       "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T21:38:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -99,7 +123,7 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -125,7 +149,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 35.13,
+      "age_days": 35.17,
       "topics": [
         "ai"
       ],
@@ -144,7 +168,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.9 for 35.1d old signal",
+        "aging penalty -5.0 for 35.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -154,7 +178,7 @@
       "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:27:42+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -180,7 +204,7 @@
       "url": "https://github.com/block/buzz",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -206,7 +230,7 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "infra",
@@ -233,7 +257,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T01:25:43.027+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -258,7 +282,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T03:28:59.368+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -283,7 +307,7 @@
       "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:15:41+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -310,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T00:56:47.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -334,7 +358,7 @@
       "url": "https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T01:15:39+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 12.0,
       "raw_band": "watch",
@@ -357,7 +381,7 @@
       "url": "https://e27.co/localise-partner-adapt-a-playbook-for-entering-indonesia-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:00:31+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -377,11 +401,37 @@
       "summary": "Indonesia is one of the world’s fastest-growing digital economies: young, mobile-first, and home to more than 270 million people. It is also one of the region’s most dynamic and layered markets, full of opportunity for companies that take the time to understand how it really works. That opportunity was the backdrop fo…"
     },
     {
+      "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
+      "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-24T04:41:18+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "At Siam Paragon’s Speaker Lounge in Bangkok, against the backdrop of SITE 2026, Sophia Chong, Executive Director at the Hong Kong Trade Development Council (HKTDC), sat down to explain why Thailand, and Southeast Asia more broadly, has become central to Hong Kong’s global strategy. The occasion was a fitting one: HKTD…"
+    },
+    {
       "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/101363",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T04:09:28+00:00",
-      "age_days": 1.04,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -407,7 +457,7 @@
       "url": "https://e27.co/how-ai-is-dismantling-the-risk-pool-in-insurance-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:00:57+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -432,7 +482,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260724-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-24T03:12:31+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -452,11 +502,35 @@
       "summary": "松本大臣記者会見（令和8年7月24日）動画を掲載しました"
     },
     {
+      "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-23T23:28:13+00:00",
+      "age_days": 0.28,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】"
+    },
+    {
       "title": "Diversify or die: The importance of multi-channel marketing in Asia",
       "url": "https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T01:45:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -482,7 +556,7 @@
       "url": "https://japan.zdnet.com/article/35250695/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T00:40:17+00:00",
-      "age_days": 1.18,
+      "age_days": 1.23,
       "topics": [
         "ai"
       ],
@@ -507,7 +581,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.09,
+      "age_days": 34.14,
       "topics": [
         "general"
       ],
@@ -532,7 +606,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.09,
+      "age_days": 34.14,
       "topics": [
         "general"
       ],
@@ -557,7 +631,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.09,
+      "age_days": 34.14,
       "topics": [
         "ai"
       ],
@@ -584,7 +658,7 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -609,7 +683,7 @@
       "url": "https://e27.co/ropedia-raises-us22m-to-build-the-data-layer-for-robots-that-understand-the-real-world-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T04:16:42+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
