@@ -92,10 +92,10 @@ def write_reports(rows,jp,mp):
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("--daily",type=Path,default=D_DAILY); ap.add_argument("--ledger",type=Path,default=D_LEDGER)
-    ap.add_argument("--candidates",type=Path,default=D_CAND); ap.add_argument("--json-report",type=Path,default=D_JSON)
+    ap.add_argument("--candidates",type=Path,default=D_CAND; ap.add_argument("--json-report",type=Path,default=D_JSON)
     ap.add_argument("--md-report",type=Path,default=D_MD); a=ap.parse_args()
-    daily=read_json(a.daily); ledger=read_jsonl(a.ledger)
-    existing={r["candidate_id"]:r for r in read_jsonl(a.candidates) if r.get("candidate_id")}
+    daily=read_json(a.daily); ledger=read_jsonla.ledger)
+    existing={r["candidate_id"]:r for r in read_jsonla.candidates) if r.get("candidate_id")}
     failures=0
     for eid,url in event_url_map(daily,ledger):
         try: text=fetch_text(url)
