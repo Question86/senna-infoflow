@@ -1,6 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T00:14:42+00:00",
-  "topics": {}
+  "generated_at": "2026-07-24T00:52:49+00:00",
+  "topics": {
+    "ai": [
+      {
+        "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T04:09:28+00:00",
+        "relevance_score": 11,
+        "url": "https://forbesjapan.com/articles/detail/101363"
+      }
+    ]
+  }
 }
