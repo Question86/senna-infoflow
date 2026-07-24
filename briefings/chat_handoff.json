@@ -100,5 +100,140 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:27:53+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Quay ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+      },
+      {
+        "title": "Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank",
+        "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-24T09:47:00.000+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: zero-day, active, exploitation",
+          "security high-signal: zero-day, active, exploitation"
+        ],
+        "summary": "Ein IT-Forscher hat mit der chinesischen KI Kimi K3 mehrere Zero-Day-Lücken in der redis-Datenbank entdeckt. Updates bestätigen die Funde."
+      },
+      {
+        "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:37:52+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um Sicherhetsmaßnahmen zu umgehen und Dateien zu manipulieren."
+      },
+      {
+        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen."
+      }
+    ]
+  }
 }
