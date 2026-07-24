@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T05:38:16+00:00",
+  "generated_at": "2026-07-24T06:31:53+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/how-ai-is-dismantling-the-risk-pool-in-insurance-20260713/"
       },
       {
+        "title": "“The AI did it” is not a defence; it is a confession",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-24T05:55:49+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/the-ai-did-it-is-not-a-defence-it-is-a-confession-20260724/"
+      },
+      {
         "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-23T04:09:28+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-23T00:40:17+00:00",
         "relevance_score": 10,
         "url": "https://japan.zdnet.com/article/35250695/"
-      },
-      {
-        "title": "Will Bitcoin hold its US$64,500 line in the sand, or are we heading straight for a test of the US$63,170 support level?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-24T02:27:42+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/block/buzz"
+      },
+      {
+        "title": "“The AI did it” is not a defence; it is a confession",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-24T05:55:49+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/the-ai-did-it-is-not-a-defence-it-is-a-confession-20260724/"
       },
       {
         "title": "shiyu-coder/Kronos",
@@ -200,6 +207,13 @@
         "published_at": "2026-07-24T05:27:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357"
+      },
+      {
+        "title": "Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-24T06:21:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html"
       }
     ],
     "general": [
@@ -225,11 +239,25 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws"
       },
       {
+        "title": "Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-24T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/health/public-medical-hub/terms-of-use/20260803"
+      },
+      {
         "title": "松本大臣記者会見（令和8年7月24日）動画を掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-07-24T03:12:31+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260724-01"
+      },
+      {
+        "title": "クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-24T03:57:57+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/kobudashiodashi/n/n9d24c3519f6a"
       },
       {
         "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",

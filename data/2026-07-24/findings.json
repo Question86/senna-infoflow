@@ -230,6 +230,28 @@
     "id": "437fc6aa3b496950634c"
   },
   {
+    "title": "“The AI did it” is not a defence; it is a confession",
+    "url": "https://e27.co/the-ai-did-it-is-not-a-defence-it-is-a-confession-20260724/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-24T05:55:49+00:00",
+    "fetched_at": "2026-07-24T06:31:23+00:00",
+    "summary": "If the reported OpenAI-Hugging Face cyber incident stands up under scrutiny, the most alarming part is not that an AI system found a way to cheat a test. It is that one of the world’s most powerful AI companies appears to have built the conditions for that failure, then rushed to describe the result as […] The post “The AI did it” is not a defence; it is a confession appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "OpenAI"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "15ab65697a0b184a8058"
+  },
+  {
     "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
     "source": "BSI CERT-Bund Security Advisories",
@@ -427,6 +449,26 @@
     "id": "6e088cbbb967a3633192"
   },
   {
+    "title": "Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
+    "url": "https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-24T06:21:00.000+00:00",
+    "fetched_at": "2026-07-24T06:31:23+00:00",
+    "summary": "Russische Angreifer attackieren seit Juli 2025 westliche Regierungen und Einrichtungen durch eine Zero-Click-Lücke in Zimbra.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "65f7429e272465b308e1"
+  },
+  {
     "title": "Will Bitcoin hold its US$64,500 line in the sand, or are we heading straight for a test of the US$63,170 support level?",
     "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -489,6 +531,46 @@
     "id": "6683ff58354531f9e2af"
   },
   {
+    "title": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
+    "url": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-24T06:00:00+00:00",
+    "fetched_at": "2026-07-24T06:31:23+00:00",
+    "summary": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7457507050ecafe249c6"
+  },
+  {
+    "title": "Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました",
+    "url": "https://www.digital.go.jp/policies/health/public-medical-hub/terms-of-use/20260803",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-24T06:00:00+00:00",
+    "fetched_at": "2026-07-24T06:31:23+00:00",
+    "summary": "Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a4c206aa9e93ffe92f8e"
+  },
+  {
     "title": "松本大臣記者会見（令和8年7月24日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-260724-01",
     "source": "Japan Digital Agency News RSS",
@@ -507,6 +589,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e3539a2496ad568e2712"
+  },
+  {
+    "title": "クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし",
+    "url": "https://note.com/kobudashiodashi/n/n9d24c3519f6a",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-24T03:57:57+00:00",
+    "fetched_at": "2026-07-24T06:31:23+00:00",
+    "summary": "※2026年7月現在で未解決です。 最後まで読んでも解決はしていませんのであしからず。 こんにちは。こぶだしという者です。 普段はインターネットでお絵かきをしたり、漫画を描いたりしています。 私のSNSをウォッチしている方は既にご存知かもしませんが ある日突然、Twitter（自称X）から あなたのアカウントは日本国内...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "441bf877a753d6154224"
   },
   {
     "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",

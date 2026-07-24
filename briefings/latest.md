@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T05:38:16+00:00_
+_Generiert: 2026-07-24T06:31:53+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+28 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -191,6 +191,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra** — Score 7, observation — [Quelle](https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-24T06:21:00.000+00:00`, fetched `2026-07-24T06:31:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Russische Angreifer attackieren seit Juli 2025 westliche Regierungen und Einrichtungen durch eine Zero-Click-Lücke in Zimbra.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Will Bitcoin hold its US$64,500 line in the sand, or are we heading straight for a test of the US$63,170 support level?** — Score 7, observation — [Quelle](https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-24T02:27:42+00:00`, fetched `2026-07-24T03:29:52+00:00`
@@ -209,6 +218,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia is one of the world’s fastest-growing digital economies: young, mobile-first, and home to more than 270 million people. It is also one of the region’s most dynamic and layered markets, full of opportunity for companies that take the time to understand how it really works. That opportunity was the backdrop for Scale Up to […] The post Localise, partner, adapt: A playbook for entering Indonesia appeared firs…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-24T06:00:00+00:00`, fetched `2026-07-24T06:31:23+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/health/public-medical-hub/terms-of-use/20260803)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-24T06:00:00+00:00`, fetched `2026-07-24T06:31:23+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年7月24日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260724-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-24T03:12:31+00:00`, fetched `2026-07-24T03:29:52+00:00`
@@ -218,14 +245,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年7月24日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html)
+- **クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし** — Score 5, observation — [Quelle](https://note.com/kobudashiodashi/n/n9d24c3519f6a)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-23T23:28:13+00:00`, fetched `2026-07-24T05:37:44+00:00`
+  - Zeit: published `2026-07-24T03:57:57+00:00`, fetched `2026-07-24T06:31:23+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】
+  - Kurz: ※2026年7月現在で未解決です。 最後まで読んでも解決はしていませんのであしからず。 こんにちは。こぶだしという者です。 普段はインターネットでお絵かきをしたり、漫画を描いたりしています。 私のSNSをウォッチしている方は既にご存知かもしませんが ある日突然、Twitter（自称X）から あなたのアカウントは日本国内...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **shiyu-coder/Kronos** — Score 5, observation — [Quelle](https://github.com/shiyu-coder/Kronos)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
