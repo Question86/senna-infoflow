@@ -1,30 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-24T11:19:40Z",
+  "generated_at": "2026-07-24T11:59:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 10,
-      "strong": 16,
-      "watch": 9,
-      "quiet": 5
+      "krass": 14,
+      "strong": 19,
+      "watch": 7
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 25,
-      "watch": 9,
-      "quiet": 5
+      "krass": 2,
+      "strong": 31,
+      "watch": 7
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2510",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T11:12:52+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, 10",
+        "security high-signal: code, 10"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen oder um einen Denial-of-Service-Zustand zu verursachen."
+    },
     {
       "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T10:27:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -49,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T10:27:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security",
@@ -77,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:32:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security",
         "infra"
@@ -100,11 +123,59 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft 365 Copilot, Microsoft Exchange und Microsoft Apps Surface ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen."
     },
     {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2497",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T11:42:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] Netty: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2511",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T11:12:52+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99418634/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -128,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2501",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:32:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -152,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2500",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:32:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -176,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2499",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:27:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -200,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2205",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:02:55+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -224,7 +295,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1159",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:02:54+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -248,7 +319,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:02:54+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -272,7 +343,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T05:27:53+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -296,7 +367,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:27:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -322,7 +393,7 @@
       "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-24T09:47:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -345,11 +416,63 @@
       "summary": "Ein IT-Forscher hat mit der chinesischen KI Kimi K3 mehrere Zero-Day-Lücken in der redis-Datenbank entdeckt. Updates bestätigen die Funde."
     },
     {
+      "title": "[NEU] [mittel] vim: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2513",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T11:32:53+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, und um nicht näher spezifizierte Auswirkungen zu verursachen."
+    },
+    {
+      "title": "[NEU] [mittel] Progress Software MOVEit Transfer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2512",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T11:22:52+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Progress Software MOVEit Transfer ausnutzen, um Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
+    },
+    {
       "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T10:37:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -375,7 +498,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T10:27:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -401,7 +524,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2503",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:37:52+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -423,11 +546,36 @@
       "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Znuny ausnutzen, um Informationen offenzulegen."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1232",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T11:22:53+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Zustand oder andere, nicht näher spezifizierte Auswirkungen zu erzielen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
       "url": "https://jvn.jp/vu/JVNVU93636354/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:15+09:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -452,7 +600,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:02:55+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -477,7 +625,7 @@
       "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T21:38:02+00:00",
-      "age_days": 0.57,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -504,7 +652,7 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -530,7 +678,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 35.39,
+      "age_days": 35.42,
       "topics": [
         "ai"
       ],
@@ -559,7 +707,7 @@
       "url": "https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T08:57:25+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -587,7 +735,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-n8n-Accountuebernahme-und-Sandboxausbruch-moeglich-11377037.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-24T08:21:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -611,7 +759,7 @@
       "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:27:42+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "macro"
@@ -637,7 +785,7 @@
       "url": "https://github.com/block/buzz",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -659,11 +807,36 @@
       "summary": "A hive mind communication platform Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Apache 2.0 People and agents building together in the same room. What is this, really? Buzz is a self-hostable workspace where humans and AI agents shar…"
     },
     {
+      "title": "M 5.3 - 197 km W of Abepura, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-24T11:32:24.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-24 11:11:34 UTC 2026-07-24 11:11:34 UTC at epicenter Location 2.544°S 138.861°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "infra",
@@ -690,7 +863,7 @@
       "url": "https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-24T07:52:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -714,7 +887,7 @@
       "url": "https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-24T06:21:00.000+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -739,7 +912,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T01:25:43.027+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -764,7 +937,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T03:28:59.368+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -789,7 +962,7 @@
       "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:15:41+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -816,7 +989,7 @@
       "url": "https://e27.co/the-ai-did-it-is-not-a-defence-it-is-a-confession-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T05:55:49+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -841,7 +1014,7 @@
       "url": "https://togetter.com/li/2724146",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T04:48:44+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -861,176 +1034,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AutoReserve[オートリザーブ] | AIによるレストラン予約サイト 予約可能レストラン数No.1なら、AutoReserve。AIが世界中の飲食店の予約を行います。当サイトでしか予約できないレストラン情報やお店の写真、口コミなど豊富に取り揃えております。 7 users 111 autoreserve.com"
-    },
-    {
-      "title": "M 4.9 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-24T00:56:47.040+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "Product management as method acting: Becoming your user",
-      "url": "https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-24T01:15:39+00:00",
-      "age_days": 0.42,
-      "topics": [],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Product teams speak a great deal about understanding users, but much of what passes for empathy is still strangely external. A few interviews, some clips from research, a dashboard, a support summary, and perhaps a customer visit if the quarter is going well. The PM learns about the user, but rarely feels anything clo…"
-    },
-    {
-      "title": "Localise, partner, adapt: A playbook for entering Indonesia",
-      "url": "https://e27.co/localise-partner-adapt-a-playbook-for-entering-indonesia-20260724/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-24T02:00:31+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local"
-      ],
-      "summary": "Indonesia is one of the world’s fastest-growing digital economies: young, mobile-first, and home to more than 270 million people. It is also one of the region’s most dynamic and layered markets, full of opportunity for companies that take the time to understand how it really works. That opportunity was the backdrop fo…"
-    },
-    {
-      "title": "ECB to start implementing enhanced repo facility for central banks",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-07-24T08:30:00+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ECB to start implementing enhanced repo facility for central banks"
-    },
-    {
-      "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-07-24T08:00:00+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026"
-    },
-    {
-      "title": "ECB Consumer Expectations Survey results – June 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-07-24T08:00:00+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ECB Consumer Expectations Survey results – June 2026"
-    },
-    {
-      "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
-      "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-24T04:41:18+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "At Siam Paragon’s Speaker Lounge in Bangkok, against the backdrop of SITE 2026, Sophia Chong, Executive Director at the Hong Kong Trade Development Council (HKTDC), sat down to explain why Thailand, and Southeast Asia more broadly, has become central to Hong Kong’s global strategy. The occasion was a fitting one: HKTD…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
