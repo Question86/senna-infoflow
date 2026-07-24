@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-24T08:58:39Z_
+_Generated: 2026-07-24T09:52:38Z_
 
 ## Lageurteil
 
@@ -12,17 +12,47 @@ Stärkste Dynamik nach Gate-Recheck: “Silverhand製Logtoにおける認証や�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-24T10:00:00+09:00` / age_days `0.33`
+- Published: `2026-07-24T10:00:00+09:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU99418634/
 
+### [UPDATE] [mittel] Apache Tomcat Connectors: Schwachstelle ermöglicht Denial of Service
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-07-24T09:02:55+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2205
+
+### [UPDATE] [mittel] libxml2: Schwachstelle ermöglicht Offenlegung von Informationen
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-07-24T09:02:54+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1159
+
+### [UPDATE] [mittel] Apache HTTP Server: Mehrere Schwachstellen ermöglichen Denial of Service
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-07-24T09:02:54+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2712
+
 ### [UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-24T05:27:53+00:00` / age_days `0.15`
+- Published: `2026-07-24T05:27:53+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -32,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “Silverhand製Logtoにおける認証や�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-24T10:00:15+09:00` / age_days `0.33`
+- Published: `2026-07-24T10:00:15+09:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU93636354/
 
+### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-07-24T09:02:55+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762
+
 ### 2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-23T21:38:02+00:00` / age_days `0.47`
+- Published: `2026-07-23T21:38:02+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Silverhand製Logtoにおける認証や�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-24T02:16:37+00:00` / age_days `0.28`
+- Published: `2026-07-24T02:16:37+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,70 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “Silverhand製Logtoにおける認証や�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `35.29`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `35.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -5.0 for 35.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
-### Will Bitcoin hold its US$64,500 line in the sand, or are we heading straight for a test of the US$63,170 support level?
+### Ecosystem Roundup: When AI acts, humans are still responsible
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-07-24T08:57:25+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/
+
+### Sicherheitsupdate n8n: Accountübernahme und Sandboxausbruch möglich
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-07-24T02:27:42+00:00` / age_days `0.27`
+- Published: `2026-07-24T08:21:00.000+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce
-- Quelle: https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/
-
-### block/buzz
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `24.0`
-- Published: `2026-07-24T02:16:37+00:00` / age_days `0.28`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/block/buzz
-
-### shiyu-coder/Kronos
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `22.0`
-- Published: `2026-07-24T02:16:37+00:00` / age_days `0.28`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, exchange
-- Quelle: https://github.com/shiyu-coder/Kronos
-
-### Adobe-Chrome-Erweiterung ermöglichte Datenklau
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-07-24T07:52:00.000+00:00` / age_days `0.05`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
 - Warum: security high-signal: security
-- Quelle: https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html
-
-### Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-07-24T06:21:00.000+00:00` / age_days `0.11`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: security high-signal: security
-- Quelle: https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html
-
-### M 5.0 - 94 km SSE of Adak, Alaska
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-07-24T01:25:43.027+00:00` / age_days `0.31`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx
+- Quelle: https://www.heise.de/news/Sicherheitsupdate-n8n-Accountuebernahme-und-Sandboxausbruch-moeglich-11377037.html
 
 END OF DOCUMENT
