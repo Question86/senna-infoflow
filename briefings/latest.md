@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T21:56:02+00:00_
+_Generiert: 2026-07-24T22:21:01+00:00_
 
 ## Kurzlage
 
@@ -36,7 +36,11 @@ _Generiert: 2026-07-24T21:56:02+00:00_
 - **USGS earthquake M6.0 - 82 km W of Sola, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a)
   - Quelle: USGS
   - Zeit: `2026-07-24T21:37:56+00:00`
-  - Kurz: M6.0 - 82 km W of Sola, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.0 - 82 km W of Sola, Vanuatu. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553852)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in New Zealand 24/07/2026 16:51 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553807)
   - Quelle: GDACS
   - Zeit: ``

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:56:04+00:00",
+  "generated_at": "2026-07-24T22:21:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -76,16 +76,26 @@
         "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.0 - 82 km W of Sola, Vanuatu",
-        "summary": "M6.0 - 82 km W of Sola, Vanuatu. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.0 - 82 km W of Sola, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a",
         "published_at": "2026-07-24T21:37:56+00:00",
         "metrics": {
           "mag": 6.0,
-          "alert": "",
+          "alert": "green",
           "sig": 554.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553852",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
