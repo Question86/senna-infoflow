@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T00:52:49+00:00",
-  "run_id": "2026-07-24T00:52:49+00:00",
+  "generated_at": "2026-07-24T01:27:08+00:00",
+  "run_id": "2026-07-24T01:27:08+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,125 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 6,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 0,
-    "observe": 1,
+    "medium": 3,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
+        "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T21:38:02+00:00",
+        "fetched_at": "2026-07-24T01:26:36+00:00",
+        "summary": "Jul 23, 2026 @ 2026年のソフトウェア開発を考える（2026/07版） AI DevEx Conference 2026 2026年7月23日（木） https://dev-productivity-con.findy-code.io/aidevex2026",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a420ae0edb29109ce9b5"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
+        "url": "https://jvn.jp/vu/JVNVU93636354/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-24T10:00:15+09:00",
+        "fetched_at": "2026-07-24T01:26:36+00:00",
+        "summary": "2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "93b578ef64b762bbe703"
+      },
+      {
+        "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU99418634/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-24T10:00:00+09:00",
+        "fetched_at": "2026-07-24T01:26:36+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "437fc6aa3b496950634c"
+      }
+    ],
     "observe": [
+      {
+        "title": "M 5.0 - 94 km SSE of Adak, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-24T01:25:43.027+00:00",
+        "fetched_at": "2026-07-24T01:26:36+00:00",
+        "summary": "ShakeMap - III Time 2026-07-24 01:03:16 UTC 2026-07-24 01:03:16 UTC at epicenter Location 51.102°N 176.065°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "bfb739d388e54a31755d"
+      },
       {
         "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
         "url": "https://forbesjapan.com/articles/detail/101363",
@@ -51,34 +158,172 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "52cecc38bbf8b24372ff"
+      },
+      {
+        "title": "M 4.9 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-24T00:56:47.040+00:00",
+        "fetched_at": "2026-07-24T01:26:36+00:00",
+        "summary": "Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6e088cbbb967a3633192"
+      },
+      {
+        "title": "Product management as method acting: Becoming your user",
+        "url": "https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-24T01:15:39+00:00",
+        "fetched_at": "2026-07-24T01:26:36+00:00",
+        "summary": "Product teams speak a great deal about understanding users, but much of what passes for empathy is still strangely external. A few interviews, some clips from research, a dashboard, a support summary, and perhaps a customer visit if the quarter is going well. The PM learns about the user, but rarely feels anything close to […] The post Product management as method acting: Becoming your user appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c7124785a1bd6dbbb889"
       }
     ]
   },
   "findings": [
     {
-      "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "url": "https://forbesjapan.com/articles/detail/101363",
+      "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
+      "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T04:09:28+00:00",
-      "fetched_at": "2026-07-24T00:52:19+00:00",
-      "summary": "上面に白と黒のパターンが描かれたコマを回転させると、そこにあるはずのない色が浮かんで見える「ベンハムのコマ」をご存知だろうか。この現象は1826年に発見され、1894年に発明家チャールズ・ベンハムがその原理を利用して開発し発売した玩具だ。発見当初は、網膜や視覚経路における時間応答の違いなどによる作用だと...",
+      "published_at": "2026-07-23T21:38:02+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "Jul 23, 2026 @ 2026年のソフトウェア開発を考える（2026/07版） AI DevEx Conference 2026 2026年7月23日（木） https://dev-productivity-con.findy-code.io/aidevex2026",
       "matched_keywords": [
-        "APAC Trend Radar",
+        "agent",
+        "AI Agents",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "52cecc38bbf8b24372ff"
-    }
-  ],
-  "new_findings": [
+      "id": "a420ae0edb29109ce9b5"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
+      "url": "https://jvn.jp/vu/JVNVU93636354/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:00:15+09:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "93b578ef64b762bbe703"
+    },
+    {
+      "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99418634/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "437fc6aa3b496950634c"
+    },
+    {
+      "title": "M 5.0 - 94 km SSE of Adak, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-24T01:25:43.027+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "ShakeMap - III Time 2026-07-24 01:03:16 UTC 2026-07-24 01:03:16 UTC at epicenter Location 51.102°N 176.065°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "bfb739d388e54a31755d"
+    },
     {
       "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/101363",
@@ -100,6 +345,226 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "52cecc38bbf8b24372ff"
+    },
+    {
+      "title": "M 4.9 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:56:47.040+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6e088cbbb967a3633192"
+    },
+    {
+      "title": "Product management as method acting: Becoming your user",
+      "url": "https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-24T01:15:39+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "Product teams speak a great deal about understanding users, but much of what passes for empathy is still strangely external. A few interviews, some clips from research, a dashboard, a support summary, and perhaps a customer visit if the quarter is going well. The PM learns about the user, but rarely feels anything close to […] The post Product management as method acting: Becoming your user appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7124785a1bd6dbbb889"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
+      "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T21:38:02+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "Jul 23, 2026 @ 2026年のソフトウェア開発を考える（2026/07版） AI DevEx Conference 2026 2026年7月23日（木） https://dev-productivity-con.findy-code.io/aidevex2026",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a420ae0edb29109ce9b5"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
+      "url": "https://jvn.jp/vu/JVNVU93636354/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:00:15+09:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "93b578ef64b762bbe703"
+    },
+    {
+      "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99418634/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:00:00+09:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "437fc6aa3b496950634c"
+    },
+    {
+      "title": "M 5.0 - 94 km SSE of Adak, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-24T01:25:43.027+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "ShakeMap - III Time 2026-07-24 01:03:16 UTC 2026-07-24 01:03:16 UTC at epicenter Location 51.102°N 176.065°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "bfb739d388e54a31755d"
+    },
+    {
+      "title": "M 4.9 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:56:47.040+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6e088cbbb967a3633192"
+    },
+    {
+      "title": "Product management as method acting: Becoming your user",
+      "url": "https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-24T01:15:39+00:00",
+      "fetched_at": "2026-07-24T01:26:36+00:00",
+      "summary": "Product teams speak a great deal about understanding users, but much of what passes for empathy is still strangely external. A few interviews, some clips from research, a dashboard, a support summary, and perhaps a customer visit if the quarter is going well. The PM learns about the user, but rarely feels anything close to […] The post Product management as method acting: Becoming your user appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7124785a1bd6dbbb889"
     }
   ],
   "source_errors": [],

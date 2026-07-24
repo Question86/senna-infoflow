@@ -1,15 +1,70 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T00:52:49+00:00",
+  "generated_at": "2026-07-24T01:27:08+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T21:38:02+00:00",
+        "relevance_score": 17,
+        "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition"
+      },
       {
         "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-23T04:09:28+00:00",
         "relevance_score": 11,
         "url": "https://forbesjapan.com/articles/detail/101363"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T21:38:02+00:00",
+        "relevance_score": 17,
+        "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-24T10:00:15+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU93636354/"
+      },
+      {
+        "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-24T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99418634/"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 5.0 - 94 km SSE of Adak, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-24T01:25:43.027+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx"
+      },
+      {
+        "title": "M 4.9 - South Sandwich Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-24T00:56:47.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws"
+      },
+      {
+        "title": "Product management as method acting: Becoming your user",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-24T01:15:39+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/"
       }
     ]
   }
