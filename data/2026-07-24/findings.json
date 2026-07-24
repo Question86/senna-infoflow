@@ -117,6 +117,28 @@
     "id": "93b578ef64b762bbe703"
   },
   {
+    "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
+    "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-24T04:41:18+00:00",
+    "fetched_at": "2026-07-24T05:37:44+00:00",
+    "summary": "At Siam Paragon’s Speaker Lounge in Bangkok, against the backdrop of SITE 2026, Sophia Chong, Executive Director at the Hong Kong Trade Development Council (HKTDC), sat down to explain why Thailand, and Southeast Asia more broadly, has become central to Hong Kong’s global strategy. The occasion was a fitting one: HKTDC had just received the […] The post Hong Kong’s pitch to SEA: “We want to be your super partner” ap…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Markets/Capital Structure",
+      "Southeast Asia"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c1cef52f6f28fc873d75"
+  },
+  {
     "title": "block/buzz",
     "url": "https://github.com/block/buzz",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -206,6 +228,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "437fc6aa3b496950634c"
+  },
+  {
+    "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-24T05:27:53+00:00",
+    "fetched_at": "2026-07-24T05:37:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f55c1657fc575603fc31"
   },
   {
     "title": "M 5.0 - 94 km SSE of Adak, Alaska",
@@ -462,6 +507,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e3539a2496ad568e2712"
+  },
+  {
+    "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+    "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-23T23:28:13+00:00",
+    "fetched_at": "2026-07-24T05:37:44+00:00",
+    "summary": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "83fff09f8e0359acbe63"
   },
   {
     "title": "shiyu-coder/Kronos",

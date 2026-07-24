@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T04:39:37+00:00",
+  "generated_at": "2026-07-24T05:38:16+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-23T21:38:02+00:00",
         "relevance_score": 17,
         "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition"
+      },
+      {
+        "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-24T04:41:18+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/"
       },
       {
         "title": "block/buzz",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-24T02:27:42+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/"
-      },
-      {
-        "title": "shiyu-coder/Kronos",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/shiyu-coder/Kronos"
       }
     ],
     "github": [
@@ -112,6 +112,13 @@
         "published_at": "2026-07-24T02:15:41+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/"
+      },
+      {
+        "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-24T04:41:18+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/"
       },
       {
         "title": "Diversify or die: The importance of multi-channel marketing in Asia",
@@ -186,6 +193,13 @@
         "published_at": "2026-07-24T10:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU99418634/"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T05:27:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357"
       }
     ],
     "general": [
@@ -216,6 +230,13 @@
         "published_at": "2026-07-24T03:12:31+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260724-01"
+      },
+      {
+        "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T23:28:13+00:00",
+        "relevance_score": 5,
+        "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html"
       },
       {
         "title": "Product management as method acting: Becoming your user",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T04:39:37+00:00",
-  "run_id": "2026-07-24T04:39:37+00:00",
+  "generated_at": "2026-07-24T05:38:16+00:00",
+  "run_id": "2026-07-24T05:38:16+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 3,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
-    "medium": 7,
-    "observe": 13,
+    "medium": 9,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -147,6 +147,28 @@
         "id": "93b578ef64b762bbe703"
       },
       {
+        "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
+        "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-24T04:41:18+00:00",
+        "fetched_at": "2026-07-24T05:37:44+00:00",
+        "summary": "At Siam Paragon’s Speaker Lounge in Bangkok, against the backdrop of SITE 2026, Sophia Chong, Executive Director at the Hong Kong Trade Development Council (HKTDC), sat down to explain why Thailand, and Southeast Asia more broadly, has become central to Hong Kong’s global strategy. The occasion was a fitting one: HKTDC had just received the […] The post Hong Kong’s pitch to SEA: “We want to be your super partner” ap…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Markets/Capital Structure",
+          "Southeast Asia"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c1cef52f6f28fc873d75"
+      },
+      {
         "title": "block/buzz",
         "url": "https://github.com/block/buzz",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -236,6 +258,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "437fc6aa3b496950634c"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T05:27:53+00:00",
+        "fetched_at": "2026-07-24T05:37:44+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f55c1657fc575603fc31"
       }
     ],
     "observe": [
@@ -496,6 +541,27 @@
         "id": "e3539a2496ad568e2712"
       },
       {
+        "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+        "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T23:28:13+00:00",
+        "fetched_at": "2026-07-24T05:37:44+00:00",
+        "summary": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "83fff09f8e0359acbe63"
+      },
+      {
         "title": "shiyu-coder/Kronos",
         "url": "https://github.com/shiyu-coder/Kronos",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -698,6 +764,28 @@
       "id": "93b578ef64b762bbe703"
     },
     {
+      "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
+      "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-24T04:41:18+00:00",
+      "fetched_at": "2026-07-24T05:37:44+00:00",
+      "summary": "At Siam Paragon’s Speaker Lounge in Bangkok, against the backdrop of SITE 2026, Sophia Chong, Executive Director at the Hong Kong Trade Development Council (HKTDC), sat down to explain why Thailand, and Southeast Asia more broadly, has become central to Hong Kong’s global strategy. The occasion was a fitting one: HKTDC had just received the […] The post Hong Kong’s pitch to SEA: “We want to be your super partner” ap…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Markets/Capital Structure",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c1cef52f6f28fc873d75"
+    },
+    {
       "title": "block/buzz",
       "url": "https://github.com/block/buzz",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -787,6 +875,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "437fc6aa3b496950634c"
+    },
+    {
+      "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T05:27:53+00:00",
+      "fetched_at": "2026-07-24T05:37:44+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f55c1657fc575603fc31"
     },
     {
       "title": "M 5.0 - 94 km SSE of Adak, Alaska",
@@ -1045,6 +1156,27 @@
       "id": "e3539a2496ad568e2712"
     },
     {
+      "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T23:28:13+00:00",
+      "fetched_at": "2026-07-24T05:37:44+00:00",
+      "summary": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "83fff09f8e0359acbe63"
+    },
+    {
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1129,46 +1261,70 @@
   ],
   "new_findings": [
     {
-      "title": "L.トーバルズ氏、AI反対派に強硬姿勢--「フォークしろ」",
-      "url": "https://japan.zdnet.com/article/35250695/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Hong Kong’s pitch to SEA: “We want to be your super partner”",
+      "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-23T00:40:17+00:00",
-      "fetched_at": "2026-07-24T04:39:09+00:00",
-      "summary": "多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...",
+      "published_at": "2026-07-24T04:41:18+00:00",
+      "fetched_at": "2026-07-24T05:37:44+00:00",
+      "summary": "At Siam Paragon’s Speaker Lounge in Bangkok, against the backdrop of SITE 2026, Sophia Chong, Executive Director at the Hong Kong Trade Development Council (HKTDC), sat down to explain why Thailand, and Southeast Asia more broadly, has become central to Hong Kong’s global strategy. The occasion was a fitting one: HKTDC had just received the […] The post Hong Kong’s pitch to SEA: “We want to be your super partner” ap…",
       "matched_keywords": [
         "APAC Trend Radar",
+        "Markets/Capital Structure",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c1cef52f6f28fc873d75"
+    },
+    {
+      "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T05:27:53+00:00",
+      "fetched_at": "2026-07-24T05:37:44+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f55c1657fc575603fc31"
+    },
+    {
+      "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T23:28:13+00:00",
+      "fetched_at": "2026-07-24T05:37:44+00:00",
+      "summary": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
+      "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e0dfcf45172f2e25d447"
-    },
-    {
-      "title": "Ropedia raises US$22M to build the data layer for robots that understand the real world",
-      "url": "https://e27.co/ropedia-raises-us22m-to-build-the-data-layer-for-robots-that-understand-the-real-world-20260724/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-24T04:16:42+00:00",
-      "fetched_at": "2026-07-24T04:39:09+00:00",
-      "summary": "Robots are getting better at seeing, speaking, and planning. What they still struggle with is the messy business of doing. For a machine to reliably pack a box, wipe a table, load a warehouse shelf or assist someone at home, it needs more than internet text and video clips. It needs to understand grip, weight, […] The post Ropedia raises US$22M to build the data layer for robots that understand the real world appear…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bf30b6f6b123e7aed633"
+      "id": "83fff09f8e0359acbe63"
     }
   ],
   "source_errors": [],
