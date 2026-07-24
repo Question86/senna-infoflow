@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-24T06:07:59Z",
+  "generated_at": "2026-07-24T07:07:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 32,
     "bands": {
       "krass": 3,
       "strong": 6,
-      "watch": 5,
-      "quiet": 13
+      "watch": 7,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 9,
-      "watch": 5,
-      "quiet": 13
+      "watch": 7,
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU99418634/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T05:27:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU93636354/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:15+09:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T21:38:02+00:00",
-      "age_days": 0.35,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -123,7 +123,7 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -149,7 +149,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 35.17,
+      "age_days": 35.21,
       "topics": [
         "ai"
       ],
@@ -178,7 +178,7 @@
       "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:27:42+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -204,7 +204,7 @@
       "url": "https://github.com/block/buzz",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -230,7 +230,7 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "infra",
@@ -253,11 +253,36 @@
       "summary": "Kronos: A Foundation Model for the Language of Financial Markets Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 globa…"
     },
     {
+      "title": "Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
+      "url": "https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-24T06:21:00.000+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Russische Angreifer attackieren seit Juli 2025 westliche Regierungen und Einrichtungen durch eine Zero-Click-Lücke in Zimbra."
+    },
+    {
       "title": "M 5.0 - 94 km SSE of Adak, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T01:25:43.027+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -282,7 +307,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T03:28:59.368+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -307,7 +332,7 @@
       "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:15:41+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -330,11 +355,36 @@
       "summary": "In the tech ecosystem, we often talk about the next big thing in terms of code and cloud scalability. But as we move further into 2026, I’ve realised that the most complex system I am currently architecting isn’t a SaaS platform. It is a physical puzzle hunt in the heartlands of Singapore. I call it […] The post The m…"
     },
     {
+      "title": "“The AI did it” is not a defence; it is a confession",
+      "url": "https://e27.co/the-ai-did-it-is-not-a-defence-it-is-a-confession-20260724/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-24T05:55:49+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "If the reported OpenAI-Hugging Face cyber incident stands up under scrutiny, the most alarming part is not that an AI system found a way to cheat a test. It is that one of the world’s most powerful AI companies appears to have built the conditions for that failure, then rushed to describe the result as […] The post “T…"
+    },
+    {
       "title": "M 4.9 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-24T00:56:47.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -358,7 +408,7 @@
       "url": "https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T01:15:39+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [],
       "dynamics_score": 12.0,
       "raw_band": "watch",
@@ -381,7 +431,7 @@
       "url": "https://e27.co/localise-partner-adapt-a-playbook-for-entering-indonesia-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:00:31+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -405,7 +455,7 @@
       "url": "https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T04:41:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -431,7 +481,7 @@
       "url": "https://forbesjapan.com/articles/detail/101363",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T04:09:28+00:00",
-      "age_days": 1.08,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -457,7 +507,7 @@
       "url": "https://e27.co/how-ai-is-dismantling-the-risk-pool-in-insurance-20260713/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T02:00:57+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -478,11 +528,35 @@
       "summary": "Three weeks ago, I had coffee with the chief risk officer of an Indonesian insurer who has spent the last eighteen months building an AI-driven pricing model for one of their health products. He told me the model now produces better predictions than any of their senior actuaries can defend. He also told me he […] The…"
     },
     {
+      "title": "Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました",
+      "url": "https://www.digital.go.jp/policies/health/public-medical-hub/terms-of-use/20260803",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-24T06:00:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Public Medical Hub システム利用規約（自治体向け）（医療機関・薬局向け）の改正について掲載しました"
+    },
+    {
       "title": "松本大臣記者会見（令和8年7月24日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260724-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-24T03:12:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -502,11 +576,35 @@
       "summary": "松本大臣記者会見（令和8年7月24日）動画を掲載しました"
     },
     {
+      "title": "クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし",
+      "url": "https://note.com/kobudashiodashi/n/n9d24c3519f6a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-24T03:57:57+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "※2026年7月現在で未解決です。 最後まで読んでも解決はしていませんのであしからず。 こんにちは。こぶだしという者です。 普段はインターネットでお絵かきをしたり、漫画を描いたりしています。 私のSNSをウォッチしている方は既にご存知かもしませんが ある日突然、Twitter（自称X）から あなたのアカウントは日本国内..."
+    },
+    {
       "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
       "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T23:28:13+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -530,7 +628,7 @@
       "url": "https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T01:45:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -556,7 +654,7 @@
       "url": "https://japan.zdnet.com/article/35250695/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T00:40:17+00:00",
-      "age_days": 1.23,
+      "age_days": 1.27,
       "topics": [
         "ai"
       ],
@@ -581,7 +679,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.14,
+      "age_days": 34.18,
       "topics": [
         "general"
       ],
@@ -597,7 +695,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 34.1d old signal"
+        "aging penalty -16.0 for 34.2d old signal"
       ],
       "summary": ""
     },
@@ -606,7 +704,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.14,
+      "age_days": 34.18,
       "topics": [
         "general"
       ],
@@ -622,7 +720,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 34.1d old signal"
+        "aging penalty -16.0 for 34.2d old signal"
       ],
       "summary": ""
     },
@@ -631,7 +729,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.14,
+      "age_days": 34.18,
       "topics": [
         "ai"
       ],
@@ -648,17 +746,42 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 34.1d old signal",
+        "aging penalty -16.0 for 34.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
+      "url": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-24T06:00:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）"
     },
     {
       "title": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -683,7 +806,7 @@
       "url": "https://e27.co/ropedia-raises-us22m-to-build-the-data-layer-for-robots-that-understand-the-real-world-20260724/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-24T04:16:42+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
