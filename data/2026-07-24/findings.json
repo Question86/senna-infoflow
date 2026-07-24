@@ -288,6 +288,42 @@
     "id": "a199d064a6777d38080b"
   },
   {
+    "title": "M 4.8 - 59 km NNW of San Antonio, Puerto Rico",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-24T03:28:59.368+00:00",
+    "fetched_at": "2026-07-24T03:29:52+00:00",
+    "summary": "DYFI? - V Time 2026-07-24 02:42:34 UTC 2026-07-24 02:42:34 UTC at epicenter Location 18.995°N 67.293°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3121884ffa4a35cfdc3e"
+  },
+  {
     "title": "M 4.9 - South Sandwich Islands region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -324,6 +360,48 @@
     "id": "6e088cbbb967a3633192"
   },
   {
+    "title": "Will Bitcoin hold its US$64,500 line in the sand, or are we heading straight for a test of the US$63,170 support level?",
+    "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-24T02:27:42+00:00",
+    "fetched_at": "2026-07-24T03:29:52+00:00",
+    "summary": "Bitcoin slipped 1.28 per cent to US$65,127.33 over the past 24 hours, tracking a 1.38 per cent decline in total crypto market capitalisation, and the story behind that move tells us far more about positioning fragility than about any fundamental shift in conviction. Two macro forces converged to trigger the selloff. Stalled Senate negotiations on […] The post Will Bitcoin hold its US$64,500 line in the sand, or are…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "8f68d83128d7d08829fb"
+  },
+  {
     "title": "Localise, partner, adapt: A playbook for entering Indonesia",
     "url": "https://e27.co/localise-partner-adapt-a-playbook-for-entering-indonesia-20260724/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -342,6 +420,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6683ff58354531f9e2af"
+  },
+  {
+    "title": "松本大臣記者会見（令和8年7月24日）動画を掲載しました",
+    "url": "https://www.digital.go.jp/speech/minister-260724-01",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-24T03:12:31+00:00",
+    "fetched_at": "2026-07-24T03:29:52+00:00",
+    "summary": "松本大臣記者会見（令和8年7月24日）動画を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e3539a2496ad568e2712"
   },
   {
     "title": "shiyu-coder/Kronos",

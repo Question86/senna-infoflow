@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-24T02:17:06+00:00",
+  "generated_at": "2026-07-24T03:30:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 3,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 7,
-    "observe": 8
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "M 4.9 - South Sandwich Islands region",
+      "title": "M 4.8 - 59 km NNW of San Antonio, Puerto Rico",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-24T00:56:47.040+00:00",
+      "published_at": "2026-07-24T03:28:59.368+00:00",
       "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws",
-      "summary": "Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
+      "summary": "DYFI? - V Time 2026-07-24 02:42:34 UTC 2026-07-24 02:42:34 UTC at epicenter Location 18.995°N 67.293°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
-        "url": "https://jvn.jp/vu/JVNVU93636354/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-24T10:00:15+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
-        "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T21:38:02+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Jul 23, 2026 @ 2026年のソフトウェア開発を考える（2026/07版） AI DevEx Conference 2026 2026年7月23日（木） https://dev-productivity-con.findy-code.io/aidevex2026"
-      },
-      {
-        "title": "citrolabs/ego-lite",
-        "url": "https://github.com/citrolabs/ego-lite",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-24T02:16:37+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The best browser for both you and your AI agents work in parallel. The best browser for both you and your AI agents work in parallel. ego (lite) is a browser where you and your AI agents work in parallel. Your agents run multiple browser tasks in their own Spaces while your tabs stay yours, and tasks complete faster o…"
-      },
-      {
-        "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99418634/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-24T10:00:00+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 35.03,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -4.9 for 35.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T02:17:06+00:00_
+_Generiert: 2026-07-24T03:30:25+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: Startup ventures in Asia have been growing over the past few years; however, many young companies think marketing is optional. However, marketing is not a choice, but a must, according to analysis, and without a proper strategy and budget, no amount of effort will make the campaign successful. As an entrepreneur says, “it takes years […] The post Diversify or die: The importance of multi-channel marketing in Asia ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 59 km NNW of San Antonio, Puerto Rico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-24T03:28:59.368+00:00`, fetched `2026-07-24T03:29:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - V Time 2026-07-24 02:42:34 UTC 2026-07-24 02:42:34 UTC at epicenter Location 18.995°N 67.293°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-24T00:56:47.040+00:00`, fetched `2026-07-24T01:26:36+00:00`
@@ -114,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Will Bitcoin hold its US$64,500 line in the sand, or are we heading straight for a test of the US$63,170 support level?** — Score 7, observation — [Quelle](https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-24T02:27:42+00:00`, fetched `2026-07-24T03:29:52+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Bitcoin slipped 1.28 per cent to US$65,127.33 over the past 24 hours, tracking a 1.38 per cent decline in total crypto market capitalisation, and the story behind that move tells us far more about positioning fragility than about any fundamental shift in conviction. Two macro forces converged to trigger the selloff. Stalled Senate negotiations on […] The post Will Bitcoin hold its US$64,500 line in the sand, or are…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Localise, partner, adapt: A playbook for entering Indonesia** — Score 7, observation — [Quelle](https://e27.co/localise-partner-adapt-a-playbook-for-entering-indonesia-20260724/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-24T02:00:31+00:00`, fetched `2026-07-24T02:16:37+00:00`
@@ -122,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia is one of the world’s fastest-growing digital economies: young, mobile-first, and home to more than 270 million people. It is also one of the region’s most dynamic and layered markets, full of opportunity for companies that take the time to understand how it really works. That opportunity was the backdrop for Scale Up to […] The post Localise, partner, adapt: A playbook for entering Indonesia appeared firs…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **松本大臣記者会見（令和8年7月24日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260724-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-24T03:12:31+00:00`, fetched `2026-07-24T03:29:52+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣記者会見（令和8年7月24日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **shiyu-coder/Kronos** — Score 5, observation — [Quelle](https://github.com/shiyu-coder/Kronos)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -140,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Empowering everyone to host fast and efficient Minecraft servers. Pumpkin Pumpkin is a Minecraft server built entirely in Rust, offering a fast, efficient, and customizable experience. It prioritizes performance and player enjoyment while adhering to the core mechanics of the game. Goals Performance : Leveraging multi-threading for maximum speed and efficiency. Compatibility : Supports the latest Java & Bedrock Mine…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Product management as method acting: Becoming your user** — Score 4, observation — [Quelle](https://e27.co/product-management-as-method-acting-becoming-your-user-20260716/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-24T01:15:39+00:00`, fetched `2026-07-24T01:26:36+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Product teams speak a great deal about understanding users, but much of what passes for empathy is still strangely external. A few interviews, some clips from research, a dashboard, a support summary, and perhaps a customer visit if the quarter is going well. The PM learns about the user, but rarely feels anything close to […] The post Product management as method acting: Becoming your user appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
