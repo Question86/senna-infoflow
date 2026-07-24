@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-24T08:14:56+00:00",
+  "generated_at": "2026-07-24T09:07:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 9,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
-    "medium": 10,
-    "observe": 23
+    "medium": 15,
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Ecosystem Roundup: When AI acts, humans are still responsible",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-24T08:57:25+00:00",
+      "relevance_score": 23,
+      "url": "https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/",
+      "summary": "When OpenAI recently disclosed that Hugging Face had been breached through access to its pre-release models, the instinctive question was technical: how did the system fail? But the more important question was human: who decided to grant that access, under wh…",
+      "section": "medium"
+    },
     {
       "title": "citrolabs/ego-lite",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -45,14 +55,14 @@
       "section": "medium"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Sicherheitsupdate n8n: Accountübernahme und Sandboxausbruch möglich",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-24T10:00:15+09:00",
-      "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU93636354/",
-      "summary": "2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "section": "medium"
+      "published_at": "2026-07-24T08:21:00.000+00:00",
+      "relevance_score": 12,
+      "url": "https://www.heise.de/news/Sicherheitsupdate-n8n-Accountuebernahme-und-Sandboxausbruch-moeglich-11377037.html",
+      "summary": "Das Workflow-Automatisierungstool n8n ist verwundbar und Angreifer können Instanzen kompromittieren.",
+      "section": "observe"
     },
     {
       "title": "M 5.0 - 94 km SSE of Adak, Alaska",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/",
       "summary": "Startup ventures in Asia have been growing over the past few years; however, many young companies think marketing is optional. However, marketing is not a choice, but a must, according to analysis, and without a proper strategy and budget, no amount of effort…",
       "section": "observe"
-    },
-    {
-      "title": "L.トーバルズ氏、AI反対派に強硬姿勢--「フォークしろ」",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-23T00:40:17+00:00",
-      "relevance_score": 10,
-      "url": "https://japan.zdnet.com/article/35250695/",
-      "summary": "多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
-        "url": "https://jvn.jp/vu/JVNVU93636354/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-24T10:00:15+09:00",
-        "age_days": 0.33,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
-        "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T21:38:02+00:00",
-        "age_days": 0.47,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Jul 23, 2026 @ 2026年のソフトウェア開発を考える（2026/07版） AI DevEx Conference 2026 2026年7月23日（木） https://dev-productivity-con.findy-code.io/aidevex2026"
-      },
-      {
-        "title": "citrolabs/ego-lite",
-        "url": "https://github.com/citrolabs/ego-lite",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-24T02:16:37+00:00",
-        "age_days": 0.28,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The best browser for both you and your AI agents work in parallel. The best browser for both you and your AI agents work in parallel. ego (lite) is a browser where you and your AI agents work in parallel. Your agents run multiple browser tasks in their own Spaces while your tabs stay yours, and tasks complete faster o…"
-      },
-      {
-        "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99418634/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-24T10:00:00+09:00",
-        "age_days": 0.33,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T05:27:53+00:00",
-        "age_days": 0.15,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen."
-      }
-    ]
-  }
+  ]
 }
