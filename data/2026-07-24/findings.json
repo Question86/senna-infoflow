@@ -1287,6 +1287,78 @@
     "id": "6bec7c7ec2c3d0b2dc79"
   },
   {
+    "title": "M 5.1 - 75 km WSW of Sola, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t376",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-24T21:53:55.434+00:00",
+    "fetched_at": "2026-07-24T21:55:28+00:00",
+    "summary": "DYFI? - I Time 2026-07-24 21:19:44 UTC 2026-07-24 21:19:44 UTC at epicenter Location 14.059°S 166.878°E Depth 16.70 km (10.38 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "dcbc542e6c64f814d348"
+  },
+  {
+    "title": "M 6.0 - 82 km W of Sola, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-24T21:53:27.158+00:00",
+    "fetched_at": "2026-07-24T21:55:28+00:00",
+    "summary": "DYFI? - IV Time 2026-07-24 21:37:56 UTC 2026-07-24 21:37:56 UTC at epicenter Location 14.021°S 166.801°E Depth 44.64 km (27.74 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2b903bd8b3c5a8503227"
+  },
+  {
     "title": "M 4.5 - 7 km SSE of Francisco Rueda, Mexico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t35u",
     "source": "USGS M4.5+ Earthquakes Past Hour",
