@@ -377,6 +377,46 @@
     "id": "e0dfcf45172f2e25d447"
   },
   {
+    "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-24T08:00:00+00:00",
+    "fetched_at": "2026-07-24T08:14:23+00:00",
+    "summary": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "78bdfbf40f26978a901f"
+  },
+  {
+    "title": "ECB Consumer Expectations Survey results – June 2026",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-24T08:00:00+00:00",
+    "fetched_at": "2026-07-24T08:14:23+00:00",
+    "summary": "ECB Consumer Expectations Survey results – June 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff8f8943169217f65ca2"
+  },
+  {
     "title": "M 4.8 - 59 km NNW of San Antonio, Puerto Rico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -447,6 +487,26 @@
       "LOW"
     ],
     "id": "6e088cbbb967a3633192"
+  },
+  {
+    "title": "Adobe-Chrome-Erweiterung ermöglichte Datenklau",
+    "url": "https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-24T07:52:00.000+00:00",
+    "fetched_at": "2026-07-24T08:14:23+00:00",
+    "summary": "In der Chrome-Erweiterung Adobe Acrobat mit 312 Millionen Nutzern klaffte eine Schwachstelle. Dadurch konnten Angreifer Daten stehlen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6310b805f39a00c77b1f"
   },
   {
     "title": "Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
@@ -631,6 +691,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "441bf877a753d6154224"
+  },
+  {
+    "title": "「AIキルスイッチ法案」が米国で提出。AI暴走に政府が介入",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2127555.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-24T03:29:45+00:00",
+    "fetched_at": "2026-07-24T08:14:23+00:00",
+    "summary": "「AIキルスイッチ法案」が米国で提出。AI暴走に政府が介入",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3c103603b72f62740595"
   },
   {
     "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",

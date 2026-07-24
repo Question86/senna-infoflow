@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T07:25:19+00:00_
+_Generiert: 2026-07-24T08:14:56+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „citrolabs/ego-lite“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-07-24T07:25:19+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:49.188km) in Indonesia 23/07/2026 22:58 UTC, 5 thousand in MMI IV.
-- **GDACS: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 9.557 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001294)
+- **GDACS: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.45 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001294)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 9.557 million .
+  - Kurz: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.45 million .
 
 ## Wirtschaft global
 
@@ -173,6 +173,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Results of the ECB Survey of Professional Forecasters for the third quarter of 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-24T08:00:00+00:00`, fetched `2026-07-24T08:14:23+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Results of the ECB Survey of Professional Forecasters for the third quarter of 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB Consumer Expectations Survey results – June 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-24T08:00:00+00:00`, fetched `2026-07-24T08:14:23+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB Consumer Expectations Survey results – June 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 59 km NNW of San Antonio, Puerto Rico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-24T03:28:59.368+00:00`, fetched `2026-07-24T03:29:52+00:00`
@@ -191,6 +209,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Adobe-Chrome-Erweiterung ermöglichte Datenklau** — Score 7, observation — [Quelle](https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-24T07:52:00.000+00:00`, fetched `2026-07-24T08:14:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In der Chrome-Erweiterung Adobe Acrobat mit 312 Millionen Nutzern klaffte eine Schwachstelle. Dadurch konnten Angreifer Daten stehlen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra** — Score 7, observation — [Quelle](https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-24T06:21:00.000+00:00`, fetched `2026-07-24T06:31:23+00:00`
@@ -244,33 +271,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年7月24日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「定休日にも予約取れそう」話題になっているAI予約システム「オートリザーブ」だが、店舗で拒否されてる事例が出ていて問題視する反応が集まる** — Score 5, observation — [Quelle](https://togetter.com/li/2724146)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-24T04:48:44+00:00`, fetched `2026-07-24T07:24:51+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AutoReserve[オートリザーブ] | AIによるレストラン予約サイト 予約可能レストラン数No.1なら、AutoReserve。AIが世界中の飲食店の予約を行います。当サイトでしか予約できないレストラン情報やお店の写真、口コミなど豊富に取り揃えております。 7 users 111 autoreserve.com
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **shiyu-coder/Kronos** — Score 5, observation — [Quelle](https://github.com/shiyu-coder/Kronos)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-24T02:16:37+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Kronos: A Foundation Model for the Language of Financial Markets Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [2025.08.17] We have re…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Pumpkin-MC/Pumpkin** — Score 5, observation — [Quelle](https://github.com/Pumpkin-MC/Pumpkin)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-24T02:16:37+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Empowering everyone to host fast and efficient Minecraft servers. Pumpkin Pumpkin is a Minecraft server built entirely in Rust, offering a fast, efficient, and customizable experience. It prioritizes performance and player enjoyment while adhering to the core mechanics of the game. Goals Performance : Leveraging multi-threading for maximum speed and efficiency. Compatibility : Supports the latest Java & Bedrock Mine…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

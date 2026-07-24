@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T07:25:19+00:00",
+  "generated_at": "2026-07-24T08:14:56+00:00",
   "topics": {
     "ai": [
       {
@@ -172,6 +172,20 @@
         "url": "https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/"
       },
       {
+        "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-24T08:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html"
+      },
+      {
+        "title": "ECB Consumer Expectations Survey results – June 2026",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-24T08:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html"
+      },
+      {
         "title": "shiyu-coder/Kronos",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -207,6 +221,13 @@
         "published_at": "2026-07-24T05:27:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357"
+      },
+      {
+        "title": "Adobe-Chrome-Erweiterung ermöglichte Datenklau",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-24T07:52:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html"
       },
       {
         "title": "Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
