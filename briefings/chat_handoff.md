@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-24T09:59:25+00:00_
+_Generated: 2026-07-24T10:46:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `51`
+- findings: `57`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-24T09:59:25+00:00_
 - url: https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/
 - summary: When OpenAI recently disclosed that Hugging Face had been breached through access to its pre-release models, the instinctive question was technical: how did the system fail? But the more important question was human: who decided to grant that access, under wh…
 
-### 2. citrolabs/ego-lite
+### 2. [NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `20`
+- published: `2026-07-24T10:27:53+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in JetBrains WebStorm ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 3. citrolabs/ego-lite
 - source: GitHub Trending RSS All Languages Daily
 - score: `20`
 - published: `None`
 - url: https://github.com/citrolabs/ego-lite
 - summary: The best browser for both you and your AI agents work in parallel. The best browser for both you and your AI agents work in parallel. ego (lite) is a browser where you and your AI agents work in parallel. Your agents run multiple browser tasks in their own Sp…
 
-### 3. [NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen
+### 4. [NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-07-24T09:32:53+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft 365 Copilot, Microsoft Exchange und Microsoft Apps Surface ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen o…
-
-### 4. The most sophisticated AI strategy is a puzzle hunt in Toa Payoh
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-07-24T02:15:41+00:00`
-- url: https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/
-- summary: In the tech ecosystem, we often talk about the next big thing in terms of code and cloud scalability. But as we move further into 2026, I’ve realised that the most complex system I am currently architecting isn’t a SaaS platform. It is a physical puzzle hunt…
 
 ### 5. Sicherheitsupdate n8n: Accountübernahme und Sandboxausbruch möglich
 - source: heise Security Alerts

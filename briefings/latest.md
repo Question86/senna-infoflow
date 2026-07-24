@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T09:59:25+00:00_
+_Generiert: 2026-07-24T10:46:17+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+57 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -62,6 +62,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: When OpenAI recently disclosed that Hugging Face had been breached through access to its pre-release models, the instinctive question was technical: how did the system fail? But the more important question was human: who decided to grant that access, under what safeguards, and who owns the consequences? That question sits at the heart of one […] The post Ecosystem Roundup: When AI acts, humans are still responsible…
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung** — Score 20, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-24T10:27:53+00:00`, fetched `2026-07-24T10:45:40+00:00`
+  - Treffer: BSI, CERT-Bund, Climate/Disaster Infrastructure, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Climate/Disaster Infrastructure (+6.2); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in JetBrains WebStorm ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **citrolabs/ego-lite** — Score 20, opportunity — [Quelle](https://github.com/citrolabs/ego-lite)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-24T02:16:37+00:00`
@@ -115,15 +124,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Quay ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-24T09:02:55+00:00`, fetched `2026-07-24T09:07:18+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher beschriebene Effekte zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Hong Kong’s pitch to SEA: “We want to be your super partner”** — Score 16, observation — [Quelle](https://e27.co/hong-kongs-pitch-to-sea-we-want-to-be-your-super-partner-20260724/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -209,6 +209,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-24T10:00:00+00:00`, fetched `2026-07-24T10:45:40+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB to start implementing enhanced repo facility for central banks** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-07-24T08:30:00+00:00`, fetched `2026-07-24T09:07:18+00:00`
@@ -226,15 +235,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Results of the ECB Survey of Professional Forecasters for the third quarter of 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ECB Consumer Expectations Survey results – June 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-24T08:00:00+00:00`, fetched `2026-07-24T08:14:23+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB Consumer Expectations Survey results – June 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 59 km NNW of San Antonio, Puerto Rico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -303,8 +303,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-24T09:59:25+00:00",
+  "generated_at": "2026-07-24T10:46:17+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 6,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
-    "medium": 22,
-    "observe": 29
+    "medium": 26,
+    "observe": 31
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/",
       "summary": "When OpenAI recently disclosed that Hugging Face had been breached through access to its pre-release models, the instinctive question was technical: how did the system fail? But the more important question was human: who decided to grant that access, under wh…",
+      "section": "medium"
+    },
+    {
+      "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:27:53+00:00",
+      "relevance_score": 20,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in JetBrains WebStorm ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502",
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft 365 Copilot, Microsoft Exchange und Microsoft Apps Surface ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen o…",
-      "section": "medium"
-    },
-    {
-      "title": "The most sophisticated AI strategy is a puzzle hunt in Toa Payoh",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-24T02:15:41+00:00",
-      "relevance_score": 17,
-      "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/",
-      "summary": "In the tech ecosystem, we often talk about the next big thing in terms of code and cloud scalability. But as we move further into 2026, I’ve realised that the most complex system I am currently architecting isn’t a SaaS platform. It is a physical puzzle hunt…",
       "section": "medium"
     },
     {
@@ -100,138 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:27:53+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Quay ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank",
-        "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-24T09:47:00.000+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: zero-day, active, exploitation",
-          "security high-signal: zero-day, active, exploitation"
-        ],
-        "summary": "Ein IT-Forscher hat mit der chinesischen KI Kimi K3 mehrere Zero-Day-Lücken in der redis-Datenbank entdeckt. Updates bestätigen die Funde."
-      },
-      {
-        "title": "[NEU] [mittel] Znuny: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2503",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:37:52+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Znuny ausnutzen, um Informationen offenzulegen."
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
-        "url": "https://jvn.jp/vu/JVNVU93636354/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-24T10:00:15+09:00",
-        "age_days": 0.4,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:02:55+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher beschriebene Effekte zu erzielen."
-      }
-    ]
-  }
+  ]
 }

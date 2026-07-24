@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T09:59:25+00:00",
-  "run_id": "2026-07-24T09:59:25+00:00",
+  "generated_at": "2026-07-24T10:46:17+00:00",
+  "run_id": "2026-07-24T10:46:17+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 6,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
-    "medium": 22,
-    "observe": 29,
+    "medium": 26,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -52,6 +52,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0f41a0bdf083b3d78699"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "fetched_at": "2026-07-24T10:45:40+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in JetBrains WebStorm ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Climate/Disaster Infrastructure",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "Security (+6.0); Climate/Disaster Infrastructure (+6.2); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "54927239b4b8caef2a7b"
       },
       {
         "title": "citrolabs/ego-lite",
@@ -367,6 +391,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ba08ebe89f9bd8333f7"
+      },
+      {
+        "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T10:37:52+00:00",
+        "fetched_at": "2026-07-24T10:45:40+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um Sicherhetsmaßnahmen zu umgehen und Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fb6122e137ef39b2eac5"
+      },
+      {
+        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "fetched_at": "2026-07-24T10:45:40+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a9ba22b551d131c8e430"
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "fetched_at": "2026-07-24T10:45:40+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "602c350b67e0d5e116d8"
       },
       {
         "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
@@ -720,6 +813,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e0dfcf45172f2e25d447"
+      },
+      {
+        "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-24T10:00:00+00:00",
+        "fetched_at": "2026-07-24T10:45:40+00:00",
+        "summary": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "419a087b18c368368f49"
       },
       {
         "title": "ECB to start implementing enhanced repo facility for central banks",
@@ -1098,6 +1211,27 @@
         "id": "29dcafa8d88e082fff4e"
       },
       {
+        "title": "性的表現に誤タップ誘導――ネットの“不快な広告”への苦情が1年で2倍に 件数も過去最多",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/24/news076.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-24T05:04:10+00:00",
+        "fetched_at": "2026-07-24T10:45:40+00:00",
+        "summary": "日本広告審査機構（JARO）は7月23日、2025年度に受け付けた広告への苦情が、24年度の約1.5倍となる1万2589件だったと発表した。設立以来最多で、コロナ禍の20年度（1万1560件）を上回った。媒体別では、インターネット広告への苦情が24年度の約1.7倍となる7664件に急増し、初めて全体の6割を占めた。称賛や照会などを含...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3d74103a32ca0303dc98"
+      },
+      {
         "title": "「定休日にも予約取れそう」話題になっているAI予約システム「オートリザーブ」だが、店舗で拒否されてる事例が出ていて問題視する反応が集まる",
         "url": "https://togetter.com/li/2724146",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1289,6 +1423,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0f41a0bdf083b3d78699"
+    },
+    {
+      "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:27:53+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in JetBrains WebStorm ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Climate/Disaster Infrastructure",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "Security (+6.0); Climate/Disaster Infrastructure (+6.2); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54927239b4b8caef2a7b"
     },
     {
       "title": "citrolabs/ego-lite",
@@ -1604,6 +1762,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2ba08ebe89f9bd8333f7"
+    },
+    {
+      "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:37:52+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um Sicherhetsmaßnahmen zu umgehen und Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb6122e137ef39b2eac5"
+    },
+    {
+      "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:27:53+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a9ba22b551d131c8e430"
+    },
+    {
+      "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:27:53+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "602c350b67e0d5e116d8"
     },
     {
       "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
@@ -1955,6 +2182,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e0dfcf45172f2e25d447"
+    },
+    {
+      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-24T10:00:00+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "419a087b18c368368f49"
     },
     {
       "title": "ECB to start implementing enhanced repo facility for central banks",
@@ -2333,6 +2580,27 @@
       "id": "29dcafa8d88e082fff4e"
     },
     {
+      "title": "性的表現に誤タップ誘導――ネットの“不快な広告”への苦情が1年で2倍に 件数も過去最多",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news076.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T05:04:10+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "日本広告審査機構（JARO）は7月23日、2025年度に受け付けた広告への苦情が、24年度の約1.5倍となる1万2589件だったと発表した。設立以来最多で、コロナ禍の20年度（1万1560件）を上回った。媒体別では、インターネット広告への苦情が24年度の約1.7倍となる7664件に急増し、初めて全体の6割を占めた。称賛や照会などを含...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3d74103a32ca0303dc98"
+    },
+    {
       "title": "「定休日にも予約取れそう」話題になっているAI予約システム「オートリザーブ」だが、店舗で拒否されてる事例が出ていて問題視する反応が集まる",
       "url": "https://togetter.com/li/2724146",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2501,96 +2769,37 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502",
+      "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T09:32:53+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft 365 Copilot, Microsoft Exchange und Microsoft Apps Surface ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+      "published_at": "2026-07-24T10:27:53+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in JetBrains WebStorm ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Exchange",
-        "Microsoft",
+        "Climate/Disaster Infrastructure",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)",
+      "relevance_score": 20,
+      "relevance_reason": "Security (+6.0); Climate/Disaster Infrastructure (+6.2); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "afc32efde5435d80afd4"
+      "id": "54927239b4b8caef2a7b"
     },
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498",
+      "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T09:27:53+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Quay ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "16173d999742ee75edaf"
-    },
-    {
-      "title": "Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank",
-      "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-24T09:47:00.000+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "Ein IT-Forscher hat mit der chinesischen KI Kimi K3 mehrere Zero-Day-Lücken in der redis-Datenbank entdeckt. Updates bestätigen die Funde.",
-      "matched_keywords": [
-        "AI/KI",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: zero-day"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "b825f07d144f0a1fdbc4"
-    },
-    {
-      "title": "[NEU] [mittel] Znuny: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2503",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-24T09:37:52+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Znuny ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-07-24T10:37:52+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um Sicherhetsmaßnahmen zu umgehen und Dateien zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2604,16 +2813,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d2c530833e7beb675449"
+      "id": "fb6122e137ef39b2eac5"
     },
     {
-      "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2501",
+      "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T09:32:53+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in gdk-pixbuf ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-07-24T10:27:53+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2627,16 +2836,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ef86e5640b14828c409e"
+      "id": "602c350b67e0d5e116d8"
     },
     {
-      "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2500",
+      "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T09:32:53+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um Dateien zu manipulieren.",
+      "published_at": "2026-07-24T10:27:53+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2650,59 +2859,36 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d819189f9b9bd27746d4"
+      "id": "a9ba22b551d131c8e430"
     },
     {
-      "title": "[NEU] [mittel] PyTorch: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2499",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-07-24T09:27:53+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PyTorch ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+      "published_at": "2026-07-24T10:00:00+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Macro/Policy"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f88f43698c6b6fdd6ad0"
+      "id": "419a087b18c368368f49"
     },
     {
-      "title": "Singapore’s Tikva targets solid cancer barrier with US$8M Series A",
-      "url": "https://e27.co/singapores-tikva-targets-solid-cancer-barrier-with-us8m-series-a-20260724/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-24T09:17:20+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "For years, cell therapy has carried one of oncology’s most striking contradictions. It has changed the outlook for some blood cancer patients, yet has struggled to make the same impact in solid tumours, which account for the vast majority of cancer cases worldwide. Singapore-based Tikva Allocell is trying to push through that wall with a […] The post Singapore’s Tikva targets solid cancer barrier with US$8M Series A…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "400017ca1c05330f568b"
-    },
-    {
-      "title": "日本の国富を育てる「遊び部屋」とは？ 登大遊氏基調講演レポート【CEDEC2026】",
-      "url": "https://game.watch.impress.co.jp/docs/news/2127591.html",
+      "title": "性的表現に誤タップ誘導――ネットの“不快な広告”への苦情が1年で2倍に 件数も過去最多",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news076.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-24T05:57:41+00:00",
-      "fetched_at": "2026-07-24T09:58:53+00:00",
-      "summary": "日本の国富を育てる「遊び部屋」とは？ 登大遊氏基調講演レポート【CEDEC2026】",
+      "published_at": "2026-07-24T05:04:10+00:00",
+      "fetched_at": "2026-07-24T10:45:40+00:00",
+      "summary": "日本広告審査機構（JARO）は7月23日、2025年度に受け付けた広告への苦情が、24年度の約1.5倍となる1万2589件だったと発表した。設立以来最多で、コロナ禍の20年度（1万1560件）を上回った。媒体別では、インターネット広告への苦情が24年度の約1.7倍となる7664件に急増し、初めて全体の6割を占めた。称賛や照会などを含...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2714,7 +2900,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "29dcafa8d88e082fff4e"
+      "id": "3d74103a32ca0303dc98"
     }
   ],
   "source_errors": [],

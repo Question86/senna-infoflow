@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T09:59:25+00:00",
+  "generated_at": "2026-07-24T10:46:17+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-24T08:57:25+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "relevance_score": 20,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507"
       },
       {
         "title": "citrolabs/ego-lite",
@@ -66,13 +73,150 @@
         "published_at": "2026-07-23T04:09:28+00:00",
         "relevance_score": 11,
         "url": "https://forbesjapan.com/articles/detail/101363"
+      }
+    ],
+    "security": [
+      {
+        "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "relevance_score": 20,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507"
       },
       {
-        "title": "Diversify or die: The importance of multi-channel marketing in Asia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-24T01:45:37+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/"
+        "title": "[NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:32:53+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-24T10:00:15+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU93636354/"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:27:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:02:55+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762"
+      },
+      {
+        "title": "Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-24T09:47:00.000+00:00",
+        "relevance_score": 15,
+        "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html"
+      },
+      {
+        "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:37:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509"
+      },
+      {
+        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506"
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508"
+      },
+      {
+        "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-24T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99418634/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "relevance_score": 20,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:32:53+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502"
+      },
+      {
+        "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-23T21:38:02+00:00",
+        "relevance_score": 17,
+        "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:27:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498"
+      },
+      {
+        "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:37:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509"
+      },
+      {
+        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506"
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T10:27:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508"
+      },
+      {
+        "title": "[NEU] [mittel] Znuny: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:37:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2503"
+      },
+      {
+        "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:32:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2501"
+      },
+      {
+        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-24T09:32:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2500"
       }
     ],
     "github": [
@@ -119,150 +263,6 @@
         "url": "https://github.com/Pumpkin-MC/Pumpkin"
       }
     ],
-    "security": [
-      {
-        "title": "[NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:32:53+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-24T10:00:15+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU93636354/"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:27:53+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:02:55+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762"
-      },
-      {
-        "title": "Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-24T09:47:00.000+00:00",
-        "relevance_score": 15,
-        "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html"
-      },
-      {
-        "title": "Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-24T10:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99418634/"
-      },
-      {
-        "title": "[NEU] [mittel] Znuny: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:37:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2503"
-      },
-      {
-        "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:32:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2501"
-      },
-      {
-        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:32:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2500"
-      },
-      {
-        "title": "[NEU] [mittel] PyTorch: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:27:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2499"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:32:53+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502"
-      },
-      {
-        "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T21:38:02+00:00",
-        "relevance_score": 17,
-        "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:27:53+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498"
-      },
-      {
-        "title": "[NEU] [mittel] Znuny: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:37:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2503"
-      },
-      {
-        "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:32:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2501"
-      },
-      {
-        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:32:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2500"
-      },
-      {
-        "title": "[NEU] [mittel] PyTorch: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-24T09:27:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2499"
-      },
-      {
-        "title": "Diversify or die: The importance of multi-channel marketing in Asia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-24T01:45:37+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/"
-      },
-      {
-        "title": "ECB to start implementing enhanced repo facility for central banks",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-24T08:30:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html"
-      },
-      {
-        "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-24T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html"
-      }
-    ],
     "economy": [
       {
         "title": "The most sophisticated AI strategy is a puzzle hunt in Toa Payoh",
@@ -291,6 +291,13 @@
         "published_at": "2026-07-24T01:45:37+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/"
+      },
+      {
+        "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-24T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html"
       },
       {
         "title": "ECB to start implementing enhanced repo facility for central banks",
@@ -386,18 +393,18 @@
         "url": "https://game.watch.impress.co.jp/docs/news/2127591.html"
       },
       {
+        "title": "性的表現に誤タップ誘導――ネットの“不快な広告”への苦情が1年で2倍に 件数も過去最多",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-24T05:04:10+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/articles/2607/24/news076.html"
+      },
+      {
         "title": "クソツイをしたらTwitter（自称X）が突然「日本国内非公開」になった話｜こぶだし",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-24T03:57:57+00:00",
         "relevance_score": 5,
         "url": "https://note.com/kobudashiodashi/n/n9d24c3519f6a"
-      },
-      {
-        "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-23T23:28:13+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html"
       }
     ]
   }
