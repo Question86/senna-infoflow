@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-24T09:52:38Z",
+  "generated_at": "2026-07-24T10:38:36Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU99418634/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -35,11 +35,83 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2501",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T09:32:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in gdk-pixbuf ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2500",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T09:32:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um Dateien zu manipulieren."
+    },
+    {
+      "title": "[NEU] [mittel] PyTorch: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2499",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-24T09:27:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PyTorch ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [mittel] Apache Tomcat Connectors: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2205",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:02:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -59,16 +131,16 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Apache Tomcat Connectors ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "[UPDATE] [mittel] libxml2: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1159",
+      "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-24T09:02:54+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-07-24T09:27:53+00:00",
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -78,21 +150,24 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um Informationen offenzulegen."
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Quay ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
     },
     {
-      "title": "[UPDATE] [mittel] Apache HTTP Server: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2712",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-24T09:02:54+00:00",
-      "age_days": 0.03,
+      "title": "Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank",
+      "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-24T09:47:00.000+00:00",
+      "age_days": 0.04,
       "topics": [
+        "ai",
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -102,21 +177,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: zero-day, active, exploitation",
+        "security high-signal: zero-day, active, exploitation",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um einen Denial of Service Angriff durchzuführen."
+      "summary": "Ein IT-Forscher hat mit der chinesischen KI Kimi K3 mehrere Zero-Day-Lücken in der redis-Datenbank entdeckt. Updates bestätigen die Funde."
     },
     {
-      "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1357",
+      "title": "[NEU] [mittel] Znuny: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2503",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-24T05:27:53+00:00",
-      "age_days": 0.18,
+      "published_at": "2026-07-24T09:37:52+00:00",
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -126,16 +203,18 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen."
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Znuny ausnutzen, um Informationen offenzulegen."
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
       "url": "https://jvn.jp/vu/JVNVU93636354/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-24T10:00:15+09:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -160,7 +239,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-24T09:02:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -185,7 +264,7 @@
       "url": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T21:38:02+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -212,7 +291,7 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-24T02:16:37+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -232,87 +311,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The best browser for both you and your AI agents work in parallel. The best browser for both you and your AI agents work in parallel. ego (lite) is a browser where you and your AI agents work in parallel. Your agents run multiple browser tasks in their own Spaces while your tabs stay yours, and tasks complete faster o…"
-    },
-    {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 35.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.95,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.95",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -5.0 for 35.3d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Ecosystem Roundup: When AI acts, humans are still responsible",
-      "url": "https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-24T08:57:25+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai",
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "When OpenAI recently disclosed that Hugging Face had been breached through access to its pre-release models, the instinctive question was technical: how did the system fail? But the more important question was human: who decided to grant that access, under what safeguards, and who owns the consequences? That question…"
-    },
-    {
-      "title": "Sicherheitsupdate n8n: Accountübernahme und Sandboxausbruch möglich",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-n8n-Accountuebernahme-und-Sandboxausbruch-moeglich-11377037.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-07-24T08:21:00.000+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Das Workflow-Automatisierungstool n8n ist verwundbar und Angreifer können Instanzen kompromittieren."
     }
   ],
   "read_order": [
