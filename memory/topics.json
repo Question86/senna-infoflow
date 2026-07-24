@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T11:58:41+00:00",
+  "generated_at": "2026-07-24T12:36:49+00:00",
   "topics": {
     "ai": [
       {
@@ -337,6 +337,13 @@
     ],
     "general": [
       {
+        "title": "M 5.4 - 202 km W of Abepura, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-24T12:31:59.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
+      },
+      {
         "title": "M 5.3 - 197 km W of Abepura, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-24T11:32:24.040+00:00",
@@ -398,13 +405,6 @@
         "published_at": "2026-07-24T05:57:41+00:00",
         "relevance_score": 5,
         "url": "https://game.watch.impress.co.jp/docs/news/2127591.html"
-      },
-      {
-        "title": "性的表現に誤タップ誘導――ネットの“不快な広告”への苦情が1年で2倍に 件数も過去最多",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-24T05:04:10+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/24/news076.html"
       }
     ]
   }
