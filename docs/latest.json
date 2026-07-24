@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T10:46:17+00:00",
-  "run_id": "2026-07-24T10:46:17+00:00",
+  "generated_at": "2026-07-24T11:23:49+00:00",
+  "run_id": "2026-07-24T11:23:49+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 4,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 26,
+    "medium": 30,
     "observe": 31,
     "source_errors": 0
   },
@@ -195,6 +195,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a420ae0edb29109ce9b5"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1232",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T11:22:53+00:00",
+        "fetched_at": "2026-07-24T11:23:19+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Zustand oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5c5baeada0afda63bf08"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
@@ -391,6 +415,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ba08ebe89f9bd8333f7"
+      },
+      {
+        "title": "[NEU] [mittel] Progress Software MOVEit Transfer: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2512",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T11:22:52+00:00",
+        "fetched_at": "2026-07-24T11:23:19+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Progress Software MOVEit Transfer ausnutzen, um Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "873ae8aa214eeb06006a"
+      },
+      {
+        "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2510",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T11:12:52+00:00",
+        "fetched_at": "2026-07-24T11:23:19+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen oder um einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f48ce7e4f6db1d6af098"
+      },
+      {
+        "title": "[NEU] [mittel] Netty: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2511",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-24T11:12:52+00:00",
+        "fetched_at": "2026-07-24T11:23:19+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a2a951a4fe489f4db10b"
       },
       {
         "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
@@ -1568,6 +1661,30 @@
       "id": "a420ae0edb29109ce9b5"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1232",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T11:22:53+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Zustand oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5c5baeada0afda63bf08"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
       "url": "https://jvn.jp/vu/JVNVU93636354/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1762,6 +1879,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2ba08ebe89f9bd8333f7"
+    },
+    {
+      "title": "[NEU] [mittel] Progress Software MOVEit Transfer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2512",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T11:22:52+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Progress Software MOVEit Transfer ausnutzen, um Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "873ae8aa214eeb06006a"
+    },
+    {
+      "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2510",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T11:12:52+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen oder um einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f48ce7e4f6db1d6af098"
+    },
+    {
+      "title": "[NEU] [mittel] Netty: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2511",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-24T11:12:52+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a2a951a4fe489f4db10b"
     },
     {
       "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
@@ -2769,60 +2955,37 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] JetBrains WebStorm: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2507",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1232",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T10:27:53+00:00",
-      "fetched_at": "2026-07-24T10:45:40+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in JetBrains WebStorm ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-07-24T11:22:53+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Zustand oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Climate/Disaster Infrastructure",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "Security (+6.0); Climate/Disaster Infrastructure (+6.2); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "54927239b4b8caef2a7b"
+      "id": "5c5baeada0afda63bf08"
     },
     {
-      "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2509",
+      "title": "[NEU] [mittel] Progress Software MOVEit Transfer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2512",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T10:37:52+00:00",
-      "fetched_at": "2026-07-24T10:45:40+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um Sicherhetsmaßnahmen zu umgehen und Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fb6122e137ef39b2eac5"
-    },
-    {
-      "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2508",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-24T10:27:53+00:00",
-      "fetched_at": "2026-07-24T10:45:40+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "published_at": "2026-07-24T11:22:52+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Progress Software MOVEit Transfer ausnutzen, um Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2836,16 +2999,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "602c350b67e0d5e116d8"
+      "id": "873ae8aa214eeb06006a"
     },
     {
-      "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2506",
+      "title": "[NEU] [mittel] Netty: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2511",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T10:27:53+00:00",
-      "fetched_at": "2026-07-24T10:45:40+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-24T11:12:52+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2859,48 +3022,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a9ba22b551d131c8e430"
+      "id": "a2a951a4fe489f4db10b"
     },
     {
-      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2510",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-24T10:00:00+00:00",
-      "fetched_at": "2026-07-24T10:45:40+00:00",
-      "summary": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+      "published_at": "2026-07-24T11:12:52+00:00",
+      "fetched_at": "2026-07-24T11:23:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen oder um einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "419a087b18c368368f49"
-    },
-    {
-      "title": "性的表現に誤タップ誘導――ネットの“不快な広告”への苦情が1年で2倍に 件数も過去最多",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news076.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-24T05:04:10+00:00",
-      "fetched_at": "2026-07-24T10:45:40+00:00",
-      "summary": "日本広告審査機構（JARO）は7月23日、2025年度に受け付けた広告への苦情が、24年度の約1.5倍となる1万2589件だったと発表した。設立以来最多で、コロナ禍の20年度（1万1560件）を上回った。媒体別では、インターネット広告への苦情が24年度の約1.7倍となる7664件に急増し、初めて全体の6割を占めた。称賛や照会などを含...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3d74103a32ca0303dc98"
+      "id": "f48ce7e4f6db1d6af098"
     }
   ],
   "source_errors": [],
