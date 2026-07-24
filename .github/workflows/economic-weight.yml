@@ -17,7 +17,7 @@ jobs:
   update:
     if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -38,17 +38,22 @@ jobs:
       - name: Update shadow ledger and forecasts
         run: python scripts/economic_weight_layer.py
 
-      - name: Aggregate monetary evidence and outcomes
+      - name: Extract monetary evidence candidates
+        timeout-minutes: 4
+        continue-on-error: true
+        run: python scripts/extract_economic_evidence_candidates.py
+
+      - name: Aggregate accepted monetary evidence and outcomes
         run: python scripts/update_monetary_outcomes.py
 
       - name: Commit generated economic artifacts
         run: |
-          if [ -z "$(git status --porcelain -- data/economic_events.jsonl briefings/economic_weight.json briefings/economic_weight.md briefings/economic_outcomes.json briefings/economic_outcomes.md)" ]; then
+          if [ -z "$(git status --porcelain -- data/economic_events.jsonl data/economic_evidence_candidates.jsonl briefings/economic_weight.json briefings/economic_weight.md briefings/economic_outcomes.json briefings/economic_outcomes.md briefings/economic_evidence_candidates.json briefings/economic_evidence_candidates.md)" ]; then
             echo "No economic-weight changes to commit."
             exit 0
           fi
           git config user.name "senna-infoflow-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/economic_events.jsonl briefings/economic_weight.json briefings/economic_weight.md briefings/economic_outcomes.json briefings/economic_outcomes.md
-          git commit -m "data: update economic lifetime-weight ledger and outcomes"
+          git add data/economic_events.jsonl data/economic_evidence_candidates.jsonl briefings/economic_weight.json briefings/economic_weight.md briefings/economic_outcomes.json briefings/economic_outcomes.md briefings/economic_evidence_candidates.json briefings/economic_evidence_candidates.md
+          git commit -m "data: update economic forecasts, candidates and outcomes"
           git push
