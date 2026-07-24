@@ -1212,6 +1212,42 @@
     "id": "6bec7c7ec2c3d0b2dc79"
   },
   {
+    "title": "M 4.9 - 71 km SW of Pangai, Tonga",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t35n",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-24T17:33:30.040+00:00",
+    "fetched_at": "2026-07-24T17:56:11+00:00",
+    "summary": "Time 2026-07-24 17:14:55 UTC 2026-07-24 17:14:55 UTC at epicenter Location 20.326°S 174.773°W Depth 50.68 km (31.49 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5713a365f6c873fc317b"
+  },
+  {
     "title": "M 5.1 - 115 km ENE of Ozernovskiy, Russia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34c",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1582,6 +1618,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6683ff58354531f9e2af"
+  },
+  {
+    "title": "Claude Opus 5 is now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-24T16:40:04+00:00",
+    "fetched_at": "2026-07-24T17:56:11+00:00",
+    "summary": "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable… The post Claude Opus 5 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bcf77378891cfbfb1026"
   },
   {
     "title": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",

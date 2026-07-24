@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T17:21:59+00:00",
-  "run_id": "2026-07-24T17:21:59+00:00",
+  "generated_at": "2026-07-24T17:56:43+00:00",
+  "run_id": "2026-07-24T17:56:43+00:00",
   "date": "2026-07-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 35,
-    "observe": 45,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1244,6 +1244,42 @@
         "id": "6bec7c7ec2c3d0b2dc79"
       },
       {
+        "title": "M 4.9 - 71 km SW of Pangai, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t35n",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-24T17:33:30.040+00:00",
+        "fetched_at": "2026-07-24T17:56:11+00:00",
+        "summary": "Time 2026-07-24 17:14:55 UTC 2026-07-24 17:14:55 UTC at epicenter Location 20.326°S 174.773°W Depth 50.68 km (31.49 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5713a365f6c873fc317b"
+      },
+      {
         "title": "M 5.1 - 115 km ENE of Ozernovskiy, Russia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34c",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1614,6 +1650,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6683ff58354531f9e2af"
+      },
+      {
+        "title": "Claude Opus 5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-24T16:40:04+00:00",
+        "fetched_at": "2026-07-24T17:56:11+00:00",
+        "summary": "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable… The post Claude Opus 5 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bcf77378891cfbfb1026"
       },
       {
         "title": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
@@ -3203,6 +3260,42 @@
       "id": "6bec7c7ec2c3d0b2dc79"
     },
     {
+      "title": "M 4.9 - 71 km SW of Pangai, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t35n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-24T17:33:30.040+00:00",
+      "fetched_at": "2026-07-24T17:56:11+00:00",
+      "summary": "Time 2026-07-24 17:14:55 UTC 2026-07-24 17:14:55 UTC at epicenter Location 20.326°S 174.773°W Depth 50.68 km (31.49 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5713a365f6c873fc317b"
+    },
+    {
       "title": "M 5.1 - 115 km ENE of Ozernovskiy, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3573,6 +3666,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6683ff58354531f9e2af"
+    },
+    {
+      "title": "Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-24T16:40:04+00:00",
+      "fetched_at": "2026-07-24T17:56:11+00:00",
+      "summary": "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable… The post Claude Opus 5 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bcf77378891cfbfb1026"
     },
     {
       "title": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
@@ -3949,51 +4063,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.7 - 49 km W of Turangi, New Zealand",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g",
+      "title": "M 4.9 - 71 km SW of Pangai, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t35n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-24T17:20:40.705+00:00",
-      "fetched_at": "2026-07-24T17:21:26+00:00",
-      "summary": "PAGER - GREEN ShakeMap - VII DYFI? - IV Time 2026-07-24 16:51:37 UTC 2026-07-24 16:51:37 UTC at epicenter Location 38.962°S 175.233°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ee10c36910e35c511f01"
-    },
-    {
-      "title": "M 5.1 - 115 km ENE of Ozernovskiy, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34c",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-24T16:53:17.040+00:00",
-      "fetched_at": "2026-07-24T17:21:26+00:00",
-      "summary": "Time 2026-07-24 16:33:19 UTC 2026-07-24 16:33:19 UTC at epicenter Location 51.722°N 158.127°E Depth 69.80 km (43.37 mi)",
+      "published_at": "2026-07-24T17:33:30.040+00:00",
+      "fetched_at": "2026-07-24T17:56:11+00:00",
+      "summary": "Time 2026-07-24 17:14:55 UTC 2026-07-24 17:14:55 UTC at epicenter Location 20.326°S 174.773°W Depth 50.68 km (31.49 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -4020,7 +4096,28 @@
         "HD",
         "LOW"
       ],
-      "id": "77473c81eeb412e0484b"
+      "id": "5713a365f6c873fc317b"
+    },
+    {
+      "title": "Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-24T16:40:04+00:00",
+      "fetched_at": "2026-07-24T17:56:11+00:00",
+      "summary": "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable… The post Claude Opus 5 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bcf77378891cfbfb1026"
     }
   ],
   "source_errors": [],
