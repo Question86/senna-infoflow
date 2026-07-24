@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-24T00:19:38Z",
+  "generated_at": "2026-07-24T00:58:04Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 34.93,
+      "age_days": 34.96,
       "topics": [
         "ai"
       ],
@@ -34,17 +34,43 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.9 for 34.9d old signal",
+        "aging penalty -4.9 for 35.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/101363",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-23T04:09:28+00:00",
+      "age_days": 0.87,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "上面に白と黒のパターンが描かれたコマを回転させると、そこにあるはずのない色が浮かんで見える「ベンハムのコマ」をご存知だろうか。この現象は1826年に発見され、1894年に発明家チャールズ・ベンハムがその原理を利用して開発し発売した玩具だ。発見当初は、網膜や視覚経路における時間応答の違いなどによる作用だと..."
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 33.9,
+      "age_days": 33.92,
       "topics": [
         "general"
       ],
@@ -69,7 +95,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 33.9,
+      "age_days": 33.92,
       "topics": [
         "general"
       ],
@@ -94,7 +120,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 33.9,
+      "age_days": 33.92,
       "topics": [
         "ai"
       ],
@@ -127,7 +153,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 3
+      "quiet": 4
     }
   }
 }
