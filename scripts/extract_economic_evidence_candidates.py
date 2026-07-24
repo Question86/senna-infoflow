@@ -12,10 +12,10 @@ D_JSON=ROOT/"briefings/economic_evidence_candidates.json"
 D_MD=ROOT/"briefings/economic_evidence_candidates.md"
 
 PATTERNS=[
- ("USD",re.compile(r"(?<!\\w)(?:US\\$|\\$)\\s?(\\d[\\d,]*(?:\\.\\d+)?)\\s?(trillion|billion|million|thousand|tn|bn|mn|m|k)?\\b",re.I)),
- ("EUR",re.compile(r"(?<!\\w)(?:€|EUR)\\s?(\\d[\\d.,]*(?:\\.\\d+)?)\\s?(trillion|billion|million|thousand|tn|bn|mn|m|k|milliarden?|millionen?)?\\b",re.I)),
- ("GBP",re.compile(r"(?<!\\w)(?:£|GBP)\\s?(\\d[\\d,]*(?:\\.\\d+)?)\\s?(trillion|billion|million|thousand|tn|bn|mn|m|k)?\\b",re.I)),
- ("JPY",re.compile(r"(?<!\\w)(?:¥|JPY)\\s?(\\d[\\d,]*(?:\\.\\d+)?)\\s?(trillion|billion|million|thousand|tn|bn|mn|m|k)?\\b",re.I)),
+ ("USD",re.compile(r"(?<!\w)(?:US\$|\$)\s?(\d[\d,]*(?:\.\d+)?)\s?(trillion|billion|million|thousand|tn|bn|mn|m|k)?\b",re.I)),
+ ("EUR",re.compile(r"(?<!\w)(?:€|EUR)\s?(\d[\d.,]*(?:\.\d+)?)\s?(trillion|billion|million|thousand|tn|bn|mn|m|k|milliarden?|millionen?)?\b",re.I)),
+ ("GBP",re.compile(r"(?<!\w)(?:£|GBP)\s?(\d[\d,]*(?:\.\d+)?)\s?(trillion|billion|million|thousand|tn|bn|mn|m|k)?\b",re.I)),
+ ("JPY",re.compile(r"(?<!\w)(?:¥|JPY)\s?(\d[\d,]*(?:\.\d+)?)\s?(trillion|billion|million|thousand|tn|bn|mn|m|k)?\b",re.I)),
 ]
 MULT={"trillion":1e12,"tn":1e12,"billion":1e9,"bn":1e9,"milliarde":1e9,"milliarden":1e9,
       "million":1e6,"mn":1e6,"m":1e6,"millionen":1e6,"thousand":1e3,"k":1e3}
@@ -41,17 +41,17 @@ def fetch_text(url,timeout=12,max_bytes=750000):
         if not any(x in ctype for x in ("text","html","json")): return ""
         raw=resp.read(max_bytes)
     text=raw.decode("utf-8",errors="replace")
-    text=re.sub(r"<script\\b[^>]*>.*?</script>"," ",text,flags=re.I|re.S)
-    text=re.sub(r"<style\\b[^>]*>.*?</style>"," ",text,flags=re.I|re.S)
+    text=re.sub(r"<script\b[^>]*>.*?</script>"," ",text,flags=re.I|re.S)
+    text=re.sub(r"<style\b[^>]*>.*?</style>"," ",text,flags=re.I|re.S)
     text=re.sub(r"<[^>]+>"," ",text)
-    return re.sub(r"\\s+"," ",html.unescape(text)).strip()
+    return re.sub(r"\s+"," ",html.unescape(text)).strip()
 def parse_number(raw,suffix):
     return float(raw.replace(",",""))*MULT.get((suffix or "").lower(),1.0)
 def conf(url,snippet):
     s=.35; lu=url.lower(); ls=snippet.lower()
     if any(x in lu for x in PRIMARY): s+=.25
     if any(x in ls for x in CONTEXT): s+=.20
-    if re.search(r"\\b(according to|reported|announced|filed|estimated|said)\\b",ls): s+=.08
+    if re.search(r"\b(according to|reported|announced|filed|estimated|said)\b",ls): s+=.08
     return round(min(s,.90),2)
 def extract_from_text(event_id,url,text):
     out=[]
@@ -92,10 +92,10 @@ def write_reports(rows,jp,mp):
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("--daily",type=Path,default=D_DAILY); ap.add_argument("--ledger",type=Path,default=D_LEDGER)
-    ap.add_argument("--candidates",type=Path,default=D_CAND; ap.add_argument("--json-report",type=Path,default=D_JSON)
+    ap.add_argument("--candidates",type=Path,default=D_CAND); ap.add_argument("--json-report",type=Path,default=D_JSON)
     ap.add_argument("--md-report",type=Path,default=D_MD); a=ap.parse_args()
-    daily=read_json(a.daily); ledger=read_jsonla.ledger)
-    existing={r["candidate_id"]:r for r in read_jsonla.candidates) if r.get("candidate_id")}
+    daily=read_json(a.daily); ledger=read_jsonl(a.ledger)
+    existing={r["candidate_id"]:r for r in read_jsonl(a.candidates) if r.get("candidate_id")}
     failures=0
     for eid,url in event_url_map(daily,ledger):
         try: text=fetch_text(url)
