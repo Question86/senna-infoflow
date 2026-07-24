@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T09:07:48+00:00_
+_Generiert: 2026-07-24T09:59:25+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+51 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: The best browser for both you and your AI agents work in parallel. The best browser for both you and your AI agents work in parallel. ego (lite) is a browser where you and your AI agents work in parallel. Your agents run multiple browser tasks in their own Spaces while your tabs stay yours, and tasks complete faster on fewer tokens. Existing tools like browser-use and agent-browser are browser automation frameworks:…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [hoch] Microsoft Azure, Copilot, Exchange, Surface: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2502)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-24T09:32:53+00:00`, fetched `2026-07-24T09:58:53+00:00`
+  - Treffer: BSI, CERT-Bund, Exchange, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft 365 Copilot, Microsoft Exchange und Microsoft Apps Surface ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The most sophisticated AI strategy is a puzzle hunt in Toa Payoh** — Score 17, observation — [Quelle](https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-24T02:15:41+00:00`, fetched `2026-07-24T02:16:37+00:00`
@@ -57,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [UNGEPATCHT] [mittel] Red Hat Quay: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2498)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-24T09:27:53+00:00`, fetched `2026-07-24T09:58:53+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Quay ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3762)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-24T09:02:55+00:00`, fetched `2026-07-24T09:07:18+00:00`
@@ -84,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: A hive mind communication platform Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Apache 2.0 People and agents building together in the same room. What is this, really? Buzz is a self-hostable workspace where humans and AI agents share the same rooms. A Buzz community is the workspace a user reaches by URL. In the single-relay setup…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank** — Score 15, risk — [Quelle](https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-24T09:47:00.000+00:00`, fetched `2026-07-24T09:58:53+00:00`
+  - Treffer: AI/KI, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: AI/KI (+3.8); Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Ein IT-Forscher hat mit der chinesischen KI Kimi K3 mehrere Zero-Day-Lücken in der redis-Datenbank entdeckt. Updates bestätigen die Funde.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99418634/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-24T10:00:00+09:00`, fetched `2026-07-24T01:26:36+00:00`
@@ -93,24 +120,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Apache Tomcat Connectors: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2205)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-24T09:02:55+00:00`, fetched `2026-07-24T09:07:18+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Apache Tomcat Connectors ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] libxml2: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1159)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-24T09:02:54+00:00`, fetched `2026-07-24T09:07:18+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -204,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-24 00:37:03 UTC 2026-07-24 00:37:03 UTC at epicenter Location 58.795°S 25.298°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Singapore’s Tikva targets solid cancer barrier with US$8M Series A** — Score 7, observation — [Quelle](https://e27.co/singapores-tikva-targets-solid-cancer-barrier-with-us8m-series-a-20260724/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-24T09:17:20+00:00`, fetched `2026-07-24T09:58:53+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For years, cell therapy has carried one of oncology’s most striking contradictions. It has changed the outlook for some blood cancer patients, yet has struggled to make the same impact in solid tumours, which account for the vast majority of cancer cases worldwide. Singapore-based Tikva Allocell is trying to push through that wall with a […] The post Singapore’s Tikva targets solid cancer barrier with US$8M Series A…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Adobe-Chrome-Erweiterung ermöglichte Datenklau** — Score 7, observation — [Quelle](https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-24T07:52:00.000+00:00`, fetched `2026-07-24T08:14:23+00:00`
@@ -230,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Bitcoin slipped 1.28 per cent to US$65,127.33 over the past 24 hours, tracking a 1.38 per cent decline in total crypto market capitalisation, and the story behind that move tells us far more about positioning fragility than about any fundamental shift in conviction. Two macro forces converged to trigger the selloff. Stalled Senate negotiations on […] The post Will Bitcoin hold its US$64,500 line in the sand, or are…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Localise, partner, adapt: A playbook for entering Indonesia** — Score 7, observation — [Quelle](https://e27.co/localise-partner-adapt-a-playbook-for-entering-indonesia-20260724/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-24T02:00:31+00:00`, fetched `2026-07-24T02:16:37+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: Indonesia is one of the world’s fastest-growing digital economies: young, mobile-first, and home to more than 270 million people. It is also one of the region’s most dynamic and layered markets, full of opportunity for companies that take the time to understand how it really works. That opportunity was the backdrop for Scale Up to […] The post Localise, partner, adapt: A playbook for entering Indonesia appeared firs…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6)
   - Quelle: Japan Digital Agency News RSS / `rss`
