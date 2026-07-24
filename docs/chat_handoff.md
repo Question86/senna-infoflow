@@ -1,67 +1,11 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-23T23:52:58+00:00_
+_Generated: 2026-07-24T00:14:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `103`
+- findings: `0`
 
 ## Top Signals
-
-### 1. AI is already inside the enterprise. Has security kept up in Asia?
-- source: e27 Asia Startup and Tech Feed
-- score: `20`
-- published: `2026-07-23T02:00:12+00:00`
-- url: https://e27.co/ai-is-already-inside-the-enterprise-has-security-kept-up-in-asia-20260722/
-- summary: Artificial intelligence is no longer sitting at the edge of enterprise experimentation. Across the Asia Pacific, AI assistants and autonomous agents are moving into live business environments, embedded across email, customer support, internal messaging, cloud…
-
-### 2. M 5.8 - 130 km W of Ternate, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-07-23T23:29:04.056+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3
-- summary: PAGER - GREEN ShakeMap - IV Time 2026-07-23 22:58:36 UTC 2026-07-23 22:58:36 UTC at epicenter Location 0.592°N 126.224°E Depth 49.19 km (30.56 mi)
-
-### 3. The case for a cooldown: Why Dependabot now waits before issuing version updates
-- source: GitHub Blog Atom
-- score: `18`
-- published: `2026-07-23T16:00:00+00:00`
-- url: https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/
-- summary: A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version upd…
-
-### 4. 中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）
-- source: Hatena Bookmark Hotentry IT
-- score: `18`
-- published: `2026-07-23T01:00:37+00:00`
-- url: https://forbesjapan.com/articles/detail/101446
-- summary: OpenAIは、自社AI（人工知能）モデルのサイバー能力を評価する社内試験中に、複数モデルがAI企業Hugging Face（ハギングフェイス）の本番インフラへ侵入したと公表した。Hugging Faceは侵入を検知して停止した後、攻撃者が残した1万7000件超の行動記録を調べようとしたが、米国製の商用AIモデルは、安全機能によって実際...
-
-### 5. M 5.0 - 38 km SSE of Spearman, Texas
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-07-23T10:52:10.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky
-- summary: PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-07-23 10:21:43 UTC 2026-07-23 10:21:43 UTC at epicenter Location 35.902°N 100.976°W Depth 5.69 km (3.53 mi)
-
-### 6. TSUBAME Report Overflow (Jan-Mar 2026)
-- source: JPCERT/CC English Blog Atom
-- score: `13`
-- published: `2026-07-23T02:00:00+00:00`
-- url: https://blogs.jpcert.or.jp/en/2026/07/tsubame_overflow_2026-01-03.html
-- summary: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas[Takumi1.1], as well as other topics not covered in the Internet Threat Monitoring Quarterly Report. This article covers monitoring results from Ja…
-
-### 7. これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins
-- source: Hatena Bookmark Hotentry IT
-- score: `13`
-- published: `2026-07-23T00:40:28+00:00`
-- url: https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html
-- summary: Illustratorでこれができるのを待ち望んでいた人も多いと思います。 Illustratorで、列の数、行の数、ガターの値、天地左右のマージンなどを設定して、リアルタイムにガイドを設定できる無料エクステンションを紹介します。 Windows, macOSの両方に対応してます。 LiveMarginsは名の通り、Illustratorでリアルタイムにガ...
-
-### 8. アンソロピック「Claude Opus 5」明日にも発表か、GPT-5.6や中国AIに対抗 焦点は？
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-07-23T09:04:03+00:00`
-- url: https://www.sbbit.jp/article/cont1/186222
-- summary: 米アンソロピックが、次世代の最上位AIモデル「Claude Opus 5」を日本時間24日早朝にも発表するとの観測が強まっている。性能を高めながら安定性を高め、運用コストを抑えるモデルになるとの期待があり、OpenAIのGPT-5.6や低価格な中国勢との競争を左右しそうだ。 米アンソロピックが、次期最上位AIモデル「Claude Opus ...
 
 END OF DOCUMENT
