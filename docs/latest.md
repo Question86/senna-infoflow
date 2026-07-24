@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T13:07:22+00:00_
+_Generiert: 2026-07-24T13:46:43+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+76 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 ## Priorität Hoch
 
@@ -177,6 +177,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 上面に白と黒のパターンが描かれたコマを回転させると、そこにあるはずのない色が浮かんで見える「ベンハムのコマ」をご存知だろうか。この現象は1826年に発見され、1894年に発明家チャールズ・ベンハムがその原理を利用して開発し発売した玩具だ。発見当初は、網膜や視覚経路における時間応答の違いなどによる作用だと...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits Microsoft (17 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0896/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-17T00:00:00+00:00`, fetched `2026-07-24T13:46:12+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (17 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0900/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-17T00:00:00+00:00`, fetched `2026-07-24T13:46:12+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Red Hat (17 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0899/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-17T00:00:00+00:00`, fetched `2026-07-24T13:46:12+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Diversify or die: The importance of multi-channel marketing in Asia** — Score 10, observation — [Quelle](https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-24T01:45:37+00:00`, fetched `2026-07-24T02:16:37+00:00`
@@ -213,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testing in the AI Era** — Score 9, observation — [Quelle](https://speakerdeck.com/mineo_matsuya/rethinking-the-fundamentals-of-testing-in-the-ai-era)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-24T09:38:38+00:00`, fetched `2026-07-24T13:46:12+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AI時代到来です。 AIの台頭によって「このままテストをやっていて大丈夫なのか」「学んできたテスト技術は通用し続けるのか」と不安を感じているテストエンジニアも多いのではないでしょうか。 この講演では、AIを過度に恐れず、かといって過信もしないために、テストエンジニアとして押さえておきたい考え方を整理…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB to start implementing enhanced repo facility for central banks** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-07-24T08:30:00+00:00`, fetched `2026-07-24T09:07:18+00:00`
@@ -248,42 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: For years, cell therapy has carried one of oncology’s most striking contradictions. It has changed the outlook for some blood cancer patients, yet has struggled to make the same impact in solid tumours, which account for the vast majority of cancer cases worldwide. Singapore-based Tikva Allocell is trying to push through that wall with a […] The post Singapore’s Tikva targets solid cancer barrier with US$8M Series A…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Adobe-Chrome-Erweiterung ermöglichte Datenklau** — Score 7, observation — [Quelle](https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-24T07:52:00.000+00:00`, fetched `2026-07-24T08:14:23+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In der Chrome-Erweiterung Adobe Acrobat mit 312 Millionen Nutzern klaffte eine Schwachstelle. Dadurch konnten Angreifer Daten stehlen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Russische Angreifer missbrauchen Zero-Click-Lücke in Zimbra** — Score 7, observation — [Quelle](https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-24T06:21:00.000+00:00`, fetched `2026-07-24T06:31:23+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Russische Angreifer attackieren seit Juli 2025 westliche Regierungen und Einrichtungen durch eine Zero-Click-Lücke in Zimbra.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Will Bitcoin hold its US$64,500 line in the sand, or are we heading straight for a test of the US$63,170 support level?** — Score 7, observation — [Quelle](https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-24T02:27:42+00:00`, fetched `2026-07-24T03:29:52+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Bitcoin slipped 1.28 per cent to US$65,127.33 over the past 24 hours, tracking a 1.38 per cent decline in total crypto market capitalisation, and the story behind that move tells us far more about positioning fragility than about any fundamental shift in conviction. Two macro forces converged to trigger the selloff. Stalled Senate negotiations on […] The post Will Bitcoin hold its US$64,500 line in the sand, or are…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-24T06:00:00+00:00`, fetched `2026-07-24T06:31:23+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

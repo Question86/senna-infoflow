@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-24T13:07:22+00:00_
+_Generated: 2026-07-24T13:46:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `69`
+- findings: `76`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-24T13:07:22+00:00_
 - url: https://forbesjapan.com/articles/detail/101363
 - summary: 上面に白と黒のパターンが描かれたコマを回転させると、そこにあるはずのない色が浮かんで見える「ベンハムのコマ」をご存知だろうか。この現象は1826年に発見され、1894年に発明家チャールズ・ベンハムがその原理を利用して開発し発売した玩具だ。発見当初は、網膜や視覚経路における時間応答の違いなどによる作用だと...
 
-### 8. Diversify or die: The importance of multi-channel marketing in Asia
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-24T01:45:37+00:00`
-- url: https://e27.co/diversify-or-die-the-importance-of-multi-channel-marketing-in-asia-20260719/
-- summary: Startup ventures in Asia have been growing over the past few years; however, many young companies think marketing is optional. However, marketing is not a choice, but a must, according to analysis, and without a proper strategy and budget, no amount of effort…
+### 8. Multiples vulnérabilités dans les produits Microsoft (17 juillet 2026)
+- source: CERT-FR Avis de sécurité
+- score: `11`
+- published: `2026-07-17T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0896/
+- summary: De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.
 
 END OF DOCUMENT
