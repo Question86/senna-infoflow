@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T13:46:43+00:00_
+_Generiert: 2026-07-24T14:24:52+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+77 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 ## Priorität Hoch
 

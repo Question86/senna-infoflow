@@ -1569,6 +1569,27 @@
     "id": "8dac440577d5e4e236c9"
   },
   {
+    "title": "https://ssl4.eir-parts.net/doc/3930/tdnet/2856001/00.pdf",
+    "url": "https://ssl4.eir-parts.net/doc/3930/tdnet/2856001/00.pdf",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-24T11:30:36+00:00",
+    "fetched_at": "2026-07-24T14:24:20+00:00",
+    "summary": "https://ssl4.eir-parts.net/doc/3930/tdnet/2856001/00.pdf",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c93199eb1a9c208108c"
+  },
+  {
     "title": "自宅でローカルなテレビ局を開局してみた 【地上デジタル放送の仕組みに迫る】 - Qiita",
     "url": "https://qiita.com/Rabbit_Program/items/7c3b004ff56ec4cc6b06",
     "source": "Hatena Bookmark Hotentry IT",
