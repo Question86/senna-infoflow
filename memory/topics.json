@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-24T15:05:55+00:00",
+  "generated_at": "2026-07-24T15:40:26+00:00",
   "topics": {
     "ai": [
       {
@@ -286,6 +286,13 @@
         "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html"
       },
       {
+        "title": "Philip R. Lane: Outlook for the euro area economy",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-24T15:30:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf"
+      },
+      {
         "title": "Diversify or die: The importance of multi-channel marketing in Asia",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-24T01:45:37+00:00",
@@ -326,13 +333,6 @@
         "published_at": "2026-07-24T02:27:42+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/will-bitcoin-hold-its-us64500-line-in-the-sand-or-are-we-heading-straight-for-a-test-of-the-us63170-support-level-20260724/"
-      },
-      {
-        "title": "Localise, partner, adapt: A playbook for entering Indonesia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-24T02:00:31+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/localise-partner-adapt-a-playbook-for-entering-indonesia-20260724/"
       }
     ],
     "general": [
