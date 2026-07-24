@@ -331,6 +331,43 @@
     "id": "a4286b349af9c254b5ea"
   },
   {
+    "title": "M 5.1 - 194 km W of Abepura, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30v",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-24T12:44:53.040+00:00",
+    "fetched_at": "2026-07-24T13:06:50+00:00",
+    "summary": "Time 2026-07-24 12:27:02 UTC 2026-07-24 12:27:02 UTC at epicenter Location 2.606°S 138.880°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8dc62947e4b7d1c24360"
+  },
+  {
     "title": "M 5.4 - 202 km W of Abepura, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -996,6 +1033,26 @@
     "id": "e0dfcf45172f2e25d447"
   },
   {
+    "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+    "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-24T13:00:00+00:00",
+    "fetched_at": "2026-07-24T13:06:50+00:00",
+    "summary": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9b691b3f28060f204861"
+  },
+  {
     "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -1348,6 +1405,47 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e3539a2496ad568e2712"
+  },
+  {
+    "title": "Why state-owned AI won’t solve inequality",
+    "url": "https://restofworld.org/2026/ai-government-ownership/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-24T13:00:00+00:00",
+    "fetched_at": "2026-07-24T13:06:50+00:00",
+    "summary": "Government ownership of AI companies may promise shared wealth, but it risks weakening oversight and accountability.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8dac440577d5e4e236c9"
+  },
+  {
+    "title": "自宅でローカルなテレビ局を開局してみた 【地上デジタル放送の仕組みに迫る】 - Qiita",
+    "url": "https://qiita.com/Rabbit_Program/items/7c3b004ff56ec4cc6b06",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-24T09:47:05+00:00",
+    "fetched_at": "2026-07-24T13:06:50+00:00",
+    "summary": "はじめに 地上デジタル放送のテレビ局が送出しているものは、突き詰めると「MPEG-TS ストリーム」と「その中に埋め込まれた PSI/SI テーブル」の2つに集約される。 であれば、同じ構造のストリームを自前で組み立てれば、市販のテレビ録画ソフトがそれを \"本物のチャンネル\" として認識するのではないか —— そう思い立ち...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cdfabfcea91d40e29c98"
   },
   {
     "title": "LG製モニターをつなぐとMcAfeeの広告が勝手に出る問題。Microsoftが対応開始",

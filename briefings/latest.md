@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T12:36:49+00:00_
+_Generiert: 2026-07-24T13:07:22+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+69 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -147,6 +147,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: A hive mind communication platform Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Apache 2.0 People and agents building together in the same room. What is this, really? Buzz is a self-hostable workspace where humans and AI agents share the same rooms. A Buzz community is the workspace a user reaches by URL. In the single-relay setup…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.1 - 194 km W of Abepura, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30v)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-24T12:44:53.040+00:00`, fetched `2026-07-24T13:06:50+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-24 12:27:02 UTC 2026-07-24 12:27:02 UTC at epicenter Location 2.606°S 138.880°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 202 km W of Abepura, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-24T12:31:59.040+00:00`, fetched `2026-07-24T12:36:17+00:00`
@@ -231,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-24T13:00:00+00:00`, fetched `2026-07-24T13:06:50+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-07-24T10:00:00+00:00`, fetched `2026-07-24T10:45:40+00:00`
@@ -248,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB to start implementing enhanced repo facility for central banks
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Results of the ECB Survey of Professional Forecasters for the third quarter of 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-24T08:00:00+00:00`, fetched `2026-07-24T08:14:23+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Results of the ECB Survey of Professional Forecasters for the third quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 59 km NNW of San Antonio, Puerto Rico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2x0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
