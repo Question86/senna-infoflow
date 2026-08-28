@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-28T22:30:13+00:00_
+_Generiert: 2026-08-28T22:37:58+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)
   - Kurz: Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that once AI speaks the region fluently, enterprises will follow. Kai Yong Kang, Partner at […] The post Language was never the problem: Inside SEA’s real AI adoption g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 124 km N of Aksu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcq8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-28T22:32:02.040+00:00`, fetched `2026-08-28T22:37:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-28 22:07:33 UTC 2026-08-28 22:07:33 UTC at epicenter Location 42.286°N 80.525°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Claude Codeで開発以外の業務も爆速化しよう！** — Score 11, observation — [Quelle](https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-28T12:11:02+00:00`, fetched `2026-08-28T22:10:45+00:00`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Isabel Schnabel: Central banks on-chain
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 109 km S of Vanimo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcjf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-28T12:40:19.040+00:00`, fetched `2026-08-28T13:20:30+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-28 12:21:36 UTC 2026-08-28 12:21:36 UTC at epicenter Location 3.665°S 141.204°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました** — Score 9, observation — [Quelle](https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-28T00:14:49+00:00`, fetched `2026-08-28T03:33:09+00:00`
