@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-28T22:48:22+00:00_
+_Generiert: 2026-08-28T22:53:38+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -295,3 +295,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `openai_news_rss` (rss): 403 Client Error: Forbidden for url: https://openai.com/news/rss.xml
