@@ -106,6 +106,30 @@
     "id": "8d651ef4b69c35739a29"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-28T09:01:05+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a671a92e1fa04f82fac8"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
     "url": "https://jvn.jp/vu/JVNVU99593741/",
     "source": "JVN Japan Vulnerability Notes",
@@ -195,6 +219,121 @@
     "id": "f3e87c13562502615dcd"
   },
   {
+    "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3065",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-28T09:21:05+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in gdk-pixbuf ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ed0acf1fe982bc9a9a24"
+  },
+  {
+    "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3064",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-28T09:11:05+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "08b006af7b7960af52b9"
+  },
+  {
+    "title": "[UPDATE] [mittel] Insyde UEFI Firmware: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0092",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-28T09:06:05+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Insyde UEFI Firmware ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d69b7ace3cdaa3f49f1b"
+  },
+  {
+    "title": "[NEU] [mittel] IBM SPSS Analytic Server: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3062",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-28T08:56:05+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM SPSS Analytic Server ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7b9a6e61bad8e80ebeac"
+  },
+  {
+    "title": "[NEU] [hoch] cPanel cPanel/WHM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3061",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-28T08:51:06+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in cPanel cPanel/WHM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a968d7bacfc549064982"
+  },
+  {
     "title": "[UPDATE] [hoch] JFrog Artifactory: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2808",
     "source": "BSI CERT-Bund Security Advisories",
@@ -216,6 +355,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "94dfcd48ccec322d4072"
+  },
+  {
+    "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T23:41:28+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
+    "matched_keywords": [
+      "AI Agents",
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4315134f6eeb99ab28c2"
   },
   {
     "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
@@ -364,6 +526,63 @@
     "id": "12bbc52f9b8d8590f204"
   },
   {
+    "title": "M 5.0 - 109 km WNW of Isangel, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcig",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-28T09:11:21.876+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "DYFI? - III Time 2026-08-28 08:32:35 UTC 2026-08-28 08:32:35 UTC at epicenter Location 19.268°S 168.284°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "dcb831058e0acb99b9c8"
+  },
+  {
+    "title": "Ajaib raises US$270M in Indonesia’s biggest tech funding round since 2022",
+    "url": "https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-28T08:45:17+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Ajaib began with a simple bet: that young Indonesians would start investing if opening a brokerage account felt as easy as downloading an app. Seven years later, that bet has turned into one of Indonesia’s largest consumer fintech platforms, spanning local equities, US stocks, crypto, payments, savings and stablecoin infrastructure. Now, the Jakarta-based company has […] The post Ajaib raises US$270M in Indonesia’s…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "funding"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff0aa7387d3e91452546"
+  },
+  {
     "title": "M 5.0 - northern East Pacific Rise",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tch3",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -487,6 +706,46 @@
     "id": "af81cdbedd5a539591b5"
   },
   {
+    "title": "TeamViewer schließt hochriskante Lücken in Clients",
+    "url": "https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Leck-11432840.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:46:00.000+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Die TeamViewer-Clients können Angreifern das Ausführen von Schadcode ermöglichen. Updates stopfen die hochriskanten Sicherheitslücken.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3fdb018b5cc715cbe938"
+  },
+  {
+    "title": "Jetzt patchen! Angreifer attackieren PaperCut NG/MF",
+    "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-PaperCut-NG-MF-11432694.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:02:00.000+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "Der Hersteller der Druckerverwaltungssoftware PaperCut NG/MF hat ein Notfall-Sicherheitsupdate veröffentlicht.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "66ad6bfcba62fe6966bd"
+  },
+  {
     "title": "Compliance is what let the Philippines’ fintech market scale this fast",
     "url": "https://e27.co/compliance-is-what-let-the-philippines-fintech-market-scale-this-fast-20260827/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -568,6 +827,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ac68df98ff28bfe7bd65"
+  },
+  {
+    "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-28T04:41:38+00:00",
+    "fetched_at": "2026-08-28T09:23:25+00:00",
+    "summary": "米Googleは8月27日（現地時間）、信頼できる情報源をGoogleのAI製品で活用できるようにする、複数の製品にまたがる取り組み「Expert Intelligence」を発表した。第1弾として、「Google Playブックス」で購入した対象の電子書籍を「Gemini Notebook」（旧「NotebookLM」）にソースとして追加できるようになった。 書籍を...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "63fa78a41c46d3fa027d"
   },
   {
     "title": "ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ 「第3版」のポイントを筆者が解説",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-28T06:12:18+00:00_
+_Generated: 2026-08-28T09:24:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `38`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-28T06:12:18+00:00_
 - url: https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/
 - summary: 【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...
 
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）
-- source: JVN Japan Vulnerability Notes
+### 4. [NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-28T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99593741/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+- published: `2026-08-28T09:01:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
 
 ### 5. Language was never the problem: Inside SEA’s real AI adoption gap
 - source: e27 Asia Startup and Tech Feed

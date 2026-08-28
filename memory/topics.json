@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-28T06:12:18+00:00",
+  "generated_at": "2026-08-28T09:24:03+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/"
       },
       {
-        "title": "AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-28T00:14:49+00:00",
+        "title": "Ajaib raises US$270M in Indonesia’s biggest tech funding round since 2022",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-28T08:45:17+00:00",
         "relevance_score": 9,
-        "url": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c"
+        "url": "https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/"
       }
     ],
     "geopolitics": [
@@ -82,6 +82,55 @@
         "published_at": "2026-08-28T02:30:15+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T09:01:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063"
+      },
+      {
+        "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T09:21:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3065"
+      },
+      {
+        "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T09:11:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3064"
+      },
+      {
+        "title": "[UPDATE] [mittel] Insyde UEFI Firmware: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T09:06:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0092"
+      },
+      {
+        "title": "[NEU] [mittel] IBM SPSS Analytic Server: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T08:56:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3062"
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T08:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3061"
+      },
+      {
+        "title": "Jetzt patchen! Angreifer attackieren PaperCut NG/MF",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-28T07:02:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-PaperCut-NG-MF-11432694.html"
       }
     ],
     "security": [
@@ -91,6 +140,13 @@
         "published_at": "2026-08-28T05:00:41+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/the-deepfake-threat-and-beyond-3-unconventional-security-crises-every-founder-led-brand-must-prepare-for-20260826/"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T09:01:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
@@ -121,18 +177,32 @@
         "url": "https://jvn.jp/jp/JVN42011956/"
       },
       {
-        "title": "[UPDATE] [hoch] JFrog Artifactory: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T06:06:05+00:00",
+        "published_at": "2026-08-28T09:21:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2808"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3065"
       },
       {
-        "title": "綠色運算｜NUMail - OS Command Injection",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-28T02:45:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11144-45c6a-1.html"
+        "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T09:11:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3064"
+      },
+      {
+        "title": "[UPDATE] [mittel] Insyde UEFI Firmware: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T09:06:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0092"
+      },
+      {
+        "title": "[NEU] [mittel] IBM SPSS Analytic Server: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T08:56:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3062"
       }
     ],
     "economy": [
@@ -174,11 +244,25 @@
     ],
     "general": [
       {
+        "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-27T23:41:28+00:00",
+        "relevance_score": 14,
+        "url": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/"
+      },
+      {
         "title": "M 5.0 - 19 km NW of Fuji, China",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-08-28T05:31:06.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcht"
+      },
+      {
+        "title": "M 5.0 - 109 km WNW of Isangel, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-28T09:11:21.876+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcig"
       },
       {
         "title": "M 5.0 - northern East Pacific Rise",
