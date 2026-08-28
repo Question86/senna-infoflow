@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-28T11:46:41Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Insyde UEFI Firmware: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-08-28T15:59:42Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Composer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3072",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T11:16:05+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Sicherheitsvorkehrungen zu umgehenn und beliebigen Code auszuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] Insyde UEFI Firmware: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0092",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T09:06:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://jvn.jp/jp/JVN42348352/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-28T14:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -64,7 +89,7 @@
       "url": "https://jvn.jp/jp/JVN04485476/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-28T12:00:15+09:00",
-      "age_days": 0.37,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -88,7 +113,7 @@
       "url": "https://jvn.jp/jp/JVN42011956/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-28T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -109,16 +134,16 @@
       "summary": "Zabbix LLCが提供するZabbix agentにはDLL読み込みに関する脆弱性が存在します。"
     },
     {
-      "title": "[NEU] [mittel] gdk-pixbuf: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3065",
+      "title": "[NEU] [hoch] Redis: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3077",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T09:21:05+00:00",
-      "age_days": 0.1,
+      "published_at": "2026-08-28T11:41:05+00:00",
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -128,64 +153,18 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in gdk-pixbuf ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3064",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T09:11:05+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[NEU] [mittel] IBM SPSS Analytic Server: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3062",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T08:56:05+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM SPSS Analytic Server ausnutzen, um Informationen offenzulegen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Redis ausnutzen, um Sicherheitsmechanismen zu umgehen, unberechtigt auf Daten zuzugreifen, einen Denial-of-Service-Zustand herbeizuführen oder Speicherinhalte zu manipulieren. Die Ausführung beliebigen Programmcodes ist potenziell möglich."
     },
     {
       "title": "[NEU] [hoch] cPanel cPanel/WHM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3061",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T08:51:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -211,7 +190,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2808",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T06:06:05+00:00",
-      "age_days": 0.24,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -233,11 +212,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in JFrog Artifactory ausnutzen, um die Authentifizierung zu umgehen, Berechtigungen zu erweitern, sich als Benutzer auszugeben, vertrauliche Informationen offenzulegen oder geschützte Daten zu manipulieren."
     },
     {
+      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3075",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T11:31:05+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise Speicherbeschädigungen, die Offenlegung oder Manipulation von Daten sowie Denial-of-Service-Zustände."
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T09:01:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -262,7 +266,7 @@
       "url": "https://jvn.jp/vu/JVNVU99593741/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-28T09:00:00+09:00",
-      "age_days": 0.49,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -287,7 +291,7 @@
       "url": "https://zenn.dev/nrs/articles/93424504f49ce6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T22:18:40+00:00",
-      "age_days": 0.56,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -318,8 +322,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
