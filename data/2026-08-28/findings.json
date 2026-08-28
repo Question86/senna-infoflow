@@ -1520,6 +1520,27 @@
     "id": "3d8ea47adff4cdf97600"
   },
   {
+    "title": "OKFやDiátaxisを活用してDevinによるお問い合わせ対応をしている話 - エムスリーテックブログ",
+    "url": "https://www.m3tech.blog/entry/2026/08/27/100000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-28T15:52:55+00:00",
+    "fetched_at": "2026-08-28T22:29:43+00:00",
+    "summary": "【Unit7ブログリレー4日目】（Unit7のメンバーが持ち回りで記事を書く企画です） エンジニアリンググループ Unit7（リサーチプロダクトチーム）の長谷川です。 AIコーディングが当たり前になって久しいですが、じゃあ実際どう使うのがいいのか、運用のやり方はまだ手探りです。今回はその手探りの1つ、「ビジネスサイド...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e77cf5fbc6ba78e51ee9"
+  },
+  {
     "title": "Testcontainersで実DBを使う並列テスト基盤を設計する - エムスリーテックブログ",
     "url": "https://www.m3tech.blog/entry/2026/08/28/160000",
     "source": "Hatena Bookmark Hotentry IT",
