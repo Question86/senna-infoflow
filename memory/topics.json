@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-28T17:28:00+00:00",
+  "generated_at": "2026-08-28T21:11:24+00:00",
   "topics": {
     "ai": [
       {
@@ -351,6 +351,13 @@
     ],
     "general": [
       {
+        "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T04:15:24+00:00",
+        "relevance_score": 17,
+        "url": "https://www.m3tech.blog/entry/2026/08/26/110000"
+      },
+      {
         "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-27T23:41:28+00:00",
@@ -370,6 +377,13 @@
         "published_at": "2026-08-20T00:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1060/"
+      },
+      {
+        "title": "M 5.0 - 191 km ESE of Kimbe, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-28T20:37:06.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcp5"
       },
       {
         "title": "M 4.5 - 109 km S of Vanimo, Papua New Guinea",

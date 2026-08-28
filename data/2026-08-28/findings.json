@@ -194,6 +194,53 @@
     "id": "8d651ef4b69c35739a29"
   },
   {
+    "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
+    "url": "https://www.m3tech.blog/entry/2026/08/26/110000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-26T04:15:24+00:00",
+    "fetched_at": "2026-08-28T21:10:48+00:00",
+    "summary": "この記事は、Unit7（リサーチプロダクトを扱う部署）ブログリレー3日目の記事です エムスリーエンジニアリンググループ、Unit7 の田上です。 GCP 環境で MCP サーバを立ち上げる際、Cloud Run は有力な選択肢のひとつです。 この記事では、MCP サーバを利用するクライアントとして Claude Code を想定し、Cloud Run 上の...",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "79f2caa2f4689205aa8d"
+  },
+  {
     "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3075",
     "source": "BSI CERT-Bund Security Advisories",
@@ -928,6 +975,42 @@
     "id": "13944e0f4bbb333ecb01"
   },
   {
+    "title": "M 5.0 - 191 km ESE of Kimbe, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcp5",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-28T20:37:06.040+00:00",
+    "fetched_at": "2026-08-28T21:10:48+00:00",
+    "summary": "Time 2026-08-28 20:19:38 UTC 2026-08-28 20:19:38 UTC at epicenter Location 6.211°S 151.738°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "30f71b012cd94f390a78"
+  },
+  {
     "title": "Isabel Schnabel: Central banks on-chain",
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -1245,6 +1328,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "66ad6bfcba62fe6966bd"
+  },
+  {
+    "title": "並行開発に Orca がめちゃ便利",
+    "url": "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-28T06:24:49+00:00",
+    "fetched_at": "2026-08-28T21:10:48+00:00",
+    "summary": "Orca という並行開発前提のエディタ（正確には Agent IDE と言うらしい）があります。 元々1年ほど前は VSCode や Cursor を使ってその中でたくさんターミナルを生やし、その後は cmux や Superset などを活用しておりました。 しかし最近 Orca に乗り換えて感動した&全人類これ使ったほうが幸せになりそうなので共有で...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1008e4fa891d6d2edc3a"
   },
   {
     "title": "Compliance is what let the Philippines’ fintech market scale this fast",
