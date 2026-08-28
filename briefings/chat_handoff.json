@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-28T09:24:03+00:00",
+  "generated_at": "2026-08-28T13:21:06+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 12,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 21,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 15,
-    "observe": 23
+    "medium": 26,
+    "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 23,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with…",
+      "section": "medium"
+    },
+    {
       "title": "The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -35,23 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-08-27T20:58:11+00:00",
-      "relevance_score": 18,
-      "url": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
-      "summary": "【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-28T09:01:05+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": null,
+      "relevance_score": 19,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. https://maptheworld.ai/ 🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are publi…",
       "section": "medium"
     },
     {
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] Insyde UEFI Firmware: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] Insyde UEFI Firmware: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0092",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T09:06:05+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Insyde UEFI Firmware ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen."
-      },
-      {
-        "title": "[NEU] [hoch] cPanel cPanel/WHM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3061",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T08:51:06+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in cPanel cPanel/WHM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] JFrog Artifactory: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2808",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T06:06:05+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in JFrog Artifactory ausnutzen, um die Authentifizierung zu umgehen, Berechtigungen zu erweitern, sich als Benutzer auszugeben, vertrauliche Informationen offenzulegen oder geschützte Daten zu manipulieren."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T09:01:05+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
-        "url": "https://jvn.jp/vu/JVNVU99593741/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-28T09:00:00+09:00",
-        "age_days": 0.49,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      }
-    ]
-  }
+  ]
 }

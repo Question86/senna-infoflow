@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-28T09:24:03+00:00_
+_Generated: 2026-08-28T13:21:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `59`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-28T09:24:03+00:00_
 - url: https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/
 - summary: Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four o…
 
-### 2. The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for
+### 2. K-Dense-AI/scientific-agent-skills
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/K-Dense-AI/scientific-agent-skills
+- summary: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with…
+
+### 3. The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-08-28T05:00:41+00:00`
 - url: https://e27.co/the-deepfake-threat-and-beyond-3-unconventional-security-crises-every-founder-led-brand-must-prepare-for-20260826/
 - summary: My journey began in engineering and corporate leadership, but a deep inner emptiness led me to seek God’s guidance, ultimately discovering an unexpected calling in the healing power of plants and holistic medicine. With only faith, perseverance, and S$10,000…
 
-### 3. OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `18`
-- published: `2026-08-27T20:58:11+00:00`
-- url: https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/
-- summary: 【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...
-
-### 4. [NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-28T09:01:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+### 4. bilawalsidhu/gods-eye-view
+- source: GitHub Trending RSS All Languages Daily
+- score: `19`
+- published: `None`
+- url: https://github.com/bilawalsidhu/gods-eye-view
+- summary: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. https://maptheworld.ai/ 🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are publi…
 
 ### 5. Language was never the problem: Inside SEA’s real AI adoption gap
 - source: e27 Asia Startup and Tech Feed
