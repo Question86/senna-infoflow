@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-28T15:59:42Z_
+_Generated: 2026-08-28T20:04:42Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-28T11:16:05+00:00` / age_days `0.2`
+- Published: `2026-08-28T11:16:05+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-28T09:06:05+00:00` / age_days `0.29`
+- Published: `2026-08-28T09:06:05+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-28T14:00:00+09:00` / age_days `0.46`
+- Published: `2026-08-28T14:00:00+09:00` / age_days `0.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-28T12:00:15+09:00` / age_days `0.54`
+- Published: `2026-08-28T12:00:15+09:00` / age_days `0.71`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-28T12:00:00+09:00` / age_days `0.54`
+- Published: `2026-08-28T12:00:00+09:00` / age_days `0.71`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T11:41:05+00:00` / age_days `0.18`
+- Published: `2026-08-28T11:41:05+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T08:51:06+00:00` / age_days `0.3`
+- Published: `2026-08-28T08:51:06+00:00` / age_days `0.47`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T06:06:05+00:00` / age_days `0.41`
+- Published: `2026-08-28T06:06:05+00:00` / age_days `0.58`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T11:31:05+00:00` / age_days `0.19`
+- Published: `2026-08-28T11:31:05+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T09:01:05+00:00` / age_days `0.29`
+- Published: `2026-08-28T09:01:05+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T09:00:00+09:00` / age_days `0.67`
+- Published: `2026-08-28T09:00:00+09:00` / age_days `0.84`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-27T22:18:40+00:00` / age_days `0.74`
+- Published: `2026-08-27T22:18:40+00:00` / age_days `0.91`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
