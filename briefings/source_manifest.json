@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-28T13:20:29+00:00",
+  "generated_at": "2026-08-28T17:27:25+00:00",
   "scope": "actual runtime sources after base + hot + macro overlay merge",
   "source_files": [
     "config/sources.yaml",

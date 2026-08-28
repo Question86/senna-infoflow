@@ -688,6 +688,28 @@
     "id": "46148c14f4e0d1558e88"
   },
   {
+    "title": "Warsh, In Our Time",
+    "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-08-28T14:00:00+00:00",
+    "fetched_at": "2026-08-28T17:27:25+00:00",
+    "summary": "Speech At “Financial Innovation: Implications for Payments and Policy,” an economic policy symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming",
+    "matched_keywords": [
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "23decea1aa16aa5bb694"
+  },
+  {
     "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
     "url": "https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -904,6 +926,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "13944e0f4bbb333ecb01"
+  },
+  {
+    "title": "Isabel Schnabel: Central banks on-chain",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:00:00+00:00",
+    "fetched_at": "2026-08-28T17:27:25+00:00",
+    "summary": "Isabel Schnabel: Central banks on-chain",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1c007752e1eea3184252"
   },
   {
     "title": "M 4.5 - 109 km S of Vanimo, Papua New Guinea",
@@ -1267,6 +1309,27 @@
     "id": "92fd8cb0e5a918541837"
   },
   {
+    "title": "GitHub Classroom deprecated",
+    "url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-27T22:42:40+00:00",
+    "fetched_at": "2026-08-28T17:27:25+00:00",
+    "summary": "As of August 28, 2026, GitHub Classroom is now deprecated in favor of our selected partner solutions. The GitHub Classroom website, APIs, and related services have now been decommissioned. However,… The post GitHub Classroom deprecated appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Webentwicklung"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Webentwicklung (+3.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4b6ea9795f32b6786469"
+  },
+  {
     "title": "Actions retention will cover checks, workflow runs, and statuses",
     "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
     "source": "GitHub Changelog Atom",
@@ -1286,6 +1349,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3d8ea47adff4cdf97600"
+  },
+  {
+    "title": "Testcontainersで実DBを使う並列テスト基盤を設計する - エムスリーテックブログ",
+    "url": "https://www.m3tech.blog/entry/2026/08/28/160000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-28T12:53:43+00:00",
+    "fetched_at": "2026-08-28T17:27:25+00:00",
+    "summary": "【Unit7 ブログリレー5日目】 記事とは関係ない自宅の本棚。気づいたら本が増えてます。 エムスリーエンジニアリンググループ Unit7(リサーチプロダクトチーム)の丸田です。 現在開発しているプロジェクトでは、可能な限りMockを使わず、実際のPostgreSQLに接続してJUnitでテストを動かしています。 Repositoryのテスト...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "403a3eb76ebd0706eff2"
+  },
+  {
+    "title": "高市首相 みらい 安野党首を「家庭教師」に AIでアプリ作成 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260828de47070",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-28T10:38:05+00:00",
+    "fetched_at": "2026-08-28T17:27:25+00:00",
+    "summary": "AIをめぐり、高市総理大臣はチームみらいの安野党首を「家庭教師」として総理大臣官邸に招き、AIを使って政府の物価高対策の効果を試算するアプリの作成を体験しました。 高市総理大臣は、ことし5月の党首…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4910628f3c0c58db660f"
   },
   {
     "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",

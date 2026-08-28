@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-28T13:21:06+00:00_
+_Generated: 2026-08-28T17:28:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `64`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-28T13:21:06+00:00_
 - url: https://github.com/bilawalsidhu/gods-eye-view
 - summary: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. https://maptheworld.ai/ 🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are publi…
 
-### 5. Language was never the problem: Inside SEA’s real AI adoption gap
+### 5. Warsh, In Our Time
+- source: Federal Reserve Speeches and Testimony
+- score: `12`
+- published: `2026-08-28T14:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
+- summary: Speech At “Financial Innovation: Implications for Payments and Policy,” an economic policy symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming
+
+### 6. Language was never the problem: Inside SEA’s real AI adoption gap
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-28T02:30:43+00:00`
 - url: https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/
 - summary: Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that onc…
 
-### 6. M 5.0 - 19 km NW of Fuji, China
+### 7. M 5.0 - 19 km NW of Fuji, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-28T05:31:06.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcht
 - summary: Time 2026-08-28 05:13:35 UTC 2026-08-28 05:13:35 UTC at epicenter Location 29.275°N 105.229°E Depth 10.00 km (6.21 mi)
 
-### 7. 綠色運算｜NUMail - OS Command Injection
+### 8. 綠色運算｜NUMail - OS Command Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-08-28T02:45:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11144-45c6a-1.html
 - summary: 綠色運算｜NUMail - OS Command Injection
-
-### 8. 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-08-27T22:18:40+00:00`
-- url: https://zenn.dev/nrs/articles/93424504f49ce6
-- summary: AI への指示書は自然言語で書きます。 書いた本人には明確に見えますし、AI も分かったという顔をして実装を始めます。 その結果、できあがったものが思っていたものではないことがあります。 なぜなら、自然言語は解釈が揺れるからです。 私が開発している OSS の TAKT では、この揺れを実行前の対話で潰しています。 ...
 
 END OF DOCUMENT
