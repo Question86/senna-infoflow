@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T12:35:59+00:00",
-  "run_id": "2026-08-29T12:35:59+00:00",
+  "generated_at": "2026-08-29T12:44:19+00:00",
+  "run_id": "2026-08-29T12:44:19+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -1751,31 +1751,7 @@
       "id": "17c30f6bb92f45673867"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
-      "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-22T03:16:43+00:00",
-      "fetched_at": "2026-08-29T12:35:19+00:00",
-      "summary": "grillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。 はじめに Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。 実装後にQAで「この条件はどうなりますか...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "09080710d08f3cd15de1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
