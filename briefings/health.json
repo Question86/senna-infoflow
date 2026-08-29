@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:23:08+00:00",
+  "generated_at": "2026-08-29T18:31:10+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
@@ -11,15 +11,9 @@
     "high": 0,
     "medium": 3,
     "observe": 35,
-    "source_errors": 2
+    "source_errors": 1
   },
   "source_errors": [
-    {
-      "source_id": "ecb_yield_curve",
-      "source_name": "ECB Euro Area Yield Curve",
-      "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
