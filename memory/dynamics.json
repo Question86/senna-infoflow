@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T12:41:05Z",
+  "generated_at": "2026-08-29T12:47:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 39,
@@ -23,7 +23,7 @@
       "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:59:10+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 71.4d old signal",
+        "aging penalty -8.0 for 71.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -78,7 +78,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -253,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -328,7 +328,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 0.98,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -354,7 +354,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 1.17,
+      "age_days": 1.18,
       "topics": [
         "general"
       ],
@@ -498,7 +498,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.93,
+      "age_days": 1.94,
       "topics": [
         "general"
       ],
@@ -522,7 +522,7 @@
       "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T03:16:43+00:00",
-      "age_days": 38.39,
+      "age_days": 38.4,
       "topics": [
         "ai"
       ],
@@ -953,7 +953,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T23:10:23+00:00",
-      "age_days": 1.56,
+      "age_days": 1.57,
       "topics": [
         "ai"
       ],
