@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T21:19:24Z",
+  "generated_at": "2026-08-29T21:31:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:59:10+00:00",
-      "age_days": 1.47,
+      "age_days": 1.48,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -103,7 +103,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.89,
+      "age_days": 12.9,
       "topics": [
         "macro"
       ],
@@ -129,7 +129,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T11:32:54.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -154,7 +154,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:56:57.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tct6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T09:51:31.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -228,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T07:27:19.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -253,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -302,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:58.075+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -352,7 +352,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 1.34,
+      "age_days": 1.35,
       "topics": [
         "ai"
       ],
@@ -378,7 +378,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 1.53,
+      "age_days": 1.54,
       "topics": [
         "general"
       ],
@@ -402,7 +402,7 @@
       "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.89,
+      "age_days": 12.9,
       "topics": [
         "macro"
       ],
@@ -450,7 +450,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:50:41+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -474,7 +474,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:52:35+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -498,7 +498,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:51+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -546,7 +546,7 @@
       "url": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T00:13:26+00:00",
-      "age_days": 1.88,
+      "age_days": 1.89,
       "topics": [
         "general"
       ],
@@ -570,7 +570,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 2.29,
+      "age_days": 2.3,
       "topics": [
         "general"
       ],
@@ -594,11 +594,11 @@
       "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T03:16:43+00:00",
-      "age_days": 38.75,
+      "age_days": 38.76,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.79,
+      "dynamics_score": 3.78,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -621,7 +621,7 @@
       "url": "https://www.bis.org/speeches/20260817-cooperative-spirit-heart-digital-euro",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.89,
+      "age_days": 12.9,
       "topics": [
         "macro"
       ],
@@ -645,7 +645,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-annual-dinner-heads-foreign-missions-accredited-south-africa",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.89,
+      "age_days": 12.9,
       "topics": [
         "macro"
       ],
@@ -669,7 +669,7 @@
       "url": "https://www.bis.org/speeches/20260817-opportunities-and-risks-ccps-and-their-overseers-changing-environment",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.89,
+      "age_days": 12.9,
       "topics": [
         "macro"
       ],
@@ -693,7 +693,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:23:07+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -718,7 +718,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.77,
+      "age_days": 70.78,
       "topics": [
         "general"
       ],
@@ -743,7 +743,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.77,
+      "age_days": 70.78,
       "topics": [
         "general"
       ],
@@ -768,7 +768,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.77,
+      "age_days": 70.78,
       "topics": [
         "ai"
       ],
@@ -795,7 +795,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-23T00:00:00+00:00",
-      "age_days": 67.89,
+      "age_days": 67.9,
       "topics": [
         "ai",
         "macro"
@@ -818,11 +818,37 @@
       "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age."
     },
     {
+      "title": "GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill",
+      "url": "https://github.com/iKora128/stop-ai-slop-jp",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-18T01:02:18+00:00",
+      "age_days": 72.85,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 72.9d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert"
+    },
+    {
       "title": "Global economic pressure points call for policy discipline: BIS",
       "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-28T00:00:00+00:00",
-      "age_days": 62.89,
+      "age_days": 62.9,
       "topics": [
         "ai",
         "macro"
@@ -874,7 +900,7 @@
       "url": "https://www.bis.org/speeches/20260817-monetary-policy-era-shocks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.89,
+      "age_days": 12.9,
       "topics": [
         "ai",
         "macro"
@@ -901,7 +927,7 @@
       "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management-0",
       "source": "BIS Press Releases",
       "published_at": "2026-06-02T00:00:00+00:00",
-      "age_days": 88.89,
+      "age_days": 88.9,
       "topics": [
         "macro"
       ],
@@ -925,7 +951,7 @@
       "url": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-0",
       "source": "BIS Press Releases",
       "published_at": "2026-05-20T00:00:00+00:00",
-      "age_days": 101.89,
+      "age_days": 101.9,
       "topics": [
         "macro"
       ],
@@ -949,7 +975,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-28T06:00:00+00:00",
-      "age_days": 1.64,
+      "age_days": 1.65,
       "topics": [
         "ai"
       ],
@@ -974,7 +1000,7 @@
       "url": "https://www.bis.org/speeches/20260817-40-years-deutsche-bundesbanks-representative-office-new-york",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.89,
+      "age_days": 12.9,
       "topics": [
         "ai",
         "macro"
@@ -995,30 +1021,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the reception marking 40 years of the Representative Office of the Deutsche Bundesbank in the United States, New York City, 7 July 2026."
-    },
-    {
-      "title": "Central bank Governors appointed to lead BIS Board and key groups",
-      "url": "https://www.bis.org/media-releases/20260512-central-bank-governors-appointed-lead-bis-board-and-key-groups",
-      "source": "BIS Press Releases",
-      "published_at": "2026-05-12T00:00:00+00:00",
-      "age_days": 109.89,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -16.0 for 109.9d old signal"
-      ],
-      "summary": "Press release from May 12, 2026 on central bank governors appointed to lead the BIS board of directors, the meeting of governors of major emerging market economies, the asian consultative council and the committee of the global financial system."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
