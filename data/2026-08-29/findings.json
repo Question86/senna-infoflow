@@ -97,6 +97,29 @@
     "id": "f97504feefe7edc3693c"
   },
   {
+    "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+    "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-28T09:59:10+00:00",
+    "fetched_at": "2026-08-29T12:25:03+00:00",
+    "summary": "概要 半年前に以下の記事を書きました。 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。 対象読者 この記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。 Claude CodeやC...",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "33c99c0fe17aefd60932"
+  },
+  {
     "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
     "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
     "source": "BIS Press Releases",
