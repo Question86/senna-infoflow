@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T14:48:34+00:00",
-  "run_id": "2026-08-29T14:48:34+00:00",
+  "generated_at": "2026-08-29T14:53:56+00:00",
+  "run_id": "2026-08-29T14:53:56+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 3,
     "observe": 33,
-    "source_errors": 1
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -1795,6 +1795,12 @@
   ],
   "new_findings": [],
   "source_errors": [
+    {
+      "source_id": "japan_digital_agency_news",
+      "source_name": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
+    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
