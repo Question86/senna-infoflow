@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:04:40+00:00",
+  "generated_at": "2026-08-29T18:23:08+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
@@ -15,10 +15,10 @@
   },
   "source_errors": [
     {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
       "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "source_id": "bis_statistics",

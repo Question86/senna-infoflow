@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T18:04:40+00:00_
+_Generiert: 2026-08-29T18:23:08+00:00_
 
 ## Kurzlage
 
@@ -171,5 +171,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- `ecb_yield_curve` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
