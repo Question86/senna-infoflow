@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T04:22:39+00:00_
+_Generiert: 2026-08-29T04:31:26+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 95 km W of Petrolia, CA“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 95 km W of Petrolia, CA“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -69,3 +69,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
