@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T06:00:41+00:00_
+_Generiert: 2026-08-29T06:29:20+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „M 5.1 - Southwest Indian Ridge“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+11 neue relevante Treffer. Stärkstes Signal: „M 5.1 - Southwest Indian Ridge“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 ## Priorität Hoch
 
@@ -87,7 +87,3 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
