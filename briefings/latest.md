@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T15:44:31+00:00_
+_Generiert: 2026-08-29T15:50:10+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+38 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -236,4 +236,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f949fee4b90>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
