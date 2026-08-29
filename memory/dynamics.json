@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T02:03:44Z",
+  "generated_at": "2026-08-29T02:27:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 8,
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.0,
+      "age_days": 71.02,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 0.73,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -73,7 +73,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -97,7 +97,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.49,
+      "age_days": 1.5,
       "topics": [
         "general"
       ],
@@ -121,7 +121,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 69.97,
+      "age_days": 69.98,
       "topics": [
         "general"
       ],
@@ -146,7 +146,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 69.97,
+      "age_days": 69.98,
       "topics": [
         "general"
       ],
@@ -171,7 +171,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 69.97,
+      "age_days": 69.98,
       "topics": [
         "ai"
       ],
@@ -198,7 +198,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-28T06:00:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
