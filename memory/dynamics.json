@@ -1,28 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T12:04:06Z",
+  "generated_at": "2026-08-29T12:28:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 37,
+    "dynamics": 38,
     "bands": {
+      "krass": 1,
       "strong": 3,
       "watch": 9,
       "quiet": 25
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 9,
       "quiet": 25
     }
   },
   "top_dynamics": [
     {
+      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+      "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-28T09:59:10+00:00",
+      "age_days": 1.1,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "概要 半年前に以下の記事を書きました。 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。 対象読者 この記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。 Claude CodeやC..."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.42,
+      "age_days": 71.44,
       "topics": [
         "ai"
       ],
@@ -51,7 +78,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -76,7 +103,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.5,
+      "age_days": 12.52,
       "topics": [
         "macro"
       ],
@@ -102,7 +129,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T11:32:54.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -127,7 +154,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:56:57.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -152,7 +179,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:28:19.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -176,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tct6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T09:51:31.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -201,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T07:27:19.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -226,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -251,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:58.075+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -275,7 +302,7 @@
       "url": "https://speakerdeck.com/oikon48/cc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:30:40+00:00",
-      "age_days": 0.94,
+      "age_days": 0.96,
       "topics": [
         "ai"
       ],
@@ -301,7 +328,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 0.96,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],
@@ -327,7 +354,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "general"
       ],
@@ -351,7 +378,7 @@
       "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.5,
+      "age_days": 12.52,
       "topics": [
         "macro"
       ],
@@ -375,7 +402,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:50:41+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -399,7 +426,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:52:35+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -423,7 +450,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:51+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -447,7 +474,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -471,7 +498,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.91,
+      "age_days": 1.92,
       "topics": [
         "general"
       ],
@@ -495,11 +522,11 @@
       "url": "https://www.bis.org/speeches/20260817-cooperative-spirit-heart-digital-euro",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.5,
+      "age_days": 12.52,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.12,
+      "dynamics_score": 3.11,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -519,11 +546,11 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-annual-dinner-heads-foreign-missions-accredited-south-africa",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.5,
+      "age_days": 12.52,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.12,
+      "dynamics_score": 3.11,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -543,11 +570,11 @@
       "url": "https://www.bis.org/speeches/20260817-opportunities-and-risks-ccps-and-their-overseers-changing-environment",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.5,
+      "age_days": 12.52,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.12,
+      "dynamics_score": 3.11,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -567,7 +594,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.38,
+      "age_days": 70.4,
       "topics": [
         "general"
       ],
@@ -592,7 +619,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.38,
+      "age_days": 70.4,
       "topics": [
         "general"
       ],
@@ -617,7 +644,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.38,
+      "age_days": 70.4,
       "topics": [
         "ai"
       ],
@@ -644,7 +671,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-23T00:00:00+00:00",
-      "age_days": 67.5,
+      "age_days": 67.52,
       "topics": [
         "ai",
         "macro"
@@ -671,7 +698,7 @@
       "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-28T00:00:00+00:00",
-      "age_days": 62.5,
+      "age_days": 62.52,
       "topics": [
         "ai",
         "macro"
@@ -698,7 +725,7 @@
       "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T04:37:36+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -723,7 +750,7 @@
       "url": "https://www.bis.org/speeches/20260817-monetary-policy-era-shocks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.5,
+      "age_days": 12.52,
       "topics": [
         "ai",
         "macro"
@@ -750,7 +777,7 @@
       "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management-0",
       "source": "BIS Press Releases",
       "published_at": "2026-06-02T00:00:00+00:00",
-      "age_days": 88.5,
+      "age_days": 88.52,
       "topics": [
         "macro"
       ],
@@ -774,7 +801,7 @@
       "url": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-0",
       "source": "BIS Press Releases",
       "published_at": "2026-05-20T00:00:00+00:00",
-      "age_days": 101.5,
+      "age_days": 101.52,
       "topics": [
         "macro"
       ],
@@ -798,7 +825,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-28T06:00:00+00:00",
-      "age_days": 1.25,
+      "age_days": 1.27,
       "topics": [
         "ai"
       ],
@@ -823,7 +850,7 @@
       "url": "https://www.bis.org/speeches/20260817-40-years-deutsche-bundesbanks-representative-office-new-york",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.5,
+      "age_days": 12.52,
       "topics": [
         "ai",
         "macro"
@@ -850,7 +877,7 @@
       "url": "https://www.bis.org/media-releases/20260512-central-bank-governors-appointed-lead-bis-board-and-key-groups",
       "source": "BIS Press Releases",
       "published_at": "2026-05-12T00:00:00+00:00",
-      "age_days": 109.5,
+      "age_days": 109.52,
       "topics": [
         "macro"
       ],
@@ -874,7 +901,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T23:36:09+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -899,7 +926,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T23:10:23+00:00",
-      "age_days": 1.54,
+      "age_days": 1.55,
       "topics": [
         "ai"
       ],
@@ -924,7 +951,7 @@
       "url": "https://www.bis.org/media-releases/20260527-project-agora-shows-how-tokenisation-can-improve-wholesale-cross-border-payments-work-will",
       "source": "BIS Press Releases",
       "published_at": "2026-05-27T00:00:00+00:00",
-      "age_days": 94.5,
+      "age_days": 94.52,
       "topics": [
         "macro"
       ],
@@ -944,5 +971,5 @@
       "summary": "The Project Agorá prototype demonstrates how tokenisation and programmable technologies can address long-standing inefficiencies in wholesale cross-border payments at scale, while preserving the safety and integrity of settlement in central bank reserves."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
