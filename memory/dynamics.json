@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T15:18:59Z",
+  "generated_at": "2026-08-29T15:31:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 9,
-      "quiet": 27
+      "watch": 10,
+      "quiet": 26
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 9,
-      "quiet": 27
+      "watch": 10,
+      "quiet": 26
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:59:10+00:00",
-      "age_days": 1.22,
+      "age_days": 1.23,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -103,7 +103,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.64,
+      "age_days": 12.65,
       "topics": [
         "macro"
       ],
@@ -129,7 +129,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T11:32:54.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -154,7 +154,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:56:57.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tct6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T09:51:31.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -228,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T07:27:19.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -253,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -274,11 +274,35 @@
       "summary": "Time 2026-08-29 04:48:42 UTC 2026-08-29 04:48:42 UTC at epicenter Location 44.802°N 149.958°E Depth 44.00 km (27.34 mi)"
     },
     {
+      "title": "M 4.8 - 188 km SE of Perryville, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rcluqc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-29T15:25:47.901+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "ShakeMap - II Time 2026-08-29 15:16:54 UTC 2026-08-29 15:16:54 UTC at epicenter Location 54.788°N 156.924°W Depth 5.70 km (3.54 mi)"
+    },
+    {
       "title": "M 4.9 - 95 km W of Petrolia, CA",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:58.075+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -328,7 +352,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 1.09,
+      "age_days": 1.1,
       "topics": [
         "ai"
       ],
@@ -354,7 +378,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 1.28,
+      "age_days": 1.29,
       "topics": [
         "general"
       ],
@@ -378,7 +402,7 @@
       "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.64,
+      "age_days": 12.65,
       "topics": [
         "macro"
       ],
@@ -402,7 +426,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:50:41+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -426,7 +450,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:52:35+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -450,7 +474,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:51+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -474,7 +498,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.95,
+      "age_days": 0.96,
       "topics": [
         "general"
       ],
@@ -498,7 +522,7 @@
       "url": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T00:13:26+00:00",
-      "age_days": 1.63,
+      "age_days": 1.64,
       "topics": [
         "general"
       ],
@@ -522,7 +546,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 2.04,
+      "age_days": 2.05,
       "topics": [
         "general"
       ],
@@ -546,7 +570,7 @@
       "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T03:16:43+00:00",
-      "age_days": 38.5,
+      "age_days": 38.51,
       "topics": [
         "ai"
       ],
@@ -573,11 +597,11 @@
       "url": "https://www.bis.org/speeches/20260817-cooperative-spirit-heart-digital-euro",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.64,
+      "age_days": 12.65,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.02,
+      "dynamics_score": 3.01,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -597,11 +621,11 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-annual-dinner-heads-foreign-missions-accredited-south-africa",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.64,
+      "age_days": 12.65,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.02,
+      "dynamics_score": 3.01,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -621,11 +645,11 @@
       "url": "https://www.bis.org/speeches/20260817-opportunities-and-risks-ccps-and-their-overseers-changing-environment",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.64,
+      "age_days": 12.65,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.02,
+      "dynamics_score": 3.01,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -641,11 +665,36 @@
       "summary": "Keynote speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the CCP Global Annual Meeting 2026, Amsterdam, 23 June 2026."
     },
     {
+      "title": "自衛隊情報基盤にIOWN導入 AI活用へ大容量通信、次期計画に明記 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-29T07:23:07+00:00",
+      "age_days": 0.34,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "防衛省は自衛隊の部隊や全国の基地をつなぐ通信網にNTTの次世代光通信基盤「IOWN（アイオン）」の中核技術を導入する。大量のデータをすばやく共有できる通信環境を整え、人工知能（AI）を本格活用する「新しい戦い方」に備える。装備品などの導入予定を定める次期防衛力整備計画に明記する。2027年度予算案に関連費を盛..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.52,
+      "age_days": 70.53,
       "topics": [
         "general"
       ],
@@ -670,7 +719,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.52,
+      "age_days": 70.53,
       "topics": [
         "general"
       ],
@@ -695,7 +744,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.52,
+      "age_days": 70.53,
       "topics": [
         "ai"
       ],
@@ -722,7 +771,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-23T00:00:00+00:00",
-      "age_days": 67.64,
+      "age_days": 67.65,
       "topics": [
         "ai",
         "macro"
@@ -749,7 +798,7 @@
       "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-28T00:00:00+00:00",
-      "age_days": 62.64,
+      "age_days": 62.65,
       "topics": [
         "ai",
         "macro"
@@ -801,7 +850,7 @@
       "url": "https://www.bis.org/speeches/20260817-monetary-policy-era-shocks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.64,
+      "age_days": 12.65,
       "topics": [
         "ai",
         "macro"
@@ -828,7 +877,7 @@
       "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management-0",
       "source": "BIS Press Releases",
       "published_at": "2026-06-02T00:00:00+00:00",
-      "age_days": 88.64,
+      "age_days": 88.65,
       "topics": [
         "macro"
       ],
@@ -852,7 +901,7 @@
       "url": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-0",
       "source": "BIS Press Releases",
       "published_at": "2026-05-20T00:00:00+00:00",
-      "age_days": 101.64,
+      "age_days": 101.65,
       "topics": [
         "macro"
       ],
@@ -876,7 +925,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-28T06:00:00+00:00",
-      "age_days": 1.39,
+      "age_days": 1.4,
       "topics": [
         "ai"
       ],
@@ -901,7 +950,7 @@
       "url": "https://www.bis.org/speeches/20260817-40-years-deutsche-bundesbanks-representative-office-new-york",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.64,
+      "age_days": 12.65,
       "topics": [
         "ai",
         "macro"
@@ -928,7 +977,7 @@
       "url": "https://www.bis.org/media-releases/20260512-central-bank-governors-appointed-lead-bis-board-and-key-groups",
       "source": "BIS Press Releases",
       "published_at": "2026-05-12T00:00:00+00:00",
-      "age_days": 109.64,
+      "age_days": 109.65,
       "topics": [
         "macro"
       ],
@@ -952,7 +1001,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T23:36:09+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -971,55 +1020,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "画像生成・コード実行・API化を1つのアプリに統合「Unsloth Desktop」登場 クラウド生成AIの普及が進む一方、情報漏えいを防ぎコストを抑えるローカルLLMへの注目が集まっている。本Tech TIPSでは2026年8月に登場した「Unsloth Desktop」を解説する。チャットだけでなくノーコード学習や画像生成までGUIで完結する本ツー..."
-    },
-    {
-      "title": "ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
-      "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-27T23:10:23+00:00",
-      "age_days": 1.67,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 Arduino VENTUNO Q https://www.arduino.cc/product-ventuno-q/ The wait is over! Meet Arduino V..."
-    },
-    {
-      "title": "Project Agorá shows how tokenisation can improve wholesale cross-border payments; work will advance to real-value testing",
-      "url": "https://www.bis.org/media-releases/20260527-project-agora-shows-how-tokenisation-can-improve-wholesale-cross-border-payments-work-will",
-      "source": "BIS Press Releases",
-      "published_at": "2026-05-27T00:00:00+00:00",
-      "age_days": 94.64,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -16.0 for 94.6d old signal"
-      ],
-      "summary": "The Project Agorá prototype demonstrates how tokenisation and programmable technologies can address long-standing inefficiencies in wholesale cross-border payments at scale, while preserving the safety and integrity of settlement in central bank reserves."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
