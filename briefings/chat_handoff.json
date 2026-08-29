@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-29T03:51:11+00:00",
+  "generated_at": "2026-08-29T03:56:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 0,
-    "observe": 7
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "問い合わせへの返答をネットに上げるのって駄目だったの！？",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-29T00:00:51+00:00",
+      "relevance_score": 5,
+      "url": "https://anond.hatelabo.jp/20260829085942",
+      "summary": "担当者の「私信」を晒したという事が問題にされているが、 記事にある文面がそのままなのだとしたら、どう見ても私信ではなく、団体としての公式な返答なんだよね。 こういった返答をネットに上げるのが駄目だとは知らなかった。 当事者団体にも届いた「アニメ化に抗議して」 「みい山」めぐる担当者の「私信」晒されSN...",
+      "section": "observe"
+    },
+    {
       "title": "htmx 4.0.0 has been released!",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 5,
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "summary": "In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browse…",
-      "section": "observe"
-    },
-    {
-      "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-28T13:03:58+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
-      "summary": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり：本田雅一のクロスオーバーデジタル（1/2 ページ） 新型の「Mac mini」と「Mac Studio」が、一部構成を除き9月22日に発売される。8月26日のコラムでは、Mac miniでデビューを果たした「M6チップ」、そしてMac Studioでデビュ...",
       "section": "observe"
     }
   ],
