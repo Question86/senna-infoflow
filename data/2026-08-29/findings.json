@@ -120,6 +120,29 @@
     "id": "33c99c0fe17aefd60932"
   },
   {
+    "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+    "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-22T03:16:43+00:00",
+    "fetched_at": "2026-08-29T12:35:19+00:00",
+    "summary": "grillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。 はじめに Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。 実装後にQAで「この条件はどうなりますか...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry",
+      "Webentwicklung"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "09080710d08f3cd15de1"
+  },
+  {
     "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
     "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
     "source": "BIS Press Releases",

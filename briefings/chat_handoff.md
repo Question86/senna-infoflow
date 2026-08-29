@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-29T12:25:36+00:00_
+_Generated: 2026-08-29T12:35:59+00:00_
 
 ## Status
 - status: `warning`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-08-29T12:25:36+00:00_
 - url: https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai
 - summary: 概要 半年前に以下の記事を書きました。 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。 対象読者 この記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。 Claude CodeやC...
 
-### 5. The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS
+### 5. Claude Codeの設計詰めスキル『grilling』の紹介
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-07-22T03:16:43+00:00`
+- url: https://zenn.dev/sato_frontend/articles/1a85841505b9bb
+- summary: grillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。 はじめに Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。 実装後にQAで「この条件はどうなりますか...
+
+### 6. The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS
 - source: BIS Press Releases
 - score: `13`
 - published: `2026-06-23T00:00:00+00:00`
 - url: https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis
 - summary: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust…
 
-### 6. M 4.5 - 24 km WSW of Sipí, Colombia
+### 7. M 4.5 - 24 km WSW of Sipí, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-29T11:32:54.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth
 - summary: Time 2026-08-29 10:50:24 UTC 2026-08-29 10:50:24 UTC at epicenter Location 4.569°N 76.850°W Depth 58.15 km (36.13 mi)
-
-### 7. M 5.1 - Southwest Indian Ridge
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-29T05:56:57.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7
-- summary: Time 2026-08-29 05:40:06 UTC 2026-08-29 05:40:06 UTC at epicenter Location 31.848°S 56.952°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
