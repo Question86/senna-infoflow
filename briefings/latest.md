@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T08:10:20+00:00_
+_Generiert: 2026-08-29T08:25:42+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+29 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -217,5 +217,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
