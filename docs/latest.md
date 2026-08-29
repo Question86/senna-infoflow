@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T12:55:02+00:00_
+_Generiert: 2026-08-29T13:00:28+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+36 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
