@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T10:46:27Z",
+  "generated_at": "2026-08-29T11:02:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 35,
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.37,
+      "age_days": 71.38,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.45,
+      "age_days": 12.46,
       "topics": [
         "macro"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:56:57.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:28:19.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -151,7 +151,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tct6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T09:51:31.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -176,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T07:27:19.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -201,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -226,7 +226,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:58.075+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -250,7 +250,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -276,7 +276,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 1.09,
+      "age_days": 1.1,
       "topics": [
         "general"
       ],
@@ -300,7 +300,7 @@
       "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.45,
+      "age_days": 12.46,
       "topics": [
         "macro"
       ],
@@ -324,7 +324,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:50:41+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -348,7 +348,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:52:35+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -372,7 +372,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:51+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -396,7 +396,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -420,7 +420,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.85,
+      "age_days": 1.86,
       "topics": [
         "general"
       ],
@@ -444,7 +444,7 @@
       "url": "https://www.bis.org/speeches/20260817-cooperative-spirit-heart-digital-euro",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.45,
+      "age_days": 12.46,
       "topics": [
         "macro"
       ],
@@ -459,7 +459,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -1.8 for 12.4d old signal"
+        "aging penalty -1.8 for 12.5d old signal"
       ],
       "summary": "Lecture by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the annual meeting of the Federation of Italian Cooperative Credit Banks (Federcasse), Rome, 17 July 2026."
     },
@@ -468,7 +468,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-annual-dinner-heads-foreign-missions-accredited-south-africa",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.45,
+      "age_days": 12.46,
       "topics": [
         "macro"
       ],
@@ -483,7 +483,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -1.8 for 12.4d old signal"
+        "aging penalty -1.8 for 12.5d old signal"
       ],
       "summary": "Remarks by Lesetja Kganyago, Governor of the South African Reserve Bank, at the annual dinner for the Heads of Foreign Missions accredited in South Africa, South African Reserve Bank, Pretoria, 9 July 2026."
     },
@@ -492,7 +492,7 @@
       "url": "https://www.bis.org/speeches/20260817-opportunities-and-risks-ccps-and-their-overseers-changing-environment",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.45,
+      "age_days": 12.46,
       "topics": [
         "macro"
       ],
@@ -507,7 +507,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -1.8 for 12.4d old signal"
+        "aging penalty -1.8 for 12.5d old signal"
       ],
       "summary": "Keynote speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the CCP Global Annual Meeting 2026, Amsterdam, 23 June 2026."
     },
@@ -516,7 +516,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.33,
+      "age_days": 70.34,
       "topics": [
         "general"
       ],
@@ -541,7 +541,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.33,
+      "age_days": 70.34,
       "topics": [
         "general"
       ],
@@ -566,7 +566,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 70.33,
+      "age_days": 70.34,
       "topics": [
         "ai"
       ],
@@ -593,7 +593,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-23T00:00:00+00:00",
-      "age_days": 67.45,
+      "age_days": 67.46,
       "topics": [
         "ai",
         "macro"
@@ -610,7 +610,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 67.4d old signal",
+        "aging penalty -16.0 for 67.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age."
@@ -620,7 +620,7 @@
       "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-28T00:00:00+00:00",
-      "age_days": 62.45,
+      "age_days": 62.46,
       "topics": [
         "ai",
         "macro"
@@ -637,7 +637,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 62.4d old signal",
+        "aging penalty -16.0 for 62.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation."
@@ -647,7 +647,7 @@
       "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T04:37:36+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -672,7 +672,7 @@
       "url": "https://www.bis.org/speeches/20260817-monetary-policy-era-shocks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.45,
+      "age_days": 12.46,
       "topics": [
         "ai",
         "macro"
@@ -689,7 +689,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -1.8 for 12.4d old signal",
+        "aging penalty -1.8 for 12.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the Anika Foundation Fundraising Lunch, Sydney, 28 July 2026."
@@ -699,7 +699,7 @@
       "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management-0",
       "source": "BIS Press Releases",
       "published_at": "2026-06-02T00:00:00+00:00",
-      "age_days": 88.45,
+      "age_days": 88.46,
       "topics": [
         "macro"
       ],
@@ -714,7 +714,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 88.4d old signal"
+        "aging penalty -16.0 for 88.5d old signal"
       ],
       "summary": "The Basel Committee has published a report describing a range of observed information and communication technology (ICT) risk management practices across jurisdictions to address non-malicious ICT incidents."
     },
@@ -723,7 +723,7 @@
       "url": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-0",
       "source": "BIS Press Releases",
       "published_at": "2026-05-20T00:00:00+00:00",
-      "age_days": 101.45,
+      "age_days": 101.46,
       "topics": [
         "macro"
       ],
@@ -738,7 +738,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 101.4d old signal"
+        "aging penalty -16.0 for 101.5d old signal"
       ],
       "summary": "Agrees to publish range of practices report on information and communication technology risk management. Progresses its targeted review of the prudential standard for banks' cryptoasset exposures. Considers targeted updates of its principles on liquidity risk."
     },
@@ -747,7 +747,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-28T06:00:00+00:00",
-      "age_days": 1.2,
+      "age_days": 1.21,
       "topics": [
         "ai"
       ],
@@ -772,7 +772,7 @@
       "url": "https://www.bis.org/speeches/20260817-40-years-deutsche-bundesbanks-representative-office-new-york",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.45,
+      "age_days": 12.46,
       "topics": [
         "ai",
         "macro"
@@ -789,7 +789,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -1.8 for 12.4d old signal",
+        "aging penalty -1.8 for 12.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the reception marking 40 years of the Representative Office of the Deutsche Bundesbank in the United States, New York City, 7 July 2026."
@@ -799,7 +799,7 @@
       "url": "https://www.bis.org/media-releases/20260512-central-bank-governors-appointed-lead-bis-board-and-key-groups",
       "source": "BIS Press Releases",
       "published_at": "2026-05-12T00:00:00+00:00",
-      "age_days": 109.45,
+      "age_days": 109.46,
       "topics": [
         "macro"
       ],
@@ -814,7 +814,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 109.4d old signal"
+        "aging penalty -16.0 for 109.5d old signal"
       ],
       "summary": "Press release from May 12, 2026 on central bank governors appointed to lead the BIS board of directors, the meeting of governors of major emerging market economies, the asian consultative council and the committee of the global financial system."
     },
@@ -823,7 +823,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T23:36:09+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -848,7 +848,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T23:10:23+00:00",
-      "age_days": 1.48,
+      "age_days": 1.49,
       "topics": [
         "ai"
       ],
@@ -873,7 +873,7 @@
       "url": "https://www.bis.org/media-releases/20260527-project-agora-shows-how-tokenisation-can-improve-wholesale-cross-border-payments-work-will",
       "source": "BIS Press Releases",
       "published_at": "2026-05-27T00:00:00+00:00",
-      "age_days": 94.45,
+      "age_days": 94.46,
       "topics": [
         "macro"
       ],
@@ -888,7 +888,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 94.4d old signal"
+        "aging penalty -16.0 for 94.5d old signal"
       ],
       "summary": "The Project Agorá prototype demonstrates how tokenisation and programmable technologies can address long-standing inefficiencies in wholesale cross-border payments at scale, while preserving the safety and integrity of settlement in central bank reserves."
     }
