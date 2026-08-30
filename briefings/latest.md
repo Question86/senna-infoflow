@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T01:26:01+00:00_
+_Generiert: 2026-08-30T01:39:03+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „業務時間外もAIに働いてもらう話“ aus Hatena Bookmark Hotentry IT (Score 8, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,7 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;** — Score 22, observation — [Quelle](https://blog.shibayu36.org/entry/2026/08/29/170916)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-29T10:20:11+00:00`, fetched `2026-08-30T01:38:28+00:00`
+  - Treffer: AI Agents, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: 最近はClaude CodeやCodexを複数セッション並行で動かしている。すると完了通知が来ても、どのセッションが何を終えたのか通知からさっと把握できないし、通知をクリックしても該当の画面に戻れない。デフォルトの通知機能ではこのあたりをカスタマイズできないので、hooksから呼ぶ通知スクリプトを自作していい感じにし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -98,7 +106,7 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

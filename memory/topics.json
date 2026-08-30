@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-30T01:26:01+00:00",
+  "generated_at": "2026-08-30T01:39:03+00:00",
   "topics": {
+    "general": [
+      {
+        "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-29T10:20:11+00:00",
+        "relevance_score": 22,
+        "url": "https://blog.shibayu36.org/entry/2026/08/29/170916"
+      },
+      {
+        "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-29T14:25:04+00:00",
+        "relevance_score": 5,
+        "url": "https://gigazine.net/news/20260829-chatto/"
+      }
+    ],
     "ai": [
       {
         "title": "業務時間外もAIに働いてもらう話",
@@ -10,15 +26,6 @@
         "published_at": "2026-08-29T07:15:47+00:00",
         "relevance_score": 8,
         "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi"
-      }
-    ],
-    "general": [
-      {
-        "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T14:25:04+00:00",
-        "relevance_score": 5,
-        "url": "https://gigazine.net/news/20260829-chatto/"
       }
     ]
   }

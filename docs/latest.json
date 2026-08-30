@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T01:26:01+00:00",
-  "run_id": "2026-08-30T01:26:01+00:00",
+  "generated_at": "2026-08-30T01:39:03+00:00",
+  "run_id": "2026-08-30T01:39:03+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,65 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 2,
     "source_errors": 1
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
+        "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-29T10:20:11+00:00",
+        "fetched_at": "2026-08-30T01:38:28+00:00",
+        "summary": "最近はClaude CodeやCodexを複数セッション並行で動かしている。すると完了通知が来ても、どのセッションが何を終えたのか通知からさっと把握できないし、通知をクリックしても該当の画面に戻れない。デフォルトの通知機能ではこのあたりをカスタマイズできないので、hooksから呼ぶ通知スクリプトを自作していい感じにし...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "99331623221b3b5918d5"
+      }
+    ],
     "observe": [
       {
         "title": "業務時間外もAIに働いてもらう話",
@@ -77,6 +125,53 @@
   },
   "findings": [
     {
+      "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-29T10:20:11+00:00",
+      "fetched_at": "2026-08-30T01:38:28+00:00",
+      "summary": "最近はClaude CodeやCodexを複数セッション並行で動かしている。すると完了通知が来ても、どのセッションが何を終えたのか通知からさっと把握できないし、通知をクリックしても該当の画面に戻れない。デフォルトの通知機能ではこのあたりをカスタマイズできないので、hooksから呼ぶ通知スクリプトを自作していい感じにし...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "99331623221b3b5918d5"
+    },
+    {
       "title": "業務時間外もAIに働いてもらう話",
       "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
       "source": "Hatena Bookmark Hotentry IT",
@@ -120,7 +215,55 @@
       "id": "2bc51a9e97d12e1bd536"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-29T10:20:11+00:00",
+      "fetched_at": "2026-08-30T01:38:28+00:00",
+      "summary": "最近はClaude CodeやCodexを複数セッション並行で動かしている。すると完了通知が来ても、どのセッションが何を終えたのか通知からさっと把握できないし、通知をクリックしても該当の画面に戻れない。デフォルトの通知機能ではこのあたりをカスタマイズできないので、hooksから呼ぶ通知スクリプトを自作していい感じにし...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "99331623221b3b5918d5"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
