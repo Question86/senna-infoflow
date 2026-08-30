@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-30T18:31:03+00:00",
+  "generated_at": "2026-08-30T18:39:23+00:00",
   "topics": {
     "general": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-08-30T16:23:35.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt"
+      },
+      {
+        "title": "ガチ中華の名店「味坊」が茨城になぜか「町中華」、料理人不足解決へロボットシェフ導入 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T12:11:32+00:00",
+        "relevance_score": 11,
+        "url": "https://36kr.jp/500714/"
       },
       {
         "title": "M 5.8 - Kermadec Islands, New Zealand",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-30T03:47:24+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2739036"
-      },
-      {
-        "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T01:28:17+00:00",
-        "relevance_score": 5,
-        "url": "https://blog.shibayu36.org/entry/2026/08/29/154324"
       }
     ],
     "ai": [
