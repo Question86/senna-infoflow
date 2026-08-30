@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T11:03:45+00:00_
+_Generiert: 2026-08-30T11:16:58+00:00_
 
 ## Kurzlage
 
@@ -29,14 +29,6 @@ _Generiert: 2026-08-30T11:03:45+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
   - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
-- **GDACS: Green flood alert in New Zealand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104126)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in New Zealand
-- **GDACS: Green flood alert in Ireland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104127)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Ireland
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Kermadec Islands, New Zealand 30/08/2026 09:02 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562607)
   - Quelle: GDACS
   - Zeit: ``
