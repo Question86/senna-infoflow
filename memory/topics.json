@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-30T09:52:30+00:00",
+  "generated_at": "2026-08-30T09:57:42+00:00",
   "topics": {
     "general": [
       {
@@ -68,11 +68,11 @@
         "url": "https://eeengineer.com/description-by-wireshark/"
       },
       {
-        "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+        "title": "なぜ？ Suicaが使えない「クレカ乗車・QR専用改札機」設置の意図 東京メトロに疑問をぶつけてみた",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T17:07:15+00:00",
+        "published_at": "2026-08-29T21:33:47+00:00",
         "relevance_score": 5,
-        "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles"
+        "url": "https://www.itmedia.co.jp/mobile/articles/2608/30/news003.html"
       }
     ],
     "ai": [
