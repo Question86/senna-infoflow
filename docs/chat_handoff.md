@@ -1,6 +1,6 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-30T08:19:21+00:00_
+_Generated: 2026-08-30T08:32:05+00:00_
 
 ## Status
 - status: `warning`
