@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T03:02:08+00:00_
+_Generiert: 2026-08-30T03:24:18+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+8 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 最近はClaude CodeやCodexを複数セッション並行で動かしている。すると完了通知が来ても、どのセッションが何を終えたのか通知からさっと把握できないし、通知をクリックしても該当の画面に戻れない。デフォルトの通知機能ではこのあたりをカスタマイズできないので、hooksから呼ぶ通知スクリプトを自作していい感じにし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI ポン出しスライド品評会 - Object.create(null)** — Score 14, observation — [Quelle](https://susisu.hatenablog.com/entry/2026/08/29/235949)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-30T02:30:16+00:00`, fetched `2026-08-30T03:23:48+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -62,4 +71,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss

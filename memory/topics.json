@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-30T03:02:08+00:00",
+  "generated_at": "2026-08-30T03:24:18+00:00",
   "topics": {
     "general": [
       {
@@ -40,6 +40,22 @@
         "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076"
       }
     ],
+    "ai": [
+      {
+        "title": "AI ポン出しスライド品評会 - Object.create(null)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T02:30:16+00:00",
+        "relevance_score": 14,
+        "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949"
+      },
+      {
+        "title": "業務時間外もAIに働いてもらう話",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-29T07:15:47+00:00",
+        "relevance_score": 8,
+        "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi"
+      }
+    ],
     "security": [
       {
         "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
@@ -47,15 +63,6 @@
         "published_at": "2026-08-29T23:47:17+00:00",
         "relevance_score": 11,
         "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas"
-      }
-    ],
-    "ai": [
-      {
-        "title": "業務時間外もAIに働いてもらう話",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T07:15:47+00:00",
-        "relevance_score": 8,
-        "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi"
       }
     ]
   }
