@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-08-30T07:46:14Z",
+  "generated_at": "2026-08-30T08:03:35Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -38,7 +38,17 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
+      "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "THU-MAIC/OpenMAIC",
+      "band": "watch",
+      "reason": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm."
+    },
+    {
+      "title": "Building deep and resilient financial markets for a Viksit Bharat",
       "band": "watch",
       "reason": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm."
     }
