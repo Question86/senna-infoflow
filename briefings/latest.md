@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T06:58:05+00:00_
+_Generiert: 2026-08-30T07:11:08+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+15 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-08-30T06:58:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone DOLLY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone ETAU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001312)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone ETAU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -181,5 +177,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
