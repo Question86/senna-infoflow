@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T03:37:47Z_
+_Generated: 2026-08-30T03:46:28Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-29T23:47:17+00:00` / age_days `0.16`
+- Published: `2026-08-29T23:47:17+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-29T10:20:11+00:00` / age_days `0.72`
+- Published: `2026-08-29T10:20:11+00:00` / age_days `0.73`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T09:38:40+00:00` / age_days `1.75`
+- Published: `2026-08-28T09:38:40+00:00` / age_days `1.76`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: controller
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-30T01:28:17+00:00` / age_days `0.09`
+- Published: `2026-08-30T01:28:17+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-29T14:25:04+00:00` / age_days `0.55`
+- Published: `2026-08-29T14:25:04+00:00` / age_days `0.56`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `71.03`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `71.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 71.0d old signal
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `71.03`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `71.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 71.0d old signal
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `71.03`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `71.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 71.0d old signal, single-source AI cap enforced after phrase recheck
@@ -118,14 +118,14 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi
 
-### SPFとDKIMとDMARCの役割の違いを整理する
+### ハーネス設計入門 〜プロンプト、コンテキストの次〜
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-08-29T17:07:15+00:00` / age_days `0.44`
+- Published: `2026-08-29T21:30:35+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles
+- Quelle: https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi
 
 END OF DOCUMENT

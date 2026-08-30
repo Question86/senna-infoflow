@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-30T03:37:47Z",
+  "generated_at": "2026-08-30T03:46:28Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -44,7 +44,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -68,7 +68,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T10:20:11+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:38:40+00:00",
-      "age_days": 1.75,
+      "age_days": 1.76,
       "topics": [
         "general"
       ],
@@ -144,7 +144,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T01:28:17+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -168,7 +168,7 @@
       "url": "https://gigazine.net/news/20260829-chatto/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T14:25:04+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -192,7 +192,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.03,
+      "age_days": 71.04,
       "topics": [
         "general"
       ],
@@ -217,7 +217,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.03,
+      "age_days": 71.04,
       "topics": [
         "general"
       ],
@@ -242,7 +242,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.03,
+      "age_days": 71.04,
       "topics": [
         "ai"
       ],
@@ -290,11 +290,11 @@
       "summary": "レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…"
     },
     {
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
+      "title": "ハーネス設計入門 〜プロンプト、コンテキストの次〜",
+      "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T17:07:15+00:00",
-      "age_days": 0.44,
+      "published_at": "2026-08-29T21:30:35+00:00",
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -312,7 +312,7 @@
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で..."
+      "summary": "AirCle＠AIコミュニティ開催の「ハーネス設計入門」で登壇した際に使用したスライド資料です。"
     }
   ],
   "read_order": [
