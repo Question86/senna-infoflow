@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-30T13:47:24+00:00",
+  "generated_at": "2026-08-30T13:52:40+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
@@ -12,7 +12,7 @@
     "medium": 4,
     "observe": 24
   },
-  "source_errors_count": 2,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
