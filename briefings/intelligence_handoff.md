@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T20:21:29Z_
+_Generated: 2026-08-30T20:31:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-30T06:42:35+00:00` / age_days `0.57`
+- Published: `2026-08-30T06:42:35+00:00` / age_days `0.58`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-30T11:51:05.040+00:00` / age_days `0.35`
+- Published: `2026-08-30T11:51:05.040+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-30T07:54:30.040+00:00` / age_days `0.52`
+- Published: `2026-08-30T07:54:30.040+00:00` / age_days `0.53`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-30T06:42:35+00:00` / age_days `0.57`
+- Published: `2026-08-30T06:42:35+00:00` / age_days `0.58`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-30T09:31:42.040+00:00` / age_days `0.45`
+- Published: `2026-08-30T09:31:42.040+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-30T09:26:26.683+00:00` / age_days `0.45`
+- Published: `2026-08-30T09:26:26.683+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-30T05:38:49.456+00:00` / age_days `0.61`
+- Published: `2026-08-30T05:38:49.456+00:00` / age_days `0.62`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -122,10 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.11`
-- Published: `2026-08-17T00:00:00+00:00` / age_days `13.85`
+- Published: `2026-08-17T00:00:00+00:00` / age_days `13.86`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: AXI0M/User-Yps identity hit, aging penalty -2.9 for 13.8d old signal, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Warum: AXI0M/User-Yps identity hit, aging penalty -2.9 for 13.9d old signal, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://www.bis.org/speeches/20260817-building-deep-and-resilient-financial-markets-viksit-bharat
 
 END OF DOCUMENT
