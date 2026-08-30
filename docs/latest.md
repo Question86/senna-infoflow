@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T01:57:49+00:00_
+_Generiert: 2026-08-30T02:14:18+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+4 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;** — Score 5, observation — [Quelle](https://blog.shibayu36.org/entry/2026/08/29/154324)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-30T01:28:17+00:00`, fetched `2026-08-30T02:13:37+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します。技術書典21のオンライン開催は2026/11/21(土)〜12/6(日)。オフライン開催は11/23(月・祝)に池袋サンシャインシティで行われ、どちらでも頒布する予定です。 どんな本かというと...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴** — Score 5, observation — [Quelle](https://gigazine.net/news/20260829-chatto/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-29T14:25:04+00:00`, fetched `2026-08-30T00:58:15+00:00`
@@ -53,4 +62,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
