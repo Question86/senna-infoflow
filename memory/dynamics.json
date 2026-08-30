@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-30T11:46:13Z",
+  "generated_at": "2026-08-30T12:03:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 30,
     "bands": {
       "krass": 1,
-      "strong": 3,
+      "strong": 4,
       "watch": 7,
       "quiet": 18
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 7,
       "quiet": 18
     }
@@ -23,7 +23,7 @@
       "url": "https://github.com/tailscale/tailcat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.41,
+      "age_days": 72.42,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -100,11 +100,36 @@
       "summary": "はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的..."
     },
     {
+      "title": "M 4.6 - 52 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcyr",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-30T11:51:05.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-30 11:03:03 UTC 2026-08-30 11:03:03 UTC at epicenter Location 8.163°S 120.627°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T07:54:30.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -129,7 +154,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T10:20:11+00:00",
-      "age_days": 1.06,
+      "age_days": 1.07,
       "topics": [
         "ai"
       ],
@@ -155,7 +180,7 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -182,7 +207,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcy0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:31:42.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -207,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:26:26.683+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -231,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:38:49.456+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -255,12 +280,12 @@
       "url": "https://www.bis.org/speeches/20260817-building-deep-and-resilient-financial-markets-viksit-bharat",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 13.49,
+      "age_days": 13.5,
       "topics": [
         "ai",
         "macro"
       ],
-      "dynamics_score": 12.38,
+      "dynamics_score": 12.37,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -283,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T04:10:47.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -307,7 +332,7 @@
       "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:30:16+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -333,7 +358,7 @@
       "url": "https://togetter.com/li/2739036",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T03:47:24+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -357,7 +382,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:38:40+00:00",
-      "age_days": 2.09,
+      "age_days": 2.1,
       "topics": [
         "general"
       ],
@@ -381,7 +406,7 @@
       "url": "https://www.bis.org/speeches/20260817-global-economy-2026-and-beyond-financing-europe-and-greeces-future",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 13.49,
+      "age_days": 13.5,
       "topics": [
         "macro"
       ],
@@ -405,7 +430,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T01:28:17+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -429,7 +454,7 @@
       "url": "https://eeengineer.com/description-by-wireshark/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:52:57+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -453,7 +478,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2608/30/news003.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T21:33:47+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -477,7 +502,7 @@
       "url": "https://gigazine.net/news/20260829-chatto/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T14:25:04+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -501,11 +526,11 @@
       "url": "https://www.bis.org/speeches/20260817-outlook-us-and-alaskan-economies",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 13.49,
+      "age_days": 13.5,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 4.38,
+      "dynamics_score": 4.37,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -525,7 +550,7 @@
       "url": "https://nomolk.hatenablog.com/entry/2026/08/30/145025",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T07:18:23+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -550,7 +575,7 @@
       "url": "https://github.com/p-e-w/heretic",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -575,7 +600,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.37,
+      "age_days": 71.38,
       "topics": [
         "general"
       ],
@@ -600,7 +625,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.37,
+      "age_days": 71.38,
       "topics": [
         "general"
       ],
@@ -625,7 +650,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.37,
+      "age_days": 71.38,
       "topics": [
         "ai"
       ],
@@ -652,7 +677,7 @@
       "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:15:47+00:00",
-      "age_days": 1.19,
+      "age_days": 1.2,
       "topics": [
         "ai"
       ],
@@ -677,7 +702,7 @@
       "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T21:30:35+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -702,7 +727,7 @@
       "url": "https://www.techno-edge.net/article/2026/08/29/5442.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T19:05:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -727,7 +752,7 @@
       "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T17:07:15+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
