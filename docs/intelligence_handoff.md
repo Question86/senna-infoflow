@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T12:30:00Z_
+_Generated: 2026-08-30T12:42:54Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-30T06:42:35+00:00` / age_days `0.24`
+- Published: `2026-08-30T06:42:35+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `72.44`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `72.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 72.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-29T23:47:17+00:00` / age_days `0.53`
+- Published: `2026-08-29T23:47:17+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-30T11:51:05.040+00:00` / age_days `0.03`
+- Published: `2026-08-30T11:51:05.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-30T07:54:30.040+00:00` / age_days `0.19`
+- Published: `2026-08-30T07:54:30.040+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-29T10:20:11+00:00` / age_days `1.09`
+- Published: `2026-08-29T10:20:11+00:00` / age_days `1.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-30T06:42:35+00:00` / age_days `0.24`
+- Published: `2026-08-30T06:42:35+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-30T09:31:42.040+00:00` / age_days `0.12`
+- Published: `2026-08-30T09:31:42.040+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-30T09:26:26.683+00:00` / age_days `0.13`
+- Published: `2026-08-30T09:26:26.683+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -111,8 +111,8 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 ### Building deep and resilient financial markets for a Viksit Bharat
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `12.36`
-- Published: `2026-08-17T00:00:00+00:00` / age_days `13.52`
+- Dynamics score: `12.35`
+- Published: `2026-08-17T00:00:00+00:00` / age_days `13.53`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, aging penalty -2.6 for 13.5d old signal, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-30T04:10:47.040+00:00` / age_days `0.35`
+- Published: `2026-08-30T04:10:47.040+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
