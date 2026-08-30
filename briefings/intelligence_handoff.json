@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-30T19:46:10Z",
+  "generated_at": "2026-08-30T20:02:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/tailscale/tailcat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.74,
+      "age_days": 72.75,
       "topics": [
         "ai"
       ],
@@ -62,7 +62,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 72.7d old signal",
+        "aging penalty -8.0 for 72.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -72,7 +72,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcyr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T11:51:05.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T07:54:30.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -146,7 +146,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T10:20:11+00:00",
-      "age_days": 1.39,
+      "age_days": 1.4,
       "topics": [
         "ai"
       ],
@@ -172,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T16:23:35.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -197,7 +197,7 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -224,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcy0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:31:42.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -249,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:26:26.683+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -273,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:38:49.456+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -297,12 +297,12 @@
       "url": "https://www.bis.org/speeches/20260817-building-deep-and-resilient-financial-markets-viksit-bharat",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 13.82,
+      "age_days": 13.84,
       "topics": [
         "ai",
         "macro"
       ],
-      "dynamics_score": 12.13,
+      "dynamics_score": 12.12,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
