@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-30T02:33:57+00:00",
+  "generated_at": "2026-08-30T02:45:39+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 4
+    "observe": 5
   },
-  "source_errors_count": 1,
+  "source_errors_count": 3,
   "top_signals": [
     {
       "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
@@ -55,13 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
+      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-29T14:25:04+00:00",
+      "published_at": "2026-08-29T17:07:15+00:00",
       "relevance_score": 5,
-      "url": "https://gigazine.net/news/20260829-chatto/",
-      "summary": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動...",
+      "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
+      "summary": "Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で...",
       "section": "observe"
     }
   ],

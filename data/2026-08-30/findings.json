@@ -112,6 +112,27 @@
     "id": "332f5a42f6dad4deb76a"
   },
   {
+    "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+    "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-29T17:07:15+00:00",
+    "fetched_at": "2026-08-30T02:44:45+00:00",
+    "summary": "Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a125605b1174089763d7"
+  },
+  {
     "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
     "url": "https://gigazine.net/news/20260829-chatto/",
     "source": "Hatena Bookmark Hotentry IT",
