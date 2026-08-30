@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T09:57:42+00:00_
+_Generiert: 2026-08-30T10:08:27+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-08-30T09:57:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone DOLLY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.8 - Kermadec Islands, New Zealand** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn)
-  - Quelle: USGS
-  - Zeit: `2026-08-30T09:02:09+00:00`
-  - Kurz: M5.8 - Kermadec Islands, New Zealand. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
