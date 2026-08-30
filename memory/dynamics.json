@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-30T12:42:54Z",
+  "generated_at": "2026-08-30T12:48:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 30,
@@ -70,7 +70,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 72.4d old signal",
+        "aging penalty -8.0 for 72.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -207,7 +207,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcy0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:31:42.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -256,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:38:49.456+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -297,7 +297,7 @@
       "single_source_ai_capped": true,
       "why": [
         "AXI0M/User-Yps identity hit",
-        "aging penalty -2.6 for 13.5d old signal",
+        "aging penalty -2.7 for 13.5d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -358,7 +358,7 @@
       "url": "https://togetter.com/li/2739036",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T03:47:24+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -454,7 +454,7 @@
       "url": "https://eeengineer.com/description-by-wireshark/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:52:57+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -478,7 +478,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2608/30/news003.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T21:33:47+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
@@ -541,7 +541,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -2.6 for 13.5d old signal"
+        "aging penalty -2.7 for 13.5d old signal"
       ],
       "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska, 5 August 2026."
     },
@@ -600,7 +600,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.41,
+      "age_days": 71.42,
       "topics": [
         "general"
       ],
@@ -625,7 +625,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.41,
+      "age_days": 71.42,
       "topics": [
         "general"
       ],
@@ -650,7 +650,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.41,
+      "age_days": 71.42,
       "topics": [
         "ai"
       ],
@@ -702,7 +702,7 @@
       "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T21:30:35+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -727,7 +727,7 @@
       "url": "https://www.techno-edge.net/article/2026/08/29/5442.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T19:05:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
