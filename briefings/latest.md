@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T12:36:14+00:00_
+_Generiert: 2026-08-30T12:45:10+00:00_
 
 ## Kurzlage
 
@@ -228,5 +228,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f986d9b7b50>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
