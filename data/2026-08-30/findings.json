@@ -47,6 +47,28 @@
     "id": "99331623221b3b5918d5"
   },
   {
+    "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+    "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-29T23:47:17+00:00",
+    "fetched_at": "2026-08-30T02:33:21+00:00",
+    "summary": "はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fb40f084459439ffba83"
+  },
+  {
     "title": "業務時間外もAIに働いてもらう話",
     "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
     "source": "Hatena Bookmark Hotentry IT",

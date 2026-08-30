@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-30T02:14:18+00:00",
+  "generated_at": "2026-08-30T02:33:57+00:00",
   "topics": {
     "general": [
       {
@@ -24,6 +24,15 @@
         "published_at": "2026-08-29T14:25:04+00:00",
         "relevance_score": 5,
         "url": "https://gigazine.net/news/20260829-chatto/"
+      }
+    ],
+    "security": [
+      {
+        "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-29T23:47:17+00:00",
+        "relevance_score": 11,
+        "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas"
       }
     ],
     "ai": [
