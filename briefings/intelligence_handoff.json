@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-30T09:31:23Z",
+  "generated_at": "2026-08-30T09:46:38Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/tailscale/tailcat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.31,
+      "age_days": 72.33,
       "topics": [
         "ai"
       ],
@@ -72,7 +72,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T07:54:30.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -121,7 +121,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T10:20:11+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],
@@ -147,7 +147,7 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -170,11 +170,36 @@
       "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click Get an immersive, multi-agent learning experience in just one click English | Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🎉 OpenMAIC v1.0.0 — Build courses w…"
     },
     {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcy0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-30T09:31:42.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 9.9"
+      ],
+      "summary": "Time 2026-08-30 09:13:55 UTC 2026-08-30 09:13:55 UTC at epicenter Location 23.414°S 179.913°W Depth 532.70 km (331.00 mi)"
+    },
+    {
       "title": "M 5.8 - Kermadec Islands, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:26:26.683+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "disaster"
       ],
@@ -198,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:38:49.456+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -222,12 +247,12 @@
       "url": "https://www.bis.org/speeches/20260817-building-deep-and-resilient-financial-markets-viksit-bharat",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 13.4,
+      "age_days": 13.41,
       "topics": [
         "ai",
         "macro"
       ],
-      "dynamics_score": 12.45,
+      "dynamics_score": 12.44,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -239,7 +264,7 @@
       "single_source_ai_capped": true,
       "why": [
         "AXI0M/User-Yps identity hit",
-        "aging penalty -2.5 for 13.4d old signal",
+        "aging penalty -2.6 for 13.4d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -250,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T04:10:47.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -274,7 +299,7 @@
       "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:30:16+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -294,30 +319,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ..."
-    },
-    {
-      "title": "妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる",
-      "url": "https://togetter.com/li/2739036",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T03:47:24+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "ゆきむら@30代眼科医 @ganka1212 妻のパスワードとか暗証番号とかに 1130（仮）みたいな謎の4桁の番号がよく登場する 誕生日でも住所でもない謎の数字、でも絶対忘れないであろう４桁 聞いても教えてくれない、、怪しい、 2026-08-29 16:07:59 もーさん @osakemon94010 @ganka1212 教えてくれないとなると、元カレの誕生..."
     }
   ],
   "read_order": [
@@ -330,8 +331,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 6,
-      "quiet": 2
+      "watch": 7,
+      "quiet": 1
     }
   }
 }
