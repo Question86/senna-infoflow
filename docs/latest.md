@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T22:06:09+00:00_
+_Generiert: 2026-08-30T22:19:13+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+32 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
