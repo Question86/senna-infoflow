@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T03:54:36+00:00",
-  "run_id": "2026-08-30T03:54:36+00:00",
+  "generated_at": "2026-08-30T04:00:05+00:00",
+  "run_id": "2026-08-30T04:00:05+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 2,
     "observe": 7,
-    "source_errors": 2
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -475,12 +475,6 @@
   ],
   "new_findings": [],
   "source_errors": [
-    {
-      "source_id": "cert_fr_alerts",
-      "source_name": "CERT-FR Alertes",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",

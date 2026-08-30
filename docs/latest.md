@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T03:54:36+00:00_
+_Generiert: 2026-08-30T04:00:05+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+9 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;“ aus Hatena Bookmark Hotentry IT (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -71,5 +71,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `cert_fr_alerts` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
