@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T13:41:42+00:00_
+_Generiert: 2026-08-30T13:47:24+00:00_
 
 ## Kurzlage
 
@@ -171,5 +171,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss

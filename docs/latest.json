@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T13:41:42+00:00",
-  "run_id": "2026-08-30T13:41:42+00:00",
+  "generated_at": "2026-08-30T13:47:24+00:00",
+  "run_id": "2026-08-30T13:47:24+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -1464,10 +1464,10 @@
   "new_findings": [],
   "source_errors": [
     {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_id": "japan_digital_agency_news",
+      "source_name": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
+      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
     },
     {
       "source_id": "bis_statistics",
