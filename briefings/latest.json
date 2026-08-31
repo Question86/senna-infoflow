@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T07:43:49+00:00",
-  "run_id": "2026-08-31T07:43:49+00:00",
+  "generated_at": "2026-08-31T07:51:40+00:00",
+  "run_id": "2026-08-31T07:51:40+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 38,
     "displayed_findings": 38,
     "high": 0,
@@ -1829,29 +1829,7 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-31T07:33:00.000+00:00",
-      "fetched_at": "2026-08-31T07:43:18+00:00",
-      "summary": "In aktuellen Versionen haben die Entwickler der Webhosting-Control-Panel-Software cPanel/WHM eine Schwachstelle geschlossen.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "56f7a05f83fd6a4deb36"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
