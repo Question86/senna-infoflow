@@ -89,6 +89,30 @@
     "id": "c8c2d87918f4c4976fea"
   },
   {
+    "title": "[NEU] [mittel] Red Hat Enterprise Linux (iperf3): Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3080",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-31T09:46:05+00:00",
+    "fetched_at": "2026-08-31T09:48:34+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ed6089c2dfd1dee296d"
+  },
+  {
     "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078",
     "source": "BSI CERT-Bund Security Advisories",
@@ -218,6 +242,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ca230daaa41356c30fbe"
+  },
+  {
+    "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-31T09:46:05+00:00",
+    "fetched_at": "2026-08-31T09:48:34+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Gitea ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b6d1e5387087f84ae7ec"
   },
   {
     "title": "[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS",
@@ -837,6 +884,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b9e581191a510260ce5a"
+  },
+  {
+    "title": "本来行政がやるべきDXをたった1人で完成 AIが変えた“実行可能な規模” 待機児童問題に一石を投じた「園えらびの手がかり」の例",
+    "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000973/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-31T06:58:53+00:00",
+    "fetched_at": "2026-08-31T09:48:34+00:00",
+    "summary": "「保育園落ちた日本死ね!!!」というフレーズが日本中に衝撃を与えたのは、2016年2月のことである。待機児童の問題が解決しなければ就業が困難になるわけで、主にそのリスクを背負うのは若い母親である。 国ではこの発言をきっかけに待機児童解消に向けての施策が加速し、こども家庭庁によると、26年4月1日時点で全国1741...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "241b6a8fc3eab288dcf4"
   },
   {
     "title": "青空の裏がわ",
