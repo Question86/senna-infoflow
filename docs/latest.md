@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T01:55:02+00:00_
+_Generiert: 2026-08-31T02:01:26+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+6 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **China’s tax reform matters more to Southeast Asia than Wall Street** — Score 12, observation — [Quelle](https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-31T02:00:18+00:00`, fetched `2026-08-31T02:00:50+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the policy aims to recover unpaid taxes and increase government revenue, its effects may extend well […] The post China’s tax reform matters more to Southeast Asia than…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SWOT is not boring; you are just using it too late** — Score 10, observation — [Quelle](https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-31T01:15:59+00:00`, fetched `2026-08-31T01:36:26+00:00`

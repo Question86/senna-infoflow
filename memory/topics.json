@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T01:55:02+00:00",
+  "generated_at": "2026-08-31T02:01:26+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-08-31T01:00:41+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/"
+      },
+      {
+        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T02:00:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/"
       },
       {
         "title": "SWOT is not boring; you are just using it too late",
@@ -33,6 +40,15 @@
         "published_at": "2026-08-31T01:00:41+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T02:00:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/"
       }
     ],
     "economy": [
