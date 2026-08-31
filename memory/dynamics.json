@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-31T02:14:44Z",
+  "generated_at": "2026-08-31T02:36:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 10,
+    "dynamics": 11,
     "bands": {
       "strong": 1,
-      "quiet": 9
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 9
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 73.01,
+      "age_days": 73.03,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:00:41+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -74,7 +74,7 @@
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T23:10:19+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -98,7 +98,7 @@
       "url": "https://www.47news.jp/14868281.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T12:11:27+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -118,11 +118,35 @@
       "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と..."
     },
     {
+      "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
+      "url": "https://note.com/chizutodesign/n/neee5116b95b4",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T10:59:58+00:00",
+      "age_days": 0.65,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Googleマップが新しくなって話題になっていたので、江戸時代（1840年頃）にGoogleマップがあったら…と想像して当時の東京周辺の地図を作ってみました。 pic.twitter.com/7ZSUVBnWT2 — 地図とかデザインとか (@chizutodesign) March 24, 2019 当時は私自身、地理や歴史にそこまで詳しくありませんでした。たくさんの方か..."
+    },
+    {
       "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:00:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -147,7 +171,7 @@
       "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:15:59+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -173,7 +197,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.98,
+      "age_days": 71.99,
       "topics": [
         "general"
       ],
@@ -198,7 +222,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.98,
+      "age_days": 71.99,
       "topics": [
         "general"
       ],
@@ -223,7 +247,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.98,
+      "age_days": 71.99,
       "topics": [
         "ai"
       ],
@@ -250,7 +274,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:55:51+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
