@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T09:49:02+00:00",
+  "generated_at": "2026-08-31T09:54:27+00:00",
   "topics": {
     "general": [
       {
@@ -77,6 +77,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (iperf3): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T09:46:05+00:00",
@@ -138,16 +145,16 @@
         "published_at": "2026-08-31T05:51:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849"
-      },
-      {
-        "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-04-30T14:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/jp/JVN65118274/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081"
+      },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (iperf3): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
@@ -210,13 +217,6 @@
         "published_at": "2026-08-31T06:40:00+00:00",
         "relevance_score": 9,
         "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
-      },
-      {
-        "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:04:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
       }
     ],
     "ai": [
@@ -284,11 +284,11 @@
         "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
       },
       {
-        "title": "Thailand’s AI startup push gets OpenAI backing through new public-private accelerator",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T04:26:52+00:00",
+        "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T08:51:53+00:00",
         "relevance_score": 8,
-        "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/"
+        "url": "https://joisino.hatenablog.com/entry/kasu"
       }
     ],
     "github": [
@@ -370,6 +370,13 @@
         "published_at": "2026-08-17T00:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
+      },
+      {
+        "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T08:51:53+00:00",
+        "relevance_score": 8,
+        "url": "https://joisino.hatenablog.com/entry/kasu"
       },
       {
         "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
