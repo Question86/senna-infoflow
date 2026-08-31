@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T22:33:48+00:00",
-  "run_id": "2026-08-31T22:33:48+00:00",
+  "generated_at": "2026-08-31T22:40:04+00:00",
+  "run_id": "2026-08-31T22:40:04+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 31,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 1
   },
   "sections": {
@@ -1192,6 +1192,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "14a3079706689bfa9c36"
+      },
+      {
+        "title": "GitHub - getkern/kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
+        "url": "https://github.com/getkern/kern",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-25T07:48:29+00:00",
+        "fetched_at": "2026-08-31T22:39:28+00:00",
+        "summary": "kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. A real, kernel-enforced container in ~3.5 ms, out of one 1.52 MB binary with no daemon. 0 RAM at rest · no daemon, no socket, nothing to start · one static binary, libc its onl...",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9e2108eed78410eaf0a9"
       },
       {
         "title": "AI and monetary policy",
@@ -3222,6 +3245,29 @@
       "id": "14a3079706689bfa9c36"
     },
     {
+      "title": "GitHub - getkern/kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
+      "url": "https://github.com/getkern/kern",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T07:48:29+00:00",
+      "fetched_at": "2026-08-31T22:39:28+00:00",
+      "summary": "kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. A real, kernel-enforced container in ~3.5 ms, out of one 1.52 MB binary with no daemon. 0 RAM at rest · no daemon, no socket, nothing to start · one static binary, libc its onl...",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9e2108eed78410eaf0a9"
+    },
+    {
       "title": "AI and monetary policy",
       "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy",
       "source": "BIS Central Bankers Speeches",
@@ -4087,25 +4133,27 @@
   ],
   "new_findings": [
     {
-      "title": "アンソロピックから「恐怖の請求書」 中国AIが猛追でも崩れぬ強気 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN022KZ0S6A800C2000000/",
+      "title": "GitHub - getkern/kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
+      "url": "https://github.com/getkern/kern",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-31T19:33:00+00:00",
-      "fetched_at": "2026-08-31T22:33:12+00:00",
-      "summary": "顧客支援ソフトを開発する社員150人の米スタートアップ、パイロンのマーティー・カウサス最高経営責任者（CEO）は米アンソロピックから届いた請求書に目を丸くした。アンソロピックのAI「クロード」の利用料が、プログラミングに使っていた自分自身の分だけで、たった数日で4000ドル（約64万円）にも上っていたためだ。...",
+      "published_at": "2026-08-25T07:48:29+00:00",
+      "fetched_at": "2026-08-31T22:39:28+00:00",
+      "summary": "kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. A real, kernel-enforced container in ~3.5 ms, out of one 1.52 MB binary with no daemon. 0 RAM at rest · no daemon, no socket, nothing to start · one static binary, libc its onl...",
       "matched_keywords": [
+        "AI/KI",
+        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5c631745c4097ab847d4"
+      "id": "9e2108eed78410eaf0a9"
     }
   ],
   "source_errors": [
