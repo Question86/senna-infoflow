@@ -1,57 +1,26 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-31T00:08:28Z",
+  "generated_at": "2026-08-31T01:02:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 6,
     "bands": {
-      "krass": 1,
-      "strong": 4,
-      "watch": 7,
-      "quiet": 27
+      "strong": 1,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7,
-      "quiet": 27
+      "strong": 1,
+      "quiet": 5
     }
   },
   "top_dynamics": [
-    {
-      "title": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "like netcat, but over Tailscale's data plane, without Tailscale's control plane https://tailscale.com/tailcat \"Tailscale without Tailscale, by Tailscale\" Tailcat Tailcat is a remix of Tailscale open source pieces to act like netcat , but over Tailscale's data plane, without Tailscale's control plane. Tailscale's data…"
-    },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.92,
+      "age_days": 72.96,
       "topics": [
         "ai"
       ],
@@ -70,416 +39,17 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 72.9d old signal",
+        "aging penalty -8.0 for 73.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
     },
     {
-      "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-      "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 1.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的..."
-    },
-    {
-      "title": "M 4.6 - 52 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcyr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-30T11:51:05.040+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-30 11:03:03 UTC 2026-08-30 11:03:03 UTC at epicenter Location 8.163°S 120.627°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-30T07:54:30.040+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-30 07:37:53 UTC 2026-08-30 07:37:53 UTC at epicenter Location 3.466°S 101.661°E Depth 78.21 km (48.60 mi)"
-    },
-    {
-      "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/08/29/170916",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T10:20:11+00:00",
-      "age_days": 1.58,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "最近はClaude CodeやCodexを複数セッション並行で動かしている。すると完了通知が来ても、どのセッションが何を終えたのか通知からさっと把握できないし、通知をクリックしても該当の画面に戻れない。デフォルトの通知機能ではこのあたりをカスタマイズできないので、hooksから呼ぶ通知スクリプトを自作していい感じにし..."
-    },
-    {
-      "title": "M 4.7 - 62 km SSE of Palca, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-30T16:23:35.040+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-30 16:04:07 UTC 2026-08-30 16:04:07 UTC at epicenter Location 18.246°S 69.639°W Depth 102.04 km (63.40 mi)"
-    },
-    {
-      "title": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: active",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click Get an immersive, multi-agent learning experience in just one click English | Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🎉 OpenMAIC v1.0.0 — Build courses w…"
-    },
-    {
-      "title": "M 4.5 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcy0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-30T09:31:42.040+00:00",
-      "age_days": 0.61,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 9.9"
-      ],
-      "summary": "Time 2026-08-30 09:13:55 UTC 2026-08-30 09:13:55 UTC at epicenter Location 23.414°S 179.913°W Depth 532.70 km (331.00 mi)"
-    },
-    {
-      "title": "M 5.8 - Kermadec Islands, New Zealand",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-30T09:26:26.683+00:00",
-      "age_days": 0.61,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "ShakeMap - IV Time 2026-08-30 09:02:09 UTC 2026-08-30 09:02:09 UTC at epicenter Location 30.146°S 177.888°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "M 4.7 - 26 km WSW of Tocopilla, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-30T05:38:49.456+00:00",
-      "age_days": 0.77,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "DYFI? - III Time 2026-08-30 05:19:51 UTC 2026-08-30 05:19:51 UTC at epicenter Location 22.179°S 70.439°W Depth 52.12 km (32.38 mi)"
-    },
-    {
-      "title": "M 5.1 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-30T04:10:47.040+00:00",
-      "age_days": 0.83,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-30 03:55:28 UTC 2026-08-30 03:55:28 UTC at epicenter Location 56.458°S 27.003°W Depth 135.69 km (84.31 mi)"
-    },
-    {
-      "title": "Building deep and resilient financial markets for a Viksit Bharat",
-      "url": "https://www.bis.org/speeches/20260817-building-deep-and-resilient-financial-markets-viksit-bharat",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 14.01,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "aging penalty -3.0 for 14.0d old signal",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at the Financial Institutions Leadership conference, organised by the Standard Chartered Bank, Mumbai, 24 July 2026."
-    },
-    {
-      "title": "AI ポン出しスライド品評会 - Object.create(null)",
-      "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T02:30:16+00:00",
-      "age_days": 0.9,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ..."
-    },
-    {
-      "title": "ガチ中華の名店「味坊」が茨城になぜか「町中華」、料理人不足解決へロボットシェフ導入 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-      "url": "https://36kr.jp/500714/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T12:11:32+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "茨城県守谷市の国道294号線沿いに今月6日にオープンした「町中華 炒炒」。見た目はよくある中華料理店だが、実はこの店、都内を中心にラム肉を使ったガチ中華を提供する人気チェーン「味坊集団」の新店舗であり、自動調理マシンのロボットが炒め物を作る「ロボット料理店」でもある。ロボットでなぜ町中華なのか味坊集団..."
-    },
-    {
-      "title": "妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる",
-      "url": "https://togetter.com/li/2739036",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T03:47:24+00:00",
-      "age_days": 0.85,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "ゆきむら@30代眼科医 @ganka1212 妻のパスワードとか暗証番号とかに 1130（仮）みたいな謎の4桁の番号がよく登場する 誕生日でも住所でもない謎の数字、でも絶対忘れないであろう４桁 聞いても教えてくれない、、怪しい、 2026-08-29 16:07:59 もーさん @osakemon94010 @ganka1212 教えてくれないとなると、元カレの誕生..."
-    },
-    {
-      "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-      "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-28T09:38:40+00:00",
-      "age_days": 2.6,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: controller"
-      ],
-      "summary": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 2026.08.28 16:07 更新 2026.08.28 配信 出力電圧は0.1V刻みで自由に調整可能 株式会社ビット・トレード・ワン（本社：神奈川県相模原市）は2026年8月28日、USB PD電源を可変電源として活用できる開発・評価支援ボード「ADUPANZ USB P..."
-    },
-    {
-      "title": "The global economy in 2026 and beyond - financing Europe and Greece's future",
-      "url": "https://www.bis.org/speeches/20260817-global-economy-2026-and-beyond-financing-europe-and-greeces-future",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 14.01,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 30th Annual Economist Government Roundtable \"The global economy in 2026 and beyond – financing Europe and Greece's future\", Athens, 10 July 2026."
-    },
-    {
-      "title": "nginxで502が稀に発生する原因はkeepalive接続",
-      "url": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T14:47:40+00:00",
-      "age_days": 0.39,
+      "published_at": "2026-08-30T23:10:19+00:00",
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -496,14 +66,14 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残っている。 upstream prematurely close..."
+      "summary": "【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高経営責任者（ＣＥＯ）ら創業者２人を米カリフォルニア州の連邦地方裁判所に提訴した..."
     },
     {
-      "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
+      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
+      "url": "https://www.47news.jp/14868281.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T01:28:17+00:00",
-      "age_days": 0.94,
+      "published_at": "2026-08-30T12:11:27+00:00",
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -520,211 +90,14 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します。技術書典21のオンライン開催は2026/11/21(土)〜12/6(日)。オフライン開催は11/23(月・祝)に池袋サンシャインシティで行われ、どちらでも頒布する予定です。 どんな本かというと..."
-    },
-    {
-      "title": "WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析",
-      "url": "https://eeengineer.com/description-by-wireshark/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T23:52:57+00:00",
-      "age_days": 1.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "はじめに WiresharkでHTTPS通信をキャプチャしても、多くの通信は「Application Data」と表示され、HTTP RequestやResponseの内容をそのまま確認することはできません。これは、HTTPS通信がTLSによって暗号化されているためです。 特にTLS 1.3では、ServerのCertificate Private Keyを取得しただけでは、通常は過去にキ..."
-    },
-    {
-      "title": "なぜ？ Suicaが使えない「クレカ乗車・QR専用改札機」設置の意図 東京メトロに疑問をぶつけてみた",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2608/30/news003.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T21:33:47+00:00",
-      "age_days": 1.11,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "東京メトロが上野駅と銀座駅に期間限定で導入した「クレカ乗車・QR専用改札機」が、SNS上で大きな話題を呼んでいる。これらはクレジットカードのタッチ決済やQRコードに対応する最新の機器だ。 観光地を控える両駅での試みは、SNS上で非常に高い関心を集めている。実際に上野駅の改札を見てきたところ、特に海外の観光客..."
-    },
-    {
-      "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-      "url": "https://gigazine.net/news/20260829-chatto/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T14:25:04+00:00",
-      "age_days": 1.41,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動..."
-    },
-    {
-      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
-      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T09:58:21+00:00",
-      "age_days": 0.59,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開し..."
-    },
-    {
-      "title": "Outlook for the US and Alaskan economies",
-      "url": "https://www.bis.org/speeches/20260817-outlook-us-and-alaskan-economies",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 14.01,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -3.0 for 14.0d old signal"
-      ],
-      "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska, 5 August 2026."
-    },
-    {
-      "title": "AIお姉ちゃんへの道（2026年版） - nomolkのブログ",
-      "url": "https://nomolk.hatenablog.com/entry/2026/08/30/145025",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T07:18:23+00:00",
-      "age_days": 0.7,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の..."
-    },
-    {
-      "title": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-30T06:42:35+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Fully automatic censorship removal for language models https://heretic-project.org Heretic: Fully automatic censorship removal for language models Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implement…"
-    },
-    {
-      "title": "「旅する人は全員Vlogを撮ったらいい」AI時代ほど“自分が本当にそこにいた記録”の価値が上がる→アクションカメラやスマートグラスで未来の自分に一次資料を残そう",
-      "url": "https://togetter.com/li/2738057",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T07:52:14+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "さとうしょうすけ @shosuke_sato 旅する人は全員Vlogを撮ったらいいのに、と思っています。 別にYouTuberになる必要はないし、誰かに見せる必要もないです。 でも、今日歩いた街とか、食べたものとか、出会った人とか、そのとき考えていたことって、たぶん10年後にはほとんど忘れてしまう。 写真は撮るけど、そのとき自..."
+      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と..."
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.89,
+      "age_days": 71.93,
       "topics": [
         "general"
       ],
@@ -749,7 +122,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.89,
+      "age_days": 71.93,
       "topics": [
         "general"
       ],
@@ -774,7 +147,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 71.89,
+      "age_days": 71.93,
       "topics": [
         "ai"
       ],
@@ -795,208 +168,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "TypeScript ライブラリとして動作する組版エンジン minitype を公開しました",
-      "url": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T13:09:39+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "2025 年度下期未踏アドバンスト事業[1]にて開発してきた，TypeScript ライブラリとして動作する組版エンジン minitype を公開しました！ 従来は独立したシステムや専用言語として提供されることの多かった組版処理をライブラリとして提供することにより，LLM や外部アプリケーションを含む，様々な文書生成に活用される..."
-    },
-    {
-      "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
-      "url": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T09:19:00+00:00",
-      "age_days": 0.62,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AIの性能が向上するにつれて、「AIは意識を持つか」についての議論が活発になっています。イギリスの経済誌「The Economist」は、Googleのテクノロジー・社会担当副社長でありAI研究チームを率いるブレイズ・アグエラ・イ・アルカス氏、およびフロリダ・アトランティック大学の教授を務めるスーザン・シュナイダー氏によ..."
-    },
-    {
-      "title": "業務時間外もAIに働いてもらう話",
-      "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T07:15:47+00:00",
-      "age_days": 1.7,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…"
-    },
-    {
-      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
-      "url": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T14:40:37+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中 JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモ..."
-    },
-    {
-      "title": "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
-      "url": "https://togetter.com/li/2739144",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T09:41:16+00:00",
-      "age_days": 0.6,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "参議院審議中継 @sangiinwebtv 参議院ホームページ(sangiin.go.jp)のデザインリニューアルを実施しました。 平成21年以来となる17年ぶりのデザインの刷新により、視認性・操作性を向上させ、利用者が目的の情報にたどり着きやすいホームページといたしました。 併せて、国会議事堂内を360 度の映像で体感できる「バーチ..."
-    },
-    {
-      "title": "ハーネス設計入門 〜プロンプト、コンテキストの次〜",
-      "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T21:30:35+00:00",
-      "age_days": 1.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AirCle＠AIコミュニティ開催の「ハーネス設計入門」で登壇した際に使用したスライド資料です。"
-    },
-    {
-      "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/08/29/5442.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T19:05:00+00:00",
-      "age_days": 1.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第157回）は、AIが自ら問題を作って学習する自己改善型モデル「Ornith-1.5」や、スマホで撮った1本の動画から動く人の3D映像を作るAI技術「4DAnyone」を取り上げます。 また、ご家庭のノートPCやゲーミングPCなど..."
-    },
-    {
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T17:07:15+00:00",
-      "age_days": 1.29,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }

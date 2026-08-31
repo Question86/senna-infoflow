@@ -1,131 +1,71 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-31T00:08:28Z_
+_Generated: 2026-08-31T01:02:42Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
-
-### tailscale/tailcat
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-30T06:42:35+00:00` / age_days `0.73`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://github.com/tailscale/tailcat
 
 ### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `72.92`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `72.96`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 72.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 73.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
-### 「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計
+### 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-08-29T23:47:17+00:00` / age_days `1.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security
-- Quelle: https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas
-
-### M 4.6 - 52 km NNE of Ruteng, Indonesia
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-08-30T11:51:05.040+00:00` / age_days `0.51`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.0`
+- Published: `2026-08-30T23:10:19+00:00` / age_days `0.08`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcyr
+- Warum: no strong comparative reason
+- Quelle: https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681
 
-### M 4.9 - 76 km WNW of Bengkulu, Indonesia
+### 【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-08-30T07:54:30.040+00:00` / age_days `0.68`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.0`
+- Published: `2026-08-30T12:11:27+00:00` / age_days `0.54`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc
+- Warum: no strong comparative reason
+- Quelle: https://www.47news.jp/14868281.html
 
-### Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;
+### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-08-29T10:20:11+00:00` / age_days `1.58`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `71.93`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, aging penalty -16.0 for 71.9d old signal
+- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
+
+### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `71.93`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, aging penalty -16.0 for 71.9d old signal
+- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
+
+### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `71.93`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://blog.shibayu36.org/entry/2026/08/29/170916
-
-### M 4.7 - 62 km SSE of Palca, Peru
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-08-30T16:23:35.040+00:00` / age_days `0.32`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt
-
-### THU-MAIC/OpenMAIC
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-08-30T06:42:35+00:00` / age_days `0.73`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/THU-MAIC/OpenMAIC
-
-### M 4.5 - south of the Fiji Islands
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-08-30T09:31:42.040+00:00` / age_days `0.61`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 9.9
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcy0
-
-### M 5.8 - Kermadec Islands, New Zealand
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-08-30T09:26:26.683+00:00` / age_days `0.61`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn
-
-### M 4.7 - 26 km WSW of Tocopilla, Chile
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-08-30T05:38:49.456+00:00` / age_days `0.77`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp
-
-### M 5.1 - South Sandwich Islands region
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-08-30T04:10:47.040+00:00` / age_days `0.83`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd
+- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 71.9d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://toyokeizai.net/articles/-/948348?display=b
 
 END OF DOCUMENT
