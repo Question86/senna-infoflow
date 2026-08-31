@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T23:01:25+00:00",
+  "generated_at": "2026-08-31T23:17:40+00:00",
   "topics": {
     "general": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-08-31T12:08:26.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
+      },
+      {
+        "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T12:37:33+00:00",
+        "relevance_score": 10,
+        "url": "https://japan.zdnet.com/article/35251931/"
       },
       {
         "title": "M 4.8 - 176 km SE of Gizo, Solomon Islands",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-31T06:37:26+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2"
-      },
-      {
-        "title": "令和8年熊本地震に関する対応状況について（8月31日）",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-08-31T06:10:53+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e"
       }
     ],
     "security": [
