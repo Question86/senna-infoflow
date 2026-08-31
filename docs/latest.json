@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T05:54:54+00:00",
-  "run_id": "2026-08-31T05:54:54+00:00",
+  "generated_at": "2026-08-31T06:00:13+00:00",
+  "run_id": "2026-08-31T06:00:13+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 16,
     "source_errors": 1
   },
@@ -137,6 +137,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ca230daaa41356c30fbe"
+      },
+      {
+        "title": "Why Japan’s booming AI market is harder to crack than it looks",
+        "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-31T05:57:31+00:00",
+        "fetched_at": "2026-08-31T05:59:38+00:00",
+        "summary": "Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufacturing and healthcare infrastructure support adoption. Aggressive government investment reinforces […] The post Why Japan’s booming AI market…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Automatisierung"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3368603640e27e3578d3"
       },
       {
         "title": "[UPDATE] [hoch] Budibase: Mehrere Schwachstellen",
@@ -655,6 +677,28 @@
       "id": "ca230daaa41356c30fbe"
     },
     {
+      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-31T05:57:31+00:00",
+      "fetched_at": "2026-08-31T05:59:38+00:00",
+      "summary": "Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufacturing and healthcare infrastructure support adoption. Aggressive government investment reinforces […] The post Why Japan’s booming AI market…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3368603640e27e3578d3"
+    },
+    {
       "title": "[UPDATE] [hoch] Budibase: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1059,27 +1103,26 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Budibase: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-31T05:51:06+00:00",
-      "fetched_at": "2026-08-31T05:54:22+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen.",
+      "published_at": "2026-08-31T05:57:31+00:00",
+      "fetched_at": "2026-08-31T05:59:38+00:00",
+      "summary": "Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufacturing and healthcare infrastructure support adoption. Aggressive government investment reinforces […] The post Why Japan’s booming AI market…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung"
       ],
       "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ed583bfbf1822c2180d8"
+      "id": "3368603640e27e3578d3"
     }
   ],
   "source_errors": [

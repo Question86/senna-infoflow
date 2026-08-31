@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-31T05:54:54+00:00",
+  "generated_at": "2026-08-31T06:00:13+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 16
   },
   "source_errors_count": 1,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] Budibase: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-31T05:51:06+00:00",
+      "published_at": "2026-08-31T05:57:31+00:00",
       "relevance_score": 14,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen.",
+      "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
+      "summary": "Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automat…",
       "section": "medium"
     },
     {

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-31T05:54:54+00:00_
+_Generated: 2026-08-31T06:00:13+00:00_
 
 ## Status
 - status: `warning`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-31T05:54:54+00:00_
 - url: https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/
 - summary: The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been m…
 
-### 4. [UPDATE] [hoch] Budibase: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
+### 4. Why Japan’s booming AI market is harder to crack than it looks
+- source: e27 Asia Startup and Tech Feed
 - score: `14`
-- published: `2026-08-31T05:51:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849
-- summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen.
+- published: `2026-08-31T05:57:31+00:00`
+- url: https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/
+- summary: Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automat…
 
 ### 5. OpenAIが数万台のMac miniとMac Studioを買い占め
 - source: Hatena Bookmark Hotentry IT
