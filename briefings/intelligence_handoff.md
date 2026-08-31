@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-31T04:51:57Z_
+_Generated: 2026-08-31T05:03:18Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `73.12`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `73.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 73.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-31T04:26:52+00:00` / age_days `0.02`
+- Published: `2026-08-31T04:26:52+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -32,11 +32,21 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-31T04:17:34.040+00:00` / age_days `0.02`
+- Published: `2026-08-31T04:17:34.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
+
+### M 4.5 - south of the Fiji Islands
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-08-31T04:52:25.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 9.8
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f
 
 ### Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem
 
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-31T02:30:44+00:00` / age_days `0.1`
+- Published: `2026-08-31T02:30:44+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-08-31T01:00:41+00:00` / age_days `0.16`
+- Published: `2026-08-31T01:00:41+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-30T23:10:19+00:00` / age_days `0.24`
+- Published: `2026-08-30T23:10:19+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-30T12:11:27+00:00` / age_days `0.69`
+- Published: `2026-08-30T12:11:27+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-30T10:59:58+00:00` / age_days `0.74`
+- Published: `2026-08-30T10:59:58+00:00` / age_days `0.75`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `4.0`
-- Published: `2026-08-31T03:28:11+00:00` / age_days `0.06`
+- Published: `2026-08-31T03:28:11+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/
-
-### China’s tax reform matters more to Southeast Asia than Wall Street
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `4.0`
-- Published: `2026-08-31T02:00:18+00:00` / age_days `0.12`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/
 
 END OF DOCUMENT
