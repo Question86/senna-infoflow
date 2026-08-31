@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T00:16:38+00:00",
+  "generated_at": "2026-08-31T01:07:14+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T01:00:41+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/"
+      },
+      {
+        "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T10:55:51+00:00",
+        "relevance_score": 5,
+        "url": "https://blog.shibayu36.org/entry/2026/08/30/173000"
+      }
+    ],
+    "github": [
+      {
+        "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T01:00:41+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/"
+      }
+    ],
     "general": [
       {
         "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
