@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T23:25:38+00:00_
+_Generiert: 2026-08-31T23:31:10+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+90 neue relevante Treffer. Stärkstes Signal: „Polimill builds Japan's next-generation public AI infrastructure“ aus OpenAI News RSS (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Polimill builds Japan's next-generation public AI infrastructure** — Score 20, observation — [Quelle](https://openai.com/index/polimill)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-31T07:00:00+00:00`, fetched `2026-08-31T23:30:35+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.5 - 44 km NNE of Ruteng, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-31T08:28:21.762+00:00`, fetched `2026-08-31T08:35:30+00:00`
@@ -283,8 +292,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
