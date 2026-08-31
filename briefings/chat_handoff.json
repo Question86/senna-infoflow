@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-31T11:03:53+00:00",
+  "generated_at": "2026-08-31T11:19:46+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 6,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 22,
+    "medium": 28,
     "observe": 34
   },
   "source_errors_count": 1,
@@ -35,23 +35,23 @@
       "section": "medium"
     },
     {
-      "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-31T10:01:05+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3085",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand herbeizuführe…",
+      "published_at": "2026-08-31T11:16:06+00:00",
+      "relevance_score": 17,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Server-Side Request Forgery (SSRF) durchzuführen, sensible Daten offenzulegen oder zu manipuliere…",
       "section": "medium"
     },
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (pipewire,dbus-broker): Mehrere Schwachstellen ermöglichen Denial of Service",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-31T09:51:05+00:00",
+      "published_at": "2026-08-31T11:16:06+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen und vertrauliche Informationen offenzulegen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3095",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
