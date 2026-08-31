@@ -1257,6 +1257,27 @@
     "id": "b9e581191a510260ce5a"
   },
   {
+    "title": "M5 Max搭載MacBook Proは付属140Wでは足りず毎時12%放電 - iPhone Mania",
+    "url": "https://iphone-mania.jp/mac-605087/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-31T07:14:25+00:00",
+    "fetched_at": "2026-08-31T11:34:56+00:00",
+    "summary": "Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）が、付属する140Wの電源アダプタでは高負荷時に電力をまかないきれないと、海外の検証メディアNotebookCheckが報告しました。CPUとGPUをフルに動かすと本体の消費電力が付属アダプタの供給を上回り、不足分を内蔵バッテリーが補うことになります。 付属1...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "26650f897ee5705b4ee2"
+  },
+  {
     "title": "本来行政がやるべきDXをたった1人で完成 AIが変えた“実行可能な規模” 待機児童問題に一石を投じた「園えらびの手がかり」の例",
     "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000973/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1465,6 +1486,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f685492030c2fd903dd0"
+  },
+  {
+    "title": "Lumio Solar raises US$900K to bring plug-and-play solar appliances to Filipino households",
+    "url": "https://e27.co/lumio-solar-raises-us900k-to-bring-plug-and-play-solar-appliances-to-filipino-households-20260831/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-31T11:28:54+00:00",
+    "fetched_at": "2026-08-31T11:34:56+00:00",
+    "summary": "For many Filipino households and small businesses, solar power still looks like something built for wealthier homeowners: panels on a roof, a sizeable upfront bill, permits, installation work, and the assumption that the customer owns the property in the first place. Lumio Solar is betting that the next wave of adoption will look far more […] The post Lumio Solar raises US$900K to bring plug-and-play solar appliance…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17ee6802bd9c5d7b45c8"
   },
   {
     "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",

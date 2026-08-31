@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T11:28:30+00:00",
+  "generated_at": "2026-08-31T11:35:30+00:00",
   "topics": {
     "general": [
       {
@@ -54,6 +54,13 @@
         "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31"
       },
       {
+        "title": "M5 Max搭載MacBook Proは付属140Wでは足りず毎時12%放電 - iPhone Mania",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T07:14:25+00:00",
+        "relevance_score": 5,
+        "url": "https://iphone-mania.jp/mac-605087/"
+      },
+      {
         "title": "青空の裏がわ",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-31T05:56:16+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-31T05:34:22+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2739484"
-      },
-      {
-        "title": "備品のオシロスコープなど持ち出し換金 仙台高専の技術職員を懲戒解雇",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T03:52:24+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000957/"
       }
     ],
     "security": [
