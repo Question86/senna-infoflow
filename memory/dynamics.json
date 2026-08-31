@@ -1,31 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-31T09:48:09Z",
+  "generated_at": "2026-08-31T10:03:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 8,
+      "krass": 11,
       "strong": 6,
       "watch": 7,
-      "quiet": 18
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 14,
+      "krass": 2,
+      "strong": 16,
       "watch": 7,
-      "quiet": 18
+      "quiet": 15
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T09:46:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Gitea ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände zu verursachen."
+    },
     {
       "title": "[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2279",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:21:15+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -50,7 +75,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-08-31T06:40:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -75,7 +100,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-08-31T06:04:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -100,7 +125,7 @@
       "url": "https://github.com/unclecode/crawl4ai",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-31T07:02:55+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -125,7 +150,7 @@
       "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T05:57:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -154,7 +179,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:12:03+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -180,7 +205,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-08-31T06:23:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -206,7 +231,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:12:03+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -232,7 +257,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T05:51:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -254,11 +279,61 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen."
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T09:51:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen und vertrauliche Informationen offenzulegen."
+    },
+    {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (iperf3): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3080",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T09:46:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:36:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -283,7 +358,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:53:09+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -308,7 +383,7 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-31T07:33:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -334,7 +409,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 73.33,
+      "age_days": 73.34,
       "topics": [
         "ai"
       ],
@@ -363,7 +438,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T08:28:21.762+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -389,7 +464,7 @@
       "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-31T06:01:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security",
         "infra"
@@ -415,7 +490,7 @@
       "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:26:52+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -442,7 +517,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T04:17:34.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -466,7 +541,7 @@
       "url": "https://jvn.jp/jp/JVN65118274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-04-30T14:00:00+09:00",
-      "age_days": 123.2,
+      "age_days": 123.21,
       "topics": [
         "security"
       ],
@@ -491,7 +566,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T04:52:25.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -516,7 +591,7 @@
       "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 14.41,
+      "age_days": 14.42,
       "topics": [
         "ai",
         "macro"
@@ -544,7 +619,7 @@
       "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:46:03+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -570,7 +645,7 @@
       "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:30:44+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -594,7 +669,7 @@
       "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T06:12:32+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -618,7 +693,7 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:00:41+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -643,7 +718,7 @@
       "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:00:46+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -670,7 +745,7 @@
       "url": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-31T06:37:26+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -694,7 +769,7 @@
       "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-31T06:10:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -718,7 +793,7 @@
       "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-31T06:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -742,7 +817,7 @@
       "url": "https://e27.co/southeast-asia-startup-funding-finds-a-floor-but-not-a-rebound-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T08:42:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -764,11 +839,38 @@
       "summary": "Southeast Asia’s venture capital market has stopped falling off a cliff. That does not mean it has bounced back. According to the “Southeast Asia Startup Funding Report for 2025” by DealStreetAsia and Kickstart Ventures, the region closed the year with just 461 equity deals, the lowest annual deal count since at least…"
     },
     {
+      "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+      "url": "https://joisino.hatenablog.com/entry/kasu",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T08:51:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "LLM は魅力的に見える提案をしてくれますが、実際に提案に従ってみると全然大したことがない結果になり肩透かしを食うことがよくあります。 本稿ではスタンフォード大学のグループによる一連の研究 Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers（LLMは斬新な研究アイ..."
+    },
+    {
       "title": "青空の裏がわ",
       "url": "https://soiree.blue/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T05:56:16+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -792,7 +894,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000957/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T03:52:24+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -816,7 +918,7 @@
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T23:10:19+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -840,7 +942,7 @@
       "url": "https://www.47news.jp/14868281.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T12:11:27+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -864,7 +966,7 @@
       "url": "https://note.com/chizutodesign/n/neee5116b95b4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:59:58+00:00",
-      "age_days": 0.95,
+      "age_days": 0.96,
       "topics": [
         "general"
       ],
@@ -888,7 +990,7 @@
       "url": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T03:28:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -913,7 +1015,7 @@
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:00:18+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -932,109 +1034,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the policy aims to recover unpaid taxes and increase government reven…"
-    },
-    {
-      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
-      "url": "https://itrend.kikkakeagent.co.jp/articles/223",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T02:00:08+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "■調査概要調査名称：ITエンジニアの開発メンタル負荷実態調査調査方法：IDEATECHが提供するリサーチマーケティング「リサピー®︎」の企画によるインターネット調査調査期間：2026年5月13日～同年5月20日有効回答：システム開発に携わるITエンジニア321名 ※構成比は小数点以下第2位を四捨五入しているため、合計しても必ず..."
-    },
-    {
-      "title": "Southeast Asia does not have one AI advantage – it has 11",
-      "url": "https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T03:30:21+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The global AI race is often described as a contest to build the largest models, secure the most advanced chips and attract the biggest data-centre investments. That framing does not fit Southeast Asia. Most countries in the region will not compete directly with American or Chinese frontier laboratories. Their opportun…"
-    },
-    {
-      "title": "SWOT is not boring; you are just using it too late",
-      "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T01:15:59+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT, and PESTLE can help a person avoid one of the most expensi…"
-    },
-    {
-      "title": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-31T07:02:55+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "🇰🇷한국어 | 🇯🇵日本語 | 🇨🇳中文 | 🇬🇧English vphone-cli Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure. Prerequisites Host: Apple Silicon macOS 15+ (Sequoia) Xcode + iOS SDK (cross-compiles the guest daemon) SIP/AMFI relaxation to allow private PV=3 entitlements with unsigned-binar…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
