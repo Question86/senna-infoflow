@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-31T10:03:23Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-08-31T10:25:18Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,61 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3085",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T10:01:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
+      "title": "[NEU] [mittel] ffmpeg: Schwachstelle ermöglicht Codeausführung und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3084",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T09:56:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in ffmpeg ausnutzen, um möglicherweise beliebigen Code auszuführen oder einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
       "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:46:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -40,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2279",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:21:15+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -65,7 +115,7 @@
       "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T05:57:31+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -94,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:12:03+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -116,11 +166,64 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände."
     },
     {
+      "title": "[NEU] [niedrig] NetApp StorageGRID: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3087",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T10:06:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in NetApp StorageGRID ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3083",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T09:56:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
       "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-08-31T06:23:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -146,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:12:03+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -172,7 +275,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T05:51:06+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -198,56 +301,6 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:51:05+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen und vertrauliche Informationen offenzulegen."
-    },
-    {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (iperf3): Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3080",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-31T09:46:05+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-31T09:36:05+00:00",
       "age_days": 0.02,
       "topics": [
         "security"
@@ -266,58 +319,7 @@
         "security high-signal: cert-bund, bsi, security, advisory",
         "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-31T06:53:09+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen."
-    },
-    {
-      "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-08-31T07:33:00.000+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: root",
-        "security high-signal: root",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "In aktuellen Versionen haben die Entwickler der Webhosting-Control-Panel-Software cPanel/WHM eine Schwachstelle geschlossen."
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen und vertrauliche Informationen offenzulegen."
     }
   ],
   "read_order": [
@@ -329,8 +331,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "krass": 4,
+      "strong": 8
     }
   }
 }
