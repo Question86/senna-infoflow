@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T02:01:26+00:00",
+  "generated_at": "2026-08-31T02:30:22+00:00",
   "topics": {
     "ai": [
       {
@@ -74,6 +74,13 @@
         "published_at": "2026-08-30T12:11:27+00:00",
         "relevance_score": 5,
         "url": "https://www.47news.jp/14868281.html"
+      },
+      {
+        "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T10:59:58+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/chizutodesign/n/neee5116b95b4"
       }
     ]
   }
