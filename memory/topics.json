@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T19:01:57+00:00",
+  "generated_at": "2026-08-31T19:15:23+00:00",
   "topics": {
     "general": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-08-31T12:08:26.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
+      },
+      {
+        "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-31T19:11:48.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td5l"
       },
       {
         "title": "M 4.5 - south of the Fiji Islands",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-31T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31"
-      },
-      {
-        "title": "「共産主義」という万能の敵――健康保険・オープンソース・水道水フッ化物添加まで「赤く」塗るレッテル政治史｜Reading Monkey",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T08:55:57+00:00",
-        "relevance_score": 5,
-        "url": "https://note.com/reading_monkey/n/n0304bb63df5d"
       }
     ],
     "security": [
