@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T08:12:49+00:00",
+  "generated_at": "2026-08-31T08:36:05+00:00",
   "topics": {
     "general": [
+      {
+        "title": "M 5.5 - 44 km NNE of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-31T08:28:21.762+00:00",
+        "relevance_score": 19,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z"
+      },
       {
         "title": "Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem",
         "source": "e27 Asia Startup and Tech Feed",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-30T23:10:19+00:00",
         "relevance_score": 5,
         "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681"
-      },
-      {
-        "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T12:11:27+00:00",
-        "relevance_score": 5,
-        "url": "https://www.47news.jp/14868281.html"
       }
     ],
     "security": [
