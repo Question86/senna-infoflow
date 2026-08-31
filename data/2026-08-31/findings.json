@@ -1183,6 +1183,42 @@
     "id": "34ae66f74fdceb8e6abf"
   },
   {
+    "title": "M 4.8 - 176 km SE of Gizo, Solomon Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td6k",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-31T20:28:22.040+00:00",
+    "fetched_at": "2026-08-31T20:29:43+00:00",
+    "summary": "Time 2026-08-31 20:00:29 UTC 2026-08-31 20:00:29 UTC at epicenter Location 9.015°S 158.156°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "385dbd4a7faee20819f1"
+  },
+  {
     "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td5l",
     "source": "USGS M4.5+ Earthquakes Past Hour",
