@@ -340,6 +340,29 @@
     "id": "ca230daaa41356c30fbe"
   },
   {
+    "title": "[NEU] [mittel] IBM DataPower Gateway: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3098",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-31T11:21:05+00:00",
+    "fetched_at": "2026-08-31T11:27:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DataPower Gateway ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Cross Site Scripting Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "edcecfd38bc02d5080f5"
+  },
+  {
     "title": "[NEU] [mittel] HP Computer: Schwachstelle ermöglicht Privilegieneskalation",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3097",
     "source": "BSI CERT-Bund Security Advisories",
