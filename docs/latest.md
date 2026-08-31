@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T23:31:10+00:00_
+_Generiert: 2026-08-31T23:38:55+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Polimill builds Japan's next-generation public AI infrastructure“ aus OpenAI News RSS (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+91 neue relevante Treffer. Stärkstes Signal: „Polimill builds Japan's next-generation public AI infrastructure“ aus OpenAI News RSS (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
