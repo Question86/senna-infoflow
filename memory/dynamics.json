@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-31T05:24:37Z",
+  "generated_at": "2026-08-31T05:33:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 22,
+    "dynamics": 23,
     "bands": {
       "strong": 1,
       "watch": 5,
-      "quiet": 16
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
       "strong": 1,
       "watch": 5,
-      "quiet": 16
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 73.14,
+      "age_days": 73.15,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:26:52+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T04:52:25.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -153,7 +153,7 @@
       "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:30:44+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -177,7 +177,7 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:00:41+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -225,11 +225,35 @@
       "summary": "AI can translate a website into 20 languages overnight, summarise competitors in Germany, prepare a first market analysis for France, adapt a campaign for Italy and help a customer support team answer questions from several countries at once. Tasks that once required multiple specialists, significant budgets and weeks…"
     },
     {
+      "title": "備品のオシロスコープなど持ち出し換金 仙台高専の技術職員を懲戒解雇",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000957/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T03:52:24+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "この職員は広瀬キャンパス教育研究技術支援室に所属。技術専門職員の立場を利用し、2018年ごろから長期間にわたって備品を持ち出して換金していたという。被害総額は465万2365円。 橋爪秀利校長は「本件懲戒処分を行う事態となったことは誠に遺憾」とし、「関係各位にご迷惑をおかけしたことを心からお詫び申し上げます..."
+    },
+    {
       "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T23:10:19+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -301,7 +325,7 @@
       "url": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T03:28:11+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -326,7 +350,7 @@
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:00:18+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -351,7 +375,7 @@
       "url": "https://itrend.kikkakeagent.co.jp/articles/223",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T02:00:08+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -376,7 +400,7 @@
       "url": "https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:30:21+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -401,7 +425,7 @@
       "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:15:59+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -529,7 +553,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:55:51+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -554,7 +578,7 @@
       "url": "https://e27.co/building-burnout-resistant-teams-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:00:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
