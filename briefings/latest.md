@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T08:45:09+00:00_
+_Generiert: 2026-09-01T08:52:56+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-09-01T08:45:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Lebanon
-- **GDACS: Green flood alert in South Korea** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104133)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in South Korea
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.
 - **GDACS: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001316)
   - Quelle: GDACS
   - Zeit: ``
