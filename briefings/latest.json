@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T19:52:51+00:00",
-  "run_id": "2026-09-01T19:52:51+00:00",
+  "generated_at": "2026-09-01T19:58:14+00:00",
+  "run_id": "2026-09-01T19:58:14+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
     "medium": 21,
     "observe": 56,
-    "source_errors": 2
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -4007,37 +4007,8 @@
       "id": "c3a323d422b7f7f79a3d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ",
-      "url": "https://www.m3tech.blog/entry/claude-budget-tags",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-01T15:18:58+00:00",
-      "fetched_at": "2026-09-01T19:52:23+00:00",
-      "summary": "この記事は、Unit7 リサーチプロダクトチームのブログリレー7日目の記事です。 こんにちは、エムスリーエンジニアリンググループ/Unit7 リサーチプロダクトチームでチームリーダーをやっている遠藤です。 皆さん、トークン使い切ってますか？私は24時間トークンを使い切れる人間でありたいと思っています。 エムスリーエ...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a29322c59a67fef86389"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
-    {
-      "source_id": "japan_digital_agency_news",
-      "source_name": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
-    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
