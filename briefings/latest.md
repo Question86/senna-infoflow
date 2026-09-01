@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T05:31:17+00:00_
+_Generiert: 2026-09-01T05:41:09+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+24 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -203,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2137155.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-01T04:11:40+00:00`, fetched `2026-09-01T05:40:31+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ** — Score 5, observation — [Quelle](https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-31T22:57:16+00:00`, fetched `2026-09-01T01:03:47+00:00`
@@ -211,15 +220,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: あるWebサイトにアクセスするとSSLエラーになった DNSの応答がおかしい J:COMの応答 J:COM問い合わせ J:COMの権威ある回答 まとめ J:COM問い合わせ対応について J:COMに改善してほしいこと おわりに 関連情報 あるWebサイトにアクセスするとSSLエラーになった こんにちは。趣味でDNSを研究したりしている @debiru_R です...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **総務省、「pixiv」「note」など情プラ法の「大規模プラットフォーム事業者」に追加、誹謗中傷への迅速な対応など求める 「ガールズちゃんねる」「好き嫌い.com」含む4者が対象** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2137041.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-31T22:46:32+00:00`, fetched `2026-09-01T01:03:47+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 総務省、「pixiv」「note」など情プラ法の「大規模プラットフォーム事業者」に追加、誹謗中傷への迅速な対応など求める 「ガールズちゃんねる」「好き嫌い.com」含む4者が対象
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
