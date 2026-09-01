@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-01T01:40:54Z",
+  "generated_at": "2026-09-01T02:28:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 15,
+    "dynamics": 18,
     "bands": {
       "strong": 2,
-      "watch": 1,
-      "quiet": 12
+      "watch": 2,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 1,
-      "quiet": 12
+      "watch": 2,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 73.99,
+      "age_days": 74.02,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -74,11 +74,36 @@
       "summary": "Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side…"
     },
     {
+      "title": "M 4.8 - 292 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-01T01:44:48.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)"
+    },
+    {
       "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
       "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:56:42+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -98,11 +123,61 @@
       "summary": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました"
     },
     {
+      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+      "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-01T01:55:25+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency sector forged a completely independent upward path. The total…"
+    },
+    {
+      "title": "The factories are coming. Southeast Asia’s real race is to build what surrounds them",
+      "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-01T02:00:26+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "For years, Southeast Asia’s manufacturing story has been told largely through factory announcements. A multinational opens another plant in Vietnam. A semiconductor company expands in Malaysia. A battery or metals project lands in Indonesia. Those announcements matter, but they only tell part of the story. As global m…"
+    },
+    {
       "title": "The AI marketing backlash story doesn’t actually fit Southeast Asia",
       "url": "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:44+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -129,7 +204,7 @@
       "url": "https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:33+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -153,7 +228,7 @@
       "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -177,7 +252,7 @@
       "url": "https://www.digital.go.jp/policies/report-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:58:19+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -201,7 +276,7 @@
       "url": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:57:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -225,7 +300,7 @@
       "url": "https://www.digital.go.jp/news/ccbda486-08ed-4c48-972e-6e779a67fa20",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:48:08+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -249,7 +324,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/news/2137041.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T22:46:32+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -273,7 +348,7 @@
       "url": "https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:46+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -298,7 +373,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 72.95,
+      "age_days": 72.99,
       "topics": [
         "general"
       ],
@@ -323,7 +398,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 72.95,
+      "age_days": 72.99,
       "topics": [
         "general"
       ],
@@ -348,7 +423,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 72.95,
+      "age_days": 72.99,
       "topics": [
         "ai"
       ],
@@ -375,7 +450,7 @@
       "url": "https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T22:57:16+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
