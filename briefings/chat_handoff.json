@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-01T20:45:53+00:00",
+  "generated_at": "2026-09-01T20:51:42+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 81,
     "displayed_findings": 81,
     "high": 0,
