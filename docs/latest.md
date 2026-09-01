@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T02:20:03+00:00_
+_Generiert: 2026-09-01T02:39:23+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+15 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency sector forged a completely independent upward path. The total digital asset capitalisation surged 1.09 per cent to reach US$2.64T over the 24-hour […] The post St…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Asia is building the network for the age of atoms** — Score 16, risk — [Quelle](https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-01T02:30:02+00:00`, fetched `2026-09-01T02:38:49+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Thailand (+2.0)
+  - Kurz: Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semiconductor activity. Each market is developing a different position within this network. Vietnam has beco…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました** — Score 14, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-01T00:56:42+00:00`, fetched `2026-09-01T01:03:47+00:00`
@@ -127,6 +136,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
