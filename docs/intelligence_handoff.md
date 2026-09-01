@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-01T09:47:51Z_
+_Generated: 2026-09-01T10:03:23Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-01T12:00:00+09:00` / age_days `0.28`
+- Published: `2026-09-01T12:00:00+09:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-01T08:07:35+00:00` / age_days `0.07`
+- Published: `2026-09-01T08:07:35+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-09-01T06:38:41+00:00` / age_days `0.13`
+- Published: `2026-09-01T06:38:41+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T02:30:02+00:00` / age_days `0.3`
+- Published: `2026-09-01T02:30:02+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T08:07:57+00:00` / age_days `0.07`
+- Published: `2026-09-01T08:07:57+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T06:41:10+00:00` / age_days `0.13`
+- Published: `2026-09-01T06:41:10+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: ransomware, security high-signal: ransomware, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `74.33`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `74.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 74.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T01:00:47+00:00` / age_days `0.37`
+- Published: `2026-09-01T01:00:47+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T08:44:18.898+00:00` / age_days `0.04`
+- Published: `2026-09-01T08:44:18.898+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-01T06:38:41+00:00` / age_days `0.13`
+- Published: `2026-09-01T06:38:41+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-01T00:00:00+00:00` / age_days `0.41`
+- Published: `2026-09-01T00:00:00+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: exchange
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアク�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-01T05:26:29.040+00:00` / age_days `0.18`
+- Published: `2026-09-01T05:26:29.040+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
