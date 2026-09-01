@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-01T04:34:27+00:00",
+  "generated_at": "2026-09-01T04:44:17+00:00",
   "topics": {
     "ai": [
       {
@@ -151,6 +151,13 @@
         "published_at": "2026-09-01T02:00:26+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/"
+      },
+      {
+        "title": "松本大臣記者会見（令和8年9月1日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-01T04:40:34+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-260901-01"
       },
       {
         "title": "「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました",
