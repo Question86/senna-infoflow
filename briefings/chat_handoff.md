@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T01:58:30+00:00_
+_Generated: 2026-09-01T02:20:03+00:00_
 
 ## Status
 - status: `warning`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-09-01T01:58:30+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u
 - summary: Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)
 
-### 7. “Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash
+### 7. The factories are coming. Southeast Asia’s real race is to build what surrounds them
 - source: e27 Asia Startup and Tech Feed
-- score: `6`
-- published: `2026-09-01T01:30:33+00:00`
-- url: https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/
-- summary: Two years ago, Chocolate Finance built its name on a simple pitch to Singapore consumers: park your spare cash with us instead of a savings account, and we’ll try to get you a better return. It worked well enough that the fintech now manages roughly US$1.3 bi…
+- score: `8`
+- published: `2026-09-01T02:00:26+00:00`
+- url: https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/
+- summary: For years, Southeast Asia’s manufacturing story has been told largely through factory announcements. A multinational opens another plant in Vietnam. A semiconductor company expands in Malaysia. A battery or metals project lands in Indonesia. Those announcemen…
 
 END OF DOCUMENT
