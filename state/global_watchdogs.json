@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:29:37+00:00",
+  "generated_at": "2026-09-01T08:45:13+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,6 +111,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562607",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 82 km SE of Maba, Indonesia",
+        "summary": "M5.6 - 82 km SE of Maba, Indonesia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
+        "published_at": "2026-09-01T08:22:20+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
