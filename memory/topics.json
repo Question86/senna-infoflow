@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-01T06:09:20+00:00",
+  "generated_at": "2026-09-01T06:39:18+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-01T01:55:25+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/"
+      },
+      {
+        "title": "jingyaogong/minimind",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/jingyaogong/minimind"
       },
       {
         "title": "Asia is building the network for the age of atoms",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-01T03:15:49+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/"
-      },
-      {
-        "title": "Jakarta court raises sentence for ex-consultant of Nadiem Makarim in Chromebook graft case",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T04:47:10+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/jakarta-court-raises-sentence-for-ex-consultant-of-nadiem-makarim-in-chromebook-graft-case-20260901/"
       }
     ],
     "economy": [
@@ -156,6 +156,36 @@
         "url": "https://e27.co/what-im-learning-about-the-second-wave-of-insurance-digital-transformation-in-indonesia-20260828/"
       }
     ],
+    "github": [
+      {
+        "title": "jingyaogong/minimind",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/jingyaogong/minimind"
+      },
+      {
+        "title": "majd/ipatool",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/majd/ipatool"
+      },
+      {
+        "title": "デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-01T00:58:19+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/report-2026"
+      },
+      {
+        "title": "k1tbyte/Wand-Enhancer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 4,
+        "url": "https://github.com/k1tbyte/Wand-Enhancer"
+      }
+    ],
     "general": [
       {
         "title": "M 4.6 - 201 km SW of Fakfak, Indonesia",
@@ -235,15 +265,6 @@
         "published_at": "2026-09-01T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN84094853/"
-      }
-    ],
-    "github": [
-      {
-        "title": "デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-01T00:58:19+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/report-2026"
       }
     ]
   }

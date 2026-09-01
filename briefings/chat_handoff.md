@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T06:09:20+00:00_
+_Generated: 2026-09-01T06:39:18+00:00_
 
 ## Status
 - status: `warning`
-- findings: `29`
+- findings: `32`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-01T06:09:20+00:00_
 - url: https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/
 - summary: The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency se…
 
-### 4. Asia is building the network for the age of atoms
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-09-01T02:30:02+00:00`
-- url: https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/
-- summary: Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singap…
+### 4. jingyaogong/minimind
+- source: GitHub Trending RSS All Languages Daily
+- score: `19`
+- published: `None`
+- url: https://github.com/jingyaogong/minimind
+- summary: 🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind "大道至简" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目…
 
 ### 5. 東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語
 - source: Hatena Bookmark Hotentry IT
