@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T19:41:42+00:00_
+_Generated: 2026-09-01T19:52:51+00:00_
 
 ## Status
 - status: `warning`
-- findings: `76`
+- findings: `77`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-01T19:41:42+00:00_
 - url: https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/
 - summary: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ra…
 
-### 8. AI safety is designed in the West, and failing users everywhere
-- source: Rest of World Global Tech Feed
+### 8. Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ
+- source: Hatena Bookmark Hotentry IT
 - score: `11`
-- published: `2026-09-01T10:00:00+00:00`
-- url: https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.
+- published: `2026-09-01T15:18:58+00:00`
+- url: https://www.m3tech.blog/entry/claude-budget-tags
+- summary: この記事は、Unit7 リサーチプロダクトチームのブログリレー7日目の記事です。 こんにちは、エムスリーエンジニアリンググループ/Unit7 リサーチプロダクトチームでチームリーダーをやっている遠藤です。 皆さん、トークン使い切ってますか？私は24時間トークンを使い切れる人間でありたいと思っています。 エムスリーエ...
 
 END OF DOCUMENT
