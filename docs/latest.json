@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T15:15:04+00:00",
-  "run_id": "2026-09-01T15:15:04+00:00",
+  "generated_at": "2026-09-01T15:43:29+00:00",
+  "run_id": "2026-09-01T15:43:29+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 20,
     "observe": 47,
-    "source_errors": 1
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -3513,6 +3513,12 @@
   ],
   "new_findings": [],
   "source_errors": [
+    {
+      "source_id": "hn_release_security_burst",
+      "source_name": "Hacker News Release/Security Burst",
+      "source_type": "hackernews",
+      "error": "500 Server Error: Internal Server Error for url: https://hn.algolia.com/api/v1/search_by_date?query=%28launch+OR+release+OR+outage+OR+security+OR+CVE+OR+OpenAI+OR+AI+agent+OR+Nvidia+OR+MCP+OR+Codex%29&tags=story&hitsPerPage=6"
+    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
