@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-01T05:24:39Z",
+  "generated_at": "2026-09-01T05:33:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 27,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 4,
+      "watch": 5,
       "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 4,
+      "watch": 5,
       "quiet": 18
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -76,7 +76,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.14,
+      "age_days": 74.15,
       "topics": [
         "ai"
       ],
@@ -105,7 +105,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -128,11 +128,35 @@
       "summary": "Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side…"
     },
     {
+      "title": "M 4.6 - 201 km SW of Fakfak, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-01T05:26:29.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-01 05:06:33 UTC 2026-09-01 05:06:33 UTC at epicenter Location 4.239°S 131.044°E Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
       "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:15:49+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -158,7 +182,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T01:44:48.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -183,7 +207,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T02:33:33+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -257,7 +281,7 @@
       "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:00:26+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -281,7 +305,7 @@
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-31T07:00:00+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -306,7 +330,7 @@
       "url": "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:44+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -333,7 +357,7 @@
       "url": "https://e27.co/what-im-learning-about-the-second-wave-of-insurance-digital-transformation-in-indonesia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:30:28+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -357,7 +381,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260901-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T04:40:34+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -381,7 +405,7 @@
       "url": "https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:33+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -405,7 +429,7 @@
       "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -429,7 +453,7 @@
       "url": "https://www.digital.go.jp/policies/report-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:58:19+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -477,7 +501,7 @@
       "url": "https://www.digital.go.jp/news/ccbda486-08ed-4c48-972e-6e779a67fa20",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:48:08+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -525,7 +549,7 @@
       "url": "https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:46+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -652,7 +676,7 @@
       "url": "https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T22:57:16+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
