@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-01T03:26:55+00:00",
+  "generated_at": "2026-09-01T03:39:30+00:00",
   "topics": {
     "ai": [
       {
@@ -112,6 +112,13 @@
         "published_at": "2026-09-01T03:15:49+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/"
+      },
+      {
+        "title": "What I’m learning about the second wave of insurance digital transformation in Indonesia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T03:30:28+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/what-im-learning-about-the-second-wave-of-insurance-digital-transformation-in-indonesia-20260828/"
       }
     ],
     "security": [
