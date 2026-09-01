@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T07:34:14+00:00",
-  "run_id": "2026-09-01T07:34:14+00:00",
+  "generated_at": "2026-09-01T07:43:35+00:00",
+  "run_id": "2026-09-01T07:43:35+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 38,
     "displayed_findings": 38,
     "high": 0,
@@ -2077,29 +2077,7 @@
       "id": "9dba5ebaa9bfe3c09a65"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market",
-      "url": "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-01T07:25:20+00:00",
-      "fetched_at": "2026-09-01T07:33:37+00:00",
-      "summary": "The global economic landscape faces numerous structural challenges. Apart from specialized sectors like education, finance, and government, most mainstream industries are experiencing significant headwinds. In corporate boardrooms across the region, “cost cutting” has transitioned from a seasonal strategy to a daily operating baseline. As a result, once deep-pocketed businesses are striving to find cheaper alternati…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dda49f0167add23eb214"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
