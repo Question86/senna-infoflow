@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-01T20:40:40+00:00",
+  "generated_at": "2026-09-01T20:45:53+00:00",
   "topics": {
     "ai": [
       {
@@ -349,18 +349,18 @@
         "url": "https://www.bis.org/speeches/20260901-recent-economic-and-financial-developments-turkey"
       },
       {
+        "title": "GitHub CLI: Media in issues, pull requests, and comments",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-01T12:35:59+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments"
+      },
+      {
         "title": "k1tbyte/Wand-Enhancer",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 4,
         "url": "https://github.com/k1tbyte/Wand-Enhancer"
-      },
-      {
-        "title": "Block users from discussion comments in personal repositories",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-01T16:30:01+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories"
       }
     ],
     "security": [

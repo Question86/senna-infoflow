@@ -1986,6 +1986,26 @@
     "id": "5f3ec744c120b2593a70"
   },
   {
+    "title": "GitHub CLI: Media in issues, pull requests, and comments",
+    "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-01T12:35:59+00:00",
+    "fetched_at": "2026-09-01T20:45:24+00:00",
+    "summary": "GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body. This is now… The post GitHub CLI: Media in issues, pull requests, and comments appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "216f8634c8399e4aeecb"
+  },
+  {
     "title": "k1tbyte/Wand-Enhancer",
     "url": "https://github.com/k1tbyte/Wand-Enhancer",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -2006,6 +2026,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9dba5ebaa9bfe3c09a65"
+  },
+  {
+    "title": "Set an expiration date for individual user budgets",
+    "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-01T20:23:13+00:00",
+    "fetched_at": "2026-09-01T20:45:24+00:00",
+    "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls… The post Set an expiration date for individual user budgets appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c81b0ff06cd7aa6357ff"
   },
   {
     "title": "Block users from discussion comments in personal repositories",
