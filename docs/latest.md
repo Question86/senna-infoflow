@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T07:23:43+00:00_
+_Generiert: 2026-09-01T07:34:14+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+38 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market** — Score 12, observation — [Quelle](https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-01T07:25:20+00:00`, fetched `2026-09-01T07:33:37+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: The global economic landscape faces numerous structural challenges. Apart from specialized sectors like education, finance, and government, most mainstream industries are experiencing significant headwinds. In corporate boardrooms across the region, “cost cutting” has transitioned from a seasonal strategy to a daily operating baseline. As a result, once deep-pocketed businesses are striving to find cheaper alternati…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Schools and universities face rising ransomware costs as attackers target identities** — Score 12, risk — [Quelle](https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-01T06:41:10+00:00`, fetched `2026-09-01T06:55:26+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
   - Kurz: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, government and LinkedIn data found 30 of 38 tracked […] The post India is showing the world what AI will do to jobs and education appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The AI marketing backlash story doesn’t actually fit Southeast Asia** — Score 10, observation — [Quelle](https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T01:00:44+00:00`, fetched `2026-09-01T01:03:47+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Every trend deck this year has the same slide: consumers are turning against AI-generated marketing, Coca-Cola’s AI holiday ad got mocked as “soulless,” 78 per cent of people say AI makes ads feel less authentic, and the smart move for 2026 is to hide the AI and put humans back in front of the camera. […] The post The AI marketing backlash story doesn’t actually fit Southeast Asia appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **majd/ipatool** — Score 8, observation — [Quelle](https://github.com/majd/ipatool)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
