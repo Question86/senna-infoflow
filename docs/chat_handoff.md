@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T19:58:14+00:00_
+_Generated: 2026-09-01T20:12:16+00:00_
 
 ## Status
 - status: `warning`
-- findings: `77`
+- findings: `79`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-01T19:58:14+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav
 - summary: PAGER - GREEN ShakeMap - VI Time 2026-09-01 08:22:20 UTC 2026-09-01 08:22:20 UTC at epicenter Location 0.169°N 128.805°E Depth 10.00 km (6.21 mi)
 
-### 5. Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record
+### 5. Path to Astra: critical capabilities and frontier safeguards
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-09-01T13:00:00+00:00`
+- url: https://openai.com/index/path-to-astra
+- summary: Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
+
+### 6. Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record
 - source: Federal Reserve Speeches and Testimony
 - score: `12`
 - published: `2026-09-01T13:05:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm
 - summary: Speech At the Second-Chance Lending Forum, Developing Evidence-Based Policy on Creditworthiness and Criminal History, Washington, D.C.
 
-### 6. The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market
+### 7. The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-01T07:25:20+00:00`
 - url: https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/
 - summary: The global economic landscape faces numerous structural challenges. Apart from specialized sectors like education, finance, and government, most mainstream industries are experiencing significant headwinds. In corporate boardrooms across the region, “cost cut…
 
-### 7. Schools and universities face rising ransomware costs as attackers target identities
+### 8. Schools and universities face rising ransomware costs as attackers target identities
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-01T06:41:10+00:00`
 - url: https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/
 - summary: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ra…
-
-### 8. Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-01T15:18:58+00:00`
-- url: https://www.m3tech.blog/entry/claude-budget-tags
-- summary: この記事は、Unit7 リサーチプロダクトチームのブログリレー7日目の記事です。 こんにちは、エムスリーエンジニアリンググループ/Unit7 リサーチプロダクトチームでチームリーダーをやっている遠藤です。 皆さん、トークン使い切ってますか？私は24時間トークンを使い切れる人間でありたいと思っています。 エムスリーエ...
 
 END OF DOCUMENT

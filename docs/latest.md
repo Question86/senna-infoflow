@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T19:58:14+00:00_
+_Generiert: 2026-09-01T20:12:16+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+79 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Path to Astra: critical capabilities and frontier safeguards** — Score 13, observation — [Quelle](https://openai.com/index/path-to-astra)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-01T13:00:00+00:00`, fetched `2026-09-01T20:11:36+00:00`
+  - Treffer: OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
+  - Kurz: Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-09-01T13:05:00+00:00`, fetched `2026-09-01T13:21:20+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
   - Kurz: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, government and LinkedIn data found 30 of 38 tracked […] The post India is showing the world what AI will do to jobs and education appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Advancing banking, governance and financial innovation in Malaysia and Asia** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20260901-advancing-banking-governance-and-financial-innovation-malaysia-and-asia)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:29:01+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Opening address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the inaugural AICB (Asian Institute of Chartered Bankers) Nexus Conference, Kuala Lumpur, 8 July 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
