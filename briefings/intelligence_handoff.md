@@ -1,12 +1,22 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-01T02:53:04Z_
+_Generated: 2026-09-01T03:03:51Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age of atoms” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### PALLET CONTROL製品におけるアクセス制御不備の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-01T12:00:00+09:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/jp/JVN84094853/
 
 ### Asia is building the network for the age of atoms
 
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `74.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `74.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 74.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T01:00:47+00:00` / age_days `0.08`
+- Published: `2026-09-01T01:00:47+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-01T00:56:42+00:00` / age_days `0.08`
+- Published: `2026-09-01T00:56:42+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-09-01T01:55:25+00:00` / age_days `0.04`
+- Published: `2026-09-01T01:55:25+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-09-01T01:00:44+00:00` / age_days `0.08`
+- Published: `2026-09-01T01:00:44+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: auth, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-01T01:30:06+00:00` / age_days `0.06`
+- Published: `2026-09-01T01:30:06+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-01T00:58:19+00:00` / age_days `0.08`
+- Published: `2026-09-01T00:58:19+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://www.digital.go.jp/policies/report-2026
-
-### 「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-09-01T00:57:10+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96
 
 END OF DOCUMENT

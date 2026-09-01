@@ -1,23 +1,47 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-01T02:53:04Z",
+  "generated_at": "2026-09-01T03:03:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 19,
+    "dynamics": 20,
     "bands": {
       "krass": 1,
-      "strong": 2,
+      "strong": 3,
       "watch": 2,
       "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 2,
       "quiet": 14
     }
   },
   "top_dynamics": [
+    {
+      "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN84094853/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-01T12:00:00+09:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。"
+    },
     {
       "title": "Asia is building the network for the age of atoms",
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
@@ -52,7 +76,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.04,
+      "age_days": 74.05,
       "topics": [
         "ai"
       ],
@@ -81,7 +105,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -133,7 +157,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:56:42+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -157,7 +181,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:55:25+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -207,7 +231,7 @@
       "url": "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:44+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -258,7 +282,7 @@
       "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -282,7 +306,7 @@
       "url": "https://www.digital.go.jp/policies/report-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:58:19+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -306,7 +330,7 @@
       "url": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:57:10+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -354,7 +378,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/news/2137041.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T22:46:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -403,7 +427,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 73.0,
+      "age_days": 73.01,
       "topics": [
         "general"
       ],
@@ -428,7 +452,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 73.0,
+      "age_days": 73.01,
       "topics": [
         "general"
       ],
@@ -453,7 +477,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 73.0,
+      "age_days": 73.01,
       "topics": [
         "ai"
       ],
@@ -480,7 +504,7 @@
       "url": "https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T22:57:16+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -501,5 +525,5 @@
       "summary": "あるWebサイトにアクセスするとSSLエラーになった DNSの応答がおかしい J:COMの応答 J:COM問い合わせ J:COMの権威ある回答 まとめ J:COM問い合わせ対応について J:COMに改善してほしいこと おわりに 関連情報 あるWebサイトにアクセスするとSSLエラーになった こんにちは。趣味でDNSを研究したりしている @debiru_R です..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age of atoms” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }

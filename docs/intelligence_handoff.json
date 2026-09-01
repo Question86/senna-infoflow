@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-01T02:53:04Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age of atoms” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-01T03:03:51Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -10,6 +10,30 @@
     "Security high-signal terms outrank AI hype when exposure could matter."
   ],
   "top_dynamics": [
+    {
+      "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN84094853/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-01T12:00:00+09:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。"
+    },
     {
       "title": "Asia is building the network for the age of atoms",
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
@@ -44,7 +68,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.04,
+      "age_days": 74.05,
       "topics": [
         "ai"
       ],
@@ -73,7 +97,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -125,7 +149,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:56:42+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -149,7 +173,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:55:25+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -199,7 +223,7 @@
       "url": "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:44+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -250,7 +274,7 @@
       "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -274,7 +298,7 @@
       "url": "https://www.digital.go.jp/policies/report-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:58:19+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -292,30 +316,6 @@
         "no strong comparative reason"
       ],
       "summary": "デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します"
-    },
-    {
-      "title": "「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました",
-      "url": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-01T00:57:10+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました"
     }
   ],
   "read_order": [
@@ -327,9 +327,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 2,
-      "quiet": 7
+      "quiet": 6
     }
   }
 }
