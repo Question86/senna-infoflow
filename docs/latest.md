@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T05:57:03+00:00_
+_Generiert: 2026-09-01T06:09:20+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+29 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -132,32 +132,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **松本大臣記者会見（令和8年9月1日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260901-01)
+- **令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-01T04:40:34+00:00`, fetched `2026-09-01T04:43:47+00:00`
+  - Zeit: published `2026-09-01T06:00:00+00:00`, fetched `2026-09-01T06:08:52+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年9月1日）動画を掲載しました
+  - Kurz: 令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/report-2026)
+- **令和8年（2026年）政策評価・行政事業レビューの「行政事業レビューシート」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-01T00:58:19+00:00`, fetched `2026-09-01T01:03:47+00:00`
+  - Zeit: published `2026-09-01T06:00:00+00:00`, fetched `2026-09-01T06:08:52+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します
+  - Kurz: 令和8年（2026年）政策評価・行政事業レビューの「行政事業レビューシート」を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96)
+- **ISMAPクラウドサービスリスト等を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-01T00:57:10+00:00`, fetched `2026-09-01T01:03:47+00:00`
+  - Zeit: published `2026-09-01T06:00:00+00:00`, fetched `2026-09-01T06:08:52+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました
+  - Kurz: ISMAPクラウドサービスリスト等を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2137155.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
