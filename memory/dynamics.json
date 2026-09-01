@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-01T07:47:01Z",
+  "generated_at": "2026-09-01T08:04:28Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:38:41+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -72,7 +72,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security",
@@ -101,7 +101,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:41:10+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -128,7 +128,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.24,
+      "age_days": 74.25,
       "topics": [
         "ai"
       ],
@@ -147,7 +147,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 74.2d old signal",
+        "aging penalty -8.0 for 74.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -157,7 +157,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -184,7 +184,7 @@
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:38:41+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -210,7 +210,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T05:26:29.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -234,7 +234,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tda7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T06:48:51.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -259,7 +259,7 @@
       "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:15:49+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -285,7 +285,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T01:44:48.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -310,7 +310,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T02:33:33+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -334,7 +334,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:56:42+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -358,7 +358,7 @@
       "url": "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T23:48:48+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -383,7 +383,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:55:25+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -409,7 +409,7 @@
       "url": "https://github.com/jingyaogong/minimind",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:38:41+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -434,7 +434,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdag",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T07:21:56.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "disaster"
@@ -462,7 +462,7 @@
       "url": "https://e27.co/the-end-of-southeast-asias-unified-startup-funding-story-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:01:34+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -489,7 +489,7 @@
       "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:00:26+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -513,7 +513,7 @@
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-31T07:00:00+00:00",
-      "age_days": 1.03,
+      "age_days": 1.04,
       "topics": [
         "ai"
       ],
@@ -538,7 +538,7 @@
       "url": "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:44+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -565,7 +565,7 @@
       "url": "https://e27.co/what-im-learning-about-the-second-wave-of-insurance-digital-transformation-in-indonesia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:30:28+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -589,7 +589,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T07:20:51.182+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "disaster"
@@ -616,7 +616,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T06:55:50.127+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "disaster"
@@ -643,7 +643,7 @@
       "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T06:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -667,7 +667,7 @@
       "url": "https://www.digital.go.jp/policies/assessment/project-review/2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T06:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -691,7 +691,7 @@
       "url": "https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T06:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -715,7 +715,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260901-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T04:40:34+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -739,7 +739,7 @@
       "url": "https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:33+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -763,7 +763,7 @@
       "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:06+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -787,7 +787,7 @@
       "url": "https://www.digital.go.jp/policies/report-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:58:19+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -811,7 +811,7 @@
       "url": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:57:10+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -835,7 +835,7 @@
       "url": "https://www.digital.go.jp/news/ccbda486-08ed-4c48-972e-6e779a67fa20",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:48:08+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -859,7 +859,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2137155.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T04:11:40+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -883,7 +883,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/news/2137041.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T22:46:32+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -907,7 +907,7 @@
       "url": "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T07:25:20+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -933,7 +933,7 @@
       "url": "https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:30:46+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -958,7 +958,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 73.21,
+      "age_days": 73.22,
       "topics": [
         "general"
       ],
@@ -983,7 +983,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 73.21,
+      "age_days": 73.22,
       "topics": [
         "general"
       ],
@@ -1008,7 +1008,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 73.21,
+      "age_days": 73.22,
       "topics": [
         "ai"
       ],
