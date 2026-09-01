@@ -1,20 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-01T10:03:23Z",
+  "generated_at": "2026-09-01T10:27:16Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
+      "extreme": 1,
       "krass": 3,
       "strong": 8,
-      "watch": 10,
-      "quiet": 19
+      "watch": 11,
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 10,
-      "quiet": 19
+      "strong": 12,
+      "watch": 11,
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -23,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -47,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3066",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:35+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -71,7 +72,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:38:41+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -92,11 +93,39 @@
       "summary": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. IPATool ipatool is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the App Store and download a copy of the app package, known as a…"
     },
     {
+      "title": "AI safety is designed in the West, and failing users everywhere",
+      "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-09-01T10:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most."
+    },
+    {
       "title": "Asia is building the network for the age of atoms",
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security",
@@ -125,7 +154,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -151,7 +180,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:41:10+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -178,7 +207,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.34,
+      "age_days": 74.35,
       "topics": [
         "ai"
       ],
@@ -197,7 +226,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 74.3d old signal",
+        "aging penalty -8.0 for 74.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -207,7 +236,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -234,7 +263,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:44:18.898+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -260,7 +289,7 @@
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:38:41+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -286,7 +315,7 @@
       "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "infra",
         "macro"
@@ -307,11 +336,35 @@
       "summary": "Keynote address by Mr Rashad Cassim, Deputy Governor of the South African Reserve Bank, at the London Stock Exchange Group (LSEG) Insight Series event, Johannesburg, 24 June 2026."
     },
     {
+      "title": "PV-Wechselrichter: Hoymiles liefert Sicherheitsupdate aus",
+      "url": "https://www.heise.de/news/PV-Wechselrichter-Hoymiles-liefert-Sicherheitsupdate-aus-11436579.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-01T09:54:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Hoymiles hatte seine DTU-Funkprotokolle nicht gesichert, was fremden Zugriff ermöglicht. Nun stehen Firmware-Updates bereit."
+    },
+    {
       "title": "M 4.6 - 201 km SW of Fakfak, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T05:26:29.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -335,7 +388,7 @@
       "url": "https://www.bis.org/speeches/20260901-advancing-banking-governance-and-financial-innovation-malaysia-and-asia",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -362,7 +415,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tda7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T06:48:51.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -387,7 +440,7 @@
       "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:15:49+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -413,7 +466,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T01:44:48.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -438,7 +491,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T02:33:33+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -462,7 +515,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T00:56:42+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -486,7 +539,7 @@
       "url": "https://www.bis.org/speeches/20260901-policy-rate-kept-unchanged-meeting",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -511,7 +564,7 @@
       "url": "https://www.bis.org/speeches/20260901-closing-remarks-conference-spanish-economy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -538,7 +591,7 @@
       "url": "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T23:48:48+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -563,7 +616,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:55:25+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -589,7 +642,7 @@
       "url": "https://github.com/jingyaogong/minimind",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:38:41+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -614,7 +667,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdag",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T07:21:56.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "disaster"
@@ -642,7 +695,7 @@
       "url": "https://e27.co/the-end-of-southeast-asias-unified-startup-funding-story-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:01:34+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -669,7 +722,7 @@
       "url": "https://www.bis.org/speeches/20260901-restrictive-stance-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -693,7 +746,7 @@
       "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:00:26+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -717,7 +770,7 @@
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-31T07:00:00+00:00",
-      "age_days": 1.13,
+      "age_days": 1.14,
       "topics": [
         "ai"
       ],
@@ -742,7 +795,7 @@
       "url": "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:44+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -769,7 +822,7 @@
       "url": "https://e27.co/what-im-learning-about-the-second-wave-of-insurance-digital-transformation-in-indonesia-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:30:28+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -793,7 +846,7 @@
       "url": "https://e27.co/singapore-now-captures-78-per-cent-of-seas-startup-funding-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T08:58:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -818,7 +871,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdal",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:08:39.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "disaster"
@@ -845,7 +898,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T07:20:51.182+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "disaster"
@@ -872,7 +925,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T06:55:50.127+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "disaster"
@@ -899,7 +952,7 @@
       "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -923,7 +976,7 @@
       "url": "https://www.digital.go.jp/policies/assessment/project-review/2026",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -947,7 +1000,7 @@
       "url": "https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -971,7 +1024,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260901-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-01T04:40:34+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -989,54 +1042,6 @@
         "no strong comparative reason"
       ],
       "summary": "松本大臣記者会見（令和8年9月1日）動画を掲載しました"
-    },
-    {
-      "title": "“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash",
-      "url": "https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T01:30:33+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Two years ago, Chocolate Finance built its name on a simple pitch to Singapore consumers: park your spare cash with us instead of a savings account, and we’ll try to get you a better return. It worked well enough that the fintech now manages roughly US$1.3 billion in assets across more than 150,000 customers. Now […]…"
-    },
-    {
-      "title": "Southeast Asia’s quiet FDI manufacturing redistribution",
-      "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T01:30:06+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "A few years ago, I sat with a Miami-based company that was choosing markets to run part of its expansion, potentially including production of their technology products. On paper, several locations offered comparable incentives, though what tipped the decision for the chosen country at that time, the UAE, was culture:…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
