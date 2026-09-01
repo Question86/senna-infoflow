@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-01T05:41:09+00:00",
+  "generated_at": "2026-09-01T05:51:40+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-01T01:00:47+00:00",
         "relevance_score": 21,
         "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/"
+      },
+      {
+        "title": "「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T23:48:48+00:00",
+        "relevance_score": 20,
+        "url": "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/"
       },
       {
         "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",

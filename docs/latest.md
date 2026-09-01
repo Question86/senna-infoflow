@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T05:41:09+00:00_
+_Generiert: 2026-09-01T05:51:40+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+25 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side to the story. Raising venture capital in Southeast Asia […] The post How to pitch Southeast Asia’s…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan** — Score 20, observation — [Quelle](https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-31T23:48:48+00:00`, fetched `2026-09-01T05:51:03+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ChatGPTが出力したメッセージを、そのまま送り続ける同僚はいないだろうか？ その人は「ミート・プロキシ」かもしれない。Kilito Chan/Getty Images 「ミート・プロキシ」とは、ClaudeやChatGPTの出力を吟味せず、そのまま送る人のことを指す。この言葉を広めたのはドイツのソフトウェアエンジニア、ニクラス・グルーン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?** — Score 19, observation — [Quelle](https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -180,4 +189,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `ecb_press_policy` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/press.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
