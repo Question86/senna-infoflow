@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-01T01:08:38Z_
+_Generated: 2026-09-01T01:40:54Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `73.97`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `73.99`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 74.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T01:00:47+00:00` / age_days `0.01`
+- Published: `2026-09-01T01:00:47+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-01T00:56:42+00:00` / age_days `0.01`
+- Published: `2026-09-01T00:56:42+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -42,17 +42,37 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-09-01T01:00:44+00:00` / age_days `0.01`
+- Published: `2026-09-01T01:00:44+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: auth, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/
 
+### “Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-09-01T01:30:33+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/
+
+### Southeast Asia’s quiet FDI manufacturing redistribution
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-09-01T01:30:06+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/
+
 ### デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-01T00:58:19+00:00` / age_days `0.01`
+- Published: `2026-09-01T00:58:19+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-01T00:57:10+00:00` / age_days `0.01`
+- Published: `2026-09-01T00:57:10+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-01T00:48:08+00:00` / age_days `0.01`
+- Published: `2026-09-01T00:48:08+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -82,50 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-31T22:46:32+00:00` / age_days `0.1`
+- Published: `2026-08-31T22:46:32+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://internet.watch.impress.co.jp/docs/news/2137041.html
 
+### India is showing the world what AI will do to jobs and education
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `2.0`
+- Published: `2026-09-01T01:30:46+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/
+
 ### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `72.93`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `72.95`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 72.9d old signal
+- Warum: momentum delta +1, aging penalty -16.0 for 73.0d old signal
 - Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
-
-### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `72.93`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 72.9d old signal
-- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
-
-### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `72.93`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 72.9d old signal, single-source AI cap enforced after phrase recheck
-- Quelle: https://toyokeizai.net/articles/-/948348?display=b
-
-### J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-08-31T22:57:16+00:00` / age_days `0.09`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking
 
 END OF DOCUMENT
