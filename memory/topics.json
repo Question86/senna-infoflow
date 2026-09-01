@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-01T13:45:42+00:00",
+  "generated_at": "2026-09-01T13:51:22+00:00",
   "topics": {
     "ai": [
       {
@@ -126,25 +126,25 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf"
       },
       {
+        "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (21 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-21T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1069/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans le noyau Linux de Debian (21 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-21T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1068/"
+      },
+      {
         "title": "東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-01T02:33:33+00:00",
         "relevance_score": 10,
         "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/"
-      },
-      {
-        "title": "M 4.5 - 13 km NNW of Yasuj, Iran",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-01T06:48:51.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tda7"
-      },
-      {
-        "title": "M 4.8 - 292 km WNW of Houma, Tonga",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-01T01:44:48.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u"
       }
     ],
     "economy": [
