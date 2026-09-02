@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T13:06:05+00:00",
-  "run_id": "2026-09-02T13:06:05+00:00",
+  "generated_at": "2026-09-02T13:23:39+00:00",
+  "run_id": "2026-09-02T13:23:39+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 1,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
-    "medium": 33,
+    "medium": 34,
     "observe": 38,
     "source_errors": 1
   },
@@ -436,6 +436,28 @@
           "PINS"
         ],
         "id": "bf9b4638156499d8cf56"
+      },
+      {
+        "title": "ServiceNow AI Platform: Angreifer können aus Sandbox ausbrechen",
+        "url": "https://www.heise.de/news/ServiceNow-AI-Platform-Angreifer-koennen-aus-Sandbox-ausbrechen-11438540.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-02T13:17:00.000+00:00",
+        "fetched_at": "2026-09-02T13:23:04+00:00",
+        "summary": "Die Software zum Automatisieren und Optimieren von Geschäftsprozessen ServiceNow AI Platform ist verwundbar.",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "839c654ccdcc4e16d938"
       },
       {
         "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
@@ -2326,6 +2348,28 @@
       "id": "bf9b4638156499d8cf56"
     },
     {
+      "title": "ServiceNow AI Platform: Angreifer können aus Sandbox ausbrechen",
+      "url": "https://www.heise.de/news/ServiceNow-AI-Platform-Angreifer-koennen-aus-Sandbox-ausbrechen-11438540.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-02T13:17:00.000+00:00",
+      "fetched_at": "2026-09-02T13:23:04+00:00",
+      "summary": "Die Software zum Automatisieren und Optimieren von Geschäftsprozessen ServiceNow AI Platform ist verwundbar.",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "839c654ccdcc4e16d938"
+    },
+    {
       "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
@@ -3801,7 +3845,30 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ServiceNow AI Platform: Angreifer können aus Sandbox ausbrechen",
+      "url": "https://www.heise.de/news/ServiceNow-AI-Platform-Angreifer-koennen-aus-Sandbox-ausbrechen-11438540.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-02T13:17:00.000+00:00",
+      "fetched_at": "2026-09-02T13:23:04+00:00",
+      "summary": "Die Software zum Automatisieren und Optimieren von Geschäftsprozessen ServiceNow AI Platform ist verwundbar.",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "839c654ccdcc4e16d938"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
