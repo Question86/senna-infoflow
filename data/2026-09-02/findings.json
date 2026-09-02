@@ -178,6 +178,28 @@
     "id": "bf9b4638156499d8cf56"
   },
   {
+    "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU98062224/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-02T13:00:00+09:00",
+    "fetched_at": "2026-09-02T04:02:12+00:00",
+    "summary": "株式会社キーエンスが提供するXG VisionTerminalおよびXG-X VisionTerminalには、におけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "81f649e19e13ff736f2d"
+  },
+  {
     "title": "ShizenBox2における複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN91715694/",
     "source": "JVN Japan Vulnerability Notes",
