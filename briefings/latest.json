@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T08:52:13+00:00",
-  "run_id": "2026-09-02T08:52:13+00:00",
+  "generated_at": "2026-09-02T08:57:38+00:00",
+  "run_id": "2026-09-02T08:57:38+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
     "medium": 13,
     "observe": 27,
-    "source_errors": 1
+    "source_errors": 3
   },
   "sections": {
     "high": [],
@@ -2243,30 +2243,20 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIがコードを書く時代に、開発者は何を学ぶべきなのか。AWS認定デベロッパーの対策本を書きました - プログラマでありたい",
-      "url": "https://blog.takuros.net/entry/2026/08/31/150628",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T16:47:20+00:00",
-      "fetched_at": "2026-09-02T08:51:45+00:00",
-      "summary": "AWS認定デベロッパーの対策本を書きました。発売日は8月28日なので、もう既に書店にも並び始めています。 そしてこちらの写真は、ジュンク堂書店 池袋本店に書かせて頂いたポップです。 AI時代にこそ基礎を 一生使える考え方を 書きました！！ ※下手くそな字で申し訳ありません たった3行ですが、この本の執筆を通じて...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b48a55dbe8e2bf4edc4c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
+    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
