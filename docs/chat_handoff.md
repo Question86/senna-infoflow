@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T12:32:07+00:00_
+_Generated: 2026-09-02T12:49:09+00:00_
 
 ## Status
 - status: `warning`
-- findings: `63`
+- findings: `69`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-02T12:32:07+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html
 - summary: Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 8. M 4.9 - 98 km SSW of Nikolski, Alaska
+### 8. M 5.2 - 78 km SSW of Nikolski, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-09-02T05:44:26.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdim
-- summary: ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.107°N 169.369°W Depth 38.52 km (23.93 mi)
+- published: `2026-09-02T12:48:57.787+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmm
+- summary: ShakeMap - III Time 2026-09-02 12:32:01 UTC 2026-09-02 12:32:01 UTC at epicenter Location 52.354°N 169.499°W Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT
