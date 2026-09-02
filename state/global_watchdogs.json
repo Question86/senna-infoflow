@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:32:58+00:00",
+  "generated_at": "2026-09-02T13:42:07+00:00",
   "sections": {
     "global_security": [
       {
@@ -141,21 +141,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562739",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.9 - southern East Pacific Rise",
-        "summary": "M5.9 - southern East Pacific Rise. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms",
-        "published_at": "2026-09-02T12:35:56+00:00",
-        "metrics": {
-          "mag": 5.9,
-          "alert": "green",
-          "sig": 536.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

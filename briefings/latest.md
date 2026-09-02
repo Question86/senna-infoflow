@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T13:32:55+00:00_
+_Generiert: 2026-09-02T13:42:03+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+73 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-09-02T13:32:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.
-- **USGS earthquake M5.9 - southern East Pacific Rise** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms)
-  - Quelle: USGS
-  - Zeit: `2026-09-02T12:35:56+00:00`
-  - Kurz: M5.9 - southern East Pacific Rise. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
