@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T04:59:19+00:00_
+_Generiert: 2026-09-02T05:17:15+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+21 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next** — Score 16, observation — [Quelle](https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-02T05:00:58+00:00`, fetched `2026-09-02T05:16:44+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: On 31 August, the European Commission did something no regulator had done before: it looked at a generative AI chatbot and decided it was, legally speaking, a search engine. ChatGPT was designated a “Very Large Online Search Engine” under the EU’s Digital Services Act (DSA), placing OpenAI’s flagship product in the same supervisory tier as […] The post The EU called ChatGPT a search engine. SEA’s AI startups should…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How law firm Gilbert + Tobin governs and scales AI with OpenAI** — Score 15, observation — [Quelle](https://openai.com/index/gilbert-tobin)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-01T01:00:00+00:00`, fetched `2026-09-02T01:12:41+00:00`
@@ -132,15 +141,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure** — Score 14, observation — [Quelle](https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-02T04:28:15+00:00`, fetched `2026-09-02T04:38:02+00:00`
-  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Southeast Asia’s venture capital market is no longer in freefall. But calling it a recovery would miss the more important story. The region’s startup funding landscape in 2025 has split into two very different markets, according to the “Southeast Asia Startup Funding Report for 2025” by DealStreetAsia and Kickstart Ventures. At the top end, mature […] The post Late-stage deals revive in Southeast Asia, but early-sta…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

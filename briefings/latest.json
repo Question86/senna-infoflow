@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T04:59:19+00:00",
-  "run_id": "2026-09-02T04:59:19+00:00",
+  "generated_at": "2026-09-02T05:17:15+00:00",
+  "run_id": "2026-09-02T05:17:15+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 10,
+    "medium": 11,
     "observe": 10,
     "source_errors": 1
   },
@@ -161,6 +161,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "881a34c983929e6b2855"
+      },
+      {
+        "title": "The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next",
+        "url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-02T05:00:58+00:00",
+        "fetched_at": "2026-09-02T05:16:44+00:00",
+        "summary": "On 31 August, the European Commission did something no regulator had done before: it looked at a generative AI chatbot and decided it was, legally speaking, a search engine. ChatGPT was designated a “Very Large Online Search Engine” under the EU’s Digital Services Act (DSA), placing OpenAI’s flagship product in the same supervisory tier as […] The post The EU called ChatGPT a search engine. SEA’s AI startups should…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d0a070b0a38832a6e76b"
       },
       {
         "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
@@ -710,6 +732,28 @@
       "id": "881a34c983929e6b2855"
     },
     {
+      "title": "The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next",
+      "url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T05:00:58+00:00",
+      "fetched_at": "2026-09-02T05:16:44+00:00",
+      "summary": "On 31 August, the European Commission did something no regulator had done before: it looked at a generative AI chatbot and decided it was, legally speaking, a search engine. ChatGPT was designated a “Very Large Online Search Engine” under the EU’s Digital Services Act (DSA), placing OpenAI’s flagship product in the same supervisory tier as […] The post The EU called ChatGPT a search engine. SEA’s AI startups should…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d0a070b0a38832a6e76b"
+    },
+    {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "url": "https://openai.com/index/gilbert-tobin",
       "source": "OpenAI News RSS",
@@ -1119,7 +1163,30 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next",
+      "url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T05:00:58+00:00",
+      "fetched_at": "2026-09-02T05:16:44+00:00",
+      "summary": "On 31 August, the European Commission did something no regulator had done before: it looked at a generative AI chatbot and decided it was, legally speaking, a search engine. ChatGPT was designated a “Very Large Online Search Engine” under the EU’s Digital Services Act (DSA), placing OpenAI’s flagship product in the same supervisory tier as […] The post The EU called ChatGPT a search engine. SEA’s AI startups should…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d0a070b0a38832a6e76b"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
