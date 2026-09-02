@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T13:23:39+00:00_
+_Generiert: 2026-09-02T13:32:55+00:00_
 
 ## Kurzlage
 
@@ -65,10 +65,6 @@ _Generiert: 2026-09-02T13:23:39+00:00_
   - Quelle: USGS
   - Zeit: `2026-09-02T12:35:56+00:00`
   - Kurz: M5.9 - southern East Pacific Rise. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M5.6 - 71 km WSW of Puerto Madero, Mexico** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp)
-  - Quelle: USGS
-  - Zeit: `2026-09-02T12:28:31+00:00`
-  - Kurz: M5.6 - 71 km WSW of Puerto Madero, Mexico. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

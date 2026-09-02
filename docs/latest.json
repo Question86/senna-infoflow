@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T13:23:39+00:00",
-  "run_id": "2026-09-02T13:23:39+00:00",
+  "generated_at": "2026-09-02T13:32:55+00:00",
+  "run_id": "2026-09-02T13:32:55+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 72,
     "displayed_findings": 72,
     "high": 0,
@@ -3845,30 +3845,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ServiceNow AI Platform: Angreifer können aus Sandbox ausbrechen",
-      "url": "https://www.heise.de/news/ServiceNow-AI-Platform-Angreifer-koennen-aus-Sandbox-ausbrechen-11438540.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-02T13:17:00.000+00:00",
-      "fetched_at": "2026-09-02T13:23:04+00:00",
-      "summary": "Die Software zum Automatisieren und Optimieren von Geschäftsprozessen ServiceNow AI Platform ist verwundbar.",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "839c654ccdcc4e16d938"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",

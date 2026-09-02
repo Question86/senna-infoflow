@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:23:43+00:00",
+  "generated_at": "2026-09-02T13:32:58+00:00",
   "sections": {
     "global_security": [
       {
@@ -154,21 +154,6 @@
           "mag": 5.9,
           "alert": "green",
           "sig": 536.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - 71 km WSW of Puerto Madero, Mexico",
-        "summary": "M5.6 - 71 km WSW of Puerto Madero, Mexico. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp",
-        "published_at": "2026-09-02T12:28:31+00:00",
-        "metrics": {
-          "mag": 5.6,
-          "alert": "green",
-          "sig": 482.0,
           "tsunami": 0
         }
       }
