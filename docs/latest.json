@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:10:46+00:00",
-  "run_id": "2026-09-02T09:10:46+00:00",
+  "generated_at": "2026-09-02T09:26:59+00:00",
+  "run_id": "2026-09-02T09:26:59+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 41,
     "displayed_findings": 41,
     "high": 0,
@@ -2285,29 +2285,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2137283.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-02T07:03:31+00:00",
-      "fetched_at": "2026-09-02T09:10:09+00:00",
-      "summary": "無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4b6a2014080543d5a64f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
