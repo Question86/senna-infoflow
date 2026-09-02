@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T21:45:45+00:00",
-  "run_id": "2026-09-02T21:45:45+00:00",
+  "generated_at": "2026-09-02T21:51:26+00:00",
+  "run_id": "2026-09-02T21:51:26+00:00",
   "date": "2026-09-02",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 93
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 93,
     "displayed_findings": 93,
     "high": 0,
     "medium": 35,
     "observe": 58,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -4809,30 +4809,15 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Content exclusions generally available in Copilot app and CLI",
-      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "source": "GitHub Changelog Atom",
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
       "source_type": "rss",
-      "published_at": "2026-09-02T18:14:23+00:00",
-      "fetched_at": "2026-09-02T21:45:16+00:00",
-      "summary": "The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators. Copilot won’t use excluded files as context, helping you protect sensitive… The post Content exclusions generally available in Copilot app and CLI appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "738fb293e0536f2fee93"
+      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
