@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T22:59:43+00:00_
+_Generated: 2026-09-02T23:15:52+00:00_
 
 ## Status
 - status: `warning`
-- findings: `94`
+- findings: `95`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-02T22:59:43+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg
 - summary: PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)
 
-### 7. Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-09-02T12:00:00+00:00`
+- url: https://openai.com/index/atv-big-air-tour
+- summary: ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
+
+### 8. Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-02T08:15:18+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html
 - summary: Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 8. Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!
-- source: GitHub Blog Atom
-- score: `11`
-- published: `2026-09-02T21:00:00+00:00`
-- url: https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/
-- summary: From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub B…
 
 END OF DOCUMENT
