@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T20:56:29+00:00_
+_Generated: 2026-09-02T21:04:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `90`
+- findings: `91`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-02T20:56:29+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html
 - summary: Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 8. M 5.2 - 78 km SSW of Nikolski, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!
+- source: GitHub Blog Atom
 - score: `11`
-- published: `2026-09-02T12:48:57.787+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmm
-- summary: ShakeMap - III Time 2026-09-02 12:32:01 UTC 2026-09-02 12:32:01 UTC at epicenter Location 52.354°N 169.499°W Depth 35.00 km (21.75 mi)
+- published: `2026-09-02T21:00:00+00:00`
+- url: https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/
+- summary: From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub B…
 
 END OF DOCUMENT
