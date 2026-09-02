@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-02T04:27:09+00:00",
+  "generated_at": "2026-09-02T04:38:39+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-01T01:00:00+00:00",
         "relevance_score": 15,
         "url": "https://openai.com/index/gilbert-tobin"
+      },
+      {
+        "title": "Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-02T04:28:15+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/"
       },
       {
         "title": "I stopped hiring. I’m not sure it’s a strategy yet",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-01T04:37:50+00:00",
         "relevance_score": 5,
         "url": "https://kai-you.net/article/96416"
-      },
-      {
-        "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-02T03:00:03+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/"
       }
     ],
     "general": [
@@ -119,6 +119,13 @@
         "published_at": "2026-09-02T03:10:10+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/"
+      },
+      {
+        "title": "Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-02T04:28:15+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/"
       },
       {
         "title": "I stopped hiring. I’m not sure it’s a strategy yet",
@@ -173,6 +180,13 @@
       }
     ],
     "github": [
+      {
+        "title": "Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-02T04:28:15+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/"
+      },
       {
         "title": "I stopped hiring. I’m not sure it’s a strategy yet",
         "source": "e27 Asia Startup and Tech Feed",

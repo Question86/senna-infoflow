@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T04:27:09+00:00_
+_Generiert: 2026-09-02T04:38:39+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+20 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -75,14 +75,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **I stopped hiring. I’m not sure it’s a strategy yet** — Score 14, observation — [Quelle](https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/)
+- **Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure** — Score 14, observation — [Quelle](https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-02T02:30:50+00:00`, fetched `2026-09-02T02:42:44+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
-  - Kurz: I haven’t hired a full-time employee in two years. I still bring on freelancers now and then, but the roles I used to fill with interns, fresh grads, or junior freelancers, research, drafting, first-pass editing, basic reporting, have quietly disappeared. AI does them at a fraction of the cost and none of the coordination overhead. […] The post I stopped hiring. I’m not sure it’s a strategy yet appeared first on e27…
+  - Zeit: published `2026-09-02T04:28:15+00:00`, fetched `2026-09-02T04:38:02+00:00`
+  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia’s venture capital market is no longer in freefall. But calling it a recovery would miss the more important story. The region’s startup funding landscape in 2025 has split into two very different markets, according to the “Southeast Asia Startup Funding Report for 2025” by DealStreetAsia and Kickstart Ventures. At the top end, mature […] The post Late-stage deals revive in Southeast Asia, but early-sta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
