@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-02T05:39:07Z",
+  "generated_at": "2026-09-02T05:47:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -81,6 +81,32 @@
         "security high-signal: jvn, security"
       ],
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "[UPDATE] [hoch] Oracle Virtualization: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-02T05:31:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Virtualization ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
@@ -112,7 +138,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 75.15,
+      "age_days": 75.16,
       "topics": [
         "ai"
       ],
@@ -137,11 +163,38 @@
       "summary": ""
     },
     {
+      "title": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-02T05:42:41+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: rce, code, auth",
+        "security high-signal: rce, code, auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "runs anywhere. uses anything https://openclaude.gitlawb.com OpenClaude is an open-source coding-agent CLI for cloud and local model providers. Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported backends while keeping one terminal-first workflow: prompts, too…"
+    },
+    {
       "title": "The MMM barrier didn’t disappear. It moved",
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "infra",
@@ -169,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T00:30:22.495+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -193,7 +246,7 @@
       "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:00:03+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -219,7 +272,7 @@
       "url": "https://togetter.com/li/2740272",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T02:46:49+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -264,60 +317,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-base…"
-    },
-    {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-09-01T01:00:00+00:00",
-      "age_days": 1.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
-    },
-    {
-      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbrtv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-02T05:29:36.649+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.150°N 169.309°W Depth 19.00 km (11.81 mi)"
     }
   ],
   "read_order": [
@@ -329,9 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 3,
-      "quiet": 1
+      "strong": 10,
+      "watch": 2
     }
   }
 }

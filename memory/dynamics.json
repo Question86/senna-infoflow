@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-02T05:39:07Z",
+  "generated_at": "2026-09-02T05:47:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 33,
     "bands": {
-      "krass": 1,
-      "strong": 7,
-      "watch": 3,
-      "quiet": 17
-    },
-    "bands_after_gate_recheck": {
+      "krass": 2,
       "strong": 8,
       "watch": 3,
-      "quiet": 17
+      "quiet": 20
+    },
+    "bands_after_gate_recheck": {
+      "strong": 10,
+      "watch": 3,
+      "quiet": 20
     }
   },
   "top_dynamics": [
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -89,6 +89,32 @@
         "security high-signal: jvn, security"
       ],
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "[UPDATE] [hoch] Oracle Virtualization: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-02T05:31:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Virtualization ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
@@ -120,7 +146,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 75.15,
+      "age_days": 75.16,
       "topics": [
         "ai"
       ],
@@ -145,11 +171,38 @@
       "summary": ""
     },
     {
+      "title": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-02T05:42:41+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: rce, code, auth",
+        "security high-signal: rce, code, auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "runs anywhere. uses anything https://openclaude.gitlawb.com OpenClaude is an open-source coding-agent CLI for cloud and local model providers. Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported backends while keeping one terminal-first workflow: prompts, too…"
+    },
+    {
       "title": "The MMM barrier didn’t disappear. It moved",
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "infra",
@@ -177,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T00:30:22.495+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -201,7 +254,7 @@
       "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:00:03+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -227,7 +280,7 @@
       "url": "https://togetter.com/li/2740272",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T02:46:49+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -278,7 +331,7 @@
       "url": "https://openai.com/index/gilbert-tobin",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-01T01:00:00+00:00",
-      "age_days": 1.19,
+      "age_days": 1.2,
       "topics": [
         "ai"
       ],
@@ -328,11 +381,40 @@
       "summary": "ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.150°N 169.309°W Depth 19.00 km (11.81 mi)"
     },
     {
+      "title": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-02T05:42:41+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: pipeline",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Academic Research Skills for Claude Code: research → write → review → revise → finalize https://buymeacoffee.com/crucify020v Academic Research Skills for Claude Code 简体中文版 | 繁體中文版 | 日本語版 | 한국어 A comprehensive suite of Claude Code skills for academic research, covering the full pipeline from research to publication. In…"
+    },
+    {
       "title": "増田が1000万インプレッションを超える時代",
       "url": "https://anond.hatelabo.jp/20260901224029",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T13:44:33+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -381,7 +463,7 @@
       "url": "https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T04:24:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -434,7 +516,7 @@
       "url": "https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:30:50+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -454,6 +536,33 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "I haven’t hired a full-time employee in two years. I still bring on freelancers now and then, but the roles I used to fill with interns, fresh grads, or junior freelancers, research, drafting, first-pass editing, basic reporting, have quietly disappeared. AI does them at a fraction of the cost and none of the coordina…"
+    },
+    {
+      "title": "M 5.2 - 95 km SSW of Nikolski, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-02T05:40:09.898+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ShakeMap - III Time 2026-09-02 05:14:00 UTC 2026-09-02 05:14:00 UTC at epicenter Location 52.119°N 169.295°W Depth 35.00 km (21.75 mi)"
     },
     {
       "title": "M 5.1 - 91 km SSW of Nikolski, Alaska",
@@ -487,7 +596,7 @@
       "url": "https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:00:20+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -539,7 +648,7 @@
       "url": "https://blog.tinect.jp/?p=91463",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T23:32:59+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -563,7 +672,7 @@
       "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T16:36:40+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -587,7 +696,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbwrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T05:24:47.586+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "disaster"
@@ -608,6 +717,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Time 2026-09-02 05:16:05 UTC 2026-09-02 05:16:05 UTC at epicenter Location 52.218°N 169.316°W Depth 18.80 km (11.68 mi)"
+    },
+    {
+      "title": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-02T05:42:41+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, auth",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Animation engine for explanatory math videos Manim is an engine for precise programmatic animations, designed for creating explanatory math videos. Note, there are two versions of manim. This repository began as a personal project by the author of 3Blue1Brown for the purpose of animating those videos, with video-speci…"
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
@@ -691,7 +826,7 @@
       "url": "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T01:00:52+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -716,7 +851,7 @@
       "url": "https://kai-you.net/article/96416",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T04:37:50+00:00",
-      "age_days": 1.04,
+      "age_days": 1.05,
       "topics": [
         "ai"
       ],
