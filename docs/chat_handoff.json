@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-02T10:58:00+00:00",
+  "generated_at": "2026-09-02T11:10:18+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 4,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 24,
+    "medium": 28,
     "observe": 31
   },
-  "source_errors_count": 2,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=43.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:09+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in Rockwell Automation FactoryTalk ausnutzen, um beliebigen Programmcode auszuführen, Administratorrechte zu erlangen oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[NEU] [mittel] Rockwell Automation ControlLogix 5580, CompactLogix 5380, und CompactLogix 5480: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3142",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:08+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 38.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Rockwell Automation ControlLogix und Rockwell Automation CompactLogix ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[NEU] [kritisch] Proxmox Virtual Environment: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3144",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:09+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch",
-          "security high-signal: kritisch"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Proxmox Virtual Environment ausnutzen, um Administratorrechte zu erlangen."
-      },
-      {
-        "title": "[NEU] [hoch] Kibana: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3145",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:09+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Kibana ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[NEU] [hoch] Aruba ArubaOS-CX: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3140",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:07+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, root",
-          "security high-signal: code, root"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Aruba ArubaOS-CX ausnutzen, um beliebigen Code mit erhöhten/Root-Rechten auszuführen, Sicherheitsmaßnahmen zu umgehen, erhöhte Rechte – einschließlich Administratorzugriff – zu erlangen, Daten offenzulegen oder zu manipulieren, Cross-Site-Scripting durchzuführen oder Denial…"
-      }
-    ]
-  }
+  ]
 }
