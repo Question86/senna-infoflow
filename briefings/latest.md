@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T08:57:38+00:00_
+_Generiert: 2026-09-02T09:10:46+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+41 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -279,6 +279,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度 一般職（高卒者）官庁訪問の情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2137283.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-02T07:03:31+00:00`, fetched `2026-09-02T09:10:09+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **楽天にGMO……防衛産業に近づく民間IT企業 反発の声も** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/02/2000001041/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-02T03:47:04+00:00`, fetched `2026-09-02T08:44:19+00:00`
@@ -287,15 +296,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIやドローンを中心とした防衛関連産業の加速に伴い、同様の事業への関与を強める企業が増えている。例えば楽天グループは8月、ドイツの防衛系スタートアップと提携し、迎撃型ドローンの導入支援を手掛けると発表。GMOインターネットグループが9月15日に開催するイベントには、米防衛ソフトウェア企業Palantirがビデオメ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91463)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-01T23:32:59+00:00`, fetched `2026-09-02T01:12:41+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: おれのブログが引用されました 上田信治さんという方からメールが届いた。著書におれのブログからの引用をしたので、ご恵贈いただけるという話だった。 引用に許可もなにもいらないのでありがたい話だと思った。そしておれの手元に『成分表: 偽マキロン・悲しみについて』が届いた。 申し訳ないが、おれは上田信治さんの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -309,6 +309,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
