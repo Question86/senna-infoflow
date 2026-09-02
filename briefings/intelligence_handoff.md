@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-02T09:37:50Z_
+_Generated: 2026-09-02T09:46:54Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-02T13:00:00+09:00` / age_days `0.23`
+- Published: `2026-09-02T13:00:00+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-02T10:15:00+09:00` / age_days `0.35`
+- Published: `2026-09-02T10:15:00+09:00` / age_days `0.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-02T05:31:06+00:00` / age_days `0.17`
+- Published: `2026-09-02T05:31:06+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-02T09:00:00+09:00` / age_days `0.4`
+- Published: `2026-09-02T09:00:00+09:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `75.32`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `75.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 75.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-02T05:42:41+00:00` / age_days `0.16`
+- Published: `2026-09-02T05:42:41+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, code, auth, security high-signal: rce, code, auth, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-02T03:10:10+00:00` / age_days `0.27`
+- Published: `2026-09-02T03:10:10+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, exchange, security high-signal: rce, exchange, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-02T00:30:22.495+00:00` / age_days `0.38`
+- Published: `2026-09-02T00:30:22.495+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-02T07:24:38.686+00:00` / age_days `0.09`
+- Published: `2026-09-02T07:24:38.686+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
