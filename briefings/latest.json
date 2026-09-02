@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T13:47:20+00:00",
-  "run_id": "2026-09-02T13:47:20+00:00",
+  "generated_at": "2026-09-02T13:52:54+00:00",
+  "run_id": "2026-09-02T13:52:54+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 34,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 1
   },
   "sections": {
@@ -1205,6 +1205,28 @@
           "LOW"
         ],
         "id": "c10c93fc9ccbbaa50afe"
+      },
+      {
+        "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
+        "url": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-02T02:47:58+00:00",
+        "fetched_at": "2026-09-02T13:52:19+00:00",
+        "summary": "Anthropic が公式で出している無料のClaude Codeの講座をちょこちょこ受けてみました。 そこで出てきたのが「4つのD」という考え方です。 「4Dフレームワーク」とも言われています。 最初は「また思考のフレーミングの話か」とげんなりしました。 DだのEだのCだの、頭文字を並べただけの話は、だいたい中身が薄いからで...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "72acfee25125b8fe3573"
       },
       {
         "title": "「面白い着眼点」上達したいプレイヤーと、楽しみたいプレイヤーがなぜぶつかってしまうのかを指摘した投稿が注目を集める、「楽しんでいる時間軸が異なる」",
@@ -3136,6 +3158,28 @@
       "id": "c10c93fc9ccbbaa50afe"
     },
     {
+      "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
+      "url": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-02T02:47:58+00:00",
+      "fetched_at": "2026-09-02T13:52:19+00:00",
+      "summary": "Anthropic が公式で出している無料のClaude Codeの講座をちょこちょこ受けてみました。 そこで出てきたのが「4つのD」という考え方です。 「4Dフレームワーク」とも言われています。 最初は「また思考のフレーミングの話か」とげんなりしました。 DだのEだのCだの、頭文字を並べただけの話は、だいたい中身が薄いからで...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "72acfee25125b8fe3573"
+    },
+    {
       "title": "「面白い着眼点」上達したいプレイヤーと、楽しみたいプレイヤーがなぜぶつかってしまうのかを指摘した投稿が注目を集める、「楽しんでいる時間軸が異なる」",
       "url": "https://togetter.com/li/2740272",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3887,7 +3931,30 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
+      "url": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-02T02:47:58+00:00",
+      "fetched_at": "2026-09-02T13:52:19+00:00",
+      "summary": "Anthropic が公式で出している無料のClaude Codeの講座をちょこちょこ受けてみました。 そこで出てきたのが「4つのD」という考え方です。 「4Dフレームワーク」とも言われています。 最初は「また思考のフレーミングの話か」とげんなりしました。 DだのEだのCだの、頭文字を並べただけの話は、だいたい中身が薄いからで...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "72acfee25125b8fe3573"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
