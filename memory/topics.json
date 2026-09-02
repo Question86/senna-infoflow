@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-02T05:59:24+00:00",
+  "generated_at": "2026-09-02T06:35:25+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://togetter.com/li/2740272"
       },
       {
+        "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-02T06:32:19.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8"
+      },
+      {
         "title": "M 4.9 - 85 km SSW of Nikolski, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-02T05:24:47.586+00:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-09-01T16:36:40+00:00",
         "relevance_score": 5,
         "url": "https://note.com/dora_e_m/n/n2888ba7764a2"
-      },
-      {
-        "title": "増田が1000万インプレッションを超える時代",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-01T13:44:33+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260901224029"
       }
     ],
     "economy": [
@@ -300,6 +300,13 @@
         "published_at": null,
         "relevance_score": 7,
         "url": "https://github.com/3b1b/manim"
+      },
+      {
+        "title": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-02T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate"
       }
     ]
   }

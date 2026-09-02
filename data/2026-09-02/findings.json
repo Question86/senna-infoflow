@@ -659,6 +659,42 @@
     "id": "7953ac5ec092b6c32b6e"
   },
   {
+    "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-02T06:32:19.040+00:00",
+    "fetched_at": "2026-09-02T06:34:42+00:00",
+    "summary": "Time 2026-09-02 06:13:33 UTC 2026-09-02 06:13:33 UTC at epicenter Location 44.443°S 168.303°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "03820c31780a9889941f"
+  },
+  {
     "title": "M 4.9 - 85 km SSW of Nikolski, Alaska",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbwrf",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -756,6 +792,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9967e07f11a6293fffa1"
+  },
+  {
+    "title": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+    "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-02T06:00:00+00:00",
+    "fetched_at": "2026-09-02T06:34:42+00:00",
+    "summary": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f0914881e25a4b421f7"
   },
   {
     "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",

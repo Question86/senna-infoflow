@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T05:59:24+00:00_
+_Generiert: 2026-09-02T06:35:25+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+32 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region europe: NATO (+2.0)
   - Kurz: Animation engine for explanatory math videos Manim is an engine for precise programmatic animations, designed for creating explanatory math videos. Note, there are two versions of manim. This repository began as a personal project by the author of 3Blue1Brown for the purpose of animating those videos, with video-specific code available here . In 2020 a group of developers forked it into what is now the community edi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年度 一般職（高卒者）官庁訪問の情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-02T06:00:00+00:00`, fetched `2026-09-02T06:34:42+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年度 一般職（高卒者）官庁訪問の情報を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91463)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-01T23:32:59+00:00`, fetched `2026-09-02T01:12:41+00:00`
@@ -216,4 +225,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
