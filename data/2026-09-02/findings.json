@@ -2012,6 +2012,27 @@
     "id": "9967e07f11a6293fffa1"
   },
   {
+    "title": "Content exclusions generally available in Copilot app and CLI",
+    "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-02T18:14:23+00:00",
+    "fetched_at": "2026-09-02T21:45:16+00:00",
+    "summary": "The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators. Copilot won’t use excluded files as context, helping you protect sensitive… The post Content exclusions generally available in Copilot app and CLI appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "738fb293e0536f2fee93"
+  },
+  {
     "title": "DSGCP, Saket Gore buy bback to build a broader Asian recovery brand",
     "url": "https://e27.co/dsgcp-saket-gore-buy-bback-to-build-a-broader-asian-recovery-brand-20260902/",
     "source": "e27 Asia Startup and Tech Feed",
