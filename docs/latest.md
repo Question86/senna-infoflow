@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T08:30:10+00:00_
+_Generiert: 2026-09-02T08:44:56+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+39 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度 一般職（高卒者）官庁訪問の情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **楽天にGMO……防衛産業に近づく民間IT企業 反発の声も** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/02/2000001041/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-02T03:47:04+00:00`, fetched `2026-09-02T08:44:19+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AIやドローンを中心とした防衛関連産業の加速に伴い、同様の事業への関与を強める企業が増えている。例えば楽天グループは8月、ドイツの防衛系スタートアップと提携し、迎撃型ドローンの導入支援を手掛けると発表。GMOインターネットグループが9月15日に開催するイベントには、米防衛ソフトウェア企業Palantirがビデオメ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91463)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-01T23:32:59+00:00`, fetched `2026-09-02T01:12:41+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: おれのブログが引用されました 上田信治さんという方からメールが届いた。著書におれのブログからの引用をしたので、ご恵贈いただけるという話だった。 引用に許可もなにもいらないのでありがたい話だと思った。そしておれの手元に『成分表: 偽マキロン・悲しみについて』が届いた。 申し訳ないが、おれは上田信治さんの...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **読まれる職務経歴書のつくり方｜dora_e_m** — Score 5, observation — [Quelle](https://note.com/dora_e_m/n/n2888ba7764a2)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-01T16:36:40+00:00`, fetched `2026-09-02T01:12:41+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめにみなさん、職務経歴書、どうやって書いてますか？ 転職というイベントには必要不可欠な書類、職務経歴書。履歴書と異なりフォーマットが定まっていないため、どのように書けばよいか迷ってしまうことがあります。 いざ職務経歴書を書き始めると、これまで関わってきたプロジェクトを「あれもこれも」と盛り込み...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
