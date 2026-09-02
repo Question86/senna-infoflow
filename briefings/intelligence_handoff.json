@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-02T07:35:15Z",
+  "generated_at": "2026-09-02T07:46:56Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T13:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -134,11 +134,38 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-02T07:21:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Angreifer nutzen derzeit eine kritische Sicherheitslücke im KI-Tool Langflow aus. Ein Sicherheitspatch ist schon länger verfügbar."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 75.23,
+      "age_days": 75.24,
       "topics": [
         "ai"
       ],
@@ -167,7 +194,7 @@
       "url": "https://github.com/Gitlawb/openclaude",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:42:41+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -194,7 +221,7 @@
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "infra",
@@ -246,7 +273,7 @@
       "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:00:03+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -272,7 +299,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T07:24:38.686+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -291,32 +318,6 @@
         "high terms: 10"
       ],
       "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "「面白い着眼点」上達したいプレイヤーと、楽しみたいプレイヤーがなぜぶつかってしまうのかを指摘した投稿が注目を集める、「楽しんでいる時間軸が異なる」",
-      "url": "https://togetter.com/li/2740272",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-02T02:46:49+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGPT攻略」「仕事に役立つ新・必修科目『情報Ⅰ』」 共著「仕事ではじめる機械学習」他 データ分析、コンサル、ゲームディレクター、技術顧問、企業での研修・講演などで出稼ぎ労働中。 お仕事相談はDMからどうぞ。 nextint.co.jp docswell.com/user/tokoroten 「下..."
     }
   ],
   "read_order": [
@@ -328,8 +329,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
