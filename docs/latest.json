@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T21:04:16+00:00",
-  "run_id": "2026-09-02T21:04:16+00:00",
+  "generated_at": "2026-09-02T21:19:02+00:00",
+  "run_id": "2026-09-02T21:19:02+00:00",
   "date": "2026-09-02",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 91
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 0,
     "medium": 35,
     "observe": 56,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -4695,31 +4695,15 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-      "source": "GitHub Blog Atom",
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
       "source_type": "rss",
-      "published_at": "2026-09-02T21:00:00+00:00",
-      "fetched_at": "2026-09-02T21:03:46+00:00",
-      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Automatisierung",
-        "GitHub"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e3005198ab87d34a0ba"
+      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
