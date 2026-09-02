@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T12:49:09+00:00_
+_Generiert: 2026-09-02T12:56:55+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+71 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,14 @@ _Generiert: 2026-09-02T12:49:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.
+- **USGS earthquake M5.9 - southern East Pacific Rise** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms)
+  - Quelle: USGS
+  - Zeit: `2026-09-02T12:35:56+00:00`
+  - Kurz: M5.9 - southern East Pacific Rise. PAGER alert: none. Tsunami flag: 0.
+- **USGS earthquake M5.6 - 71 km WSW of Puerto Madero, Mexico** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp)
+  - Quelle: USGS
+  - Zeit: `2026-09-02T12:28:31+00:00`
+  - Kurz: M5.6 - 71 km WSW of Puerto Madero, Mexico. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -78,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules chips_compute_datacenters (+3.0)
   - Kurz: The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-based nanoSkunkWorkX (nSWX) has […] The post NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)** — Score 20, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-02-09T00:00:00+00:00`, fetched `2026-09-02T12:56:24+00:00`
+  - Treffer: alerte, CERT-FR, Fortinet, Security, VPN, vulnérabilité, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Fortinet (+2.5); VPN (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Gitlawb/openclaude** — Score 20, observation — [Quelle](https://github.com/Gitlawb/openclaude)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-02T05:42:41+00:00`

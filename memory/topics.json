@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-02T12:49:09+00:00",
+  "generated_at": "2026-09-02T12:56:55+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-02T03:16:05+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/"
+      },
+      {
+        "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+        "source": "CERT-FR Alertes",
+        "published_at": "2024-02-09T00:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/"
       },
       {
         "title": "Gitlawb/openclaude",
@@ -66,13 +73,78 @@
         "published_at": null,
         "relevance_score": 11,
         "url": "https://github.com/Imbad0202/academic-research-skills"
+      }
+    ],
+    "security": [
+      {
+        "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+        "source": "CERT-FR Alertes",
+        "published_at": "2024-02-09T00:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/"
       },
       {
-        "title": "Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-02T04:24:29+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/"
+        "title": "[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T10:46:09+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143"
+      },
+      {
+        "title": "[NEU] [mittel] Rockwell Automation ControlLogix 5580, CompactLogix 5380, und CompactLogix 5480: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T10:46:08+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3142"
+      },
+      {
+        "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-21T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T11:16:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3151"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-02T09:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU90253159/"
+      },
+      {
+        "title": "Vulnérabilité dans SPIP (21 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-21T00:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1063/"
+      },
+      {
+        "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-02T13:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98062224/"
+      },
+      {
+        "title": "ShizenBox2における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-02T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN91715694/"
+      },
+      {
+        "title": "[NEU] [kritisch] SonicWall SMA: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T11:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3135"
       }
     ],
     "github": [
@@ -189,78 +261,6 @@
         "published_at": "2026-08-21T00:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1073/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:09+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143"
-      },
-      {
-        "title": "[NEU] [mittel] Rockwell Automation ControlLogix 5580, CompactLogix 5380, und CompactLogix 5480: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:08+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3142"
-      },
-      {
-        "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-21T00:00:00+00:00",
-        "relevance_score": 17,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/"
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T11:16:05+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3151"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-02T09:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU90253159/"
-      },
-      {
-        "title": "Vulnérabilité dans SPIP (21 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-21T00:00:00+00:00",
-        "relevance_score": 16,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1063/"
-      },
-      {
-        "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-02T13:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98062224/"
-      },
-      {
-        "title": "ShizenBox2における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-02T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN91715694/"
-      },
-      {
-        "title": "[NEU] [kritisch] SonicWall SMA: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T11:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3135"
-      },
-      {
-        "title": "[NEU] [hoch] Coolify: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T11:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3150"
       }
     ],
     "geopolitics": [
