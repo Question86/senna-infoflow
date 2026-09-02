@@ -1327,6 +1327,26 @@
     "id": "c05fea44bda1b62efd7b"
   },
   {
+    "title": "Remotezugriff Sonicwall SMA1000: Angreifer verbiegen interne Dienste",
+    "url": "https://www.heise.de/news/Remotezugriff-Sonicwall-SMA1000-Angreifer-verbiegen-interne-Dienste-11438326.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-02T12:24:00.000+00:00",
+    "fetched_at": "2026-09-02T12:31:18+00:00",
+    "summary": "Angreifer nutzen derzeit zwei Sicherheitslücken in Sonicwall SMA1000 aus. Mittlerweile haben die Entwickler die Lücken geschlossen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "49225e6b20ecef07070c"
+  },
+  {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "source": "GitHub Trending RSS All Languages Daily",

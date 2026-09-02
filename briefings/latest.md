@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T12:01:25+00:00_
+_Generiert: 2026-09-02T12:32:07+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+63 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -288,6 +288,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: There is a contradiction emerging in the way we talk about AI and the future of work. As AI gets better at execution, human judgment, critical thinking, context and domain expertise become more valuable. But where exactly is a 22-year-old supposed to get domain expertise and judgment? Historically, the answer was work. You joined a […] The post Forward Deployed Learner: Enabling 22-year-olds to build domain expertis…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Remotezugriff Sonicwall SMA1000: Angreifer verbiegen interne Dienste** — Score 7, observation — [Quelle](https://www.heise.de/news/Remotezugriff-Sonicwall-SMA1000-Angreifer-verbiegen-interne-Dienste-11438326.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-02T12:24:00.000+00:00`, fetched `2026-09-02T12:31:18+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer nutzen derzeit zwei Sicherheitslücken in Sonicwall SMA1000 aus. Mittlerweile haben die Entwickler die Lücken geschlossen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **3b1b/manim** — Score 7, observation — [Quelle](https://github.com/3b1b/manim)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-02T05:42:41+00:00`
@@ -305,15 +314,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度 一般職（高卒者）官庁訪問の情報を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド** — Score 5, observation — [Quelle](https://free-wi.fi/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-02T10:10:30+00:00`, fetched `2026-09-02T10:57:25+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 受信箱は誰でも閲覧でき、メールは24時間で消えます。 登録は不要です。送信はできません。 メール本文だけでなく、メールヘッダーやSMTPのハンドシェイクログも見れます。 Simple (Simpleとは言っていない) なMail Transfer Protocolのお勉強に使えるかも…！ Contact us at abuse@{domain} / (c) 2026 ActiveTK.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
