@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-03T07:38:48Z_
+_Generated: 2026-09-03T07:47:03Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “fmtlib/fmt” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-03T03:00:35+00:00` / age_days `0.19`
+- Published: `2026-09-03T03:00:35+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, google, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “fmtlib/fmt” — Die Dynamik liegt übe
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-03T02:00:25+00:00` / age_days `0.23`
+- Published: `2026-09-03T02:00:25+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/
 
+### トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.0`
+- Published: `2026-09-02T11:53:15+00:00` / age_days `0.83`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://zenn.dev/helloworld/articles/bcaea69f58eae5
+
 ### Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-09-03T05:09:45+00:00` / age_days `0.1`
+- Published: `2026-09-03T05:09:45+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -117,15 +127,5 @@ Stärkste Dynamik nach Gate-Recheck: “fmtlib/fmt” — Die Dynamik liegt übe
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5
-
-### sngyai/Sequoia-X
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-09-03T05:47:19+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/sngyai/Sequoia-X
 
 END OF DOCUMENT
