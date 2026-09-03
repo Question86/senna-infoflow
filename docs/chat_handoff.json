@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-03T09:49:15+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-03T09:55:17+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 33,
@@ -12,7 +12,7 @@
     "medium": 9,
     "observe": 24
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Staying secure in the AI era: The habits we need to rethink",
