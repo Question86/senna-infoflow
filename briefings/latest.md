@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T15:58:29+00:00_
+_Generiert: 2026-09-03T16:14:59+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+64 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -34,7 +34,7 @@ _Generiert: 2026-09-03T15:58:29+00:00_
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
 
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f2de0fe9310>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f3eae805750>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -94,6 +94,15 @@ _Generiert: 2026-09-03T15:58:29+00:00_
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Copilot app for Beginners: Run several agents at once** — Score 14, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-03T16:00:00+00:00`, fetched `2026-09-03T16:14:23+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`

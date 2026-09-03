@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T15:58:29+00:00",
+  "generated_at": "2026-09-03T16:14:59+00:00",
   "topics": {
     "security": [
       {
@@ -91,6 +91,13 @@
         "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/"
       },
       {
+        "title": "GitHub Copilot app for Beginners: Run several agents at once",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-03T16:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/"
+      },
+      {
         "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-03T11:26:58+00:00",
@@ -149,6 +156,13 @@
         "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/"
       },
       {
+        "title": "GitHub Copilot app for Beginners: Run several agents at once",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-03T16:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/"
+      },
+      {
         "title": "sngyai/Sequoia-X",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -189,13 +203,6 @@
         "published_at": "2026-09-03T03:27:29+00:00",
         "relevance_score": 8,
         "url": "https://togetter.com/li/2740719"
-      },
-      {
-        "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T02:15:31+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/"
       }
     ],
     "economy": [
