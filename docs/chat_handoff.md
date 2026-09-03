@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T03:44:58+00:00_
+_Generated: 2026-09-03T05:47:52+00:00_
 
 ## Status
-- status: `normal`
-- findings: `11`
+- status: `warning`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,32 +22,39 @@ _Generated: 2026-09-03T03:44:58+00:00_
 - url: https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/
 - summary: Something has shifted in Southeast Asia over the past year and nobody announced it. According to Google’s first Gemini Southeast Asia report, published in July, nearly 70 per cent of prompts in the region are now submitted in native languages — 89 per cent in…
 
-### 3. From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets
+### 3. Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline
+- source: e27 Asia Startup and Tech Feed
+- score: `15`
+- published: `2026-09-03T05:09:45+00:00`
+- url: https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/
+- summary: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase…
+
+### 4. sngyai/Sequoia-X
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/sngyai/Sequoia-X
+- summary: A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 b…
+
+### 5. DietrichGebert/ponytail
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/DietrichGebert/ponytail
+- summary: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Meas…
+
+### 6. From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-03T02:00:33+00:00`
 - url: https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/
 - summary: Since early 2024, I have been working closely with MOVZ, a Swedish digital logistics platform, while leading the technology work from Bangladesh. As CTO, I work across the customer and driver applications, administration tools, backend systems and integration…
 
-### 4. Healthcare’s infrastructure: Why vertical AI will define medicine’s next century
-- source: e27 Asia Startup and Tech Feed
+### 7. 北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」
+- source: Hatena Bookmark Hotentry IT
 - score: `8`
-- published: `2026-09-03T02:15:31+00:00`
-- url: https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/
-- summary: When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. He…
-
-### 5. Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave
-- source: e27 Asia Startup and Tech Feed
-- score: `7`
-- published: `2026-09-03T01:30:51+00:00`
-- url: https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/
-- summary: In January 2026, 2Stallions’ Malaysian entity came into scope for Phase 4 of LHDN’s e-invoicing mandate. Compliance took days. We run Xero across the group, and Xero already connects to MyInvois, Malaysia’s e-invoicing system, through a registered intermediar…
-
-### 6. You spent fifteen years building guanxi, and then nobody picked up
-- source: e27 Asia Startup and Tech Feed
-- score: `6`
-- published: `2026-09-03T01:00:54+00:00`
-- url: https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/
-- summary: A few years ago, in a Shanghai conference room, a Korean executive stood up and made a phone call. His joint-venture partner of more than a decade had gone quiet as their factory dispute escalated. Years of holiday gifts. A seat at the man’s daughter’s weddin…
+- published: `2026-09-03T03:27:29+00:00`
+- url: https://togetter.com/li/2740719
+- summary: north korea | North Korea - Pyongyang - On National Day (9 s… | Flickr North Korea - Pyongyang - On National Day (9 september) is a lot of animation in town. Flickr Streetperformers on the National Day | Pyongyang - North Kor… | Flickr Pyongyang - North Korea…
 
 END OF DOCUMENT

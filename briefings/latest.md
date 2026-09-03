@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T03:44:58+00:00_
+_Generiert: 2026-09-03T05:47:52+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,9 +91,36 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Vietnam, Thailand (+2.0)
   - Kurz: Something has shifted in Southeast Asia over the past year and nobody announced it. According to Google’s first Gemini Southeast Asia report, published in July, nearly 70 per cent of prompts in the region are now submitted in native languages — 89 per cent in Vietnam, 87 per cent in Thailand, 84 per cent in […] The post Who’s building AI for the way Southeast Asia actually speaks? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline** — Score 15, observation — [Quelle](https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-03T05:09:45+00:00`, fetched `2026-09-03T05:47:19+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **sngyai/Sequoia-X** — Score 13, observation — [Quelle](https://github.com/sngyai/Sequoia-X)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-03T05:47:19+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock （免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， 存储于本地 SQLite，彻底规避东方财富反爬问题。 两种运行模式 python main.py # 日常模式：8进程增量补数据 + 跑策略 + 飞书推送（2~3分钟） python main.py --backfill # 回填模式：全…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **DietrichGebert/ponytail** — Score 13, observation — [Quelle](https://github.com/DietrichGebert/ponytail)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-03T05:47:19+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature ta…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets** — Score 10, observation — [Quelle](https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T02:00:33+00:00`, fetched `2026-09-03T02:26:45+00:00`
@@ -102,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Since early 2024, I have been working closely with MOVZ, a Swedish digital logistics platform, while leading the technology work from Bangladesh. As CTO, I work across the customer and driver applications, administration tools, backend systems and integrations behind the transport journey. Building for Sweden from Bangladesh has given me a practical view of two […] The post From Sweden to Southeast Asia: What buildi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」** — Score 8, observation — [Quelle](https://togetter.com/li/2740719)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T03:27:29+00:00`, fetched `2026-09-03T05:47:19+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: north korea | North Korea - Pyongyang - On National Day (9 s… | Flickr North Korea - Pyongyang - On National Day (9 september) is a lot of animation in town. Flickr Streetperformers on the National Day | Pyongyang - North Kor… | Flickr Pyongyang - North Korea, 2011/09/09 National day Op 9 septemb...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Healthcare’s infrastructure: Why vertical AI will define medicine’s next century** — Score 8, observation — [Quelle](https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -139,14 +175,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 初めまして、Maki（@yuma_prog）です。 突然ですが、業務時間外に技術の勉強をするのはつらいと思っていませんか。でも、やらないと他の人との差が出てしまうから勉強をしないと…と日々ストレスを感じていませんか。周りの強いエンジニアを見るとずっと最新の情報を学び続けていて、自分にはああなるのは絶対に無理だ、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-02T21:46:37+00:00`, fetched `2026-09-03T02:26:45+00:00`
-  - Treffer: Hatena, hotentry
+- **fmtlib/fmt** — Score 5, observation — [Quelle](https://github.com/fmtlib/fmt)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-03T05:47:19+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」...
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: A modern formatting library https://fmt.dev {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional arguments for localization Implementation of C++20 std::format and C++23 std::print Format string syntax s…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -156,3 +192,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss

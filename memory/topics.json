@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T03:44:58+00:00",
+  "generated_at": "2026-09-03T05:47:52+00:00",
   "topics": {
     "ai": [
       {
@@ -19,11 +19,46 @@
         "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/"
       },
       {
+        "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T05:09:45+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/"
+      },
+      {
+        "title": "sngyai/Sequoia-X",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/sngyai/Sequoia-X"
+      },
+      {
+        "title": "DietrichGebert/ponytail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/DietrichGebert/ponytail"
+      },
+      {
+        "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-03T03:27:29+00:00",
+        "relevance_score": 8,
+        "url": "https://togetter.com/li/2740719"
+      },
+      {
         "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-03T02:15:31+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/"
+      },
+      {
+        "title": "Laters.com raises US$1.5M to expand flexible flight payments",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T03:49:21+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/"
       },
       {
         "title": "You spent fifteen years building guanxi, and then nobody picked up",
@@ -38,20 +73,6 @@
         "published_at": "2026-09-02T21:46:37+00:00",
         "relevance_score": 5,
         "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html"
-      },
-      {
-        "title": "The travel eSIM market is moving beyond price per GB",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T03:30:18+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/"
-      },
-      {
-        "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T23:40:28+00:00",
-        "relevance_score": 4,
-        "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136"
       }
     ],
     "security": [
@@ -70,15 +91,50 @@
         "published_at": "2026-09-03T02:00:25+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/"
+      },
+      {
+        "title": "sngyai/Sequoia-X",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/sngyai/Sequoia-X"
+      },
+      {
+        "title": "DietrichGebert/ponytail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/DietrichGebert/ponytail"
+      },
+      {
+        "title": "fmtlib/fmt",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/fmtlib/fmt"
       }
     ],
     "economy": [
+      {
+        "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T05:09:45+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/"
+      },
       {
         "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-03T02:00:33+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/"
+      },
+      {
+        "title": "Bitcoin slipped below US$80,000, so why are traders still betting on US$82,000?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T05:35:41+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-slipped-below-us80000-so-why-are-traders-still-betting-on-us82000-20260903/"
       },
       {
         "title": "The travel eSIM market is moving beyond price per GB",
@@ -89,6 +145,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "sngyai/Sequoia-X",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/sngyai/Sequoia-X"
+      },
       {
         "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
         "source": "e27 Asia Startup and Tech Feed",
