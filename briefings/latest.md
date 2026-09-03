@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T21:54:14+00:00_
+_Generiert: 2026-09-03T21:59:34+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+91 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -138,6 +138,15 @@ _Generiert: 2026-09-03T21:54:14+00:00_
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 98 km W of Gorontalo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te55)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-03T21:54:42.040+00:00`, fetched `2026-09-03T21:59:03+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-03 21:05:15 UTC 2026-09-03 21:05:15 UTC at epicenter Location 0.526°N 122.178°E Depth 111.18 km (69.08 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 57 km N of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te51)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T21:41:26.040+00:00`, fetched `2026-09-03T21:42:47+00:00`

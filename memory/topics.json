@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T21:54:14+00:00",
+  "generated_at": "2026-09-03T21:59:34+00:00",
   "topics": {
     "security": [
       {
@@ -221,6 +221,13 @@
     ],
     "general": [
       {
+        "title": "M 4.9 - 98 km W of Gorontalo, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T21:54:42.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te55"
+      },
+      {
         "title": "M 4.8 - 57 km N of Ende, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-03T21:41:26.040+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-09-03T16:46:02.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09"
-      },
-      {
-        "title": "M 5.2 - 100 km SSW of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T13:25:57.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys"
       }
     ],
     "economy": [
