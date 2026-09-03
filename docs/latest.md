@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T20:53:19+00:00_
+_Generiert: 2026-09-03T20:58:37+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+85 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 ## Priorität Hoch
 
@@ -176,6 +176,15 @@ _Generiert: 2026-09-03T20:53:19+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-03 20:21:17 UTC 2026-09-03 20:21:17 UTC at epicenter Location 52.128°N 169.247°W Depth 8.00 km (4.97 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiple trusted publishing configurations for npm** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-03T20:34:34+00:00`, fetched `2026-09-03T20:58:06+00:00`
+  - Treffer: Content-Chance, GitHub, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Content-Chance (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged… The post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 104 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T19:05:51.608+00:00`, fetched `2026-09-03T19:11:00+00:00`
@@ -230,15 +239,6 @@ _Generiert: 2026-09-03T20:53:19+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Reopening Copilot Business and Enterprise signups** — Score 8, risk — [Quelle](https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-03T14:40:43+00:00`, fetched `2026-09-03T17:28:41+00:00`
-  - Treffer: Copilot, GitHub, Watchgraph:elections_unrest
-  - Watchgraph: elections_unrest
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
-  - Kurz: We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks. If you’ve been waiting to get started… The post Reopening Copilot Business and Enterprise signups appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
