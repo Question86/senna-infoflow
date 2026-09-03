@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T18:00:34+00:00",
+  "generated_at": "2026-09-03T18:24:53+00:00",
   "topics": {
     "security": [
       {
@@ -126,6 +126,13 @@
         "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups"
       },
       {
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-03T12:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+      },
+      {
         "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-03T11:33:59+00:00",
@@ -177,6 +184,13 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/"
       },
       {
+        "title": "NVIDIA to Acquire Hugging Face",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-03T12:56:57+00:00",
+        "relevance_score": 13,
+        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+      },
+      {
         "title": "sngyai/Sequoia-X",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -203,13 +217,6 @@
         "published_at": "2026-09-03T08:30:34+00:00",
         "relevance_score": 11,
         "url": "https://speakerdeck.com/layerx/bet-ai-day-2026-session09"
-      },
-      {
-        "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-03T03:38:00+00:00",
-        "relevance_score": 10,
-        "url": "https://about.gitlab.com/ja-jp/blog/how-gitlab-fosters-ai-fluent-teams/"
       }
     ],
     "economy": [

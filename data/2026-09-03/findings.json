@@ -393,6 +393,30 @@
     "id": "9c15a9078cad3788cccb"
   },
   {
+    "title": "NVIDIA to Acquire Hugging Face",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-03T12:56:57+00:00",
+    "fetched_at": "2026-09-03T18:24:23+00:00",
+    "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at ...",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ffbc180a88d4bdadb2c6"
+  },
+  {
     "title": "sngyai/Sequoia-X",
     "url": "https://github.com/sngyai/Sequoia-X",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -1350,6 +1374,46 @@
       "EWZ"
     ],
     "id": "1c7f1bed7b59788bd25f"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-03T12:00:00+00:00",
+    "fetched_at": "2026-09-03T18:24:23+00:00",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2b63535c99235e85143c"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-03T12:00:00+00:00",
+    "fetched_at": "2026-09-03T18:24:23+00:00",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b0e50e4aed413a0f928d"
   },
   {
     "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
