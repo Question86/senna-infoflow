@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T11:20:59Z",
+  "generated_at": "2026-09-03T11:31:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:38+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:42:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -174,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -200,7 +200,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -226,7 +226,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 76.39,
+      "age_days": 76.4,
       "topics": [
         "ai"
       ],
@@ -255,7 +255,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:21:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -281,7 +281,7 @@
       "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T10:32:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -330,7 +330,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T07:56:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -380,7 +380,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T06:32:17.044+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -404,7 +404,7 @@
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -430,7 +430,7 @@
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -473,11 +473,39 @@
       "summary": "Time 2026-09-03 07:46:19 UTC 2026-09-03 07:46:19 UTC at epicenter Location 20.789°S 176.407°W Depth 217.98 km (135.44 mi)"
     },
     {
+      "title": "M 6.2 - 105 km SSW of Nikolski, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T11:24:46.015+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ShakeMap - IV Time 2026-09-03 11:17:23 UTC 2026-09-03 11:17:23 UTC at epicenter Location 52.015°N 169.221°W Depth 78.00 km (48.47 mi)"
+    },
+    {
       "title": "Who’s building AI for the way Southeast Asia actually speaks?",
       "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:25+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -496,6 +524,30 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Something has shifted in Southeast Asia over the past year and nobody announced it. According to Google’s first Gemini Southeast Asia report, published in July, nearly 70 per cent of prompts in the region are now submitted in native languages — 89 per cent in Vietnam, 87 per cent in Thailand, 84 per cent in […] The po…"
+    },
+    {
+      "title": "Uber Eatsで2,232円の注文、配達員に10,532円を渡したら、「ローソンで両替してくる」と言ったまま戻らず、お釣り8,300円を持ち逃げ←ツッコミ殺到…公式が対応する展開に",
+      "url": "https://togetter.com/li/2740824",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T07:41:01+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Rine @Rine0hsn Uber Eatsで配達員にお釣りを持って逃げられました…助けてください 本日、Uber Eatsの現金払いで2,232円の注文をし、10,532円を渡しました。 配達員は「ローソンで両替してくる」と言ったまま戻らず、お釣り8,300円を持ち逃げされました。 今月の最後の生活費なので本当に困っています..@UberEats 2026-0..."
     },
     {
       "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
@@ -528,7 +580,7 @@
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:09:45+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -554,7 +606,7 @@
       "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:30:51+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -578,7 +630,7 @@
       "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-03T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -602,7 +654,7 @@
       "url": "https://github.com/sngyai/Sequoia-X",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -627,7 +679,7 @@
       "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T03:09:23+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -675,7 +727,7 @@
       "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:33+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "macro"
@@ -701,7 +753,7 @@
       "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T23:01:23+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -727,7 +779,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.35,
+      "age_days": 75.36,
       "topics": [
         "general"
       ],
@@ -752,7 +804,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.35,
+      "age_days": 75.36,
       "topics": [
         "general"
       ],
@@ -777,7 +829,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.35,
+      "age_days": 75.36,
       "topics": [
         "ai"
       ],
@@ -804,7 +856,7 @@
       "url": "https://togetter.com/li/2740719",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T03:27:29+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -829,7 +881,7 @@
       "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:15:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -854,7 +906,7 @@
       "url": "https://e27.co/for-southeast-asian-startups-distress-may-show-up-before-the-cash-runs-out-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:49:09+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -879,7 +931,7 @@
       "url": "https://gigazine.net/news/20260903-smartwatch-lying-calories/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T03:19:54+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -904,7 +956,7 @@
       "url": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:49:21+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -929,7 +981,7 @@
       "url": "https://levtech.jp/media/detail_920/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:37:54+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -973,58 +1025,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」..."
-    },
-    {
-      "title": "Bitcoin slipped below US$80,000, so why are traders still betting on US$82,000?",
-      "url": "https://e27.co/bitcoin-slipped-below-us80000-so-why-are-traders-still-betting-on-us82000-20260903/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T05:35:41+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Bitcoin trades at US$77,260.09 today, with a 24-hour trading volume of US$26,479,119,535. The premier digital asset gained 0.22 per cent over the last day. The asset briefly climbed above US$80,000 before sellers dragged the valuation back to US$76,000. Kalshi participants currently favour an US$82,000 target for Sept…"
-    },
-    {
-      "title": "The travel eSIM market is moving beyond price per GB",
-      "url": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T03:30:18+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For many years, the eSIM service sector had one simple benefit: it provided travellers with a cheaper and more convenient option than traditional roaming. The message was effective since the problem was clear-cut: international roaming was costly, airport SIM kiosks were inconvenient, and a lot of travellers didn’t wa…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] FasterXML Jackson: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
