@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-03T14:35:57Z_
+_Generated: 2026-09-03T14:46:53Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-03T11:26:58+00:00` / age_days `0.13`
+- Published: `2026-09-03T11:26:58+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-03T09:22:38+00:00` / age_days `0.22`
+- Published: `2026-09-03T09:22:38+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-03T09:22:37+00:00` / age_days `0.22`
+- Published: `2026-09-03T09:22:37+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -58,21 +58,21 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstell
 - Warum: high terms: rce, security high-signal: rce
 - Quelle: https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/
 
-### fmtlib/fmt
+### CodeQL 2.26.4 improves GitHub actions security detections
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `25.0`
-- Published: `2026-09-03T05:47:19+00:00` / age_days `0.37`
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-09-03T14:04:59+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: early terms: local, high terms: rce, security high-signal: rce
-- Quelle: https://github.com/fmtlib/fmt
+- Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
+- Quelle: https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections
 
 ### Staying secure in the AI era: The habits we need to rethink
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-03T03:00:35+00:00` / age_days `0.48`
+- Published: `2026-09-03T03:00:35+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, google, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstell
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-03T11:26:58+00:00` / age_days `0.13`
+- Published: `2026-09-03T11:26:58+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstell
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-03T11:26:58+00:00` / age_days `0.13`
+- Published: `2026-09-03T11:26:58+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
