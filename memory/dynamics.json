@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T13:46:20Z",
+  "generated_at": "2026-09-03T14:03:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 6,
       "strong": 10,
-      "watch": 9,
-      "quiet": 15
+      "watch": 14,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 16,
-      "watch": 9,
-      "quiet": 15
+      "watch": 14,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:38+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T11:33:59+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -144,7 +144,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -170,7 +170,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "security",
@@ -197,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:42:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -275,7 +275,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -301,7 +301,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -327,7 +327,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 76.49,
+      "age_days": 76.5,
       "topics": [
         "ai"
       ],
@@ -356,7 +356,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:21:09+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -382,7 +382,7 @@
       "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T10:32:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -406,7 +406,7 @@
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-03T10:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -427,11 +427,36 @@
       "summary": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them."
     },
     {
+      "title": "Sicherheitspatches: Attacken auf Switches mit ArubaOS-CX möglich",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-03T13:49:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Die Entwickler von HPE Aruba Networking haben 34 Sicherheitslücken in ArubaOS-CX geschlossen."
+    },
+    {
       "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T07:56:00.000+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -456,7 +481,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:53:48.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -481,7 +506,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:31:44.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -502,11 +527,59 @@
       "summary": "Time 2026-09-03 08:16:36 UTC 2026-09-03 08:16:36 UTC at epicenter Location 31.362°N 80.330°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "age_days": 9.59,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
+    },
+    {
+      "title": "Multiples vulnérabilités dans Metabase (24 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1075/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-08-24T00:00:00+00:00",
+      "age_days": 10.59,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et un problème de sécurité non spécifié par l'éditeur."
+    },
+    {
       "title": "M 5.1 - 42 km NW of Coquimbo, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T06:32:17.044+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -530,7 +603,7 @@
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -552,11 +625,35 @@
       "summary": "A few years ago, in a Shanghai conference room, a Korean executive stood up and made a phone call. His joint-venture partner of more than a decade had gone quiet as their factory dispute escalated. Years of holiday gifts. A seat at the man’s daughter’s wedding. Countless dinners across two economic cycles. Surely that…"
     },
     {
+      "title": "Multiples vulnérabilités dans LibreNMS (24 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1076/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-08-24T00:00:00+00:00",
+      "age_days": 10.59,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+    },
+    {
       "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -579,7 +676,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-09-03T12:30:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -599,11 +696,35 @@
       "summary": "Speech At Reuters NEXT Newsmaker Interview, Washington, D.C."
     },
     {
+      "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+      "url": "https://satoweb.net/2026/09/p-18390/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T06:52:56+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "とりあえずWordPressを設置していた某ドメイン 特に重要な記事が入っているわけでもなく、ほぼ放置状態。 時たまSSL生きてるかみているだけだったもの 月が替わったので確認したときにやられていることに気づく。 「Hacked by CoupDeGrace」は、2026年8月中旬頃から日本の複数のWordPressサイトなどで相次いで確認されて..."
+    },
+    {
       "title": "M 4.8 - 12 km E of Venustiano Carranza (Peña Blanca), Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:46:04.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -627,7 +748,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:04:52.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -651,7 +772,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T13:25:57.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "disaster"
@@ -679,7 +800,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkshll",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T13:10:26.369+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "disaster"
@@ -707,7 +828,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:24:46.015+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "disaster"
@@ -735,7 +856,7 @@
       "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:25+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -760,7 +881,7 @@
       "url": "https://togetter.com/li/2740824",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T07:41:01+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -784,7 +905,7 @@
       "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T11:53:15+00:00",
-      "age_days": 1.08,
+      "age_days": 1.09,
       "topics": [
         "ai"
       ],
@@ -810,7 +931,7 @@
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:09:45+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -836,7 +957,7 @@
       "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:30:51+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -860,7 +981,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdyi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T12:57:25.201+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "disaster"
@@ -887,7 +1008,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlmrvm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T12:50:29.903+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "disaster"
@@ -908,133 +1029,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "ShakeMap - III DYFI? - II Time 2026-09-03 12:39:35 UTC 2026-09-03 12:39:35 UTC at epicenter Location 52.307°N 169.544°W Depth 26.80 km (16.65 mi)"
-    },
-    {
-      "title": "M 4.9 - 81 km SW of Nikolski, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-03T12:00:58.040+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - III Time 2026-09-03 11:39:41 UTC 2026-09-03 11:39:41 UTC at epicenter Location 52.346°N 169.561°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "M 6.3 - 84 km SSW of Nikolski, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-03T11:38:48.886+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - IV DYFI? - V Time 2026-09-03 11:17:24 UTC 2026-09-03 11:17:24 UTC at epicenter Location 52.258°N 169.409°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
-      "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-03T06:00:00+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました"
-    },
-    {
-      "title": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock （免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， 存储于本地 SQLite，彻底规避东方…"
-    },
-    {
-      "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T03:09:23+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
