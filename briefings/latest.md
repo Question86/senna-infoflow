@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T09:26:06+00:00_
+_Generiert: 2026-09-03T09:35:07+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+33 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -113,23 +113,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Filebeat: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134)
+- **[UPDATE] [mittel] FasterXML Jackson: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-03T08:42:00+00:00`, fetched `2026-09-03T08:56:28+00:00`
+  - Zeit: published `2026-09-03T09:22:38+00:00`, fetched `2026-09-03T09:34:37+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Filebeat ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in FasterXML Jackson ausnutzen, um Daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3057)
+- **[UPDATE] [mittel] Apache log4j und Log4cxx: Mehrere Schwachstellen ermöglichen Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-03T08:41:58+00:00`, fetched `2026-09-03T08:56:28+00:00`
+  - Zeit: published `2026-09-03T09:22:37+00:00`, fetched `2026-09-03T09:34:37+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache log4j und Apache Log4cxx ausnutzen, um Dateien zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -268,7 +268,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
