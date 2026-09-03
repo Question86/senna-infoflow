@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T11:19:03+00:00_
+_Generated: 2026-09-03T11:26:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `39`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-03T11:19:03+00:00_
 - url: https://github.com/DietrichGebert/ponytail
 - summary: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Meas…
 
-### 7. WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen
+### 7. M 6.2 - 105 km SSW of Nikolski, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-03T11:24:46.015+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz
+- summary: ShakeMap - IV Time 2026-09-03 11:17:23 UTC 2026-09-03 11:17:23 UTC at epicenter Location 52.015°N 169.221°W Depth 78.00 km (48.47 mi)
+
+### 8. WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen
 - source: heise Security Alerts
 - score: `11`
 - published: `2026-09-03T10:32:00.000+00:00`
 - url: https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html
 - summary: Eine Sicherheitslücke im WordPress-Plug-in All-in-One WP Migration and Backup gefährdet potenziell 5 Millionen Websites. Ein Update löst das Problem.
-
-### 8. M 5.1 - 115 km NE of Joshīmath, India
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-03T08:31:44.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4
-- summary: Time 2026-09-03 08:16:36 UTC 2026-09-03 08:16:36 UTC at epicenter Location 31.362°N 80.330°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
