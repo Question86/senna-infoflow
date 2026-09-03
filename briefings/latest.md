@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T01:41:44+00:00_
+_Generiert: 2026-09-03T01:58:36+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave“ aus e27 Asia Startup and Tech Feed (Score 7, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+4 neue relevante Treffer. Stärkstes Signal: „Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave“ aus e27 Asia Startup and Tech Feed (Score 7, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -121,7 +121,3 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
