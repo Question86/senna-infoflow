@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T06:56:05Z",
+  "generated_at": "2026-09-03T07:07:55Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 27,
     "bands": {
       "krass": 2,
       "strong": 2,
       "watch": 3,
-      "quiet": 19
+      "quiet": 20
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 3,
-      "quiet": 19
+      "quiet": 20
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security",
@@ -76,7 +76,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -229,7 +229,7 @@
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:09:45+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -279,7 +279,7 @@
       "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-03T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -303,7 +303,7 @@
       "url": "https://github.com/sngyai/Sequoia-X",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -322,6 +322,30 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock （免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， 存储于本地 SQLite，彻底规避东方…"
+    },
+    {
+      "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T03:09:23+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま..."
     },
     {
       "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
@@ -354,7 +378,7 @@
       "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T23:01:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -380,7 +404,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.17,
+      "age_days": 75.18,
       "topics": [
         "general"
       ],
@@ -405,7 +429,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.17,
+      "age_days": 75.18,
       "topics": [
         "general"
       ],
@@ -430,7 +454,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.17,
+      "age_days": 75.18,
       "topics": [
         "ai"
       ],
@@ -457,7 +481,7 @@
       "url": "https://togetter.com/li/2740719",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T03:27:29+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -482,7 +506,7 @@
       "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:15:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -532,7 +556,7 @@
       "url": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:49:21+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -557,7 +581,7 @@
       "url": "https://levtech.jp/media/detail_920/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:37:54+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -582,7 +606,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T21:46:37+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -633,7 +657,7 @@
       "url": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:30:18+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -659,7 +683,7 @@
       "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T23:40:28+00:00",
-      "age_days": 2.3,
+      "age_days": 2.31,
       "topics": [
         "ai"
       ],
