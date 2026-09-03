@@ -1,8 +1,17 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T01:15:30+00:00",
+  "generated_at": "2026-09-03T01:41:44+00:00",
   "topics": {
+    "geopolitics": [
+      {
+        "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T01:30:51+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/"
+      }
+    ],
     "ai": [
       {
         "title": "You spent fifteen years building guanxi, and then nobody picked up",

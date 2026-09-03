@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T01:15:30+00:00_
+_Generiert: 2026-09-03T01:41:44+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „You spent fifteen years building guanxi, and then nobody picked up“ aus e27 Asia Startup and Tech Feed (Score 6, opportunity).
+4 neue relevante Treffer. Stärkstes Signal: „Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave“ aus e27 Asia Startup and Tech Feed (Score 7, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave** — Score 7, observation — [Quelle](https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-03T01:30:51+00:00`, fetched `2026-09-03T01:41:14+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
+  - Kurz: In January 2026, 2Stallions’ Malaysian entity came into scope for Phase 4 of LHDN’s e-invoicing mandate. Compliance took days. We run Xero across the group, and Xero already connects to MyInvois, Malaysia’s e-invoicing system, through a registered intermediary. We had picked cloud accounting years earlier for our own reasons. The mandate arrived to find us […] The post Malaysia fines, Singapore funds: How two govern…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **You spent fifteen years building guanxi, and then nobody picked up** — Score 6, opportunity — [Quelle](https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T01:00:54+00:00`, fetched `2026-09-03T01:15:00+00:00`
@@ -51,3 +60,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
