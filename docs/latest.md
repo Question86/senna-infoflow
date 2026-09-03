@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T13:52:44+00:00_
+_Generiert: 2026-09-03T13:58:26+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+60 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Eine Sicherheitslücke im WordPress-Plug-in All-in-One WP Migration and Backup gefährdet potenziell 5 Millionen Websites. Ein Update löst das Problem.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来** — Score 11, observation — [Quelle](https://speakerdeck.com/layerx/bet-ai-day-2026-session09)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T08:30:34+00:00`, fetched `2026-09-03T13:57:49+00:00`
+  - Treffer: agent, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: 2026年9月3日に開催されたイベント「Bet AI Day 2026」における登壇資料です。 ■ 概要 LayerXはこの数年で多くの仲間を迎え入れてきました。その裏側には、膨大な数の採用プロセスが存在しています。一方で、採用という業務の特性上、一足飛びに全てをAIに任せることはできません。 …
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す** — Score 11, observation — [Quelle](https://zenn.dev/helloworld/articles/bcaea69f58eae5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-02T11:53:15+00:00`, fetched `2026-09-03T07:42:36+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ナレッジグラフ方式の Graphify（94k stars）・code-review-graph（26k）・better-code-review-graph（66）と、言語サーバー（LSP）方式の Serena（26.8k）。Stars数は2026年7月時点。 code-review-graphとbetter-code-review-graphはフォーク関係。code-review-graphはpre-commitでコンテキスト供給だけ、質問はbetter...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIを使いこなす技術チームの育て方、GitLab社内の実践から** — Score 10, observation — [Quelle](https://about.gitlab.com/ja-jp/blog/how-gitlab-fosters-ai-fluent-teams/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-03T03:38:00+00:00`, fetched `2026-09-03T13:41:10+00:00`
-  - Treffer: AI/KI, Hatena, hotentry, technology
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)
-  - Kurz: AIを使いこなす技術チームの育て方、GitLab社内の実践からTalent DevelopmentチームとEnterprise Technologyチームが連携し、エンジニアリング組織全体にAIフルエンシーを広げたGitLab社内の取り組みをご紹介します。 同じAIツールを2つのエンジニアリングチームに渡しても、たどり着く先はまったく違うものになります。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets** — Score 10, observation — [Quelle](https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -212,3 +212,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss

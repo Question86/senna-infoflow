@@ -796,6 +796,29 @@
     "id": "2fd90da522cf3696f67e"
   },
   {
+    "title": "Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来",
+    "url": "https://speakerdeck.com/layerx/bet-ai-day-2026-session09",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-03T08:30:34+00:00",
+    "fetched_at": "2026-09-03T13:57:49+00:00",
+    "summary": "2026年9月3日に開催されたイベント「Bet AI Day 2026」における登壇資料です。 ■ 概要 LayerXはこの数年で多くの仲間を迎え入れてきました。その裏側には、膨大な数の採用プロセスが存在しています。一方で、採用という業務の特性上、一足飛びに全てをAIに任せることはできません。 …",
+    "matched_keywords": [
+      "agent",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ebd049772d2a1cf0861"
+  },
+  {
     "title": "M 5.1 - 42 km NW of Coquimbo, Chile",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1104,6 +1127,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "93d42ec10514b701cb87"
+  },
+  {
+    "title": "Sicherheitspatches: Attacken auf Switches mit ArubaOS-CX möglich",
+    "url": "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-03T13:49:00.000+00:00",
+    "fetched_at": "2026-09-03T13:57:49+00:00",
+    "summary": "Die Entwickler von HPE Aruba Networking haben 34 Sicherheitslücken in ArubaOS-CX geschlossen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cda0ee7820d46c734e73"
   },
   {
     "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
