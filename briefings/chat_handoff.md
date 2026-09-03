@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T20:42:19+00:00_
+_Generated: 2026-09-03T20:47:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `81`
+- findings: `84`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-09-03T20:42:19+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in NGINX und NGINX Plus ausnutzen, um Dateien zu manipulieren.
 
-### 5. WebMCPがアツいので見てほしい | DevelopersIO
-- source: Hatena Bookmark Hotentry IT
-- score: `16`
-- published: `2026-09-03T11:43:12+00:00`
-- url: https://dev.classmethod.jp/articles/webmcp-introduction/
-- summary: リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...
+### 5. Safety overview: GPT-6 Astra
+- source: OpenAI News RSS
+- score: `17`
+- published: `2026-09-03T00:00:00+00:00`
+- url: https://openai.com/index/safety-overview-gpt-6-astra
+- summary: GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
 
 ### 6. NVIDIA to Acquire Hugging Face
 - source: Hatena Bookmark Hotentry IT
