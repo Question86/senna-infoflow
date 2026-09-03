@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T12:08:54+00:00_
+_Generated: 2026-09-03T12:35:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `49`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-03T12:08:54+00:00_
 - url: https://github.com/DietrichGebert/ponytail
 - summary: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Meas…
 
-### 7. M 4.9 - 81 km SW of Nikolski, Alaska
+### 7. Waller, The Economic Outlook and Some Comments on My Policy Communication
+- source: Federal Reserve Speeches and Testimony
+- score: `12`
+- published: `2026-09-03T12:30:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
+- summary: Speech At Reuters NEXT Newsmaker Interview, Washington, D.C.
+
+### 8. M 4.9 - 81 km SW of Nikolski, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-03T12:00:58.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw5
 - summary: ShakeMap - III Time 2026-09-03 11:39:41 UTC 2026-09-03 11:39:41 UTC at epicenter Location 52.346°N 169.561°W Depth 35.00 km (21.75 mi)
-
-### 8. M 5.4 - 21 km WNW of Jiangyou, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-03T11:53:48.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6
-- summary: Time 2026-09-03 11:39:41 UTC 2026-09-03 11:39:41 UTC at epicenter Location 31.846°N 104.507°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
