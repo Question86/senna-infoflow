@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T11:51:35+00:00_
+_Generated: 2026-09-03T11:57:08+00:00_
 
 ## Status
-- status: `warning`
-- findings: `45`
+- status: `normal`
+- findings: `46`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-03T11:51:35+00:00_
 - url: https://github.com/DietrichGebert/ponytail
 - summary: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Meas…
 
-### 7. M 6.3 - 84 km SSW of Nikolski, Alaska
+### 7. M 5.4 - 21 km WNW of Jiangyou, China
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-03T11:53:48.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6
+- summary: Time 2026-09-03 11:39:41 UTC 2026-09-03 11:39:41 UTC at epicenter Location 31.846°N 104.507°E Depth 10.00 km (6.21 mi)
+
+### 8. M 6.3 - 84 km SSW of Nikolski, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-03T11:38:48.886+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt
 - summary: ShakeMap - IV DYFI? - V Time 2026-09-03 11:17:24 UTC 2026-09-03 11:17:24 UTC at epicenter Location 52.258°N 169.409°W Depth 35.00 km (21.75 mi)
-
-### 8. M 6.2 - 105 km SSW of Nikolski, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-03T11:24:46.015+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz
-- summary: ShakeMap - IV Time 2026-09-03 11:17:23 UTC 2026-09-03 11:17:23 UTC at epicenter Location 52.015°N 169.221°W Depth 78.00 km (48.47 mi)
 
 END OF DOCUMENT
