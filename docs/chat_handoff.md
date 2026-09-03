@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T12:50:54+00:00_
+_Generated: 2026-09-03T12:57:54+00:00_
 
 ## Status
 - status: `warning`
-- findings: `50`
+- findings: `51`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-03T12:50:54+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
 - summary: Speech At Reuters NEXT Newsmaker Interview, Washington, D.C.
 
-### 8. M 5.3 - 84 km SSW of Nikolski, Alaska
+### 8. M 4.9 - 90 km SSW of Nikolski, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-09-03T12:50:29.903+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlmrvm
-- summary: ShakeMap - III DYFI? - II Time 2026-09-03 12:39:35 UTC 2026-09-03 12:39:35 UTC at epicenter Location 52.307°N 169.544°W Depth 26.80 km (16.65 mi)
+- published: `2026-09-03T12:57:25.201+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdyi
+- summary: ShakeMap - III DYFI? - II Time 2026-09-03 12:39:34 UTC 2026-09-03 12:39:34 UTC at epicenter Location 52.253°N 169.579°W Depth 44.44 km (27.62 mi)
 
 END OF DOCUMENT
