@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T07:33:15+00:00_
+_Generated: 2026-09-03T07:43:04+00:00_
 
 ## Status
 - status: `warning`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-09-03T07:33:15+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc
 - summary: DYFI? - I Time 2026-09-03 06:04:02 UTC 2026-09-03 06:04:02 UTC at epicenter Location 29.735°S 71.698°W Depth 55.16 km (34.28 mi)
 
-### 7. From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-03T02:00:33+00:00`
-- url: https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/
-- summary: Since early 2024, I have been working closely with MOVZ, a Swedish digital logistics platform, while leading the technology work from Bangladesh. As CTO, I work across the customer and driver applications, administration tools, backend systems and integration…
+### 7. トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-09-02T11:53:15+00:00`
+- url: https://zenn.dev/helloworld/articles/bcaea69f58eae5
+- summary: ナレッジグラフ方式の Graphify（94k stars）・code-review-graph（26k）・better-code-review-graph（66）と、言語サーバー（LSP）方式の Serena（26.8k）。Stars数は2026年7月時点。 code-review-graphとbetter-code-review-graphはフォーク関係。code-review-graphはpre-commitでコンテキスト供給だけ、質問はbetter...
 
 END OF DOCUMENT
