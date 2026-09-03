@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T11:46:01+00:00",
+  "generated_at": "2026-09-03T11:51:35+00:00",
   "topics": {
     "ai": [
       {
@@ -309,6 +309,13 @@
         "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5"
       },
       {
+        "title": "M 4.8 - 12 km E of Venustiano Carranza (Peña Blanca), Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T11:46:04.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw2"
+      },
+      {
         "title": "M 4.5 - 122 km WNW of Houma, Tonga",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-03T08:04:52.040+00:00",
@@ -335,13 +342,6 @@
         "published_at": "2026-09-03T07:41:01+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2740824"
-      },
-      {
-        "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-03T03:09:23+00:00",
-        "relevance_score": 5,
-        "url": "https://www.techno-edge.net/article/2026/09/03/5459.html"
       }
     ]
   }

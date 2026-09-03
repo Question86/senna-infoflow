@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:46:04+00:00",
+  "generated_at": "2026-09-03T11:51:39+00:00",
   "sections": {
     "global_security": [
       {
@@ -80,20 +80,20 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].",
+        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.",
+        "summary": "Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563341",
         "published_at": "",
         "metrics": {}
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Lithuania",
-        "summary": "Green flood alert in Lithuania",
+        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104138",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254",
         "published_at": "",
         "metrics": {}
       },
