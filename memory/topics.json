@@ -1,15 +1,31 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T00:54:48+00:00",
+  "generated_at": "2026-09-03T01:15:30+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "You spent fifteen years building guanxi, and then nobody picked up",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T01:00:54+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/"
+      },
       {
         "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-31T23:40:28+00:00",
         "relevance_score": 4,
         "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136"
+      }
+    ],
+    "general": [
+      {
+        "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-03T01:01:05+00:00",
+        "relevance_score": 5,
+        "url": "https://architecture-con.findy-tools.io/2026"
       }
     ]
   }
