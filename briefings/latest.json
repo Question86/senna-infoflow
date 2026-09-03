@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T15:24:13+00:00",
-  "run_id": "2026-09-03T15:24:13+00:00",
+  "generated_at": "2026-09-03T15:33:20+00:00",
+  "run_id": "2026-09-03T15:33:20+00:00",
   "date": "2026-09-03",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 63
     },
@@ -24,7 +24,7 @@
     "high": 1,
     "medium": 12,
     "observe": 50,
-    "source_errors": 0
+    "source_errors": 2
   },
   "sections": {
     "high": [
@@ -3351,7 +3351,20 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
