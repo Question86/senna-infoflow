@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T01:35:00Z",
+  "generated_at": "2026-09-03T01:57:27Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 7,
+    "dynamics": 8,
     "bands": {
       "strong": 1,
       "watch": 2,
-      "quiet": 4
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "strong": 1,
       "watch": 2,
-      "quiet": 4
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 75.98,
+      "age_days": 76.0,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -96,11 +96,35 @@
       "summary": "マーティン・ファウラー氏来日登壇決定/Findy主催"
     },
     {
+      "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
+      "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T01:30:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "In January 2026, 2Stallions’ Malaysian entity came into scope for Phase 4 of LHDN’s e-invoicing mandate. Compliance took days. We run Xero across the group, and Xero already connects to MyInvois, Malaysia’s e-invoicing system, through a registered intermediary. We had picked cloud accounting years earlier for our own…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 74.95,
+      "age_days": 74.96,
       "topics": [
         "general"
       ],
@@ -116,7 +140,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 74.9d old signal"
+        "aging penalty -16.0 for 75.0d old signal"
       ],
       "summary": ""
     },
@@ -125,7 +149,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 74.95,
+      "age_days": 74.96,
       "topics": [
         "general"
       ],
@@ -141,7 +165,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 74.9d old signal"
+        "aging penalty -16.0 for 75.0d old signal"
       ],
       "summary": ""
     },
@@ -150,7 +174,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 74.95,
+      "age_days": 74.96,
       "topics": [
         "ai"
       ],
@@ -167,7 +191,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 74.9d old signal",
+        "aging penalty -16.0 for 75.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -177,7 +201,7 @@
       "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T23:40:28+00:00",
-      "age_days": 2.08,
+      "age_days": 2.1,
       "topics": [
         "ai"
       ],
