@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-03T10:00:20+00:00",
-  "run_id": "2026-09-03T10:00:20+00:00",
+  "generated_at": "2026-09-03T10:21:18+00:00",
+  "run_id": "2026-09-03T10:21:18+00:00",
   "date": "2026-09-03",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 1,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 9,
-    "observe": 24,
-    "source_errors": 1
+    "observe": 25,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -649,6 +649,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eb42101b9755eb89efad"
+      },
+      {
+        "title": "I refused to train the AI that could replace me",
+        "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-03T10:00:00+00:00",
+        "fetched_at": "2026-09-03T10:20:42+00:00",
+        "summary": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
+        "matched_keywords": [
+          "AI/KI"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "018f1e39485e82310f82"
       },
       {
         "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
@@ -1460,6 +1480,26 @@
       "id": "eb42101b9755eb89efad"
     },
     {
+      "title": "I refused to train the AI that could replace me",
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-03T10:00:00+00:00",
+      "fetched_at": "2026-09-03T10:20:42+00:00",
+      "summary": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "018f1e39485e82310f82"
+    },
+    {
       "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1647,15 +1687,29 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
+      "title": "I refused to train the AI that could replace me",
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
+      "published_at": "2026-09-03T10:00:00+00:00",
+      "fetched_at": "2026-09-03T10:20:42+00:00",
+      "summary": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "018f1e39485e82310f82"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
