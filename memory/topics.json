@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T11:26:48+00:00",
+  "generated_at": "2026-09-03T11:32:47+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309"
       },
       {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171"
+      },
+      {
+        "title": "[NEU] [hoch] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172"
+      },
+      {
+        "title": "[NEU] [hoch] BigBlueButton: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170"
+      },
+      {
         "title": "[UPDATE] [mittel] FasterXML Jackson: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-03T09:22:38+00:00",
@@ -124,20 +145,6 @@
         "published_at": "2026-09-03T08:41:58+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041"
-      },
-      {
-        "title": "WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-03T10:32:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html"
-      },
-      {
-        "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-03T07:56:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html"
       }
     ],
     "github": [
@@ -147,6 +154,13 @@
         "published_at": "2026-09-03T02:00:25+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/"
+      },
+      {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171"
       },
       {
         "title": "sngyai/Sequoia-X",
@@ -179,6 +193,13 @@
         "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/"
       },
       {
+        "title": "[NEU] [hoch] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172"
+      },
+      {
         "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-03T02:00:33+00:00",
@@ -208,6 +229,27 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171"
+      },
+      {
+        "title": "[NEU] [hoch] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172"
+      },
+      {
+        "title": "[NEU] [hoch] BigBlueButton: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170"
+      },
       {
         "title": "sngyai/Sequoia-X",
         "source": "GitHub Trending RSS All Languages Daily",

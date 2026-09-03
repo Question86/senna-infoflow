@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T11:26:48+00:00_
+_Generiert: 2026-09-03T11:32:47+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+42 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -48,23 +48,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] FasterXML Jackson: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350)
+- **[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-03T09:22:38+00:00`, fetched `2026-09-03T09:34:37+00:00`
+  - Zeit: published `2026-09-03T11:26:58+00:00`, fetched `2026-09-03T11:32:18+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in FasterXML Jackson ausnutzen, um Daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen, Code auszuführen oder Sicherheitsmaßnahmen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Apache log4j und Log4cxx: Mehrere Schwachstellen ermöglichen Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292)
+- **[NEU] [hoch] IBM i: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-03T09:22:37+00:00`, fetched `2026-09-03T09:34:37+00:00`
+  - Zeit: published `2026-09-03T11:26:58+00:00`, fetched `2026-09-03T11:32:18+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache log4j und Apache Log4cxx ausnutzen, um Dateien zu manipulieren.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen und um Datenbanktransaktionen oder Speicher zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
