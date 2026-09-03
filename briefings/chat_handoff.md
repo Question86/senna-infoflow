@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T08:27:26+00:00_
+_Generated: 2026-09-03T08:41:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-09-03T08:27:26+00:00_
 - url: https://github.com/DietrichGebert/ponytail
 - summary: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Meas…
 
-### 6. M 5.1 - 42 km NW of Coquimbo, Chile
+### 6. M 5.1 - 115 km NE of Joshīmath, India
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-03T08:31:44.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4
+- summary: Time 2026-09-03 08:16:36 UTC 2026-09-03 08:16:36 UTC at epicenter Location 31.362°N 80.330°E Depth 10.00 km (6.21 mi)
+
+### 7. M 5.1 - 42 km NW of Coquimbo, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-03T06:32:17.044+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc
 - summary: DYFI? - I Time 2026-09-03 06:04:02 UTC 2026-09-03 06:04:02 UTC at epicenter Location 29.735°S 71.698°W Depth 55.16 km (34.28 mi)
-
-### 7. トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-02T11:53:15+00:00`
-- url: https://zenn.dev/helloworld/articles/bcaea69f58eae5
-- summary: ナレッジグラフ方式の Graphify（94k stars）・code-review-graph（26k）・better-code-review-graph（66）と、言語サーバー（LSP）方式の Serena（26.8k）。Stars数は2026年7月時点。 code-review-graphとbetter-code-review-graphはフォーク関係。code-review-graphはpre-commitでコンテキスト供給だけ、質問はbetter...
 
 END OF DOCUMENT
