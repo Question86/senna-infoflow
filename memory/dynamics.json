@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T21:46:09Z",
+  "generated_at": "2026-09-03T22:03:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,11 @@
       "extreme": 1,
       "krass": 6,
       "strong": 12,
-      "watch": 20,
-      "quiet": 1
+      "watch": 21
     },
     "bands_after_gate_recheck": {
       "strong": 19,
-      "watch": 20,
-      "quiet": 1
+      "watch": 21
     }
   },
   "top_dynamics": [
@@ -24,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -48,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:38+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -72,7 +70,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:37+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -96,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -120,7 +118,7 @@
       "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T11:33:59+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -145,7 +143,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -171,7 +169,7 @@
       "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-03T14:04:59+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -199,7 +197,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai",
         "security",
@@ -226,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -252,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -278,7 +276,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:42:00+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -304,7 +302,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -330,7 +328,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -356,7 +354,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 76.82,
+      "age_days": 76.84,
       "topics": [
         "ai"
       ],
@@ -385,7 +383,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:21:09+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -411,7 +409,7 @@
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T00:00:00+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "ai",
         "security"
@@ -438,7 +436,7 @@
       "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T10:32:00.000+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -462,7 +460,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te51",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:41:26.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -487,7 +485,7 @@
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-03T10:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -512,7 +510,7 @@
       "url": "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T13:49:00.000+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security"
@@ -537,7 +535,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T07:56:00.000+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "ai",
         "security"
@@ -562,7 +560,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te21",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T17:25:01.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -587,7 +585,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:53:48.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -612,7 +610,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:31:44.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -633,11 +631,35 @@
       "summary": "Time 2026-09-03 08:16:36 UTC 2026-09-03 08:16:36 UTC at epicenter Location 31.362°N 80.330°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.9 - 98 km W of Gorontalo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te55",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T21:54:42.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-03 21:05:15 UTC 2026-09-03 21:05:15 UTC at epicenter Location 0.526°N 122.178°E Depth 111.18 km (69.08 mi)"
+    },
+    {
       "title": "M 5.1 - Owen Fracture Zone region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdzk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T14:30:41.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -662,7 +684,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdz8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T14:06:46.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -687,7 +709,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-08-25T00:00:00+00:00",
-      "age_days": 9.91,
+      "age_days": 9.92,
       "topics": [
         "general"
       ],
@@ -711,7 +733,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1075/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-08-24T00:00:00+00:00",
-      "age_days": 10.91,
+      "age_days": 10.92,
       "topics": [
         "general"
       ],
@@ -735,7 +757,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te5e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:35:42.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -759,7 +781,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T06:32:17.044+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -783,7 +805,7 @@
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [
         "ai"
       ],
@@ -809,7 +831,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1076/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-08-24T00:00:00+00:00",
-      "age_days": 10.91,
+      "age_days": 10.92,
       "topics": [
         "general"
       ],
@@ -833,7 +855,7 @@
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -856,7 +878,7 @@
       "url": "https://vitest.dev/blog/vitest-5.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T15:41:22+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -880,7 +902,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-09-03T12:30:00+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "macro"
       ],
@@ -904,7 +926,7 @@
       "url": "https://satoweb.net/2026/09/p-18390/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T06:52:56+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -928,7 +950,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T18:49:50.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -952,7 +974,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:46:04.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -976,7 +998,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:04:52.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -994,34 +1016,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-09-03 07:46:19 UTC 2026-09-03 07:46:19 UTC at epicenter Location 20.789°S 176.407°W Depth 217.98 km (135.44 mi)"
-    },
-    {
-      "title": "M 5.5 - 100 km S of Nikolski, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-03T20:42:22.040+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - III Time 2026-09-03 20:21:15 UTC 2026-09-03 20:21:15 UTC at epicenter Location 52.051°N 169.139°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
