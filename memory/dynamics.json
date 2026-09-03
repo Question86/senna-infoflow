@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T12:04:50Z",
+  "generated_at": "2026-09-03T12:35:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 6,
       "strong": 10,
-      "watch": 8,
-      "quiet": 16
+      "watch": 9,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 16,
-      "watch": 8,
-      "quiet": 16
+      "watch": 9,
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:38+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T11:33:59+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -144,7 +144,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -170,7 +170,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security",
@@ -197,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:42:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -275,7 +275,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -301,7 +301,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -327,7 +327,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 76.42,
+      "age_days": 76.44,
       "topics": [
         "ai"
       ],
@@ -356,7 +356,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:21:09+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -382,7 +382,7 @@
       "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T10:32:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -406,7 +406,7 @@
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-03T10:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -431,7 +431,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T07:56:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -456,7 +456,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:53:48.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -481,7 +481,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:31:44.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -506,7 +506,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T06:32:17.044+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -530,7 +530,7 @@
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -556,7 +556,7 @@
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -575,11 +575,35 @@
       "summary": "マーティン・ファウラー氏来日登壇決定/Findy主催"
     },
     {
+      "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "published_at": "2026-09-03T12:30:00+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Speech At Reuters NEXT Newsmaker Interview, Washington, D.C."
+    },
+    {
       "title": "M 4.8 - 12 km E of Venustiano Carranza (Peña Blanca), Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:46:04.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -603,7 +627,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:04:52.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -627,7 +651,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:24:46.015+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "disaster"
@@ -655,7 +679,7 @@
       "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:25+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -680,7 +704,7 @@
       "url": "https://togetter.com/li/2740824",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T07:41:01+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -704,7 +728,7 @@
       "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T11:53:15+00:00",
-      "age_days": 1.01,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -730,7 +754,7 @@
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:09:45+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -756,7 +780,7 @@
       "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:30:51+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -776,11 +800,38 @@
       "summary": "In January 2026, 2Stallions’ Malaysian entity came into scope for Phase 4 of LHDN’s e-invoicing mandate. Compliance took days. We run Xero across the group, and Xero already connects to MyInvois, Malaysia’s e-invoicing system, through a registered intermediary. We had picked cloud accounting years earlier for our own…"
     },
     {
+      "title": "M 4.9 - 81 km SW of Nikolski, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T12:00:58.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ShakeMap - III Time 2026-09-03 11:39:41 UTC 2026-09-03 11:39:41 UTC at epicenter Location 52.346°N 169.561°W Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "M 6.3 - 84 km SSW of Nikolski, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:38:48.886+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "disaster"
@@ -807,7 +858,7 @@
       "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-03T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -831,7 +882,7 @@
       "url": "https://github.com/sngyai/Sequoia-X",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -856,7 +907,7 @@
       "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T03:09:23+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -880,7 +931,7 @@
       "url": "https://togetter.com/li/2740713",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:48:49+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -900,11 +951,35 @@
       "summary": "本町太朗 @mY9tWUsRPD73701 新機能、購入判断シミュレーターを実装しました。金利、物価、住宅価格などがどういうシナリオを辿ると家計が崩壊しないのか、賃貸と購入でどっちが得なのか、自身の状況に合わせてシミュレーション出来ます。建物別のページの在庫一覧から建物価格を入力した状態で飛ぶことも出来ます。 賃貸..."
     },
     {
+      "title": "壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤 - MonotaRO Tech Blog",
+      "url": "https://tech-blog.monotaro.com/entry/2026/09/03/090000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T00:16:00+00:00",
+      "age_days": 0.51,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "課題の発端：E2Eテストが並列実行できなかった 備考 データベースだけが分身できない なぜ自前で作ったのか 発想の転換：MySQL の下を工夫する ZFSの機能・特徴 なぜ数秒で、ディスクもほとんど使わずに複製できるのか 全体のしくみ 実際にどのくらい速いのか コラム：スナップショットを撮るタイミングで気をつけたこと..."
+    },
+    {
       "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
       "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:33+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -930,7 +1005,7 @@
       "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T23:01:23+00:00",
-      "age_days": 0.54,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -950,83 +1025,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "初めまして、Maki（@yuma_prog）です。 突然ですが、業務時間外に技術の勉強をするのはつらいと思っていませんか。でも、やらないと他の人との差が出てしまうから勉強をしないと…と日々ストレスを感じていませんか。周りの強いエンジニアを見るとずっと最新の情報を学び続けていて、自分にはああなるのは絶対に無理だ、..."
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.39,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 75.4d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.39,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 75.4d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.39,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 75.4d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
