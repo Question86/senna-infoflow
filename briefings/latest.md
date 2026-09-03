@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T00:00:14+00:00_
+_Generiert: 2026-09-03T00:54:48+00:00_
 
 ## Kurzlage
 
-Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
+1 neue relevante Treffer. Stärkstes Signal: „自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.“ aus Hatena Bookmark Hotentry IT (Score 4, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +57,6 @@ Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001316)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -77,7 +77,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.** — Score 4, observation — [Quelle](https://takoratta.hatenablog.com/entry/2026/08/31/181136)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-31T23:40:28+00:00`, fetched `2026-09-03T00:54:19+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
+  - Kurz: 自分で出した本を、国会図書館に納本してきた 突然だが、本を出したら国立国会図書館に納本しなければならない、というのをご存じだろうか。 私は知らなかった。正確に言うと、納本という制度があること自体は知っていた。ただ、それが自分に関係のある話だとは思っていなかった。 これまで何冊か本を書いてきたが、すべ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -86,3 +94,7 @@ Keine neuen Beobachtungssignale.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
