@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T21:37:54+00:00",
+  "generated_at": "2026-09-03T21:43:19+00:00",
   "topics": {
     "security": [
       {
@@ -219,6 +219,78 @@
         "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates"
       }
     ],
+    "general": [
+      {
+        "title": "M 4.8 - 57 km N of Ende, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T21:41:26.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te51"
+      },
+      {
+        "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-03T06:52:56+00:00",
+        "relevance_score": 12,
+        "url": "https://satoweb.net/2026/09/p-18390/"
+      },
+      {
+        "title": "M 4.8 - 29 km WSW of Salamanca, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T21:35:42.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te5e"
+      },
+      {
+        "title": "M 5.5 - 100 km S of Nikolski, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T20:42:22.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
+      },
+      {
+        "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T20:35:36.475+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcccm"
+      },
+      {
+        "title": "M 5.3 - 104 km SSW of Nikolski, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T19:05:51.608+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m"
+      },
+      {
+        "title": "M 5.3 - 93 km SSW of Nikolski, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T18:53:11.372+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlyxjh"
+      },
+      {
+        "title": "M 5.2 - 271 km SSE of Dunhuang, China",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T17:25:01.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te21"
+      },
+      {
+        "title": "M 4.8 - 81 km SSW of Nikolski, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T16:46:02.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09"
+      },
+      {
+        "title": "M 5.2 - 100 km SSW of Nikolski, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T13:25:57.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys"
+      }
+    ],
     "economy": [
       {
         "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
@@ -326,78 +398,6 @@
         "published_at": "2026-09-03T01:30:51+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/"
-      }
-    ],
-    "general": [
-      {
-        "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-03T06:52:56+00:00",
-        "relevance_score": 12,
-        "url": "https://satoweb.net/2026/09/p-18390/"
-      },
-      {
-        "title": "M 4.8 - 29 km WSW of Salamanca, Chile",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T21:35:42.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te5e"
-      },
-      {
-        "title": "M 5.5 - 100 km S of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T20:42:22.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
-      },
-      {
-        "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T20:35:36.475+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcccm"
-      },
-      {
-        "title": "M 5.3 - 104 km SSW of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T19:05:51.608+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m"
-      },
-      {
-        "title": "M 5.3 - 93 km SSW of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T18:53:11.372+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlyxjh"
-      },
-      {
-        "title": "M 5.2 - 271 km SSE of Dunhuang, China",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T17:25:01.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te21"
-      },
-      {
-        "title": "M 4.8 - 81 km SSW of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T16:46:02.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09"
-      },
-      {
-        "title": "M 5.2 - 100 km SSW of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T13:25:57.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys"
-      },
-      {
-        "title": "M 5.2 - 93 km S of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T13:10:26.369+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkshll"
       }
     ]
   }
