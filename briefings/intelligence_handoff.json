@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-03T12:35:41Z",
+  "generated_at": "2026-09-03T12:53:15Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] IBM i: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:38+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:37+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -111,7 +111,7 @@
       "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T11:33:59+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -136,7 +136,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -162,7 +162,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security",
@@ -189,7 +189,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -215,7 +215,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -241,7 +241,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:42:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -267,7 +267,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -293,7 +293,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:47:19+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
