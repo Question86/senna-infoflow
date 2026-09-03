@@ -1715,6 +1715,27 @@
     "id": "62b044d9b922976ca397"
   },
   {
+    "title": "Upcoming deprecation of selected GitHub Copilot models",
+    "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-03T19:40:14+00:00",
+    "fetched_at": "2026-09-03T20:00:02+00:00",
+    "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c9bc1cc53b93fa38b7b0"
+  },
+  {
     "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
     "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
     "source": "Japan Digital Agency News RSS",
@@ -1773,6 +1794,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eb42101b9755eb89efad"
+  },
+  {
+    "title": "オラに演算能力を分けてくれ！NVIDIA、家庭内のPCで分散推論する「PAIR」",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2138088.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-03T16:07:16+00:00",
+    "fetched_at": "2026-09-03T20:00:02+00:00",
+    "summary": "オラに演算能力を分けてくれ！NVIDIA、家庭内のPCで分散推論する「PAIR」",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "772f43f60f9b2d84f5e9"
   },
   {
     "title": "I refused to train the AI that could replace me",
