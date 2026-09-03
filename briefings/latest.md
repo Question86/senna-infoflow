@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T17:20:25+00:00_
+_Generiert: 2026-09-03T17:29:13+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+70 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -120,6 +120,15 @@ _Generiert: 2026-09-03T17:20:25+00:00_
   - Warum relevant: Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in NGINX und NGINX Plus ausnutzen, um Dateien zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **WebMCPがアツいので見てほしい | DevelopersIO** — Score 16, observation — [Quelle](https://dev.classmethod.jp/articles/webmcp-introduction/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T11:43:12+00:00`, fetched `2026-09-03T17:28:41+00:00`
+  - Treffer: AI Agents, developer, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline** — Score 15, observation — [Quelle](https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T05:09:45+00:00`, fetched `2026-09-03T05:47:19+00:00`
@@ -204,6 +213,15 @@ _Generiert: 2026-09-03T17:20:25+00:00_
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: とりあえずWordPressを設置していた某ドメイン 特に重要な記事が入っているわけでもなく、ほぼ放置状態。 時たまSSL生きてるかみているだけだったもの 月が替わったので確認したときにやられていることに気づく。 「Hacked by CoupDeGrace」は、2026年8月中旬頃から日本の複数のWordPressサイトなどで相次いで確認されて...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 271 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te21)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-03T17:25:01.040+00:00`, fetched `2026-09-03T17:28:41+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-03 17:04:40 UTC 2026-09-03 17:04:40 UTC at epicenter Location 37.796°N 95.467°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 81 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T16:46:02.040+00:00`, fetched `2026-09-03T16:51:07+00:00`
@@ -221,15 +239,6 @@ _Generiert: 2026-09-03T17:20:25+00:00_
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-03 13:03:18 UTC 2026-09-03 13:03:18 UTC at epicenter Location 52.056°N 169.199°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 93 km S of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attkshll)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-03T13:10:26.369+00:00`, fetched `2026-09-03T13:10:11+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-09-03 13:03:21 UTC 2026-09-03 13:03:21 UTC at epicenter Location 52.100°N 169.000°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html)
   - Quelle: heise Security Alerts / `rss`
@@ -276,6 +285,15 @@ _Generiert: 2026-09-03T17:20:25+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Reopening Copilot Business and Enterprise signups** — Score 8, risk — [Quelle](https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-03T14:40:43+00:00`, fetched `2026-09-03T17:28:41+00:00`
+  - Treffer: Copilot, GitHub, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks. If you’ve been waiting to get started… The post Reopening Copilot Business and Enterprise signups appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Carsome posts tenth profitable quarter as SEA’s used-car race matures** — Score 8, observation — [Quelle](https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T11:33:59+00:00`, fetched `2026-09-03T11:40:17+00:00`
@@ -284,15 +302,6 @@ _Generiert: 2026-09-03T17:20:25+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: For years, Southeast Asia’s online used-car platforms were judged mainly by how fast they could expand: more inspection centres, more listings, more buyers, more cities. Carsome’s latest numbers suggest the sector has entered a different phase, one where scale still matters, but profitability is becoming the sharper test. The Malaysia-headquartered used-car e-commerce group reported record […] The post Carsome posts…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Healthcare’s infrastructure: Why vertical AI will define medicine’s next century** — Score 8, observation — [Quelle](https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-03T02:15:31+00:00`, fetched `2026-09-03T02:26:45+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. Healthcare is undergoing a similar transformation, from episodic intervention to continuous, intelligence-led care that follows the patient, not the […] The post…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

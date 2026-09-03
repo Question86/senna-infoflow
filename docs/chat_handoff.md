@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T17:20:25+00:00_
+_Generated: 2026-09-03T17:29:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `70`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-09-03T17:20:25+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0309
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in NGINX und NGINX Plus ausnutzen, um Dateien zu manipulieren.
 
-### 5. Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-09-03T05:09:45+00:00`
-- url: https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/
-- summary: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase…
+### 5. WebMCPがアツいので見てほしい | DevelopersIO
+- source: Hatena Bookmark Hotentry IT
+- score: `16`
+- published: `2026-09-03T11:43:12+00:00`
+- url: https://dev.classmethod.jp/articles/webmcp-introduction/
+- summary: リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...
 
 ### 6. sngyai/Sequoia-X
 - source: GitHub Trending RSS All Languages Daily
