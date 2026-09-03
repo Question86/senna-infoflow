@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T06:52:41+00:00",
-  "run_id": "2026-09-03T06:52:41+00:00",
+  "generated_at": "2026-09-03T07:00:58+00:00",
+  "run_id": "2026-09-03T07:00:58+00:00",
   "date": "2026-09-03",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 3,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 1
   },
   "sections": {
@@ -396,6 +396,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eb42101b9755eb89efad"
+      },
+      {
+        "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-03T03:09:23+00:00",
+        "fetched_at": "2026-09-03T07:00:23+00:00",
+        "summary": "アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "99c1de80f10b72eee437"
       },
       {
         "title": "「三層構造はもう古い」は本当か。AI時代におけるバックエンドシステムのアーキテクチャ - レバテックLAB",
@@ -933,6 +954,27 @@
       "id": "eb42101b9755eb89efad"
     },
     {
+      "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T03:09:23+00:00",
+      "fetched_at": "2026-09-03T07:00:23+00:00",
+      "summary": "アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99c1de80f10b72eee437"
+    },
+    {
       "title": "「三層構造はもう古い」は本当か。AI時代におけるバックエンドシステムのアーキテクチャ - レバテックLAB",
       "url": "https://levtech.jp/media/detail_920/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1099,7 +1141,29 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T03:09:23+00:00",
+      "fetched_at": "2026-09-03T07:00:23+00:00",
+      "summary": "アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99c1de80f10b72eee437"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
