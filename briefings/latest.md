@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T05:47:52+00:00_
+_Generiert: 2026-09-03T06:00:45+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+19 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -148,14 +148,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. Healthcare is undergoing a similar transformation, from episodic intervention to continuous, intelligence-led care that follows the patient, not the […] The post…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave** — Score 7, observation — [Quelle](https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/)
+- **For Southeast Asian startups, distress may show up before the cash runs out** — Score 7, observation — [Quelle](https://e27.co/for-southeast-asian-startups-distress-may-show-up-before-the-cash-runs-out-20260903/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-03T01:30:51+00:00`, fetched `2026-09-03T01:41:14+00:00`
-  - Treffer: APAC Trend Radar
+  - Zeit: published `2026-09-03T05:49:09+00:00`, fetched `2026-09-03T05:59:59+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
-  - Kurz: In January 2026, 2Stallions’ Malaysian entity came into scope for Phase 4 of LHDN’s e-invoicing mandate. Compliance took days. We run Xero across the group, and Xero already connects to MyInvois, Malaysia’s e-invoicing system, through a registered intermediary. We had picked cloud accounting years earlier for our own reasons. The mandate arrived to find us […] The post Malaysia fines, Singapore funds: How two govern…
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: For many companies in Asia, distress rarely arrives as a single dramatic event. It tends to build quietly: a more expensive lender replacing a bank, a missed fundraising target explained away as timing, profits that look healthy on paper but do not turn into cash, or a trusted senior executive leaving without a clear successor. […] The post For Southeast Asian startups, distress may show up before the cash runs out…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催** — Score 5, opportunity — [Quelle](https://architecture-con.findy-tools.io/2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
