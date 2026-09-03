@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T23:24:03+00:00",
-  "run_id": "2026-09-03T23:24:03+00:00",
+  "generated_at": "2026-09-03T23:29:24+00:00",
+  "run_id": "2026-09-03T23:29:24+00:00",
   "date": "2026-09-03",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 93
     },
@@ -24,7 +24,7 @@
     "high": 1,
     "medium": 17,
     "observe": 75,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [
@@ -5095,14 +5095,7 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [
-    {
-      "source_id": "japan_digital_agency_news",
-      "source_name": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
