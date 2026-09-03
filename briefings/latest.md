@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T13:58:26+00:00_
+_Generiert: 2026-09-03T14:13:46+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+61 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M5.2 - 100 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys)
-  - Quelle: USGS
-  - Zeit: `2026-09-03T13:03:18+00:00`
-  - Kurz: M5.2 - 100 km SSW of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.
 - **USGS earthquake M6.3 - 84 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt)
   - Quelle: USGS
   - Zeit: `2026-09-03T11:17:24+00:00`
@@ -69,6 +65,10 @@ _Generiert: 2026-09-03T13:58:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.
+- **GDACS: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001318)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
