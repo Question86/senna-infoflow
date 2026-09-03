@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T13:41:45+00:00_
+_Generated: 2026-09-03T13:52:44+00:00_
 
 ## Status
-- status: `warning`
-- findings: `54`
+- status: `normal`
+- findings: `58`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-03T13:41:45+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
 - summary: Speech At Reuters NEXT Newsmaker Interview, Washington, D.C.
 
-### 8. M 5.2 - 100 km SSW of Nikolski, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-03T13:25:57.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys
-- summary: ShakeMap - III Time 2026-09-03 13:03:18 UTC 2026-09-03 13:03:18 UTC at epicenter Location 52.056°N 169.199°W Depth 10.00 km (6.21 mi)
+### 8. 放置していたWordPressが乗っ取られてWebShellだらけになっていた話
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-03T06:52:56+00:00`
+- url: https://satoweb.net/2026/09/p-18390/
+- summary: とりあえずWordPressを設置していた某ドメイン 特に重要な記事が入っているわけでもなく、ほぼ放置状態。 時たまSSL生きてるかみているだけだったもの 月が替わったので確認したときにやられていることに気づく。 「Hacked by CoupDeGrace」は、2026年8月中旬頃から日本の複数のWordPressサイトなどで相次いで確認されて...
 
 END OF DOCUMENT
