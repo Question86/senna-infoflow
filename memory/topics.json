@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T11:04:13+00:00",
+  "generated_at": "2026-09-03T11:19:03+00:00",
   "topics": {
     "ai": [
       {
@@ -251,6 +251,13 @@
         "published_at": "2026-09-03T08:04:52.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv1"
+      },
+      {
+        "title": "スマートウォッチを調べた研究でどれも消費カロリーを過大評価していたことが判明、最も正確だったのはAppleでGarminとSamsungがオーバー気味",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-03T03:19:54+00:00",
+        "relevance_score": 7,
+        "url": "https://gigazine.net/news/20260903-smartwatch-lying-calories/"
       },
       {
         "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
