@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T15:33:20+00:00_
+_Generiert: 2026-09-03T15:41:57+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+63 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -224,5 +224,4 @@ _Generiert: 2026-09-03T15:33:20+00:00_
 
 ## Quellenfehler
 
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
