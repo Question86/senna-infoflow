@@ -1,18 +1,31 @@
 {
-  "generated_at": "2026-09-03T16:39:02+00:00",
-  "status": "normal",
+  "generated_at": "2026-09-03T16:46:11+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "new_relevant_findings": 1,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 1,
     "medium": 13,
-    "observe": 50,
-    "source_errors": 0
+    "observe": 51,
+    "source_errors": 2
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "github_blog_atom",
+      "source_name": "GitHub Blog Atom",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='github.blog', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
