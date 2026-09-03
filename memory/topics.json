@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T10:31:31+00:00",
+  "generated_at": "2026-09-03T10:40:11+00:00",
   "topics": {
     "ai": [
       {
@@ -124,6 +124,13 @@
         "published_at": "2026-09-03T08:41:58+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041"
+      },
+      {
+        "title": "WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-03T10:32:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html"
       },
       {
         "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
