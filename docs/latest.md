@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T06:53:58+00:00_
+_Generiert: 2026-09-04T07:00:35+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+30 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-04 02:28:46 UTC 2026-09-04 02:28:46 UTC at epicenter Location 52.128°N 176.905°E Depth 52.00 km (32.31 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Jetzt patchen! Angreifer führen Schadcode in der Sandbox von Chrome aus** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-04T06:48:00.000+00:00`, fetched `2026-09-04T07:00:02+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Google hat mehrere Sicherheitslücken im Webbrowser Chrome geschlossen. Eine Schwachstelle nutzen Angreifer bereits aus.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和9年度「概算要求書」及び「政策評価調書」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/budget/r9request)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-04T06:00:00+00:00`, fetched `2026-09-04T06:35:27+00:00`
