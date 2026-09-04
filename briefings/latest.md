@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T09:58:54+00:00_
+_Generiert: 2026-09-04T10:15:49+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+47 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,14 +158,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] GIMP: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2219)
+- **[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3007)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-04T09:57:15+00:00`, fetched `2026-09-04T09:58:25+00:00`
+  - Zeit: published `2026-09-04T09:59:21+00:00`, fetched `2026-09-04T10:15:13+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -269,6 +269,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-04 06:45:54 UTC 2026-09-04 06:45:54 UTC at epicenter Location 56.154°S 26.163°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-04T10:00:00+00:00`, fetched `2026-09-04T10:15:13+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Five unexpected ways computing power is entering everyday life in the country.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Root-Attacken auf Nexus-9000-Switches von Cisco möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Root-Attacken-auf-Nexus-9000-Switches-von-Cisco-moeglich-11441090.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-04T09:28:00.000+00:00`, fetched `2026-09-04T09:41:52+00:00`
@@ -295,15 +304,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google hat mehrere Sicherheitslücken im Webbrowser Chrome geschlossen. Eine Schwachstelle nutzen Angreifer bereits aus.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和9年度「概算要求書」及び「政策評価調書」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/budget/r9request)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-04T06:00:00+00:00`, fetched `2026-09-04T06:35:27+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和9年度「概算要求書」及び「政策評価調書」を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

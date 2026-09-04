@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T09:58:54+00:00",
+  "generated_at": "2026-09-04T10:15:49+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,13 @@
         "url": "https://jvn.jp/vu/JVNVU97027767/"
       },
       {
+        "title": "[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T09:59:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3007"
+      },
+      {
         "title": "[UPDATE] [mittel] GIMP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-04T09:57:15+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-09-04T04:15:31+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/"
-      },
-      {
-        "title": "旭辰資訊｜SmartIT Desktop Manager - 存在4個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-04T02:24:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11176-a4cc2-1.html"
       }
     ],
     "economy": [
@@ -207,6 +207,13 @@
         "url": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
       },
       {
+        "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-04T10:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
         "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
         "published_at": "2026-09-04T07:55:00+00:00",
@@ -235,6 +242,13 @@
         "published_at": "2026-09-04T02:40:31.076+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attktivy"
+      },
+      {
+        "title": "エンジニア面接で「開発力」を見るために聞いていること",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-04T04:12:31+00:00",
+        "relevance_score": 10,
+        "url": "https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/"
       },
       {
         "title": "The decision discipline: How to turn insights into action",
@@ -277,13 +291,6 @@
         "published_at": "2026-09-04T04:31:44+00:00",
         "relevance_score": 5,
         "url": "https://anond.hatelabo.jp/20260904132526"
-      },
-      {
-        "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T03:13:28+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001163/"
       }
     ],
     "github": [
