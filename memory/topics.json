@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T11:51:43+00:00",
+  "generated_at": "2026-09-04T11:57:17+00:00",
   "topics": {
     "ai": [
       {
@@ -286,11 +286,11 @@
         "url": "https://www.digital.go.jp/speech/minister-260904-01"
       },
       {
-        "title": "いいかげんJRPGは「戦闘システム」から脱却しろよ",
+        "title": "新宿駅に「ごみ箱ロボット」出現 改札内を自動巡回 JR東が実証実験",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T04:31:44+00:00",
+        "published_at": "2026-09-04T10:17:10+00:00",
         "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260904132526"
+        "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/"
       }
     ],
     "github": [
