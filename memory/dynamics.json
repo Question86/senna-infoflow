@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-04T01:52:15Z",
+  "generated_at": "2026-09-04T02:04:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 13,
+    "dynamics": 15,
     "bands": {
       "krass": 1,
       "strong": 4,
-      "quiet": 8
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "quiet": 8
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -123,7 +123,7 @@
       "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:49+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -149,7 +149,7 @@
       "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T14:04:25+00:00",
-      "age_days": 2.49,
+      "age_days": 2.5,
       "topics": [
         "ai"
       ],
@@ -168,6 +168,54 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、..."
+    },
+    {
+      "title": "「おっぱい」の話ができるSNSと、できないSNS",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-04T00:38:18+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "筆者は最近、めちゃめちゃおっぱいの話をしている。ライターの仕事が終われば家で妻とおっぱいの話をしているし、知人ともおっぱいの話をしているし、SNSでもおっぱいの話をしている。 なんでこんなにおっぱいの話をしているかというと、筆者がライターとは別の仕事として、とあるコンテンツの宣伝を手伝っていることに..."
+    },
+    {
+      "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
+      "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T18:13:28+00:00",
+      "age_days": 0.33,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 WebTerm Learnの入口は上記画面のようにゲーム仕立てになっており、進路によってGitやターミナル..."
     },
     {
       "title": "The AI wrapper reckoning has reached SEA’s funding tables",
@@ -199,7 +247,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T21:43:45+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -224,7 +272,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.96,
+      "age_days": 75.97,
       "topics": [
         "general"
       ],
@@ -249,7 +297,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.96,
+      "age_days": 75.97,
       "topics": [
         "general"
       ],
@@ -274,7 +322,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.96,
+      "age_days": 75.97,
       "topics": [
         "ai"
       ],
@@ -301,7 +349,7 @@
       "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T12:19:54+00:00",
-      "age_days": 20.56,
+      "age_days": 20.57,
       "topics": [
         "ai"
       ],
