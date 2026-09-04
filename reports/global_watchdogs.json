@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-04T02:40:59+00:00",
+  "generated_at": "2026-09-04T02:54:51+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "USGS earthquake M5.0 - 264 km ESE of Attu Station, Alaska",
-        "summary": "M5.0 - 264 km ESE of Attu Station, Alaska. PAGER alert: none. Tsunami flag: 1.",
+        "title": "USGS earthquake M5.0 - 236 km ESE of Attu Station, Alaska",
+        "summary": "M5.0 - 236 km ESE of Attu Station, Alaska. PAGER alert: none. Tsunami flag: 1.",
         "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attktivy",
-        "published_at": "2026-09-04T02:28:46+00:00",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
+        "published_at": "2026-09-04T02:28:38+00:00",
         "metrics": {
           "mag": 5.0,
           "alert": "",

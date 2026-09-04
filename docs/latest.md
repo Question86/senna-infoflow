@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T02:40:57+00:00_
+_Generiert: 2026-09-04T02:54:48+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)
   - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 236 km ESE of Attu Station, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-04T02:54:29.418+00:00`, fetched `2026-09-04T02:54:14+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-09-04 02:28:38 UTC 2026-09-04 02:28:38 UTC at epicenter Location 51.956°N 176.348°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 264 km ESE of Attu Station, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attktivy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-04T02:40:31.076+00:00`, fetched `2026-09-04T02:40:29+00:00`
