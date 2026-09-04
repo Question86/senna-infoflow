@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T03:50:51+00:00_
+_Generiert: 2026-09-04T03:56:16+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+20 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -114,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-04 02:28:46 UTC 2026-09-04 02:28:46 UTC at epicenter Location 52.128°N 176.905°E Depth 52.00 km (32.31 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Bitcoin just broke US$81,000: The real reason is not what you think** — Score 7, observation — [Quelle](https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/)
+- **The decision discipline: How to turn insights into action** — Score 10, observation — [Quelle](https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-04T03:26:53+00:00`, fetched `2026-09-04T03:34:51+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Bitcoin climbed 5.08 per cent over 24 hours to US$81,106.29, outpacing the broader crypto market’s 4.83 per cent advance to a US$2.72 trillion total capitalisation. The move did not happen in a vacuum. Bitcoin now trades with a 97 per cent correlation to the S&P 500 and an 86 per cent correlation to gold. Those […] The post Bitcoin just broke US$81,000: The real reason is not what you think appeared first on e27 .
+  - Zeit: published `2026-09-04T03:55:22+00:00`, fetched `2026-09-04T03:55:41+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: Here’s a test you can run on your own organisation. Think of the last genuinely important decision your team made. Now ask: did the data shape that decision, or did someone make the call and then reach for the data to justify it? If you’re honest, it’s usually the second one. And that tells you […] The post The decision discipline: How to turn insights into action appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年9月4日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260904-01)
   - Quelle: Japan Digital Agency News RSS / `rss`

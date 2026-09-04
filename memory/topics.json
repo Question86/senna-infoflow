@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T03:50:51+00:00",
+  "generated_at": "2026-09-04T03:56:16+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
         "published_at": "2026-09-04T02:40:31.076+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attktivy"
+      },
+      {
+        "title": "The decision discipline: How to turn insights into action",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T03:55:22+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/"
       },
       {
         "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
