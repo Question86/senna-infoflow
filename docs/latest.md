@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T15:55:58+00:00_
+_Generiert: 2026-09-04T16:01:35+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+76 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -249,3 +249,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_vietnam_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.com.vn/trending/rss%3Fgeo%3DVN&q=EgQ5l3vyGNPW69QGIjD7QR16zifbaGlLw5t4NxcFt89-YWAlPyRS15JmEhUT6ccgmr0zHAfWZX-fTZ23j8YyAnJSWgFD
