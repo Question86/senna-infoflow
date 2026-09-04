@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T21:30:21+00:00",
-  "run_id": "2026-09-04T21:30:21+00:00",
+  "generated_at": "2026-09-04T21:38:48+00:00",
+  "run_id": "2026-09-04T21:38:48+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 0,
@@ -4051,29 +4051,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot weekly releases — August 31",
-      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-04T21:05:01+00:00",
-      "fetched_at": "2026-09-04T21:29:52+00:00",
-      "summary": "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable… The post GitHub Copilot weekly releases — August 31 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a3262f2bf35386dc1ee9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
