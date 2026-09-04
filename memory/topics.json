@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T04:03:09+00:00",
+  "generated_at": "2026-09-04T04:25:06+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-04T03:45:27+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/"
+      },
+      {
+        "title": "The AI dashboard gold rush: Beyond the pretty charts",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T04:00:31+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/"
       },
       {
         "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
@@ -82,6 +89,29 @@
         "published_at": "2026-09-04T10:15:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU97027767/"
+      },
+      {
+        "title": "Should cybersecurity be nationalised?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T04:15:31+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "The AI dashboard gold rush: Beyond the pretty charts",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T04:00:31+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/"
+      },
+      {
+        "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T03:26:53+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/"
       }
     ],
     "github": [
@@ -163,15 +193,13 @@
         "published_at": "2026-09-03T18:13:28+00:00",
         "relevance_score": 5,
         "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html"
-      }
-    ],
-    "economy": [
+      },
       {
-        "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
+        "title": "Why podcasts are the next big data revolution",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T03:26:53+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/"
+        "published_at": "2026-09-04T04:10:57+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/"
       }
     ]
   }
