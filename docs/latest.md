@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T09:32:29+00:00_
+_Generiert: 2026-09-04T09:42:23+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+41 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-04 06:45:54 UTC 2026-09-04 06:45:54 UTC at epicenter Location 56.154°S 26.163°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Root-Attacken auf Nexus-9000-Switches von Cisco möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Root-Attacken-auf-Nexus-9000-Switches-von-Cisco-moeglich-11441090.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-04T09:28:00.000+00:00`, fetched `2026-09-04T09:41:52+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: IP-Telefone, Switches und Secure Email von Cisco sind angreifbar. Sicherheitspatches schließen zum Teil kritische Sicherheitslücken.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert** — Score 7, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-09-04T07:55:00+00:00`, fetched `2026-09-04T07:58:27+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年9月4日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260904-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-04T03:20:57+00:00`, fetched `2026-09-04T03:23:10+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年9月4日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
