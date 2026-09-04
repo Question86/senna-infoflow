@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T01:55:06+00:00_
+_Generiert: 2026-09-04T02:00:31+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,34 +33,8 @@ _Generiert: 2026-09-04T01:55:06+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563341)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 03/09/2026 20:21 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563451)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 03/09/2026 20:21 UTC, Few people affected in MMI III.
-- **GDACS: Volcanic eruption is on going for Sinabung in Indonesia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000147)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Sinabung in Indonesia
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 560 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563163)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 560 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563052)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fe13d7252d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
