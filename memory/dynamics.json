@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-04T06:56:21Z",
+  "generated_at": "2026-09-04T07:08:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 33,
+    "dynamics": 34,
     "bands": {
       "krass": 1,
-      "strong": 7,
+      "strong": 8,
       "watch": 6,
       "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
+      "strong": 9,
       "watch": 6,
       "quiet": 19
     }
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN32505330/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T12:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU96680494/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:15+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU97027767/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:30+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 77.21,
+      "age_days": 77.22,
       "topics": [
         "ai"
       ],
@@ -149,7 +149,7 @@
       "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:15:31+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -169,11 +169,36 @@
       "summary": "Up front: the honest answer is, I don’t think anybody is proposing that. Yet. I don’t know of any plan to put cybersecurity under state ownership, and I am misleading you if I suggest otherwise. But at a recent industry discussion, an argument surfaced that gets you surprisingly close to that territory. Furthermore, B…"
     },
     {
+      "title": "Jetzt patchen! Angreifer führen Schadcode in der Sandbox von Chrome aus",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-04T06:48:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, 10",
+        "security high-signal: code, 10"
+      ],
+      "summary": "Google hat mehrere Sicherheitslücken im Webbrowser Chrome geschlossen. Eine Schwachstelle nutzen Angreifer bereits aus."
+    },
+    {
       "title": "M 5.2 - 28 km S of Cilacap, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:24:21.871+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -224,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:54:29.418+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -249,7 +274,7 @@
       "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T05:11:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -276,7 +301,7 @@
       "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:45:27+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -302,7 +327,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attktivy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:40:31.076+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -326,7 +351,7 @@
       "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:00:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -401,7 +426,7 @@
       "url": "https://www.digital.go.jp/budget/r9request",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -425,7 +450,7 @@
       "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -449,7 +474,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260904-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T03:20:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -473,7 +498,7 @@
       "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T14:04:25+00:00",
-      "age_days": 2.7,
+      "age_days": 2.71,
       "topics": [
         "ai"
       ],
@@ -522,7 +547,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T00:38:18+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -546,7 +571,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T21:13:55+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -570,7 +595,7 @@
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T18:13:28+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -619,7 +644,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T21:43:45+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -644,7 +669,7 @@
       "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:10:57+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -668,7 +693,7 @@
       "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:27:09+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -694,7 +719,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 76.17,
+      "age_days": 76.18,
       "topics": [
         "general"
       ],
@@ -719,7 +744,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 76.17,
+      "age_days": 76.18,
       "topics": [
         "general"
       ],
@@ -744,7 +769,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 76.17,
+      "age_days": 76.18,
       "topics": [
         "ai"
       ],
@@ -797,7 +822,7 @@
       "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:00:11+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -822,7 +847,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T03:04:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
