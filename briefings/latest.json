@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T04:35:37+00:00",
-  "run_id": "2026-09-04T04:35:37+00:00",
+  "generated_at": "2026-09-04T04:45:16+00:00",
+  "run_id": "2026-09-04T04:45:16+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1175,28 +1175,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production",
-      "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T04:27:09+00:00",
-      "fetched_at": "2026-09-04T04:35:07+00:00",
-      "summary": "Restrooms may not be the most glamorous frontier for robotics, but they are among the most revealing. In malls, airports, hospitals and office towers, they sit at the intersection of hygiene expectations, labour shortages and operational cost pressures. For facilities managers, they are also one of the hardest spaces to keep consistently clean. Singapore-based Hivebotics […] The post Hivebotics nets US$6M to take re…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b98ca7fe1e82734de2a6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
