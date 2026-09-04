@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-04T21:44:27+00:00",
-  "run_id": "2026-09-04T21:44:27+00:00",
+  "generated_at": "2026-09-04T21:49:59+00:00",
+  "run_id": "2026-09-04T21:49:59+00:00",
   "date": "2026-09-04",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 1,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 30,
-    "observe": 54,
-    "source_errors": 1
+    "observe": 55,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1766,6 +1766,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66d817179085a879fd5e"
+      },
+      {
+        "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
+        "url": "https://www.m3tech.blog/entry/2026/09/03/200000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-04T18:45:45+00:00",
+        "fetched_at": "2026-09-04T21:49:28+00:00",
+        "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9985b94a8cb2ab830f74"
       },
       {
         "title": "AIに過剰に肯定された人の予後 - orangestar2",
@@ -3779,6 +3800,27 @@
       "id": "66d817179085a879fd5e"
     },
     {
+      "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/2026/09/03/200000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T18:45:45+00:00",
+      "fetched_at": "2026-09-04T21:49:28+00:00",
+      "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9985b94a8cb2ab830f74"
+    },
+    {
       "title": "AIに過剰に肯定された人の予後 - orangestar2",
       "url": "https://orangestar2.hatenadiary.com/entry/2026/09/04/210407",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4051,15 +4093,30 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "github_trending_all_daily",
-      "source_name": "GitHub Trending RSS All Languages Daily",
+      "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/2026/09/03/200000",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "published_at": "2026-09-04T18:45:45+00:00",
+      "fetched_at": "2026-09-04T21:49:28+00:00",
+      "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9985b94a8cb2ab830f74"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T21:44:27+00:00_
+_Generiert: 2026-09-04T21:49:59+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+85 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -336,7 +336,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `github_trending_all_daily` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
