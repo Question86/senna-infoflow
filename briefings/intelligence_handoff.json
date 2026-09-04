@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-04T03:39:07Z",
+  "generated_at": "2026-09-04T03:47:57Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU96680494/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:15+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU97027767/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:30+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -112,7 +112,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 77.07,
+      "age_days": 77.08,
       "topics": [
         "ai"
       ],
@@ -141,7 +141,7 @@
       "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:49+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -167,7 +167,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:54:29.418+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -192,7 +192,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attktivy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:40:31.076+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -240,7 +240,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260904-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T03:20:57+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -285,11 +285,11 @@
       "summary": "はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、..."
     },
     {
-      "title": "「おっぱい」の話ができるSNSと、できないSNS",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
+      "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-04T00:38:18+00:00",
-      "age_days": 0.13,
+      "published_at": "2026-09-04T01:45:25+00:00",
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -306,7 +306,7 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "筆者は最近、めちゃめちゃおっぱいの話をしている。ライターの仕事が終われば家で妻とおっぱいの話をしているし、知人ともおっぱいの話をしているし、SNSでもおっぱいの話をしている。 なんでこんなにおっぱいの話をしているかというと、筆者がライターとは別の仕事として、とあるコンテンツの宣伝を手伝っていることに..."
+      "summary": "35年間未解決だった「RSA-260」の素因数分解に成功した――Xに130ケタの数と「divides RSA-260」（RSA-260を割り切る）の一言だけを添えた9月3日付の投稿に、世界中から注目が集まっている。 論文や記者会見ではなく、Xの1つのポストで、第三者も検証可能な形で発表されたことに世界中から称賛が上がった。Xオーナーのイー..."
     }
   ],
   "read_order": [
