@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T08:59:48+00:00",
+  "generated_at": "2026-09-04T09:20:51+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,20 @@
         "published_at": "2026-09-04T10:15:30+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU94249914/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T09:06:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3152"
+      },
+      {
+        "title": "[UPDATE] [hoch] util-linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T09:06:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160"
       },
       {
         "title": "エクシングCPTrans-ME-Xにおける複数の脆弱性",
@@ -184,18 +198,18 @@
         "url": "https://www.digital.go.jp/speech/minister-260904-01"
       },
       {
+        "title": "いいかげんJRPGは「戦闘システム」から脱却しろよ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-04T04:31:44+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260904132526"
+      },
+      {
         "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-04T03:13:28+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001163/"
-      },
-      {
-        "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T01:45:25+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/"
       }
     ],
     "economy": [
@@ -212,6 +226,13 @@
         "published_at": "2026-09-04T05:11:35+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/"
+      },
+      {
+        "title": "Philip R. Lane: Diversity at the European Central Bank",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-04T09:10:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
       },
       {
         "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
@@ -245,6 +266,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "Philip R. Lane: Diversity at the European Central Bank",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-04T09:10:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
+      },
       {
         "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
         "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
