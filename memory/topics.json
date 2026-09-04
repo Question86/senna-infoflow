@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T03:35:20+00:00",
+  "generated_at": "2026-09-04T03:45:06+00:00",
   "topics": {
     "security": [
       {
@@ -121,6 +121,13 @@
         "published_at": "2026-09-04T03:20:57+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260904-01"
+      },
+      {
+        "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-04T01:45:25+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/"
       },
       {
         "title": "「おっぱい」の話ができるSNSと、できないSNS",
