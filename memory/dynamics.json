@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-04T14:23:28Z",
+  "generated_at": "2026-09-04T14:32:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0419",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-04T11:41:07+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0409",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-04T11:41:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -195,7 +195,7 @@
       "url": "https://jvn.jp/jp/JVN32505330/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T12:00:00+09:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -219,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-04T11:41:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -291,7 +291,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3007",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-04T09:59:21+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -446,7 +446,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2219",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-04T09:57:15+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -573,7 +573,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3152",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-04T09:06:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -598,7 +598,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-04T09:06:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -652,7 +652,7 @@
       "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:15:31+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -676,7 +676,7 @@
       "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-04T10:00:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -727,7 +727,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-04T07:55:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -777,7 +777,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11176-a4cc2-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-04T02:24:00+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -801,7 +801,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:24:21.871+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -902,7 +902,7 @@
       "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T05:11:35+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -929,7 +929,7 @@
       "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:45:27+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -955,7 +955,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8r",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T07:05:19.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -980,7 +980,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1082/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-08-26T00:00:00+00:00",
-      "age_days": 9.6,
+      "age_days": 9.61,
       "topics": [
         "general"
       ],
