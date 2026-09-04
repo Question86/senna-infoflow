@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-04T02:04:08Z",
+  "generated_at": "2026-09-04T02:31:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Casdoorにおける認可回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU96680494/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU97027767/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:30+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -88,7 +88,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 77.0,
+      "age_days": 77.02,
       "topics": [
         "ai"
       ],
@@ -117,7 +117,7 @@
       "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:49+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -143,7 +143,7 @@
       "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T14:04:25+00:00",
-      "age_days": 2.5,
+      "age_days": 2.52,
       "topics": [
         "ai"
       ],
@@ -168,7 +168,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T00:38:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -188,11 +188,35 @@
       "summary": "筆者は最近、めちゃめちゃおっぱいの話をしている。ライターの仕事が終われば家で妻とおっぱいの話をしているし、知人ともおっぱいの話をしているし、SNSでもおっぱいの話をしている。 なんでこんなにおっぱいの話をしているかというと、筆者がライターとは別の仕事として、とあるコンテンツの宣伝を手伝っていることに..."
     },
     {
+      "title": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T21:13:55+00:00",
+      "age_days": 0.22,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ"
+    },
+    {
       "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T18:13:28+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -216,7 +240,7 @@
       "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:15+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -241,7 +265,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T21:43:45+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -266,32 +290,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.97,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 76.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 75.97,
+      "age_days": 75.99,
       "topics": [
         "general"
       ],
