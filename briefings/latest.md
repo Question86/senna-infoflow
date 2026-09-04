@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T09:42:23+00:00_
+_Generiert: 2026-09-04T09:48:08+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+42 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -233,6 +233,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-04 02:28:46 UTC 2026-09-04 02:28:46 UTC at epicenter Location 52.128°N 176.905°E Depth 52.00 km (32.31 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **旭辰資訊｜SmartIT Desktop Manager - 存在4個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11176-a4cc2-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-09-04T02:24:00+00:00`, fetched `2026-09-04T09:47:35+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 旭辰資訊｜SmartIT Desktop Manager - 存在4個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Philip R. Lane: Diversity at the European Central Bank** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-04T09:10:00+00:00`, fetched `2026-09-04T09:20:17+00:00`
@@ -286,15 +295,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和9年度「概算要求書」及び「政策評価調書」を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-04T06:00:00+00:00`, fetched `2026-09-04T06:35:27+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
