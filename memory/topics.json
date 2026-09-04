@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T01:10:28+00:00",
+  "generated_at": "2026-09-04T01:29:18+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-04T10:15:30+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU94249914/"
+      },
+      {
+        "title": "Casdoorにおける認可回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-04T10:15:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96680494/"
+      },
+      {
+        "title": "Siemens製品に対するアップデート（2026年9月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-04T10:15:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU97027767/"
+      }
+    ],
     "ai": [
       {
         "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",

@@ -1,5 +1,72 @@
 [
   {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
+    "url": "https://jvn.jp/vu/JVNVU94249914/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-04T10:15:30+09:00",
+    "fetched_at": "2026-09-04T01:28:47+00:00",
+    "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1387e1fde70661f3f1fe"
+  },
+  {
+    "title": "Casdoorにおける認可回避の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU96680494/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-04T10:15:15+09:00",
+    "fetched_at": "2026-09-04T01:28:47+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "41e015451917ff3b4820"
+  },
+  {
+    "title": "Siemens製品に対するアップデート（2026年9月）",
+    "url": "https://jvn.jp/vu/JVNVU97027767/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-04T10:15:00+09:00",
+    "fetched_at": "2026-09-04T01:28:47+00:00",
+    "summary": "Siemensから各製品向けのアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "480a58363116d6814252"
+  },
+  {
     "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
     "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
     "source": "Hatena Bookmark Hotentry IT",
