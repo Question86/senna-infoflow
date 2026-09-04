@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T09:20:51+00:00",
+  "generated_at": "2026-09-04T09:32:29+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/"
       },
       {
+        "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T09:21:46+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
+      },
+      {
         "title": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-04T04:27:09+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/"
-      },
-      {
-        "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T01:00:11+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/"
       }
     ],
     "security": [
@@ -263,6 +263,13 @@
         "published_at": "2026-08-14T12:19:54+00:00",
         "relevance_score": 12,
         "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md"
+      },
+      {
+        "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T09:21:46+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
       }
     ],
     "geopolitics": [
@@ -272,6 +279,13 @@
         "published_at": "2026-09-04T09:10:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
+      },
+      {
+        "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T09:21:46+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
       },
       {
         "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
