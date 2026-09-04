@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T03:56:16+00:00",
-  "run_id": "2026-09-04T03:56:16+00:00",
+  "generated_at": "2026-09-04T04:03:09+00:00",
+  "run_id": "2026-09-04T04:03:09+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1007,29 +1007,7 @@
       "id": "e2299f3e16f77b8134fd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The decision discipline: How to turn insights into action",
-      "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T03:55:22+00:00",
-      "fetched_at": "2026-09-04T03:55:41+00:00",
-      "summary": "Here’s a test you can run on your own organisation. Think of the last genuinely important decision your team made. Now ask: did the data shape that decision, or did someone make the call and then reach for the data to justify it? If you’re honest, it’s usually the second one. And that tells you […] The post The decision discipline: How to turn insights into action appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6b37bd1fdfce9667294b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
