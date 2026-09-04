@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-04T05:23:41Z",
+  "generated_at": "2026-09-04T05:33:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 30,
     "bands": {
       "krass": 1,
-      "strong": 6,
+      "strong": 7,
       "watch": 6,
       "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "strong": 8,
       "watch": 6,
       "quiet": 16
     }
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN32505330/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU96680494/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU97027767/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:30+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 77.14,
+      "age_days": 77.15,
       "topics": [
         "ai"
       ],
@@ -169,11 +169,36 @@
       "summary": "Up front: the honest answer is, I don’t think anybody is proposing that. Yet. I don’t know of any plan to put cybersecurity under state ownership, and I am misleading you if I suggest otherwise. But at a recent industry discussion, an argument surfaced that gets you surprisingly close to that territory. Furthermore, B…"
     },
     {
+      "title": "M 5.2 - 28 km S of Cilacap, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T05:24:21.871+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - IV Time 2026-09-04 05:04:54 UTC 2026-09-04 05:04:54 UTC at epicenter Location 7.987°S 109.041°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "The Podular future: Why AI demands a new organisational architecture",
       "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:49+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -199,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:54:29.418+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -224,7 +249,7 @@
       "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T05:11:35+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro"
@@ -277,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attktivy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:40:31.076+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -328,7 +353,7 @@
       "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:26:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -352,7 +377,7 @@
       "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:55:22+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -400,7 +425,7 @@
       "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T14:04:25+00:00",
-      "age_days": 2.64,
+      "age_days": 2.65,
       "topics": [
         "ai"
       ],
@@ -425,7 +450,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T01:45:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -473,7 +498,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T21:13:55+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -521,7 +546,7 @@
       "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:15+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -546,7 +571,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T21:43:45+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -571,7 +596,7 @@
       "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:10:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -595,7 +620,7 @@
       "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:27:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -698,7 +723,7 @@
       "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T12:19:54+00:00",
-      "age_days": 20.71,
+      "age_days": 20.72,
       "topics": [
         "ai"
       ],
@@ -724,7 +749,7 @@
       "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:00:11+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
