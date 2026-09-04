@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T11:17:49+00:00_
+_Generiert: 2026-09-04T11:26:48+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-09-04T11:17:49+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.3 - 84 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt)
-  - Quelle: USGS
-  - Zeit: `2026-09-03T11:17:24+00:00`
-  - Kurz: M6.3 - 84 km SSW of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-59822 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
@@ -37,6 +33,10 @@ _Generiert: 2026-09-04T11:17:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.
+- **GDACS: Green flood alert in Japan** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104140)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Japan
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
   - Quelle: GDACS
   - Zeit: ``
