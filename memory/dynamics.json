@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-04T07:26:03Z",
+  "generated_at": "2026-09-04T07:35:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 35,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN32505330/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T12:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:15:31+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:24:21.871+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -249,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:54:29.418+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -274,7 +274,7 @@
       "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T05:11:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -301,7 +301,7 @@
       "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:45:27+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -327,7 +327,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8r",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T07:05:19.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -376,7 +376,7 @@
       "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:00:31+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -451,7 +451,7 @@
       "url": "https://www.digital.go.jp/budget/r9request",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T06:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -475,7 +475,7 @@
       "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T06:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -499,7 +499,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260904-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T03:20:57+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -523,7 +523,7 @@
       "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T14:04:25+00:00",
-      "age_days": 2.72,
+      "age_days": 2.73,
       "topics": [
         "ai"
       ],
@@ -572,7 +572,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T00:38:18+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -620,7 +620,7 @@
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T18:13:28+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -669,7 +669,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T21:43:45+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -718,7 +718,7 @@
       "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:27:09+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -744,7 +744,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 76.19,
+      "age_days": 76.2,
       "topics": [
         "general"
       ],
@@ -769,7 +769,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 76.19,
+      "age_days": 76.2,
       "topics": [
         "general"
       ],
@@ -794,7 +794,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 76.19,
+      "age_days": 76.2,
       "topics": [
         "ai"
       ],
@@ -872,7 +872,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T03:04:47+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
