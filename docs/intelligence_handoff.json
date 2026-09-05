@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-05T11:18:51Z",
+  "generated_at": "2026-09-05T11:31:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelligence” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 2.01,
+      "age_days": 2.02,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.39,
+      "age_days": 78.4,
       "topics": [
         "ai"
       ],
@@ -91,11 +91,36 @@
       "summary": "東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。"
     },
     {
+      "title": "M 5.0 - 70 km SW of Pagar Alam, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-05T11:18:17.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-05 10:59:15 UTC 2026-09-05 10:59:15 UTC at epicenter Location 4.420°S 102.751°E Depth 68.93 km (42.83 mi)"
+    },
+    {
       "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -120,7 +145,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:17:57.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -144,7 +169,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -168,7 +193,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T05:22:26.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -193,7 +218,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:02:30.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -217,7 +242,7 @@
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:06:41+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -243,7 +268,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T23:34:04+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -289,33 +314,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "はじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。 きっかけは「5才児向けの絵本」だった この話の始まりは、コードとは関係のない雑談でした。 弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかる..."
-    },
-    {
-      "title": "誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で",
-      "url": "https://japan.zdnet.com/article/35252243/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T23:16:53+00:00",
-      "age_days": 1.5,
-      "topics": [
-        "ai",
-        "infra"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: vpn",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。"
     }
   ],
   "read_order": [
@@ -327,9 +325,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 4,
-      "quiet": 4
+      "quiet": 3
     }
   }
 }

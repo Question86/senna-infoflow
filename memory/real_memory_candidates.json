@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-05T11:18:51Z",
+  "generated_at": "2026-09-05T11:31:41Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -34,6 +34,11 @@
     },
     {
       "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "M 5.0 - 70 km SW of Pagar Alam, Indonesia",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
