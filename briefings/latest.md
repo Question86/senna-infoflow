@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T07:49:26+00:00_
+_Generiert: 2026-09-05T07:54:52+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
+13 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -171,3 +171,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `github_blog_atom` (rss): HTTPSConnectionPool(host='github.blog', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='github.blog', port=443) at 0x7f6a552dc750>, 'Connection to github.blog timed out. (connect timeout=8)'))
