@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-05T21:31:30Z",
+  "generated_at": "2026-09-05T21:46:40Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelligence” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 2.44,
+      "age_days": 2.45,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.81,
+      "age_days": 78.83,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:08:47+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security",
         "macro"
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T11:18:17.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -120,7 +120,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T17:23:37.748+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -145,7 +145,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "disaster"
       ],
@@ -170,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T11:58:52.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -195,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:17:57.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -219,7 +219,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "disaster"
       ],
@@ -239,11 +239,36 @@
       "summary": "Time 2026-09-05 00:22:45 UTC 2026-09-05 00:22:45 UTC at epicenter Location 40.643°N 143.564°E Depth 33.86 km (21.04 mi)"
     },
     {
+      "title": "M 4.7 - 95 km ESE of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tel1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-05T21:39:02.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.9"
+      ],
+      "summary": "Time 2026-09-05 21:06:01 UTC 2026-09-05 21:06:01 UTC at epicenter Location 19.914°S 170.104°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - off the coast of Central America",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T05:22:26.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -268,7 +293,7 @@
       "url": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:29:01+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -288,30 +313,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Product Engineering Conference 2026 の登壇資料になります。"
-    },
-    {
-      "title": "M 5.5 - 157 km E of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T14:35:36.496+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "ShakeMap - IV Time 2026-09-05 14:12:07 UTC 2026-09-05 14:12:07 UTC at epicenter Location 4.547°S 153.677°E Depth 114.36 km (71.06 mi)"
     }
   ],
   "read_order": [
