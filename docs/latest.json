@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T09:29:57+00:00",
-  "run_id": "2026-09-05T09:29:57+00:00",
+  "generated_at": "2026-09-05T09:37:51+00:00",
+  "run_id": "2026-09-05T09:37:51+00:00",
   "date": "2026-09-05",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 14
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
     "medium": 3,
     "observe": 11,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -797,31 +797,15 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
-      "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "japan_digital_agency_news",
+      "source_name": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-05T06:08:47+00:00",
-      "fetched_at": "2026-09-05T09:29:25+00:00",
-      "summary": "東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "401eccbd037b8242b2aa"
+      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
