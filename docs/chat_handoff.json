@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-05T09:23:29+00:00",
+  "generated_at": "2026-09-05T09:29:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 1,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 3,
-    "observe": 10
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T06:08:47+00:00",
+      "relevance_score": 11,
+      "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
+      "summary": "東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。",
+      "section": "observe"
+    },
+    {
       "title": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 11,
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "summary": "あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...",
-      "section": "observe"
-    },
-    {
-      "title": "日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-04T23:34:04+00:00",
-      "relevance_score": 10,
-      "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
-      "summary": "国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...",
       "section": "observe"
     }
   ],
