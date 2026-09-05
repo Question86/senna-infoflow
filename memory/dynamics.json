@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-05T02:50:10Z",
+  "generated_at": "2026-09-05T03:03:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.04,
+      "age_days": 78.05,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -100,7 +100,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:02:30.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -124,7 +124,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T23:34:04+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -150,7 +150,7 @@
       "url": "https://japan.zdnet.com/article/35252243/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T23:16:53+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai",
         "infra"
@@ -177,7 +177,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 77.0,
+      "age_days": 77.01,
       "topics": [
         "general"
       ],
@@ -202,7 +202,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 77.0,
+      "age_days": 77.01,
       "topics": [
         "general"
       ],
@@ -227,7 +227,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 77.0,
+      "age_days": 77.01,
       "topics": [
         "ai"
       ],
@@ -254,7 +254,7 @@
       "url": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T07:07:18+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
