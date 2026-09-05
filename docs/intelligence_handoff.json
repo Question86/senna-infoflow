@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-05T14:20:15Z",
+  "generated_at": "2026-09-05T14:31:26Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelligence” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 2.14,
+      "age_days": 2.15,
       "topics": [
         "ai",
         "security"
@@ -70,7 +70,7 @@
       "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:08:47+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security",
         "macro"
@@ -120,7 +120,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -145,7 +145,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T11:58:52.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -170,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:17:57.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -194,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -218,7 +218,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T05:22:26.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -239,11 +239,37 @@
       "summary": "Time 2026-09-05 05:00:06 UTC 2026-09-05 05:00:06 UTC at epicenter Location 3.507°N 83.151°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する",
+      "url": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T06:29:01+00:00",
+      "age_days": 0.34,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Product Engineering Conference 2026 の登壇資料になります。"
+    },
+    {
       "title": "M 4.8 - Kermadec Islands, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:02:30.040+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -267,7 +293,7 @@
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:06:41+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -287,32 +313,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R..."
-    },
-    {
-      "title": "日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-04T23:34:04+00:00",
-      "age_days": 0.62,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計..."
     }
   ],
   "read_order": [
@@ -325,8 +325,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 5,
-      "quiet": 2
+      "watch": 6,
+      "quiet": 1
     }
   }
 }
