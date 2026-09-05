@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:59:19+00:00",
+  "generated_at": "2026-09-05T15:13:40+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,27 +61,12 @@
         "metrics": {
           "cve": "CVE-2026-82329"
         }
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 157 km E of Kokopo, Papua New Guinea",
-        "summary": "M5.5 - 157 km E of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji",
-        "published_at": "2026-09-05T14:12:07+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
   },
   "source_errors": [
-    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f6268365310>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
+    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f82c5d48990>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }

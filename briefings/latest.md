@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T14:59:10+00:00_
+_Generiert: 2026-09-05T15:13:29+00:00_
 
 ## Kurzlage
 
@@ -29,12 +29,8 @@ _Generiert: 2026-09-05T14:59:10+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
-- **USGS earthquake M5.5 - 157 km E of Kokopo, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji)
-  - Quelle: USGS
-  - Zeit: `2026-09-05T14:12:07+00:00`
-  - Kurz: M5.5 - 157 km E of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f6268365310>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f82c5d48990>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
