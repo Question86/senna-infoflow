@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-05T09:22:03Z",
+  "generated_at": "2026-09-05T09:31:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelligence” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 1.93,
+      "age_days": 1.94,
       "topics": [
         "ai",
         "security"
@@ -64,6 +64,31 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
+      "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T06:08:47+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。"
     },
     {
       "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
@@ -192,7 +217,7 @@
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:06:41+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -244,7 +269,7 @@
       "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T04:42:49+00:00",
-      "age_days": 1.19,
+      "age_days": 1.2,
       "topics": [
         "ai"
       ],
@@ -270,7 +295,7 @@
       "url": "https://japan.zdnet.com/article/35252243/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T23:16:53+00:00",
-      "age_days": 1.42,
+      "age_days": 1.43,
       "topics": [
         "ai",
         "infra"
@@ -291,32 +316,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。"
-    },
-    {
-      "title": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-05T06:30:27+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Agent skill that removes signs of AI-generated writing from text https://skills.sh/blader/humanizer Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works Humanizer uses 35…"
     }
   ],
   "read_order": [
@@ -328,9 +327,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 4,
-      "quiet": 5
+      "quiet": 4
     }
   }
 }
