@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-05T04:46:21Z",
+  "generated_at": "2026-09-05T05:02:51Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelligence” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 1.74,
+      "age_days": 1.75,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.12,
+      "age_days": 78.13,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:02:30.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -143,7 +143,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T23:34:04+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -169,7 +169,7 @@
       "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T04:42:49+00:00",
-      "age_days": 1.0,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -195,7 +195,7 @@
       "url": "https://japan.zdnet.com/article/35252243/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T23:16:53+00:00",
-      "age_days": 1.23,
+      "age_days": 1.24,
       "topics": [
         "ai",
         "infra"
@@ -222,7 +222,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 77.08,
+      "age_days": 77.09,
       "topics": [
         "general"
       ],
@@ -247,7 +247,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 77.08,
+      "age_days": 77.09,
       "topics": [
         "general"
       ],
@@ -272,7 +272,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 77.08,
+      "age_days": 77.09,
       "topics": [
         "ai"
       ],
@@ -299,7 +299,7 @@
       "url": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T07:07:18+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
