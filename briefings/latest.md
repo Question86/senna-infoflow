@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T14:37:40+00:00_
+_Generiert: 2026-09-05T14:42:57+00:00_
 
 ## Kurzlage
 
@@ -56,7 +56,7 @@ _Generiert: 2026-09-05T14:37:40+00:00_
 - **USGS earthquake M5.5 - 157 km E of Kokopo, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji)
   - Quelle: USGS
   - Zeit: `2026-09-05T14:12:07+00:00`
-  - Kurz: M5.5 - 157 km E of Kokopo, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 157 km E of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
