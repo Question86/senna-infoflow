@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T23:26:33+00:00_
+_Generiert: 2026-09-05T23:32:42+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
+29 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
 
 ## Priorität Hoch
 
