@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-05T05:22:15Z",
+  "generated_at": "2026-09-05T05:31:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 13,
     "bands": {
       "krass": 1,
       "strong": 2,
-      "watch": 2,
+      "watch": 3,
       "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 2,
+      "watch": 3,
       "quiet": 7
     }
   },
@@ -49,7 +49,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.14,
+      "age_days": 78.15,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -103,7 +103,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -123,11 +123,36 @@
       "summary": "Time 2026-09-05 00:22:45 UTC 2026-09-05 00:22:45 UTC at epicenter Location 40.643°N 143.564°E Depth 33.86 km (21.04 mi)"
     },
     {
+      "title": "M 5.0 - off the coast of Central America",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-05T05:22:26.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-05 05:00:06 UTC 2026-09-05 05:00:06 UTC at epicenter Location 3.507°N 83.151°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.8 - Kermadec Islands, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:02:30.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -151,7 +176,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T23:34:04+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -203,7 +228,7 @@
       "url": "https://japan.zdnet.com/article/35252243/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T23:16:53+00:00",
-      "age_days": 1.25,
+      "age_days": 1.26,
       "topics": [
         "ai",
         "infra"
