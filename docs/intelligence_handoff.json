@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-06T13:02:40Z",
+  "generated_at": "2026-09-06T13:19:54Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T00:42:44+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -42,7 +42,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 79.46,
+      "age_days": 79.47,
       "topics": [
         "ai"
       ],
@@ -71,7 +71,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T11:28:06.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:34:11.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -116,11 +116,36 @@
       "summary": "Time 2026-09-06 05:15:45 UTC 2026-09-06 05:15:45 UTC at epicenter Location 40.728°N 142.970°E Depth 34.40 km (21.37 mi)"
     },
     {
+      "title": "M 4.7 - Svalbard region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teq9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-06T13:10:28.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-06 12:50:34 UTC 2026-09-06 12:50:34 UTC at epicenter Location 76.148°N 7.169°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - southern East Pacific Rise",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T12:18:21.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -145,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T11:21:12.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -170,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T10:56:54.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -195,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:29:02.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -220,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:09:55.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -245,7 +270,7 @@
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T23:12:07+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -270,7 +295,7 @@
       "url": "https://mq1.dev/entry/U0w-0MgT8IhM",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T18:30:52+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -288,33 +313,6 @@
         "high terms: kubernetes"
       ],
       "summary": "# はじめにどうも、わたしです。 最近、安価なVPS上で複数のワークロードをいい感じに収容する方法について考えています。 こんなツイートが伸びるくらいなので、もしかしたら多くの人が気になっているのではないでしょうか。 このような用途の多くは既にサーバレスへ代替されてしまっているのでしょうが、私がやりたい..."
-    },
-    {
-      "title": "M 5.6 - 93 km SE of Kirakira, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-06T04:29:36.008+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)"
     }
   ],
   "read_order": [
@@ -327,8 +325,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 7,
-      "quiet": 3
+      "watch": 8,
+      "quiet": 2
     }
   }
 }
