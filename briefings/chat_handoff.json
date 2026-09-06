@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-06T09:37:04+00:00",
+  "generated_at": "2026-09-06T09:42:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 2,
-    "observe": 6
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -33,6 +33,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "summary": "Time 2026-09-06 05:15:45 UTC 2026-09-06 05:15:45 UTC at epicenter Location 40.728°N 142.970°E Depth 34.40 km (21.37 mi)",
       "section": "medium"
+    },
+    {
+      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T23:15:01+00:00",
+      "relevance_score": 12,
+      "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+      "summary": "冒頭で「当社のエージェントが複数のWebサイトに書き込んだ“Wikiインシデント”」と表現しており、この件を自社エージェントによるものと初めて明示的に認めた。研究団体が報告書を公開してから約16時間後の投稿だった。 声明の主眼は、なぜこれまで公表しなかったかの説明と、今後の開示ルール作りに置かれている。同社...",
+      "section": "observe"
     },
     {
       "title": "M 5.6 - 93 km SE of Kirakira, Solomon Islands",
@@ -62,16 +72,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
       "summary": "Time 2026-09-06 04:52:40 UTC 2026-09-06 04:52:40 UTC at epicenter Location 28.552°S 176.810°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.3 - 108 km SW of Puerto Madero, Mexico",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-06T03:09:55.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
-      "summary": "Time 2026-09-06 02:56:32 UTC 2026-09-06 02:56:32 UTC at epicenter Location 14.155°N 93.249°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
