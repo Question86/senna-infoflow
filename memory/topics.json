@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-06T10:58:25+00:00",
+  "generated_at": "2026-09-06T11:10:02+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-05T08:55:42+00:00",
         "relevance_score": 9,
         "url": "https://note.com/koid/n/n3a4455b202e0"
+      },
+      {
+        "title": "AIで作った「100点の理想」が、プロとの打ち合わせで50点になっていく理由",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-06T01:22:29+00:00",
+        "relevance_score": 8,
+        "url": "https://rocketnews24.com/2026/09/06/2798277/"
       }
     ],
     "general": [
