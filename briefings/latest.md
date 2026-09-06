@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T17:55:27+00:00_
+_Generiert: 2026-09-06T18:01:00+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+23 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -171,3 +171,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.th/trending/rss%3Fgeo%3DTH&q=EgQUeObBGMnU9tQGIjBh3o6IlL6VIostk6mpH6k3IqxJAp7sBicsXVQxFs7jel_Urs0wegWmOBj06k-9p1AyAnJSWgFD
