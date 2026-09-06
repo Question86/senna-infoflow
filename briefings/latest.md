@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T15:54:08+00:00_
+_Generiert: 2026-09-06T15:59:12+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+20 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Research acceleration: The view inside OpenAI** — Score 12, observation — [Quelle](https://openai.com/index/research-acceleration-view-inside-openai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-06T08:00:00+00:00`, fetched `2026-09-06T15:58:40+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/06/2000001202/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-05T23:15:01+00:00`, fetched `2026-09-06T09:41:42+00:00`
@@ -153,7 +162,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/index_wp.php/feed/

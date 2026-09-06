@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-06T15:54:08+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-09-06T15:59:12+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 2,
-    "observe": 17
+    "observe": 18
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
@@ -33,6 +33,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "summary": "Time 2026-09-06 05:15:45 UTC 2026-09-06 05:15:45 UTC at epicenter Location 40.728°N 142.970°E Depth 34.40 km (21.37 mi)",
       "section": "medium"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-06T08:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "section": "observe"
     },
     {
       "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
@@ -62,16 +72,6 @@
       "relevance_score": 11,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
       "summary": "ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T00:42:44+00:00",
-      "relevance_score": 11,
-      "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
-      "summary": "Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…",
       "section": "observe"
     }
   ],
