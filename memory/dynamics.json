@@ -1,28 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-06T03:47:22Z",
+  "generated_at": "2026-09-06T04:03:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 7,
+    "dynamics": 8,
     "bands": {
+      "krass": 1,
       "strong": 1,
       "watch": 1,
       "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
+      "strong": 2,
       "watch": 1,
       "quiet": 5
     }
   },
   "top_dynamics": [
     {
+      "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
+      "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-06T00:42:44+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 79.08,
+      "age_days": 79.09,
       "topics": [
         "ai"
       ],
@@ -51,7 +79,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:09:55.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -76,7 +104,7 @@
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T23:12:07+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -101,7 +129,7 @@
       "url": "https://note.com/koid/n/n3a4455b202e0",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T08:55:42+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -126,7 +154,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 78.04,
+      "age_days": 78.05,
       "topics": [
         "general"
       ],
@@ -142,7 +170,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 78.0d old signal"
+        "aging penalty -16.0 for 78.1d old signal"
       ],
       "summary": ""
     },
@@ -151,7 +179,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 78.04,
+      "age_days": 78.05,
       "topics": [
         "general"
       ],
@@ -167,7 +195,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 78.0d old signal"
+        "aging penalty -16.0 for 78.1d old signal"
       ],
       "summary": ""
     },
@@ -176,7 +204,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 78.04,
+      "age_days": 78.05,
       "topics": [
         "ai"
       ],
@@ -193,11 +221,11 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 78.0d old signal",
+        "aging penalty -16.0 for 78.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
