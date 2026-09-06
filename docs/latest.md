@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T21:00:47+00:00_
+_Generiert: 2026-09-06T21:15:50+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+26 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
