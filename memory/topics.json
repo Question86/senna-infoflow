@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-06T16:50:09+00:00",
+  "generated_at": "2026-09-06T16:55:15+00:00",
   "topics": {
     "ai": [
       {
@@ -126,11 +126,11 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
       },
       {
-        "title": "2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定",
+        "title": "DO-GU",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-06T06:48:54+00:00",
+        "published_at": "2026-09-06T10:55:22+00:00",
         "relevance_score": 5,
-        "url": "https://garumax.com/windows-update-printer-driver-spec-change-2027-07"
+        "url": "https://do-gu.niwa.dev/"
       }
     ],
     "security": [

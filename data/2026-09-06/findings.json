@@ -480,6 +480,27 @@
     "id": "9f1550bad539f92efd75"
   },
   {
+    "title": "DO-GU",
+    "url": "https://do-gu.niwa.dev/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-06T10:55:22+00:00",
+    "fetched_at": "2026-09-06T16:54:45+00:00",
+    "summary": "道具の入れ替わりが激しい今だから、みんながどんな道具を使っているのか気になります。 自分の道具遍歴をまとめておきたくもなります。面倒な手入力はありません。 あなたのいつものエージェントに頼んで、あなたの道具をまとめてみませんか？ はじめる →",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "21271092c2d13fc80c9b"
+  },
+  {
     "title": "MarkdownをPDFやHTMLにするツール",
     "url": "https://ktrmnm.jp/blog/2026-09-05-madoc-intro/",
     "source": "Hatena Bookmark Hotentry IT",
