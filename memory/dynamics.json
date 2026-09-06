@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-06T12:43:03Z",
+  "generated_at": "2026-09-06T12:49:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 19,
@@ -69,7 +69,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 79.4d old signal",
+        "aging penalty -8.0 for 79.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -79,7 +79,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T11:28:06.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T10:56:54.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:29:02.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -253,7 +253,7 @@
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T23:12:07+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -302,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T04:29:36.008+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "disaster"
@@ -329,7 +329,7 @@
       "url": "https://rocketnews24.com/2026/09/06/2798277/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T01:22:29+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -355,7 +355,7 @@
       "url": "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T15:34:10+00:00",
-      "age_days": 1.88,
+      "age_days": 1.89,
       "topics": [
         "general"
       ],
@@ -379,7 +379,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T23:15:01+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -429,7 +429,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 78.41,
+      "age_days": 78.42,
       "topics": [
         "general"
       ],
@@ -454,7 +454,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 78.41,
+      "age_days": 78.42,
       "topics": [
         "general"
       ],
@@ -479,7 +479,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 78.41,
+      "age_days": 78.42,
       "topics": [
         "ai"
       ],
