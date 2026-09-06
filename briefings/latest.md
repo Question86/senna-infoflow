@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T02:16:53+00:00_
+_Generiert: 2026-09-06T02:35:32+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-09-06T02:16:53+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563697)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, 3 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563697)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, Few people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, 3 thousand in MMI III.
 - **GDACS: Volcanic eruption is on going for Krakatau in Indonesia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000148)
   - Quelle: GDACS
   - Zeit: ``
