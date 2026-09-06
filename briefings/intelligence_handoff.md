@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-06T10:46:22Z_
+_Generated: 2026-09-06T11:02:21Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-06T00:42:44+00:00` / age_days `0.42`
+- Published: `2026-09-06T00:42:44+00:00` / age_days `0.43`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `79.37`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `79.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 79.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.22`
+- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw
 
+### M 5.2 - southern East Pacific Rise
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-06T10:56:54.040+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep6
+
 ### M 4.6 - Kermadec Islands region
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T05:29:02.040+00:00` / age_days `0.22`
+- Published: `2026-09-06T05:29:02.040+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.32`
+- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-05T23:12:07+00:00` / age_days `0.48`
+- Published: `2026-09-05T23:12:07+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-05T18:30:52+00:00` / age_days `0.68`
+- Published: `2026-09-05T18:30:52+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: kubernetes
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-06T04:29:36.008+00:00` / age_days `0.26`
+- Published: `2026-09-06T04:29:36.008+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: earthquake, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-04T15:34:10+00:00` / age_days `1.8`
+- Published: `2026-09-04T15:34:10+00:00` / age_days `1.81`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `4.0`
-- Published: `2026-09-05T23:15:01+00:00` / age_days `0.48`
+- Published: `2026-09-05T23:15:01+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-09-05T08:55:42+00:00` / age_days `1.08`
+- Published: `2026-09-05T08:55:42+00:00` / age_days `1.09`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://note.com/koid/n/n3a4455b202e0
-
-### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `78.33`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 78.3d old signal
-- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
 
 END OF DOCUMENT
