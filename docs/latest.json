@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T04:22:24+00:00",
-  "run_id": "2026-09-06T04:22:24+00:00",
+  "generated_at": "2026-09-06T04:33:01+00:00",
+  "run_id": "2026-09-06T04:33:01+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 1,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 3,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -54,6 +54,43 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.6 - 93 km SE of Kirakira, Solomon Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-06T04:29:36.008+00:00",
+        "fetched_at": "2026-09-06T04:32:31+00:00",
+        "summary": "ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "087671848cc42ba2ee6c"
+      },
       {
         "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
         "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
@@ -161,6 +198,43 @@
       "id": "1f1c834325d9fedd9d8f"
     },
     {
+      "title": "M 5.6 - 93 km SE of Kirakira, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-06T04:29:36.008+00:00",
+      "fetched_at": "2026-09-06T04:32:31+00:00",
+      "summary": "ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "087671848cc42ba2ee6c"
+    },
+    {
       "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
@@ -241,7 +315,45 @@
       "id": "8e3061bee27faef2ce2a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.6 - 93 km SE of Kirakira, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-06T04:29:36.008+00:00",
+      "fetched_at": "2026-09-06T04:32:31+00:00",
+      "summary": "ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "087671848cc42ba2ee6c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
