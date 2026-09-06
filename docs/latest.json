@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T17:00:36+00:00",
-  "run_id": "2026-09-06T17:00:36+00:00",
+  "generated_at": "2026-09-06T17:14:53+00:00",
+  "run_id": "2026-09-06T17:14:53+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1289,29 +1289,7 @@
       "id": "6b7ccf7ef0a769c6e84e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-06T09:00:00+00:00",
-      "fetched_at": "2026-09-06T17:00:06+00:00",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "680cfc43e5f155944138"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
