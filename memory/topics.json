@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-06T19:30:32+00:00",
+  "generated_at": "2026-09-06T19:38:36+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi"
       },
       {
+        "title": "M 4.8 - 39 km SW of Copala, Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-06T19:37:38.391+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000terb"
+      },
+      {
         "title": "M 4.7 - Svalbard region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-06T13:10:28.040+00:00",
@@ -131,13 +138,6 @@
         "published_at": "2026-09-06T03:09:55.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
-      },
-      {
-        "title": "DO-GU",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-06T10:55:22+00:00",
-        "relevance_score": 5,
-        "url": "https://do-gu.niwa.dev/"
       }
     ],
     "security": [
