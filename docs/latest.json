@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:48:16+00:00",
-  "run_id": "2026-09-07T03:48:16+00:00",
+  "generated_at": "2026-09-07T03:53:50+00:00",
+  "run_id": "2026-09-07T03:53:50+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -757,30 +757,7 @@
       "id": "4d0f6f68357b953bd8b1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
-      "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T09:34:08+00:00",
-      "fetched_at": "2026-09-07T03:47:48+00:00",
-      "summary": "はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3e44d7aeaa91569e3d1a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
