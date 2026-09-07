@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T11:09:03+00:00",
+  "generated_at": "2026-09-07T11:22:04+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382"
       },
       {
+        "title": "[UPDATE] [kritisch] Citrix Systems NetScaler (Gateway und ADC): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:19:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927"
+      },
+      {
         "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-07T10:59:20+00:00",
@@ -154,13 +161,6 @@
         "published_at": "2026-09-07T06:59:50+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379"
-      },
-      {
-        "title": "[UPDATE] [mittel] Netgate pfSense: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T06:59:49+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1314"
       }
     ],
     "geopolitics": [
