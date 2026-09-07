@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T21:39:33+00:00_
+_Generated: 2026-09-07T21:45:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `72`
+- findings: `73`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-07T21:39:33+00:00_
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 8. Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt
-- source: heise Security Alerts
-- score: `12`
-- published: `2026-09-07T15:22:00.000+00:00`
-- url: https://www.heise.de/news/Zero-Day-Luecke-StyleSmuggler-in-Magento-und-Adobe-Commerce-wird-aktiv-ausgenutzt-11444217.html
-- summary: Onlineshops auf Basis von Magento und Adobe Commerce sind offenbar aufgrund einer ungepatchten Sicherheitslücke namens StyleSmuggler angreifbar.
+### 8. AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-07-06T09:17:22+00:00`
+- url: https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html
+- summary: 概要 日々発信されているAIに関する膨大な国内外の公開情報から、AIセキュリティの観点でトレンドや事例を紹介しています。 特に、AIシステム開発者やセキュリティ担当者の方が、日々の業務を行う中で是非知っておいてほしい動向や注意してほしいインシデント事例に絞って紹介しています。 AIセキュリティ短信一覧 なお...
 
 END OF DOCUMENT

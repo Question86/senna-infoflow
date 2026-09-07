@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-07T21:39:33+00:00",
+  "generated_at": "2026-09-07T21:45:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 28,
-    "observe": 44
+    "observe": 45
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt",
-      "source": "heise Security Alerts",
+      "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-07T15:22:00.000+00:00",
-      "relevance_score": 12,
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-StyleSmuggler-in-Magento-und-Adobe-Commerce-wird-aktiv-ausgenutzt-11444217.html",
-      "summary": "Onlineshops auf Basis von Magento und Adobe Commerce sind offenbar aufgrund einer ungepatchten Sicherheitslücke namens StyleSmuggler angreifbar.",
+      "published_at": "2026-07-06T09:17:22+00:00",
+      "relevance_score": 13,
+      "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html",
+      "summary": "概要 日々発信されているAIに関する膨大な国内外の公開情報から、AIセキュリティの観点でトレンドや事例を紹介しています。 特に、AIシステム開発者やセキュリティ担当者の方が、日々の業務を行う中で是非知っておいてほしい動向や注意してほしいインシデント事例に絞って紹介しています。 AIセキュリティ短信一覧 なお...",
       "section": "observe"
     }
   ],
