@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-07T10:25:28Z",
+  "generated_at": "2026-09-07T10:46:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] MISP: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T07:14:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:59:50+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1314",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:59:49+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://github.com/openai/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:52:02+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -116,7 +116,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:52:02+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -141,11 +141,37 @@
       "summary": "The open source coding agent. https://opencode.ai The open source AI coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt Installation # YOLO cur…"
     },
     {
+      "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-07T10:34:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch",
+        "security high-signal: kritisch",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Denial of Service Zustand herbeizuführen und um die Kontrolle über betroffene Geräte zu übernehmen."
+    },
+    {
       "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:41:14+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -171,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:41:14+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -197,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T05:19:18+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -223,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:59:49+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -248,7 +274,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 80.35,
+      "age_days": 80.37,
       "topics": [
         "ai"
       ],
@@ -277,7 +303,7 @@
       "url": "https://e27.co/from-us79300-to-us82400-mapping-the-narrow-corridor-that-decides-bitcoins-september-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T04:36:37+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -296,30 +322,6 @@
         "security high-signal: rce"
       ],
       "summary": "I see an intricate interplay of global economic forces and internal trading mechanics. Bitcoin recently advanced 0.56 per cent to reach US$80,347.18 over a single day. This specific valuation increase closely tracks the broader sector’s expansion of 0.84 per cent. Total capitalisation across the entire speculative tok…"
-    },
-    {
-      "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
-      "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-06T09:34:08+00:00",
-      "age_days": 1.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網..."
     }
   ],
   "read_order": [
