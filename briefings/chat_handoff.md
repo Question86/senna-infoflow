@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T03:37:04+00:00_
+_Generated: 2026-09-07T03:48:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-09-07T03:37:04+00:00_
 - url: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
 - summary: Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platfor…
 
-### 6. 新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog
+### 6. 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
 - source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-09-07T00:36:00+00:00`
-- url: https://tech.techtouch.jp/entry/team-building-torisetsu-kai
-- summary: こんにちは！パンダ好きエンジニア @pandineer です。 テックタッチという会社で、社名と同じプロダクト「テックタッチ」の開発を担う、Adoption Platform Division の Engineering部でエンジニアリングマネージャーを務めています。 新しい環境に飛び込む時、「どんな人達がいるんだろう？」「うまく馴染めるかな…？」...
+- score: `11`
+- published: `2026-09-06T09:34:08+00:00`
+- url: https://scgajge12.hatenablog.com/entry/closed_network_security
+- summary: はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...
 
 END OF DOCUMENT

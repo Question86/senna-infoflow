@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T03:37:04+00:00_
+_Generiert: 2026-09-07T03:48:16+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+14 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
   - Kurz: Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platform operator of EZStartup. Founders often describe the challenge as “finding talent,” but the real bottleneck […] The post Taiwan’s startup talent problem is a ma…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12** — Score 11, observation — [Quelle](https://scgajge12.hatenablog.com/entry/closed_network_security)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-06T09:34:08+00:00`, fetched `2026-09-07T03:47:48+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog** — Score 10, observation — [Quelle](https://tech.techtouch.jp/entry/team-building-torisetsu-kai)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-07T00:36:00+00:00`, fetched `2026-09-07T02:58:38+00:00`

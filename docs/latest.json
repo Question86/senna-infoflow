@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:37:04+00:00",
-  "run_id": "2026-09-07T03:37:04+00:00",
+  "generated_at": "2026-09-07T03:48:16+00:00",
+  "run_id": "2026-09-07T03:48:16+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 2,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -141,6 +141,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "64d783d88b873faa3894"
+      },
+      {
+        "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
+        "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-06T09:34:08+00:00",
+        "fetched_at": "2026-09-07T03:47:48+00:00",
+        "summary": "はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3e44d7aeaa91569e3d1a"
       },
       {
         "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
@@ -485,6 +507,28 @@
       "id": "64d783d88b873faa3894"
     },
     {
+      "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
+      "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-06T09:34:08+00:00",
+      "fetched_at": "2026-09-07T03:47:48+00:00",
+      "summary": "はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3e44d7aeaa91569e3d1a"
+    },
+    {
       "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
       "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
       "source": "Hatena Bookmark Hotentry IT",
@@ -715,24 +759,26 @@
   ],
   "new_findings": [
     {
-      "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
-      "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
+      "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-07T03:25:12+00:00",
-      "fetched_at": "2026-09-07T03:36:31+00:00",
-      "summary": "The piece that only Hong Kong can fit In technology, 25 years is long enough for entire industries to rise, collapse and be rebuilt. When the HKSAR Government backed the creation of Hong Kong Science and Technology Parks Corporation (HKSTP) in 2001, the decision reflected remarkable foresight. The city was navigating the aftermath of the […] The post How HKSTP’s quarter-century journey offers insights for Asia’s inn…",
+      "published_at": "2026-09-06T09:34:08+00:00",
+      "fetched_at": "2026-09-07T03:47:48+00:00",
+      "summary": "はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9bcbbd666bf836942695"
+      "id": "3e44d7aeaa91569e3d1a"
     }
   ],
   "source_errors": [],
