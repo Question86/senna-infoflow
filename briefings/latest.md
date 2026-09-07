@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T20:39:41+00:00_
+_Generiert: 2026-09-07T20:44:56+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+71 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -280,7 +280,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
