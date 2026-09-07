@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T12:02:34+00:00_
+_Generiert: 2026-09-07T12:32:03+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+57 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -176,6 +176,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。Claudeは11日間にわたってほぼ自律的に作業し、証明支援システム「Lean 4」で約1300万行のコードを生成。Anthropicはフェルマーの最終定理について初の完...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MikroTrick: RouterOS-Lücken werden aktiv ausgenutzt – jetzt patchen** — Score 7, observation — [Quelle](https://www.heise.de/news/MikroTrick-RouterOS-Luecken-werden-aktiv-ausgenutzt-jetzt-patchen-11443474.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-07T12:10:00.000+00:00`, fetched `2026-09-07T12:31:32+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: CERT Polska warnt vor aktiv ausgenutzten Lücken in MikroTik RouterOS. Über SSH lassen sich Router ohne Zugangsdaten komplett übernehmen. Update dringend nötig.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（9月7日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0)
   - Quelle: Japan Digital Agency News RSS / `rss`

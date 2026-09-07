@@ -1093,6 +1093,26 @@
     "id": "e86c24a9eaee68cc9e6f"
   },
   {
+    "title": "MikroTrick: RouterOS-Lücken werden aktiv ausgenutzt – jetzt patchen",
+    "url": "https://www.heise.de/news/MikroTrick-RouterOS-Luecken-werden-aktiv-ausgenutzt-jetzt-patchen-11443474.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-07T12:10:00.000+00:00",
+    "fetched_at": "2026-09-07T12:31:32+00:00",
+    "summary": "CERT Polska warnt vor aktiv ausgenutzten Lücken in MikroTik RouterOS. Über SSH lassen sich Router ohne Zugangsdaten komplett übernehmen. Update dringend nötig.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "927a79d9109acfd2edb6"
+  },
+  {
     "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
     "url": "https://e27.co/why-kyoto-not-tokyo-is-japans-real-deeptech-bet-20260907/",
     "source": "e27 Asia Startup and Tech Feed",
