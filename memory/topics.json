@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T19:48:17+00:00",
+  "generated_at": "2026-09-07T19:53:32+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/"
       },
       {
-        "title": "AIがお姉ちゃんになって3年が過ぎました - 本しゃぶり",
+        "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-06T23:43:44+00:00",
+        "published_at": "2026-09-07T16:43:47+00:00",
         "relevance_score": 11,
-        "url": "https://honeshabri.hatenablog.com/entry/AIone-chan2026"
+        "url": "https://github.com/Tencent/teamai-cli"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/anomalyco/opencode"
+      },
+      {
+        "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-07T16:43:47+00:00",
+        "relevance_score": 11,
+        "url": "https://github.com/Tencent/teamai-cli"
       }
     ],
     "security": [
