@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:20:53+00:00",
-  "run_id": "2026-09-07T03:20:53+00:00",
+  "generated_at": "2026-09-07T03:37:04+00:00",
+  "run_id": "2026-09-07T03:37:04+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 1,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 2,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -328,6 +328,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e86c24a9eaee68cc9e6f"
+      },
+      {
+        "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
+        "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-07T03:25:12+00:00",
+        "fetched_at": "2026-09-07T03:36:31+00:00",
+        "summary": "The piece that only Hong Kong can fit In technology, 25 years is long enough for entire industries to rise, collapse and be rebuilt. When the HKSAR Government backed the creation of Hong Kong Science and Technology Parks Corporation (HKSTP) in 2001, the decision reflected remarkable foresight. The city was navigating the aftermath of the […] The post How HKSTP’s quarter-century journey offers insights for Asia’s inn…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9bcbbd666bf836942695"
       },
       {
         "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
@@ -652,6 +672,26 @@
       "id": "e86c24a9eaee68cc9e6f"
     },
     {
+      "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
+      "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-07T03:25:12+00:00",
+      "fetched_at": "2026-09-07T03:36:31+00:00",
+      "summary": "The piece that only Hong Kong can fit In technology, 25 years is long enough for entire industries to rise, collapse and be rebuilt. When the HKSAR Government backed the creation of Hong Kong Science and Technology Parks Corporation (HKSTP) in 2001, the decision reflected remarkable foresight. The city was navigating the aftermath of the […] The post How HKSTP’s quarter-century journey offers insights for Asia’s inn…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9bcbbd666bf836942695"
+    },
+    {
       "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
       "url": "https://ascii.jp/elem/000/004/432/4432622/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -675,47 +715,24 @@
   ],
   "new_findings": [
     {
-      "title": "Taiwan’s startup talent problem is a matching problem, not a shortage",
-      "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
+      "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
+      "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-07T03:00:17+00:00",
-      "fetched_at": "2026-09-07T03:20:25+00:00",
-      "summary": "Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platform operator of EZStartup. Founders often describe the challenge as “finding talent,” but the real bottleneck […] The post Taiwan’s startup talent problem is a ma…",
+      "published_at": "2026-09-07T03:25:12+00:00",
+      "fetched_at": "2026-09-07T03:36:31+00:00",
+      "summary": "The piece that only Hong Kong can fit In technology, 25 years is long enough for entire industries to rise, collapse and be rebuilt. When the HKSAR Government backed the creation of Hong Kong Science and Technology Parks Corporation (HKSTP) in 2001, the decision reflected remarkable foresight. The city was navigating the aftermath of the […] The post How HKSTP’s quarter-century journey offers insights for Asia’s inn…",
       "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "founder"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "64d783d88b873faa3894"
-    },
-    {
-      "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
-      "url": "https://ascii.jp/elem/000/004/432/4432622/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T23:19:08+00:00",
-      "fetched_at": "2026-09-07T03:20:25+00:00",
-      "summary": "動画モデル「MiniMax H3」のウェイトの公開後も、コミュニティのアップデートが止まりません。ついにリアルタイムに近い動画生成まで実現可能になってきました。生成時間の短さを利用した会話ゲームや無限に生成する仕組みをローカルPCでも実現する環境が登場。さらなる高速化技法も登場し、動画AIの再定義が進みつつあ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4d0f6f68357b953bd8b1"
+      "id": "9bcbbd666bf836942695"
     }
   ],
   "source_errors": [],

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T03:20:53+00:00",
+  "generated_at": "2026-09-07T03:37:04+00:00",
   "topics": {
     "ai": [
       {
@@ -68,6 +68,13 @@
         "published_at": "2026-09-07T02:30:51+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/"
+      },
+      {
+        "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-07T03:25:12+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/"
       }
     ],
     "general": [
