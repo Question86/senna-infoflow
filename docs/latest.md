@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T02:32:28+00:00_
+_Generiert: 2026-09-07T02:47:09+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+8 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of it answers the most revealing question. When the system makes a […] The post The real test of ethical AI is whether a frontline employee can challenge it appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-07T02:41:03.040+00:00`, fetched `2026-09-07T02:46:36+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000test)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-07T02:24:04.040+00:00`, fetched `2026-09-07T02:32:01+00:00`
