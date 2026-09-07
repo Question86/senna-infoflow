@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T06:23:59+00:00_
+_Generated: 2026-09-07T06:56:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-07T06:23:59+00:00_
 - url: https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/
 - summary: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what h…
 
-### 3. [UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen
+### 3. [UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `14`
-- published: `2026-09-07T05:19:18+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961
-- summary: Ein Angreifer kann mehrere Schwachstellen in Netgate pfSense Plus und CE ausnutzen, um beliebigen Programmcode auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen.
+- published: `2026-09-07T06:41:14+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana Plugins für SQL Datenquellen ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 4. AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech
-- source: Hatena Bookmark Hotentry IT
+### 4. [UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `14`
-- published: `2026-09-06T22:16:57+00:00`
-- url: https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei
-- summary: Anthropic Claude Codeチーム Thariq Shihipar 投稿（2026/5/8、X累計1,240万閲覧） イントロ：AIが書く文書、誰がどう読むか 2026年5月、Anthropic で Claude Code を開発する Thariq Shihipar 氏が「Markdownの時代は終わった。AIにはHTMLを書かせよ」という主旨の投稿を公開しました。投稿は1週間で1,240万閲覧・16,4...
+- published: `2026-09-07T06:41:14+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen und um Sicherheitsmechanismen zu umgehen.
 
 ### 5. M 5.5 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
