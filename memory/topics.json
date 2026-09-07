@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T01:56:13+00:00",
+  "generated_at": "2026-09-07T02:04:38+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-07T01:00:16+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/"
+      },
+      {
+        "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-07T02:00:04+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/"
       }
     ],
     "general": [
@@ -33,6 +40,15 @@
         "published_at": "2026-09-07T01:37:45.187+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-07T02:00:04+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/"
       }
     ]
   }

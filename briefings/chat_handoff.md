@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T01:56:13+00:00_
+_Generated: 2026-09-07T02:04:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -35,5 +35,12 @@ _Generated: 2026-09-07T01:56:13+00:00_
 - published: `2026-09-07T01:37:45.187+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l
 - summary: DYFI? - I Time 2026-09-07 01:30:21 UTC 2026-09-07 01:30:21 UTC at epicenter Location 43.832°N 128.750°W Depth 12.00 km (7.46 mi)
+
+### 5. Malaysia’s digital economy’s second wave looks nothing like the first
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-07T02:00:04+00:00`
+- url: https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/
+- summary: “Are you grabbing to this place?” While I incorporated the local expression into my vocabulary as a Brazilian in Malaysia, I reflected about the long journey of the entire tech ecosystem with a smile. Grab is more than a super app, it’s a new context for the…
 
 END OF DOCUMENT
