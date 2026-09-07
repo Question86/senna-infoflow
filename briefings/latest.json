@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T05:58:03+00:00",
-  "run_id": "2026-09-07T05:58:03+00:00",
+  "generated_at": "2026-09-07T06:23:59+00:00",
+  "run_id": "2026-09-07T06:23:59+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 3,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 5,
-    "observe": 17,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -193,6 +193,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.5 - southeast of the Loyalty Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-07T06:18:50.143+00:00",
+        "fetched_at": "2026-09-07T06:23:29+00:00",
+        "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-07 05:50:44 UTC 2026-09-07 05:50:44 UTC at epicenter Location 23.419°S 171.677°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d12ef12222bbd51558fc"
+      },
       {
         "title": "AI has answers, experience has judgment",
         "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
@@ -575,6 +613,46 @@
         "id": "7abbc4567149f2aa33b4"
       },
       {
+        "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+        "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-07T06:00:00+00:00",
+        "fetched_at": "2026-09-07T06:23:29+00:00",
+        "summary": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "20a6f3c4daccf1c5a794"
+      },
+      {
+        "title": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+        "url": "https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-07T06:00:00+00:00",
+        "fetched_at": "2026-09-07T06:23:29+00:00",
+        "summary": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b49d33660303731fc16d"
+      },
+      {
         "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
         "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -800,6 +878,44 @@
         "TEAM"
       ],
       "id": "dc7bbf6bc3dcdab6b953"
+    },
+    {
+      "title": "M 5.5 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:18:50.143+00:00",
+      "fetched_at": "2026-09-07T06:23:29+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-07 05:50:44 UTC 2026-09-07 05:50:44 UTC at epicenter Location 23.419°S 171.677°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d12ef12222bbd51558fc"
     },
     {
       "title": "AI has answers, experience has judgment",
@@ -1183,6 +1299,46 @@
       "id": "7abbc4567149f2aa33b4"
     },
     {
+      "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:23:29+00:00",
+      "summary": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20a6f3c4daccf1c5a794"
+    },
+    {
+      "title": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "url": "https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:23:29+00:00",
+      "summary": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b49d33660303731fc16d"
+    },
+    {
       "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
       "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1245,7 +1401,86 @@
       "id": "4d0f6f68357b953bd8b1"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.5 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:18:50.143+00:00",
+      "fetched_at": "2026-09-07T06:23:29+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-07 05:50:44 UTC 2026-09-07 05:50:44 UTC at epicenter Location 23.419°S 171.677°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d12ef12222bbd51558fc"
+    },
+    {
+      "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:23:29+00:00",
+      "summary": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20a6f3c4daccf1c5a794"
+    },
+    {
+      "title": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "url": "https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:23:29+00:00",
+      "summary": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b49d33660303731fc16d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
