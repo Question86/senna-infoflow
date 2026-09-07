@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T10:57:45+00:00",
+  "generated_at": "2026-09-07T11:09:03+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382"
       },
       {
+        "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:20+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199"
+      },
+      {
+        "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:20+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200"
+      },
+      {
+        "title": "[NEU] [mittel] CoreDNS: Schwachstelle ermöglicht Manipulation von DNS Einträgen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:19+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198"
+      },
+      {
+        "title": "[NEU] [mittel] Bruno: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:19+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3197"
+      },
+      {
         "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-07T10:34:18+00:00",
@@ -133,34 +161,6 @@
         "published_at": "2026-09-07T06:59:49+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1314"
-      },
-      {
-        "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T06:41:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163"
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T06:41:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175"
-      },
-      {
-        "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T05:19:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961"
-      },
-      {
-        "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-06T09:34:08+00:00",
-        "relevance_score": 11,
-        "url": "https://scgajge12.hatenablog.com/entry/closed_network_security"
       }
     ],
     "geopolitics": [
@@ -170,6 +170,34 @@
         "published_at": "2026-09-07T02:30:51+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/"
+      },
+      {
+        "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:20+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199"
+      },
+      {
+        "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:20+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200"
+      },
+      {
+        "title": "[NEU] [mittel] CoreDNS: Schwachstelle ermöglicht Manipulation von DNS Einträgen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:19+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198"
+      },
+      {
+        "title": "[NEU] [mittel] Bruno: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:59:19+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3197"
       },
       {
         "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
