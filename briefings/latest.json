@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T12:48:27+00:00",
-  "run_id": "2026-09-07T12:48:27+00:00",
+  "generated_at": "2026-09-07T12:56:18+00:00",
+  "run_id": "2026-09-07T12:56:18+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2881,30 +2881,7 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ITエンジニアあるある「フィクションのIT系の演出でリアリティがなくて冷める」→素晴らしいバランスを持つマンガが貼られて胃がキュッとなる",
-      "url": "https://togetter.com/li/2742721",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-07T10:29:11+00:00",
-      "fetched_at": "2026-09-07T12:47:57+00:00",
-      "summary": "たか@消されたので復活 @taka_tokyo728 @_watany 既存権力を保持することに総力を賭けてるおじさんが管理職にはよくいるので、こういう人に正論は通じない。婉曲な提案をするのがベターなんだけどその無駄な労力がまたキツい。官公庁のキャリアとやりあった時はクビ覚悟でバトルしたけど誰も庇ってくれないし不毛だった…...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "da3c9c56990fe8c1b3e6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
