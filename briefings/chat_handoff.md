@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T10:32:47+00:00_
+_Generated: 2026-09-07T10:41:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `39`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-07T10:32:47+00:00_
 - url: https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/
 - summary: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what h…
 
-### 4. [UPDATE] [hoch] MISP: Mehrere Schwachstellen
+### 4. [NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `14`
-- published: `2026-09-07T07:14:17+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173
-- summary: Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.
+- published: `2026-09-07T10:34:18+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Denial of Service Zustand herbeizuführen und um die Kontrolle über betroffene Geräte…
 
 ### 5. M 5.5 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour

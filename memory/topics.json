@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T10:32:47+00:00",
+  "generated_at": "2026-09-07T10:41:30+00:00",
   "topics": {
     "ai": [
       {
@@ -100,6 +100,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332"
       },
       {
+        "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:34:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193"
+      },
+      {
         "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-07T07:14:17+00:00",
@@ -156,6 +163,13 @@
         "published_at": "2026-09-07T02:30:51+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/"
+      },
+      {
+        "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T10:34:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193"
       },
       {
         "title": "anomalyco/opencode",

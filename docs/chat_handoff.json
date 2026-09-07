@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-07T10:32:47+00:00",
+  "generated_at": "2026-09-07T10:41:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 11,
-    "observe": 26
+    "medium": 12,
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
+      "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-07T07:14:17+00:00",
+      "published_at": "2026-09-07T10:34:18+00:00",
       "relevance_score": 14,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Denial of Service Zustand herbeizuführen und um die Kontrolle über betroffene Geräte…",
       "section": "medium"
     },
     {
