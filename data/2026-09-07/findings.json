@@ -801,6 +801,27 @@
     "id": "9bcbbd666bf836942695"
   },
   {
+    "title": "ADRは経緯より「決まったこと」だけでいい",
+    "url": "https://zenn.dev/yamitake/articles/adr-decision-over-context",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-07T02:10:01+00:00",
+    "fetched_at": "2026-09-07T08:00:26+00:00",
+    "summary": "はじめに 先に言っておくと、僕はADR（Architecture Decision Record）を全否定するつもりはありません。設計の判断を残しておくのは、明らかに価値があります。 ただ、ADRの話になると必ず「経緯を丁寧に残そう」という方向に進みがちです。なぜその設計にしたのか、どんな議論があったのか、どの案を捨てたのか。 でも...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "77c9cbcade56f4c21fa7"
+  },
+  {
     "title": "米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ",
     "url": "https://jidounten-lab.com/u_67445",
     "source": "Hatena Bookmark Hotentry IT",

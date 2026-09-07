@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T07:55:26+00:00_
+_Generiert: 2026-09-07T08:01:04+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -177,14 +177,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ジョージアとデジタル分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ** — Score 5, observation — [Quelle](https://jidounten-lab.com/u_67445)
+- **ADRは経緯より「決まったこと」だけでいい** — Score 5, observation — [Quelle](https://zenn.dev/yamitake/articles/adr-decision-over-context)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-07T00:31:11+00:00`, fetched `2026-09-07T05:18:33+00:00`
+  - Zeit: published `2026-09-07T02:10:01+00:00`, fetched `2026-09-07T08:00:26+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 自動運転によるロボタクシー開発が進んでいる米国で、テストドライバーの負傷事故が相次いでいる。Google系Waymoやアマゾン系Zooxでは、2024年から2025年にかけて24件以上の負傷事故が報告された。 負傷原因は、他車との衝突事故などより、急ブレーキなどのシステムの急制動や急旋回などの誤作動から起因するケースが多...
+  - Kurz: はじめに 先に言っておくと、僕はADR（Architecture Decision Record）を全否定するつもりはありません。設計の判断を残しておくのは、明らかに価値があります。 ただ、ADRの話になると必ず「経緯を丁寧に残そう」という方向に進みがちです。なぜその設計にしたのか、どんな議論があったのか、どの案を捨てたのか。 でも...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
