@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T08:01:04+00:00_
+_Generiert: 2026-09-07T08:31:51+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-09-07T08:01:04+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southeast Of Loyalty Islands 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southeast Of Loyalty Islands 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563876)
   - Quelle: GDACS
   - Zeit: ``
@@ -220,6 +220,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **令和8年熊本地震に関する対応状況について（9月7日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-07T08:00:00+00:00`, fetched `2026-09-07T08:31:17+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年熊本地震に関する対応状況について（9月7日）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **川崎デジタル大臣政務官がデンマーク王国を訪問しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-07T06:00:00+00:00`, fetched `2026-09-07T06:23:29+00:00`
