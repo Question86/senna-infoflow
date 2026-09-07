@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T11:22:04+00:00",
+  "generated_at": "2026-09-07T11:30:29+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382"
       },
       {
+        "title": "[NEU] [mittel] Apache Ant: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:24:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201"
+      },
+      {
         "title": "[UPDATE] [kritisch] Citrix Systems NetScaler (Gateway und ADC): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-07T11:19:17+00:00",
@@ -154,13 +161,6 @@
         "published_at": "2026-09-07T07:14:17+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173"
-      },
-      {
-        "title": "[UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T06:59:50+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379"
       }
     ],
     "geopolitics": [
@@ -170,6 +170,13 @@
         "published_at": "2026-09-07T02:30:51+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Ant: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:24:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201"
       },
       {
         "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -226,13 +233,6 @@
         "published_at": "2026-09-07T08:47:04+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/the-us103k-visa-fee-is-a-gift-to-seas-talent-pool-if-the-region-actually-wants-it-20260907/"
-      },
-      {
-        "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-07T03:25:12+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/"
       }
     ],
     "general": [
