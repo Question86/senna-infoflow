@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T02:53:46+00:00_
+_Generated: 2026-09-07T02:59:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-07T02:53:46+00:00_
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 5. M 4.9 - Kermadec Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-07T02:41:03.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx
-- summary: Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)
+### 5. 新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-09-07T00:36:00+00:00`
+- url: https://tech.techtouch.jp/entry/team-building-torisetsu-kai
+- summary: こんにちは！パンダ好きエンジニア @pandineer です。 テックタッチという会社で、社名と同じプロダクト「テックタッチ」の開発を担う、Adoption Platform Division の Engineering部でエンジニアリングマネージャーを務めています。 新しい環境に飛び込む時、「どんな人達がいるんだろう？」「うまく馴染めるかな…？」...
 
-### 6. M 5.0 - Kermadec Islands region
+### 6. M 4.7 - Kermadec Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-09-07T02:24:04.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000test
-- summary: Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)
+- published: `2026-09-07T02:57:16.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6
+- summary: Time 2026-09-07 02:30:21 UTC 2026-09-07 02:30:21 UTC at epicenter Location 31.273°S 178.619°E Depth 586.22 km (364.26 mi)
 
 END OF DOCUMENT
