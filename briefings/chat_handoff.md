@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T02:59:11+00:00_
+_Generated: 2026-09-07T03:20:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `12`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-07T02:59:11+00:00_
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 5. 新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog
+### 5. Taiwan’s startup talent problem is a matching problem, not a shortage
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-07T03:00:17+00:00`
+- url: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
+- summary: Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platfor…
+
+### 6. 新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-07T00:36:00+00:00`
 - url: https://tech.techtouch.jp/entry/team-building-torisetsu-kai
 - summary: こんにちは！パンダ好きエンジニア @pandineer です。 テックタッチという会社で、社名と同じプロダクト「テックタッチ」の開発を担う、Adoption Platform Division の Engineering部でエンジニアリングマネージャーを務めています。 新しい環境に飛び込む時、「どんな人達がいるんだろう？」「うまく馴染めるかな…？」...
-
-### 6. M 4.7 - Kermadec Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-07T02:57:16.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6
-- summary: Time 2026-09-07 02:30:21 UTC 2026-09-07 02:30:21 UTC at epicenter Location 31.273°S 178.619°E Depth 586.22 km (364.26 mi)
 
 END OF DOCUMENT

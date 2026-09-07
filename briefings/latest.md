@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T02:59:11+00:00_
+_Generiert: 2026-09-07T03:20:53+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+12 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -108,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of it answers the most revealing question. When the system makes a […] The post The real test of ethical AI is whether a frontline employee can challenge it appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Taiwan’s startup talent problem is a matching problem, not a shortage** — Score 12, opportunity — [Quelle](https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-07T03:00:17+00:00`, fetched `2026-09-07T03:20:25+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
+  - Kurz: Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platform operator of EZStartup. Founders often describe the challenge as “finding talent,” but the real bottleneck […] The post Taiwan’s startup talent problem is a ma…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog** — Score 10, observation — [Quelle](https://tech.techtouch.jp/entry/team-building-torisetsu-kai)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-07T00:36:00+00:00`, fetched `2026-09-07T02:58:38+00:00`
@@ -144,14 +153,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Malaysia’s digital economy’s second wave looks nothing like the first** — Score 8, observation — [Quelle](https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-07T02:00:04+00:00`, fetched `2026-09-07T02:03:40+00:00`
-  - Treffer: APAC Trend Radar
+- **ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)** — Score 5, observation — [Quelle](https://ascii.jp/elem/000/004/432/4432622/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-06T23:19:08+00:00`, fetched `2026-09-07T03:20:25+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: “Are you grabbing to this place?” While I incorporated the local expression into my vocabulary as a Brazilian in Malaysia, I reflected about the long journey of the entire tech ecosystem with a smile. Grab is more than a super app, it’s a new context for the entire e-hailing category. When I first came to […] The post Malaysia’s digital economy’s second wave looks nothing like the first appeared first on e27 .
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 動画モデル「MiniMax H3」のウェイトの公開後も、コミュニティのアップデートが止まりません。ついにリアルタイムに近い動画生成まで実現可能になってきました。生成時間の短さを利用した会話ゲームや無限に生成する仕組みをローカルPCでも実現する環境が登場。さらなる高速化技法も登場し、動画AIの再定義が進みつつあ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -89,6 +89,28 @@
     "id": "cfaa6c69fbb1c66297bc"
   },
   {
+    "title": "Taiwan’s startup talent problem is a matching problem, not a shortage",
+    "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-07T03:00:17+00:00",
+    "fetched_at": "2026-09-07T03:20:25+00:00",
+    "summary": "Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platform operator of EZStartup. Founders often describe the challenge as “finding talent,” but the real bottleneck […] The post Taiwan’s startup talent problem is a ma…",
+    "matched_keywords": [
+      "AI Agents",
+      "APAC Trend Radar",
+      "founder"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "64d783d88b873faa3894"
+  },
+  {
     "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
     "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
     "source": "Hatena Bookmark Hotentry IT",
@@ -274,5 +296,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e86c24a9eaee68cc9e6f"
+  },
+  {
+    "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
+    "url": "https://ascii.jp/elem/000/004/432/4432622/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-06T23:19:08+00:00",
+    "fetched_at": "2026-09-07T03:20:25+00:00",
+    "summary": "動画モデル「MiniMax H3」のウェイトの公開後も、コミュニティのアップデートが止まりません。ついにリアルタイムに近い動画生成まで実現可能になってきました。生成時間の短さを利用した会話ゲームや無限に生成する仕組みをローカルPCでも実現する環境が登場。さらなる高速化技法も登場し、動画AIの再定義が進みつつあ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4d0f6f68357b953bd8b1"
   }
 ]
