@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T21:26:05+00:00_
+_Generiert: 2026-09-07T21:39:33+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+72 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
