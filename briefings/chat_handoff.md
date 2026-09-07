@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T13:03:14+00:00_
+_Generated: 2026-09-07T13:23:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `65`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-07T13:03:14+00:00_
 - url: https://github.com/openai/skills
 - summary: Skills Catalog for Codex Important This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository . If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for cre…
 
-### 2. [UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service
+### 2. Multiples vulnérabilités dans Tenable Enclave Security (28 août 2026)
+- source: CERT-FR Avis de sécurité
+- score: `18`
+- published: `2026-08-28T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1089/
+- summary: De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+
+### 3. [UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
 - published: `2026-09-07T06:59:49+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libssh2 ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 3. [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-07T11:39:18+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Speicherfehler und Kernel-Abstürze beziehungsweise Denial-of-Service-Zustände auszulösen, Speicher außerhalb vorgesehener Grenzen auszulesen sowie in einzelnen Fällen…
-
-### 4. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-07T10:54:24+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382
-- summary: Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. M 5.5 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
