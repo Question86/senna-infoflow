@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T11:39:22+00:00",
+  "generated_at": "2026-09-07T11:44:41+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-09-07T02:30:51+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/"
+      },
+      {
+        "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3212"
       },
       {
         "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-07T00:36:00+00:00",
         "relevance_score": 10,
         "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai"
-      },
-      {
-        "title": "Supporting independent journalism in Ukraine",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-07T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
       }
     ],
     "github": [
@@ -100,11 +100,53 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332"
       },
       {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-07T10:54:24+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382"
+      },
+      {
+        "title": "[NEU] [mittel] MongoDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209"
+      },
+      {
+        "title": "[NEU] [mittel] IBM Integration Bus und IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3208"
+      },
+      {
+        "title": "[NEU] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3207"
+      },
+      {
+        "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3212"
+      },
+      {
+        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3210"
       },
       {
         "title": "[NEU] [mittel] OpenVPN: Mehrere Schwachstellen",
@@ -119,51 +161,16 @@
         "published_at": "2026-09-07T11:34:17+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3203"
-      },
-      {
-        "title": "[NEU] [mittel] Apache Ant: Schwachstelle ermöglicht Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T11:24:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Citrix Systems NetScaler (Gateway und ADC): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T11:19:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927"
-      },
-      {
-        "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199"
-      },
-      {
-        "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200"
-      },
-      {
-        "title": "[NEU] [mittel] CoreDNS: Schwachstelle ermöglicht Manipulation von DNS Einträgen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:19+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198"
-      },
-      {
-        "title": "[NEU] [mittel] Bruno: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:19+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3197"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211"
+      },
       {
         "title": "The ecosystem map: How to stay agile in the US-China AI battle",
         "source": "e27 Asia Startup and Tech Feed",
@@ -172,6 +179,41 @@
         "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/"
       },
       {
+        "title": "[NEU] [mittel] MongoDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209"
+      },
+      {
+        "title": "[NEU] [mittel] IBM Integration Bus und IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3208"
+      },
+      {
+        "title": "[NEU] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3207"
+      },
+      {
+        "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3212"
+      },
+      {
+        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3210"
+      },
+      {
         "title": "[NEU] [mittel] OpenVPN: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-07T11:34:17+00:00",
@@ -191,48 +233,6 @@
         "published_at": "2026-09-07T11:24:17+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201"
-      },
-      {
-        "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199"
-      },
-      {
-        "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200"
-      },
-      {
-        "title": "[NEU] [mittel] CoreDNS: Schwachstelle ermöglicht Manipulation von DNS Einträgen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:19+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198"
-      },
-      {
-        "title": "[NEU] [mittel] Bruno: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:59:19+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3197"
-      },
-      {
-        "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T10:34:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193"
-      },
-      {
-        "title": "anomalyco/opencode",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/anomalyco/opencode"
       }
     ],
     "general": [
