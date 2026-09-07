@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T10:52:24+00:00_
+_Generiert: 2026-09-07T10:57:45+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+40 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libssh2 ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-07T10:54:24+00:00`, fetched `2026-09-07T10:57:14+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The ecosystem map: How to stay agile in the US-China AI battle** — Score 16, observation — [Quelle](https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-07T02:30:51+00:00`, fetched `2026-09-07T02:32:01+00:00`
@@ -47,15 +56,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Denial of Service Zustand herbeizuführen und um die Kontrolle über betroffene Geräte zu übernehmen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] MISP: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-07T07:14:17+00:00`, fetched `2026-09-07T07:35:28+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech** — Score 14, observation — [Quelle](https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

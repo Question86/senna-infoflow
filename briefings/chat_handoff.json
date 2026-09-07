@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-07T10:52:25+00:00",
+  "generated_at": "2026-09-07T10:57:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 1,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 12,
+    "medium": 13,
     "observe": 27
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-07T10:54:24+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382",
+      "summary": "Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "section": "medium"
+    },
+    {
       "title": "The ecosystem map: How to stay agile in the US-China AI battle",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
       "summary": "Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what h…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-07T10:34:18+00:00",
-      "relevance_score": 14,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Denial of Service Zustand herbeizuführen und um die Kontrolle über betroffene Geräte…",
       "section": "medium"
     },
     {

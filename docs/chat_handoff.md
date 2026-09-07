@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T10:52:25+00:00_
+_Generated: 2026-09-07T10:57:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `40`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-07T10:52:25+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libssh2 ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 3. The ecosystem map: How to stay agile in the US-China AI battle
+### 3. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-07T10:54:24+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382
+- summary: Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 4. The ecosystem map: How to stay agile in the US-China AI battle
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-09-07T02:30:51+00:00`
 - url: https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/
 - summary: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what h…
-
-### 4. [NEU] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `14`
-- published: `2026-09-07T10:34:18+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Denial of Service Zustand herbeizuführen und um die Kontrolle über betroffene Geräte…
 
 ### 5. M 5.5 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
