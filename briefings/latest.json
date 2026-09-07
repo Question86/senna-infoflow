@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T21:45:00+00:00",
-  "run_id": "2026-09-07T21:45:00+00:00",
+  "generated_at": "2026-09-07T21:50:47+00:00",
+  "run_id": "2026-09-07T21:50:47+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 0,
@@ -3583,31 +3583,7 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
-      "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T09:17:22+00:00",
-      "fetched_at": "2026-09-07T21:44:26+00:00",
-      "summary": "概要 日々発信されているAIに関する膨大な国内外の公開情報から、AIセキュリティの観点でトレンドや事例を紹介しています。 特に、AIシステム開発者やセキュリティ担当者の方が、日々の業務を行う中で是非知っておいてほしい動向や注意してほしいインシデント事例に絞って紹介しています。 AIセキュリティ短信一覧 なお...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "177d60cf90d7181fc49d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
