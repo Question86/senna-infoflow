@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-07T06:06:12Z_
+_Generated: 2026-09-07T06:47:38Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-07T05:52:02+00:00` / age_days `0.01`
+- Published: `2026-09-07T05:52:02+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-07T05:52:02+00:00` / age_days `0.01`
+- Published: `2026-09-07T05:52:02+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-07T05:19:18+00:00` / age_days `0.03`
+- Published: `2026-09-07T05:19:18+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `80.17`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `80.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 80.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-07T04:36:37+00:00` / age_days `0.06`
+- Published: `2026-09-07T04:36:37+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-06T09:34:08+00:00` / age_days `0.86`
+- Published: `2026-09-06T09:34:08+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -72,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-07T03:00:17+00:00` / age_days `0.13`
+- Published: `2026-09-07T03:00:17+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: shortage, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
 
+### M 5.5 - southeast of the Loyalty Islands
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-09-07T06:18:50.143+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1
+
 ### M 4.7 - Kermadec Islands region
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-07T02:57:16.040+00:00` / age_days `0.13`
+- Published: `2026-09-07T02:57:16.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-07T02:41:03.040+00:00` / age_days `0.14`
+- Published: `2026-09-07T02:41:03.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-07T02:24:04.040+00:00` / age_days `0.15`
+- Published: `2026-09-07T02:24:04.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “openai/skills” — Die Dynamik liegt �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-07T01:37:45.187+00:00` / age_days `0.19`
+- Published: `2026-09-07T01:37:45.187+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l
-
-### AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-09-06T22:16:57+00:00` / age_days `0.33`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei
 
 END OF DOCUMENT
