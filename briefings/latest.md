@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T02:04:38+00:00_
+_Generiert: 2026-09-07T02:32:28+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+7 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M4.6 - off the coast of Oregon** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l)
-  - Quelle: USGS
-  - Zeit: `2026-09-07T01:30:21+00:00`
-  - Kurz: M4.6 - off the coast of Oregon. PAGER alert: none. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-85046 Google Chromium V8** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-04`
@@ -37,10 +33,10 @@ _Generiert: 2026-09-07T02:04:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563804)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563804)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 20 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563786)
   - Quelle: GDACS
   - Zeit: ``
@@ -73,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **The ecosystem map: How to stay agile in the US-China AI battle** — Score 16, observation — [Quelle](https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-07T02:30:51+00:00`, fetched `2026-09-07T02:32:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and the Software Development Kit (SDK) seemed […] The post The ecosystem map: How to stay agile in the U…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech** — Score 14, observation — [Quelle](https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-06T22:16:57+00:00`, fetched `2026-09-07T00:28:32+00:00`
@@ -103,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of it answers the most revealing question. When the system makes a […] The post The real test of ethical AI is whether a frontline employee can challenge it appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000test)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-07T02:24:04.040+00:00`, fetched `2026-09-07T02:32:01+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - off the coast of Oregon** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-07T01:37:45.187+00:00`, fetched `2026-09-07T01:38:07+00:00`
