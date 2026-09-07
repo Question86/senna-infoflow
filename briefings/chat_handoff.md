@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T15:19:01+00:00_
+_Generated: 2026-09-07T15:28:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `68`
+- findings: `69`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-07T15:19:01+00:00_
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 8. Announcing 20260079 (MRO,liquidity providing), for 7 days deadline 09:30
-- source: ECB Open Market Operations and Communication
+### 8. Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt
+- source: heise Security Alerts
 - score: `12`
-- published: `2026-09-07T14:40:23+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260079.en.html
-- summary: Announcing 20260079 (MRO,liquidity providing), for 7 days deadline 09:30
+- published: `2026-09-07T15:22:00.000+00:00`
+- url: https://www.heise.de/news/Zero-Day-Luecke-StyleSmuggler-in-Magento-und-Adobe-Commerce-wird-aktiv-ausgenutzt-11444217.html
+- summary: Onlineshops auf Basis von Magento und Adobe Commerce sind offenbar aufgrund einer ungepatchten Sicherheitslücke namens StyleSmuggler angreifbar.
 
 END OF DOCUMENT
