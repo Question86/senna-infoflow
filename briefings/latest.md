@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T16:00:44+00:00_
+_Generiert: 2026-09-08T16:22:59+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+69 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -164,6 +164,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For many consumer app companies, the hardest part is no longer building the first product. It is finding enough growth capital to keep buying users profitably once a product has already shown traction. Tevo, a consumer and AI apps company from Southeast Asia, is now turning to a financing model designed for exactly that gap. […] The post Tevo secures US$10M from PvX to scale its consumer AI apps without selling equi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Funding grants for new research into AI and teen development** — Score 13, opportunity — [Quelle](https://openai.com/index/teen-development-research-grants)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-08T09:00:00+00:00`, fetched `2026-09-08T16:22:28+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)
+  - Kurz: Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **heygen-com/hyperframes** — Score 13, observation — [Quelle](https://github.com/heygen-com/hyperframes)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-08T05:56:49+00:00`
@@ -245,6 +254,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 54 km E of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfup)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-08T16:06:20.040+00:00`, fetched `2026-09-08T16:22:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-08 15:43:57 UTC 2026-09-08 15:43:57 UTC at epicenter Location 16.032°S 173.298°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 22 km SSE of Neiafu, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tftd)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-08T12:11:55.537+00:00`, fetched `2026-09-08T12:12:32+00:00`
@@ -263,15 +281,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-08 06:49:48 UTC 2026-09-08 06:49:48 UTC at epicenter Location 10.733°N 69.162°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-08T07:06:29.040+00:00`, fetched `2026-09-08T07:22:24+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-08 06:50:46 UTC 2026-09-08 06:50:46 UTC at epicenter Location 58.121°S 26.258°W Depth 128.65 km (79.94 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Frank Elderson: Fireside chat** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-08T15:00:00+00:00`, fetched `2026-09-08T15:11:32+00:00`
@@ -280,15 +289,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Fireside chat
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「今後のデジタル人材育成政策に関する検討会」開催について掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-08T01:56:13+00:00`, fetched `2026-09-08T01:59:13+00:00`
-  - Treffer: APAC Trend Radar, policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
