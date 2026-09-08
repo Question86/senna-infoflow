@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-08T17:33:55+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-08T17:40:29+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 71,
@@ -12,7 +12,7 @@
     "medium": 23,
     "observe": 48
   },
-  "source_errors_count": 0,
+  "source_errors_count": 3,
   "top_signals": [
     {
       "title": "mksglu/context-mode",

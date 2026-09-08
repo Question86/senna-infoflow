@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T17:33:55+00:00_
+_Generiert: 2026-09-08T17:40:29+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+71 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -300,3 +300,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
+- `bis_central_bank_speeches` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
+- `bis_statistics` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss

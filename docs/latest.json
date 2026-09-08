@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T17:33:55+00:00",
-  "run_id": "2026-09-08T17:33:55+00:00",
+  "generated_at": "2026-09-08T17:40:29+00:00",
+  "run_id": "2026-09-08T17:40:29+00:00",
   "date": "2026-09-08",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 71
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 23,
     "observe": 48,
-    "source_errors": 0
+    "source_errors": 3
   },
   "sections": {
     "high": [],
@@ -3642,7 +3642,26 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bis_press_releases",
+      "source_name": "BIS Press Releases",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_central_bank_speeches",
+      "source_name": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
