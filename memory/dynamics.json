@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-08T13:04:08Z",
+  "generated_at": "2026-09-08T13:33:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 11,
+      "krass": 12,
       "strong": 12,
-      "watch": 6,
-      "quiet": 9
+      "watch": 9,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 22,
-      "watch": 6,
-      "quiet": 9
+      "strong": 23,
+      "watch": 9,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:17+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:17+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3222",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3233",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T12:04:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T10:44:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T06:19:17+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -225,7 +225,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -250,11 +250,38 @@
       "summary": "Python tool for converting files and office documents to Markdown. MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest…"
     },
     {
+      "title": "Multiples vulnérabilités dans Papercut (28 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-08-28T00:00:00+00:00",
+      "age_days": 11.57,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, code, 10",
+        "security high-signal: active, code, 10, auth",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de contourner l'authentification et d'exécuter du code arbitraire à distance. Papercut indique que ces vulnérabilités sont activement exploitées. L'éditeur explique que le correctif bloque les requêtes..."
+    },
+    {
       "title": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -281,7 +308,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3221",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -307,7 +334,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3218",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:39:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -333,7 +360,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T10:39:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -359,7 +386,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -385,7 +412,7 @@
       "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T08:43:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -411,7 +438,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -439,7 +466,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -466,7 +493,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 81.46,
+      "age_days": 81.48,
       "topics": [
         "ai"
       ],
@@ -495,7 +522,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -522,7 +549,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T08:44:17+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security",
@@ -550,7 +577,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -576,7 +603,7 @@
       "url": "https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T09:32:36+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -603,7 +630,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:44:31+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -629,7 +656,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T04:54:12.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -654,7 +681,7 @@
       "url": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-08T10:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -680,7 +707,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T07:20:36.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -705,7 +732,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T07:06:29.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -730,7 +757,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T01:07:52.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -755,7 +782,7 @@
       "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:30:13+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "security"
@@ -776,11 +803,83 @@
       "summary": "I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small businesses, and thinking about where all of this is heading. Th…"
     },
     {
+      "title": "Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "age_days": 7.57,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+    },
+    {
+      "title": "Vulnérabilité dans Mozilla Firefox pour iOS (01 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1099/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "age_days": 7.57,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+    },
+    {
+      "title": "Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1100/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "age_days": 7.57,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans JFrog Artifactory. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur (SSRF) et un contournement de la politique de sécurité."
+    },
+    {
       "title": "M 5.2 - 22 km SSE of Neiafu, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tftd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T12:11:55.537+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -804,7 +903,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T02:01:34.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -828,7 +927,7 @@
       "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:00:57+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -852,7 +951,7 @@
       "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T01:36:25+00:00",
-      "age_days": 1.48,
+      "age_days": 1.5,
       "topics": [
         "general"
       ],
@@ -876,7 +975,7 @@
       "url": "https://qiita.com/maeda-niku18/items/b633dda178c505461080",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T05:05:02+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -898,11 +997,37 @@
       "summary": "AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート） ChatGPT（GPT Image）で資料やWebサイト用のイラストを作っていると、毎回同じところで引っかかります。 線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、背景に意味のない小物が増える。要するに、AIが生成した..."
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (31 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1096/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "age_days": 8.57,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+    },
+    {
       "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T01:56:13+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -920,127 +1045,6 @@
         "no strong comparative reason"
       ],
       "summary": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました"
-    },
-    {
-      "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
-      "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-08T01:30:14+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "If you ask most people where the future of artificial intelligence will be built, they will name Silicon Valley, China, or Europe. Few would mention Southeast Asia. And yet, global tech giants are already investing tens of billions of dollars in the region. Why? Because Southeast Asia offers a unique combination of fa…"
-    },
-    {
-      "title": "松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました",
-      "url": "https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました"
-    },
-    {
-      "title": "令和7年度（2025年度）公益法人に対する支出状況を掲載しました",
-      "url": "https://www.digital.go.jp/procurement/disclosure/public-service-corporation-expenditure-inspection",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "令和7年度（2025年度）公益法人に対する支出状況を掲載しました"
-    },
-    {
-      "title": "令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました",
-      "url": "https://www.digital.go.jp/procurement/challenged_person_employment_facilities_goods",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました"
-    },
-    {
-      "title": "中途採用（行政人材） 業務説明会・イベントを掲載しました",
-      "url": "https://www.digital.go.jp/recruitment/career-government-official/recruiting-session",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "中途採用（行政人材） 業務説明会・イベントを掲載しました"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
