@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-08T06:13:30+00:00",
+  "generated_at": "2026-09-08T06:39:48+00:00",
   "topics": {
     "ai": [
       {
@@ -196,6 +196,15 @@
         "published_at": "2026-09-07T01:36:25+00:00",
         "relevance_score": 5,
         "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T06:19:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179"
       }
     ],
     "economy": [

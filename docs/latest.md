@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T06:13:30+00:00_
+_Generiert: 2026-09-08T06:39:48+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+30 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -56,6 +56,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small businesses, and thinking about where all of this is heading. The conversation […] The post AI, quantum computing and the future of cyber threats appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-08T06:19:17+00:00`, fetched `2026-09-08T06:39:15+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und um Sicherheitsmechanismen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment** — Score 14, observation — [Quelle](https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -205,3 +214,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_pressrels.rss
+- `bis_central_bank_speeches` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/cbspeeches.rss?paging_length=15
+- `bis_statistics` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss

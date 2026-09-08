@@ -199,6 +199,29 @@
     "id": "0dbf1adebcdeac0b58eb"
   },
   {
+    "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-08T06:19:17+00:00",
+    "fetched_at": "2026-09-08T06:39:15+00:00",
+    "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und um Sicherheitsmechanismen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "35d662933e793f836bfa"
+  },
+  {
     "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
     "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
     "source": "e27 Asia Startup and Tech Feed",
