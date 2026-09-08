@@ -300,6 +300,29 @@
     "id": "0dbf1adebcdeac0b58eb"
   },
   {
+    "title": "[UPDATE] [mittel] libvirt: Mehrere Schwachstellen ermöglichen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-08T10:44:19+00:00",
+    "fetched_at": "2026-09-08T10:50:23+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in libvirt ausnutzen, um Administratorrechte zu erlangen und vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e55a04b5a03a99adbd22"
+  },
+  {
     "title": "[UPDATE] [mittel] libexpat: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025",
     "source": "BSI CERT-Bund Security Advisories",
@@ -850,6 +873,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "102d9728024345d63a10"
+  },
+  {
+    "title": "Duolingoの新アイコンが「気持ち悪い」 世界のユーザーから「元に戻して」の声",
+    "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001269/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-08T07:10:30+00:00",
+    "fetched_at": "2026-09-08T10:50:23+00:00",
+    "summary": "通常アイコンは緑色の背景に、フクロウのマスコット「Duo」の顔を正面から描いている。今回のアイコンは、半分閉じた目に紫色の瞳、開いたくちばしから舌が垂れ、汗も描かれ、高熱でうなされているような姿になっている。 運営元の米Duolingoはこのアイコンについて言及していないが、同社は過去にも不気味なアイコンで...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "682d17278a8430e93249"
   },
   {
     "title": "道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】",
