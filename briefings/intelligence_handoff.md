@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-08T10:46:24Z_
+_Generated: 2026-09-08T11:22:00Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] libvirt: Mehrere Schwachstellen ermöglichen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### [UPDATE] [mittel] libvirt: Mehrere Schwachstellen ermöglichen
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-08T10:44:19+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724
 
 ### [UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-08T09:10:14+00:00` / age_days `0.07`
+- Published: `2026-09-08T09:10:14+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-08T06:19:17+00:00` / age_days `0.19`
+- Published: `2026-09-08T06:19:17+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:56:49+00:00` / age_days `0.2`
+- Published: `2026-09-08T05:56:49+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, privilege, privileges, security high-signal: rce, privilege, privileges, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:56:49+00:00` / age_days `0.2`
+- Published: `2026-09-08T05:56:49+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, auth, security high-signal: rce, auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T10:39:19+00:00` / age_days `0.0`
+- Published: `2026-09-08T10:39:19+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T09:10:14+00:00` / age_days `0.07`
+- Published: `2026-09-08T09:10:14+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T08:43:55+00:00` / age_days `0.09`
+- Published: `2026-09-08T08:43:55+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:56:49+00:00` / age_days `0.2`
+- Published: `2026-09-08T05:56:49+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: bypass, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T03:00:56+00:00` / age_days `0.32`
+- Published: `2026-09-08T03:00:56+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `81.37`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `81.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 81.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:56:49+00:00` / age_days `0.2`
+- Published: `2026-09-08T05:56:49+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://github.com/mksglu/context-mode
-
-### [UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-09-08T08:44:17+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, container, root, security high-signal: auth, container, root, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184
 
 END OF DOCUMENT
