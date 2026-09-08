@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T10:50:54+00:00_
+_Generiert: 2026-09-08T10:56:21+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+46 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0)
   - Kurz: Python tool for converting files and office documents to Markdown. MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest convert_* function needed for your use case (e.g., convert_stream() , or convert_local() ). See the…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **サムスンがAI半導体で日韓連合、横浜に拠点 後工程「先端国」で研究開発 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-08T08:51:26+00:00`, fetched `2026-09-08T10:55:53+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 韓国半導体大手サムスン電子は8日、横浜市で人工知能（AI）半導体の研究拠点の開所式を開いた。半導体の組み立て工程の装置や材料で世界トップシェアを持つ日本勢と連携し、AI半導体の性能を高める。AI半導体を巡る競争は、企業単独から国をまたぐ企業連合へと変わってきた。サムスン幹部「日本と技術交流を加速」「韓国...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 43 km NW of Aroa, Venezuela** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-08T07:20:36.040+00:00`, fetched `2026-09-08T07:22:24+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 通常アイコンは緑色の背景に、フクロウのマスコット「Duo」の顔を正面から描いている。今回のアイコンは、半分閉じた目に紫色の瞳、開いたくちばしから舌が垂れ、汗も描かれ、高熱でうなされているような姿になっている。 運営元の米Duolingoはこのアイコンについて言及していないが、同社は過去にも不気味なアイコンで...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/chizu/2139036.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-08T05:21:47+00:00`, fetched `2026-09-08T08:48:08+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
