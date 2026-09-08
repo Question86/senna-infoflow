@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-08T03:39:48Z_
+_Generated: 2026-09-08T03:48:22Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “The app worked, the product didn’t: Ca
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `81.07`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `81.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 81.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “The app worked, the product didn’t: Ca
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-08T01:56:13+00:00` / age_days `0.07`
+- Published: `2026-09-08T01:56:13+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “The app worked, the product didn’t: Ca
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-08T01:30:14+00:00` / age_days `0.09`
+- Published: `2026-09-08T01:30:14+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “The app worked, the product didn’t: Ca
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-08T02:56:25+00:00` / age_days `0.03`
+- Published: `2026-09-08T02:56:25+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “The app worked, the product didn’t: Ca
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-07T14:51:21+00:00` / age_days `0.53`
+- Published: `2026-09-07T14:51:21+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
