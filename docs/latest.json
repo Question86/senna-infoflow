@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T11:52:08+00:00",
-  "run_id": "2026-09-08T11:52:08+00:00",
+  "generated_at": "2026-09-08T11:57:25+00:00",
+  "run_id": "2026-09-08T11:57:25+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
+    "new_relevant_findings": 0,
     "today_file_total": 55,
     "displayed_findings": 55,
     "high": 0,
@@ -2813,148 +2813,7 @@
       "id": "c5a1b96ea43e5e9c36c4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-08T11:44:18+00:00",
-      "fetched_at": "2026-09-08T11:51:37+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Adobe Magento ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Open Source",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b3bfdd3012e2997dc10d"
-    },
-    {
-      "title": "[NEU] [hoch] SAP Patch Day September 2026: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-08T11:44:17+00:00",
-      "fetched_at": "2026-09-08T11:51:37+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3c264ff53eda4a2e1705"
-    },
-    {
-      "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-08T11:44:17+00:00",
-      "fetched_at": "2026-09-08T11:51:37+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um beliebigen Code auszuführen – sogar mit Root-Rechten –, sich erweiterte Berechtigungen zu verschaffen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a75a3b7d924d7e3c37d6"
-    },
-    {
-      "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3222",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-08T11:44:18+00:00",
-      "fetched_at": "2026-09-08T11:51:37+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um Denial-of-Service-Zustände herbeizuführen, sensible Informationen offenzulegen, Daten zu manipulieren oder potenziell beliebigen Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d734e1b434c9d630261d"
-    },
-    {
-      "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3221",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-08T11:44:18+00:00",
-      "fetched_at": "2026-09-08T11:51:37+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9a558b602376f9e53a89"
-    },
-    {
-      "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3218",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-08T11:39:18+00:00",
-      "fetched_at": "2026-09-08T11:51:37+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen, einen Denial-of-Service-Zustand auszulösen oder Cross-Site-Scripting-Angriffe durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0f9c3b53d91cca278e1c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
