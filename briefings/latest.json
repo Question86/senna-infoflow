@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T02:39:05+00:00",
-  "run_id": "2026-09-08T02:39:05+00:00",
+  "generated_at": "2026-09-08T02:48:19+00:00",
+  "run_id": "2026-09-08T02:48:19+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 1,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 2,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -293,6 +293,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6e7224fcd442355b6a99"
+      },
+      {
+        "title": "RTX 5060 Ti 16GBでローカルLLM(Qwen3.8 27B)にもう一度挑んだ話",
+        "url": "https://zenn.dev/yumeno/articles/rtx5060ti-qwen38-ollama-context-tuning",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-06T13:13:00+00:00",
+        "fetched_at": "2026-09-08T02:47:48+00:00",
+        "summary": "RTX 5060 Ti 16GBを手に入れたので、ローカルLLMをもう一度試してみた話。 今まで我が家(我が研究所)で使ってたのは GTX 1060(6GB)と RTX 2060(6GB)。優秀な2枚だけど、さすがに昨今のAI用途だと力不足を感じていた。 そこで今回、SO101と一緒にフィジカルAIやACT、強化学習用途でRTX 5060 Ti 16GBも買った。10万円程度...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8180d6513b3460066b1f"
       }
     ]
   },
@@ -559,39 +580,15 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6e7224fcd442355b6a99"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "AI, quantum computing and the future of cyber threats",
-      "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-08T02:30:13+00:00",
-      "fetched_at": "2026-09-08T02:38:35+00:00",
-      "summary": "I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small businesses, and thinking about where all of this is heading. The conversation […] The post AI, quantum computing and the future of cyber threats appeared first on…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Public Health"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0dbf1adebcdeac0b58eb"
     },
     {
-      "title": "ble.sh―理論物理の研究者がBashだけで書いた、世界で使われるコマンドラインエディタ - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_923/",
+      "title": "RTX 5060 Ti 16GBでローカルLLM(Qwen3.8 27B)にもう一度挑んだ話",
+      "url": "https://zenn.dev/yumeno/articles/rtx5060ti-qwen38-ollama-context-tuning",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-08T01:14:55+00:00",
-      "fetched_at": "2026-09-08T02:38:35+00:00",
-      "summary": "大阪大学 大学院理学研究科 助教 村瀬 功一 2015年に東京大学大学院理学系研究科にて博士（理学）を取得。国内外の研究機関で特任研究員などを歴任し、2026年より現職。専門は極限状態の物質（クォーク・グルーオンプラズマ、中性子星など）の理論物理。2013年にコマンドラインエディタ「ble.sh」の開発を開始。現在も本...",
+      "published_at": "2026-09-06T13:13:00+00:00",
+      "fetched_at": "2026-09-08T02:47:48+00:00",
+      "summary": "RTX 5060 Ti 16GBを手に入れたので、ローカルLLMをもう一度試してみた話。 今まで我が家(我が研究所)で使ってたのは GTX 1060(6GB)と RTX 2060(6GB)。優秀な2枚だけど、さすがに昨今のAI用途だと力不足を感じていた。 そこで今回、SO101と一緒にフィジカルAIやACT、強化学習用途でRTX 5060 Ti 16GBも買った。10万円程度...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -603,7 +600,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0698e54ff711e45bff77"
+      "id": "8180d6513b3460066b1f"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "RTX 5060 Ti 16GBでローカルLLM(Qwen3.8 27B)にもう一度挑んだ話",
+      "url": "https://zenn.dev/yumeno/articles/rtx5060ti-qwen38-ollama-context-tuning",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-06T13:13:00+00:00",
+      "fetched_at": "2026-09-08T02:47:48+00:00",
+      "summary": "RTX 5060 Ti 16GBを手に入れたので、ローカルLLMをもう一度試してみた話。 今まで我が家(我が研究所)で使ってたのは GTX 1060(6GB)と RTX 2060(6GB)。優秀な2枚だけど、さすがに昨今のAI用途だと力不足を感じていた。 そこで今回、SO101と一緒にフィジカルAIやACT、強化学習用途でRTX 5060 Ti 16GBも買った。10万円程度...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8180d6513b3460066b1f"
     }
   ],
   "source_errors": [],
