@@ -1,15 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-08T02:26:36+00:00",
+  "generated_at": "2026-09-08T02:39:05+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "AI, quantum computing and the future of cyber threats",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T02:30:13+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/"
+      },
       {
         "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-08T01:30:14+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/"
+      },
+      {
+        "title": "ble.sh―理論物理の研究者がBashだけで書いた、世界で使われるコマンドラインエディタ - レバテックLAB",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-08T01:14:55+00:00",
+        "relevance_score": 5,
+        "url": "https://levtech.jp/media/detail_923/"
       },
       {
         "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
