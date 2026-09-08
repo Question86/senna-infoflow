@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-08T08:39:33+00:00",
+  "generated_at": "2026-09-08T08:48:43+00:00",
   "topics": {
     "ai": [
       {
@@ -19,11 +19,25 @@
         "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/"
       },
       {
+        "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T08:44:17+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184"
+      },
+      {
         "title": "jo-inc/camofox-browser",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 18,
         "url": "https://github.com/jo-inc/camofox-browser"
+      },
+      {
+        "title": "Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T08:43:55+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/"
       },
       {
         "title": "AI, quantum computing and the future of cyber threats",
@@ -59,20 +73,6 @@
         "published_at": "2026-09-08T05:44:31+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/"
-      },
-      {
-        "title": "「データセンターの排熱で温泉を作ろう」が難しい3つの理由 本職のDC技術者にガチで考えてもらった",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T03:18:54+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2609/08/2000000887/"
-      },
-      {
-        "title": "ble.sh―理論物理の研究者がBashだけで書いた、世界で使われるコマンドラインエディタ - レバテックLAB",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T01:14:55+00:00",
-        "relevance_score": 5,
-        "url": "https://levtech.jp/media/detail_923/"
       }
     ],
     "github": [
@@ -96,6 +96,13 @@
         "published_at": null,
         "relevance_score": 18,
         "url": "https://github.com/jo-inc/camofox-browser"
+      },
+      {
+        "title": "Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T08:43:55+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/"
       },
       {
         "title": "heygen-com/hyperframes",
@@ -124,6 +131,22 @@
         "published_at": "2026-09-08T03:00:44+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/why-a-strong-jobs-report-hit-bitcoin-and-ethereum-harder-than-the-stock-market-20260908/"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T08:44:17+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184"
+      },
+      {
+        "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T06:19:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179"
       }
     ],
     "general": [
@@ -191,20 +214,11 @@
         "url": "https://www.digital.go.jp/speech/minister-260908-01"
       },
       {
-        "title": "LG製スマートテレビが画面オフ時に音声を録音しローカルデバイスをスキャンしていたことが判明",
+        "title": "道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T02:02:12+00:00",
+        "published_at": "2026-09-08T05:21:47+00:00",
         "relevance_score": 5,
-        "url": "https://gigazine.net/news/20260908-lg-smat-tv-spy/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T06:19:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179"
+        "url": "https://internet.watch.impress.co.jp/docs/column/chizu/2139036.html"
       }
     ],
     "economy": [
