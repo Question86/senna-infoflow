@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-08T17:40:29+00:00",
-  "run_id": "2026-09-08T17:40:29+00:00",
+  "generated_at": "2026-09-08T17:45:18+00:00",
+  "run_id": "2026-09-08T17:45:18+00:00",
   "date": "2026-09-08",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 1,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
-    "medium": 23,
+    "medium": 24,
     "observe": 48,
-    "source_errors": 3
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -461,6 +461,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0dbf1adebcdeac0b58eb"
+      },
+      {
+        "title": "Automatic Dependabot access to GitHub-hosted registries",
+        "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-08T16:46:05+00:00",
+        "fetched_at": "2026-09-08T17:44:49+00:00",
+        "summary": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,… The post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Actions",
+          "CodeQL/Dependabot",
+          "GitHub"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "31acaed905a5c7d1c732"
       },
       {
         "title": "[NEU] [mittel] Eclipse Jetty: Schwachstelle ermöglicht Denial of Service",
@@ -2271,6 +2293,28 @@
       "id": "0dbf1adebcdeac0b58eb"
     },
     {
+      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-08T16:46:05+00:00",
+      "fetched_at": "2026-09-08T17:44:49+00:00",
+      "summary": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,… The post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "31acaed905a5c7d1c732"
+    },
+    {
       "title": "[NEU] [mittel] Eclipse Jetty: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3233",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3641,27 +3685,31 @@
       "id": "c5a1b96ea43e5e9c36c4"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "bis_press_releases",
-      "source_name": "BIS Press Releases",
+      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
-    },
-    {
-      "source_id": "bis_central_bank_speeches",
-      "source_name": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
-    },
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss"
+      "published_at": "2026-09-08T16:46:05+00:00",
+      "fetched_at": "2026-09-08T17:44:49+00:00",
+      "summary": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,… The post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "31acaed905a5c7d1c732"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
