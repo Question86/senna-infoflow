@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-08T12:34:45Z",
+  "generated_at": "2026-09-08T12:52:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3222",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3233",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T12:04:17+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T10:44:19+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T06:19:17+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -225,7 +225,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -254,7 +254,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -281,7 +281,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3221",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -307,7 +307,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3218",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:39:18+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -333,7 +333,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T10:39:19+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -359,7 +359,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -385,7 +385,7 @@
       "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T08:43:55+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -411,7 +411,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -439,7 +439,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -466,7 +466,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 81.44,
+      "age_days": 81.45,
       "topics": [
         "ai"
       ],
@@ -485,7 +485,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 81.4d old signal",
+        "aging penalty -8.0 for 81.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -495,7 +495,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -522,7 +522,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T08:44:17+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security",
@@ -550,7 +550,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -576,7 +576,7 @@
       "url": "https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T09:32:36+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -603,7 +603,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:44:31+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -629,7 +629,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T04:54:12.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -654,7 +654,7 @@
       "url": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-08T10:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -680,7 +680,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T07:20:36.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -705,7 +705,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T07:06:29.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -730,7 +730,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T01:07:52.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -755,7 +755,7 @@
       "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:30:13+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -780,7 +780,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tftd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T12:11:55.537+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -804,7 +804,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T02:01:34.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -828,7 +828,7 @@
       "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:00:57+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -852,7 +852,7 @@
       "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T01:36:25+00:00",
-      "age_days": 1.46,
+      "age_days": 1.47,
       "topics": [
         "general"
       ],
@@ -876,7 +876,7 @@
       "url": "https://qiita.com/maeda-niku18/items/b633dda178c505461080",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T05:05:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -902,7 +902,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T01:56:13+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -926,7 +926,7 @@
       "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T01:30:14+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -951,7 +951,7 @@
       "url": "https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -975,7 +975,7 @@
       "url": "https://www.digital.go.jp/procurement/disclosure/public-service-corporation-expenditure-inspection",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -999,7 +999,7 @@
       "url": "https://www.digital.go.jp/procurement/challenged_person_employment_facilities_goods",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -1023,7 +1023,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/recruiting-session",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
