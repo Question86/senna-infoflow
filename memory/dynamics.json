@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-08T08:31:30Z",
+  "generated_at": "2026-09-08T08:49:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 36,
+    "dynamics": 39,
     "bands": {
       "extreme": 1,
-      "krass": 3,
-      "strong": 5,
+      "krass": 4,
+      "strong": 6,
       "watch": 5,
-      "quiet": 22
+      "quiet": 23
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
+      "strong": 11,
       "watch": 5,
-      "quiet": 22
+      "quiet": 23
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T06:19:17+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -100,11 +100,37 @@
       "summary": "Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it locally with the CLI, from AI coding…"
     },
     {
+      "title": "Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road",
+      "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-08T08:43:55+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Capital A’s (formerly AirAsia Group) latest numbers tell a company coming out of crisis, but not yet one firing evenly across all engines. The Malaysia-based group, which has spent the past few years restructuring after the pandemic and disposing of its airline business, reported second-quarter revenue of about US$193…"
+    },
+    {
       "title": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -132,7 +158,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -159,7 +185,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 81.27,
+      "age_days": 81.29,
       "topics": [
         "ai"
       ],
@@ -188,7 +214,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -211,11 +237,39 @@
       "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. https://context-mode.com Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data in…"
     },
     {
+      "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T08:44:17+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: auth, container, root",
+        "security high-signal: auth, container, root",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell Secure Connect Gateway ausnutzen, um unbefugten Zugriff zu erlangen, Authentifizierungs- und Schutzmechanismen zu umgehen, sensible Informationen oder Dateisysteminhalte offenzulegen bzw. zu manipulieren, Berechtigungen bis hin zu Root-Rechten zu erhöhen, SQL- und Befe…"
+    },
+    {
       "title": "Southeast Asia’s live commerce boom enters its harder second act",
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:44:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -241,7 +295,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T04:54:12.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -266,7 +320,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T07:20:36.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -291,7 +345,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T07:06:29.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -316,7 +370,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T01:07:52.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -341,7 +395,7 @@
       "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:30:13+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -366,7 +420,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T02:01:34.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -390,7 +444,7 @@
       "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:00:57+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -414,7 +468,7 @@
       "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T01:36:25+00:00",
-      "age_days": 1.29,
+      "age_days": 1.3,
       "topics": [
         "general"
       ],
@@ -438,7 +492,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T01:56:13+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -462,7 +516,7 @@
       "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T01:30:14+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -487,7 +541,7 @@
       "url": "https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -511,7 +565,7 @@
       "url": "https://www.digital.go.jp/procurement/disclosure/public-service-corporation-expenditure-inspection",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -535,7 +589,7 @@
       "url": "https://www.digital.go.jp/procurement/challenged_person_employment_facilities_goods",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -559,7 +613,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/recruiting-session",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T06:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -583,7 +637,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260908-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T02:56:25+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -603,11 +657,35 @@
       "summary": "松本大臣記者会見（令和8年9月8日）動画を掲載しました"
     },
     {
+      "title": "道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/chizu/2139036.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-08T05:21:47+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】"
+    },
+    {
       "title": "LG製スマートテレビが画面オフ時に音声を録音しローカルデバイスをスキャンしていたことが判明",
       "url": "https://gigazine.net/news/20260908-lg-smat-tv-spy/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T02:02:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -631,7 +709,7 @@
       "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T14:51:21+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -655,7 +733,7 @@
       "url": "https://e27.co/why-a-strong-jobs-report-hit-bitcoin-and-ethereum-harder-than-the-stock-market-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:44+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -679,7 +757,7 @@
       "url": "https://zenn.dev/yumeno/articles/rtx5060ti-qwen38-ollama-context-tuning",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T13:13:00+00:00",
-      "age_days": 1.8,
+      "age_days": 1.82,
       "topics": [
         "ai"
       ],
@@ -705,7 +783,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 80.24,
+      "age_days": 80.25,
       "topics": [
         "general"
       ],
@@ -730,7 +808,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 80.24,
+      "age_days": 80.25,
       "topics": [
         "general"
       ],
@@ -755,7 +833,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 80.24,
+      "age_days": 80.25,
       "topics": [
         "ai"
       ],
@@ -782,7 +860,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/08/2000000887/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T03:18:54+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -807,7 +885,7 @@
       "url": "https://levtech.jp/media/detail_923/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T01:14:55+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -832,7 +910,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T21:08:01+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -857,7 +935,7 @@
       "url": "https://diamond.jp/articles/-/398505",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T23:29:00+00:00",
-      "age_days": 1.38,
+      "age_days": 1.39,
       "topics": [
         "ai"
       ],
@@ -882,7 +960,7 @@
       "url": "https://github.com/MoonTechLab/LunaTV",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:56:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -907,7 +985,7 @@
       "url": "https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:30:20+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
