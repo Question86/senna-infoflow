@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T04:55:55+00:00_
+_Generiert: 2026-09-08T05:02:01+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -151,3 +151,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5387284d90>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f538796c2d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
