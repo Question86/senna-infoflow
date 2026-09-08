@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T18:27:23+00:00_
+_Generiert: 2026-09-08T18:39:06+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,26 @@ _Generiert: 2026-09-08T18:27:23+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-75650 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
+- **CISA KEV: CVE-2026-81963 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Link Following Vulnerability
+- **CISA KEV: CVE-2026-86218 N-able N-central** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. N-able N-central Static Code Injection Vulnerability
+- **CISA KEV: CVE-2026-85880 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Heap-Based Buffer Overflow Vulnerability
 - **CISA KEV: CVE-2026-85046 Google Chromium V8** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-04`
   - Kurz: Known exploited vulnerability. Added 2026-09-04. Due 2026-09-18. Google Chromium V8 Type Confusion Vulnerability
-- **CISA KEV: CVE-2026-59822 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. BerriAI LiteLLM Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-48710 Kludex Starlette** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. Kludex Starlette HTTP Request/Response Smuggling Vulnerability
-- **CISA KEV: CVE-2026-49869 Kestra Kestra OSS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Kestra OSS OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-82329 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
   - Quelle: GDACS
   - Zeit: ``
