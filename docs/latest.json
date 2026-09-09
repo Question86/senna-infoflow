@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:50:55+00:00",
-  "run_id": "2026-09-09T23:50:55+00:00",
+  "generated_at": "2026-09-09T23:56:14+00:00",
+  "run_id": "2026-09-09T23:56:14+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 123,
     "displayed_findings": 123,
     "high": 0,
@@ -6183,30 +6183,7 @@
       "id": "4d69c64eb8e925ff0aa2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-09T13:00:00+00:00",
-      "fetched_at": "2026-09-09T23:50:23+00:00",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "safety"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bf83317d263c20624f54"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
