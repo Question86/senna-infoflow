@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T09:48:16+00:00",
+  "generated_at": "2026-09-09T09:53:51+00:00",
   "topics": {
     "ai": [
       {
@@ -158,6 +158,13 @@
         "url": "https://jvn.jp/vu/JVNVU93257103/"
       },
       {
+        "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251"
+      },
+      {
         "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T08:49:18+00:00",
@@ -198,13 +205,6 @@
         "published_at": "2026-09-09T10:00:20+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU94974158/"
-      },
-      {
-        "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-09T10:00:10+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94533753/"
       }
     ],
     "geopolitics": [
@@ -214,6 +214,13 @@
         "published_at": "2026-09-09T08:44:17+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
+      },
+      {
+        "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251"
       },
       {
         "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
@@ -230,6 +237,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234"
       },
       {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3255"
+      },
+      {
+        "title": "[NEU] [hoch] Lenovo BIOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3254"
+      },
+      {
+        "title": "[NEU] [hoch] Tanium Endpoint Management Server, Data Service, Enforce, Comply: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3252"
+      },
+      {
+        "title": "[NEU] [hoch] Lenovo XClarity Integrator für WAC und OneCLI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3253"
+      },
+      {
         "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T08:59:17+00:00",
@@ -242,41 +277,6 @@
         "published_at": "2026-09-09T08:59:17+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249"
-      },
-      {
-        "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3248"
-      },
-      {
-        "title": "[NEU] [hoch] Adobe Creative Cloud (Illustrator und Animate): Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3247"
-      },
-      {
-        "title": "[NEU] [hoch] Adobe Photoshop: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3245"
-      },
-      {
-        "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3246"
-      },
-      {
-        "title": "[NEU] [hoch] Adobe Experience Manager: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3244"
       }
     ],
     "general": [
