@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:27:08+00:00",
-  "run_id": "2026-09-09T08:27:08+00:00",
+  "generated_at": "2026-09-09T08:38:16+00:00",
+  "run_id": "2026-09-09T08:38:16+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 1,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 18,
+    "medium": 19,
     "observe": 20,
     "source_errors": 0
   },
@@ -194,6 +194,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9fd09596dba218253563"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T08:24:17+00:00",
+        "fetched_at": "2026-09-09T08:37:46+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten, Microsoft Office Online Server, Microsoft 365 Apps, Microsoft SharePoint, Microsoft Teams und Microsoft Skype ausnutzen, um erhöhte Berechtigungen zu erlangen, um Code auszuführen, um Informationen offenzulegen und um den Nutzer zu täuschen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b50b669425afa1af69ad"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
@@ -1145,6 +1169,30 @@
       "id": "9fd09596dba218253563"
     },
     {
+      "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:24:17+00:00",
+      "fetched_at": "2026-09-09T08:37:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten, Microsoft Office Online Server, Microsoft 365 Apps, Microsoft SharePoint, Microsoft Teams und Microsoft Skype ausnutzen, um erhöhte Berechtigungen zu erlangen, um Code auszuführen, um Informationen offenzulegen und um den Nutzer zu täuschen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b50b669425afa1af69ad"
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1925,93 +1973,28 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2930",
+      "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T08:04:18+00:00",
-      "fetched_at": "2026-09-09T08:26:39+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in expat ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-09-09T08:24:17+00:00",
+      "fetched_at": "2026-09-09T08:37:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten, Microsoft Office Online Server, Microsoft 365 Apps, Microsoft SharePoint, Microsoft Teams und Microsoft Skype ausnutzen, um erhöhte Berechtigungen zu erlangen, um Code auszuführen, um Informationen offenzulegen und um den Nutzer zu täuschen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Microsoft",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eb5083f78ae9d6576d4c"
-    },
-    {
-      "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
-      "url": "https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-09T08:02:59+00:00",
-      "fetched_at": "2026-09-09T08:26:39+00:00",
-      "summary": "For years, the semiconductor race was largely about making transistors smaller. That contest is far from over, but the AI boom has shifted part of the battleground elsewhere: how multiple chips are assembled, connected and kept reliable inside a single package. That is the problem Synopsys and Singapore’s Agency for Science, Technology and Research (A*STAR) […] The post Synopsys, A*STAR team up to tackle AI chip pac…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Watchgraph:chips_compute_datacenters"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules chips_compute_datacenters (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "chips_compute_datacenters"
-      ],
-      "watchgraph_reasons": [
-        "chips_compute_datacenters: AI chip"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "488d535fb9239abed6a6"
-    },
-    {
-      "title": "Microsoft schließt Rekordzahl an Sicherheitslücken",
-      "url": "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-09T08:09:00.000+00:00",
-      "fetched_at": "2026-09-09T08:26:39+00:00",
-      "summary": "Microsoft schließt fast 1000 Sicherheitslücken am Patchday. Zwei davon werden bereits aktiv ausgenutzt und haben höchste Priorität.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ae10e1ae2dc0b3d79cfd"
+      "id": "b50b669425afa1af69ad"
     }
   ],
   "source_errors": [],

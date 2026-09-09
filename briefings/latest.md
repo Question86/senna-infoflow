@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T08:27:08+00:00_
+_Generiert: 2026-09-09T08:38:16+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+39 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-09T08:24:17+00:00`, fetched `2026-09-09T08:37:46+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten, Microsoft Office Online Server, Microsoft 365 Apps, Microsoft SharePoint, Microsoft Teams und Microsoft Skype ausnutzen, um erhöhte Berechtigungen zu erlangen, um Code auszuführen, um Informationen offenzulegen und um den Nutzer zu täuschen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-09T06:24:18+00:00`, fetched `2026-09-09T06:45:53+00:00`
@@ -110,15 +119,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Red Hat Directory Server und Enterprise Linux (389-ds-base): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-09T06:24:17+00:00`, fetched `2026-09-09T06:45:53+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Directory Server und Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Administratorrechte zu erlangen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate** — Score 16, observation — [Quelle](https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
