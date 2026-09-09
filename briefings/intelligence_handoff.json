@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-09T03:27:56Z",
+  "generated_at": "2026-09-09T03:41:21Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU94974158/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:20+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:10+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:30+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -113,7 +113,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 82.06,
+      "age_days": 82.07,
       "topics": [
         "ai"
       ],
@@ -142,7 +142,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:00:33+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -168,7 +168,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -192,7 +192,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -216,7 +216,7 @@
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:30:08+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -242,7 +242,7 @@
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T07:13:16+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -262,11 +262,36 @@
       "summary": "ロボットは私に向かってファイティングポーズを取り、上下に跳ねながら脚をほぐすように振った後、ボクサーさながらに両手を顔の前に上げた。パンチを1発、さらにもう1発と繰り出すふりをし、最後はかかとを突き出して力強く蹴った。幸い、私は1m離れていたため実際に触れられることはなかったが、数秒後、ロボットは私..."
     },
     {
+      "title": "Southeast Asia’s SMEs do not have an AI problem. They have a record problem",
+      "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-09T03:30:25+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one question. Where does the order data come from. The answer was…"
+    },
+    {
       "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
       "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:00:39+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -285,32 +310,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "In April 2026, the United States announced 83,387 job cuts. 26 per cent of them named artificial intelligence as the reason, the second consecutive month that AI was the top cited cause. Behind those numbers is a quieter story that is going to shape an entire generation of careers. Stanford economists Erik Brynjolfsso…"
-    },
-    {
-      "title": "最近取り入れたClaude Codeの個人的tips 4選 - Qiita",
-      "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-07T04:52:53+00:00",
-      "age_days": 1.94,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに ここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。 どれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。 この記事をざっくり図解 1. セッション名を自動で付ける 知っている方も多いかと思いますが、Claude Code のセッションには名前を付け..."
     }
   ],
   "read_order": [
