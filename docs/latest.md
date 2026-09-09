@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T22:26:12+00:00_
+_Generiert: 2026-09-09T22:39:27+00:00_
 
 ## Kurzlage
 
-118 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+120 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
