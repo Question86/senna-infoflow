@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T02:27:41+00:00",
+  "generated_at": "2026-09-09T02:40:47+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-09T01:30:08+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/"
+      },
+      {
+        "title": "Singapore learnt to measure cooling. ASEAN should follow",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-09T02:30:14+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/singapore-learnt-to-measure-cooling-asean-should-follow-20260906/"
       }
     ],
     "security": [

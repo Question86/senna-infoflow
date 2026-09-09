@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T02:27:41+00:00_
+_Generated: 2026-09-09T02:40:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-09T02:27:41+00:00_
 - url: https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb
 - summary: 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました
 
-### 8. “地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-08T23:38:37+00:00`
-- url: https://www.itmedia.co.jp/news/article/2609/09/2000001297/
-- summary: 首都圏外郭放水路は、地下約50mを通る世界最大級の地下放水路。周辺の中小河川が増水した際に立坑から水を取り込み、、地下トンネルを通じて調圧水槽へ送り、ポンプで江戸川に排水することで浸水被害を軽減する。 元の動画は7日に投稿したもの。施設内の監視カメラの映像をつないだ46秒の動画で、春日部市内を流れる倉松...
+### 8. Singapore learnt to measure cooling. ASEAN should follow
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-09-09T02:30:14+00:00`
+- url: https://e27.co/singapore-learnt-to-measure-cooling-asean-should-follow-20260906/
+- summary: Singapore has spent years getting better at something fairly basic: measuring how buildings actually perform. For larger commercial buildings, energy use is benchmarked. Cooling systems are subject to periodic energy audits. Building owners, engineers, and fa…
 
 END OF DOCUMENT
