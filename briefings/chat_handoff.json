@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-09T10:56:35+00:00",
+  "generated_at": "2026-09-09T11:19:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 4,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
-    "medium": 47,
+    "medium": 51,
     "observe": 28
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:09:17+00:00",
+      "relevance_score": 18,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Exchange Server ausnutzen, um beliebigen Code auszuführen, Spoofing-Angriffe durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Ang…",
+      "section": "medium"
+    },
+    {
       "title": "[UPDATE] [hoch] n8n: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165",
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmechanismen zu umgehen, beliebigen Code auszuführen oder einen Denial of Service zu verursachen.",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T08:44:17+00:00",
-      "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, erweiterte Berechtigungen zu erlangen oder sensible Informationen offenzulegen.",
       "section": "medium"
     },
     {
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “coreyhaines31/marketingskills” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "coreyhaines31/marketingskills",
-        "url": "https://github.com/coreyhaines31/marketingskills",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-09-09T05:57:59+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion…"
-      },
-      {
-        "title": "[NEU] [mittel] Fortinet FortiProxy und FortiOS: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T10:19:17+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, fortinet",
-          "security high-signal: active, exploitation, fortinet"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS und Fortinet FortiProxy ausnutzen, um einen Denial of Service Angriff durchzuführen und Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T10:09:17+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, fortinet",
-          "security high-signal: active, exploitation, fortinet, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiManager ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "[NEU] [mittel] Fortinet FortiAnalyzer: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T10:09:17+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, fortinet",
-          "security high-signal: active, exploitation, fortinet, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiAnalyzer ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[NEU] [mittel] Fortinet FortiClient: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T10:04:17+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, fortinet",
-          "security high-signal: active, exploitation, fortinet"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiClient ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      }
-    ]
-  }
+  ]
 }
