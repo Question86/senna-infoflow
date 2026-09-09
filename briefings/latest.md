@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T23:44:46+00:00_
+_Generiert: 2026-09-09T23:50:55+00:00_
 
 ## Kurzlage
 
-122 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+123 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -191,6 +191,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The AI policy window is open. We need to act.** — Score 13, observation — [Quelle](https://openai.com/index/ai-policy-window)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-09T13:00:00+00:00`, fetched `2026-09-09T23:50:23+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)
+  - Kurz: Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Now it’s China’s experts who are gig workers training AI data** — Score 13, observation — [Quelle](https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-09T10:00:00+00:00`, fetched `2026-09-09T10:16:57+00:00`
@@ -316,15 +325,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases September 2026 Security Updates
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260026.html)
-  - Quelle: JPCERT/CC English Alerts / `rss`
-  - Zeit: published `2026-09-09T11:36+09:00`, fetched `2026-09-09T03:23:41+00:00`
-  - Treffer: JPCERT, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
-  - Kurz: Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
