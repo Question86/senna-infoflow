@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T02:49:26+00:00",
-  "run_id": "2026-09-09T02:49:26+00:00",
+  "generated_at": "2026-09-09T02:55:03+00:00",
+  "run_id": "2026-09-09T02:55:03+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -687,30 +687,7 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ロボットが私にパンチの威嚇 技術の祭典で感じた「暴力」を賛美する危うさ",
-      "url": "https://japan.cnet.com/article/35252378/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-08T07:13:16+00:00",
-      "fetched_at": "2026-09-09T02:48:54+00:00",
-      "summary": "ロボットは私に向かってファイティングポーズを取り、上下に跳ねながら脚をほぐすように振った後、ボクサーさながらに両手を顔の前に上げた。パンチを1発、さらにもう1発と繰り出すふりをし、最後はかかとを突き出して力強く蹴った。幸い、私は1m離れていたため実際に触れられることはなかったが、数秒後、ロボットは私...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8095eab7d0f2fc70f726"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
