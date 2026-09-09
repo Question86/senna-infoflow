@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T08:47:30+00:00_
+_Generated: 2026-09-09T08:53:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `47`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-09T08:47:30+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165
 - summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmechanismen zu umgehen, beliebigen Code auszuführen oder einen Denial of Service zu verursachen.
 
-### 3. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
+### 3. [NEU] [hoch] Langflow OSS: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-09-09T08:44:17+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239
+- summary: Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, erweiterte Berechtigungen zu erlangen oder sensible Informationen offenzulegen.
+
+### 4. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-09T03:30:25+00:00`
 - url: https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/
 - summary: Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one q…
-
-### 4. When a slot opens, let the AI agent act – within limits
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-09-09T02:00:33+00:00`
-- url: https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/
-- summary: AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next…
 
 ### 5. Synopsys, A*STAR team up to tackle AI chip packaging challenges
 - source: e27 Asia Startup and Tech Feed
