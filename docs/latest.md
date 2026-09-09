@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T14:20:07+00:00_
+_Generiert: 2026-09-09T14:31:28+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+106 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_korea: Seoul (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Startup conferences often sell scale: bigger halls, longer speaker lists, more badges scanned at the entrance. Seoul is taking a different route with Try Everything 2026. As the city’s flagship startup festival returns to Dongdaemun Design Plaza on September 9 and 10, organisers are leaning less on crowd size and more on a harder question: […] The post Try Everything 2026 puts AI, robotics and cross-border capital a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen** — Score 12, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288588-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-09-09T14:25:00+00:00`, fetched `2026-09-09T14:30:53+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, kritisch, kritische Schwachstelle
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere** — Score 12, risk — [Quelle](https://www.heise.de/news/September-Patchday-Adobe-schliesst-kritische-Zero-Day-Luecke-und-172-weitere-11446552.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-09T10:12:00.000+00:00`, fetched `2026-09-09T10:16:57+00:00`
@@ -258,15 +267,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-09 12:18:14 UTC 2026-09-09 12:18:14 UTC at epicenter Location 14.877°S 173.119°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-09T00:30:01+00:00`, fetched `2026-09-09T00:47:12+00:00`
-  - Treffer: APAC Trend Radar, policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

@@ -1798,6 +1798,30 @@
     "id": "240bd58e6c19e157f30f"
   },
   {
+    "title": "Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen",
+    "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288588-1032_bits.html",
+    "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+    "source_type": "rss",
+    "published_at": "2026-09-09T14:25:00+00:00",
+    "fetched_at": "2026-09-09T14:30:53+00:00",
+    "summary": "Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Cyber-Sicherheitswarnung",
+      "kritisch",
+      "kritische Schwachstelle"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "12320301a6a6540c660e"
+  },
+  {
     "title": "September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere",
     "url": "https://www.heise.de/news/September-Patchday-Adobe-schliesst-kritische-Zero-Day-Luecke-und-172-weitere-11446552.html",
     "source": "heise Security Alerts",
@@ -2119,6 +2143,27 @@
       "LOW"
     ],
     "id": "c05ab6e3438b4a6f86f9"
+  },
+  {
+    "title": "Remediate Code Quality findings with agentic autofix",
+    "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-09T12:21:01+00:00",
+    "fetched_at": "2026-09-09T14:30:53+00:00",
+    "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the… The post Remediate Code Quality findings with agentic autofix appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0dc503bf602849f0edc0"
   },
   {
     "title": "「AIは10年以内に我々全員を殺す」 アンソロピックの研究者が「企業は無責任」と退社",

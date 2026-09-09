@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T14:20:07+00:00_
+_Generated: 2026-09-09T14:31:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `104`
+- findings: `106`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-09T14:20:07+00:00_
 - url: https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/
 - summary: Startup conferences often sell scale: bigger halls, longer speaker lists, more badges scanned at the entrance. Seoul is taking a different route with Try Everything 2026. As the city’s flagship startup festival returns to Dongdaemun Design Plaza on September…
 
-### 8. September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere
-- source: heise Security Alerts
+### 8. Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen
+- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - score: `12`
-- published: `2026-09-09T10:12:00.000+00:00`
-- url: https://www.heise.de/news/September-Patchday-Adobe-schliesst-kritische-Zero-Day-Luecke-und-172-weitere-11446552.html
-- summary: Im Zentrum der Adobe-Patch-Welle steht das Update für Adobe Commerce, das bereits akut angegriffen wird. Besonders viele Updates betreffen Experience Manager.
+- published: `2026-09-09T14:25:00+00:00`
+- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288588-1032_bits.html
+- summary: Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen
 
 END OF DOCUMENT
