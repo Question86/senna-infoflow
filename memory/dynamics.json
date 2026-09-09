@@ -1,31 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-09T08:48:34Z",
+  "generated_at": "2026-09-09T09:03:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 10,
-      "strong": 15,
+      "krass": 17,
+      "strong": 16,
       "watch": 2,
-      "quiet": 12
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 22,
+      "krass": 9,
+      "strong": 25,
       "watch": 2,
-      "quiet": 12
+      "quiet": 4
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3243",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:49:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code, 10",
+        "security high-signal: kritisch, code, 10"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server, Microsoft Windows 10 und Microsoft Windows 11 ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service herbeizuführen, um Informationen offenzulegen und um beliebigen Code auszuführen."
+    },
     {
       "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:24:17+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -50,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T06:24:17+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -71,11 +96,111 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Directory Server und Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Administratorrechte zu erlangen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
+      "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3248",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:54:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Xen ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren."
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Creative Cloud (Illustrator und Animate): Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3247",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:54:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Photoshop: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3245",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:54:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Photoshop ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[NEU] [mittel] Insyde UEFI Firmware und Cisco UCS (UEFI Shell Secure Boot): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3240",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:44:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in Insyde UEFI Firmware und Cisco Unified Computing System (UCS) ausnutzen, um den UEFI-Secure-Boot zu umgehen, die Pre-Boot-Umgebung zu manipulieren und beliebigen Code auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] MongoDB Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3236",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:39:17+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -100,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2599",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T07:34:27+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -125,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T07:39:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -147,11 +272,37 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmechanismen zu umgehen, beliebigen Code auszuführen oder einen Denial of Service zu verursachen."
     },
     {
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:44:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, erweiterte Berechtigungen zu erlangen oder sensible Informationen offenzulegen."
+    },
+    {
       "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU94974158/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:20+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -175,7 +326,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:10+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -199,7 +350,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -223,7 +374,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3235",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:39:17+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -247,7 +398,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2930",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:04:18+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -271,7 +422,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3224",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T06:24:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -295,7 +446,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3227",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T06:24:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -319,7 +470,7 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-09T05:57:59+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -348,7 +499,7 @@
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:30+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -374,7 +525,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T06:24:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -400,7 +551,7 @@
       "url": "https://jvn.jp/jp/JVN21088484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T14:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -422,11 +573,64 @@
       "summary": "株式会社ディーゼロが提供するbaserCMS用プラグイン「BurgerEditor」には、複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3246",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:54:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, Berechtigungen zu erweitern oder Sicherheitsmaßnahmen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Experience Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3244",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T08:54:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code, auth",
+        "security high-signal: angriffe, code, auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Adobe Experience Manager ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Cross-Site-Scripting-Angriffe durchzuführen oder Sicherheitsmaßnahmen zu umgehen."
+    },
+    {
       "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3238",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:39:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -452,7 +656,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3237",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:39:17+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -478,7 +682,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3205",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T06:04:17+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -504,7 +708,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 82.28,
+      "age_days": 82.3,
       "topics": [
         "ai"
       ],
@@ -533,7 +737,7 @@
       "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:38:47+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -560,7 +764,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:00:33+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -586,7 +790,7 @@
       "url": "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-09T08:09:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -611,7 +815,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg06",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-09T07:25:16.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -636,7 +840,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -660,7 +864,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -684,7 +888,7 @@
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:30:08+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -710,7 +914,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260080.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-09-09T08:15:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -734,7 +938,7 @@
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T07:13:16+00:00",
-      "age_days": 1.07,
+      "age_days": 1.08,
       "topics": [
         "general"
       ],
@@ -758,7 +962,7 @@
       "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T03:30:25+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -783,7 +987,7 @@
       "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:00:39+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -808,7 +1012,7 @@
       "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T04:52:53+00:00",
-      "age_days": 2.16,
+      "age_days": 2.17,
       "topics": [
         "ai"
       ],
@@ -828,201 +1032,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "はじめに ここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。 どれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。 この記事をざっくり図解 1. セッション名を自動で付ける 知っている方も多いかと思いますが、Claude Code のセッションには名前を付け..."
-    },
-    {
-      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
-      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-09T05:16:20+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy amon…"
-    },
-    {
-      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
-      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-09T00:30:01+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました"
-    },
-    {
-      "title": "Circle to acquire Tazapay as USDC push moves into cross-border payments",
-      "url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-09T04:00:49+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "For years, stablecoins have been discussed in two very different ways. In crypto circles, they are trading instruments. In financial infrastructure, they are increasingly being treated as a cheaper, always-on way to move money across borders. Circle’s planned acquisition of Singapore-headquartered Tazapay sits firmly…"
-    },
-    {
-      "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
-      "url": "https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-09T08:02:59+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For years, the semiconductor race was largely about making transistors smaller. That contest is far from over, but the AI boom has shifted part of the battleground elsewhere: how multiple chips are assembled, connected and kept reliable inside a single package. That is the problem Synopsys and Singapore’s Agency for S…"
-    },
-    {
-      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001297/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-08T23:38:37+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "首都圏外郭放水路は、地下約50mを通る世界最大級の地下放水路。周辺の中小河川が増水した際に立坑から水を取り込み、、地下トンネルを通じて調圧水槽へ送り、ポンプで江戸川に排水することで浸水被害を軽減する。 元の動画は7日に投稿したもの。施設内の監視カメラの映像をつないだ46秒の動画で、春日部市内を流れる倉松..."
-    },
-    {
-      "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
-      "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-08T14:40:17+00:00",
-      "age_days": 0.76,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazon Linux 2023 Amazon LinuxはAWSによって無料で提供されているLinux OSのディストリビューションです。Amazon EC2などのAW..."
-    },
-    {
-      "title": "Techはすぐに追ったほうがいい",
-      "url": "https://zenn.dev/myuron/articles/3c09e7e697d9de",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-08T14:20:07+00:00",
-      "age_days": 0.77,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "はじめに このブログはTechに関する思想です。 興味があれば続きを覗いてみてください。 Techって面白い 私はターミナルが好きだ。テキストエディタも好きだ。特にNeovimが好きだ。 私はインフラエンジニアなので、Vimは日常的に使っていたが、普通に使いづらいと思っていたし、矢印キーを多用していたのでVimmerなんて..."
-    },
-    {
-      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-09T01:19:10+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "米OpenAIは9月8日（現地時間）、社内の未公開モデルがミレニアム懸賞問題の1つ「ナビエ・ストークス方程式の存在と滑らかさ」を解決する証明を生成したと発表した。3次元の非圧縮性流体が、滑らかな状態から出発しても有限時間で速度が無限大に発散する「特異点」を生じ得ることを示したもので、同社は証明の解説と、証..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
