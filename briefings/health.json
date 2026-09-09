@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-09-09T18:36:24+00:00",
-  "status": "normal",
+  "generated_at": "2026-09-09T18:45:21+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 111,
-    "displayed_findings": 111,
+    "new_relevant_findings": 1,
+    "today_file_total": 112,
+    "displayed_findings": 112,
     "high": 0,
     "medium": 66,
-    "observe": 45,
-    "source_errors": 0
+    "observe": 46,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "fed_selected_interest_rates_h15",
+      "source_name": "Federal Reserve Selected Interest Rates H.15",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
