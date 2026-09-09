@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-09T09:46:48Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-09-09T10:03:29Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T09:49:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen oder Denial-of-Service-Zustände herbeizuführen."
+    },
+    {
       "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3243",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:49:18+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:24:17+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -65,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T06:24:17+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -86,11 +111,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Directory Server und Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Administratorrechte zu erlangen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
-      "title": "[NEU] [hoch] Adobe Acrobat und Acrobat Reader: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249",
+      "title": "[NEU] [hoch] Lenovo BIOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3254",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-09T08:59:17+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-09-09T09:49:18+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -108,14 +133,14 @@
         "high terms: code",
         "security high-signal: code"
       ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Acrobat und Adobe Acrobat Reader ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Lenovo BIOS ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
     },
     {
-      "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3248",
+      "title": "[NEU] [hoch] Tanium Endpoint Management Server, Data Service, Enforce, Comply: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3252",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-09T08:54:18+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-09-09T09:49:17+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -130,17 +155,17 @@
       "security_high_signal": true,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code"
+        "high terms: rce, code",
+        "security high-signal: rce, code"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Xen ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Tanium Endpoint Management ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code im Kontext des Comply-Dienstes auszuführen, SQL-Injection durchzuführen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zus…"
     },
     {
-      "title": "[NEU] [hoch] Adobe Creative Cloud (Illustrator und Animate): Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3247",
+      "title": "[NEU] [hoch] Lenovo XClarity Integrator für WAC und OneCLI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3253",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-09T08:54:18+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-09-09T09:49:17+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -158,39 +183,14 @@
         "high terms: code",
         "security high-signal: code"
       ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[NEU] [hoch] Adobe Photoshop: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3245",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-09T08:54:17+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Photoshop ausnutzen, um beliebigen Programmcode auszuführen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Lenovo XClarity ausnutzen, um beliebigen Code auszuführen oder erweiterte Berechtigungen zu erlangen."
     },
     {
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-09T05:57:59+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -219,7 +219,7 @@
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:30+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -245,7 +245,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T06:24:18+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -271,7 +271,7 @@
       "url": "https://jvn.jp/jp/JVN21088484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T14:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -293,11 +293,11 @@
       "summary": "株式会社ディーゼロが提供するbaserCMS用プラグイン「BurgerEditor」には、複数の脆弱性が存在します。"
     },
     {
-      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3250",
+      "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3255",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-09T08:59:17+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-09-09T09:49:18+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -312,11 +312,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
+        "high terms: angriffe",
+        "security high-signal: angriffe",
         "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Daten offenzulegen oder zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen."
     }
   ],
   "read_order": [
