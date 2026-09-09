@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-09T06:05:02Z",
+  "generated_at": "2026-09-09T06:38:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 30,
     "bands": {
       "extreme": 1,
-      "krass": 2,
+      "krass": 3,
       "strong": 8,
       "watch": 1,
       "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
+      "strong": 12,
       "watch": 1,
       "quiet": 17
     }
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/vu/JVNVU94974158/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:20+09:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:10+09:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-09T05:57:59+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +125,7 @@
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:30+09:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -151,7 +151,7 @@
       "url": "https://jvn.jp/jp/JVN21088484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T14:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -173,11 +173,37 @@
       "summary": "株式会社ディーゼロが提供するbaserCMS用プラグイン「BurgerEditor」には、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [kritisch] N-able N-Central: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3205",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T06:04:17+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in N-able N-Central ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Code auszuführen."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 82.17,
+      "age_days": 82.19,
       "topics": [
         "ai"
       ],
@@ -206,7 +232,7 @@
       "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:38:47+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -233,7 +259,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:00:33+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -259,7 +285,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -283,7 +309,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -307,7 +333,7 @@
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:30:08+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -333,7 +359,7 @@
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T07:13:16+00:00",
-      "age_days": 0.95,
+      "age_days": 0.98,
       "topics": [
         "general"
       ],
@@ -357,7 +383,7 @@
       "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T03:30:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -382,7 +408,7 @@
       "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:00:39+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -407,7 +433,7 @@
       "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T04:52:53+00:00",
-      "age_days": 2.05,
+      "age_days": 2.07,
       "topics": [
         "ai"
       ],
@@ -433,7 +459,7 @@
       "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T05:16:20+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -457,7 +483,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-09T00:30:01+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -481,7 +507,7 @@
       "url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:00:49+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -505,7 +531,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001297/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T23:38:37+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -529,7 +555,7 @@
       "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T14:40:17+00:00",
-      "age_days": 0.64,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -553,7 +579,7 @@
       "url": "https://zenn.dev/myuron/articles/3c09e7e697d9de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T14:20:07+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -577,7 +603,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T01:19:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -602,7 +628,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 81.14,
+      "age_days": 81.16,
       "topics": [
         "general"
       ],
@@ -618,7 +644,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 81.1d old signal"
+        "aging penalty -16.0 for 81.2d old signal"
       ],
       "summary": ""
     },
@@ -627,7 +653,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 81.14,
+      "age_days": 81.16,
       "topics": [
         "general"
       ],
@@ -643,7 +669,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 81.1d old signal"
+        "aging penalty -16.0 for 81.2d old signal"
       ],
       "summary": ""
     },
@@ -652,7 +678,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 81.14,
+      "age_days": 81.16,
       "topics": [
         "ai"
       ],
@@ -669,7 +695,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 81.1d old signal",
+        "aging penalty -16.0 for 81.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -679,7 +705,7 @@
       "url": "https://e27.co/thailands-mobility-future-will-be-decided-by-data-not-just-vehicles-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T05:20:21+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -704,7 +730,7 @@
       "url": "https://e27.co/singapore-learnt-to-measure-cooling-asean-should-follow-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:30:14+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -729,7 +755,7 @@
       "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-09T02:43:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],

@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-09T06:05:02Z_
+_Generated: 2026-09-09T06:38:17Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-09T10:00:20+09:00` / age_days `0.21`
+- Published: `2026-09-09T10:00:20+09:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-09T10:00:10+09:00` / age_days `0.21`
+- Published: `2026-09-09T10:00:10+09:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security, cloud
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-09T10:00:00+09:00` / age_days `0.21`
+- Published: `2026-09-09T10:00:00+09:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-09T05:57:59+00:00` / age_days `0.0`
+- Published: `2026-09-09T05:57:59+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-09T10:00:30+09:00` / age_days `0.21`
+- Published: `2026-09-09T10:00:30+09:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -62,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-09T14:00:00+09:00` / age_days `0.05`
+- Published: `2026-09-09T14:00:00+09:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/jp/JVN21088484/
 
+### [UPDATE] [kritisch] N-able N-Central: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-09T06:04:17+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: kritisch, code, security high-signal: kritisch, code, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3205
+
 ### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `82.17`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `82.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 82.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-09T04:38:47+00:00` / age_days `0.06`
+- Published: `2026-09-09T04:38:47+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-09T02:00:33+00:00` / age_days `0.17`
+- Published: `2026-09-09T02:00:33+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-09T11:36+09:00` / age_days `0.15`
+- Published: `2026-09-09T11:36+09:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, microsoft
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shell
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-09T11:36+09:00` / age_days `0.15`
+- Published: `2026-09-09T11:36+09:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
 - Quelle: https://www.jpcert.or.jp/english/at/2026/at260026.html
-
-### The most valuable part of AI may not be the model
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `16.0`
-- Published: `2026-09-09T01:30:08+00:00` / age_days `0.19`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/
 
 END OF DOCUMENT
