@@ -789,6 +789,52 @@
     "id": "244d48ebb627ae1aaaff"
   },
   {
+    "title": "[NEU] [niedrig] Mozilla Firefox für iOS: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3274",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:34:17+00:00",
+    "fetched_at": "2026-09-09T11:41:55+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox für iOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4f0b1d33781c81a28434"
+  },
+  {
+    "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3275",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:34:17+00:00",
+    "fetched_at": "2026-09-09T11:41:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "700f255a6a1ce65dfb88"
+  },
+  {
     "title": "[NEU] [mittel] Adobe Photoshop Mobile für Android: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3273",
     "source": "BSI CERT-Bund Security Advisories",
@@ -2033,6 +2079,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "50d8ee20170600e892ef"
+  },
+  {
+    "title": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+    "url": "https://www.watch.impress.co.jp/docs/news/2139467.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-09T06:35:10+00:00",
+    "fetched_at": "2026-09-09T11:41:55+00:00",
+    "summary": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6c6a70f831c0758c37bd"
   },
   {
     "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用認め謝罪",
