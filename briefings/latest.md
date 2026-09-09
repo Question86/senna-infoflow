@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T09:59:23+00:00_
+_Generiert: 2026-09-09T10:17:25+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+71 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Co…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen** — Score 20, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-09T10:09:17+00:00`, fetched `2026-09-09T10:16:57+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Watchgraph:cyber_active_exploitation, Webentwicklung
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] n8n: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-09T07:39:19+00:00`, fetched `2026-09-09T07:48:16+00:00`
@@ -111,15 +120,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-09T09:49:17+00:00`, fetched `2026-09-09T09:53:20+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate** — Score 16, observation — [Quelle](https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-09T01:00:39+00:00`, fetched `2026-09-09T01:12:06+00:00`
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Now it’s China’s experts who are gig workers training AI data** — Score 13, observation — [Quelle](https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-09T10:00:00+00:00`, fetched `2026-09-09T10:16:57+00:00`
+  - Treffer: AI/KI, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Public Health (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Synopsys, A*STAR team up to tackle AI chip packaging challenges** — Score 13, observation — [Quelle](https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-09T08:02:59+00:00`, fetched `2026-09-09T08:26:39+00:00`
@@ -177,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_korea: Seoul (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Startup conferences often sell scale: bigger halls, longer speaker lists, more badges scanned at the entrance. Seoul is taking a different route with Try Everything 2026. As the city’s flagship startup festival returns to Dongdaemun Design Plaza on September 9 and 10, organisers are leaning less on crowd size and more on a harder question: […] The post Try Everything 2026 puts AI, robotics and cross-border capital a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere** — Score 12, risk — [Quelle](https://www.heise.de/news/September-Patchday-Adobe-schliesst-kritische-Zero-Day-Luecke-und-172-weitere-11446552.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-09T10:12:00.000+00:00`, fetched `2026-09-09T10:16:57+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Im Zentrum der Adobe-Patch-Welle steht das Update für Adobe Commerce, das bereits akut angegriffen wird. Besonders viele Updates betreffen Experience Manager.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260080.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-09T08:15:23+00:00`, fetched `2026-09-09T07:19:03+00:00`
@@ -248,6 +266,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Chrome 153: Google wechselt zu Zweiwochen-Update-Zyklus** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-153-Google-wechselt-zu-Zweiwochen-Update-Zyklus-11446371.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-09T09:45:00.000+00:00`, fetched `2026-09-09T10:16:57+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Google stellt Chrome auf einen Zweiwochen-Rhythmus um. Version 153 behebt 230 Sicherheitslücken, darunter eine aktiv ausgenutzte.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft schließt Rekordzahl an Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html)
   - Quelle: heise Security Alerts / `rss`

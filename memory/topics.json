@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T09:59:23+00:00",
+  "generated_at": "2026-09-09T10:17:25+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3246"
       },
       {
+        "title": "Now it’s China’s experts who are gig workers training AI data",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-09T10:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-09T08:02:59+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-09T06:22:15+00:00",
         "relevance_score": 11,
         "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000"
-      },
-      {
-        "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-09T03:38:26+00:00",
-        "relevance_score": 11,
-        "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/"
       }
     ],
     "github": [
@@ -121,6 +121,13 @@
         "url": "https://github.com/coreyhaines31/marketingskills"
       },
       {
+        "title": "Now it’s China’s experts who are gig workers training AI data",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-09T10:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45",
         "source": "ECB Open Market Operations and Communication",
         "published_at": "2026-09-09T08:15:23+00:00",
@@ -137,6 +144,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "relevance_score": 20,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261"
+      },
+      {
         "title": "[UPDATE] [hoch] n8n: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T07:39:19+00:00",
@@ -151,11 +165,39 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
       },
       {
+        "title": "[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260"
+      },
+      {
+        "title": "[NEU] [mittel] Fortinet FortiAnalyzer: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259"
+      },
+      {
+        "title": "[NEU] [mittel] Fortinet FortiClient: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:04:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-09T10:00:30+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU93257103/"
+      },
+      {
+        "title": "[NEU] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:59:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257"
       },
       {
         "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
@@ -170,44 +212,16 @@
         "published_at": "2026-09-09T08:49:18+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3243"
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:24:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T06:24:18+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Directory Server und Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T06:24:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215"
-      },
-      {
-        "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-09T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN21088484/"
-      },
-      {
-        "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-09T10:00:20+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94974158/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "relevance_score": 20,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261"
+      },
       {
         "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -216,6 +230,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
       },
       {
+        "title": "[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260"
+      },
+      {
+        "title": "[NEU] [mittel] Fortinet FortiAnalyzer: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259"
+      },
+      {
+        "title": "[NEU] [mittel] Fortinet FortiClient: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T10:04:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258"
+      },
+      {
+        "title": "[NEU] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:59:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257"
+      },
+      {
         "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T09:49:17+00:00",
@@ -237,46 +279,11 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234"
       },
       {
-        "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] ConnectWise ScreenConnect: Schwachstelle ermöglicht nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T09:49:18+00:00",
+        "published_at": "2026-09-09T09:54:17+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3255"
-      },
-      {
-        "title": "[NEU] [hoch] Lenovo BIOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T09:49:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3254"
-      },
-      {
-        "title": "[NEU] [hoch] Tanium Endpoint Management Server, Data Service, Enforce, Comply: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T09:49:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3252"
-      },
-      {
-        "title": "[NEU] [hoch] Lenovo XClarity Integrator für WAC und OneCLI: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T09:49:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3253"
-      },
-      {
-        "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:59:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3250"
-      },
-      {
-        "title": "[NEU] [hoch] Adobe Acrobat und Acrobat Reader: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:59:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3256"
       }
     ],
     "general": [
