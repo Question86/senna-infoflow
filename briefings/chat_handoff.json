@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-09T17:30:42+00:00",
+  "generated_at": "2026-09-09T17:39:02+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 108,
-    "displayed_findings": 108,
+    "new_relevant_findings": 1,
+    "today_file_total": 109,
+    "displayed_findings": 109,
     "high": 0,
-    "medium": 65,
+    "medium": 66,
     "observe": 43
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/coreyhaines31/marketingskills",
       "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and…",
+      "section": "medium"
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-09T17:00:00+00:00",
+      "relevance_score": 20,
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268",
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Exchange Server ausnutzen, um beliebigen Code auszuführen, Spoofing-Angriffe durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Ang…",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] n8n: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T07:39:19+00:00",
-      "relevance_score": 18,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmechanismen zu umgehen, beliebigen Code auszuführen oder einen Denial of Service zu verursachen.",
       "section": "medium"
     },
     {
