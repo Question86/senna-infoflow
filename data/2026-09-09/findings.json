@@ -412,6 +412,28 @@
     "id": "240bd58e6c19e157f30f"
   },
   {
+    "title": "Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260080.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:15:23+00:00",
+    "fetched_at": "2026-09-09T07:19:03+00:00",
+    "summary": "Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "189cf187da76a5e3c7ac"
+  },
+  {
     "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
     "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
     "source": "Hatena Bookmark Hotentry IT",
