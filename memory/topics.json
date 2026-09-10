@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-10T12:38:24+00:00",
+  "generated_at": "2026-09-10T12:51:53+00:00",
   "topics": {
     "economy": [
       {
@@ -258,11 +258,11 @@
         "url": "https://jvn.jp/jp/JVN37476837/"
       },
       {
-        "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-09T06:23:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html"
+        "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-10T12:48:24+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267"
       }
     ],
     "general": [
