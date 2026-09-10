@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-10T03:41:07Z",
+  "generated_at": "2026-09-10T03:48:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 13,
+    "dynamics": 14,
     "bands": {
       "extreme": 2,
       "strong": 1,
-      "quiet": 10
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "quiet": 10
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:00:12+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -50,7 +50,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:00:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +78,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 83.07,
+      "age_days": 83.08,
       "topics": [
         "ai"
       ],
@@ -107,7 +107,7 @@
       "url": "https://anond.hatelabo.jp/20260910070047",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T22:08:36+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -131,7 +131,7 @@
       "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:30:47+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -155,7 +155,7 @@
       "url": "https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:54:29+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -175,6 +175,34 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 200 companies across Asia based on employee survey responses.…"
+    },
+    {
+      "title": "N&E Innovations nets US$1.7M to turn cashew husk waste into fresh produce protection",
+      "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-10T03:34:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: chain",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In Southeast Asia’s heat and humidity, keeping fruit, vegetables and ready-to-eat food fresh is not just a logistics problem but an economic one, too. Produce can lose value at every stage of the chain, from farm to wholesaler to supermarket shelf, while restaurants and households often throw away food long before it…"
     },
     {
       "title": "The cheapest way to stop your AI product from regressing",
@@ -207,7 +235,7 @@
       "url": "https://plurality.leaflet.pub/3mv4tpdgn7s2p",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T01:01:41+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
