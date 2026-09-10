@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-10T01:53:47Z_
+_Generated: 2026-09-10T02:04:29Z_
 
 ## Lageurteil
 
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “The missing layer in AI innovation: Huma
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `81.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `81.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 82.0d old signal
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “The missing layer in AI innovation: Huma
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `81.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `81.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 82.0d old signal
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “The missing layer in AI innovation: Huma
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `81.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `81.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 82.0d old signal, single-source AI cap enforced after phrase recheck
