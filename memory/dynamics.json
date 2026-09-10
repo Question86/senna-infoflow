@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-10T19:02:21Z",
+  "generated_at": "2026-09-10T19:18:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,14 +9,12 @@
       "extreme": 5,
       "krass": 8,
       "strong": 15,
-      "watch": 11,
-      "quiet": 1
+      "watch": 12
     },
     "bands_after_gate_recheck": {
       "krass": 7,
       "strong": 21,
-      "watch": 11,
-      "quiet": 1
+      "watch": 12
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T09:11:31+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security",
         "infra"
@@ -51,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T06:56:31+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -76,7 +74,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T10:20:06+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security",
         "infra"
@@ -102,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:51:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -127,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security",
         "infra"
@@ -153,7 +151,7 @@
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T13:15:00.000+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -179,7 +177,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:20:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "security",
         "infra"
@@ -205,7 +203,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:45+09:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -229,7 +227,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:30+09:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -253,7 +251,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:15+09:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -277,7 +275,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:00+09:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -301,7 +299,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T14:00:00+09:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -325,7 +323,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -349,7 +347,7 @@
       "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-10T17:26:59+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [],
       "dynamics_score": 25.0,
       "raw_band": "strong",
@@ -373,7 +371,7 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-10T06:35:12+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "security",
@@ -404,7 +402,7 @@
       "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-10T10:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -433,7 +431,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:00:12+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "macro"
@@ -462,7 +460,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T11:38:11+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -487,7 +485,7 @@
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:44:43+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "macro",
         "disaster"
@@ -516,7 +514,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:00:21+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "ai",
         "macro"
@@ -544,7 +542,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 83.71,
+      "age_days": 83.72,
       "topics": [
         "ai"
       ],
@@ -573,7 +571,7 @@
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-10T07:00:00+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "security",
@@ -602,7 +600,7 @@
       "url": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-09T21:55:55+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai",
         "security"
@@ -630,7 +628,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T07:52:00.000+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security",
@@ -657,7 +655,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:43:18+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -682,7 +680,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-09T06:23:00+00:00",
-      "age_days": 1.53,
+      "age_days": 1.54,
       "topics": [
         "security"
       ],
@@ -706,7 +704,7 @@
       "url": "https://www.cybertrust.co.jp/info/2026/0904-tls-announce.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T10:23:54+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -731,7 +729,7 @@
       "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-10T13:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "macro"
       ],
@@ -757,7 +755,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-02-15T00:00:00+00:00",
-      "age_days": 938.79,
+      "age_days": 938.8,
       "topics": [
         "security"
       ],
@@ -782,7 +780,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T08:45:00.000+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -806,7 +804,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T11:11:48.486+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -831,7 +829,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T06:58:40.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -852,11 +850,36 @@
       "summary": "Time 2026-09-10 06:42:40 UTC 2026-09-10 06:42:40 UTC at epicenter Location 3.873°S 77.503°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.3 - 83 km E of Lospalos, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgf2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-10T19:04:20.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, palo"
+      ],
+      "summary": "Time 2026-09-10 18:44:40 UTC 2026-09-10 18:44:40 UTC at epicenter Location 8.591°S 127.751°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.4 - southern East Pacific Rise",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgey",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T18:52:09.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -881,7 +904,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T14:12:37.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -906,7 +929,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T13:48:02.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -931,7 +954,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tga8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T12:22:14.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -956,7 +979,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T08:42:43.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -981,7 +1004,7 @@
       "url": "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T13:00:47+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -1005,7 +1028,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-10T12:15:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "macro"
       ],
@@ -1023,30 +1046,6 @@
         "high terms: 10"
       ],
       "summary": "Monetary policy decisions"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits VMware (07 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-09-07T00:00:00+00:00",
-      "age_days": 3.79,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
