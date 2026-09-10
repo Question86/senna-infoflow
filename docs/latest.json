@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:34:35+00:00",
-  "run_id": "2026-09-10T18:34:35+00:00",
+  "generated_at": "2026-09-10T18:44:23+00:00",
+  "run_id": "2026-09-10T18:44:23+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 1,
@@ -3606,50 +3606,7 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Control GitHub Actions cache access with cache-mode",
-      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-10T17:26:59+00:00",
-      "fetched_at": "2026-09-10T18:33:58+00:00",
-      "summary": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access… The post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "add250714aad0ff97dbc"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "fetched_at": "2026-09-10T18:33:58+00:00",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f733d9ecc2b42c226d04"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
