@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T21:40:02+00:00_
+_Generiert: 2026-09-10T21:45:20+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+76 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 ## Priorität Hoch
 
