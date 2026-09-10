@@ -548,6 +548,28 @@
     "id": "6585184748404d75fda4"
   },
   {
+    "title": "Control GitHub Actions cache access with cache-mode",
+    "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-10T17:26:59+00:00",
+    "fetched_at": "2026-09-10T18:33:58+00:00",
+    "summary": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access… The post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "GitHub",
+      "GitHub Actions"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "add250714aad0ff97dbc"
+  },
+  {
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "source": "OpenAI News RSS",
@@ -1153,6 +1175,26 @@
       "PINS"
     ],
     "id": "702e8c78545800c07820"
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-10T07:00:00+00:00",
+    "fetched_at": "2026-09-10T18:33:58+00:00",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f733d9ecc2b42c226d04"
   },
   {
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
