@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-10T10:55:35+00:00",
+  "generated_at": "2026-09-10T11:01:08+00:00",
   "topics": {
     "economy": [
       {
@@ -279,6 +279,13 @@
         "published_at": "2026-09-10T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a"
+      },
+      {
+        "title": "人生をあきらめたら希死念慮がなくなった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-10T06:55:15+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260910154808"
       },
       {
         "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",

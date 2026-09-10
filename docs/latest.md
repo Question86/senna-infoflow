@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T10:55:35+00:00_
+_Generiert: 2026-09-10T11:01:08+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+34 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -194,6 +194,15 @@ _Generiert: 2026-09-10T10:55:35+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 学園祭での年齢確認にマイナンバーカードを活用しています
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **人生をあきらめたら希死念慮がなくなった** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910154808)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-10T06:55:15+00:00`, fetched `2026-09-10T11:00:35+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 学校ではいじめられ、先生には嫌われ、家ではネグレクトをされてどこにも居場所がない小学生だった 初めての自殺未遂は8歳 以降何度も自殺未遂して意識不明になったこともあるが死にきれず、死ぬことをあきらめて大学以降はひたすらがんばってきた しかしどうしてか、がんばればがんばるほど仕事で「役立たず」「何でそ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **折りたたみスマホでやりたいことは？ （赤外線通信以外で）** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910114530)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-10T02:46:36+00:00`, fetched `2026-09-10T08:22:04+00:00`
@@ -211,15 +220,6 @@ _Generiert: 2026-09-10T10:55:35+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 当社は、2026年8月17日に公表した「当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて」および2026年8月19日に公表した「当社システムへの不正アクセスに関するお知らせ（第二報）」に関し、外部のサイバーセキュリティ専門機関と連携し、侵入経路や影響範囲および原因の調査を継続してまいりまし...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **増田はなぜ「はてブ」になったか - Nightflight** — Score 5, observation — [Quelle](https://plurality.leaflet.pub/3mv4tpdgn7s2p)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T01:01:41+00:00`, fetched `2026-09-10T03:16:55+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年9月、はてなの外にいる人たちが、はてな匿名ダイアリーの記事を「はてブ」と呼んでいることが話題になった。 内側から見れば誤用だ。「はてブ」ははてなブックマークの略で、記事を書く場所ではない。 だがこの誤用は、言語の変化がどこで起きるかを見せている。ちょうど当事者の証言が出そろったので、記録してお...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub availability report: August 2026** — Score 4, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-august-2026/)
   - Quelle: GitHub Blog Atom / `rss`
