@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T21:45:20+00:00",
-  "run_id": "2026-09-10T21:45:20+00:00",
+  "generated_at": "2026-09-10T21:51:18+00:00",
+  "run_id": "2026-09-10T21:51:18+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 1,
@@ -3966,28 +3966,7 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Refreshed repository pull requests page in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-10T21:27:17+00:00",
-      "fetched_at": "2026-09-10T21:44:44+00:00",
-      "summary": "A refreshed repository-level pull request listing page is now in public preview for all GitHub users. It brings powerful filtering, compact presentation mode, and more. Highlights The new page makes… The post Refreshed repository pull requests page in public preview appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0d1e194d1544887f1996"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
