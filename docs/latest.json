@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T17:01:19+00:00",
-  "run_id": "2026-09-10T17:01:19+00:00",
+  "generated_at": "2026-09-10T17:17:58+00:00",
+  "run_id": "2026-09-10T17:17:58+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 63
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 63,
-    "displayed_findings": 63,
+    "new_relevant_findings": 1,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 1,
     "medium": 17,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -1186,6 +1186,26 @@
           "PINS"
         ],
         "id": "702e8c78545800c07820"
+      },
+      {
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-10T00:00:00+00:00",
+        "fetched_at": "2026-09-10T17:17:14+00:00",
+        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8e25e6ea4d14e5a1d4e7"
       },
       {
         "title": "Multiples vulnérabilités dans les produits Juniper Networks (07 septembre 2026)",
@@ -2851,6 +2871,26 @@
       "id": "702e8c78545800c07820"
     },
     {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "fetched_at": "2026-09-10T17:17:14+00:00",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8e25e6ea4d14e5a1d4e7"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits Juniper Networks (07 septembre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1124/",
       "source": "CERT-FR Avis de sécurité",
@@ -3356,7 +3396,28 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "fetched_at": "2026-09-10T17:17:14+00:00",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8e25e6ea4d14e5a1d4e7"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
