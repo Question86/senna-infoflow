@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T08:22:34+00:00",
-  "run_id": "2026-09-10T08:22:34+00:00",
+  "generated_at": "2026-09-10T08:38:14+00:00",
+  "run_id": "2026-09-10T08:38:14+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 1,
@@ -1546,53 +1546,7 @@
       "id": "6dd20465dedbdc319cdb"
     }
   ],
-  "new_findings": [
-    {
-      "title": "2026-012: Critical Vulnerabilities in Check Point Products",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-10T10:20:06+00:00",
-      "fetched_at": "2026-09-10T08:22:04+00:00",
-      "summary": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances. CERT-…",
-      "matched_keywords": [
-        "CERT-EU",
-        "firewall",
-        "Security",
-        "VPN",
-        "Webentwicklung"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0); VPN (+2.0); firewall (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "450856c34e95766011eb"
-    },
-    {
-      "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
-      "url": "https://anond.hatelabo.jp/20260910114530",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-10T02:46:36+00:00",
-      "fetched_at": "2026-09-10T08:22:04+00:00",
-      "summary": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ea9996b5bf8f7c3f3880"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
