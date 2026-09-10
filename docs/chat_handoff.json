@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T02:33:50+00:00",
+  "generated_at": "2026-09-10T02:46:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 4
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,13 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "GitHub availability report: August 2026",
-      "source": "GitHub Blog Atom",
+      "title": "みんなほしいのはiPhone Duo “mini”だよね",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-10T02:05:17+00:00",
-      "relevance_score": 4,
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-      "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
+      "published_at": "2026-09-09T22:08:36+00:00",
+      "relevance_score": 5,
+      "url": "https://anond.hatelabo.jp/20260910070047",
+      "summary": "気が早いけど折りたたみiPhoneを一回り小さくしたiPhone Duo miniがほしい 折り畳めば画面端まで指が届く横幅で12mini/13miniユーザーも成仏 開けば大型iPhoneより広い画面 ついでに価格もminiにして… でないと円安の日本人には買えないよ",
       "section": "observe"
     }
   ],

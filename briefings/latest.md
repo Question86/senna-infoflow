@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T02:33:50+00:00_
+_Generiert: 2026-09-10T02:46:45+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+6 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity charging infrastructure integrated right into their blueprints, a very […] The post Future-proofing th…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **みんなほしいのはiPhone Duo “mini”だよね** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910070047)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-09T22:08:36+00:00`, fetched `2026-09-10T02:46:13+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 気が早いけど折りたたみiPhoneを一回り小さくしたiPhone Duo miniがほしい 折り畳めば画面端まで指が届く横幅で12mini/13miniユーザーも成仏 開けば大型iPhoneより広い画面 ついでに価格もminiにして… でないと円安の日本人には買えないよ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub availability report: August 2026** — Score 4, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-august-2026/)
   - Quelle: GitHub Blog Atom / `rss`
