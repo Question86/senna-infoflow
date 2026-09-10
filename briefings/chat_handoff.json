@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T05:56:12+00:00",
+  "generated_at": "2026-09-10T06:03:54+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 5,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 2,
-    "observe": 13
+    "medium": 6,
+    "observe": 14
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,13 +25,33 @@
       "section": "medium"
     },
     {
-      "title": "SHIRASAGIにおける複数の脆弱性",
+      "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-09-10T14:00:00+09:00",
+      "published_at": "2026-09-10T15:00:45+09:00",
       "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN37476837/",
-      "summary": "SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。",
+      "url": "https://jvn.jp/vu/JVNVU96551518/",
+      "summary": "株式会社コンテックが提供するCONPROSYSシリーズには、複数の脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
+      "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-10T15:00:30+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU99009004/",
+      "summary": "株式会社コンテックが提供する無線LAN FLEXLANシリーズには、複数の脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
+      "title": "コンテック製PC-HELPERシリーズにおける複数の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-10T15:00:15+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU90314828/",
+      "summary": "株式会社コンテックが提供するPC-HELPERシリーズには、複数の脆弱性が存在します。",
       "section": "medium"
     },
     {

@@ -24,6 +24,94 @@
     "id": "ca21b30286cdb97f55fb"
   },
   {
+    "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU96551518/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:00:45+09:00",
+    "fetched_at": "2026-09-10T06:03:26+00:00",
+    "summary": "株式会社コンテックが提供するCONPROSYSシリーズには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c216567e7b7cec5f787c"
+  },
+  {
+    "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU99009004/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:00:30+09:00",
+    "fetched_at": "2026-09-10T06:03:26+00:00",
+    "summary": "株式会社コンテックが提供する無線LAN FLEXLANシリーズには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9e0d47f9407c96b52570"
+  },
+  {
+    "title": "コンテック製PC-HELPERシリーズにおける複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU90314828/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:00:15+09:00",
+    "fetched_at": "2026-09-10T06:03:26+00:00",
+    "summary": "株式会社コンテックが提供するPC-HELPERシリーズには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8f124c4c8217f1cf2b3c"
+  },
+  {
+    "title": "コンテック製SolarView Compactにおける複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU97753461/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:00:00+09:00",
+    "fetched_at": "2026-09-10T06:03:26+00:00",
+    "summary": "株式会社コンテックが提供するSolarView Compactには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "826bb7893819d31d016b"
+  },
+  {
     "title": "SHIRASAGIにおける複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN37476837/",
     "source": "JVN Japan Vulnerability Notes",
@@ -257,6 +345,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d3b031e595d60e9a8a33"
+  },
+  {
+    "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
+    "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-10T06:00:00+00:00",
+    "fetched_at": "2026-09-10T06:03:26+00:00",
+    "summary": "学園祭での年齢確認にマイナンバーカードを活用しています",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "277e95c2710a6c0ccab5"
   },
   {
     "title": "N&E Innovations nets US$1.7M to turn cashew husk waste into fresh produce protection",
