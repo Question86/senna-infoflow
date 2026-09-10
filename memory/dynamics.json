@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-10T13:31:39Z",
+  "generated_at": "2026-09-10T13:46:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T09:11:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security",
         "infra"
@@ -51,7 +51,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T06:56:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -76,7 +76,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T10:20:06+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security",
         "infra"
@@ -102,7 +102,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:51:07+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -127,7 +127,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:23+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security",
         "infra"
@@ -153,7 +153,7 @@
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T13:15:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -179,7 +179,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:20:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security",
         "infra"
@@ -205,7 +205,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:45+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -229,7 +229,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:30+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -253,7 +253,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:15+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -277,7 +277,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -301,7 +301,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T14:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -325,7 +325,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:24+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -349,7 +349,7 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-10T06:35:12+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security",
@@ -380,7 +380,7 @@
       "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-10T10:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -409,7 +409,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:00:12+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -438,7 +438,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T11:38:11+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -463,7 +463,7 @@
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:44:43+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "macro",
         "disaster"
@@ -492,7 +492,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:00:21+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -520,7 +520,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 83.48,
+      "age_days": 83.49,
       "topics": [
         "ai"
       ],
@@ -549,7 +549,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T07:52:00.000+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security",
@@ -576,7 +576,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:43:18+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -601,7 +601,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-09T06:23:00+00:00",
-      "age_days": 1.3,
+      "age_days": 1.31,
       "topics": [
         "security"
       ],
@@ -625,7 +625,7 @@
       "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-10T13:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -651,7 +651,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T08:45:00.000+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -675,7 +675,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T11:11:48.486+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -700,7 +700,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T06:58:40.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -725,7 +725,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tga8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T12:22:14.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -750,7 +750,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T08:42:43.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -775,7 +775,7 @@
       "url": "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T13:00:47+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -799,7 +799,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-10T12:15:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -823,7 +823,7 @@
       "url": "https://anond.hatelabo.jp/20260910154808",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T06:55:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -847,7 +847,7 @@
       "url": "https://anond.hatelabo.jp/20260910114530",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T02:46:36+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -871,7 +871,7 @@
       "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T02:46:26+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "macro"
       ],
@@ -895,7 +895,7 @@
       "url": "https://anond.hatelabo.jp/20260910070047",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T22:08:36+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -915,11 +915,37 @@
       "summary": "気が早いけど折りたたみiPhoneを一回り小さくしたiPhone Duo miniがほしい 折り畳めば画面端まで指が届く横幅で12mini/13miniユーザーも成仏 開けば大型iPhoneより広い画面 ついでに価格もminiにして… でないと円安の日本人には買えないよ"
     },
     {
+      "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2139791.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-10T08:47:29+00:00",
+      "age_days": 0.21,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中"
+    },
+    {
       "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
       "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:30:47+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "macro"
       ],
@@ -943,7 +969,7 @@
       "url": "https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:54:29+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -969,7 +995,7 @@
       "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-10T06:00:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -993,7 +1019,7 @@
       "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T03:34:23+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -1015,32 +1041,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "In Southeast Asia’s heat and humidity, keeping fruit, vegetables and ready-to-eat food fresh is not just a logistics problem but an economic one, too. Produce can lose value at every stage of the chain, from farm to wholesaler to supermarket shelf, while restaurants and households often throw away food long before it…"
-    },
-    {
-      "title": "The cheapest way to stop your AI product from regressing",
-      "url": "https://e27.co/the-cheapest-way-to-stop-your-ai-product-from-regressing-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-10T03:00:37+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A startup changes the model behind its AI feature. The new model is faster, cheaper and performs better on public benchmarks. The engineering team runs its tests, deploys the update and waits for the improvement. Instead, support tickets begin to arrive. The assistant is less accurate on short questions. It misunderst…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
