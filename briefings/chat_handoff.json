@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T21:31:16+00:00",
+  "generated_at": "2026-09-10T21:40:02+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 2,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 1,
-    "medium": 18,
-    "observe": 54
+    "medium": 19,
+    "observe": 55
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "medium"
     },
     {
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-10T21:31:19+00:00",
+      "relevance_score": 17,
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser app…",
+      "section": "medium"
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -52,16 +62,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Entwicklerwerkzeugen ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsmechanismen zu umgehen, sowie Informationen zu manipulieren oder offenzulegen.",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-10T09:11:31+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center und Cisco Secure Firewall Threat Defense ausnutzen, um Root-Rechte zu erlangen, beliebigen Code mit Root-Rechten auszuführen, SQL-Injection durchz…",
       "section": "medium"
     },
     {
