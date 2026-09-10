@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-10T01:57:42+00:00",
+  "generated_at": "2026-09-10T02:12:48+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-09-10T01:00:21+00:00",
         "relevance_score": 22,
         "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/"
+      },
+      {
+        "title": "I built a 21-role AI workforce. The hardest part was management",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T02:00:12+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/"
+      },
+      {
+        "title": "GitHub availability report: August 2026",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-10T02:05:17+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/"
       }
     ],
     "economy": [
@@ -26,6 +40,22 @@
         "published_at": "2026-09-10T01:30:47+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/"
+      }
+    ],
+    "github": [
+      {
+        "title": "I built a 21-role AI workforce. The hardest part was management",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T02:00:12+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/"
+      },
+      {
+        "title": "GitHub availability report: August 2026",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-10T02:05:17+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/"
       }
     ]
   }
