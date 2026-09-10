@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-10T11:34:03+00:00",
+  "generated_at": "2026-09-10T11:41:16+00:00",
   "topics": {
     "economy": [
       {
@@ -68,6 +68,13 @@
         "published_at": "2026-09-10T07:44:43+00:00",
         "relevance_score": 26,
         "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-10T11:38:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242"
       },
       {
         "title": "2026-012: Critical Vulnerabilities in Check Point Products",
@@ -174,6 +181,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-10T11:38:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242"
+      },
+      {
         "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-10T09:11:31+00:00",
@@ -235,13 +249,6 @@
         "published_at": "2026-09-09T06:23:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html"
-      },
-      {
-        "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-09-10T03:20:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html"
       }
     ],
     "general": [

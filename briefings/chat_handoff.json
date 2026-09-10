@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T11:34:03+00:00",
+  "generated_at": "2026-09-10T11:41:16+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 1,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 1,
-    "medium": 10,
+    "medium": 11,
     "observe": 24
   },
   "source_errors_count": 0,
@@ -45,6 +45,16 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T11:38:11+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Entwicklerwerkzeugen ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsmechanismen zu umgehen, sowie Informationen zu manipulieren oder offenzulegen.",
+      "section": "medium"
+    },
+    {
       "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -52,16 +62,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center und Cisco Secure Firewall Threat Defense ausnutzen, um Root-Rechte zu erlangen, beliebigen Code mit Root-Rechten auszuführen, SQL-Injection durchz…",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-10T06:56:31+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiOS ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {

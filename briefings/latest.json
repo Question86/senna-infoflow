@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:34:03+00:00",
-  "run_id": "2026-09-10T11:34:03+00:00",
+  "generated_at": "2026-09-10T11:41:16+00:00",
+  "run_id": "2026-09-10T11:41:16+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 1,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 1,
-    "medium": 10,
+    "medium": 11,
     "observe": 24,
     "source_errors": 0
   },
@@ -179,6 +179,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ca21b30286cdb97f55fb"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-10T11:38:11+00:00",
+        "fetched_at": "2026-09-10T11:40:47+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Entwicklerwerkzeugen ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsmechanismen zu umgehen, sowie Informationen zu manipulieren oder offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "758b882ddb64c5357dc8"
       },
       {
         "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
@@ -1132,6 +1156,30 @@
       "id": "ca21b30286cdb97f55fb"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T11:38:11+00:00",
+      "fetched_at": "2026-09-10T11:40:47+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Entwicklerwerkzeugen ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsmechanismen zu umgehen, sowie Informationen zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "758b882ddb64c5357dc8"
+    },
+    {
       "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1928,7 +1976,32 @@
       "id": "6dd20465dedbdc319cdb"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T11:38:11+00:00",
+      "fetched_at": "2026-09-10T11:40:47+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Entwicklerwerkzeugen ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsmechanismen zu umgehen, sowie Informationen zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "758b882ddb64c5357dc8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
