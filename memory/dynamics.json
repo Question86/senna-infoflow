@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-10T18:26:30Z",
+  "generated_at": "2026-09-10T18:37:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 5,
       "krass": 8,
-      "strong": 14,
+      "strong": 15,
       "watch": 10,
-      "quiet": 3
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
       "krass": 7,
-      "strong": 20,
+      "strong": 21,
       "watch": 10,
-      "quiet": 3
+      "quiet": 2
     }
   },
   "top_dynamics": [
@@ -51,7 +51,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T06:56:31+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -76,7 +76,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T10:20:06+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security",
         "infra"
@@ -102,7 +102,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:51:07+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -127,7 +127,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:23+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security",
         "infra"
@@ -179,7 +179,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:20:00+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "security",
         "infra"
@@ -205,7 +205,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:45+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -229,7 +229,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:30+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -253,7 +253,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:15+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -277,7 +277,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:00+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -301,7 +301,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T14:00:00+09:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "security"
       ],
@@ -325,7 +325,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:24+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -345,11 +345,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen."
     },
     {
+      "title": "Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-10T17:26:59+00:00",
+      "age_days": 0.05,
+      "topics": [],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, privilege",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access… The post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog ."
+    },
+    {
       "title": "Tencent/teamai-cli",
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-10T06:35:12+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "security",
@@ -380,7 +404,7 @@
       "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-10T10:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -409,7 +433,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:00:12+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "macro"
@@ -438,7 +462,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T11:38:11+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -578,7 +602,7 @@
       "url": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-09T21:55:55+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai",
         "security"
@@ -606,7 +630,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T07:52:00.000+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -633,7 +657,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:43:18+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -658,7 +682,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-09T06:23:00+00:00",
-      "age_days": 1.5,
+      "age_days": 1.51,
       "topics": [
         "security"
       ],
@@ -733,7 +757,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-02-15T00:00:00+00:00",
-      "age_days": 938.77,
+      "age_days": 938.78,
       "topics": [
         "security"
       ],
@@ -758,7 +782,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T08:45:00.000+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -782,7 +806,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T11:11:48.486+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -807,7 +831,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T06:58:40.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -857,7 +881,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T13:48:02.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -882,7 +906,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tga8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T12:22:14.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -956,7 +980,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-10T12:15:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -980,7 +1004,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-07T00:00:00+00:00",
-      "age_days": 3.77,
+      "age_days": 3.78,
       "topics": [
         "general"
       ],
@@ -1004,7 +1028,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/10/news091.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T10:39:49+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -1022,30 +1046,6 @@
         "high terms: 10"
       ],
       "summary": "「折り目があります」「目立たないですが、シワがあります」――Appleが発表したブランド初の折りたたみスマートフォン「iPhone Duo」の画面中央に存在する折り目が、SNS上で大きな議論を呼んだ。 高額な価格設定が招いた画面の折り目に対するSNS上での厳しい評価 直販価格が1999ドルからという設定は、最新のテクノロジー..."
-    },
-    {
-      "title": "人生をあきらめたら希死念慮がなくなった",
-      "url": "https://anond.hatelabo.jp/20260910154808",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-10T06:55:15+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "学校ではいじめられ、先生には嫌われ、家ではネグレクトをされてどこにも居場所がない小学生だった 初めての自殺未遂は8歳 以降何度も自殺未遂して意識不明になったこともあるが死にきれず、死ぬことをあきらめて大学以降はひたすらがんばってきた しかしどうしてか、がんばればがんばるほど仕事で「役立たず」「何でそ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
