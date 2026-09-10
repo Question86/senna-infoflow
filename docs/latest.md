@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T04:25:41+00:00_
+_Generiert: 2026-09-10T04:35:49+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+12 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
