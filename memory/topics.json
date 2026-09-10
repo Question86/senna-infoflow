@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-10T02:12:48+00:00",
+  "generated_at": "2026-09-10T02:33:50+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-10T01:00:21+00:00",
         "relevance_score": 22,
         "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/"
+      },
+      {
+        "title": "Quantum’s ChatGPT moment is coming — and it’s worth trillions",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T02:30:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/"
       },
       {
         "title": "I built a 21-role AI workforce. The hardest part was management",
@@ -33,6 +40,13 @@
         "published_at": "2026-09-10T01:00:21+00:00",
         "relevance_score": 22,
         "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/"
+      },
+      {
+        "title": "Quantum’s ChatGPT moment is coming — and it’s worth trillions",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T02:30:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/"
       },
       {
         "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
