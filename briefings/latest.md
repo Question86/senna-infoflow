@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T15:21:13+00:00_
+_Generiert: 2026-09-10T15:30:50+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+54 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -146,6 +146,15 @@ _Generiert: 2026-09-10T15:21:13+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社コンテックが提供するPC-HELPERシリーズには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Expanding AI access and cyber defense for federal, state, local, and tribal governments** — Score 14, observation — [Quelle](https://openai.com/index/expanding-ai-access-us-government)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-10T07:00:00+00:00`, fetched `2026-09-10T15:30:20+00:00`
+  - Treffer: AI/KI, Open Source, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Open Source (+3.0); recent (+1.0)
+  - Kurz: OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -221,6 +230,15 @@ _Generiert: 2026-09-10T15:21:13+00:00_
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 立即科技｜企業雲端資料庫 - Arbitrary File Read
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Now everyone can put data to work** — Score 10, observation — [Quelle](https://openai.com/index/put-data-to-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-10T15:00:00+00:00`, fetched `2026-09-10T15:30:20+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Kritische Schadcode-Lücken bedrohen Ivanti Neurons for ITSM** — Score 10, observation — [Quelle](https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-10T13:15:00.000+00:00`, fetched `2026-09-10T13:21:09+00:00`
@@ -274,15 +292,6 @@ _Generiert: 2026-09-10T15:21:13+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Monetary policy decisions
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitslücken: 36.000 Plex-Media-Server-Instanzen potenziell angreifbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-10T08:45:00.000+00:00`, fetched `2026-09-10T08:53:39+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In aktuellen Versionen von Plex Media Server und Plex Desktop wurden mehrere Schwachstellen geschlossen. Weltweit sind zehntausende Instanzen angreifbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
