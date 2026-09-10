@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T06:03:54+00:00_
+_Generiert: 2026-09-10T06:35:39+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „Tencent/teamai-cli“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Tencent/teamai-cli** — Score 23, opportunity — [Quelle](https://github.com/Tencent/teamai-cli)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-10T06:35:12+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Public Health, Watchgraph:ai_agents_workflow, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain, ai_agents_workflow
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NVDA, AMD
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain, ai_agents_workflow (+6.0); watchgraph markets via cybersecurity, dev_infra, ai_compute: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Make Every Team AI Native TeamAI — Make Every Team AI Native English | 简体中文 TeamAI manages your team's skills, rules, MCP, and knowledge across Claude Code, Codex, CodeBuddy, WorkBuddy, OpenCode, Cursor, and other AI agents. Contributors Thanks to everyone who has contributed to TeamAI! Made with contrib.rocks . Quick Start Install npm install -g teamai-cli Team admin / solo user Create a shared-experience repo on y…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The missing layer in AI innovation: Human verification** — Score 22, opportunity — [Quelle](https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-10T01:00:21+00:00`, fetched `2026-09-10T01:11:56+00:00`

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T06:03:54+00:00_
+_Generated: 2026-09-10T06:35:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
-### 1. The missing layer in AI innovation: Human verification
+### 1. Tencent/teamai-cli
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/Tencent/teamai-cli
+- summary: Make Every Team AI Native TeamAI — Make Every Team AI Native English | 简体中文 TeamAI manages your team's skills, rules, MCP, and knowledge across Claude Code, Codex, CodeBuddy, WorkBuddy, OpenCode, Cursor, and other AI agents. Contributors Thanks to everyone wh…
+
+### 2. The missing layer in AI innovation: Human verification
 - source: e27 Asia Startup and Tech Feed
 - score: `22`
 - published: `2026-09-10T01:00:21+00:00`
 - url: https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/
 - summary: Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation”…
 
-### 2. コンテック製CONPROSYSシリーズにおける複数の脆弱性
+### 3. コンテック製CONPROSYSシリーズにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-10T15:00:45+09:00`
 - url: https://jvn.jp/vu/JVNVU96551518/
 - summary: 株式会社コンテックが提供するCONPROSYSシリーズには、複数の脆弱性が存在します。
 
-### 3. コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性
+### 4. コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-10T15:00:30+09:00`
 - url: https://jvn.jp/vu/JVNVU99009004/
 - summary: 株式会社コンテックが提供する無線LAN FLEXLANシリーズには、複数の脆弱性が存在します。
-
-### 4. コンテック製PC-HELPERシリーズにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-10T15:00:15+09:00`
-- url: https://jvn.jp/vu/JVNVU90314828/
-- summary: 株式会社コンテックが提供するPC-HELPERシリーズには、複数の脆弱性が存在します。
 
 ### 5. The cheapest way to stop your AI product from regressing
 - source: e27 Asia Startup and Tech Feed
