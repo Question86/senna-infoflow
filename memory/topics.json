@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-10T03:45:12+00:00",
+  "generated_at": "2026-09-10T03:51:02+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,15 @@
         "published_at": "2026-09-10T03:34:23+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-09-10T03:20:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html"
       }
     ],
     "general": [
