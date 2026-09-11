@@ -45,6 +45,50 @@
     "id": "9532cd117ac5eedf7302"
   },
   {
+    "title": "How to turn your founder’s opinions into media-ready narratives",
+    "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-11T02:30:24+00:00",
+    "fetched_at": "2026-09-11T02:43:07+00:00",
+    "summary": "Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspectives on everything from emerging technologies and regulation to leadership, innovation and industry trends. Yet expertise alone does not earn media […] The post Ho…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Content-Chance",
+      "founder",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "18e4e04ccd866d38979c"
+  },
+  {
     "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU95258183/",
     "source": "JVN Japan Vulnerability Notes",
