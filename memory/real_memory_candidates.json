@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-11T07:46:38Z",
+  "generated_at": "2026-09-11T08:04:14Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -54,6 +54,11 @@
     },
     {
       "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
