@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T12:21:20+00:00_
+_Generiert: 2026-09-11T12:41:01+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+47 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -253,4 +253,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fd311f43850>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
+- `cert_fr_alerts` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- `hn_release_security_burst` (hackernews): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
