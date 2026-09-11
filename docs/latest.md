@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T16:41:14+00:00_
+_Generiert: 2026-09-11T16:52:33+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+55 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -259,3 +259,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_statistical_press` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)
