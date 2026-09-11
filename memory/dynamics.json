@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-11T01:14:44Z",
+  "generated_at": "2026-09-11T01:35:16Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 8,
     "bands": {
       "strong": 1,
-      "quiet": 5
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 5
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 83.97,
+      "age_days": 83.98,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:00:21+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -71,11 +71,59 @@
       "summary": "Last quarter I reviewed the credit file for a mid-sized Indonesian manufacturer applying for a working capital facility. The numbers were healthy. The covenants were standard. The collateral was sufficient. What stopped me was the customer concentration disclosure: more than 60 per cent of the manufacturer’s annual re…"
     },
     {
+      "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
+      "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-10T23:12:56+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい..."
+    },
+    {
+      "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
+      "url": "https://ascii.jp/elem/000/004/432/4432444/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-10T13:26:48+00:00",
+      "age_days": 0.51,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 近年、豪雨や水害、地震など、私たちの暮らしを脅かす災害が相次いでいます。非常時の家族との連絡や安否確認、避難情報の収集に欠かせないのがスマートフォンです。 しかし、大容量モバイルバッテリーを防災..."
+    },
+    {
       "title": "Countering misuse of AI: September 2026 / Anthropic",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T19:40:09+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -100,7 +148,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 82.93,
+      "age_days": 82.95,
       "topics": [
         "general"
       ],
@@ -125,7 +173,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 82.93,
+      "age_days": 82.95,
       "topics": [
         "general"
       ],
@@ -150,7 +198,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 82.93,
+      "age_days": 82.95,
       "topics": [
         "ai"
       ],
