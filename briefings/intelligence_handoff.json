@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-11T03:39:57Z",
+  "generated_at": "2026-09-11T03:48:33Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “a-blog cmsにおけるパストラバーサルの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -89,7 +89,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.07,
+      "age_days": 84.08,
       "topics": [
         "ai"
       ],
@@ -118,7 +118,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:12+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security",
@@ -199,7 +199,7 @@
       "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T08:43:29+00:00",
-      "age_days": 1.79,
+      "age_days": 1.8,
       "topics": [
         "ai"
       ],
@@ -249,7 +249,7 @@
       "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:00:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
