@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:14:31+00:00",
-  "run_id": "2026-09-11T15:14:31+00:00",
+  "generated_at": "2026-09-11T15:27:14+00:00",
+  "run_id": "2026-09-11T15:27:14+00:00",
   "date": "2026-09-11",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -2699,7 +2699,7 @@
       "source_id": "e27_asia_startups_feed",
       "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
+      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
     }
   ],
   "quality_gate": {

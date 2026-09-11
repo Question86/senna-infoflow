@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T15:14:31+00:00_
+_Generiert: 2026-09-11T15:27:14+00:00_
 
 ## Kurzlage
 
@@ -315,4 +315,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
