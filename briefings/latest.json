@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T14:59:05+00:00",
-  "run_id": "2026-09-11T14:59:05+00:00",
+  "generated_at": "2026-09-11T15:14:31+00:00",
+  "run_id": "2026-09-11T15:14:31+00:00",
   "date": "2026-09-11",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 54
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 18,
     "observe": 36,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -2694,7 +2694,14 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
