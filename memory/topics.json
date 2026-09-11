@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-11T01:02:15+00:00",
+  "generated_at": "2026-09-11T01:28:38+00:00",
   "topics": {
     "general": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-09-11T01:00:21+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/"
+      },
+      {
+        "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-10T23:12:56+00:00",
+        "relevance_score": 5,
+        "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58"
+      },
+      {
+        "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-10T13:26:48+00:00",
+        "relevance_score": 5,
+        "url": "https://ascii.jp/elem/000/004/432/4432444/"
       }
     ],
     "ai": [
