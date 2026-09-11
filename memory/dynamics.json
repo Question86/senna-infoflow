@@ -1,17 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-11T02:32:19Z",
+  "generated_at": "2026-09-11T02:49:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 13,
+    "dynamics": 14,
     "bands": {
       "krass": 1,
       "strong": 3,
+      "watch": 1,
       "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 4,
+      "watch": 1,
       "quiet": 9
     }
   },
@@ -21,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -45,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -71,7 +73,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.02,
+      "age_days": 84.04,
       "topics": [
         "ai"
       ],
@@ -100,7 +102,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security",
@@ -126,11 +128,38 @@
       "summary": "For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisations could secure competitive advantage by systematically di…"
     },
     {
+      "title": "How to turn your founder’s opinions into media-ready narratives",
+      "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-11T02:30:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspectives on everything from emerging technologies and regulation to…"
+    },
+    {
       "title": "The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet",
       "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:00:21+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -156,7 +185,7 @@
       "url": "https://www.digital.go.jp/news/2026-0911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:02:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -180,7 +209,7 @@
       "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T23:12:56+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -204,7 +233,7 @@
       "url": "https://ascii.jp/elem/000/004/432/4432444/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T13:26:48+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -228,7 +257,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T19:40:09+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -253,7 +282,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 82.99,
+      "age_days": 83.0,
       "topics": [
         "general"
       ],
@@ -278,7 +307,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 82.99,
+      "age_days": 83.0,
       "topics": [
         "general"
       ],
@@ -303,7 +332,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 82.99,
+      "age_days": 83.0,
       "topics": [
         "ai"
       ],
@@ -330,7 +359,7 @@
       "url": "https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T02:00:32+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
