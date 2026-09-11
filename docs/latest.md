@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T04:38:15+00:00_
+_Generiert: 2026-09-11T04:46:43+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threa...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Chinese EV brands could reshape the Philippine auto market, says BMI** — Score 8, observation — [Quelle](https://e27.co/chinese-ev-brands-could-reshape-the-philippine-auto-market-says-bmi-20260911/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-11T04:44:33+00:00`, fetched `2026-09-11T04:46:13+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: The Philippines’s electric vehicle (EV) market is expected to keep growing in 2026 even as the broader car industry contracts, underscoring how fuel costs, government incentives and cheaper Chinese models are beginning to shift buyer behaviour in one of Southeast Asia’s more difficult markets for electrification. BMI Country Risk and Industry Research forecasts electric vehicle […] The post Chinese EV brands could r…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **I built an AI that keeps receipts. The mistakes became the useful part** — Score 8, observation — [Quelle](https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-11T02:00:32+00:00`, fetched `2026-09-11T02:00:52+00:00`
@@ -140,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **I used to think the hard part of employee advocacy was getting people to post** — Score 4, observation — [Quelle](https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-11T03:00:24+00:00`, fetched `2026-09-11T03:05:10+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: It was not. Our HR team wanted employees to share more about company culture, hiring updates, internal events, and project wins on LinkedIn. We were not trying to turn everyone into corporate influencers. We only wanted people to feel more comfortable writing about work when there was something worth sharing. The usual problem was the […] The post I used to think the hard part of employee advocacy was getting people…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

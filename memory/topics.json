@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-11T04:38:15+00:00",
+  "generated_at": "2026-09-11T04:46:43+00:00",
   "topics": {
     "ai": [
       {
@@ -33,6 +33,13 @@
         "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
       },
       {
+        "title": "Chinese EV brands could reshape the Philippine auto market, says BMI",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-11T04:44:33+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/chinese-ev-brands-could-reshape-the-philippine-auto-market-says-bmi-20260911/"
+      },
+      {
         "title": "I built an AI that keeps receipts. The mistakes became the useful part",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-11T02:00:32+00:00",
@@ -54,6 +61,13 @@
         "published_at": "2026-09-11T01:30:12+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/"
+      },
+      {
+        "title": "Chinese EV brands could reshape the Philippine auto market, says BMI",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-11T04:44:33+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/chinese-ev-brands-could-reshape-the-philippine-auto-market-says-bmi-20260911/"
       }
     ],
     "economy": [
@@ -70,6 +84,13 @@
         "published_at": "2026-09-11T02:30:24+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/"
+      },
+      {
+        "title": "Chinese EV brands could reshape the Philippine auto market, says BMI",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-11T04:44:33+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/chinese-ev-brands-could-reshape-the-philippine-auto-market-says-bmi-20260911/"
       },
       {
         "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
