@@ -1198,6 +1198,27 @@
     "id": "36e50dcbdae6039225ba"
   },
   {
+    "title": "Add VS Code Agents to Copilot usage metrics",
+    "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-11T21:30:30+00:00",
+    "fetched_at": "2026-09-11T21:54:49+00:00",
+    "summary": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s… The post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "67242b341165e1187973"
+  },
+  {
     "title": "Auto-resolution and analysis updates in Copilot code review",
     "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
     "source": "GitHub Changelog Atom",
