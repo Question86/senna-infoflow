@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T21:38:54+00:00_
+_Generiert: 2026-09-11T21:44:19+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+63 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-09-11T21:38:54+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Germany
+- **USGS earthquake M6.6 - 115 km NNE of Teluknaga, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk)
+  - Quelle: USGS
+  - Zeit: `2026-09-11T21:23:55+00:00`
+  - Kurz: M6.6 - 115 km NNE of Teluknaga, Indonesia. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564759)
   - Quelle: GDACS
   - Zeit: ``
@@ -128,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspectives on everything from emerging technologies and regulation to leadership, innovation and industry trends. Yet expertise alone does not earn media […] The post Ho…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 6.6 - 115 km NNE of Teluknaga, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-11T21:41:50.040+00:00`, fetched `2026-09-11T21:43:47+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-11 21:23:55 UTC 2026-09-11 21:23:55 UTC at epicenter Location 5.093°S 106.903°E Depth 358.60 km (222.82 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Games | OpenAI Developers** — Score 15, observation — [Quelle](https://developers.openai.com/showcase/games)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-11T15:45:07+00:00`, fetched `2026-09-11T21:24:34+00:00`
