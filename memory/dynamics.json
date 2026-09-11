@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-11T11:02:58Z",
+  "generated_at": "2026-09-11T11:31:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 6,
+      "krass": 7,
       "extreme": 1,
-      "strong": 8,
-      "watch": 6,
-      "quiet": 19
+      "strong": 10,
+      "watch": 7,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 14,
-      "watch": 6,
-      "quiet": 19
+      "strong": 17,
+      "watch": 7,
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://jvn.jp/jp/JVN20829034/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -70,11 +70,59 @@
       "summary": "有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-11T11:16:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Abfrage- und Zugriffsbeschränkungen zu umgehen, nicht vorgesehene Datensätze oder Dateien auszulesen, zu verändern oder zu löschen sowie unter bestimmten Voraussetzungen MongoDB-Server oder Anwendungen zum Absturz zu bringen und dadurch einen Denial-of…"
+    },
+    {
+      "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-11T11:08:25+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -98,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -118,11 +166,37 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Denial-of-Service-Zustände zu verursachen, Sicherheitsmaßnahmen zu umgehen, Request- oder Response-Smuggling durchzuführen sowie Daten offenzulegen oder zu manipulieren."
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-11T11:08:27+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, einen Denial of Service zu verursachen und potentiell Code auszuführen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -148,7 +222,7 @@
       "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-11T05:51:30+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -178,7 +252,7 @@
       "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-11T10:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -205,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T08:51:31+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -231,7 +305,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -256,7 +330,7 @@
       "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:16:38+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -283,7 +357,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.38,
+      "age_days": 84.4,
       "topics": [
         "ai"
       ],
@@ -312,7 +386,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:12+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "security",
@@ -342,7 +416,7 @@
       "url": "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-11T09:44:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -367,7 +441,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-11T06:52:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -391,7 +465,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-11T06:24:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -411,11 +485,36 @@
       "summary": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞"
     },
     {
+      "title": "M 5.3 - 151 km WSW of Adak, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-11T11:07:16.188+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - V Time 2026-09-11 10:47:12 UTC 2026-09-11 10:47:12 UTC at epicenter Location 51.213°N 178.543°W Depth 40.89 km (25.41 mi)"
+    },
+    {
       "title": "M 5.7 - 152 km SW of Adak, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadcxu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-11T10:55:53.135+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -440,7 +539,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attl74mn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-11T10:51:35.194+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -465,7 +564,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T07:33:35+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -489,7 +588,7 @@
       "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T02:30:24+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -516,7 +615,7 @@
       "url": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T04:04:17+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -539,7 +638,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-11T02:44:52.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -563,7 +662,7 @@
       "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T08:43:29+00:00",
-      "age_days": 2.1,
+      "age_days": 2.12,
       "topics": [
         "ai"
       ],
@@ -589,7 +688,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T03:30:48+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -613,7 +712,7 @@
       "url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T03:00:24+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "macro"
       ],
@@ -637,7 +736,7 @@
       "url": "https://e27.co/chinese-ev-brands-could-reshape-the-philippine-auto-market-says-bmi-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:44:33+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "macro"
       ],
@@ -661,7 +760,7 @@
       "url": "https://e27.co/ecosystem-roundup-what-failed-startups-reveal-about-seas-next-tech-cycle-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T08:37:02+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -686,7 +785,7 @@
       "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:00:21+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -712,7 +811,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:45:20+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -736,7 +835,7 @@
       "url": "https://www.digital.go.jp/news/2026-0911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:02:24+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -760,7 +859,7 @@
       "url": "https://ascii.jp/elem/000/004/434/4434123/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T08:17:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -784,7 +883,7 @@
       "url": "https://anond.hatelabo.jp/20260911162212",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T07:23:58+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -808,7 +907,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T04:25:59+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -832,7 +931,7 @@
       "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T23:12:56+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -856,7 +955,7 @@
       "url": "https://ascii.jp/elem/000/004/432/4432444/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T13:26:48+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "general"
       ],
@@ -876,11 +975,36 @@
       "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 近年、豪雨や水害、地震など、私たちの暮らしを脅かす災害が相次いでいます。非常時の家族との連絡や安否確認、避難情報の収集に欠かせないのがスマートフォンです。 しかし、大容量モバイルバッテリーを防災..."
     },
     {
+      "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告",
+      "url": "https://japan.cnet.com/article/35252543/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-11T05:46:57+00:00",
+      "age_days": 0.24,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "DeepSeekについては、外部のコーディングツールなどを経由したリクエストの一部を選び、Claude Opusに転送していたと報告した。転送内容には企業の内部文書や、稼働中のデータベースにアクセスするための認証情報も含まれていたという。 同レポートは、Xiaomiの「MiMo」の利用者との会話もClaudeに送られていたと指摘し..."
+    },
+    {
       "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
       "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T15:22:31+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "ai",
         "macro"
@@ -901,134 +1025,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "2026.09.10 技術記事 DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] by Hiroyuki Nishizaki #infrastructure #sre #database #mysql #aws #google-cloud こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する ..."
-    },
-    {
-      "title": "EVs gain ground in the Philippines as fuel costs squeeze drivers",
-      "url": "https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-11T04:44:33+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The Philippines’s electric vehicle (EV) market is expected to keep growing in 2026 even as the broader car industry contracts, underscoring how fuel costs, government incentives and cheaper Chinese models are beginning to shift buyer behaviour in one of Southeast Asia’s more difficult markets for electrification. BMI…"
-    },
-    {
-      "title": "Countering misuse of AI: September 2026 / Anthropic",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-10T19:40:09+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threa..."
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 83.34,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 83.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 83.34,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 83.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 83.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 83.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
