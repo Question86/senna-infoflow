@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T22:00:46+00:00",
+  "generated_at": "2026-09-11T22:17:59+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.6M, Depth:358.597km) in Indonesia 11/09/2026 21:23 UTC, 30 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 6.6M, Depth:358.597km) in Indonesia 11/09/2026 21:23 UTC, 30 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564809",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in France",
         "summary": "Green flood alert in France",
         "source": "GDACS",
@@ -103,7 +113,7 @@
         "metrics": {
           "mag": 6.6,
           "alert": "green",
-          "sig": 671.0,
+          "sig": 672.0,
           "tsunami": 0
         }
       },

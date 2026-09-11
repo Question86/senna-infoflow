@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T22:00:43+00:00",
-  "run_id": "2026-09-11T22:00:43+00:00",
+  "generated_at": "2026-09-11T22:17:55+00:00",
+  "run_id": "2026-09-11T22:17:55+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 65,
     "displayed_findings": 65,
     "high": 0,
@@ -3225,29 +3225,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/09/11/220855",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-11T13:54:08+00:00",
-      "fetched_at": "2026-09-11T22:00:09+00:00",
-      "summary": "2026年9月11日、デジタル庁は、政府共通の業務実施環境「ガバメントソリューションサービス(GSS)」が外部からの不正アクセスを受け、取り扱っていた個人情報を含むファイルの一部が外部に漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 VPN機器の脆弱性を悪用され侵入 GSSは、ゼロトラスト...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4cb7910e27f2dbcdb058"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
