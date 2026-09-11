@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T05:46:22+00:00_
+_Generiert: 2026-09-11T05:52:03+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+22 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 食事制限をすると痩せるが、それでも痩せない理由には2つの仮説が挙げられる。1つは、エネルギー消費量そのものが極端に少ない特殊な体質。もう1つは、本人が自覚している以上に、実はたくさん食べている。 研究チームは、食事制限をしても痩せないと訴える肥満患者10人を、そのような訴えのない一般的な肥満患者と比較...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **alsk1992/CloddsBot** — Score 5, opportunity — [Quelle](https://github.com/alsk1992/CloddsBot)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-11T05:51:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote odds, prediction market (x0.45)
+  - Kurz: Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. https://www.cloddsbot.com AI-powered trading terminal for prediction markets, crypto & futures Claude + Odds = Clodds…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
