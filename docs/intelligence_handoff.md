@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-11T23:20:06Z_
+_Generated: 2026-09-11T23:31:19Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-11T09:13:14+00:00` / age_days `0.59`
+- Published: `2026-09-11T09:13:14+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, pan-os, security high-signal: angriffe, code, pan-os, palo
@@ -22,27 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-11T12:00:00+09:00` / age_days `0.85`
+- Published: `2026-09-11T12:00:00+09:00` / age_days `0.86`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/jp/JVN20829034/
 
-### [NEU] [hoch] MongoDB: Mehrere Schwachstellen
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-09-11T11:16:31+00:00` / age_days `0.5`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320
-
 ### [UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T11:46:33+00:00` / age_days `0.48`
+- Published: `2026-09-11T11:46:33+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -52,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T11:08:27+00:00` / age_days `0.51`
+- Published: `2026-09-11T11:08:27+00:00` / age_days `0.52`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T10:30:15+09:00` / age_days `0.91`
+- Published: `2026-09-11T10:30:15+09:00` / age_days `0.92`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T05:51:30+00:00` / age_days `0.73`
+- Published: `2026-09-11T05:51:30+00:00` / age_days `0.74`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: chain, high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T08:51:31+00:00` / age_days `0.6`
+- Published: `2026-09-11T08:51:31+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, auth, security high-signal: active, auth, official security but no high-signal phrase: capped at strong
@@ -102,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T00:00:00+00:00` / age_days `3.97`
+- Published: `2026-09-08T00:00:00+00:00` / age_days `3.98`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, code, security high-signal: active, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,17 +102,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-O
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T09:13:14+00:00` / age_days `0.59`
+- Published: `2026-09-11T09:13:14+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292
 
+### WordPressサイトのセキュリティ対策 – 最低限設定しておきたい5つ | corto
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-11T12:54:48+00:00` / age_days `0.44`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://corto.jp/note/wordpress-security/
+
 ### Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T04:16:38+00:00` / age_days `0.79`
+- Published: `2026-09-11T04:16:38+00:00` / age_days `0.8`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
