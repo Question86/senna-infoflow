@@ -131,6 +131,27 @@
     "id": "0b1e0066af1fcbcd9192"
   },
   {
+    "title": "I built an AI that keeps receipts. The mistakes became the useful part",
+    "url": "https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-11T02:00:32+00:00",
+    "fetched_at": "2026-09-11T02:00:52+00:00",
+    "summary": "AI is remarkably good at producing answers. It is even better at sounding certain. Ask a difficult question and, within seconds, a system can gather information, connect ideas and return a polished explanation. Yet a harder question arrives later: what happens when reality proves the answer wrong? I met that problem while building OnTheRice, a […] The post I built an AI that keeps receipts. The mistakes became the u…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "43bfa0a7074be4f506d1"
+  },
+  {
     "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
     "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T01:55:55+00:00_
+_Generiert: 2026-09-11T02:01:24+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+8 neue relevante Treffer. Stärkstes Signal: „The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -59,6 +59,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threa...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **I built an AI that keeps receipts. The mistakes became the useful part** — Score 8, observation — [Quelle](https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-11T02:00:32+00:00`, fetched `2026-09-11T02:00:52+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: AI is remarkably good at producing answers. It is even better at sounding certain. Ask a difficult question and, within seconds, a system can gather information, connect ideas and return a polished explanation. Yet a harder question arrives later: what happens when reality proves the answer wrong? I met that problem while building OnTheRice, a […] The post I built an AI that keeps receipts. The mistakes became the u…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/kanryu/items/95147e22ed5ac542ba58)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
