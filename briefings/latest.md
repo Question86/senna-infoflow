@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T07:01:00+00:00_
+_Generiert: 2026-09-11T07:22:07+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,6 @@ _Generiert: 2026-09-11T07:01:00+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-09`
   - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability
-- **GDACS: Green flood alert in Islamic Republic of Iran** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104147)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Islamic Republic of Iran
 - **GDACS: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320)
   - Quelle: GDACS
   - Zeit: ``
@@ -214,3 +210,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH
