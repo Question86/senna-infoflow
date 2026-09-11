@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:58:48+00:00",
+  "generated_at": "2026-09-11T12:21:23+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Spain",
+        "summary": "Green flood alert in Spain",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104151",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Germany",
         "summary": "Green flood alert in Germany",
         "source": "GDACS",
@@ -91,6 +101,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - 253 km ENE of Lospalos, Timor Leste",
+        "summary": "M5.9 - 253 km ENE of Lospalos, Timor Leste. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2",
+        "published_at": "2026-09-11T11:56:23+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "",
+          "sig": 536.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
