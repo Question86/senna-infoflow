@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T12:41:01+00:00_
+_Generiert: 2026-09-11T12:57:45+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+47 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,6 @@ _Generiert: 2026-09-11T12:41:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.9 - 253 km ENE of Lospalos, Timor Leste** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2)
-  - Quelle: USGS
-  - Zeit: `2026-09-11T11:56:23+00:00`
-  - Kurz: M5.9 - 253 km ENE of Lospalos, Timor Leste. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -307,8 +303,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_fr_alerts` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `hn_release_security_burst` (hackernews): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
