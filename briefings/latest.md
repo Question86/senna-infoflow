@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T20:56:30+00:00_
+_Generiert: 2026-09-11T21:18:03+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+61 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
