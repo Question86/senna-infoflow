@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T11:07:44+00:00_
+_Generated: 2026-09-11T11:21:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `43`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-11T11:07:44+00:00_
 - url: https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/
 - summary: For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisat…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）
+### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-11T11:08:27+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, einen Denial of Service zu verursachen und potentiell Code auszuführen.
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-11T10:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU94404414/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-11T09:13:14+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
 ### 5. 3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita
 - source: Hatena Bookmark Hotentry IT

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-11T11:07:44+00:00",
+  "generated_at": "2026-09-11T11:21:07+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://e27.co/ecosystem-roundup-what-failed-startups-reveal-about-seas-next-tech-cycle-20260911/"
       },
       {
+        "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-11T05:46:57+00:00",
+        "relevance_score": 10,
+        "url": "https://japan.cnet.com/article/35252543/"
+      },
+      {
         "title": "EVs gain ground in the Philippines as fuel costs squeeze drivers",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-11T04:44:33+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-11T02:00:32+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/"
-      },
-      {
-        "title": "alsk1992/CloddsBot",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/alsk1992/CloddsBot"
       }
     ],
     "geopolitics": [
@@ -96,6 +96,13 @@
         "published_at": "2026-09-11T10:00:00+00:00",
         "relevance_score": 15,
         "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320"
       },
       {
         "title": "EVs gain ground in the Philippines as fuel costs squeeze drivers",
@@ -179,6 +186,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:08:27+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-11T10:30:15+09:00",
@@ -198,6 +212,20 @@
         "published_at": "2026-09-11T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN20829034/"
+      },
+      {
+        "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320"
+      },
+      {
+        "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:08:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059"
       },
       {
         "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
@@ -226,27 +254,6 @@
         "published_at": "2026-09-11T08:51:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289"
-      },
-      {
-        "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-11T06:52:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html"
-      },
-      {
-        "title": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-11T06:24:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html"
-      },
-      {
-        "title": "Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-11T09:44:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html"
       }
     ],
     "github": [
