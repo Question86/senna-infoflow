@@ -1,14 +1,26 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T18:09:07+00:00_
+_Generiert: 2026-09-11T18:37:46+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+59 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-84869 ConnectWise ScreenConnect** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-11`
+  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
+- **CISA KEV: CVE-2026-42016 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-11`
+  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Incorrect Authorization Vulnerability
+- **CISA KEV: CVE-2026-42018 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-11`
+  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Improper Authentication Vulnerability
 - **CISA KEV: CVE-2026-86060 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-10`
@@ -17,18 +29,6 @@ _Generiert: 2026-09-11T18:09:07+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-10`
   - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Missing Authentication for Critical Function Vulnerability
-- **CISA KEV: CVE-2026-19490 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-09`
-  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability
-- **CISA KEV: CVE-2025-25249 Fortinet Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-09`
-  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability
-- **CISA KEV: CVE-2026-87491 Google Chromium V8** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-09`
-  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability
 - **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104149)
   - Quelle: GDACS
   - Zeit: ``
@@ -293,14 +293,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threa...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Chinese EV brands could reshape the Philippine auto market, says BMI** — Score 8, observation — [Quelle](https://e27.co/chinese-ev-brands-could-reshape-the-philippine-auto-market-says-bmi-20260911/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-11T04:44:33+00:00`, fetched `2026-09-11T04:46:13+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+- **Marketing ops as code: Automating events from planning to follow-up on GitHub** — Score 8, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-11T18:26:10+00:00`, fetched `2026-09-11T18:37:15+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: The Philippines’s electric vehicle (EV) market is expected to keep growing in 2026 even as the broader car industry contracts, underscoring how fuel costs, government incentives and cheaper Chinese models are beginning to shift buyer behaviour in one of Southeast Asia’s more difficult markets for electrification. BMI Country Risk and Industry Research forecasts electric vehicle […] The post Chinese EV brands could r…
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.0); recent (+1.0)
+  - Kurz: If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

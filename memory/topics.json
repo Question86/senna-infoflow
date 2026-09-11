@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-11T18:09:07+00:00",
+  "generated_at": "2026-09-11T18:37:46+00:00",
   "topics": {
     "security": [
       {
@@ -249,6 +249,13 @@
         "url": "https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/"
       },
       {
+        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-11T18:26:10+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/"
+      },
+      {
         "title": "Chinese EV brands could reshape the Philippine auto market, says BMI",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-11T04:44:33+00:00",
@@ -275,13 +282,6 @@
         "published_at": "2026-09-11T05:10:43+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/"
-      },
-      {
-        "title": "I used to think the hard part of employee advocacy was getting people to post",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-11T03:00:24+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/"
       }
     ],
     "github": [
@@ -305,6 +305,13 @@
         "published_at": "2026-09-10T19:40:09+00:00",
         "relevance_score": 9,
         "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+      },
+      {
+        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-11T18:26:10+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/"
       },
       {
         "title": "alsk1992/CloddsBot",
