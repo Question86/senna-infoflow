@@ -751,6 +751,26 @@
     "id": "43bfa0a7074be4f506d1"
   },
   {
+    "title": "Patches: IT-Sicherheitsprodukte von Check Point werden zum Sicherheitsrisiko",
+    "url": "https://www.heise.de/news/Patches-IT-Sicherheitsprodukte-von-Check-Point-werden-zum-Sicherheitsrisiko-11450639.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-11T11:40:00.000+00:00",
+    "fetched_at": "2026-09-11T11:47:17+00:00",
+    "summary": "Mehrere Produkte von Check Point wie Security Gateway und Spark Firewall sind verwundbar. Davon sind auch nicht mehr im Support befindliche Versionen betroffen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "60e39459c40e9e6c9015"
+  },
+  {
     "title": "Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze",
     "url": "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html",
     "source": "heise Security Alerts",
