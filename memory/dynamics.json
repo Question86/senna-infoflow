@@ -1,441 +1,26 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-11T23:46:16Z",
+  "generated_at": "2026-09-12T00:07:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 40,
+    "dynamics": 4,
     "bands": {
-      "krass": 10,
-      "extreme": 1,
-      "strong": 16,
-      "watch": 10,
+      "strong": 1,
       "quiet": 3
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 26,
-      "watch": 10,
+      "strong": 1,
       "quiet": 3
     }
   },
   "top_dynamics": [
     {
-      "title": "[UPDATE] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.61,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code, pan-os",
-        "security high-signal: angriffe, code, pan-os, palo"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Palo Alto Networks PAN-OS ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, Code mit Root-Rechten auszuführen oder einen Denial-of-Service-Zustand auszulösen."
-    },
-    {
-      "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
-      "url": "https://jvn.jp/jp/JVN20829034/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-11T12:00:00+09:00",
-      "age_days": 0.87,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。"
-    },
-    {
-      "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T11:16:31+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Abfrage- und Zugriffsbeschränkungen zu umgehen, nicht vorgesehene Datensätze oder Dateien auszulesen, zu verändern oder zu löschen sowie unter bestimmten Voraussetzungen MongoDB-Server oder Anwendungen zum Absturz zu bringen und dadurch einen Denial-of…"
-    },
-    {
-      "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T11:08:25+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU95258183/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.93,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
-      "title": "[UPDATE] [hoch] Netty: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T09:13:15+00:00",
-      "age_days": 0.61,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Denial-of-Service-Zustände zu verursachen, Sicherheitsmaßnahmen zu umgehen, Request- oder Response-Smuggling durchzuführen sowie Daten offenzulegen oder zu manipulieren."
-    },
-    {
-      "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T11:46:33+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T11:08:27+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, einen Denial of Service zu verursachen und potentiell Code auszuführen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
-      "url": "https://jvn.jp/vu/JVNVU94404414/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.93,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-11T05:51:30+00:00",
-      "age_days": 0.75,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: chain",
-        "high terms: rce, 10",
-        "security high-signal: rce, 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. https://www.clodds…"
-    },
-    {
-      "title": "The AI talent war is coming for Big Tech’s Asia executives",
-      "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-09-11T10:00:00+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache ActiveMQ Artemis: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T08:51:31+00:00",
-      "age_days": 0.62,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: active, auth",
-        "security high-signal: active, auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache ActiveMQ Artemis ausnutzen, um Sicherheitsvorkehrungen zu umgehen, authentifizierte Sitzungen zu kapern, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen."
-    },
-    {
-      "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1130/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-09-08T00:00:00+00:00",
-      "age_days": 3.99,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: active, code",
-        "security high-signal: active, code",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Une vulnérabilité a été découverte dans les produits Adobe. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique que la vulnérabilité CVE-2026-75650 est activement exploitée."
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.61,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "WordPressサイトのセキュリティ対策 – 最低限設定しておきたい5つ | corto",
-      "url": "https://corto.jp/note/wordpress-security/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-11T12:54:48+00:00",
-      "age_days": 0.45,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "WordPressサイトのセキュリティ対策 – 最低限設定しておきたい5つ | corto"
-    },
-    {
-      "title": "Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software",
-      "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-11T04:16:38+00:00",
-      "age_days": 0.81,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The next customer for a software company may not be a person scrolling through a pricing page. It may be an AI coding agent, asked by a developer to choose a database, install an SDK, connect an API, or fix a broken integration. That shift is still early, but it is already changing how software […] The post Singaporea…"
-    },
-    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.91,
+      "age_days": 84.92,
       "topics": [
         "ai"
       ],
@@ -460,584 +45,82 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3306",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T11:46:36+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen."
-    },
-    {
-      "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
-      "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-11T01:30:12+00:00",
-      "age_days": 0.93,
-      "topics": [
-        "ai",
-        "security",
-        "infra",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: supply, chain",
-        "high terms: rce, 10",
-        "security high-signal: rce, 10",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisations could secure competitive advantage by systematically di…"
-    },
-    {
-      "title": "Patches: IT-Sicherheitsprodukte von Check Point werden zum Sicherheitsrisiko",
-      "url": "https://www.heise.de/news/Patches-IT-Sicherheitsprodukte-von-Check-Point-werden-zum-Sicherheitsrisiko-11450639.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-11T11:40:00.000+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security",
-        "infra"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: firewall",
-        "security high-signal: firewall"
-      ],
-      "summary": "Mehrere Produkte von Check Point wie Security Gateway und Spark Firewall sind verwundbar. Davon sind auch nicht mehr im Support befindliche Versionen betroffen."
-    },
-    {
-      "title": "Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze",
-      "url": "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-11T09:44:00.000+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch",
-        "security high-signal: kritisch"
-      ],
-      "summary": "Mehrere kritische Sicherheitslücken gefährden unter anderem SAP Extended Passport und NetWeaver."
-    },
-    {
-      "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "published_at": "2026-09-11T06:52:00+00:00",
-      "age_days": 0.7,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "昊亞科技｜WeenyGenius - 存在4個漏洞"
-    },
-    {
-      "title": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "published_at": "2026-09-11T06:24:00+00:00",
-      "age_days": 0.72,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞"
-    },
-    {
-      "title": "M 6.6 - 115 km NNE of Teluknaga, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T21:41:50.040+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-11 21:23:55 UTC 2026-09-11 21:23:55 UTC at epicenter Location 5.093°S 106.903°E Depth 358.60 km (222.82 mi)"
-    },
-    {
-      "title": "GitHub Copilot weekly releases — September 7",
-      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-09-10T22:55:07+00:00",
-      "age_days": 1.04,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "This week, GitHub Copilot introduces Jira integration in Copilot app and adaptive model orchestration with Project HydraFusion in Copilot CLI. We also introduced new agent automation in Visual Studio Code… The post GitHub Copilot weekly releases — September 7 appeared first on The GitHub Blog ."
-    },
-    {
-      "title": "グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも - AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466913/",
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-11T12:04:56+00:00",
-      "age_days": 0.49,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, 10",
-        "security high-signal: rce, 10"
-      ],
-      "summary": "PCパーツの高騰が続いている。グラフィックボードについてはこの夏に特に顕著な値上がりを見せており、今回は「NVIDIA GeForce RTX 5090」に100万円を超える値付けがおこなわれている。 昨今では半導体メモリの世界的な不足に伴って、DRAMやSSDをはじめとするさまざまなPCパーツの価格が上昇を続けている。半導体大手各..."
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-09-11T10:00:00+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-    },
-    {
-      "title": "M 5.9 - 253 km ENE of Lospalos, Timor Leste",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T12:17:41.926+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: palo"
-      ],
-      "summary": "ShakeMap - IV DYFI? - II Time 2026-09-11 11:56:23 UTC 2026-09-11 11:56:23 UTC at epicenter Location 7.286°S 128.938°E Depth 111.76 km (69.45 mi)"
-    },
-    {
-      "title": "M 5.3 - 151 km WSW of Adak, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T11:07:16.188+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "ShakeMap - V Time 2026-09-11 10:47:12 UTC 2026-09-11 10:47:12 UTC at epicenter Location 51.213°N 178.543°W Depth 40.89 km (25.41 mi)"
-    },
-    {
-      "title": "M 5.7 - 152 km SW of Adak, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadcxu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T10:55:53.135+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "ShakeMap - V Time 2026-09-11 10:47:10 UTC 2026-09-11 10:47:10 UTC at epicenter Location 51.104°N 178.454°W Depth 13.40 km (8.33 mi)"
-    },
-    {
-      "title": "M 5.2 - 152 km WSW of Adak, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attl74mn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T10:51:35.194+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "ShakeMap - V Time 2026-09-11 10:47:11 UTC 2026-09-11 10:47:11 UTC at epicenter Location 51.157°N 178.502°W Depth 19.00 km (11.81 mi)"
-    },
-    {
-      "title": "まるで“狂気の沙汰”──ジョブズ時代のAppleを感じさせる「iPhone Duo」のヒンジと製造工程",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-11T07:33:35+00:00",
-      "age_days": 0.68,
-      "topics": [],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "2008年10月14日、Appleは新しいMacBookのボディーを「ユニボディ」と呼んだ。押し出したアルミニウムの塊を、航空宇宙産業から借りてきたCNC（コンピュータ制御の切削機）に載せ、13段階の切削工程で一枚の骨格に削り出す。 ジョナサン・アイブは「従来のノートブックは多くの部品でできていた。新しいMacBookでは、その..."
-    },
-    {
-      "title": "M 4.7 - 33 km SW of Sipí, Colombia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgpu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T17:19:09.040+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-11 16:42:30 UTC 2026-09-11 16:42:30 UTC at epicenter Location 4.419°N 76.833°W Depth 61.09 km (37.96 mi)"
-    },
-    {
-      "title": "Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers",
-      "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-11T19:46:00+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL."
-    },
-    {
-      "title": "How to turn your founder’s opinions into media-ready narratives",
-      "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-11T02:30:24+00:00",
-      "age_days": 0.89,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspectives on everything from emerging technologies and regulation to…"
-    },
-    {
-      "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
-      "url": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-11T04:04:17+00:00",
-      "age_days": 0.82,
-      "topics": [],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Go Conference 2026の登壇「OpenTelemetry eBPF Instrumentationの舞台裏」の解説資料です。eBPFによるゼロコード計装は「言語を問わず動く」と語られますが、Goバイナリへの関数レベルの計装は他言語にない4つの難所を抱えています。なぜ難しいのかを、CPUとメモリの仕組みという初歩から積み上げて、OBIの実装コードま..."
-    },
-    {
-      "title": "M 4.9 - 69 km N of Isangel, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T02:44:52.040+00:00",
-      "age_days": 0.88,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-11 02:28:13 UTC 2026-09-11 02:28:13 UTC at epicenter Location 18.926°S 169.395°E Depth 18.75 km (11.65 mi)"
-    },
-    {
-      "title": "Auto-resolution and analysis updates in Copilot code review",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-09-11T20:00:07+00:00",
-      "age_days": 0.16,
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 83.89,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.0,
+      "dynamics_score": 0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code"
+        "momentum delta +1",
+        "aging penalty -16.0 for 83.9d old signal"
       ],
-      "summary": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now… The post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog ."
+      "summary": ""
     },
     {
-      "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita",
-      "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-09T08:43:29+00:00",
-      "age_days": 2.63,
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 83.89,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "aging penalty -16.0 for 83.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "url": "https://toyokeizai.net/articles/-/948348?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 83.89,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 10.0,
+      "dynamics_score": 0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: code",
+        "momentum delta +1",
         "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 83.9d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "ayghri/i-have-adhd が Hacker News で269ポイントを集めていました。GitHub 30,233スター（2026-09-09 時点、API取得）。エージェントの回答から前置きを取り、行動を先頭に置かせるスキルです。 日本語の紹介記事は3本ありましたが、どれも実測がありません。 1本は「生産性向上のデータはない」と明記しています。 測..."
-    },
-    {
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-09-11T17:00:00+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Philip R. Lane: Outlook for the euro area economy"
+      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
