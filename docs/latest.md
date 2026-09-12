@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T16:46:21+00:00_
+_Generiert: 2026-09-12T16:51:45+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
+27 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -168,3 +168,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_japan_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.jp/trending/rss%3Fgeo%3DJP&q=EgQUqUtDGI-GltUGIjBRzb6IQnVthKfEq7jwFI3cNmOKMBtoQ55TxBtKT7oU0lETCmcQmawpgq891UbU9swyAnJSWgFD
+- `google_trends_vietnam_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.com.vn/trending/rss%3Fgeo%3DVN&q=EgQUqUtDGJOGltUGIjBKpAUK-pqrmXgsZu4FSLsksdv9e_BexZIq6cvk3OwbZfkvcro_IHyDHK3GdZ-fdcAyAnJSWgFD
