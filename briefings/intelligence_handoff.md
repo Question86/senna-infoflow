@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-12T09:03:07Z_
+_Generated: 2026-09-12T09:22:45Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:56:19+00:00` / age_days `0.13`
+- Published: `2026-09-12T05:56:19+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:56:19+00:00` / age_days `0.13`
+- Published: `2026-09-12T05:56:19+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:56:19+00:00` / age_days `0.13`
+- Published: `2026-09-12T05:56:19+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `85.29`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `85.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 85.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.22`
+- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-12T06:31:47.040+00:00` / age_days `0.11`
+- Published: `2026-09-12T06:31:47.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-12T05:24:42.040+00:00` / age_days `0.15`
+- Published: `2026-09-12T05:24:42.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-12T02:26:39.219+00:00` / age_days `0.28`
+- Published: `2026-09-12T02:26:39.219+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,17 +92,27 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-12T01:14:31.040+00:00` / age_days `0.33`
+- Published: `2026-09-12T01:14:31.040+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr
 
+### M 4.5 - 63 km WSW of Santiago, Peru
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-09-12T09:09:05.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2
+
 ### M 4.5 - 9 km WNW of Quicacha, Peru
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-12T00:55:38.040+00:00` / age_days `0.34`
+- Published: `2026-09-12T00:55:38.040+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-11T23:45:01+00:00` / age_days `0.39`
+- Published: `2026-09-11T23:45:01+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://note.com/shi3zblog/n/nd5fc5341b342
-
-### 数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-09-12T02:48:57+00:00` / age_days `0.26`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/
 
 END OF DOCUMENT
