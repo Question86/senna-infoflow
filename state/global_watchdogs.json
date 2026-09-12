@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:20:37+00:00",
+  "generated_at": "2026-09-12T21:27:54+00:00",
   "sections": {
     "global_security": [
       {
@@ -91,21 +91,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104149",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.5 - 126 km NNE of Teluknaga, Indonesia",
-        "summary": "M6.5 - 126 km NNE of Teluknaga, Indonesia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk",
-        "published_at": "2026-09-11T21:23:55+00:00",
-        "metrics": {
-          "mag": 6.5,
-          "alert": "green",
-          "sig": 657.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",

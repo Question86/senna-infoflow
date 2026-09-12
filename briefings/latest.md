@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T21:20:34+00:00_
+_Generiert: 2026-09-12T21:27:51+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-09-12T21:20:34+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
-- **USGS earthquake M6.5 - 126 km NNE of Teluknaga, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk)
-  - Quelle: USGS
-  - Zeit: `2026-09-11T21:23:55+00:00`
-  - Kurz: M6.5 - 126 km NNE of Teluknaga, Indonesia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564759)
   - Quelle: GDACS
   - Zeit: ``
