@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-12T14:21:00Z",
+  "generated_at": "2026-09-12T14:31:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 30,
     "bands": {
       "extreme": 2,
       "krass": 1,
       "strong": 2,
       "watch": 9,
-      "quiet": 15
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 9,
-      "quiet": 15
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:56:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://github.com/nab138/iloader",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:56:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -81,7 +81,7 @@
       "url": "https://github.com/vastsa/PI-Desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:56:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -137,7 +137,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T03:50:15.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -186,7 +186,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:24:42.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -285,7 +285,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T11:31:32.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -333,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T00:55:38.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -357,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T11:23:10.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -381,7 +381,7 @@
       "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T23:45:01+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -405,7 +405,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-12T10:15:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "macro"
       ],
@@ -429,7 +429,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T02:48:57+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -455,7 +455,7 @@
       "url": "https://note.com/yubais/n/nd4505991a6d6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T10:56:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -481,7 +481,7 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-11T16:00:00+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -507,7 +507,7 @@
       "url": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T10:12:56+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -555,7 +555,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 84.48,
+      "age_days": 84.49,
       "topics": [
         "general"
       ],
@@ -580,7 +580,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 84.48,
+      "age_days": 84.49,
       "topics": [
         "general"
       ],
@@ -605,7 +605,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 84.48,
+      "age_days": 84.49,
       "topics": [
         "ai"
       ],
@@ -657,7 +657,7 @@
       "url": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T07:11:39+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -682,7 +682,7 @@
       "url": "https://automaton-media.com/articles/newsjp/20260912-467049/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T07:36:59+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -707,7 +707,7 @@
       "url": "https://note.com/kirik/n/n8e7920167c3f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T23:51:30+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -728,11 +728,36 @@
       "summary": "※おことわり 本稿は、ほぼ同じ内容を私のメルマガ『人間迷路』で配信しています。で、メルマガご購読者の皆さまに於かれましては本稿は配信する記事と同じものですので、お布施でもない限り、間違って買わないようお願いします。 https://yakan-hiko.com/kirik.html なんつーか、大変なことになってしまいました。 な..."
     },
     {
+      "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita",
+      "url": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-11T11:23:26+00:00",
+      "age_days": 1.13,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではない..."
+    },
+    {
       "title": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:56:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
