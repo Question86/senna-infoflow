@@ -1,12 +1,12 @@
 # Senna Memory Index
 
-_Generated: 2026-09-12T20:01:41+00:00_
+_Generated: 2026-09-12T20:18:23+00:00_
 
 ## Topic Counts
 
 - general: `16`
 - ai: `12`
-- geopolitics: `4`
+- geopolitics: `5`
 - github: `4`
 
 ## Read Order
