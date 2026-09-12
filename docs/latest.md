@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T10:20:09+00:00_
+_Generiert: 2026-09-12T10:28:08+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -168,3 +168,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
