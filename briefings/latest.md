@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T23:52:15+00:00_
+_Generiert: 2026-09-12T23:57:46+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -222,3 +222,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): 500 Server Error: INTERNAL SERVER ERROR for url: https://cert.europa.eu/publications/security-advisories-rss
