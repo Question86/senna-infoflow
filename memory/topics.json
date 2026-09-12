@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-12T10:56:17+00:00",
+  "generated_at": "2026-09-12T11:16:21+00:00",
   "topics": {
     "ai": [
       {
@@ -156,18 +156,18 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr"
       },
       {
+        "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-12T10:12:56+00:00",
+        "relevance_score": 5,
+        "url": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/"
+      },
+      {
         "title": "Reactの設計論",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-12T01:56:56+00:00",
         "relevance_score": 5,
         "url": "https://speakerdeck.com/uhyo/react-no-sekkeiron"
-      },
-      {
-        "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-11T23:51:30+00:00",
-        "relevance_score": 5,
-        "url": "https://note.com/kirik/n/n8e7920167c3f"
       }
     ],
     "geopolitics": [
