@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T06:33:16+00:00_
+_Generiert: 2026-09-12T06:49:15+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
+15 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-09-12T06:33:16+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:358.597km) in Indonesia 11/09/2026 21:23 UTC, 30 thousand in MMI IV.
+- **GDACS: Green flood alert in Slovenia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104152)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Slovenia
 - **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104149)
   - Quelle: GDACS
   - Zeit: ``
@@ -179,6 +183,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Reactの設計論** — Score 5, observation — [Quelle](https://speakerdeck.com/uhyo/react-no-sekkeiron)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-12T01:56:56+00:00`, fetched `2026-09-12T06:48:43+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: フロントエンドカンファレンス福岡2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z** — Score 5, observation — [Quelle](https://note.com/shi3zblog/n/nd5fc5341b342)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
