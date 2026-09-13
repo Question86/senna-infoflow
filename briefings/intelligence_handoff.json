@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-13T22:31:42Z",
+  "generated_at": "2026-09-13T22:46:31Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.86,
+      "age_days": 86.87,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:22:09.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T08:51:07.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -118,7 +118,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:01:16.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -143,7 +143,7 @@
       "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T14:11:07+00:00",
-      "age_days": 1.35,
+      "age_days": 1.36,
       "topics": [
         "ai"
       ],
@@ -169,7 +169,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T03:35:37+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -192,7 +192,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:45:30.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -216,7 +216,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:36:40.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -240,7 +240,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 1.59,
+      "age_days": 1.6,
       "topics": [
         "ai"
       ],
@@ -265,7 +265,7 @@
       "url": "https://iphone-mania.jp/iphone18-605912/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T16:53:12+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -289,7 +289,7 @@
       "url": "https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T15:32:14+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "macro"
       ],
