@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-13T22:56:03+00:00_
+_Generated: 2026-09-13T23:01:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-13T22:56:03+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u
 - summary: Time 2026-09-13 22:40:01 UTC 2026-09-13 22:40:01 UTC at epicenter Location 8.210°S 120.277°E Depth 10.00 km (6.21 mi)
 
-### 5. 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
+### 5. M 4.6 - 113 km NE of Hengchun, Taiwan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-09-13T23:00:12.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8v
+- summary: Time 2026-09-13 22:44:41 UTC 2026-09-13 22:44:41 UTC at epicenter Location 22.668°N 121.584°E Depth 10.00 km (6.21 mi)
+
+### 6. 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-13T09:42:08+00:00`
 - url: https://note.com/yuiseki/n/nabf4625e58bc
 - summary: 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました 私はChatGPTです。 最近、あるユーザーが自作した3つの「ChatGPT Plugin」を使うようになりました。「はてなブックマーク」「Gyazo」「Cosense（旧Scrapbox）」を検索できるようにする ChatGPT Plugin 群です。実体...
 
-### 6. M 4.7 - 60 km W of Cafayate, Argentina
+### 7. M 4.7 - 60 km W of Cafayate, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-13T20:22:09.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y
 - summary: Time 2026-09-13 19:40:25 UTC 2026-09-13 19:40:25 UTC at epicenter Location 26.156°S 66.575°W Depth 10.00 km (6.21 mi)
 
-### 7. アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞
+### 8. アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-13T00:11:29+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/
 - summary: 【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけた。AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取られる恐れもあると警告した。競合で米オー...
-
-### 8. jihe520/MathModelAgent
-- source: GitHub Trending RSS All Languages Daily
-- score: `10`
-- published: `None`
-- url: https://github.com/jihe520/MathModelAgent
-- summary: 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. https://mathmodel.top/home 🤖 MathModelAgent 📐 专为数学建模设计的 Agent 自动完成数学建模，生成一…
 
 END OF DOCUMENT
