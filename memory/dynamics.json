@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-13T12:43:57Z",
+  "generated_at": "2026-09-13T12:50:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 19,
@@ -41,7 +41,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 86.4d old signal",
+        "aging penalty -8.0 for 86.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T08:51:07.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -100,7 +100,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T03:35:37+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -147,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:36:40.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -196,7 +196,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:11:29+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -222,7 +222,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:57:48+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -322,7 +322,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T13:12:01+00:00",
-      "age_days": 0.98,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -347,7 +347,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 85.41,
+      "age_days": 85.42,
       "topics": [
         "general"
       ],
@@ -372,7 +372,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 85.41,
+      "age_days": 85.42,
       "topics": [
         "general"
       ],
@@ -397,7 +397,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 85.41,
+      "age_days": 85.42,
       "topics": [
         "ai"
       ],
@@ -424,7 +424,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:25:21+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -474,7 +474,7 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:57:48+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
