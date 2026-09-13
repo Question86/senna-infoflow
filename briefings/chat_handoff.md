@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-13T22:39:20+00:00_
+_Generated: 2026-09-13T22:44:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-13T22:39:20+00:00_
 - url: https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen
 - summary: 巨大なモノリシック Rails アプリケーションの マイクロサービス化戦略 / 2019 microservices in cookpad
 
-### 2. Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計
+### 2. 自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing
+- source: Hatena Bookmark Hotentry IT
+- score: `16`
+- published: `2026-09-13T12:03:56+00:00`
+- url: https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045
+- summary: 1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。 使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stok...
+
+### 3. Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計
 - source: Hatena Bookmark Hotentry IT
 - score: `16`
 - published: `2026-09-12T14:11:07+00:00`
 - url: https://zenn.dev/hampen2929/books/claude-code-production-guide
 - summary: Claude Codeを対話で使いこなせるようになった。次は、それを「毎晩黙って働くチームメンバー」にする番です。本書は、ヘッドレス実行（claude -p）をCI/CDに組み込み、検出→修正→検証→コミットの自律ループを無人で回すための設計書です。本番運用で立ちはだかる4つの壁——暴走・品質・コスト・監査——に対して、ガードレ...
 
-### 3. M 4.7 - 25 km N of Mutsu, Japan
+### 4. M 4.7 - 25 km N of Mutsu, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-13T08:51:07.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d
 - summary: Time 2026-09-13 08:31:15 UTC 2026-09-13 08:31:15 UTC at epicenter Location 41.513°N 141.272°E Depth 120.37 km (74.80 mi)
-
-### 4. M 4.9 - Bonin Islands, Japan region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-13T04:08:55.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a
-- summary: Time 2026-09-13 03:50:32 UTC 2026-09-13 03:50:32 UTC at epicenter Location 26.305°N 142.253°E Depth 10.00 km (6.21 mi)
 
 ### 5. 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
 - source: Hatena Bookmark Hotentry IT
