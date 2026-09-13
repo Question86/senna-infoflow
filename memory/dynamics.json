@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-13T05:22:22Z",
+  "generated_at": "2026-09-13T05:31:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.14,
+      "age_days": 86.15,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -74,7 +74,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -125,7 +125,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T13:12:01+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -252,7 +252,7 @@
       "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T22:49:40+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
