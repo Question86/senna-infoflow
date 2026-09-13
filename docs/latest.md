@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-13T11:19:03+00:00_
+_Generiert: 2026-09-13T11:25:36+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+15 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -114,7 +114,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
