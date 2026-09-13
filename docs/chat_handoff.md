@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-13T22:50:49+00:00_
+_Generated: 2026-09-13T22:56:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-13T22:50:49+00:00_
 - url: https://zenn.dev/hampen2929/books/claude-code-production-guide
 - summary: Claude Codeを対話で使いこなせるようになった。次は、それを「毎晩黙って働くチームメンバー」にする番です。本書は、ヘッドレス実行（claude -p）をCI/CDに組み込み、検出→修正→検証→コミットの自律ループを無人で回すための設計書です。本番運用で立ちはだかる4つの壁——暴走・品質・コスト・監査——に対して、ガードレ...
 
-### 4. M 4.7 - 25 km N of Mutsu, Japan
+### 4. M 5.1 - 48 km NNW of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-09-13T08:51:07.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d
-- summary: Time 2026-09-13 08:31:15 UTC 2026-09-13 08:31:15 UTC at epicenter Location 41.513°N 141.272°E Depth 120.37 km (74.80 mi)
+- published: `2026-09-13T22:54:35.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u
+- summary: Time 2026-09-13 22:40:01 UTC 2026-09-13 22:40:01 UTC at epicenter Location 8.210°S 120.277°E Depth 10.00 km (6.21 mi)
 
 ### 5. 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
 - source: Hatena Bookmark Hotentry IT
