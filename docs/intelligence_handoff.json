@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-13T20:22:30Z",
+  "generated_at": "2026-09-13T20:46:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.77,
+      "age_days": 86.78,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -65,11 +65,36 @@
       "summary": "Time 2026-09-13 03:50:32 UTC 2026-09-13 03:50:32 UTC at epicenter Location 26.305°N 142.253°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.7 - 60 km W of Cafayate, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-13T20:22:09.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-13 19:40:25 UTC 2026-09-13 19:40:25 UTC at epicenter Location 26.156°S 66.575°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.7 - 25 km N of Mutsu, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T08:51:07.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -93,7 +118,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:01:16.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -118,7 +143,7 @@
       "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T14:11:07+00:00",
-      "age_days": 1.26,
+      "age_days": 1.27,
       "topics": [
         "ai"
       ],
@@ -144,7 +169,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T03:35:37+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -167,7 +192,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:45:30.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -191,7 +216,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:36:40.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -215,7 +240,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 1.5,
+      "age_days": 1.52,
       "topics": [
         "ai"
       ],
@@ -240,7 +265,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:11:29+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -266,7 +291,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:57:48+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "macro"
@@ -287,30 +312,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. https://mathmodel.top/home 🤖 MathModelAgent 📐 专为数学建模设计的 Agent 自动完成数学建模，生成一份完整的可以直接提交的论文。 简体中文 | English ⬇️ 下载最新桌面版（推荐） 🎨 姊妹项目： sci-box…"
-    },
-    {
-      "title": "id:aox に名指しされたので",
-      "url": "https://anond.hatelabo.jp/20260913224426",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-13T13:44:42+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "anond:20260912163434 戦争反対と防衛力は両立する id:aox 氏は防衛費の予算が適切であるか等の話であり、元増田の主張のように留保をつけたがるという話ではなく別の議題と認識している。 回答する度に別の議題を用意されても困るので、一旦「戦争反対だからこそ、戦争が起こらないように防衛力を増加させている」は特..."
     }
   ],
   "read_order": [
@@ -323,8 +324,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 6,
-      "quiet": 4
+      "watch": 7,
+      "quiet": 3
     }
   }
 }
