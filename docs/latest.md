@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-13T23:29:35+00:00_
+_Generiert: 2026-09-13T23:37:49+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+31 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-13 22:44:41 UTC 2026-09-13 22:44:41 UTC at epicenter Location 22.668°N 121.584°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ** — Score 13, observation — [Quelle](https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-13T13:01:15+00:00`, fetched `2026-09-13T23:37:15+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 目次AI に書かせた文章で試すtextlint のプリセットを作った背景使い方Claude Code の hooks でチェックする一部の単語を検出から除外したい場合辞書をカスタマイズしたい場合文章の一部分だけ指摘を無効にしたい場合検出の仕組み活用形をまとめて判定する辞書の作り方おわりにこんにちは、ぷらす(@p1ass)です。 AI が書...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき** — Score 12, observation — [Quelle](https://note.com/yuiseki/n/nabf4625e58bc)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-13T09:42:08+00:00`, fetched `2026-09-13T11:08:34+00:00`
@@ -123,15 +132,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-13 19:41:43 UTC 2026-09-13 19:41:43 UTC at epicenter Location 20.201°S 168.834°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI の投資収益率 (ROI) を算出する | Amazon Web Services** — Score 9, observation — [Quelle](https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-12T13:12:01+00:00`, fetched `2026-09-13T04:43:12+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Amazon Web Services ブログ AI の投資収益率 (ROI) を算出する 人工知能 (AI) に投資した 1 ドルごとに 2 ドルのリターンが得られるのであれば、コストの増加は非効率ではなく、プラスの投資収益率 (ROI) を示すことになります。しかし、AI 支出とビジネス価値の関係を明らかにすることは複雑で難しく、取り組みを拡大...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Flowseal/zapret-discord-youtube** — Score 5, observation — [Quelle](https://github.com/Flowseal/zapret-discord-youtube)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-13T05:57:48+00:00`
