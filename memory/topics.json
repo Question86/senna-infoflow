@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-13T08:51:49+00:00",
+  "generated_at": "2026-09-13T09:10:53+00:00",
   "topics": {
     "ai": [
       {
@@ -56,6 +56,13 @@
     ],
     "general": [
       {
+        "title": "M 4.7 - 25 km N of Mutsu, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-13T08:51:07.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d"
+      },
+      {
         "title": "M 4.9 - Bonin Islands, Japan region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-13T04:08:55.040+00:00",
@@ -82,6 +89,13 @@
         "published_at": "2026-09-13T05:24:43+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2744946"
+      },
+      {
+        "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-13T05:23:07+00:00",
+        "relevance_score": 5,
+        "url": "https://iphone-mania.jp/iphone18-605873/"
       },
       {
         "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
