@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-13T20:14:20+00:00",
+  "generated_at": "2026-09-13T20:25:22+00:00",
   "topics": {
     "ai": [
       {
@@ -105,6 +105,13 @@
         "url": "https://note.com/yuiseki/n/nabf4625e58bc"
       },
       {
+        "title": "M 4.7 - 60 km W of Cafayate, Argentina",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-13T20:22:09.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y"
+      },
+      {
         "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-13T20:01:16.040+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-09-13T05:24:43+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2744946"
-      },
-      {
-        "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-13T05:23:07+00:00",
-        "relevance_score": 5,
-        "url": "https://iphone-mania.jp/iphone18-605873/"
       }
     ],
     "github": [
