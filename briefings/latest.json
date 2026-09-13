@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:31:19+00:00",
-  "run_id": "2026-09-13T20:31:19+00:00",
+  "generated_at": "2026-09-13T20:39:02+00:00",
+  "run_id": "2026-09-13T20:39:02+00:00",
   "date": "2026-09-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1207,29 +1207,7 @@
       "id": "97c65020323613a2fa68"
     }
   ],
-  "new_findings": [
-    {
-      "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
-      "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-13T16:28:54+00:00",
-      "fetched_at": "2026-09-13T20:30:45+00:00",
-      "summary": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合 マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victo...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1f67298d37fcbdddbb47"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
