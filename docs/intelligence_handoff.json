@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-13T23:20:05Z",
+  "generated_at": "2026-09-13T23:31:23Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.89,
+      "age_days": 86.9,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T22:54:35.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:22:09.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T08:51:07.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -143,7 +143,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:01:16.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -168,7 +168,7 @@
       "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T14:11:07+00:00",
-      "age_days": 1.38,
+      "age_days": 1.39,
       "topics": [
         "ai"
       ],
@@ -194,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T23:00:12.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "disaster"
@@ -222,7 +222,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T03:35:37+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -245,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:45:30.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
