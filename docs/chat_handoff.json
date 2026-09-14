@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-14T11:06:30+00:00",
+  "generated_at": "2026-09-14T11:22:03+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 17,
-    "observe": 20
+    "medium": 18,
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "M 5.6 - 78 km NNE of Tobelo, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-14T11:19:28.533+00:00",
+      "relevance_score": 19,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs",
+      "summary": "PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-09-14 10:58:03 UTC 2026-09-14 10:58:03 UTC at epicenter Location 2.422°N 128.170°E Depth 162.18 km (100.77 mi)",
+      "section": "medium"
+    },
     {
       "title": "[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung",
       "source": "BSI CERT-Bund Security Advisories",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise den Speicher zu manipulieren.",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T08:16:31+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten oder den Systemzustand zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
       "section": "medium"
     },
     {
