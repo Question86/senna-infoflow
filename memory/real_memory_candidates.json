@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-14T04:30:03Z",
+  "generated_at": "2026-09-14T04:46:49Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
     {
       "title": "AI doesn’t need crypto, AI agents do",
       "band": "krass",
