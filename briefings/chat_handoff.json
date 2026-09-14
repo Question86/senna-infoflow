@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-14T09:36:22+00:00",
+  "generated_at": "2026-09-14T09:48:06+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 5,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
-    "medium": 10,
-    "observe": 18
+    "medium": 14,
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [niedrig] Red Hat Enterprise Linux (GNU coreutils unexpand): Schwachstelle ermöglicht DoS und Manipulation von Dateien",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-14T09:36:31+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise den Speicher zu manipulieren.",
+      "section": "medium"
+    },
+    {
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -45,14 +55,14 @@
       "section": "medium"
     },
     {
-      "title": "M 4.8 - 119 km S of Dampit, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-14T02:03:49.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m",
-      "summary": "Time 2026-09-14 01:42:08 UTC 2026-09-14 01:42:08 UTC at epicenter Location 9.283°S 112.901°E Depth 33.38 km (20.74 mi)",
-      "section": "medium"
+      "published_at": "2026-09-14T09:40:16+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/tesla-establishes-vietnam-subsidiary-as-ev-rivalry-with-vinfast-looms-20260914/",
+      "summary": "Tesla has formally established a Vietnamese subsidiary, marking a small but closely watched step into one of Southeast Asia’s most dynamic electric vehicle markets. According to a filing on Vietnam’s National Business Registration Portal dated September 12, T…",
+      "section": "observe"
     },
     {
       "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://ascii.jp/elem/000/004/434/4434403/",
       "summary": "5日、OpenAIの「GPT-6 Astra」が筆者の環境でも使えるようになりました。前のバージョン「GPT-5.5 Sol」よりも、推論ベンチマークでは12倍に達するほど性能が大きく向上したとの報告もあり、注目が集まりました。果たして、その能力はこれまでのAIの常識を変えるほどの汎用性と高い性能を備えていました。ただし、GPT-6 ...",
-      "section": "observe"
-    },
-    {
-      "title": "India’s IPO boom is rewriting the exit playbook for global investors",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-14T02:30:22+00:00",
-      "relevance_score": 11,
-      "url": "https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/",
-      "summary": "For years, the conventional playbook for many of India’s most ambitious companies was to raise global capital, establish an offshore holding company and preserve the option of an eventual listing in New York or another international financial centre. That cal…",
       "section": "observe"
     }
   ],
