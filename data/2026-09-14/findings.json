@@ -1182,6 +1182,26 @@
     "id": "72c3b43eee55eb3b1bad"
   },
   {
+    "title": "Speech - launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union",
+    "url": "https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-14T13:57:36+00:00",
+    "summary": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union, Dublin, 6 July 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9dadc9c2cbaf8392f246"
+  },
+  {
     "title": "JustVugg/colibri",
     "url": "https://github.com/JustVugg/colibri",
     "source": "GitHub Trending RSS All Languages Daily",
