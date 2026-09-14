@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:58:02+00:00",
-  "run_id": "2026-09-14T08:58:02+00:00",
+  "generated_at": "2026-09-14T09:15:08+00:00",
+  "run_id": "2026-09-14T09:15:08+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1361,29 +1361,7 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "楽天モバイル、“楽天ID未連携で自動解約”を撤回 12月以降も継続利用できる",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2140667.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-14T06:52:23+00:00",
-      "fetched_at": "2026-09-14T08:57:30+00:00",
-      "summary": "楽天モバイル、“楽天ID未連携で自動解約”を撤回 12月以降も継続利用できる",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eddb4abe5c3cf88e0000"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
