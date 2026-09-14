@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-14T15:46:52Z",
+  "generated_at": "2026-09-14T16:03:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 18,
-      "strong": 17,
-      "watch": 4
+      "strong": 18,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 34,
-      "watch": 4
+      "strong": 35,
+      "watch": 3
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3346",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:22+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T07:01:31+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security",
         "infra"
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:21+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3344",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:21+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://jvn.jp/jp/JVN69877538/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T12:00:00+09:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3332",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:51:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1231",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:34+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -220,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3282",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T10:14:06+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -244,7 +244,7 @@
       "url": "https://jvn.jp/vu/JVNVU94022278/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T10:00:00+09:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -268,7 +268,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3312",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -292,7 +292,7 @@
       "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "ai",
         "macro"
@@ -321,7 +321,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -347,7 +347,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0105",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -373,7 +373,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:39+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -399,7 +399,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:36+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -425,7 +425,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T08:16:31+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -451,7 +451,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1139/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-09T00:00:00+00:00",
-      "age_days": 5.66,
+      "age_days": 5.67,
       "topics": [
         "security"
       ],
@@ -477,7 +477,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3342",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -503,7 +503,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3290",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T10:14:06+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -530,7 +530,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T06:36:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -556,7 +556,7 @@
       "url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-14T10:00:31+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -583,7 +583,7 @@
       "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T04:22:27+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -610,7 +610,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:22+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -635,7 +635,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3341",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -660,7 +660,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2268",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:31:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -685,7 +685,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -710,7 +710,7 @@
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:00:59+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "macro"
@@ -738,7 +738,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 87.58,
+      "age_days": 87.59,
       "topics": [
         "ai"
       ],
@@ -767,7 +767,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:19:28.533+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -789,11 +789,36 @@
       "summary": "PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-09-14 10:58:03 UTC 2026-09-14 10:58:03 UTC at epicenter Location 2.422°N 128.170°E Depth 162.18 km (100.77 mi)"
     },
     {
+      "title": "Version 1.0: GitLab - Schwachstellen bereits kurz nach Veröffentlichung im Fokus von Angreifern",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288736-1032.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "published_at": "2026-09-14T15:25:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10"
+      ],
+      "summary": "Version 1.0: GitLab - Schwachstellen bereits kurz nach Veröffentlichung im Fokus von Angreifern"
+    },
+    {
       "title": "Cyber-Attacken auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory",
       "url": "https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-14T07:11:00.000+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -818,7 +843,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thct",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:23:25.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -843,7 +868,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T09:45:29.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -868,7 +893,7 @@
       "url": "https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T10:03:10+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -895,7 +920,7 @@
       "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "macro"
       ],
@@ -920,7 +945,7 @@
       "url": "https://codezine.jp/article/detail/29411",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T02:20:33+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -947,7 +972,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T02:03:49.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -971,7 +996,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T03:15:29.040+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -996,7 +1021,7 @@
       "url": "https://e27.co/the-missing-link-in-your-consumers-mobile-app-journey-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T02:00:38+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "macro"
       ],
@@ -1016,31 +1041,6 @@
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": "Global app installs grew 10 per cent year-over-year in 2025, with APAC driving much of that growth. But for marketers today, getting users to install an app is only half the battle. The bigger challenge is ensuring users reach the right destination and complete purchases without unnecessary friction. That’s often wher…"
-    },
-    {
-      "title": "Keynote address - 2026 Youth Leadership Summit",
-      "url": "https://www.bis.org/speeches/20260907-keynote-address-2026-youth-leadership-summit",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 0.66,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Keynote address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the 2026 Youth Leadership Summit, Johannesburg, 20 June 2026."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Workspace App Windows: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
