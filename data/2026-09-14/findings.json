@@ -279,6 +279,42 @@
     "id": "812b96721355106342f8"
   },
   {
+    "title": "M 5.1 - northern Mid-Atlantic Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-14T03:15:29.040+00:00",
+    "fetched_at": "2026-09-14T03:28:46+00:00",
+    "summary": "Time 2026-09-14 02:56:17 UTC 2026-09-14 02:56:17 UTC at epicenter Location 25.536°N 45.358°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5f5e9623f67b6c1d0717"
+  },
+  {
     "title": "越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog",
     "url": "https://tech.findy.co.jp/entry/2026/09/14/070000",
     "source": "Hatena Bookmark Hotentry IT",

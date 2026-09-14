@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T03:05:53+00:00_
+_Generiert: 2026-09-14T03:29:17+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-14T03:15:29.040+00:00`, fetched `2026-09-14T03:28:46+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-14 02:56:17 UTC 2026-09-14 02:56:17 UTC at epicenter Location 25.536°N 45.358°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog** — Score 5, observation — [Quelle](https://tech.findy.co.jp/entry/2026/09/14/070000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-13T22:12:20+00:00`, fetched `2026-09-14T01:43:58+00:00`

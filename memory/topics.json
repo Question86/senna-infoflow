@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-14T03:05:53+00:00",
+  "generated_at": "2026-09-14T03:29:17+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "published_at": "2026-09-14T02:03:49.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m"
+      },
+      {
+        "title": "M 5.1 - northern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-14T03:15:29.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3"
       },
       {
         "title": "ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側",
