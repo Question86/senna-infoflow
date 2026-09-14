@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T02:01:10+00:00_
+_Generiert: 2026-09-14T02:32:10+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+11 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: The AI community keeps asking: “Where’s crypto’s killer app?” They may be asking the wrong species. Blockchain never found product-market fit with humans. It may find it with machines. AI creates intelligence. Blockchain creates verification. For years, one of the strongest arguments from the AI community has been that blockchain never found a meaningful product-market […] The post AI doesn’t need crypto, AI agents…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.8 - 119 km S of Dampit, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-14T02:03:49.040+00:00`, fetched `2026-09-14T02:31:34+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-14 01:42:08 UTC 2026-09-14 01:42:08 UTC at epicenter Location 9.283°S 112.901°E Depth 33.38 km (20.74 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」** — Score 15, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/14/2000001433/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-13T23:51:12+00:00`, fetched `2026-09-14T01:43:58+00:00`
@@ -51,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **India’s IPO boom is rewriting the exit playbook for global investors** — Score 11, observation — [Quelle](https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-14T02:30:22+00:00`, fetched `2026-09-14T02:31:34+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: For years, the conventional playbook for many of India’s most ambitious companies was to raise global capital, establish an offshore holding company and preserve the option of an eventual listing in New York or another international financial centre. That calculus is changing. India’s initial public offering (IPO) market is no longer simply growing. It is […] The post India’s IPO boom is rewriting the exit playbook…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Beyond Border thinks visas are now part of the founder playbook** — Score 10, observation — [Quelle](https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-14T01:00:36+00:00`, fetched `2026-09-14T01:18:32+00:00`
@@ -100,8 +118,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
