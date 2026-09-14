@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T14:12:52+00:00_
+_Generiert: 2026-09-14T14:28:51+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+70 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -279,6 +279,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Opening remarks - CCBG Subcommittee on Banking Supervision and Financial Stability meeting** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260907-opening-remarks-ccbg-subcommittee-banking-supervision-and-financial-stability-meeting)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T14:28:19+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); banking (+2.5); recent (+1.0)
+  - Kurz: Opening remarks by Mr Phil Mnisi, Governor of the Central Bank of Eswatini, at the CCBG Subcommittee on Banking Supervision and Financial Stability Meeting, Ezulwini, 30 July 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Monetary policy and financial stability at the SNB - the role of macroprudential tools** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T14:12:22+00:00`
@@ -323,15 +332,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Speech - launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T13:57:36+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
-  - Kurz: Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union, Dublin, 6 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
