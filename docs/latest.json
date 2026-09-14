@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:40:13+00:00",
-  "run_id": "2026-09-14T14:40:13+00:00",
+  "generated_at": "2026-09-14T14:48:14+00:00",
+  "run_id": "2026-09-14T14:48:14+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 2,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
     "medium": 33,
-    "observe": 40,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -881,6 +881,27 @@
     ],
     "observe": [
       {
+        "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+        "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T14:47:45+00:00",
+        "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3ab658bc26a59fa4f1ec"
+      },
+      {
         "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html",
         "source": "ECB Open Market Operations and Communication",
@@ -1516,6 +1537,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "de34ba4797eef3ea4d0c"
+      },
+      {
+        "title": "The nature, functioning and responsabilities of a financial system without physical currency",
+        "url": "https://www.bis.org/speeches/20260914-nature-functioning-and-responsabilities-financial-system-without-physical-currency",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T14:47:45+00:00",
+        "summary": "Opening speech by Mr Mugur Isărescu, Governor of the National Bank of Romania, at the seminar “The nature, functioning and responsabilities of a financial system without physical currency”, Bucharest, 4 June 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d2042cf8a1243e732a9e"
       },
       {
         "title": "Shifting economic landscapes - strategic responses of small open economies",
@@ -2638,6 +2679,27 @@
       "id": "5cf2379350d0def2dc88"
     },
     {
+      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+      "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T14:47:45+00:00",
+      "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3ab658bc26a59fa4f1ec"
+    },
+    {
       "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -3275,6 +3337,26 @@
       "id": "de34ba4797eef3ea4d0c"
     },
     {
+      "title": "The nature, functioning and responsabilities of a financial system without physical currency",
+      "url": "https://www.bis.org/speeches/20260914-nature-functioning-and-responsabilities-financial-system-without-physical-currency",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T14:47:45+00:00",
+      "summary": "Opening speech by Mr Mugur Isărescu, Governor of the National Bank of Romania, at the seminar “The nature, functioning and responsabilities of a financial system without physical currency”, Bucharest, 4 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d2042cf8a1243e732a9e"
+    },
+    {
       "title": "Shifting economic landscapes - strategic responses of small open economies",
       "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
       "source": "BIS Central Bankers Speeches",
@@ -3545,53 +3627,34 @@
   ],
   "new_findings": [
     {
-      "title": "Launch of RHBPay – the first bank-owned integrated payment gateway in Malaysia",
-      "url": "https://www.bis.org/speeches/20260914-launch-rhbpay-first-bank-owned-integrated-payment-gateway-malaysia",
+      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+      "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:39:45+00:00",
-      "summary": "Keynote address by Mr Aznan Abdul Aziz, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the RHBPay Launch Event, Kuala Lumpur, 5 August 2026.",
+      "fetched_at": "2026-09-14T14:47:45+00:00",
+      "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Macro/Policy"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cb7d4dfa4a7d97d32af0"
+      "id": "3ab658bc26a59fa4f1ec"
     },
     {
-      "title": "Keynote address - Global Islamic Financial Institutions Forum 2026",
-      "url": "https://www.bis.org/speeches/20260914-keynote-address-global-islamic-financial-institutions-forum-2026",
+      "title": "The nature, functioning and responsabilities of a financial system without physical currency",
+      "url": "https://www.bis.org/speeches/20260914-nature-functioning-and-responsabilities-financial-system-without-physical-currency",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:39:45+00:00",
-      "summary": "Keynote address by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Global Islamic Financial Institutions Forum 2026, Kuala Lumpur, 6 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "35679d272bcff4a8cbda"
-    },
-    {
-      "title": "Shifting economic landscapes - strategic responses of small open economies",
-      "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:39:45+00:00",
-      "summary": "Remarks by Dr Alwyn Jordan, Deputy Governor of the Central Bank of Barbados, at the 46th Annual Review Seminar of the Central Bank of Barbados, Bridgetown, 11 August 2026.",
+      "fetched_at": "2026-09-14T14:47:45+00:00",
+      "summary": "Opening speech by Mr Mugur Isărescu, Governor of the National Bank of Romania, at the seminar “The nature, functioning and responsabilities of a financial system without physical currency”, Bucharest, 4 June 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
@@ -3602,7 +3665,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2c452479f3abaa30b870"
+      "id": "d2042cf8a1243e732a9e"
     }
   ],
   "source_errors": [],
