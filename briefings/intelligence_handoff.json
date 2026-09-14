@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-14T11:23:22Z",
+  "generated_at": "2026-09-14T11:33:02Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] GitLab: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN69877538/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T12:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -84,16 +84,16 @@
       "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in CUPS ausnutzen, um Informationen offenzulegen."
     },
     {
-      "title": "ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94022278/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-14T10:00:00+09:00",
-      "age_days": 0.43,
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-14T11:26:39+00:00",
+      "age_days": 0.0,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -103,21 +103,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: jvn, security"
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
     },
     {
-      "title": "[UPDATE] [hoch] libvirt: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3312",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2595",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.07,
+      "published_at": "2026-09-14T11:26:36+00:00",
+      "age_days": 0.0,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -127,16 +129,18 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um seine Privilegien zu erhöhen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
     },
     {
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T08:16:31+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -189,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T06:36:31+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -242,7 +246,7 @@
       "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T04:22:27+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -269,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -294,7 +298,7 @@
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:00:59+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
