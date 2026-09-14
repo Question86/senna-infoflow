@@ -1290,6 +1290,46 @@
     "id": "9dadc9c2cbaf8392f246"
   },
   {
+    "title": "Launch of RHBPay – the first bank-owned integrated payment gateway in Malaysia",
+    "url": "https://www.bis.org/speeches/20260914-launch-rhbpay-first-bank-owned-integrated-payment-gateway-malaysia",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-14T14:39:45+00:00",
+    "summary": "Keynote address by Mr Aznan Abdul Aziz, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the RHBPay Launch Event, Kuala Lumpur, 5 August 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cb7d4dfa4a7d97d32af0"
+  },
+  {
+    "title": "Keynote address - Global Islamic Financial Institutions Forum 2026",
+    "url": "https://www.bis.org/speeches/20260914-keynote-address-global-islamic-financial-institutions-forum-2026",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-14T14:39:45+00:00",
+    "summary": "Keynote address by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Global Islamic Financial Institutions Forum 2026, Kuala Lumpur, 6 August 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "35679d272bcff4a8cbda"
+  },
+  {
     "title": "Vulnérabilité dans les produits Cisco (09 septembre 2026)",
     "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1138/",
     "source": "CERT-FR Avis de sécurité",
@@ -1444,6 +1484,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "de34ba4797eef3ea4d0c"
+  },
+  {
+    "title": "Shifting economic landscapes - strategic responses of small open economies",
+    "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-14T14:39:45+00:00",
+    "summary": "Remarks by Dr Alwyn Jordan, Deputy Governor of the Central Bank of Barbados, at the 46th Annual Review Seminar of the Central Bank of Barbados, Bridgetown, 11 August 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c452479f3abaa30b870"
   },
   {
     "title": "Opening of the South African Reserve Bank head office campus and launch of the museum",
