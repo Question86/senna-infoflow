@@ -1528,6 +1528,28 @@
     "id": "88534d89732fb012a5f4"
   },
   {
+    "title": "Version 1.0: GitLab - Schwachstellen bereits kurz nach Veröffentlichung im Fokus von Angreifern",
+    "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288736-1032.html",
+    "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+    "source_type": "rss",
+    "published_at": "2026-09-14T15:25:00+00:00",
+    "fetched_at": "2026-09-14T15:52:36+00:00",
+    "summary": "Version 1.0: GitLab - Schwachstellen bereits kurz nach Veröffentlichung im Fokus von Angreifern",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Cyber-Sicherheitswarnung"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ecdd45d642a3fab8bdc"
+  },
+  {
     "title": "Cyber-Attacken auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory",
     "url": "https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html",
     "source": "heise Security Alerts",
@@ -1773,6 +1795,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4426d30ba35660dedd9c"
+  },
+  {
+    "title": "Microsoftアカウント作成を超簡単にバイパスする方法が見つかる。Windows11初期セットアップにて。『詳細』を選択するだけ | ニッチなPCゲーマーの環境構築Z",
+    "url": "https://www.nichepcgamer.com/archives/post-132235.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-14T03:23:49+00:00",
+    "fetched_at": "2026-09-14T15:52:36+00:00",
+    "summary": "Windows11の初期セットアップでは、基本的にMicrosoftアカウントでのサインイン、またはアカウントがなければアカウントの作成が求められます。Microsoftアカウントを使いたくないユーザーは「なんらかの方法」を駆使して、アカウントの作成をバイパスしないといけません。 今回、そのアカウント作成をめちゃくちゃ簡単...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f95d217c67e4aed35d8b"
   },
   {
     "title": "仕様書通りだけど提案書とは違うシステムだったので訴えます",
