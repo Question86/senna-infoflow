@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-14T02:56:42+00:00",
+  "generated_at": "2026-09-14T03:05:53+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-14T02:30:22+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/"
+      },
+      {
+        "title": "Everyone has adopted AI. Almost nobody is ready for it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T03:00:51+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/"
       },
       {
         "title": "Why Beyond Border thinks visas are now part of the founder playbook",
@@ -102,11 +109,27 @@
     ],
     "security": [
       {
+        "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-14T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN69877538/"
+      },
+      {
         "title": "ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-14T10:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU94022278/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Everyone has adopted AI. Almost nobody is ready for it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T03:00:51+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/"
       }
     ]
   }
