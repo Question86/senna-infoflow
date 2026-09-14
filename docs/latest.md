@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T13:58:12+00:00_
+_Generiert: 2026-09-14T14:12:52+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+69 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Net-SNMP ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Google Chrome (09 septembre 2026)** — Score 16, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1139/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-09T00:00:00+00:00`, fetched `2026-09-14T14:12:22+00:00`
+  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-87491 est activement exploitée.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 49 km E of Minami-Sōma, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thct)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-14T11:23:25.040+00:00`, fetched `2026-09-14T11:30:14+00:00`
@@ -177,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 5日、OpenAIの「GPT-6 Astra」が筆者の環境でも使えるようになりました。前のバージョン「GPT-5.5 Sol」よりも、推論ベンチマークでは12倍に達するほど性能が大きく向上したとの報告もあり、注目が集まりました。果たして、その能力はこれまでのAIの常識を変えるほどの汎用性と高い性能を備えていました。ただし、GPT-6 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Winning in the AI era - the new playbook for Indian banks** — Score 12, opportunity — [Quelle](https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T14:12:22+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Inaugural address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Annual Financial Institution Benchmarking and Calibration (FIBAC) 2026 Conference, organised jointly by the Federation of Indian Chambers of Commerce and Industry (FICCI) and the Indian Banks' Association (IBA), Mumbai, 11 August 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The real AI economy is being built by ordinary people** — Score 11, observation — [Quelle](https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-14T10:00:31+00:00`, fetched `2026-09-14T10:18:34+00:00`
@@ -203,6 +221,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary policy and financial stability at the SNB - the role of macroprudential tools** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T14:12:22+00:00`
+  - Treffer: macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); macro (+2.5); recent (+1.0)
+  - Kurz: Speech by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, at the University of Basel, Basel, 16 August 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **最近のClaude Code Desktop、使いやすさマシマシです！** — Score 10, observation — [Quelle](https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -248,24 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
   - Kurz: Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union, Dublin, 6 July 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **JustVugg/colibri** — Score 8, observation — [Quelle](https://github.com/JustVugg/colibri)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-14T06:44:02+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 https://justvugg.github.io/colibri Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating storage, RAM, and VRAM as a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cyber-Attacken auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory** — Score 7, observation — [Quelle](https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-14T07:11:00.000+00:00`, fetched `2026-09-14T07:32:34+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-14T13:58:12+00:00",
+  "generated_at": "2026-09-14T14:12:52+00:00",
   "topics": {
     "general": [
       {
@@ -47,6 +47,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3"
       },
       {
+        "title": "Vulnérabilité dans les produits Cisco (09 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-09T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1138/"
+      },
+      {
         "title": "自作PC民が会社支給PCを使ったら「始業前に出社して起動だけ済ませる必要がある」という結論になった→設備更新の提案が却下される職場がしんどい",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-14T07:58:04+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-14T06:01:41+00:00",
         "relevance_score": 5,
         "url": "https://av.watch.impress.co.jp/docs/news/2140657.html"
-      },
-      {
-        "title": "ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-11T01:17:47+00:00",
-        "relevance_score": 4,
-        "url": "https://av.watch.impress.co.jp/docs/topic/2138582.html"
       }
     ],
     "security": [
@@ -198,6 +198,13 @@
         "url": "https://ascii.jp/elem/000/004/434/4434403/"
       },
       {
+        "title": "Winning in the AI era - the new playbook for Indian banks",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks"
+      },
+      {
         "title": "The real AI economy is being built by ordinary people",
         "source": "Rest of World Global Tech Feed",
         "published_at": "2026-09-14T10:00:31+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-09-14T02:30:22+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/"
-      },
-      {
-        "title": "Everyone has adopted AI. Almost nobody is ready for it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-14T03:00:51+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/"
       }
     ],
     "economy": [
@@ -263,6 +263,13 @@
         "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/"
       },
       {
+        "title": "Winning in the AI era - the new playbook for Indian banks",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks"
+      },
+      {
         "title": "The real AI economy is being built by ordinary people",
         "source": "Rest of World Global Tech Feed",
         "published_at": "2026-09-14T10:00:31+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-09-14T01:00:36+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/"
-      },
-      {
-        "title": "Speech - launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-14T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union"
       }
     ],
     "geopolitics": [
@@ -319,6 +319,13 @@
         "published_at": "2026-09-14T08:16:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Google Chrome (09 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-09T00:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1139/"
       },
       {
         "title": "[NEU] [mittel] Citrix Systems Workspace App Windows: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -354,13 +361,6 @@
         "published_at": "2026-09-14T11:51:32+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3332"
-      },
-      {
-        "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-09-14T14:40:19+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html"
       }
     ],
     "github": [
