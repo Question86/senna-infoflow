@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T01:44:34+00:00_
+_Generated: 2026-09-14T02:01:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `9`
 
 ## Top Signals
 
@@ -43,18 +43,25 @@ _Generated: 2026-09-14T01:44:34+00:00_
 - url: https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/
 - summary: Beyond Border, the Singapore-founded, tech-enabled US immigration platform for founders and highly skilled professionals, has added former Airbnb China COO Kum Hong Siew to its advisory bench as Business Advisor. The appointment comes as the company, which sa…
 
-### 6. 越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog
+### 6. フロントエンドなんてバイブコーディングで良いこの時代に、私は - カミナシ エンジニアブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-09-14T00:17:47+00:00`
+- url: https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding
+- summary: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
+
+### 7. 越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-13T22:12:20+00:00`
 - url: https://tech.findy.co.jp/entry/2026/09/14/070000
 - summary: こんにちは！CTO室でエンジニアをやっている別府(@_nuk00_)です！ 今回の記事では、AIがデザイン案を自動で作成する時代に、なぜ管理コストのかかるデザインシステムを作ったのか。その理由と、デザインシステムの中身を紹介します。 記事は前編と後編の2つに分けています。 前編にあたるこの記事では、土台となる「人と...
 
-### 7. ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側
-- source: Hatena Bookmark Hotentry IT
+### 8. The missing link in your consumer’s mobile app journey
+- source: e27 Asia Startup and Tech Feed
 - score: `4`
-- published: `2026-09-11T01:17:47+00:00`
-- url: https://av.watch.impress.co.jp/docs/topic/2138582.html
-- summary: ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側
+- published: `2026-09-14T02:00:38+00:00`
+- url: https://e27.co/the-missing-link-in-your-consumers-mobile-app-journey-20260912/
+- summary: Global app installs grew 10 per cent year-over-year in 2025, with APAC driving much of that growth. But for marketers today, getting users to install an app is only half the battle. The bigger challenge is ensuring users reach the right destination and comple…
 
 END OF DOCUMENT

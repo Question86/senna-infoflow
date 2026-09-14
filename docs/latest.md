@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T01:44:34+00:00_
+_Generiert: 2026-09-14T02:01:10+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+9 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Beyond Border, the Singapore-founded, tech-enabled US immigration platform for founders and highly skilled professionals, has added former Airbnb China COO Kum Hong Siew to its advisory bench as Business Advisor. The appointment comes as the company, which says it has stayed net profitable for two years while hitting a multimillion-dollar annual revenue run rate, pushes […] The post Why Beyond Border thinks visas ar…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **フロントエンドなんてバイブコーディングで良いこの時代に、私は - カミナシ エンジニアブログ** — Score 10, observation — [Quelle](https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-14T00:17:47+00:00`, fetched `2026-09-14T02:00:40+00:00`
+  - Treffer: developer, Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog** — Score 5, observation — [Quelle](https://tech.findy.co.jp/entry/2026/09/14/070000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-13T22:12:20+00:00`, fetched `2026-09-14T01:43:58+00:00`
@@ -68,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは！CTO室でエンジニアをやっている別府(@_nuk00_)です！ 今回の記事では、AIがデザイン案を自動で作成する時代に、なぜ管理コストのかかるデザインシステムを作ったのか。その理由と、デザインシステムの中身を紹介します。 記事は前編と後編の2つに分けています。 前編にあたるこの記事では、土台となる「人と...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The missing link in your consumer’s mobile app journey** — Score 4, observation — [Quelle](https://e27.co/the-missing-link-in-your-consumers-mobile-app-journey-20260912/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-14T02:00:38+00:00`, fetched `2026-09-14T02:00:40+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Global app installs grew 10 per cent year-over-year in 2025, with APAC driving much of that growth. But for marketers today, getting users to install an app is only half the battle. The bigger challenge is ensuring users reach the right destination and complete purchases without unnecessary friction. That’s often where things fall apart. Today’s […] The post The missing link in your consumer’s mobile app journey app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側** — Score 4, observation — [Quelle](https://av.watch.impress.co.jp/docs/topic/2138582.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
