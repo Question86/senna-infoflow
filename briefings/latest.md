@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T10:57:04+00:00_
+_Generiert: 2026-09-14T11:06:30+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-09-14T10:57:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Croatia
-- **GDACS: Green flood alert in Maldives** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104155)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Maldives
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565193)
   - Quelle: GDACS
   - Zeit: ``
