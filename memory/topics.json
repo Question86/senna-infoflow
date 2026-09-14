@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-14T01:19:08+00:00",
+  "generated_at": "2026-09-14T01:44:34+00:00",
   "topics": {
     "ai": [
       {
@@ -12,11 +12,32 @@
         "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/"
       },
       {
+        "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-13T23:51:12+00:00",
+        "relevance_score": 15,
+        "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/"
+      },
+      {
+        "title": "Scaling beyond AI pilots: Six-move Capability Cycle",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T01:30:10+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/scaling-beyond-ai-pilots-six-move-capability-cycle-20260912/"
+      },
+      {
         "title": "Why Beyond Border thinks visas are now part of the founder playbook",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-14T01:00:36+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/"
+      },
+      {
+        "title": "越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-13T22:12:20+00:00",
+        "relevance_score": 5,
+        "url": "https://tech.findy.co.jp/entry/2026/09/14/070000"
       }
     ],
     "economy": [
