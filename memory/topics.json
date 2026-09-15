@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T14:00:10+00:00",
+  "generated_at": "2026-09-15T14:21:27+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,13 @@
         "url": "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach"
       },
       {
+        "title": "Central banks on-chain",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20260915-central-banks-on-chain"
+      },
+      {
         "title": "Ecosystem Roundup: Amilo’s fourth buyout in four years bets on cross-border shipping",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-15T09:40:15+00:00",
@@ -126,25 +133,18 @@
         "url": "https://e27.co/ecosystem-roundup-amilos-fourth-buyout-in-four-years-bets-on-cross-border-shipping-20260915/"
       },
       {
-        "title": "Special address - 31st CGC Awards",
+        "title": "Opening remarks - 13th Irving Fisher Committee Conference",
         "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-14T00:00:00+00:00",
+        "published_at": "2026-09-15T00:00:00+00:00",
         "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards"
+        "url": "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference"
       },
       {
-        "title": "Schweigaard Lecture - ten questions and answers about monetary policy",
+        "title": "In our time",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-15T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20260915-schweigaard-lecture-ten-questions-and-answers-about-monetary-policy"
-      },
-      {
-        "title": "Launch of the FinScope Eswatini 2026 Consumer Survey",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-15T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20260915-launch-finscope-eswatini-2026-consumer-survey"
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20260915-our-time"
       }
     ],
     "security": [
