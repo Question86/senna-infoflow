@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T19:09:53+00:00_
+_Generiert: 2026-09-15T19:20:25+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+78 neue relevante Treffer. Stärkstes Signal: „AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -317,7 +317,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
