@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T07:57:26+00:00_
+_Generiert: 2026-09-15T08:11:13+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+27 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -185,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-15 04:52:26 UTC 2026-09-15 04:52:26 UTC at epicenter Location 21.581°S 170.092°E Depth 98.74 km (61.35 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing** — Score 8, observation — [Quelle](https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-15T08:00:42+00:00`, fetched `2026-09-15T08:10:36+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
+  - Kurz: Southeast Asia’s e-wallet giants have spent a decade making digital payments boring, in the best sense. Tap to pay, scan a QR code, top up a prepaid line: no jargon, no friction, no need to understand what happens underneath. Now TrueMoney wants to apply the same trick to blockchain. The Ascend Money-backed fintech, Thailand’s leading […] The post TrueMoney and Fireblocks want Thai users on blockchain rails without…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Special address - 31st CGC Awards** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-15T07:02:16+00:00`
@@ -256,15 +265,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The geopolitics of scarcity: Why middle powers must learn to prioritise** — Score 4, observation — [Quelle](https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-15T03:00:14+00:00`, fetched `2026-09-15T03:18:19+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: When Keir Starmer recently argued that Britain must rebuild its hard power, much of the discussion focused on defence spending. That is understandable. After years of underinvestment, Britain faces difficult choices about military capability at a time of growing geopolitical instability. But money is only part of the challenge. Britain’s more fundamental foreign policy problem […] The post The geopolitics of scarcit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
