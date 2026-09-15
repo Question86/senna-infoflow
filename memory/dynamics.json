@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-15T11:03:25Z",
+  "generated_at": "2026-09-15T11:22:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 5,
+      "krass": 7,
       "strong": 12,
       "watch": 6,
-      "quiet": 17
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 17,
+      "krass": 1,
+      "strong": 18,
       "watch": 6,
-      "quiet": 17
+      "quiet": 15
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-15T10:56:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy Server ausnutzen, um beliebigen Programmcode auszuführen."
+    },
     {
       "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T14:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -47,7 +73,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -71,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -95,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3336",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T09:16:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -115,11 +141,37 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in memcached ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-15T11:06:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3347",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T10:51:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -145,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T09:16:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -171,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T10:51:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -196,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T09:16:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -221,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T09:16:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -246,7 +298,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 88.38,
+      "age_days": 88.39,
       "topics": [
         "ai"
       ],
@@ -275,7 +327,7 @@
       "url": "https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-15T08:30:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -301,7 +353,7 @@
       "url": "https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T08:00:42+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -329,7 +381,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 1.02,
+      "age_days": 1.04,
       "topics": [
         "security"
       ],
@@ -353,7 +405,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 1.03,
+      "age_days": 1.05,
       "topics": [
         "security"
       ],
@@ -377,7 +429,7 @@
       "url": "https://github.com/multimodal-art-projection/YuE",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-15T06:34:49+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -402,7 +454,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:36:53+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -428,7 +480,7 @@
       "url": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-15T10:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -454,7 +506,7 @@
       "url": "https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-15T08:17:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -478,7 +530,7 @@
       "url": "https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-15T07:06:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -502,7 +554,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-15T06:26:55.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -526,7 +578,7 @@
       "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:25:20+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -553,7 +605,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:00:53+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -579,7 +631,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-15T05:36:44.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -603,7 +655,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:09:50+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -627,7 +679,7 @@
       "url": "https://e27.co/ecosystem-roundup-amilos-fourth-buyout-in-four-years-bets-on-cross-border-shipping-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T09:40:15+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -651,7 +703,7 @@
       "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 1.46,
+      "age_days": 1.47,
       "topics": [
         "macro"
       ],
@@ -675,7 +727,7 @@
       "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:30:13+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -701,7 +753,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T21:49:16+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -727,7 +779,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T22:14:04+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -751,7 +803,7 @@
       "url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:30:16+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -777,7 +829,7 @@
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:00:05+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -802,7 +854,7 @@
       "url": "https://www.digital.go.jp/news/fac78de2-8cee-457e-a1ba-97db8b0a738a",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-15T09:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -826,7 +878,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260915-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-15T04:04:12+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -850,7 +902,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-15T06:34:49+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -875,7 +927,7 @@
       "url": "https://blog.tinect.jp/?p=91489",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T00:15:10+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -899,7 +951,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:30:20+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -924,7 +976,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 87.34,
+      "age_days": 87.36,
       "topics": [
         "general"
       ],
@@ -940,7 +992,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 87.3d old signal"
+        "aging penalty -16.0 for 87.4d old signal"
       ],
       "summary": ""
     },
@@ -949,7 +1001,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 87.34,
+      "age_days": 87.36,
       "topics": [
         "general"
       ],
@@ -965,62 +1017,10 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 87.3d old signal"
+        "aging penalty -16.0 for 87.4d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 87.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 87.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-15T06:34:49+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 https://mirofish.ai 简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extractin…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
