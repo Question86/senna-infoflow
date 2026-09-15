@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-15T02:34:59Z",
+  "generated_at": "2026-09-15T02:51:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 14,
     "bands": {
       "strong": 4,
       "watch": 1,
-      "quiet": 7
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 1,
-      "quiet": 7
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 88.03,
+      "age_days": 88.04,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:00:53+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -145,11 +145,61 @@
       "summary": "Every AI lab telling you software is about to write itself runs its company on Slack. These are the people closest to the frontier. They say agents will soon build anything you can describe. And yet they haven’t replaced their own chat app. Or their CRM. Or their payroll. If “just build it yourself” made […] The post…"
     },
     {
+      "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-15T01:09:50+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う..."
+    },
+    {
+      "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
+      "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T02:30:13+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "OpenAI released GPT-6 Astra on September 3, and the number marketers should actually care about isn’t a reasoning score — it’s a stopwatch. In OpenAI’s own computer-use simulation, Astra finishes a task in roughly 40 minutes against about 75 minutes for its predecessor, GPT-5.6 Sol — nearly half the time for the same…"
+    },
+    {
       "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T21:49:16+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -175,7 +225,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T22:14:04+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -199,7 +249,7 @@
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:00:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -224,7 +274,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:30:20+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -249,7 +299,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 86.99,
+      "age_days": 87.0,
       "topics": [
         "general"
       ],
@@ -274,7 +324,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 86.99,
+      "age_days": 87.0,
       "topics": [
         "general"
       ],
@@ -299,7 +349,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 86.99,
+      "age_days": 87.0,
       "topics": [
         "ai"
       ],
