@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T08:11:13+00:00_
+_Generiert: 2026-09-15T08:48:06+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+30 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -159,6 +159,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 https://mirofish.ai 简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals),…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-15T08:30:00.000+00:00`, fetched `2026-09-15T08:47:27+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Cisco warnt vor laufenden Angriffen auf eine kritische SQL-Injection-Lücke im Secure E-Mail Gateway. Updates stehen bereit.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit** — Score 7, observation — [Quelle](https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-15T08:17:00.000+00:00`, fetched `2026-09-15T08:47:27+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die neue Homebrew-Version 7.0.0 bietet einen integrierten Sicherheitslücken-Scanner für installierte Software und schließt acht Schwachstellen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Außer der Reihe: Microsoft fixt Probleme und Lücken nach Windows-Updates** — Score 7, observation — [Quelle](https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-15T07:06:00.000+00:00`, fetched `2026-09-15T07:24:56+00:00`
@@ -194,24 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年9月15日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **multimodal-art-projection/YuE** — Score 6, observation — [Quelle](https://github.com/multimodal-art-projection/YuE)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-15T06:34:49+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://map-yue2.github.io/ Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch . YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🤗 YuE2 · 🚀 Quick start · 🤖 Agent skill · 📊 Benchmarks · 🤗 MERT2 · 🤗…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/15/2000001472/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-15T01:09:50+00:00`, fetched `2026-09-15T02:45:12+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
