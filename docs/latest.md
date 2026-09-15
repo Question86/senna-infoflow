@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T10:58:59+00:00_
+_Generiert: 2026-09-15T11:14:26+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+41 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 

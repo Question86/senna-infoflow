@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T10:58:59+00:00",
+  "generated_at": "2026-09-15T11:14:26+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,20 @@
         "url": "https://jvn.jp/jp/JVN02049764/"
       },
       {
+        "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350"
+      },
+      {
+        "title": "[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T10:56:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349"
+      },
+      {
         "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-15T10:51:31+00:00",
@@ -175,20 +189,6 @@
         "published_at": "2026-09-15T09:16:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3336"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T09:16:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3308"
-      },
-      {
-        "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-14T10:31:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html"
       }
     ],
     "geopolitics": [
@@ -198,6 +198,20 @@
         "published_at": "2026-09-15T10:51:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348"
+      },
+      {
+        "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350"
+      },
+      {
+        "title": "[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T10:56:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349"
       },
       {
         "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -247,13 +261,6 @@
         "published_at": "2026-09-15T02:00:53+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/"
-      },
-      {
-        "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-15T03:00:14+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/"
       }
     ],
     "general": [
