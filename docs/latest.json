@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T06:55:29+00:00",
-  "run_id": "2026-09-15T06:55:29+00:00",
+  "generated_at": "2026-09-15T07:02:43+00:00",
+  "run_id": "2026-09-15T07:02:43+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 1,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 9,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -389,6 +389,26 @@
           "LOW"
         ],
         "id": "79c4dab1c83b3cfb6651"
+      },
+      {
+        "title": "Special address - 31st CGC Awards",
+        "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-15T07:02:16+00:00",
+        "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 31st CGC Awards, Kuala Lumpur, 11 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca9c01c12db47cee209c"
       },
       {
         "title": "666ghj/MiroFish",
@@ -943,6 +963,26 @@
       "id": "79c4dab1c83b3cfb6651"
     },
     {
+      "title": "Special address - 31st CGC Awards",
+      "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-15T07:02:16+00:00",
+      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 31st CGC Awards, Kuala Lumpur, 11 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca9c01c12db47cee209c"
+    },
+    {
       "title": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1133,7 +1173,28 @@
       "id": "3968f27241a5712bac63"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Special address - 31st CGC Awards",
+      "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-15T07:02:16+00:00",
+      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 31st CGC Awards, Kuala Lumpur, 11 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca9c01c12db47cee209c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

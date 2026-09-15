@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T06:55:29+00:00",
+  "generated_at": "2026-09-15T07:02:43+00:00",
   "topics": {
     "ai": [
       {
@@ -96,6 +96,13 @@
         "published_at": "2026-09-15T05:30:16+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/"
+      },
+      {
+        "title": "Special address - 31st CGC Awards",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards"
       }
     ],
     "general": [
@@ -216,6 +223,13 @@
         "published_at": "2026-09-14T10:31:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html"
+      },
+      {
+        "title": "Special address - 31st CGC Awards",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards"
       },
       {
         "title": "666ghj/MiroFish",
