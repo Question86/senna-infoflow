@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-15T06:05:14Z_
+_Generated: 2026-09-15T06:39:04Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T14:00:00+09:00` / age_days `0.05`
+- Published: `2026-09-15T14:00:00+09:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T12:00:00+09:00` / age_days `0.13`
+- Published: `2026-09-15T12:00:00+09:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T10:00:00+09:00` / age_days `0.21`
+- Published: `2026-09-15T10:00:00+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `88.17`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `88.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 88.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:31:00+00:00` / age_days `0.82`
+- Published: `2026-09-14T10:31:00+00:00` / age_days `0.84`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -62,27 +62,47 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:16:00+00:00` / age_days `0.83`
+- Published: `2026-09-14T10:16:00+00:00` / age_days `0.85`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
 - Quelle: https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html
 
+### multimodal-art-projection/YuE
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-09-15T06:34:49+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, code, security high-signal: rce, code
+- Quelle: https://github.com/multimodal-art-projection/YuE
+
 ### The 90-second pitch that helps foreign founders crack Tokyo’s networking scene
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-15T04:36:53+00:00` / age_days `0.06`
+- Published: `2026-09-15T04:36:53+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/
 
+### M 4.8 - 289 km WSW of Tual, Indonesia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.0`
+- Published: `2026-09-15T06:26:55.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr
+
 ### The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-09-15T05:25:20+00:00` / age_days `0.03`
+- Published: `2026-09-15T05:25:20+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: critical, 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-09-15T02:00:53+00:00` / age_days `0.17`
+- Published: `2026-09-15T02:00:53+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-15T05:36:44.040+00:00` / age_days `0.02`
+- Published: `2026-09-15T05:36:44.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj
-
-### 無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-09-15T01:09:50+00:00` / age_days `0.21`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://www.itmedia.co.jp/news/article/2609/15/2000001472/
-
-### GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-09-15T02:30:13+00:00` / age_days `0.15`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/
 
 END OF DOCUMENT
