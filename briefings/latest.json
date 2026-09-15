@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T19:43:19+00:00",
-  "run_id": "2026-09-15T19:43:19+00:00",
+  "generated_at": "2026-09-15T19:48:42+00:00",
+  "run_id": "2026-09-15T19:48:42+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 0,
@@ -3713,29 +3713,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Enforce GitHub Advanced Security configurations",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-15T19:31:58+00:00",
-      "fetched_at": "2026-09-15T19:42:49+00:00",
-      "summary": "Enterprise administrators can now enforce GitHub Advanced Security configurations across their organizations. This prevents both organization and repository administrators from overriding settings defined at the enterprise level, helping security and… The post Enforce GitHub Advanced Security configurations appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2b215f9a596ace5fde67"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
