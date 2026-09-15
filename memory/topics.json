@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T11:56:27+00:00",
+  "generated_at": "2026-09-15T12:04:09+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://jvn.jp/jp/JVN02049764/"
       },
       {
+        "title": "[UPDATE] [niedrig] OpenSC: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:56:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1755"
+      },
+      {
         "title": "[NEU] [hoch] ZScaler Client Connector: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-15T11:31:31+00:00",
@@ -182,13 +189,6 @@
         "published_at": "2026-09-15T11:26:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3360"
-      },
-      {
-        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:26:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3359"
       }
     ],
     "geopolitics": [
