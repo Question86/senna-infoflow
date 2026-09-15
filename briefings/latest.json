@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:15:06+00:00",
-  "run_id": "2026-09-15T04:15:06+00:00",
+  "generated_at": "2026-09-15T04:31:56+00:00",
+  "run_id": "2026-09-15T04:31:56+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -635,28 +635,7 @@
       "id": "3968f27241a5712bac63"
     }
   ],
-  "new_findings": [
-    {
-      "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260915-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-15T04:04:12+00:00",
-      "fetched_at": "2026-09-15T04:14:32+00:00",
-      "summary": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "97f5ff6c621dcf15cb52"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
