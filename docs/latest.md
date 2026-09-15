@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T13:54:22+00:00_
+_Generiert: 2026-09-15T14:00:10+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+67 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Japan's economy and monetary policy** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-15T00:00:00+00:00`, fetched `2026-09-15T13:59:38+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
+  - Kurz: Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Saitama, 27 August 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Panniantong/Agent-Reach** — Score 13, observation — [Quelle](https://github.com/Panniantong/Agent-Reach)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-15T06:34:49+00:00`
@@ -123,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. 👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览器自动探索并测试页面流程，生成可靠、可复用的数据采集 Bot，并返回结构化结果。无需手动构建…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Securing Uganda's digital future - collaboration, resilience and trust** — Score 12, opportunity — [Quelle](https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-15T00:00:00+00:00`, fetched `2026-09-15T13:59:38+00:00`
+  - Treffer: Macro/Policy, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)** — Score 12, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-09T00:00:00+00:00`, fetched `2026-09-15T12:31:09+00:00`
@@ -186,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-15 04:52:26 UTC 2026-09-15 04:52:26 UTC at epicenter Location 21.581°S 170.092°E Depth 98.74 km (61.35 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Opening statement - Joint Oireachtas Committee on Finance, Public Service Reform and Digitalisation, and Taoiseach** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-15T00:00:00+00:00`, fetched `2026-09-15T13:59:38+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Opening statement by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 15 July 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ecosystem Roundup: Amilo’s fourth buyout in four years bets on cross-border shipping** — Score 8, observation — [Quelle](https://e27.co/ecosystem-roundup-amilos-fourth-buyout-in-four-years-bets-on-cross-border-shipping-20260915/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-15T09:40:15+00:00`, fetched `2026-09-15T09:47:04+00:00`
@@ -204,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Southeast Asia’s e-wallet giants have spent a decade making digital payments boring, in the best sense. Tap to pay, scan a QR code, top up a prepaid line: no jargon, no friction, no need to understand what happens underneath. Now TrueMoney wants to apply the same trick to blockchain. The Ascend Money-backed fintech, Thailand’s leading […] The post TrueMoney and Fireblocks want Thai users on blockchain rails without…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Special address - 31st CGC Awards** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-15T07:02:16+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 31st CGC Awards, Kuala Lumpur, 11 August 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans les produits Adobe (09 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1140/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-09T00:00:00+00:00`, fetched `2026-09-15T12:31:09+00:00`
@@ -230,24 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **666ghj/MiroFish** — Score 8, observation — [Quelle](https://github.com/666ghj/MiroFish)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-15T06:34:49+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 https://mirofish.ai 简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals),…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-15T08:30:00.000+00:00`, fetched `2026-09-15T08:47:27+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Cisco warnt vor laufenden Angriffen auf eine kritische SQL-Injection-Lücke im Secure E-Mail Gateway. Updates stehen bereit.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
