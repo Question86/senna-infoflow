@@ -804,5 +804,23 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3968f27241a5712bac63"
+  },
+  {
+    "title": "Where in the world is the iPhone cheapest?",
+    "url": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-15T10:00:00+00:00",
+    "fetched_at": "2026-09-15T10:16:46+00:00",
+    "summary": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+    "matched_keywords": [],
+    "relevance_score": 3,
+    "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d37d0b80b1c8dd36c862"
   }
 ]

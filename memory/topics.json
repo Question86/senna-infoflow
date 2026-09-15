@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T09:59:23+00:00",
+  "generated_at": "2026-09-15T10:17:18+00:00",
   "topics": {
     "ai": [
       {
@@ -110,6 +110,13 @@
         "published_at": "2026-09-14T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards"
+      },
+      {
+        "title": "Where in the world is the iPhone cheapest?",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-15T10:00:00+00:00",
+        "relevance_score": 3,
+        "url": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "security": [
