@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T10:41:46+00:00_
+_Generiert: 2026-09-15T10:53:29+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-09-15T10:41:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nepal
+- **GDACS: Green flood alert in Kenya** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104159)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Kenya
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:162.179km) in Indonesia 14/09/2026 10:58 UTC, 330 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565203)
   - Quelle: GDACS
   - Zeit: ``
