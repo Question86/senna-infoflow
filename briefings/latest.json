@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T12:31:41+00:00",
-  "run_id": "2026-09-15T12:31:41+00:00",
+  "generated_at": "2026-09-15T12:48:46+00:00",
+  "run_id": "2026-09-15T12:48:46+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 1,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
-    "medium": 30,
+    "medium": 31,
     "observe": 29,
     "source_errors": 0
   },
@@ -50,6 +50,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9daddf74d67be9bb0adb"
+      },
+      {
+        "title": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288868-1032.html",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "source_type": "rss",
+        "published_at": "2026-09-15T12:20:00+00:00",
+        "fetched_at": "2026-09-15T12:48:15+00:00",
+        "summary": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Cyber-Sicherheitswarnung",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "f80a0286cc37919b9380"
       },
       {
         "title": "[NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation",
@@ -1396,6 +1432,42 @@
       "id": "9daddf74d67be9bb0adb"
     },
     {
+      "title": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288868-1032.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-09-15T12:20:00+00:00",
+      "fetched_at": "2026-09-15T12:48:15+00:00",
+      "summary": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "f80a0286cc37919b9380"
+    },
+    {
       "title": "[NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2715,52 +2787,29 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] MISP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3370",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288868-1032.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "source_type": "rss",
-      "published_at": "2026-09-15T12:06:31+00:00",
-      "fetched_at": "2026-09-15T12:31:09+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen, beliebigen Code auszuführen und Benutzer auf bösartige URLs umzuleiten.",
+      "published_at": "2026-09-15T12:20:00+00:00",
+      "fetched_at": "2026-09-15T12:48:15+00:00",
+      "summary": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5aac94810974ab03fec4"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-09T00:00:00+00:00",
-      "fetched_at": "2026-09-15T12:31:09+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
+        "Cyber-Sicherheitswarnung",
+        "Security",
         "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 18,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "watchgraph_reasons": [
-        "cyber_active_exploitation: Ivanti"
+        "cyber_active_exploitation: zero-day"
       ],
       "market_context": [
         "CRWD",
@@ -2771,73 +2820,7 @@
         "NET",
         "S"
       ],
-      "id": "6589a9699c3348837039"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Adobe (09 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1140/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-09T00:00:00+00:00",
-      "fetched_at": "2026-09-15T12:31:09+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7f4c012d001fc697d2b2"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Postfix (09 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1141/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-09T00:00:00+00:00",
-      "fetched_at": "2026-09-15T12:31:09+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "967524b179228b58d839"
-    },
-    {
-      "title": "Grab’s US$1.49B Atome deal signals a deeper race for SEA’s credit economy",
-      "url": "https://e27.co/grabs-us1-49b-atome-deal-signals-a-deeper-race-for-seas-credit-economy-20260915/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-15T12:11:48+00:00",
-      "fetched_at": "2026-09-15T12:31:09+00:00",
-      "summary": "Grab Holdings is done dabbling in consumer lending. The Nasdaq-listed superapp operator has announced that it will pay US$1.49 billion in cash for a controlling 60 per cent stake in Atome Financial, the buy now, pay later (BNPL) and digital lending arm of Advance Intelligence Group (AIGL). It is, by some distance, the biggest fintech […] The post Grab’s US$1.49B Atome deal signals a deeper race for SEA’s credit econ…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2dea1415df647462a38e"
+      "id": "f80a0286cc37919b9380"
     }
   ],
   "source_errors": [],

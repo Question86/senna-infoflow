@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T12:31:41+00:00_
+_Generated: 2026-09-15T12:48:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `60`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-15T12:31:41+00:00_
 - url: https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/
 - summary: Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shar…
 
-### 2. [NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation
+### 2. Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle
+- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
+- score: `18`
+- published: `2026-09-15T12:20:00+00:00`
+- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288868-1032.html
+- summary: Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle
+
+### 3. [NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-15T10:51:31+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Windows 11 (Secure Kernel Mode) ausnutzen, um seine Privilegien zu erhöhen.
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-15T09:16:31+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand auszulösen.
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (libgit2): Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-15T09:16:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Panniantong/Agent-Reach
 - source: GitHub Trending RSS All Languages Daily

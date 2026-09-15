@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T12:31:41+00:00_
+_Generiert: 2026-09-15T12:48:46+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+60 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shares sold off sharply, dragging technology-heavy indices from Tokyo to New York. Investors are weighing two overlapping […] The post The CLARITY Act vote could se…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle** — Score 18, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288868-1032.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-09-15T12:20:00+00:00`, fetched `2026-09-15T12:48:15+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-15T10:51:31+00:00`, fetched `2026-09-15T10:58:27+00:00`

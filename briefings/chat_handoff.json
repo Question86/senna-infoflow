@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-15T12:31:41+00:00",
+  "generated_at": "2026-09-15T12:48:46+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 1,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
-    "medium": 30,
+    "medium": 31,
     "observe": 29
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 19,
       "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
       "summary": "Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shar…",
+      "section": "medium"
+    },
+    {
+      "title": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-09-15T12:20:00+00:00",
+      "relevance_score": 18,
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288868-1032.html",
+      "summary": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322",
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand auszulösen.",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libgit2): Schwachstelle ermöglicht Denial of Service",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-15T09:16:31+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [hoch] MISP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [hoch] MISP: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3370",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T12:06:31+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen, beliebigen Code auszuführen und Benutzer auf bösartige URLs umzuleiten."
-      },
-      {
-        "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3362",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:26:32+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fleet ausnutzen, um Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [niedrig] Mattermost Server: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3361",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:26:31+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Mattermost Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[NEU] [niedrig] vllm: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:21:32+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[NEU] [mittel] GIMP Plugins: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3358",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:21:32+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial-of-Service-Zustand herbeizuführen."
-      }
-    ]
-  }
+  ]
 }
