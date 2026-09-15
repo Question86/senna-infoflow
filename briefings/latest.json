@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:31:58+00:00",
-  "run_id": "2026-09-15T14:31:58+00:00",
+  "generated_at": "2026-09-15T14:42:18+00:00",
+  "run_id": "2026-09-15T14:42:18+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 0,
@@ -3417,98 +3417,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
-      "url": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T09:49:31+00:00",
-      "fetched_at": "2026-09-15T14:31:30+00:00",
-      "summary": "AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…",
-      "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
-        "Content-Chance",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "b88f9b62218f3abb766c"
-    },
-    {
-      "title": "From vision to delivery - building Europe’s tokenised financial market",
-      "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:31:30+00:00",
-      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Deutsche Bundesbank’s Symposium on “Future of payments: trends and innovations in Germany and Europe”, Frankfurt am Main, 26 August 2026.",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "79d48acdec4071e16627"
-    },
-    {
-      "title": "Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-      "url": "https://www.bis.org/speeches/20260915-panel-remarks-about-european-economy-during-discussion-global-economic-outlook-world-economic-forum",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:31:30+00:00",
-      "summary": "Panel remarks by Ms Christine Lagarde, President of the European Central Bank, at the International Business Council of the World Economic Forum, Geneva, 19 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5cb998796d511ef822d8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
