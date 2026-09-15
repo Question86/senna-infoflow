@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T23:51:56+00:00",
-  "run_id": "2026-09-15T23:51:56+00:00",
+  "generated_at": "2026-09-15T23:57:15+00:00",
+  "run_id": "2026-09-15T23:57:15+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 86,
     "displayed_findings": 86,
     "high": 0,
@@ -3969,29 +3969,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ネット全体が乗っ取られるまで半年!? AI開発の減速をAnthropic CEOが提言",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2140906.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T03:44:56+00:00",
-      "fetched_at": "2026-09-15T23:51:25+00:00",
-      "summary": "ネット全体が乗っ取られるまで半年!? AI開発の減速をAnthropic CEOが提言",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "70d75d68b864eb6adcb7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
