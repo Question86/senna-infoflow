@@ -197,6 +197,29 @@
     "id": "2796644a4511143affc4"
   },
   {
+    "title": "[NEU] [hoch] ZScaler Client Connector: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3369",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T11:31:31+00:00",
+    "fetched_at": "2026-09-15T11:40:06+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in ZScaler Client Connector ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "994beea84ed05a365b52"
+  },
+  {
     "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3362",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1023,6 +1046,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "91f08c62cb477cbec7ff"
+  },
+  {
+    "title": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
+    "url": "https://kaden.watch.impress.co.jp/docs/news/2140739.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-15T04:56:57+00:00",
+    "fetched_at": "2026-09-15T11:40:06+00:00",
+    "summary": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "32de630fe5e0374c4648"
   },
   {
     "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",

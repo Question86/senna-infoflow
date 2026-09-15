@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T11:31:58+00:00",
+  "generated_at": "2026-09-15T11:40:42+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://jvn.jp/jp/JVN02049764/"
       },
       {
+        "title": "[NEU] [hoch] ZScaler Client Connector: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:31:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3369"
+      },
+      {
         "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-15T11:26:32+00:00",
@@ -182,13 +189,6 @@
         "published_at": "2026-09-15T11:26:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3359"
-      },
-      {
-        "title": "[NEU] [niedrig] vllm: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:21:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357"
       }
     ],
     "geopolitics": [
@@ -198,6 +198,13 @@
         "published_at": "2026-09-15T10:51:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348"
+      },
+      {
+        "title": "[NEU] [hoch] ZScaler Client Connector: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:31:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3369"
       },
       {
         "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -254,13 +261,6 @@
         "published_at": "2026-09-15T11:21:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3355"
-      },
-      {
-        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:16:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3354"
       }
     ],
     "general": [
@@ -305,6 +305,13 @@
         "published_at": "2026-09-15T04:04:12+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260915-01"
+      },
+      {
+        "title": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-15T04:56:57+00:00",
+        "relevance_score": 5,
+        "url": "https://kaden.watch.impress.co.jp/docs/news/2140739.html"
       },
       {
         "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
