@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T02:29:44+00:00_
+_Generiert: 2026-09-15T02:45:43+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+10 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data** — Score 15, observation — [Quelle](https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-15T02:30:13+00:00`, fetched `2026-09-15T02:45:12+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: OpenAI released GPT-6 Astra on September 3, and the number marketers should actually care about isn’t a reasoning score — it’s a stopwatch. In OpenAI’s own computer-use simulation, Astra finishes a task in roughly 40 minutes against about 75 minutes for its predecessor, GPT-5.6 Sol — nearly half the time for the same job. It […] The post GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99837984/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-15T10:00:00+09:00`, fetched `2026-09-15T01:10:20+00:00`
@@ -87,11 +96,20 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: カナデビア（旧日立造船）による溶接不良が約2万8000カ所見つかった阪神なんば線淀川橋梁の架け替え工事の完了が、予定よりも3年遅れて2034年度となることが分かった。鋼製部材の作り直しと再架設に加え、地中障害物の撤去が必要となり、時間がかかっている。溶接不良があった箇所の施工を手掛ける日本橋梁（大阪市）は...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/15/2000001472/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-15T01:09:50+00:00`, fetched `2026-09-15T02:45:12+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
