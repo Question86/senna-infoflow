@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T15:56:25+00:00_
+_Generiert: 2026-09-15T16:23:02+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+75 neue relevante Treffer. Stärkstes Signal: „AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Opening statement by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 15 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How Hong Kong solves tech’s hardest problem: the final mile to market** — Score 8, observation — [Quelle](https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-15T16:01:44+00:00`, fetched `2026-09-15T16:22:29+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: For many technology startups, the hardest part is not invention. It is everything that comes after. A breakthrough in a university lab, a working prototype, or even an early customer pilot may prove that a product can exist. It does not prove that a company can scale. To get there, founders need to pay customers, […] The post How Hong Kong solves tech’s hardest problem: the final mile to market appeared first on e27…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？** — Score 8, observation — [Quelle](https://gigazine.net/news/20260915-sunk-cost/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-15T12:32:12+00:00`, fetched `2026-09-15T15:37:33+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Amilo has completed its fourth acquisition in four years, folding Vietnam-based cross-border specialist SG Link into its network as it chases a bigger prize: becoming the operating layer for Southeast Asian merchants selling overseas. SG Link, now rebranded ShipX, connects sellers to more than 220 destinations and pools shipment volumes so smaller exporters can access freight rates […] The post Ecosystem Roundup: Am…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing** — Score 8, observation — [Quelle](https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-15T08:00:42+00:00`, fetched `2026-09-15T08:10:36+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
-  - Kurz: Southeast Asia’s e-wallet giants have spent a decade making digital payments boring, in the best sense. Tap to pay, scan a QR code, top up a prepaid line: no jargon, no friction, no need to understand what happens underneath. Now TrueMoney wants to apply the same trick to blockchain. The Ascend Money-backed fintech, Thailand’s leading […] The post TrueMoney and Fireblocks want Thai users on blockchain rails without…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans les produits Adobe (09 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1140/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
