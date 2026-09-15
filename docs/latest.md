@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T18:52:48+00:00_
+_Generiert: 2026-09-15T18:58:07+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+77 neue relevante Treffer. Stärkstes Signal: „AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 思考軟體科技｜電子柵欄 - SQL Injection
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **東京で27年無人タクシー運行、既存の運転手はどうなる？--失業懸念に川鍋会長が回答** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252621/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-15T06:29:51+00:00`, fetched `2026-09-15T18:57:37+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: GOと米Waymo、日本交通は同日、2027年中に東京で完全無人タクシーの商用運行を目指すと発表した。段階的に100台規模で運行する計画で、正式な開始時期は安全性の確認と必要な許認可の取得後に決まる。 川鍋氏によると、ドライバーには年間10％弱の入れ替わりがある。今後無人タクシーが普及したとしても、採用を止めるこ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-14T21:49:16+00:00`, fetched `2026-09-15T00:32:50+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: For many technology startups, the hardest part is not invention. It is everything that comes after. A breakthrough in a university lab, a working prototype, or even an early customer pilot may prove that a product can exist. It does not prove that a company can scale. To get there, founders need to pay customers, […] The post How Hong Kong solves tech’s hardest problem: the final mile to market appeared first on e27…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？** — Score 8, observation — [Quelle](https://gigazine.net/news/20260915-sunk-cost/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-15T12:32:12+00:00`, fetched `2026-09-15T15:37:33+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: PCの購入費用やAIの利用量などを基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されています。費用だけでなく、そのPCに収まるAIモデルや生成速度、クラウドモデルとの能力比較もまとめて確認できます。 Sunk Cost https://sunkcost.ai/ Sunk Costの画面上部には、PCの機...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ecosystem Roundup: Amilo’s fourth buyout in four years bets on cross-border shipping** — Score 8, observation — [Quelle](https://e27.co/ecosystem-roundup-amilos-fourth-buyout-in-four-years-bets-on-cross-border-shipping-20260915/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
