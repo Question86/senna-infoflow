@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T14:21:27+00:00",
+  "generated_at": "2026-09-15T14:31:58+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-15T09:49:31+00:00",
+        "relevance_score": 23,
+        "url": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents"
+      },
       {
         "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
         "source": "e27 Asia Startup and Tech Feed",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/Panniantong/Agent-Reach"
-      },
-      {
-        "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-09-09T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/"
       }
     ],
     "economy": [
@@ -119,6 +119,13 @@
         "url": "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach"
       },
       {
+        "title": "From vision to delivery - building Europe’s tokenised financial market",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market"
+      },
+      {
         "title": "Central banks on-chain",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-15T00:00:00+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-09-15T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference"
-      },
-      {
-        "title": "In our time",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-15T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20260915-our-time"
       }
     ],
     "security": [
