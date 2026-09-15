@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T09:37:20+00:00_
+_Generiert: 2026-09-15T09:47:35+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+36 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-15 04:52:26 UTC 2026-09-15 04:52:26 UTC at epicenter Location 21.581°S 170.092°E Depth 98.74 km (61.35 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Ecosystem Roundup: Amilo’s fourth buyout in four years bets on cross-border shipping** — Score 8, observation — [Quelle](https://e27.co/ecosystem-roundup-amilos-fourth-buyout-in-four-years-bets-on-cross-border-shipping-20260915/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-15T09:40:15+00:00`, fetched `2026-09-15T09:47:04+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: Amilo has completed its fourth acquisition in four years, folding Vietnam-based cross-border specialist SG Link into its network as it chases a bigger prize: becoming the operating layer for Southeast Asian merchants selling overseas. SG Link, now rebranded ShipX, connects sellers to more than 220 destinations and pools shipment volumes so smaller exporters can access freight rates […] The post Ecosystem Roundup: Am…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing** — Score 8, observation — [Quelle](https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-15T08:00:42+00:00`, fetched `2026-09-15T08:10:36+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Microsoft hat ungeplante Updates für Windows außer der Reihe veröffentlicht. Sie stopfen Sicherheitslecks und beheben Probleme.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The SaaSpocalypse will be selective** — Score 7, observation — [Quelle](https://e27.co/the-saaspocalypse-will-be-selective-20260912/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-15T02:00:53+00:00`, fetched `2026-09-15T02:01:25+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Every AI lab telling you software is about to write itself runs its company on Slack. These are the people closest to the frontier. They say agents will soon build anything you can describe. And yet they haven’t replaced their own chat app. Or their CRM. Or their payroll. If “just build it yourself” made […] The post The SaaSpocalypse will be selective appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設** — Score 7, observation — [Quelle](https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
