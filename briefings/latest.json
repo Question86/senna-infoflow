@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:08:03+00:00",
-  "run_id": "2026-09-16T12:08:03+00:00",
+  "generated_at": "2026-09-16T12:34:24+00:00",
+  "run_id": "2026-09-16T12:34:24+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 91
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "new_relevant_findings": 1,
+    "today_file_total": 91,
+    "displayed_findings": 91,
     "high": 0,
-    "medium": 37,
+    "medium": 38,
     "observe": 53,
     "source_errors": 0
   },
@@ -287,6 +287,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2896208f87a79eeca20d"
+      },
+      {
+        "title": "M 4.9 - 64 km E of Kinablangan, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thti",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-16T12:29:25.040+00:00",
+        "fetched_at": "2026-09-16T12:33:50+00:00",
+        "summary": "Time 2026-09-16 11:50:12 UTC 2026-09-16 11:50:12 UTC at epicenter Location 7.751°N 127.133°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "1b4beb828aebfce7a5f3"
       },
       {
         "title": "QNDにおける複数の脆弱性",
@@ -2402,6 +2439,43 @@
       "id": "2896208f87a79eeca20d"
     },
     {
+      "title": "M 4.9 - 64 km E of Kinablangan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thti",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T12:29:25.040+00:00",
+      "fetched_at": "2026-09-16T12:33:50+00:00",
+      "summary": "Time 2026-09-16 11:50:12 UTC 2026-09-16 11:50:12 UTC at epicenter Location 7.751°N 127.133°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1b4beb828aebfce7a5f3"
+    },
+    {
       "title": "QNDにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
@@ -4253,94 +4327,41 @@
   ],
   "new_findings": [
     {
-      "title": "Multiples vulnérabilités dans Moodle (10 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1155/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "M 4.9 - 64 km E of Kinablangan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thti",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-16T12:07:33+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
+      "published_at": "2026-09-16T12:29:25.040+00:00",
+      "fetched_at": "2026-09-16T12:33:50+00:00",
+      "summary": "Time 2026-09-16 11:50:12 UTC 2026-09-16 11:50:12 UTC at epicenter Location 7.751°N 127.133°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "10452b47f8d5b6897f31"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (10 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1156/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-16T12:07:33+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "48669898a556b62d0531"
-    },
-    {
-      "title": "Multiples vulnérabilités dans MongoDB Server (10 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1157/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-16T12:07:33+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d8ea1dd2dec8c1d257a"
-    },
-    {
-      "title": "人間はどの意思決定を手放せるのか",
-      "url": "https://speakerdeck.com/kawasima/ningen-ha-dono-ishi-kettei-o-tebanaseru-no-ka",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T09:53:29+00:00",
-      "fetched_at": "2026-09-16T12:07:33+00:00",
-      "summary": "技術的負債に向き合うConference 2026 の発表資料です。 ぜひ最後までお読みください。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8f35b108249ef3d6520d"
+      "id": "1b4beb828aebfce7a5f3"
     }
   ],
   "source_errors": [],
