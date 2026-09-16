@@ -1,6 +1,6 @@
 # Economic Evidence Candidates
 
-Generated: `2026-09-16T18:06:42+00:00`
+Generated: `2026-09-16T18:26:46+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
