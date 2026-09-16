@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T02:27:16+00:00_
+_Generiert: 2026-09-16T02:40:54+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Entering Taiwan: A practical resource map for foreign founders** — Score 7, observation — [Quelle](https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T02:30:32+00:00`, fetched `2026-09-16T02:40:22+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0)
+  - Kurz: Foreign founders entering Taiwan should organise their research around decisions, not a long directory of programmes. The useful question is not simply what support exists, but which resource removes the next obstacle to testing a business. As the operator of EZStartup, I approach this as a sequencing problem: validate the commercial opportunity, identify the appropriate […] The post Entering Taiwan: A practical res…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers** — Score 7, observation — [Quelle](https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-16T02:00:48+00:00`, fetched `2026-09-16T02:26:38+00:00`
@@ -144,7 +153,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f1d76b7e710>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
