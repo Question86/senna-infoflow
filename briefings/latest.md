@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T22:03:54+00:00_
+_Generiert: 2026-09-16T22:19:38+00:00_
 
 ## Kurzlage
 
-112 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+114 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
