@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T10:41:36+00:00",
+  "generated_at": "2026-09-16T10:52:24+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,27 @@
         "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380"
+      },
+      {
+        "title": "[NEU] [mittel] Camunda: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3379"
+      },
+      {
         "title": "Economic activity, prices, and monetary policy in Japan",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-16T00:00:00+00:00",
@@ -196,30 +217,16 @@
         "published_at": "2026-09-16T08:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html"
-      },
-      {
-        "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-16T06:00:45+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/"
-      },
-      {
-        "title": "Monetary Policy Decision",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-16T00:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision"
-      },
-      {
-        "title": "Listening to households - expectations, behaviour and monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-16T00:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.bis.org/speeches/20260916-listening-households-expectations-behaviour-and-monetary-policy"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
         "source": "JVN Japan Vulnerability Notes",
@@ -242,39 +249,46 @@
         "url": "https://jvn.jp/jp/JVN45281119/"
       },
       {
+        "title": "[UPDATE] [hoch] BusyBox: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2115"
+      },
+      {
+        "title": "[UPDATE] [hoch] BusyBox: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0612"
+      },
+      {
+        "title": "[UPDATE] [hoch] BusyBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-2028"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380"
+      },
+      {
+        "title": "[NEU] [mittel] Camunda: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3379"
+      },
+      {
         "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:23:49+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287"
-      },
-      {
-        "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T07:36:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3102"
-      },
-      {
-        "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-16T07:37:00.000+00:00",
-        "relevance_score": 13,
-        "url": "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html"
-      },
-      {
-        "title": "Oracle patcht mehr als 650 Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-16T10:19:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html"
-      },
-      {
-        "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-16T09:39:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html"
       }
     ],
     "general": [

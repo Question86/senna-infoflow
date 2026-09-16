@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T10:41:36+00:00_
+_Generated: 2026-09-16T10:52:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `52`
+- findings: `59`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-16T10:41:36+00:00_
 - url: https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/
 - summary: Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the re…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）
+### 3. [NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-16T10:51:32+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378
+- summary: Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-16T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU93448623/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能
-- source: Hatena Bookmark Hotentry IT
-- score: `16`
-- published: `2026-09-16T02:49:52+00:00`
-- url: https://gigazine.net/news/20260916-system-one-jev/
-- summary: AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的...
 
 ### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
 - source: heise Security Alerts
