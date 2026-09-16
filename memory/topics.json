@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T11:30:53+00:00",
+  "generated_at": "2026-09-16T11:40:47+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
       },
       {
+        "title": "[NEU] [hoch] Pixel Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:31:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:53:18+00:00",
@@ -133,18 +140,11 @@
         "url": "https://jvn.jp/jp/JVN45281119/"
       },
       {
-        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:32+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411"
       }
     ],
     "geopolitics": [
@@ -177,6 +177,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
       },
       {
+        "title": "[NEU] [hoch] Pixel Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:31:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:51:32+00:00",
@@ -184,39 +191,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
       },
       {
-        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:32+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411"
       },
       {
-        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3409"
       },
       {
-        "title": "[NEU] [hoch] Oracle Financial Services Applications: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Ghostscript: Schwachstelle ermöglicht Codeausführung und Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3398"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3408"
       },
       {
-        "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Arista EOS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3399"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3400"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3410"
       }
     ],
     "economy": [
