@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T15:38:24+00:00",
-  "run_id": "2026-09-16T15:38:24+00:00",
+  "generated_at": "2026-09-16T15:44:14+00:00",
+  "run_id": "2026-09-16T15:44:14+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 97,
     "displayed_findings": 97,
     "high": 0,
@@ -4647,30 +4647,7 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-16T16:00:00+00:00",
-      "fetched_at": "2026-09-16T15:37:52+00:00",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "526ced969bee4e12b151"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
