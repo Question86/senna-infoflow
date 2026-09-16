@@ -1,21 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-16T11:03:15Z",
+  "generated_at": "2026-09-16T11:33:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 11,
-      "strong": 13,
-      "watch": 12,
-      "quiet": 4
+      "krass": 21,
+      "strong": 16,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
       "krass": 5,
-      "strong": 19,
-      "watch": 12,
-      "quiet": 4
+      "strong": 32,
+      "watch": 3
     }
   },
   "top_dynamics": [
@@ -24,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2115",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:51:34+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -49,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0612",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:51:34+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -74,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-2028",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:51:34+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -99,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:23:49+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -124,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3102",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T07:36:31+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -149,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:56:31+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "security",
         "infra"
@@ -176,7 +174,7 @@
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:15+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -200,7 +198,7 @@
       "url": "https://jvn.jp/jp/JVN45281119/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -224,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:56:31+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -248,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:51:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -272,7 +270,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T00:26:53+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -297,7 +295,7 @@
       "url": "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-16T07:37:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -318,11 +316,271 @@
       "summary": "Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren."
     },
     {
+      "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:11:32+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Communications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Financial Services Applications: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3398",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Financial Services Applications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3399",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Enterprise Manager ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3400",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle E-Business Suite ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:06:32+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Speicher zu korrumpieren, einen Denial of Service zu verursachen oder Code auszuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3389",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:06:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle VM VirtualBox ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3388",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:06:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Utilities Applications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3391",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:06:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Database Server ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Commerce: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3390",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:06:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, auth",
+        "security high-signal: rce, auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Commerce ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
       "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:51:33+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -348,7 +606,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:53:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -373,7 +631,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:51:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -398,7 +656,7 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T09:00:00+09:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -423,7 +681,7 @@
       "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-16T10:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -449,7 +707,7 @@
       "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:40:24+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -475,7 +733,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 89.38,
+      "age_days": 89.4,
       "topics": [
         "ai"
       ],
@@ -500,11 +758,67 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: supply, chain",
+        "high terms: rce, 10, auth",
+        "security high-signal: rce, 10, auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T11:06:32+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, auth",
+        "security high-signal: code, auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Code auszuführen."
+    },
+    {
       "title": "Oracle patcht mehr als 650 Sicherheitslücken",
       "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-16T10:19:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -529,7 +843,7 @@
       "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-16T09:39:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security",
         "macro"
@@ -555,7 +869,7 @@
       "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:30:32+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -580,7 +894,7 @@
       "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:05:17+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -602,11 +916,38 @@
       "summary": "The digital asset market stumbled through a bruising 24-hour stretch as two outside forces collided with a market already stretched by borrowed money. Bitcoin lost 3.12 per cent to trade at US$75,697.61. Ethereum fell 4.49 per cent to US$2,399.07. Both underperformed a flat broader market. A procedural vote in the Uni…"
     },
     {
+      "title": "Taiwan bets on Gen Z founders to move beyond its chip-supplier image",
+      "url": "https://e27.co/taiwan-bets-on-gen-z-founders-to-move-beyond-its-chip-supplier-image-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T10:58:20+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Taipei’s newest startup gathering didn’t pretend Gen Z needed a seat at the kids’ table. It gave them the microphone instead, and put YouTube’s and Twitch’s co-founders in the audience listening back. The inaugural Boba Tech Summit ran September 9 and 10 in Taipei, pulling in more than 300 attendees from over 15 count…"
+    },
+    {
       "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
       "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:00:48+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -633,7 +974,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T07:28:25.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -658,7 +999,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T06:11:28.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -683,7 +1024,7 @@
       "url": "https://github.com/Homebrew/BrewUI",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-16T06:34:10+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -703,332 +1044,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, updat…"
-    },
-    {
-      "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T04:02:44.040+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-16 03:45:03 UTC 2026-09-16 03:45:03 UTC at epicenter Location 14.029°N 92.454°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 45 km NNW of Duaca, Venezuela",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T02:21:22.040+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-16 01:37:17 UTC 2026-09-16 01:37:17 UTC at epicenter Location 10.684°N 69.278°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.7 - 159 km N of Caluula, Somalia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T00:10:55.040+00:00",
-      "age_days": 0.45,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "The institutional form of independent central banks - from history to contemporary challenges",
-      "url": "https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026."
-    },
-    {
-      "title": "Monetary Policy Decision",
-      "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 2 September 2026."
-    },
-    {
-      "title": "Economic activity, prices, and monetary policy in Japan",
-      "url": "https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local"
-      ],
-      "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026."
-    },
-    {
-      "title": "M 4.6 - 23 km SW of Sipí, Colombia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thse",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T06:45:35.040+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-16 06:18:06 UTC 2026-09-16 06:18:06 UTC at epicenter Location 4.495°N 76.782°W Depth 71.01 km (44.12 mi)"
-    },
-    {
-      "title": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "published_at": "2026-09-16T08:15:22+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45"
-    },
-    {
-      "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tht8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T10:10:04.040+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-16 09:41:47 UTC 2026-09-16 09:41:47 UTC at epicenter Location 15.066°S 167.016°E Depth 60.69 km (37.71 mi)"
-    },
-    {
-      "title": "The Capital-Driven Rise of Modern Business Suites",
-      "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T06:17:41+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital + brand” growth narr…"
-    },
-    {
-      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-15T07:47:07+00:00",
-      "age_days": 1.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1"
-    },
-    {
-      "title": "The AI boom won’t help you scale. Your unit economics will",
-      "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T03:00:41+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the real story of Southeast Asia’s […] The post The AI boom won’t…"
-    },
-    {
-      "title": "M 5.1 - 172 km ESE of Saipan, Northern Mariana Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsx",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T08:57:55.588+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Time 2026-09-16 08:37:00 UTC 2026-09-16 08:37:00 UTC at epicenter Location 14.389°N 147.114°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] BusyBox: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
