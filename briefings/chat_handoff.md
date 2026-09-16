@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T13:45:36+00:00_
+_Generated: 2026-09-16T13:51:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `93`
+- findings: `94`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-16T13:45:36+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402
 - summary: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
 
-### 2. The Capital-Driven Rise of Modern Business Suites
+### 2. Code scanning AI Scan no longer requires CodeQL default setup
+- source: GitHub Changelog Atom
+- score: `22`
+- published: `2026-09-16T13:26:06+00:00`
+- url: https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup
+- summary: You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appear…
+
+### 3. The Capital-Driven Rise of Modern Business Suites
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-09-16T06:17:41+00:00`
 - url: https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/
 - summary: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook…
 
-### 3. [NEU] [hoch] n8n: Mehrere Schwachstellen
+### 4. [NEU] [hoch] n8n: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-09-16T11:06:32+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393
 - summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Code auszuführen.
-
-### 4. [NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-09-16T10:56:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Se…
 
 ### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
 - source: heise Security Alerts
