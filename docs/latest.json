@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:43:14+00:00",
-  "run_id": "2026-09-16T09:43:14+00:00",
+  "generated_at": "2026-09-16T09:49:25+00:00",
+  "run_id": "2026-09-16T09:49:25+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 3,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 7,
-    "observe": 35,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -253,6 +253,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bb0721e248a25eeb933f"
+      },
+      {
+        "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+        "url": "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-16T09:47:23+00:00",
+        "fetched_at": "2026-09-16T09:48:53+00:00",
+        "summary": "Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US$15.7 million) to the island nation. This is double the amount it pledged when it […] The post Plaud doubles its Singapore bet to US$15.7M.…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "951d479da0632802ef89"
       },
       {
         "title": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -824,6 +845,26 @@
         "id": "026ddccb1bf43e776e87"
       },
       {
+        "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
+        "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-16T09:39:00.000+00:00",
+        "fetched_at": "2026-09-16T09:48:53+00:00",
+        "summary": "In aktuellen Versionen von IBMs Middleware MQ haben die Entwickler mehrere Schwachstellen geschlossen. Bislang gibt es keine dokumentierten Attacken.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fa26e1895d23f105aec5"
+      },
+      {
         "title": "Entering Taiwan: A practical resource map for foreign founders",
         "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -864,6 +905,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "718346249cc2871a79a1"
+      },
+      {
+        "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+        "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-16T09:44:54+00:00",
+        "fetched_at": "2026-09-16T09:48:53+00:00",
+        "summary": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c10010bb5a7ccc6b08e2"
       },
       {
         "title": "デジタル庁調達手続マニュアルを更新しました",
@@ -1276,6 +1337,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bb0721e248a25eeb933f"
+    },
+    {
+      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "url": "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T09:47:23+00:00",
+      "fetched_at": "2026-09-16T09:48:53+00:00",
+      "summary": "Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US$15.7 million) to the island nation. This is double the amount it pledged when it […] The post Plaud doubles its Singapore bet to US$15.7M.…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "951d479da0632802ef89"
     },
     {
       "title": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -1847,6 +1929,26 @@
       "id": "026ddccb1bf43e776e87"
     },
     {
+      "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
+      "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-16T09:39:00.000+00:00",
+      "fetched_at": "2026-09-16T09:48:53+00:00",
+      "summary": "In aktuellen Versionen von IBMs Middleware MQ haben die Entwickler mehrere Schwachstellen geschlossen. Bislang gibt es keine dokumentierten Attacken.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fa26e1895d23f105aec5"
+    },
+    {
       "title": "Entering Taiwan: A practical resource map for foreign founders",
       "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1887,6 +1989,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "718346249cc2871a79a1"
+    },
+    {
+      "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+      "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T09:44:54+00:00",
+      "fetched_at": "2026-09-16T09:48:53+00:00",
+      "summary": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c10010bb5a7ccc6b08e2"
     },
     {
       "title": "デジタル庁調達手続マニュアルを更新しました",
@@ -2077,85 +2199,65 @@
   ],
   "new_findings": [
     {
-      "title": "Bank resilience and sustainable growth - two sides of the same coin",
-      "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "url": "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:42:42+00:00",
-      "summary": "Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.",
+      "published_at": "2026-09-16T09:47:23+00:00",
+      "fetched_at": "2026-09-16T09:48:53+00:00",
+      "summary": "Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US$15.7 million) to the island nation. This is double the amount it pledged when it […] The post Plaud doubles its Singapore bet to US$15.7M.…",
       "matched_keywords": [
-        "banking",
-        "Macro/Policy"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b76813ec32f300cf6d50"
+      "id": "951d479da0632802ef89"
     },
     {
-      "title": "Monetary Policy Decision",
-      "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision",
-      "source": "BIS Central Bankers Speeches",
+      "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
+      "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:42:42+00:00",
-      "summary": "Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 2 September 2026.",
+      "published_at": "2026-09-16T09:39:00.000+00:00",
+      "fetched_at": "2026-09-16T09:48:53+00:00",
+      "summary": "In aktuellen Versionen von IBMs Middleware MQ haben die Entwickler mehrere Schwachstellen geschlossen. Bislang gibt es keine dokumentierten Attacken.",
       "matched_keywords": [
-        "Macro/Policy"
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region canada: Canada, Ottawa, Bank of Canada (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "16553ad39773cc9913e3"
-    },
-    {
-      "title": "The institutional form of independent central banks - from history to contemporary challenges",
-      "url": "https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:42:42+00:00",
-      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: London (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e262d3aa3aed77ba8113"
-    },
-    {
-      "title": "The economic outlook and some comments on my policy communication",
-      "url": "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:42:42+00:00",
-      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Reuters NEXT Newsmaker Interview, Washington DC, 3 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "026ddccb1bf43e776e87"
+      "id": "fa26e1895d23f105aec5"
+    },
+    {
+      "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+      "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T09:44:54+00:00",
+      "fetched_at": "2026-09-16T09:48:53+00:00",
+      "summary": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c10010bb5a7ccc6b08e2"
     }
   ],
   "source_errors": [],
