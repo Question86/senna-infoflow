@@ -202,6 +202,27 @@
     "id": "3ed929c0d0321a70ad39"
   },
   {
+    "title": "Economic activity, prices, and monetary policy in Japan",
+    "url": "https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-16T09:32:37+00:00",
+    "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bb0721e248a25eeb933f"
+  },
+  {
     "title": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html",
     "source": "ECB Open Market Operations and Communication",

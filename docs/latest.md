@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T09:21:39+00:00_
+_Generiert: 2026-09-16T09:33:08+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+38 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
   - Kurz: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Economic activity, prices, and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-16T09:32:37+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
+  - Kurz: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年熊本地震に関する対応状況について（9月16日）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び** — Score 5, observation — [Quelle](https://corp.helpfeel.com/news/news-20260916-1)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T06:39:20+00:00`, fetched `2026-09-16T07:44:44+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）が提供する画像共有サービス「Gyazo」において、第三者による不正アクセスが発生し、ユーザー情報およびアップロードされた画像に関するメタデータの一部が外部に漏えいしたことを確認いたしました。 現在、不正アクセスに利用された経路...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
