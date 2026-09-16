@@ -2604,5 +2604,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e105645e33e1b7c84e2a"
+  },
+  {
+    "title": "SCIM user responses now include a profileUrl attribute",
+    "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-16T20:19:58+00:00",
+    "fetched_at": "2026-09-16T21:14:01+00:00",
+    "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching… The post SCIM user responses now include a profileUrl attribute appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ad3fa9becfab1167d7d4"
   }
 ]
