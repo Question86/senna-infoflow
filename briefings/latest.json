@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T07:51:14+00:00",
-  "run_id": "2026-09-16T07:51:14+00:00",
+  "generated_at": "2026-09-16T07:56:48+00:00",
+  "run_id": "2026-09-16T07:56:48+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -1759,52 +1759,7 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-16T07:37:00.000+00:00",
-      "fetched_at": "2026-09-16T07:50:46+00:00",
-      "summary": "Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.",
-      "matched_keywords": [
-        "GitHub Actions",
-        "Security"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "GitHub Actions (+6.2); Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3ed929c0d0321a70ad39"
-    },
-    {
-      "title": "Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses",
-      "url": "https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-16T07:45:46+00:00",
-      "fetched_at": "2026-09-16T07:50:46+00:00",
-      "summary": "Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is one example: barely two years old, it already says more than 70 per cent of its […] The post Cambodia’s Newwave wins CIFC backing to build AI tools for regional…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ff2c8c1144d6f7b536f1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
