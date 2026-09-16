@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T15:29:12+00:00",
+  "generated_at": "2026-09-16T15:38:24+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://gigazine.net/news/20260916-system-one-jev/"
       },
       {
+        "title": "Helping older adults use AI in everyday life",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-16T16:00:00+00:00",
+        "relevance_score": 15,
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+      },
+      {
         "title": "M 5.0 - 5 km NE of Mitsukaidō, Japan",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-16T15:23:21.698+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-16T07:45:46+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/"
-      },
-      {
-        "title": "Reimagining advertising with AI",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-16T13:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://openai.com/index/reimagining-advertising-with-ai"
       }
     ],
     "security": [

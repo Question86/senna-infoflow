@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T15:29:12+00:00_
+_Generiert: 2026-09-16T15:38:24+00:00_
 
 ## Kurzlage
 
-96 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+97 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -83,6 +83,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Helping older adults use AI in everyday life** — Score 15, observation — [Quelle](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-16T16:00:00+00:00`, fetched `2026-09-16T15:37:52+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0)
+  - Kurz: OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 5 km NE of Mitsukaidō, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thv6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
