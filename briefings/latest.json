@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:33:08+00:00",
-  "run_id": "2026-09-16T09:33:08+00:00",
+  "generated_at": "2026-09-16T09:43:14+00:00",
+  "run_id": "2026-09-16T09:43:14+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 4,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
     "medium": 7,
-    "observe": 31,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -451,6 +451,27 @@
         "id": "6e60a752e911972784ed"
       },
       {
+        "title": "Bank resilience and sustainable growth - two sides of the same coin",
+        "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "fetched_at": "2026-09-16T09:42:42+00:00",
+        "summary": "Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.",
+        "matched_keywords": [
+          "banking",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b76813ec32f300cf6d50"
+      },
+      {
         "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -722,6 +743,46 @@
         "id": "cf7b1837feafcc52a5f3"
       },
       {
+        "title": "The institutional form of independent central banks - from history to contemporary challenges",
+        "url": "https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "fetched_at": "2026-09-16T09:42:42+00:00",
+        "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: London (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e262d3aa3aed77ba8113"
+      },
+      {
+        "title": "Monetary Policy Decision",
+        "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "fetched_at": "2026-09-16T09:42:42+00:00",
+        "summary": "Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 2 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region canada: Canada, Ottawa, Bank of Canada (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "16553ad39773cc9913e3"
+      },
+      {
         "title": "Does the iPhone show us which industries AI will destroy?",
         "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -741,6 +802,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "19bd897315ea7ce5d6c0"
+      },
+      {
+        "title": "The economic outlook and some comments on my policy communication",
+        "url": "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "fetched_at": "2026-09-16T09:42:42+00:00",
+        "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Reuters NEXT Newsmaker Interview, Washington DC, 3 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "026ddccb1bf43e776e87"
       },
       {
         "title": "Entering Taiwan: A practical resource map for foreign founders",
@@ -1393,6 +1474,27 @@
       "id": "6e60a752e911972784ed"
     },
     {
+      "title": "Bank resilience and sustainable growth - two sides of the same coin",
+      "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b76813ec32f300cf6d50"
+    },
+    {
       "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1664,6 +1766,46 @@
       "id": "cf7b1837feafcc52a5f3"
     },
     {
+      "title": "The institutional form of independent central banks - from history to contemporary challenges",
+      "url": "https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e262d3aa3aed77ba8113"
+    },
+    {
+      "title": "Monetary Policy Decision",
+      "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 2 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region canada: Canada, Ottawa, Bank of Canada (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "16553ad39773cc9913e3"
+    },
+    {
       "title": "Does the iPhone show us which industries AI will destroy?",
       "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1683,6 +1825,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "19bd897315ea7ce5d6c0"
+    },
+    {
+      "title": "The economic outlook and some comments on my policy communication",
+      "url": "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Reuters NEXT Newsmaker Interview, Washington DC, 3 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "026ddccb1bf43e776e87"
     },
     {
       "title": "Entering Taiwan: A practical resource map for foreign founders",
@@ -1915,25 +2077,85 @@
   ],
   "new_findings": [
     {
-      "title": "Economic activity, prices, and monetary policy in Japan",
-      "url": "https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan",
+      "title": "Bank resilience and sustainable growth - two sides of the same coin",
+      "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:32:37+00:00",
-      "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.",
       "matched_keywords": [
-        "APAC Trend Radar",
+        "banking",
         "Macro/Policy"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bb0721e248a25eeb933f"
+      "id": "b76813ec32f300cf6d50"
+    },
+    {
+      "title": "Monetary Policy Decision",
+      "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 2 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region canada: Canada, Ottawa, Bank of Canada (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "16553ad39773cc9913e3"
+    },
+    {
+      "title": "The institutional form of independent central banks - from history to contemporary challenges",
+      "url": "https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e262d3aa3aed77ba8113"
+    },
+    {
+      "title": "The economic outlook and some comments on my policy communication",
+      "url": "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T09:42:42+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Reuters NEXT Newsmaker Interview, Washington DC, 3 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "026ddccb1bf43e776e87"
     }
   ],
   "source_errors": [],
