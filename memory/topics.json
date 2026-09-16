@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T10:57:47+00:00",
+  "generated_at": "2026-09-16T11:08:38+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/"
       },
       {
+        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:32+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:56:31+00:00",
@@ -170,56 +177,56 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
       },
       {
+        "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3389"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3388"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3391"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Commerce: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3390"
+      },
+      {
         "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:56:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381"
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380"
-      },
-      {
-        "title": "[NEU] [mittel] Camunda: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3379"
-      },
-      {
-        "title": "Economic activity, prices, and monetary policy in Japan",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-16T00:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan"
-      },
-      {
-        "title": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-09-16T08:15:22+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html"
-      },
-      {
-        "title": "Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-16T07:45:46+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/"
-      },
-      {
-        "title": "Playing both sides of the U.S.-China AI “Cold War”",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-09-16T10:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:32+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393"
+      },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -263,32 +270,25 @@
         "url": "https://jvn.jp/jp/JVN45281119/"
       },
       {
-        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+        "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:56:31+00:00",
+        "published_at": "2026-09-16T11:06:32+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392"
       },
       {
-        "title": "[UPDATE] [hoch] BusyBox: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:34+00:00",
+        "published_at": "2026-09-16T11:06:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2115"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3389"
       },
       {
-        "title": "[UPDATE] [hoch] BusyBox: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:34+00:00",
+        "published_at": "2026-09-16T11:06:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0612"
-      },
-      {
-        "title": "[UPDATE] [hoch] BusyBox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:34+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-2028"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3388"
       }
     ],
     "github": [
