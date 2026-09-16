@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-16T04:03:48Z_
+_Generated: 2026-09-16T04:28:08Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-16T12:00:15+09:00` / age_days `0.04`
+- Published: `2026-09-16T12:00:15+09:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-16T12:00:00+09:00` / age_days `0.04`
+- Published: `2026-09-16T12:00:00+09:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-16T00:26:53+00:00` / age_days `0.15`
+- Published: `2026-09-16T00:26:53+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-16T09:00:00+09:00` / age_days `0.17`
+- Published: `2026-09-16T09:00:00+09:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `89.09`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `89.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 89.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,27 +62,47 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-16T02:30:32+00:00` / age_days `0.06`
+- Published: `2026-09-16T02:30:32+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
 - Quelle: https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/
 
+### Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-09-16T04:05:17+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/
+
 ### Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-16T02:00:48+00:00` / age_days `0.09`
+- Published: `2026-09-16T02:00:48+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: auth, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/
 
+### M 5.0 - 60 km SSW of Ocós, Guatemala
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-16T04:02:44.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz
+
 ### M 4.5 - 45 km NNW of Duaca, Venezuela
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-16T02:21:22.040+00:00` / age_days `0.07`
+- Published: `2026-09-16T02:21:22.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-16T00:10:55.040+00:00` / age_days `0.16`
+- Published: `2026-09-16T00:10:55.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” —
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-15T07:47:07+00:00` / age_days `0.84`
+- Published: `2026-09-15T07:47:07+00:00` / age_days `0.86`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://pc.watch.impress.co.jp/docs/news/2141086.html
-
-### The AI boom won’t help you scale. Your unit economics will
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `9.0`
-- Published: `2026-09-16T03:00:41+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/
-
-### AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-09-15T21:35:20+00:00` / age_days `0.27`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/
 
 END OF DOCUMENT
