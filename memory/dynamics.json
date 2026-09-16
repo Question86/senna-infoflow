@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-16T15:33:08Z",
+  "generated_at": "2026-09-16T15:46:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -20,7 +20,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:31:31+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -45,7 +45,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3385",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:46:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3408",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:36:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3406",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:31:31+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:23:49+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3102",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T07:36:31+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:56:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security",
         "infra"
@@ -273,7 +273,7 @@
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:15+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -297,7 +297,7 @@
       "url": "https://jvn.jp/jp/JVN45281119/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:00+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -321,7 +321,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:36:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -345,7 +345,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:56:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -393,7 +393,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T00:26:53+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
@@ -418,7 +418,7 @@
       "url": "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-16T07:37:00.000+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security"
@@ -443,7 +443,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2984",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:46:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -469,7 +469,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3409",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:36:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -495,7 +495,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3410",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:36:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -521,7 +521,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:11:32+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -547,7 +547,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:11:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -573,7 +573,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3398",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:11:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -599,7 +599,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3399",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:11:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -625,7 +625,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3400",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:11:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -807,7 +807,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:53:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -857,7 +857,7 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T09:00:00+09:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -882,7 +882,7 @@
       "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-16T10:00:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -908,7 +908,7 @@
       "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:40:24+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -963,7 +963,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T11:11:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security",
@@ -993,7 +993,7 @@
       "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-16T13:26:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
