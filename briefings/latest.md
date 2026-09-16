@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T07:56:48+00:00_
+_Generiert: 2026-09-16T08:06:58+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+36 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-09-16T07:56:48+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability
+- **GDACS: Green flood alert in Senegal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Senegal
 - **GDACS: Green flood alert in Sri Lanka** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104160)
   - Quelle: GDACS
   - Zeit: ``
@@ -220,6 +224,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
   - Kurz: 📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hides what Homebrew is…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-16T08:00:00+00:00`, fetched `2026-09-16T08:06:30+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け** — Score 9, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2141127.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
