@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T11:08:38+00:00_
+_Generated: 2026-09-16T11:22:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `69`
+- findings: `76`
 
 ## Top Signals
 
-### 1. The Capital-Driven Rise of Modern Business Suites
+### 1. [NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `23`
+- published: `2026-09-16T11:11:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402
+- summary: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+
+### 2. The Capital-Driven Rise of Modern Business Suites
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-09-16T06:17:41+00:00`
 - url: https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/
 - summary: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook…
 
-### 2. [NEU] [hoch] n8n: Mehrere Schwachstellen
+### 3. [NEU] [hoch] n8n: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-09-16T11:06:32+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393
 - summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Code auszuführen.
 
-### 3. [NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen
+### 4. [NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-09-16T10:56:31+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Se…
-
-### 4. The AI boom won’t help you scale. Your unit economics will
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-09-16T03:00:41+00:00`
-- url: https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/
-- summary: Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the re…
 
 ### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
 - source: heise Security Alerts

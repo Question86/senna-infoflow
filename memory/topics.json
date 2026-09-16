@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T11:08:38+00:00",
+  "generated_at": "2026-09-16T11:22:28+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402"
+      },
       {
         "title": "The Capital-Driven Rise of Modern Business Suites",
         "source": "e27 Asia Startup and Tech Feed",
@@ -66,13 +73,150 @@
         "published_at": "2026-09-16T00:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin"
+      }
+    ],
+    "security": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402"
       },
       {
-        "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-15T21:35:20+00:00",
-        "relevance_score": 10,
-        "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/"
+        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:32+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:56:31+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:53:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-16T09:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU93448623/"
+      },
+      {
+        "title": "QNDにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-16T12:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN95825631/"
+      },
+      {
+        "title": "XikeStor製Layer3スイッチのコンフィグレーションデータダウンロード機能における認証欠如の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-16T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN45281119/"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402"
+      },
+      {
+        "title": "The Capital-Driven Rise of Modern Business Suites",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-16T06:17:41+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/"
+      },
+      {
+        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:06:32+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:56:31+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:51:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Financial Services Applications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3398"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3399"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3400"
       }
     ],
     "economy": [
@@ -145,150 +289,6 @@
         "published_at": "2026-09-16T00:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "The Capital-Driven Rise of Modern Business Suites",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-16T06:17:41+00:00",
-        "relevance_score": 19,
-        "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/"
-      },
-      {
-        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:32+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393"
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:56:31+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:32+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
-      },
-      {
-        "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3389"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3388"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3391"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Commerce: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3390"
-      },
-      {
-        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:56:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381"
-      }
-    ],
-    "security": [
-      {
-        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:32+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393"
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:56:31+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:53:18+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:32+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-16T09:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU93448623/"
-      },
-      {
-        "title": "QNDにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-16T12:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN95825631/"
-      },
-      {
-        "title": "XikeStor製Layer3スイッチのコンフィグレーションデータダウンロード機能における認証欠如の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-16T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN45281119/"
-      },
-      {
-        "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3389"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Utilities Applications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:06:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3388"
       }
     ],
     "github": [
