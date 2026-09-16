@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T09:54:58+00:00",
+  "generated_at": "2026-09-16T10:00:21+00:00",
   "topics": {
     "ai": [
       {
@@ -205,18 +205,18 @@
         "url": "https://www.bis.org/speeches/20260916-monetary-policy-decision"
       },
       {
+        "title": "Listening to households - expectations, behaviour and monetary policy",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20260916-listening-households-expectations-behaviour-and-monetary-policy"
+      },
+      {
         "title": "The economic outlook and some comments on my policy communication",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-16T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication"
-      },
-      {
-        "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-16T09:39:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html"
       }
     ],
     "security": [

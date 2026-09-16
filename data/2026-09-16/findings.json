@@ -772,6 +772,26 @@
     "id": "16553ad39773cc9913e3"
   },
   {
+    "title": "Listening to households - expectations, behaviour and monetary policy",
+    "url": "https://www.bis.org/speeches/20260916-listening-households-expectations-behaviour-and-monetary-policy",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-16T09:59:47+00:00",
+    "summary": "Speech by Mr Boris Vujčić, Vice-President of the European Central Bank, at the inauguration of the Alexander von Humboldt Professorship awarded to Professor Michael Weber at the European School of Management and Technology (ESMT) Berlin, Berlin, 1 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: Berlin (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a3f6921e38320461ebfa"
+  },
+  {
     "title": "Does the iPhone show us which industries AI will destroy?",
     "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -811,6 +831,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "026ddccb1bf43e776e87"
+  },
+  {
+    "title": "From heritage to renewal - building Europe’s future",
+    "url": "https://www.bis.org/speeches/20260916-heritage-renewal-building-europes-future",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-16T09:59:47+00:00",
+    "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the the gala dinner of the Deutsche Bundesbank on the occasion of the external ECB Governing Council meeting, Berlin, 9 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Berlin, ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "724fc1ec54d408437250"
+  },
+  {
+    "title": "Emerging technologies in finance - the imperatives of purpose, prudence, and policy",
+    "url": "https://www.bis.org/speeches/20260916-emerging-technologies-finance-imperatives-purpose-prudence-and-policy",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-16T09:59:47+00:00",
+    "summary": "Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at theGlobal Fintech Fest 2026, Mumba, 9 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1c27a6a5e0f7a9c9f548"
   },
   {
     "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
