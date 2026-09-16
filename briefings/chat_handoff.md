@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T19:36:55+00:00_
+_Generated: 2026-09-16T19:42:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `102`
+- findings: `103`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-16T19:36:55+00:00_
 - url: https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup
 - summary: You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appear…
 
-### 3. The Capital-Driven Rise of Modern Business Suites
+### 3. How to connect AI usage to business value
+- source: OpenAI News RSS
+- score: `22`
+- published: `2026-09-16T12:00:00+00:00`
+- url: https://openai.com/index/how-to-connect-ai-usage-to-business-value
+- summary: Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
+
+### 4. The Capital-Driven Rise of Modern Business Suites
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-09-16T06:17:41+00:00`
 - url: https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/
 - summary: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook…
-
-### 4. [NEU] [hoch] n8n: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-09-16T11:06:32+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393
-- summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Code auszuführen.
 
 ### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
 - source: heise Security Alerts

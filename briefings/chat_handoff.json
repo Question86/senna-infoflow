@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-16T19:36:55+00:00",
+  "generated_at": "2026-09-16T19:42:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 102,
-    "displayed_findings": 102,
+    "new_relevant_findings": 1,
+    "today_file_total": 103,
+    "displayed_findings": 103,
     "high": 0,
-    "medium": 41,
+    "medium": 42,
     "observe": 61
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "How to connect AI usage to business value",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "relevance_score": 22,
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "section": "medium"
+    },
+    {
       "title": "The Capital-Driven Rise of Modern Business Suites",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 19,
       "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
       "summary": "In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-16T11:06:32+00:00",
-      "relevance_score": 18,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3393",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Code auszuführen.",
       "section": "medium"
     },
     {
