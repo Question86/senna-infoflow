@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T07:25:22+00:00_
+_Generated: 2026-09-16T07:35:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-16T07:25:22+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html
 - summary: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 6. M 4.6 - 23 km SW of Sipí, Colombia
+### 6. M 4.8 - 47 km WSW of Bahía Solano, Colombia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-16T07:28:25.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp
+- summary: Time 2026-09-16 07:02:13 UTC 2026-09-16 07:02:13 UTC at epicenter Location 6.097°N 77.812°W Depth 10.00 km (6.21 mi)
+
+### 7. M 4.6 - 23 km SW of Sipí, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-16T06:45:35.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thse
 - summary: Time 2026-09-16 06:18:06 UTC 2026-09-16 06:18:06 UTC at epicenter Location 4.495°N 76.782°W Depth 71.01 km (44.12 mi)
 
-### 7. M 5.0 - 281 km SSE of Dunhuang, China
+### 8. M 5.0 - 281 km SSE of Dunhuang, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-16T06:11:28.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9
 - summary: Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)
-
-### 8. CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-16T04:51:58+00:00`
-- url: https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/
-- summary: Rosaline Chow Koo has spent much of her career trying to make corporate health benefits less rigid, less opaque and, ultimately, less expensive. Her last company, CXA, attacked the problem from the employee side, giving workers more room to customise their be…
 
 END OF DOCUMENT
