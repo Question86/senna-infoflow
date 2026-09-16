@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T10:52:24+00:00_
+_Generated: 2026-09-16T10:57:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `62`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-16T10:52:24+00:00_
 - url: https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/
 - summary: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook…
 
-### 2. The AI boom won’t help you scale. Your unit economics will
+### 2. [NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-09-16T10:56:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Se…
+
+### 3. The AI boom won’t help you scale. Your unit economics will
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-16T03:00:41+00:00`
 - url: https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/
 - summary: Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the re…
 
-### 3. [NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien
+### 4. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-16T10:51:32+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378
-- summary: Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-09-16T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU93448623/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+- published: `2026-09-16T10:53:18+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326
+- summary: Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
 ### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
 - source: heise Security Alerts

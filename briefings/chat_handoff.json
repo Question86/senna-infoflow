@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-16T10:52:24+00:00",
+  "generated_at": "2026-09-16T10:57:47+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 3,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 14,
+    "medium": 17,
     "observe": 45
   },
   "source_errors_count": 0,
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:56:31+00:00",
+      "relevance_score": 18,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Se…",
+      "section": "medium"
+    },
+    {
       "title": "The AI boom won’t help you scale. Your unit economics will",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -35,23 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-16T10:51:32+00:00",
+      "published_at": "2026-09-16T10:53:18+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378",
-      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.",
-      "section": "medium"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-16T09:00:00+09:00",
-      "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU93448623/",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
       "section": "medium"
     },
     {

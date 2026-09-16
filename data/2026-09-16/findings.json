@@ -44,6 +44,31 @@
     "id": "c147ea60402ca150cf3e"
   },
   {
+    "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T10:56:31+00:00",
+    "fetched_at": "2026-09-16T10:57:14+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Firewall",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); Firewall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3d4f4be25be946d75ba5"
+  },
+  {
     "title": "The AI boom won’t help you scale. Your unit economics will",
     "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -66,6 +91,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b4a36763d5474b04b042"
+  },
+  {
+    "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T10:53:18+00:00",
+    "fetched_at": "2026-09-16T10:57:14+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "83e6417084b8079f440a"
   },
   {
     "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -180,6 +229,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cab2df1178172c8817c1"
+  },
+  {
+    "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T10:56:31+00:00",
+    "fetched_at": "2026-09-16T10:57:14+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MikroTik RouterOS ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7b34044b47b4d0039607"
   },
   {
     "title": "[UPDATE] [hoch] BusyBox: Schwachstelle ermöglicht Codeausführung",

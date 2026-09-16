@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T10:52:24+00:00",
+  "generated_at": "2026-09-16T10:57:47+00:00",
   "topics": {
     "ai": [
       {
@@ -156,11 +156,25 @@
         "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:56:31+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:51:32+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378"
+      },
+      {
+        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:56:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381"
       },
       {
         "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
@@ -203,23 +217,23 @@
         "published_at": "2026-09-16T10:00:00+00:00",
         "relevance_score": 11,
         "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Bank resilience and sustainable growth - two sides of the same coin",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-16T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin"
-      },
-      {
-        "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-16T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:56:31+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:53:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
@@ -249,6 +263,13 @@
         "url": "https://jvn.jp/jp/JVN45281119/"
       },
       {
+        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:56:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3381"
+      },
+      {
         "title": "[UPDATE] [hoch] BusyBox: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:51:34+00:00",
@@ -268,27 +289,29 @@
         "published_at": "2026-09-16T10:51:34+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-2028"
+      }
+    ],
+    "github": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:56:31+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
       },
       {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380"
+        "title": "Homebrew/BrewUI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/Homebrew/BrewUI"
       },
       {
-        "title": "[NEU] [mittel] Camunda: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:51:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3379"
-      },
-      {
-        "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T10:23:49+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287"
+        "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-16T06:00:45+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/"
       }
     ],
     "general": [
@@ -361,22 +384,6 @@
         "published_at": "2026-09-16T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/procurement/manual"
-      }
-    ],
-    "github": [
-      {
-        "title": "Homebrew/BrewUI",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/Homebrew/BrewUI"
-      },
-      {
-        "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-16T06:00:45+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/"
       }
     ]
   }
