@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:28:27+00:00",
-  "run_id": "2026-09-16T13:28:27+00:00",
+  "generated_at": "2026-09-16T13:38:16+00:00",
+  "run_id": "2026-09-16T13:38:16+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "new_relevant_findings": 1,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 38,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -1053,6 +1053,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ff2c8c1144d6f7b536f1"
+      },
+      {
+        "title": "Reimagining advertising with AI",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-16T13:00:00+00:00",
+        "fetched_at": "2026-09-16T13:37:48+00:00",
+        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "03c000c8f6f5ecc2e92b"
       },
       {
         "title": "Playing both sides of the U.S.-China AI “Cold War”",
@@ -3239,6 +3260,27 @@
       "id": "ff2c8c1144d6f7b536f1"
     },
     {
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T13:00:00+00:00",
+      "fetched_at": "2026-09-16T13:37:48+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03c000c8f6f5ecc2e92b"
+    },
+    {
       "title": "Playing both sides of the U.S.-China AI “Cold War”",
       "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -4397,7 +4439,29 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T13:00:00+00:00",
+      "fetched_at": "2026-09-16T13:37:48+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03c000c8f6f5ecc2e92b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
