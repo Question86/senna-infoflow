@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T07:45:12+00:00_
+_Generiert: 2026-09-16T07:51:14+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+35 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk** — Score 13, observation — [Quelle](https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-16T07:37:00.000+00:00`, fetched `2026-09-16T07:50:46+00:00`
+  - Treffer: GitHub Actions, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
+  - Kurz: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-16T08:15:22+00:00`, fetched `2026-09-16T07:24:50+00:00`
@@ -86,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses** — Score 12, observation — [Quelle](https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T07:45:46+00:00`, fetched `2026-09-16T07:50:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)
+  - Kurz: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is one example: barely two years old, it already says more than 70 per cent of its […] The post Cambodia’s Newwave wins CIFC backing to build AI tools for regional…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 47 km WSW of Bahía Solano, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -149,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
   - Kurz: 📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hides what Homebrew is…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore’s robotics dominance is a warning sign dressed up as good news** — Score 9, observation — [Quelle](https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T06:00:45+00:00`, fetched `2026-09-16T06:34:10+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Southeast Asia’s robotics sector just posted a record year. Look closer, and the story isn’t strength; it’s fragility wearing a big number as a costume. Tracxn’s new Robotics – SEA report says the region’s robotics companies raised US$696 million so far in 2026, blowing past the US$52 million raised in all of 2025. On its […] The post Singapore’s robotics dominance is a warning sign dressed up as good news appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け** — Score 9, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2141127.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
