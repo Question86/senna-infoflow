@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-17T10:06:42+00:00",
+  "generated_at": "2026-09-17T10:23:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 3,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
-    "medium": 9,
+    "medium": 12,
     "observe": 30
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-17T10:19:45+00:00",
+      "relevance_score": 17,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery…",
+      "section": "medium"
+    },
     {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp",
       "summary": "Time 2026-09-17 06:20:48 UTC 2026-09-17 06:20:48 UTC at epicenter Location 1.316°N 126.309°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-17T14:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN93985674/",
-      "summary": "東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。",
       "section": "medium"
     },
     {
