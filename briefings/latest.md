@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T20:10:45+00:00_
+_Generiert: 2026-09-17T20:33:05+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Workflow execution protections in GitHub Actions generally available“ aus GitHub Changelog Atom (Score 17, observation).
+72 neue relevante Treffer. Stärkstes Signal: „Workflow execution protections in GitHub Actions generally available“ aus GitHub Changelog Atom (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,10 @@ _Generiert: 2026-09-17T20:10:45+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Senegal
-- **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
+- **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 71450 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 71450 .
 
 ## Wirtschaft global
 
