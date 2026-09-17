@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T21:41:34+00:00_
+_Generiert: 2026-09-17T21:52:06+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Workflow execution protections in GitHub Actions generally available“ aus GitHub Changelog Atom (Score 17, observation).
+73 neue relevante Treffer. Stärkstes Signal: „Workflow execution protections in GitHub Actions generally available“ aus GitHub Changelog Atom (Score 17, observation).
 
 ## Priorität Hoch
 
