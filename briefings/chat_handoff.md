@@ -1,67 +1,25 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T23:58:14+00:00_
+_Generated: 2026-09-17T00:30:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `117`
+- findings: `2`
 
 ## Top Signals
 
-### 1. [NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `23`
-- published: `2026-09-16T11:11:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402
-- summary: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+### 1. Migrating the GitHub Copilot runtime to Rust, using Copilot
+- source: GitHub Blog Atom
+- score: `9`
+- published: `2026-09-17T00:26:43+00:00`
+- url: https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/
+- summary: A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
 
-### 2. Code scanning AI Scan no longer requires CodeQL default setup
-- source: GitHub Changelog Atom
-- score: `22`
-- published: `2026-09-16T13:26:06+00:00`
-- url: https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup
-- summary: You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appear…
-
-### 3. How to connect AI usage to business value
-- source: OpenAI News RSS
-- score: `22`
-- published: `2026-09-16T12:00:00+00:00`
-- url: https://openai.com/index/how-to-connect-ai-usage-to-business-value
-- summary: Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
-
-### 4. The Capital-Driven Rise of Modern Business Suites
-- source: e27 Asia Startup and Tech Feed
-- score: `19`
-- published: `2026-09-16T06:17:41+00:00`
-- url: https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/
-- summary: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook…
-
-### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
-- source: heise Security Alerts
-- score: `13`
-- published: `2026-09-16T07:37:00.000+00:00`
-- url: https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html
-- summary: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
-
-### 6. Economic activity, prices, and monetary policy in Japan
-- source: BIS Central Bankers Speeches
-- score: `13`
-- published: `2026-09-16T00:00:00+00:00`
-- url: https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan
-- summary: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
-
-### 7. Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-16T09:47:23+00:00`
-- url: https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/
-- summary: Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at lea…
-
-### 8. Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
-- source: ECB Open Market Operations and Communication
-- score: `12`
-- published: `2026-09-16T08:15:22+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html
-- summary: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
+### 2. いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-16T22:53:29+00:00`
+- url: https://internet.watch.impress.co.jp/docs/special/2139536.html
+- summary: いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
 
 END OF DOCUMENT
