@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T11:50:38+00:00_
+_Generiert: 2026-09-17T11:56:00+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
+56 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
 
 ## Priorität Hoch
 
