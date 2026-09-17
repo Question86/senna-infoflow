@@ -23,6 +23,28 @@
     "id": "2b9f58a345a13215acde"
   },
   {
+    "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
+    "url": "https://jvn.jp/jp/JVN93985674/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-17T14:00:00+09:00",
+    "fetched_at": "2026-09-17T05:08:47+00:00",
+    "summary": "東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c20a33af256cf2c40632"
+  },
+  {
     "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU94390979/",
     "source": "JVN Japan Vulnerability Notes",
@@ -231,6 +253,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c6bc494da2b1ea3145c8"
+  },
+  {
+    "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
+    "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-17T05:01:41+00:00",
+    "fetched_at": "2026-09-17T05:08:47+00:00",
+    "summary": "Here’s a simple way to think about FinSight Ventures: it is a late-stage fund that likes the places most investors avoid, and it has a one-line rule for deciding when to write a cheque: 35 per cent a year, in dollars, or it walks. The Uzbekistan-based firm invests in AI, cloud, enterprise software and fintech, […] The post Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars appeared first o…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c14797b3be879c71f1b1"
   },
   {
     "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
