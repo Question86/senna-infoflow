@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T22:08:02+00:00",
+  "generated_at": "2026-09-17T22:21:10+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Agentic CLI customizations now in the usage metrics API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-17T21:08:50+00:00",
+        "relevance_score": 17,
+        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api"
+      },
       {
         "title": "Workflow execution protections in GitHub Actions generally available",
         "source": "GitHub Changelog Atom",
@@ -66,16 +73,16 @@
         "published_at": "2026-09-16T21:37:20+00:00",
         "relevance_score": 12,
         "url": "https://pc.watch.impress.co.jp/docs/news/2141599.html"
-      },
-      {
-        "title": "cloudflare/security-audit-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 12,
-        "url": "https://github.com/cloudflare/security-audit-skill"
       }
     ],
     "github": [
+      {
+        "title": "Agentic CLI customizations now in the usage metrics API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-17T21:08:50+00:00",
+        "relevance_score": 17,
+        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api"
+      },
       {
         "title": "Workflow execution protections in GitHub Actions generally available",
         "source": "GitHub Changelog Atom",
@@ -124,6 +131,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/abue-ammar/tinycast"
+      },
+      {
+        "title": "Copilot impact dashboard now shows feature engagement",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-17T21:47:27+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement"
       }
     ],
     "security": [

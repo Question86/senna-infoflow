@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T22:08:02+00:00_
+_Generiert: 2026-09-17T22:21:10+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Workflow execution protections in GitHub Actions generally available“ aus GitHub Changelog Atom (Score 17, observation).
+77 neue relevante Treffer. Stärkstes Signal: „Agentic CLI customizations now in the usage metrics API“ aus GitHub Changelog Atom (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Agentic CLI customizations now in the usage metrics API** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-17T21:08:50+00:00`, fetched `2026-09-17T22:20:38+00:00`
+  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in… The post Agentic CLI customizations now in the usage metrics API appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Workflow execution protections in GitHub Actions generally available** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-17T15:45:26+00:00`, fetched `2026-09-17T17:44:44+00:00`
