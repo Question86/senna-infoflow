@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T11:56:00+00:00",
-  "run_id": "2026-09-17T11:56:00+00:00",
+  "generated_at": "2026-09-17T12:01:40+00:00",
+  "run_id": "2026-09-17T12:01:40+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 56,
     "displayed_findings": 56,
     "high": 0,
@@ -2763,31 +2763,7 @@
       "id": "382226414b8e1284c1e6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [mittel] Arista EOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3441",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-17T11:46:31+00:00",
-      "fetched_at": "2026-09-17T11:55:26+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Arista EOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "456dc2171b9debedb01b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
