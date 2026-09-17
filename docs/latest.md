@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T03:15:57+00:00_
+_Generiert: 2026-09-17T03:33:12+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+15 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
