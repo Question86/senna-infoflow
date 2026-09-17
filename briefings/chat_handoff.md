@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T01:33:50+00:00_
+_Generated: 2026-09-17T01:53:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-17T01:33:50+00:00_
 - url: https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/
 - summary: A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
 
-### 5. SREは、MCPとAutopilotをこう使え！
+### 5. 【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-09-17T01:01:47+00:00`
+- url: https://prtimes.jp/main/html/rd/p/000000268.000045379.html
+- summary: エンジニアプラットフォームを提供するファインディ株式会社（本社：東京都品川区、代表取締役：山田 裕一朗、以下「ファインディ」）は、2026年10月16日（金）にベルサール汐留で開催する「AI×開発組織Summit 2026」の申込者数が500名を突破したことをお知らせします。 ◆ 申込者の約6割が「AI前提の開発プロセスの標準...
+
+### 6. SREは、MCPとAutopilotをこう使え！
 - source: Hatena Bookmark Hotentry IT
 - score: `6`
 - published: `2026-09-16T15:59:15+00:00`
 - url: https://speakerdeck.com/kazumax55/sre-ha-mcp-to-autopilot-o-kou-tsukae
 - summary: New Relic MCPとSRE Agent改めNew Relic Autopilotを使い倒して見えてきた、現場のBefore/Afterをご紹介します。 SRExAIで、障害対応はどう変わるのか？ インシデント対応中、お布団から出る回数は減らせるのか？ を現場目線でお話しします。 …
-
-### 6. いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-16T22:53:29+00:00`
-- url: https://internet.watch.impress.co.jp/docs/special/2139536.html
-- summary: いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
 
 END OF DOCUMENT
