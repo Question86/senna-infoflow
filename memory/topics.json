@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T02:29:09+00:00",
+  "generated_at": "2026-09-17T02:44:13+00:00",
   "topics": {
     "ai": [
       {
@@ -100,6 +100,15 @@
         "published_at": "2026-09-17T01:30:56+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T02:30:18+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/"
       }
     ],
     "general": [

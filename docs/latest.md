@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T02:29:09+00:00_
+_Generiert: 2026-09-17T02:44:13+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+11 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote autopilot (x0.45)
   - Kurz: New Relic MCPとSRE Agent改めNew Relic Autopilotを使い倒して見えてきた、現場のBefore/Afterをご紹介します。 SRExAIで、障害対応はどう変わるのか？ インシデント対応中、お布団から出る回数は減らせるのか？ を現場目線でお話しします。 …
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Singapore investors hold more Apple than Singtel, and why it should worry you** — Score 5, observation — [Quelle](https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-17T02:30:18+00:00`, fetched `2026-09-17T02:43:40+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)
+  - Kurz: Last month, I sat across from Kenny, a software engineer in his early thirties, based in Singapore, someone who reads financial news, has a brokerage account, and thinks carefully about his money. I asked him about his portfolio. He listed: Apple, Microsoft, Google, Nvidia, and Amazon. I asked about Singapore stocks. He paused. “I don’t […] The post Why Singapore investors hold more Apple than Singtel, and why it sh…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum** — Score 5, observation — [Quelle](https://webtan.impress.co.jp/e/2026/09/17/53178)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
