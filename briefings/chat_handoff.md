@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T01:09:28+00:00_
+_Generated: 2026-09-17T01:33:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -22,21 +22,28 @@ _Generated: 2026-09-17T01:09:28+00:00_
 - url: https://jvn.jp/vu/JVNVU91019649/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 3. Migrating the GitHub Copilot runtime to Rust, using Copilot
+### 3. Mobile’s next US$4.5 trillion won’t come from connectivity
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-09-17T01:30:56+00:00`
+- url: https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/
+- summary: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total.…
+
+### 4. Migrating the GitHub Copilot runtime to Rust, using Copilot
 - source: GitHub Blog Atom
 - score: `9`
 - published: `2026-09-17T00:26:43+00:00`
 - url: https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/
 - summary: A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
 
-### 4. SREは、MCPとAutopilotをこう使え！
+### 5. SREは、MCPとAutopilotをこう使え！
 - source: Hatena Bookmark Hotentry IT
 - score: `6`
 - published: `2026-09-16T15:59:15+00:00`
 - url: https://speakerdeck.com/kazumax55/sre-ha-mcp-to-autopilot-o-kou-tsukae
 - summary: New Relic MCPとSRE Agent改めNew Relic Autopilotを使い倒して見えてきた、現場のBefore/Afterをご紹介します。 SRExAIで、障害対応はどう変わるのか？ インシデント対応中、お布団から出る回数は減らせるのか？ を現場目線でお話しします。 …
 
-### 5. いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
+### 6. いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-16T22:53:29+00:00`
