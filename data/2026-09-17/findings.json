@@ -149,6 +149,27 @@
     "id": "f449b704b198d2ae2dec"
   },
   {
+    "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
+    "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-17T07:30:00.000+00:00",
+    "fetched_at": "2026-09-17T07:38:04+00:00",
+    "summary": "Bösartige Akteure greifen Lücken in Google Pixel, Cisco ISE und Acronis Backup für cPanel/WHM und Plesk an. Updates schützen.",
+    "matched_keywords": [
+      "GitHub Actions",
+      "Security"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "GitHub Actions (+6.2); Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5028ada9a810b8c7c3ba"
+  },
+  {
     "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
     "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
     "source": "e27 Asia Startup and Tech Feed",
