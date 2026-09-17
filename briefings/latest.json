@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T00:30:05+00:00",
-  "run_id": "2026-09-17T00:30:05+00:00",
+  "generated_at": "2026-09-17T01:09:28+00:00",
+  "run_id": "2026-09-17T01:09:28+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,62 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 3,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
-    "observe": 2,
+    "medium": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94390979/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-09-17T09:30:15+09:00",
+        "fetched_at": "2026-09-17T01:09:00+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ae3bf9bc01a915af56b9"
+      },
+      {
+        "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU91019649/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-09-17T09:30:00+09:00",
+        "fetched_at": "2026-09-17T01:09:00+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d500b358c7c0af0842c"
+      }
+    ],
     "observe": [
       {
         "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
@@ -51,6 +96,53 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c6bc494da2b1ea3145c8"
+      },
+      {
+        "title": "SREは、MCPとAutopilotをこう使え！",
+        "url": "https://speakerdeck.com/kazumax55/sre-ha-mcp-to-autopilot-o-kou-tsukae",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-16T15:59:15+00:00",
+        "fetched_at": "2026-09-17T01:09:00+00:00",
+        "summary": "New Relic MCPとSRE Agent改めNew Relic Autopilotを使い倒して見えてきた、現場のBefore/Afterをご紹介します。 SRExAIで、障害対応はどう変わるのか？ インシデント対応中、お布団から出る回数は減らせるのか？ を現場目線でお話しします。 …",
+        "matched_keywords": [
+          "agent",
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote autopilot (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "e9ad5909fcf96ca6a656"
       },
       {
         "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
@@ -77,6 +169,50 @@
   },
   "findings": [
     {
+      "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94390979/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-17T09:30:15+09:00",
+      "fetched_at": "2026-09-17T01:09:00+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae3bf9bc01a915af56b9"
+    },
+    {
+      "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91019649/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-17T09:30:00+09:00",
+      "fetched_at": "2026-09-17T01:09:00+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d500b358c7c0af0842c"
+    },
+    {
       "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "source": "GitHub Blog Atom",
@@ -97,6 +233,53 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c6bc494da2b1ea3145c8"
+    },
+    {
+      "title": "SREは、MCPとAutopilotをこう使え！",
+      "url": "https://speakerdeck.com/kazumax55/sre-ha-mcp-to-autopilot-o-kou-tsukae",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T15:59:15+00:00",
+      "fetched_at": "2026-09-17T01:09:00+00:00",
+      "summary": "New Relic MCPとSRE Agent改めNew Relic Autopilotを使い倒して見えてきた、現場のBefore/Afterをご紹介します。 SRExAIで、障害対応はどう変わるのか？ インシデント対応中、お布団から出る回数は減らせるのか？ を現場目線でお話しします。 …",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote autopilot (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "e9ad5909fcf96ca6a656"
     },
     {
       "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
@@ -122,47 +305,95 @@
   ],
   "new_findings": [
     {
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-      "source": "GitHub Blog Atom",
+      "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94390979/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-09-17T00:26:43+00:00",
-      "fetched_at": "2026-09-17T00:29:34+00:00",
-      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+      "published_at": "2026-09-17T09:30:15+09:00",
+      "fetched_at": "2026-09-17T01:09:00+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c6bc494da2b1ea3145c8"
+      "id": "ae3bf9bc01a915af56b9"
     },
     {
-      "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
-      "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91019649/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-09-16T22:53:29+00:00",
-      "fetched_at": "2026-09-17T00:29:34+00:00",
-      "summary": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
+      "published_at": "2026-09-17T09:30:00+09:00",
+      "fetched_at": "2026-09-17T01:09:00+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "382226414b8e1284c1e6"
+      "id": "9d500b358c7c0af0842c"
+    },
+    {
+      "title": "SREは、MCPとAutopilotをこう使え！",
+      "url": "https://speakerdeck.com/kazumax55/sre-ha-mcp-to-autopilot-o-kou-tsukae",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T15:59:15+00:00",
+      "fetched_at": "2026-09-17T01:09:00+00:00",
+      "summary": "New Relic MCPとSRE Agent改めNew Relic Autopilotを使い倒して見えてきた、現場のBefore/Afterをご紹介します。 SRExAIで、障害対応はどう変わるのか？ インシデント対応中、お布団から出る回数は減らせるのか？ を現場目線でお話しします。 …",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote autopilot (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "e9ad5909fcf96ca6a656"
     }
   ],
   "source_errors": [],
