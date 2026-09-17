@@ -106,6 +106,56 @@
     "id": "c20a33af256cf2c40632"
   },
   {
+    "title": "South Africa joins the global resistance against American data centers",
+    "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-17T10:00:00+00:00",
+    "fetched_at": "2026-09-17T10:06:12+00:00",
+    "summary": "“A massive data center is trying to jump the queue and take our land, water, and energy.”",
+    "matched_keywords": [
+      "Africa",
+      "AI/KI",
+      "Macro/Policy",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.0); Macro/Policy (+5.0); Africa (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: protest"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "281bae4babac8c5e96c5"
+  },
+  {
     "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3383",
     "source": "BSI CERT-Bund Security Advisories",
