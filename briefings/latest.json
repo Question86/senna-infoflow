@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T23:04:40+00:00",
-  "run_id": "2026-09-17T23:04:40+00:00",
+  "generated_at": "2026-09-17T23:18:00+00:00",
+  "run_id": "2026-09-17T23:18:00+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -3967,30 +3967,7 @@
       "id": "382226414b8e1284c1e6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000001675.000008962.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T09:48:12+00:00",
-      "fetched_at": "2026-09-17T23:04:10+00:00",
-      "summary": "マネーフォワードホーム株式会社は、2026年9月17日（木）より、OpenAIが提供する「Apps in ChatGPT」（※1）で利用できる『マネーフォワード ME』アプリ（以下、本アプリ）の提供を開始しました。ユーザーが接続を許可すると、『マネーフォワード ME』のデータをChatGPTの会話内で活用し、自然な対話を通じてお金の不安や...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "43bd3526bc197e751780"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
