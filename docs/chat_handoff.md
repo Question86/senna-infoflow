@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T11:00:26+00:00_
+_Generated: 2026-09-17T11:18:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `43`
+- findings: `47`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-17T11:00:26+00:00_
 - url: https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/
 - summary: When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum threa…
 
-### 4. M 5.2 - 132 km E of Bitung, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
+### 4. [NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten
+- source: BSI CERT-Bund Security Advisories
 - score: `15`
-- published: `2026-09-17T06:37:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp
-- summary: Time 2026-09-17 06:20:48 UTC 2026-09-17 06:20:48 UTC at epicenter Location 1.316°N 126.309°E Depth 10.00 km (6.21 mi)
+- published: `2026-09-17T11:11:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3429
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Check Point Security Management ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.
 
 ### 5. Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup
 - source: heise Security Alerts
