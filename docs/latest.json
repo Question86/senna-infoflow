@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T17:39:50+00:00",
-  "run_id": "2026-09-17T17:39:50+00:00",
+  "generated_at": "2026-09-17T17:45:13+00:00",
+  "run_id": "2026-09-17T17:45:13+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 1,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
-    "medium": 27,
+    "medium": 28,
     "observe": 41,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Workflow execution protections in GitHub Actions generally available",
+        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-17T15:45:26+00:00",
+        "fetched_at": "2026-09-17T17:44:44+00:00",
+        "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Actions",
+          "GitHub",
+          "GitHub Actions",
+          "Public Health"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "GitHub Actions (+6.2); Public Health (+5.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2f1f3eb7d1eef0f30bb5"
+      },
       {
         "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376",
@@ -1710,6 +1733,29 @@
   },
   "findings": [
     {
+      "title": "Workflow execution protections in GitHub Actions generally available",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-17T15:45:26+00:00",
+      "fetched_at": "2026-09-17T17:44:44+00:00",
+      "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "GitHub",
+        "GitHub Actions",
+        "Public Health"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "GitHub Actions (+6.2); Public Health (+5.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f1f3eb7d1eef0f30bb5"
+    },
+    {
       "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3385,7 +3431,31 @@
       "id": "382226414b8e1284c1e6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Workflow execution protections in GitHub Actions generally available",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-17T15:45:26+00:00",
+      "fetched_at": "2026-09-17T17:44:44+00:00",
+      "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "GitHub",
+        "GitHub Actions",
+        "Public Health"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "GitHub Actions (+6.2); Public Health (+5.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f1f3eb7d1eef0f30bb5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

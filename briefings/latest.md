@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T17:39:50+00:00_
+_Generiert: 2026-09-17T17:45:13+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
+69 neue relevante Treffer. Stärkstes Signal: „Workflow execution protections in GitHub Actions generally available“ aus GitHub Changelog Atom (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Workflow execution protections in GitHub Actions generally available** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-17T15:45:26+00:00`, fetched `2026-09-17T17:44:44+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); Public Health (+5.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-17T10:19:45+00:00`, fetched `2026-09-17T10:23:18+00:00`
