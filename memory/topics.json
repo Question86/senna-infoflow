@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T11:44:13+00:00",
+  "generated_at": "2026-09-17T11:50:38+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-17T10:19:45+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:41:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -33,6 +40,20 @@
         "url": "https://jvn.jp/jp/JVN93985674/"
       },
       {
+        "title": "[NEU] [mittel] Varnish HTTP Cache: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:41:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3440"
+      },
+      {
+        "title": "[NEU] [mittel] Nextcloud: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:41:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3439"
+      },
+      {
         "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-17T11:26:31+00:00",
@@ -52,27 +73,6 @@
         "published_at": "2026-09-17T11:21:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3435"
-      },
-      {
-        "title": "[NEU] [hoch] Tanium Endpoint Management: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:16:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3433"
-      },
-      {
-        "title": "[NEU] [hoch] Eclipse Jetty: Schwachstelle ermöglicht Darstellen falscher Informationen und Offenlegung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:16:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3434"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:11:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432"
       }
     ],
     "geopolitics": [
@@ -84,11 +84,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:41:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438"
+      },
+      {
         "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-17T11:11:31+00:00",
         "relevance_score": 15,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3429"
+      },
+      {
+        "title": "[NEU] [mittel] Varnish HTTP Cache: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:41:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3440"
+      },
+      {
+        "title": "[NEU] [mittel] Nextcloud: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:41:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3439"
       },
       {
         "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
@@ -124,27 +145,6 @@
         "published_at": "2026-09-17T11:16:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3434"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:11:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432"
-      },
-      {
-        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3430"
-      },
-      {
-        "title": "[NEU] [hoch] Cisco Nexus Dashboard: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3431"
       }
     ],
     "ai": [
