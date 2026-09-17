@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T10:55:10+00:00_
+_Generiert: 2026-09-17T11:00:26+00:00_
 
 ## Kurzlage
 
@@ -33,14 +33,14 @@ _Generiert: 2026-09-17T10:55:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Democratic Republic of Congo
+- **GDACS: Green flood alert in Ecuador** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104167)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Ecuador
 - **GDACS: Green flood alert in Senegal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Senegal
-- **GDACS: Green flood alert in Sri Lanka** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104160)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Sri Lanka
 - **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
   - Quelle: GDACS
   - Zeit: ``
