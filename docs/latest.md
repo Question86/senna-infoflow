@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T05:33:32+00:00_
+_Generiert: 2026-09-17T05:43:15+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+24 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-17T05:31:31+00:00`, fetched `2026-09-17T05:42:46+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um Sicherheitsmaßnahmen zu umgehen und beliebigen PHP-Code und Shell-Befehle auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -122,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **松本大臣退任記者会見（令和8年9月17日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260917-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-17T05:33:33+00:00`, fetched `2026-09-17T05:42:46+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣退任記者会見（令和8年9月17日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

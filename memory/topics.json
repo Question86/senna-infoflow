@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T05:33:32+00:00",
+  "generated_at": "2026-09-17T05:43:15+00:00",
   "topics": {
     "ai": [
       {
@@ -96,6 +96,13 @@
         "published_at": "2026-09-17T09:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU91019649/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T05:31:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386"
       }
     ],
     "economy": [
@@ -167,6 +174,13 @@
         "published_at": "2026-09-17T04:24:31.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thz3"
+      },
+      {
+        "title": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-17T05:33:33+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-260917-01"
       },
       {
         "title": "副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary",
