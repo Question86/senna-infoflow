@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T03:58:42+00:00",
+  "generated_at": "2026-09-17T04:17:44+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-09-17T09:30:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU94390979/"
+      },
+      {
+        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T04:07:37+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
       },
       {
         "title": "LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-17T00:14:15+00:00",
         "relevance_score": 5,
         "url": "https://webtan.impress.co.jp/e/2026/09/17/53178"
-      },
-      {
-        "title": "「人類皆殺しにしかねない」元開発者が警鐘のAI “AI著作物”で前例なき裁判 文学賞も席巻 突きつけられた深刻な問い（関西テレビ） - Yahoo!ニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T00:09:08+00:00",
-        "relevance_score": 5,
-        "url": "https://news.yahoo.co.jp/articles/b9ffd8c385784a798a16c90cbd56bd2b0d713cf7"
       }
     ],
     "security": [
@@ -89,6 +89,38 @@
         "published_at": "2026-09-17T09:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU91019649/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T04:07:37+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
+      },
+      {
+        "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T01:30:56+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T04:07:37+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
+      },
+      {
+        "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T02:30:18+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/"
       }
     ],
     "github": [
@@ -112,24 +144,6 @@
         "published_at": "2026-09-17T00:26:43+00:00",
         "relevance_score": 9,
         "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
-      }
-    ],
-    "economy": [
-      {
-        "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T01:30:56+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T02:30:18+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/"
       }
     ],
     "general": [
