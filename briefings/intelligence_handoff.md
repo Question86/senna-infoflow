@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-17T02:50:58Z_
+_Generated: 2026-09-17T03:03:48Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-17T09:30:15+09:00` / age_days `0.1`
+- Published: `2026-09-17T09:30:15+09:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T09:30:00+09:00` / age_days `0.1`
+- Published: `2026-09-17T09:30:00+09:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `90.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `90.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 90.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-16T22:53:29+00:00` / age_days `0.16`
+- Published: `2026-09-16T22:53:29+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://internet.watch.impress.co.jp/docs/special/2139536.html
 
+### “ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `3.0`
+- Published: `2026-09-16T09:15:57+00:00` / age_days `0.74`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.itmedia.co.jp/news/article/2609/16/2000001551/
+
 ### Your team finished the AI course. Can they challenge the machine?
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-09-17T02:00:52+00:00` / age_days `0.03`
+- Published: `2026-09-17T02:00:52+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-09-17T00:26:43+00:00` / age_days `0.1`
+- Published: `2026-09-17T00:26:43+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `89.0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `89.01`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 89.0d old signal
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `89.0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `89.01`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 89.0d old signal
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `89.0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `89.01`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 89.0d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://toyokeizai.net/articles/-/948348?display=b
-
-### SREは、MCPとAutopilotをこう使え！
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-09-16T15:59:15+00:00` / age_days `0.45`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://speakerdeck.com/kazumax55/sre-ha-mcp-to-autopilot-o-kou-tsukae
 
 END OF DOCUMENT
