@@ -1,26 +1,77 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-17T00:57:59Z",
+  "generated_at": "2026-09-17T01:26:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 9,
     "bands": {
-      "strong": 1,
-      "quiet": 5
+      "krass": 1,
+      "strong": 2,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "quiet": 5
+      "strong": 3,
+      "quiet": 6
     }
   },
   "top_dynamics": [
+    {
+      "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94390979/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-17T09:30:15+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91019649/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-17T09:30:00+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 89.96,
+      "age_days": 89.98,
       "topics": [
         "ai"
       ],
@@ -49,7 +100,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T22:53:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -73,7 +124,7 @@
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-17T00:26:43+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -98,7 +149,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 88.92,
+      "age_days": 88.94,
       "topics": [
         "general"
       ],
@@ -123,7 +174,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 88.92,
+      "age_days": 88.94,
       "topics": [
         "general"
       ],
@@ -148,7 +199,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 88.92,
+      "age_days": 88.94,
       "topics": [
         "ai"
       ],
@@ -169,7 +220,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "SREは、MCPとAutopilotをこう使え！",
+      "url": "https://speakerdeck.com/kazumax55/sre-ha-mcp-to-autopilot-o-kou-tsukae",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-16T15:59:15+00:00",
+      "age_days": 0.39,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "New Relic MCPとSRE Agent改めNew Relic Autopilotを使い倒して見えてきた、現場のBefore/Afterをご紹介します。 SRExAIで、障害対応はどう変わるのか？ インシデント対応中、お布団から出る回数は減らせるのか？ を現場目線でお話しします。 …"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
