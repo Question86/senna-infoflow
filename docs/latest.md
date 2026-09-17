@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T10:43:18+00:00_
+_Generiert: 2026-09-17T10:49:42+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
+43 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Codeを「使うほど育つ」AI秘書にするノウハウ** — Score 14, observation — [Quelle](https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-17T05:02:37+00:00`, fetched `2026-09-17T10:49:12+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
