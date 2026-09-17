@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-17T20:24:35Z",
+  "generated_at": "2026-09-17T20:34:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 14,
-      "strong": 19,
-      "watch": 7
+      "strong": 20,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 31,
-      "watch": 7
+      "strong": 32,
+      "watch": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3439",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:41:31+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T05:31:31+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/jp/JVN93985674/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T14:00:00+09:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3441",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:46:31+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3440",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:41:31+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3433",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:16:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -192,7 +192,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3434",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:16:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -216,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3430",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:11:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -240,7 +240,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3334",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T10:19:45+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -264,7 +264,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3383",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T09:31:31+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -288,7 +288,7 @@
       "url": "https://jvn.jp/vu/JVNVU94390979/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:15+09:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -390,7 +390,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3429",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:11:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -416,7 +416,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3437",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:26:31+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -469,7 +469,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:11:32+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -495,7 +495,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3431",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:11:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -521,7 +521,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3375",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T10:19:45+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -547,7 +547,7 @@
       "url": "https://jvn.jp/vu/JVNVU91019649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:00+09:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -573,7 +573,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T11:41:31+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -598,7 +598,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T09:31:32+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -678,7 +678,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T10:19:45+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -704,7 +704,7 @@
       "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-17T10:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -757,7 +757,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-knipsen-Firewalls-von-Cisco-aus-11456078.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-17T08:08:00.000+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security",
         "infra"
@@ -779,11 +779,36 @@
       "summary": "Der Netzwerkausrüster Cisco hat zahlreiche Sicherheitslücken in seinen Produkten geschlossen. Es laufen bereits Attacken."
     },
     {
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "age_days": 0.86,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+    },
+    {
       "title": "M 4.5 - 204 km SW of Labuan, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T20:09:30.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -808,7 +833,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T06:37:49.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -860,7 +885,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T19:40:19.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -910,7 +935,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T07:07:36.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -985,7 +1010,7 @@
       "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-17T15:45:26+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -1005,30 +1030,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…"
-    },
-    {
-      "title": "M 4.8 - 64 km SSE of Lakatoro, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T06:49:38.040+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-17 06:32:13 UTC 2026-09-17 06:32:13 UTC at epicenter Location 16.663°S 167.557°E Depth 36.73 km (22.82 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Nextcloud: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
