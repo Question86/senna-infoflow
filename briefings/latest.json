@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T11:37:56+00:00",
-  "run_id": "2026-09-17T11:37:56+00:00",
+  "generated_at": "2026-09-17T11:44:13+00:00",
+  "run_id": "2026-09-17T11:44:13+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 52,
     "displayed_findings": 52,
     "high": 0,
@@ -2577,31 +2577,7 @@
       "id": "382226414b8e1284c1e6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3437",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-17T11:26:31+00:00",
-      "fetched_at": "2026-09-17T11:37:25+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "58c4fef4a4951f68fd37"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
