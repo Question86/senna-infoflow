@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-18T08:48:58+00:00",
+  "generated_at": "2026-09-18T08:55:04+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 1,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 13,
+    "medium": 14,
     "observe": 22
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/Tencent/BrowserSkill",
       "summary": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill conn…",
+      "section": "medium"
+    },
+    {
+      "title": "Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-18T08:52:58+00:00",
+      "relevance_score": 19,
+      "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
+      "summary": "Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dol…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-18T07:47:27+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
       "section": "medium"
     },
     {

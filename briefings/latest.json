@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T08:48:58+00:00",
-  "run_id": "2026-09-18T08:48:58+00:00",
+  "generated_at": "2026-09-18T08:55:04+00:00",
+  "run_id": "2026-09-18T08:55:04+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 1,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 13,
+    "medium": 14,
     "observe": 22,
     "source_errors": 0
   },
@@ -77,6 +77,30 @@
           "PINS"
         ],
         "id": "b38ea89e08129882ac6d"
+      },
+      {
+        "title": "Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot",
+        "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-18T08:52:58+00:00",
+        "fetched_at": "2026-09-18T08:54:36+00:00",
+        "summary": "Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dollar deployed on the planet in six months, with Anthropic’s US$65-billion raise alone equal to nearly a third of […] The post Ecosystem Roundup: The AI funding b…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "funding",
+          "OpenAI",
+          "Southeast Asia"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bd013f8561a198534736"
       },
       {
         "title": "alphaXiv/OpenResearch",
@@ -997,6 +1021,30 @@
       "id": "b38ea89e08129882ac6d"
     },
     {
+      "title": "Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot",
+      "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-18T08:52:58+00:00",
+      "fetched_at": "2026-09-18T08:54:36+00:00",
+      "summary": "Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dollar deployed on the planet in six months, with Anthropic’s US$65-billion raise alone equal to nearly a third of […] The post Ecosystem Roundup: The AI funding b…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "funding",
+        "OpenAI",
+        "Southeast Asia"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd013f8561a198534736"
+    },
+    {
       "title": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1861,7 +1909,32 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot",
+      "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-18T08:52:58+00:00",
+      "fetched_at": "2026-09-18T08:54:36+00:00",
+      "summary": "Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dollar deployed on the planet in six months, with Anthropic’s US$65-billion raise alone equal to nearly a third of […] The post Ecosystem Roundup: The AI funding b…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "funding",
+        "OpenAI",
+        "Southeast Asia"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd013f8561a198534736"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
