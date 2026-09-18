@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T05:31:06+00:00_
+_Generiert: 2026-09-18T05:41:33+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,8 +33,22 @@ _Generiert: 2026-09-18T05:31:06+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fdfc4b44290>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].
+- **GDACS: Green flood alert in Democratic Republic of Congo** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104166)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Democratic Republic of Congo
+- **GDACS: Green flood alert in Ecuador** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104167)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Ecuador
+- **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -134,6 +148,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonomous vehicle company said it is working with Singapore’s Ministry of Transport and Land Transport Authority […] The post Waymo’s Singapore entry raises the stake…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **今話題のAI「Jev」って何？ 宇宙最速で学ぶ会** — Score 8, observation — [Quelle](https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-18T03:54:06+00:00`, fetched `2026-09-18T05:41:02+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 - connpass https://minorun365.connpass.com/event/407308/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Cooley is accelerating IPO work with ChatGPT** — Score 8, observation — [Quelle](https://openai.com/index/cooley-gopublic)
   - Quelle: OpenAI News RSS / `rss`
