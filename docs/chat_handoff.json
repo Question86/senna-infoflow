@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-18T05:41:33+00:00",
+  "generated_at": "2026-09-18T05:46:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 5,
-    "observe": 9
+    "observe": 10
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "How to read a VAPT report without panicking",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-18T05:45:15+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/",
+      "summary": "I’ve watched the same movie play out too many times: a management team receives a penetration testing report, sees a wall of findings with scary-sounding names, and immediately assumes their platform is on fire. It’s not on fire. It’s almost never on fire. Bu…",
+      "section": "observe"
+    },
+    {
       "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 10,
       "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/",
       "summary": "On September 18, 2026, global markets rose together. Asian stocks and bonds gained as oil extended its decline. European equities climbed. The STOXX 600 rose 0.9 per cent to 642.6 points. Mining and automotive sectors led those gains. The FTSE index gained 1.…",
-      "section": "observe"
-    },
-    {
-      "title": "Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-18T03:52:38+00:00",
-      "relevance_score": 9,
-      "url": "https://e27.co/waymos-singapore-entry-raises-the-stakes-for-autonomous-mobility-in-asia-20260918/",
-      "summary": "Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonom…",
       "section": "observe"
     }
   ],
