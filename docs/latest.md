@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T07:49:55+00:00_
+_Generiert: 2026-09-18T07:55:06+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-18T07:47:27+00:00`, fetched `2026-09-18T07:54:36+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - Izu Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-18T07:41:22.040+00:00`, fetched `2026-09-18T07:43:32+00:00`
@@ -186,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-18 06:42:29 UTC 2026-09-18 06:42:29 UTC at epicenter Location 21.948°S 179.372°W Depth 548.38 km (340.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers** — Score 8, observation — [Quelle](https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-18T07:47:00.000+00:00`, fetched `2026-09-18T07:54:36+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Boris Vujčić: Interview with Reuters** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-18T06:00:00+00:00`, fetched `2026-09-18T06:09:27+00:00`
@@ -248,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: note実質1回目は、ごはんの炊き方について、です。 といっても、ご飯の美味しい炊き方については多くの方が解説されているので、ここでは味ではなく、主にに少量炊くときの利便性の話をします。 ＜結論から見たい方は下の「水加減は全体の重量で！」までスクロールしてください＞ （うちに１合の計量カップがないのでCha...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/18/2000001484/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-17T23:32:09+00:00`, fetched `2026-09-18T01:35:10+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「効率化とは、仕事を減らすことではなく、同じ時間に詰め込める仕事を増やすことだった」──8月に話題になった「はてな匿名ダイアリー」の記事で、匿名の投稿者は「AIで効率化したのに仕事は一向に楽にならない」と書き、SNSの話題を席巻した。 実際にAIオールインを掲げるDeNAの南場智子会長も、講演で「楽になった分、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T07:49:55+00:00_
+_Generated: 2026-09-18T07:55:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-18T07:49:55+00:00_
 - url: https://jvn.jp/vu/JVNVU91030326/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. M 5.0 - Izu Islands, Japan region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-18T07:41:22.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89
-- summary: Time 2026-09-18 07:19:28 UTC 2026-09-18 07:19:28 UTC at epicenter Location 32.243°N 141.576°E Depth 35.29 km (21.93 mi)
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-18T07:47:27+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
 
 ### 5. TSUBAME Report Overflow (Apr-Jun 2026)
 - source: JPCERT/CC English Blog Atom
