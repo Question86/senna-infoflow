@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T10:14:28+00:00",
+  "generated_at": "2026-09-18T10:27:20+00:00",
   "topics": {
     "ai": [
       {
@@ -184,11 +184,11 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071"
       },
       {
-        "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-18T07:47:00.000+00:00",
-        "relevance_score": 8,
-        "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html"
+        "title": "桓基科技｜OAKlouds - 存在2個漏洞",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-09-18T02:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11210-11cb0-1.html"
       }
     ],
     "general": [

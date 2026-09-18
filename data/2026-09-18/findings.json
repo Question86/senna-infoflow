@@ -599,6 +599,28 @@
     "id": "b83ca178ff1279be7d90"
   },
   {
+    "title": "桓基科技｜OAKlouds - 存在2個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11210-11cb0-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-18T02:00:00+00:00",
+    "fetched_at": "2026-09-18T10:26:51+00:00",
+    "summary": "桓基科技｜OAKlouds - 存在2個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "04d618483974d84927c5"
+  },
+  {
     "title": "How we use AI to turn one article into audience-specific versions",
     "url": "https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/",
     "source": "e27 Asia Startup and Tech Feed",
