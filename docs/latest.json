@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T15:24:31+00:00",
-  "run_id": "2026-09-18T15:24:31+00:00",
+  "generated_at": "2026-09-18T15:32:33+00:00",
+  "run_id": "2026-09-18T15:32:33+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -4085,28 +4085,7 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jetzt aktualisieren: Angreifer konnten beliebige Daten von Synology-NAS auslesen",
-      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Angreifer-konnten-beliebige-Daten-von-Synology-NAS-auslesen-11458757.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-18T15:06:00.000+00:00",
-      "fetched_at": "2026-09-18T15:24:03+00:00",
-      "summary": "Gleich auf drei verschiedenen Wegen konnten Angreifer Daten von Synology-NAS klauen. Der Hersteller behebt mit einem Flicken auch weniger dringende Lücken.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d0b5fb2cd9b3eb08dcc2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
