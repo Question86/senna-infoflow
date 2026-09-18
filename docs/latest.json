@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T18:49:36+00:00",
-  "run_id": "2026-09-18T18:49:36+00:00",
+  "generated_at": "2026-09-18T18:55:02+00:00",
+  "run_id": "2026-09-18T18:55:02+00:00",
   "date": "2026-09-18",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 82
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 82,
     "displayed_findings": 82,
     "high": 0,
     "medium": 41,
     "observe": 41,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -4285,30 +4285,15 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "【徹底解説】DeepSeek v4.1 Flashの内部構造【最適化したから解ること】｜shi3z",
-      "url": "https://note.com/shi3zblog/n/n6d4fbe03218e",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
       "source_type": "rss",
-      "published_at": "2026-09-18T14:45:34+00:00",
-      "fetched_at": "2026-09-18T18:49:09+00:00",
-      "summary": "DeepSeek v4.1の推論エンジンの高速化をしていたら、どんどんDeepSeekアーキテクチャに詳しくなってしまった。オープンウェイトだからこそ解るDeepSeekの魅力、今回はこれまでの最適化からわかったDeepSeekの構造の秘密を解き明かしてみよう。 本稿は、DeepSeek v4.1 Flashに至るまでのアーキテクチャ上の進歩や工夫を時...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a621a61b1e627d490ea7"
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
