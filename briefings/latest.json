@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T09:53:22+00:00",
-  "run_id": "2026-09-18T09:53:22+00:00",
+  "generated_at": "2026-09-18T09:58:45+00:00",
+  "run_id": "2026-09-18T09:58:45+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 0,
@@ -2035,29 +2035,7 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [
-    {
-      "title": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
-      "url": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T02:50:58+00:00",
-      "fetched_at": "2026-09-18T09:52:53+00:00",
-      "summary": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "42526bffbc5cd0ecae43"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
