@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T23:46:15+00:00",
+  "generated_at": "2026-09-18T23:52:20+00:00",
   "sections": {
     "global_security": [
       {
@@ -116,13 +116,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - Kermadec Islands region",
-        "summary": "M5.5 - Kermadec Islands region. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd",
         "published_at": "2026-09-18T23:18:28+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }

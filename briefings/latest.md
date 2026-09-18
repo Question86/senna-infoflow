@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T23:46:13+00:00_
+_Generiert: 2026-09-18T23:52:17+00:00_
 
 ## Kurzlage
 
@@ -52,7 +52,7 @@ _Generiert: 2026-09-18T23:46:13+00:00_
 - **USGS earthquake M5.5 - Kermadec Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd)
   - Quelle: USGS
   - Zeit: `2026-09-18T23:18:28+00:00`
-  - Kurz: M5.5 - Kermadec Islands region. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
