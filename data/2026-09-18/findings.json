@@ -318,6 +318,42 @@
     "id": "5c8c0ced8816f046682d"
   },
   {
+    "title": "M 4.7 - 40 km SSW of Sipí, Colombia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-18T06:34:55.040+00:00",
+    "fetched_at": "2026-09-18T06:37:16+00:00",
+    "summary": "Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b83ca178ff1279be7d90"
+  },
+  {
     "title": "How we use AI to turn one article into audience-specific versions",
     "url": "https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/",
     "source": "e27 Asia Startup and Tech Feed",

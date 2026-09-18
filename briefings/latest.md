@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T06:09:57+00:00_
+_Generiert: 2026-09-18T06:37:43+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,18 +33,18 @@ _Generiert: 2026-09-18T06:09:57+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
+- **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Thailand
 - **GDACS: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].
-- **GDACS: Green flood alert in Democratic Republic of Congo** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104166)
+- **GDACS: Green flood alert in Indonesia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104168)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Democratic Republic of Congo
-- **GDACS: Green flood alert in Ecuador** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104167)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Ecuador
+  - Kurz: Green flood alert in Indonesia
 - **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
   - Quelle: GDACS
   - Zeit: ``
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); JPCERT (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Starting...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 40 km SSW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-18T06:34:55.040+00:00`, fetched `2026-09-18T06:37:16+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How we use AI to turn one article into audience-specific versions** — Score 10, observation — [Quelle](https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-18T06:00:58+00:00`, fetched `2026-09-18T06:09:27+00:00`
