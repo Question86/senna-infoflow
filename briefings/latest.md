@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T14:01:40+00:00_
+_Generiert: 2026-09-18T14:20:45+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-09-18T14:01:40+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.5 - 169 km W of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p)
-  - Quelle: USGS
-  - Zeit: `2026-09-17T14:19:52+00:00`
-  - Kurz: M6.5 - 169 km W of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-58704 Google Pixel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
@@ -37,10 +33,10 @@ _Generiert: 2026-09-18T14:01:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
-- **GDACS: Green earthquake (Magnitude 6.5M, Depth:98km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, No people affected in 100km.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678)
+- **GDACS: Green earthquake (Magnitude 6.5M, Depth:98km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.5M, Depth:98km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 6.5M, Depth:98km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].
 - **GDACS: Green flood alert in Indonesia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104168)
   - Quelle: GDACS
   - Zeit: ``
