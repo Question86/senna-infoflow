@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-18T00:07:13Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-18T00:57:24Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,63 @@
   ],
   "top_dynamics": [
     {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
+      "url": "https://jvn.jp/vu/JVNVU91030326/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-18T09:30:15+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+    },
+    {
+      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94707104/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-18T09:30:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 90.92,
+      "age_days": 90.96,
       "topics": [
         "ai"
       ],
@@ -34,7 +86,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 90.9d old signal",
+        "aging penalty -8.0 for 91.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +96,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 89.89,
+      "age_days": 89.92,
       "topics": [
         "general"
       ],
@@ -69,7 +121,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 89.89,
+      "age_days": 89.92,
       "topics": [
         "general"
       ],
@@ -94,7 +146,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 89.89,
+      "age_days": 89.92,
       "topics": [
         "ai"
       ],
@@ -121,7 +173,7 @@
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-17T12:00:00+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -151,7 +203,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
+      "strong": 3,
       "quiet": 4
     }
   }
