@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T19:00:30+00:00_
+_Generiert: 2026-09-18T19:16:58+00:00_
 
 ## Kurzlage
 
@@ -17,6 +17,10 @@ _Generiert: 2026-09-18T19:00:30+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-18`
   - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Out-of-Bounds Write Vulnerability
+- **CISA KEV: CVE-2025-39682 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-18`
+  - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability
 - **CISA KEV: CVE-2026-58704 Google Pixel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-18T19:00:30+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
   - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability
-- **CISA KEV: CVE-2026-87886 Acronis Backup** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-16`
-  - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Acronis Backup Incorrect Default Permissions Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
