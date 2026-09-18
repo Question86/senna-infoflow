@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T11:00:14+00:00_
+_Generated: 2026-09-18T11:17:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `49`
+- findings: `55`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-18T11:00:14+00:00_
 - url: https://github.com/alphaXiv/OpenResearch
 - summary: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses…
 
-### 4. [NEU] [mittel] Red Hat Enterprise Linux (perl-Net-DNS): Schwachstelle ermöglicht Denial of Service
+### 4. [NEU] [UNGEPATCHT] [hoch] Grafana: Schwachstelle ermöglicht Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-18T10:56:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3447
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+- published: `2026-09-18T11:01:32+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3450
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Grafana ausnutzen, um beliebigen Programmcode auszuführen.
 
 ### 5. Euro area monthly balance of payments: July 2026
 - source: ECB Statistical Press Releases
