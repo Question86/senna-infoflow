@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-18T10:33:52Z",
+  "generated_at": "2026-09-18T10:46:25Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 6,
-      "strong": 6,
+      "krass": 8,
+      "strong": 7,
       "watch": 9,
-      "quiet": 16
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 13,
+      "krass": 3,
+      "strong": 15,
       "watch": 9,
-      "quiet": 16
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:06:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -71,11 +71,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen."
     },
     {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-18T10:26:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um potenziell beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Server-Side Request Forgery (SSRF) durchzuführen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände zu verursachen oder Spoofing-Angriff…"
+    },
+    {
       "title": "ISC BINDにおける複数の脆弱性（2026年9月）",
       "url": "https://jvn.jp/vu/JVNVU97703430/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T16:45:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -95,11 +120,35 @@
       "summary": "ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。"
     },
     {
+      "title": "[NEU] [mittel] libxml2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3445",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-18T10:31:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1159",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:06:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -123,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0843",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:06:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -147,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:26:31+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -196,7 +245,7 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:56:32+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -225,7 +274,7 @@
       "url": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-18T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -249,11 +298,37 @@
       "summary": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor."
     },
     {
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3444",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-18T10:31:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel möglicherweise ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, den Speicher zu beschädigen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Angriffe durchzufüh…"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:15+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -279,7 +354,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -331,7 +406,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11210-11cb0-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-18T02:00:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -357,7 +432,7 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:56:32+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -385,7 +460,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 91.36,
+      "age_days": 91.37,
       "topics": [
         "ai"
       ],
@@ -414,7 +489,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T07:41:22.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -438,7 +513,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T02:40:23.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -462,7 +537,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T01:28:31.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -486,7 +561,7 @@
       "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T08:52:58+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -512,7 +587,7 @@
       "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T01:00:01+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -560,7 +635,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-09-18T08:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -584,7 +659,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-09-18T05:00:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -608,7 +683,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti83",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T06:58:48.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -632,7 +707,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-18T08:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -656,7 +731,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-18T06:00:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -680,7 +755,7 @@
       "url": "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T06:00:04+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -705,7 +780,7 @@
       "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T04:46:43+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -731,7 +806,7 @@
       "url": "https://github.com/anthropics/claude-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:56:32+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -757,7 +832,7 @@
       "url": "https://e27.co/sbi-joins-dtcpays-us25m-round-to-bridge-japan-sea-stablecoin-corridors-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T09:07:39+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -783,7 +858,7 @@
       "url": "https://e27.co/waymos-singapore-entry-raises-the-stakes-for-autonomous-mobility-in-asia-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T03:52:38+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -809,7 +884,7 @@
       "url": "https://www.digital.go.jp/news/6ab83796-e631-4c64-ba13-9b3938056693",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-18T06:00:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -833,7 +908,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260918-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-18T05:47:06+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -857,7 +932,7 @@
       "url": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T02:50:58+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -881,7 +956,7 @@
       "url": "https://note.com/tsujimeshi/n/nf81f3a9daa1f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T02:47:56+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -905,7 +980,7 @@
       "url": "https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T06:00:58+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -931,7 +1006,7 @@
       "url": "https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T05:45:15+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -950,84 +1025,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "I’ve watched the same movie play out too many times: a management team receives a penetration testing report, sees a wall of findings with scary-sounding names, and immediately assumes their platform is on fire. It’s not on fire. It’s almost never on fire. But the report sure makes it look like it is. And that’s […] T…"
-    },
-    {
-      "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
-      "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-18T04:38:05+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "On September 18, 2026, global markets rose together. Asian stocks and bonds gained as oil extended its decline. European equities climbed. The STOXX 600 rose 0.9 per cent to 642.6 points. Mining and automotive sectors led those gains. The FTSE index gained 1.2 per cent. That marked its best one-day performance in over…"
-    },
-    {
-      "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
-      "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-18T07:47:56+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ..."
-    },
-    {
-      "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
-      "url": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-18T02:00:38+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Part of my work as an international market expansion specialist, supporting government and companies in the process of promoting and attracting opportunities, is reading a market’s readiness not just through headlines, but through the infrastructure underneath: banking systems, regulatory friction, and the everyday ex…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
