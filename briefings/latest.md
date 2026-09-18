@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T14:58:37+00:00_
+_Generiert: 2026-09-18T15:12:20+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+78 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,6 +79,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0)
   - Kurz: Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dollar deployed on the planet in six months, with Anthropic’s US$65-billion raise alone equal to nearly a third of […] The post Ecosystem Roundup: The AI funding b…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)** — Score 19, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-18T15:11:49+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, Security, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2026-87491 est activement exploitée.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **alphaXiv/OpenResearch** — Score 19, opportunity — [Quelle](https://github.com/alphaXiv/OpenResearch)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-18T05:56:32+00:00`
@@ -88,6 +97,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research artifacts. macOS 11+ · Windows beta requires Git for Windows Get started Install the CLI on macOS or Linux, then launch…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Should you read the code, is RAG dead, and did Skills kill MCP?** — Score 16, observation — [Quelle](https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-18T15:00:00+00:00`, fetched `2026-09-18T15:11:49+00:00`
+  - Treffer: AI Agents, AI/KI, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); GitHub (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0844)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-18T12:21:39+00:00`, fetched `2026-09-18T12:32:09+00:00`
@@ -178,24 +196,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bowman, Initial Findings from Independent Review of Silicon Valley Bank** — Score 14, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-09-18T13:30:00+00:00`, fetched `2026-09-18T13:38:27+00:00`
-  - Treffer: Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Silicon Valley, Federal Reserve (+2.0)
-  - Kurz: Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **DokployにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94707104/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-18T09:30:00+09:00`, fetched `2026-09-18T00:55:20+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 

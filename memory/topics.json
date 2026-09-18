@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T14:58:37+00:00",
+  "generated_at": "2026-09-18T15:12:20+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": null,
         "relevance_score": 19,
         "url": "https://github.com/alphaXiv/OpenResearch"
+      },
+      {
+        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-18T15:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
       },
       {
         "title": "GSMA says smartphone costs could deepen the coming AI divide",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-18T09:07:39+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/sbi-joins-dtcpays-us25m-round-to-bridge-japan-sea-stablecoin-corridors-20260918/"
-      },
-      {
-        "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-18T07:47:56+00:00",
-        "relevance_score": 9,
-        "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": null,
         "relevance_score": 19,
         "url": "https://github.com/alphaXiv/OpenResearch"
+      },
+      {
+        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-18T15:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
       },
       {
         "title": "GSMA says smartphone costs could deepen the coming AI divide",
@@ -120,6 +127,13 @@
       }
     ],
     "security": [
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/"
+      },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -182,16 +196,16 @@
         "published_at": "2026-09-18T07:47:27+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM Security Verify Access: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T11:36:33+00:00",
-        "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2253"
       }
     ],
     "geopolitics": [
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [hoch] Grafana: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
@@ -254,13 +268,6 @@
         "published_at": "2026-09-18T11:01:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3448"
-      },
-      {
-        "title": "[NEU] [hoch] pgAdmin: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T10:56:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3446"
       }
     ],
     "general": [
