@@ -1862,6 +1862,26 @@
     "id": "af23cb2a435a5fbea408"
   },
   {
+    "title": "Jetzt aktualisieren: Angreifer konnten beliebige Daten von Synology-NAS auslesen",
+    "url": "https://www.heise.de/news/Jetzt-aktualisieren-Angreifer-konnten-beliebige-Daten-von-Synology-NAS-auslesen-11458757.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-18T15:06:00.000+00:00",
+    "fetched_at": "2026-09-18T15:24:03+00:00",
+    "summary": "Gleich auf drei verschiedenen Wegen konnten Angreifer Daten von Synology-NAS klauen. Der Hersteller behebt mit einem Flicken auch weniger dringende Lücken.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d0b5fb2cd9b3eb08dcc2"
+  },
+  {
     "title": "ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました",
     "url": "https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498",
     "source": "Japan Digital Agency News RSS",
