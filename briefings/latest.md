@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T05:05:25+00:00_
+_Generiert: 2026-09-18T05:21:45+00:00_
 
 ## Kurzlage
 
@@ -33,8 +33,22 @@ _Generiert: 2026-09-18T05:05:25+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f3076702810>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].
+- **GDACS: Green flood alert in Democratic Republic of Congo** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104166)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Democratic Republic of Congo
+- **GDACS: Green flood alert in Ecuador** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104167)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Ecuador
+- **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
