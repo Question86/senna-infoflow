@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T23:34:42+00:00_
+_Generiert: 2026-09-18T23:40:44+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+92 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-09-18T23:34:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Somalia
+- **USGS earthquake M5.5 - Kermadec Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd)
+  - Quelle: USGS
+  - Zeit: `2026-09-18T23:18:28+00:00`
+  - Kurz: M5.5 - Kermadec Islands region. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
