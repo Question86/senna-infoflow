@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T05:46:15+00:00",
-  "run_id": "2026-09-18T05:46:15+00:00",
+  "generated_at": "2026-09-18T05:51:35+00:00",
+  "run_id": "2026-09-18T05:51:35+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 5,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -376,6 +376,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ec9c575e98b36f3aa299"
+      },
+      {
+        "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+        "url": "https://www.digital.go.jp/speech/minister-260918-01",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-18T05:47:06+00:00",
+        "fetched_at": "2026-09-18T05:51:05+00:00",
+        "summary": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "17230b5aacac19dfe1cf"
       },
       {
         "title": "経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁",
@@ -768,6 +788,26 @@
       "id": "ec9c575e98b36f3aa299"
     },
     {
+      "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260918-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-18T05:47:06+00:00",
+      "fetched_at": "2026-09-18T05:51:05+00:00",
+      "summary": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17230b5aacac19dfe1cf"
+    },
+    {
       "title": "経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁",
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -811,25 +851,24 @@
   ],
   "new_findings": [
     {
-      "title": "How to read a VAPT report without panicking",
-      "url": "https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260918-01",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-18T05:45:15+00:00",
-      "fetched_at": "2026-09-18T05:45:45+00:00",
-      "summary": "I’ve watched the same movie play out too many times: a management team receives a penetration testing report, sees a wall of findings with scary-sounding names, and immediately assumes their platform is on fire. It’s not on fire. It’s almost never on fire. But the report sure makes it look like it is. And that’s […] The post How to read a VAPT report without panicking appeared first on e27 .",
+      "published_at": "2026-09-18T05:47:06+00:00",
+      "fetched_at": "2026-09-18T05:51:05+00:00",
+      "summary": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8a959847830762442a2d"
+      "id": "17230b5aacac19dfe1cf"
     }
   ],
   "source_errors": [],

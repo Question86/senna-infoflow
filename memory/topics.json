@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T05:46:15+00:00",
+  "generated_at": "2026-09-18T05:51:35+00:00",
   "topics": {
     "security": [
       {
@@ -40,6 +40,13 @@
         "published_at": "2026-09-18T04:46:43+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/"
+      },
+      {
+        "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-18T05:47:06+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-260918-01"
       }
     ],
     "geopolitics": [
