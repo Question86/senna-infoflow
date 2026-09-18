@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T11:57:10+00:00_
+_Generated: 2026-09-18T12:08:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `59`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-18T11:57:10+00:00_
 - url: https://github.com/alphaXiv/OpenResearch
 - summary: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses…
 
-### 4. [NEU] [UNGEPATCHT] [hoch] Grafana: Schwachstelle ermöglicht Codeausführung
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-18T11:01:32+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3450
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Grafana ausnutzen, um beliebigen Programmcode auszuführen.
+- published: `2026-09-18T12:06:41+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2194
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen.
 
 ### 5. Euro area monthly balance of payments: July 2026
 - source: ECB Statistical Press Releases

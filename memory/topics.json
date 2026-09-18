@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T11:57:10+00:00",
+  "generated_at": "2026-09-18T12:08:29+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T12:06:41+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2194"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] Grafana: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-18T11:01:32+00:00",
@@ -182,13 +189,6 @@
         "published_at": "2026-09-18T11:06:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3453"
-      },
-      {
-        "title": "[NEU] [niedrig] MISP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T11:01:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3451"
       }
     ],
     "geopolitics": [
