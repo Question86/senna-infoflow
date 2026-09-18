@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T06:37:43+00:00_
+_Generiert: 2026-09-18T06:55:56+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+27 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -256,6 +256,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣就任記者会見（令和8年9月18日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「1合」という単位にとらわれないご飯の炊き方｜ツジメシ** — Score 5, observation — [Quelle](https://note.com/tsujimeshi/n/nf81f3a9daa1f)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-18T02:47:56+00:00`, fetched `2026-09-18T06:55:19+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: note実質1回目は、ごはんの炊き方について、です。 といっても、ご飯の美味しい炊き方については多くの方が解説されているので、ここでは味ではなく、主にに少量炊くときの利便性の話をします。 ＜結論から見たい方は下の「水加減は全体の重量で！」までスクロールしてください＞ （うちに１合の計量カップがないのでCha...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/18/2000001484/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
