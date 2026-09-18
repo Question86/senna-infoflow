@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-17T23:56:21+00:00",
+  "generated_at": "2026-09-18T00:05:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 30,
-    "observe": 50
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Agentic CLI customizations now in the usage metrics API",
-      "source": "GitHub Changelog Atom",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-17T21:08:50+00:00",
-      "relevance_score": 17,
-      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in… The post Agentic CLI customizations now in the usa…",
-      "section": "medium"
-    },
-    {
-      "title": "Workflow execution protections in GitHub Actions generally available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-17T15:45:26+00:00",
-      "relevance_score": 17,
-      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow executi…",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-17T10:19:45+00:00",
-      "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-17T11:41:31+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service zu verursachen oder eine nicht näher spezifizierte Auswirkung zu erzielen.",
-      "section": "medium"
-    },
-    {
-      "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-17T07:30:00.000+00:00",
-      "relevance_score": 13,
-      "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
-      "summary": "Bösartige Akteure greifen Lücken in Google Pixel, Cisco ISE und Acronis Backup für cPanel/WHM und Plesk an. Updates schützen.",
-      "section": "observe"
-    },
-    {
-      "title": "『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T09:48:12+00:00",
-      "relevance_score": 12,
-      "url": "https://prtimes.jp/main/html/rd/p/000001675.000008962.html",
-      "summary": "マネーフォワードホーム株式会社は、2026年9月17日（木）より、OpenAIが提供する「Apps in ChatGPT」（※1）で利用できる『マネーフォワード ME』アプリ（以下、本アプリ）の提供を開始しました。ユーザーが接続を許可すると、『マネーフォワード ME』のデータをChatGPTの会話内で活用し、自然な対話を通じてお金の不安や...",
-      "section": "observe"
-    },
-    {
-      "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-17T04:07:37+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
-      "summary": "Bitcoin rose 0.82 per cent in 24 hours to US$76,318.25. Ethereum gained 0.80 per cent to US$2,418.94. The total crypto market cap increased one per cent, and the broader crypto market rose 0.99 per cent. These numbers point to a single conclusion. A relief bo…",
-      "section": "observe"
-    },
-    {
-      "title": "LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T21:37:20+00:00",
-      "relevance_score": 12,
-      "url": "https://pc.watch.impress.co.jp/docs/news/2141599.html",
-      "summary": "LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発",
+      "published_at": "2026-09-17T12:00:00+00:00",
+      "relevance_score": 8,
+      "url": "https://openai.com/index/cooley-gopublic",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "section": "observe"
     }
   ],
