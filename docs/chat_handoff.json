@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-18T04:45:03+00:00",
+  "generated_at": "2026-09-18T04:51:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 5,
-    "observe": 5
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-18T04:46:43+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/",
+      "summary": "Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billio…",
+      "section": "observe"
+    },
+    {
       "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://openai.com/index/cooley-gopublic",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "section": "observe"
-    },
-    {
-      "title": "経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T23:32:09+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/",
-      "summary": "「効率化とは、仕事を減らすことではなく、同じ時間に詰め込める仕事を増やすことだった」──8月に話題になった「はてな匿名ダイアリー」の記事で、匿名の投稿者は「AIで効率化したのに仕事は一向に楽にならない」と書き、SNSの話題を席巻した。 実際にAIオールインを掲げるDeNAの南場智子会長も、講演で「楽になった分、...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
-        "url": "https://jvn.jp/vu/JVNVU91030326/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-18T09:30:15+09:00",
-        "age_days": 0.18,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU94707104/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-18T09:30:00+09:00",
-        "age_days": 0.18,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 91.12,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 91.1d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.5 - Izu Islands, Japan region",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-18T02:40:23.040+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake"
-        ],
-        "summary": "Time 2026-09-18 02:12:28 UTC 2026-09-18 02:12:28 UTC at epicenter Location 32.340°N 141.376°E Depth 36.30 km (22.55 mi)"
-      },
-      {
-        "title": "M 4.6 - 20 km ESE of Tsunō, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-18T01:28:31.040+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake"
-        ],
-        "summary": "Time 2026-09-18 01:07:30 UTC 2026-09-18 01:07:30 UTC at epicenter Location 32.162°N 131.754°E Depth 53.95 km (33.52 mi)"
-      }
-    ]
-  }
+  ]
 }
