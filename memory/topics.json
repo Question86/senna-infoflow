@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T07:24:04+00:00",
+  "generated_at": "2026-09-18T07:34:33+00:00",
   "topics": {
     "ai": [
       {
@@ -133,6 +133,13 @@
         "published_at": "2026-09-18T09:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU94707104/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T07:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418"
       },
       {
         "title": "[UPDATE] [kritisch] vm2: Mehrere Schwachstellen",
