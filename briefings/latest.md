@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T13:56:03+00:00_
+_Generiert: 2026-09-18T14:01:40+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+72 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -203,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.8 - 5 km SW of Guánica, Puerto Rico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261000)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-18T14:00:28.216+00:00`, fetched `2026-09-18T14:01:08+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-09-18 13:19:35 UTC 2026-09-18 13:19:35 UTC at epicenter Location 17.939°N 66.946°W Depth 7.00 km (4.35 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Euro area monthly balance of payments: July 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-09-18T08:00:00+00:00`, fetched `2026-09-18T08:26:17+00:00`
@@ -311,15 +320,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by ex…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 12 km SE of La Parguera, Puerto Rico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiar)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T13:38:11.795+00:00`, fetched `2026-09-18T13:38:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - V Time 2026-09-18 13:19:34 UTC 2026-09-18 13:19:34 UTC at epicenter Location 17.884°N 66.982°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB Consumer Expectations Survey results – August 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-18T08:00:00+00:00`, fetched `2026-09-18T08:26:17+00:00`
