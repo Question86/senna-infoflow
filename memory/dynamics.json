@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-18T11:21:34Z",
+  "generated_at": "2026-09-18T11:31:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,14 +9,14 @@
       "extreme": 3,
       "krass": 12,
       "strong": 11,
-      "watch": 9,
-      "quiet": 5
+      "watch": 10,
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
       "krass": 5,
       "strong": 21,
-      "watch": 9,
-      "quiet": 5
+      "watch": 10,
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3450",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T11:01:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:06:34+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:47:27+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3451",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T11:01:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:26:31+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://jvn.jp/vu/JVNVU97703430/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T16:45:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -174,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3453",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T11:06:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3452",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T11:01:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3448",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T11:01:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -270,7 +270,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3445",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:31:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -294,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1159",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:06:34+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -318,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0843",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:06:34+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -342,7 +342,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:26:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -366,7 +366,7 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-18T07:47:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -448,7 +448,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3444",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T10:31:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -474,7 +474,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:15+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -500,7 +500,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3449",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T11:01:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -526,7 +526,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -552,7 +552,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T05:51:31+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -603,7 +603,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11210-11cb0-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-18T02:00:00+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -657,7 +657,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 91.39,
+      "age_days": 91.4,
       "topics": [
         "ai"
       ],
@@ -686,7 +686,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T07:41:22.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -710,7 +710,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T02:40:23.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -734,7 +734,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T01:28:31.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -758,7 +758,7 @@
       "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T08:52:58+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -780,11 +780,35 @@
       "summary": "Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dollar deployed on the planet in six months, with Anthropic’s U…"
     },
     {
+      "title": "ネコの新種、100年以上ぶりに発見",
+      "url": "https://japan.cnet.com/article/35252798/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-18T08:19:23+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "生息地は、ボリビアのアンデス山脈東斜面に広がる雲霧林「ユンガス」だ。体は一般的なイエネコより小さい。Leopardus属には、南北アメリカ大陸に分布する小型ネコ科動物が含まれ、代表例にはオセロットやコロコロ（パンパスネコ）がいる。 研究には、パオラ・ノガレス＝アスカランス（Paola Nogales-Ascarrunz）氏やジョ..."
+    },
+    {
       "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
       "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T01:00:01+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -808,7 +832,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T06:34:55.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -832,7 +856,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-09-18T08:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -856,7 +880,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-09-18T05:00:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -880,7 +904,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti83",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T06:58:48.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -904,7 +928,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-18T08:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -928,7 +952,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-18T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "macro"
       ],
@@ -952,7 +976,7 @@
       "url": "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T06:00:04+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -977,7 +1001,7 @@
       "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T04:46:43+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -997,32 +1021,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billion set in the second half of 2021. Startup capital, by the [……"
-    },
-    {
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-18T05:56:32+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
