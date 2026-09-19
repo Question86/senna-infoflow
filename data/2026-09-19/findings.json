@@ -83,6 +83,28 @@
     "id": "110c15effb7541a4e706"
   },
   {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-18T12:00:00+00:00",
+    "fetched_at": "2026-09-19T05:27:53+00:00",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "safety"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); safety (+2.5); recent (+1.0); watchgraph region australia: Australia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "55b646c03b9fa785238f"
+  },
+  {
     "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "url": "https://forbesjapan.com/articles/detail/104778",
     "source": "Hatena Bookmark Hotentry IT",
