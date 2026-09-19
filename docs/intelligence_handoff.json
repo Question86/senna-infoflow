@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-19T02:48:48Z",
+  "generated_at": "2026-09-19T03:03:33Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 92.03,
+      "age_days": 92.05,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T09:39:13+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T06:48:22+00:00",
-      "age_days": 1.83,
+      "age_days": 1.84,
       "topics": [
         "general"
       ],
@@ -94,7 +94,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T22:51:23+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T23:35:39+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -146,7 +146,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 91.0,
+      "age_days": 91.01,
       "topics": [
         "general"
       ],
@@ -171,7 +171,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 91.0,
+      "age_days": 91.01,
       "topics": [
         "general"
       ],
@@ -196,7 +196,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 91.0,
+      "age_days": 91.01,
       "topics": [
         "ai"
       ],
@@ -223,7 +223,7 @@
       "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T07:39:00+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
