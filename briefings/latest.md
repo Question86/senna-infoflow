@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T12:46:57+00:00_
+_Generiert: 2026-09-19T12:52:52+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+23 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,8 +49,6 @@ _Generiert: 2026-09-19T12:46:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].
-
-- Sensor-Hinweis: USGS failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 ## Wirtschaft global
 
@@ -187,7 +185,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hatena_hotentry_it` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
