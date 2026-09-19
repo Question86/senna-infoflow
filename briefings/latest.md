@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T13:53:01+00:00_
+_Generiert: 2026-09-19T13:58:14+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+25 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -185,7 +185,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_thailand_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH
