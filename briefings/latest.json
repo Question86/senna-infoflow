@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T01:56:41+00:00",
-  "run_id": "2026-09-19T01:56:41+00:00",
+  "generated_at": "2026-09-19T02:05:57+00:00",
+  "run_id": "2026-09-19T02:05:57+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -210,30 +210,7 @@
       "id": "8bdacd940b230fd1369b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
-      "url": "https://news.jp/i/1473810070062515120",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T23:35:39+00:00",
-      "fetched_at": "2026-09-19T01:56:10+00:00",
-      "summary": "【ワシントン共同】米CNNテレビは18日、米軍がイランと交戦中だった今年春、人工知能（AI）を利用して作成された誤った情報を基に、中東海域で中国船に対する軍事作戦を計画していたと報じた。「核兵器開発計画の部品を運搬している」との内容で、直前に誤報だと判明し、中止したという。関係者の話としている。 中国船...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b6d1380fc684c330a5d0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
