@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T03:50:57+00:00_
+_Generiert: 2026-09-19T03:56:17+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）“ aus Hatena Bookmark Hotentry IT (Score 11, observation).
+5 neue relevante Treffer. Stärkstes Signal: „学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）“ aus Hatena Bookmark Hotentry IT (Score 11, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -51,3 +51,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `github_blog_atom` (rss): HTTPSConnectionPool(host='github.blog', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='github.blog', port=443) at 0x7f44c5453210>, 'Connection to github.blog timed out. (connect timeout=8)'))
