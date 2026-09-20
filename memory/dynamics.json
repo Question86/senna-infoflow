@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-20T07:03:08Z",
+  "generated_at": "2026-09-20T07:33:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 19,
+    "dynamics": 21,
     "bands": {
       "extreme": 1,
       "krass": 1,
       "strong": 3,
-      "watch": 4,
-      "quiet": 10
+      "watch": 5,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 4,
-      "quiet": 10
+      "watch": 5,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/trycua/cua",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:30:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -53,7 +53,7 @@
       "url": "https://github.com/coder/coder",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:30:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 93.21,
+      "age_days": 93.23,
       "topics": [
         "ai"
       ],
@@ -109,7 +109,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -134,7 +134,7 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:30:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -156,11 +156,36 @@
       "summary": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. https://openstock-ods.vercel.app New from Open Dev Society: kitbash . Before you build, find out which parts already…"
     },
     {
+      "title": "M 4.9 - 93 km ESE of Yigo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T07:03:54.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-20 06:47:56 UTC 2026-09-20 06:47:56 UTC at epicenter Location 13.265°N 145.708°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - 103 km W of Hihifo, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T05:23:42.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -185,7 +210,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:59:07.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -210,7 +235,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:13:40.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -235,7 +260,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:05:27.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -260,7 +285,7 @@
       "url": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T13:14:02+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -284,7 +309,7 @@
       "url": "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:53:17+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -308,7 +333,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:03:23+00:00",
-      "age_days": 0.87,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -332,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:00:16.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "disaster"
@@ -359,7 +384,7 @@
       "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T23:57:27+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -384,7 +409,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 92.18,
+      "age_days": 92.2,
       "topics": [
         "general"
       ],
@@ -409,7 +434,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 92.18,
+      "age_days": 92.2,
       "topics": [
         "general"
       ],
@@ -434,7 +459,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 92.18,
+      "age_days": 92.2,
       "topics": [
         "ai"
       ],
@@ -457,11 +482,36 @@
       "summary": ""
     },
     {
+      "title": "5分でJev入門（すぐ使う） - Qiita",
+      "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-20T04:26:19+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "せっかちな人むけのコンパクト記事 やること Jevをちょっと触ってみます。 Jevは超短い回答だけを超速で返してくれるAIです。 その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。 ここでは本当にちょっと使うところだけやります。 TypeSafe ai にアクセス まず↑のサイトにアクセスします。 実はすぐには使..."
+    },
+    {
       "title": "C#の現在地 進化の歴史と、AI時代の.NET Everywhere",
       "url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T05:47:30+00:00",
-      "age_days": 1.05,
+      "age_days": 1.07,
       "topics": [
         "ai"
       ],
@@ -486,7 +536,7 @@
       "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T13:07:19+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
