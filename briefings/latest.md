@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T21:16:32+00:00_
+_Generiert: 2026-09-20T21:25:13+00:00_
 
 ## Kurzlage
 
@@ -60,7 +60,7 @@ _Generiert: 2026-09-20T21:16:32+00:00_
 - **USGS earthquake M5.7 - south of Africa** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5)
   - Quelle: USGS
   - Zeit: `2026-09-20T20:54:37+00:00`
-  - Kurz: M5.7 - south of Africa. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - south of Africa. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
