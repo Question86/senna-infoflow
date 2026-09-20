@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-20T01:36:18Z",
+  "generated_at": "2026-09-20T01:56:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 7,
+    "dynamics": 8,
     "bands": {
       "strong": 2,
       "watch": 2,
-      "quiet": 3
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 2,
-      "quiet": 3
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 92.98,
+      "age_days": 93.0,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:13:40.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:05:27.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 91.95,
+      "age_days": 91.96,
       "topics": [
         "general"
       ],
@@ -142,7 +142,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 91.9d old signal"
+        "aging penalty -16.0 for 92.0d old signal"
       ],
       "summary": ""
     },
@@ -151,7 +151,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 91.95,
+      "age_days": 91.96,
       "topics": [
         "general"
       ],
@@ -167,7 +167,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 91.9d old signal"
+        "aging penalty -16.0 for 92.0d old signal"
       ],
       "summary": ""
     },
@@ -176,7 +176,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 91.95,
+      "age_days": 91.96,
       "topics": [
         "ai"
       ],
@@ -193,10 +193,36 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 91.9d old signal",
+        "aging penalty -16.0 for 92.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita",
+      "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-19T13:07:19+00:00",
+      "age_days": 0.53,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: chain",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
