@@ -229,6 +229,43 @@
     "id": "742dacd1c516516f0ab4"
   },
   {
+    "title": "M 4.7 - 234 km SSE of False Pass, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srnyvl",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-20T21:49:34.553+00:00",
+    "fetched_at": "2026-09-20T21:49:23+00:00",
+    "summary": "ShakeMap - II Time 2026-09-20 21:06:22 UTC 2026-09-20 21:06:22 UTC at epicenter Location 52.812°N 162.524°W Depth 19.40 km (12.05 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "a4a081cf863600f70f1e"
+  },
+  {
     "title": "M 5.7 - south of Africa",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5",
     "source": "USGS M4.5+ Earthquakes Past Hour",

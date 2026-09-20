@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-20T21:43:56+00:00",
+  "generated_at": "2026-09-20T21:49:55+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl"
       },
       {
+        "title": "M 4.7 - 234 km SSE of False Pass, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-20T21:49:34.553+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srnyvl"
+      },
+      {
         "title": "M 5.7 - south of Africa",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-20T21:15:38.898+00:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-09-20T01:13:40.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy"
-      },
-      {
-        "title": "M 4.9 - 85 km W of Hihifo, Tonga",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-20T01:05:27.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw"
       }
     ],
     "geopolitics": [

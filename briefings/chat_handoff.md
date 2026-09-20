@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-20T21:43:56+00:00_
+_Generated: 2026-09-20T21:49:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `34`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-20T21:43:56+00:00_
 - url: https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/
 - summary: 米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザー...
 
-### 7. M 5.7 - south of Africa
+### 7. M 4.7 - 234 km SSE of False Pass, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-20T21:49:34.553+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srnyvl
+- summary: ShakeMap - II Time 2026-09-20 21:06:22 UTC 2026-09-20 21:06:22 UTC at epicenter Location 52.812°N 162.524°W Depth 19.40 km (12.05 mi)
+
+### 8. M 5.7 - south of Africa
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-20T21:15:38.898+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5
 - summary: ShakeMap - I Time 2026-09-20 20:54:37 UTC 2026-09-20 20:54:37 UTC at epicenter Location 48.428°S 31.235°E Depth 10.00 km (6.21 mi)
-
-### 8. M 6.4 - 49 km NNE of Kainantu, Papua New Guinea
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-20T09:36:52.411+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc
-- summary: ShakeMap - V DYFI? - IV Time 2026-09-20 09:17:35 UTC 2026-09-20 09:17:35 UTC at epicenter Location 5.902°S 146.092°E Depth 104.33 km (64.83 mi)
 
 END OF DOCUMENT
