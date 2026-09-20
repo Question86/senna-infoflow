@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-20T13:21:13Z_
+_Generated: 2026-09-20T13:31:30Z_
 
 ## Lageurteil
 
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `93.47`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `93.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 93.5d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-19T10:23:21+00:00` / age_days `1.12`
+- Published: `2026-09-19T10:23:21+00:00` / age_days `1.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-20T07:45:57.040+00:00` / age_days `0.23`
+- Published: `2026-09-20T07:45:57.040+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T12:50:47.040+00:00` / age_days `0.02`
+- Published: `2026-09-20T12:50:47.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T07:03:54.040+00:00` / age_days `0.26`
+- Published: `2026-09-20T07:03:54.040+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T05:23:42.040+00:00` / age_days `0.33`
+- Published: `2026-09-20T05:23:42.040+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T03:59:07.040+00:00` / age_days `0.39`
+- Published: `2026-09-20T03:59:07.040+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
