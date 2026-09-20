@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-20T21:38:42+00:00",
+  "generated_at": "2026-09-20T21:43:56+00:00",
   "topics": {
     "ai": [
       {
@@ -89,6 +89,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/coder/coder"
+      },
+      {
+        "title": "GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-20T14:35:15+00:00",
+        "relevance_score": 8,
+        "url": "https://github.com/minorun365/minorun-marp-skill"
       },
       {
         "title": "GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed so…",
