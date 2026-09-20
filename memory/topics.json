@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-20T17:29:16+00:00",
+  "generated_at": "2026-09-20T17:37:18+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-20T13:15:50.182+00:00",
         "relevance_score": 13,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh"
+      },
+      {
+        "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-20T10:54:06+00:00",
+        "relevance_score": 12,
+        "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/"
       },
       {
         "title": "M 6.4 - 49 km NNE of Kainantu, Papua New Guinea",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-19T05:47:30+00:00",
         "relevance_score": 8,
         "url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere"
-      },
-      {
-        "title": "Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-20T03:46:30+00:00",
-        "relevance_score": 5,
-        "url": "https://note.com/kantahayashiai/n/n4c54eed30787"
       }
     ],
     "github": [
