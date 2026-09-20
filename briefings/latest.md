@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T07:41:05+00:00_
+_Generiert: 2026-09-20T07:46:12+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,14 +33,14 @@ _Generiert: 2026-09-20T07:41:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
-- **GDACS: Green flood alert in Philippines** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104176)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Philippines
 - **GDACS: Green flood alert in Cyprus** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104175)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Cyprus
+- **GDACS: Green flood alert in Philippines** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104176)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Philippines
 - **GDACS: Green notification for tropical cyclone SIX-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001323)
   - Quelle: GDACS
   - Zeit: ``
