@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-21T03:57:02+00:00",
+  "generated_at": "2026-09-21T04:06:44+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
         "published_at": "2026-09-20T12:11:00+00:00",
         "relevance_score": 5,
         "url": "https://blog.pinkumohikan.com/entry/reliable-dev-environment"
+      },
+      {
+        "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-20T04:16:01+00:00",
+        "relevance_score": 5,
+        "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7"
       }
     ],
     "github": [

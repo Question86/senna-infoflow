@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T03:57:02+00:00",
-  "run_id": "2026-09-21T03:57:02+00:00",
+  "generated_at": "2026-09-21T04:06:44+00:00",
+  "run_id": "2026-09-21T04:06:44+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 3,
-    "observe": 13,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -388,6 +388,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f68ca6f615e45d2cfbb0"
+      },
+      {
+        "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+        "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-20T04:16:01+00:00",
+        "fetched_at": "2026-09-21T04:06:16+00:00",
+        "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は普通に出...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3caf0af9b1e6924bac50"
       },
       {
         "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
@@ -792,6 +813,27 @@
       "id": "f68ca6f615e45d2cfbb0"
     },
     {
+      "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T04:16:01+00:00",
+      "fetched_at": "2026-09-21T04:06:16+00:00",
+      "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は普通に出...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3caf0af9b1e6924bac50"
+    },
+    {
       "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
       "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
       "source": "Hatena Bookmark Hotentry IT",
@@ -833,7 +875,29 @@
       "id": "aa900e38111df94a36f2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T04:16:01+00:00",
+      "fetched_at": "2026-09-21T04:06:16+00:00",
+      "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は普通に出...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3caf0af9b1e6924bac50"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
