@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-21T10:35:41Z",
+  "generated_at": "2026-09-21T10:46:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:47:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:47:08+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T10:01:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2136",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T08:41:31+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T06:48:28+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -247,7 +247,7 @@
       "url": "https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T08:20:51+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -374,7 +374,7 @@
       "url": "https://github.com/anthropics/financial-services",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-21T06:46:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -400,7 +400,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 94.36,
+      "age_days": 94.37,
       "topics": [
         "ai"
       ],
@@ -456,7 +456,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3472",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T10:06:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -482,7 +482,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T02:09:54.880+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -533,7 +533,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-21T06:16:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -558,7 +558,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T07:51:52.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -583,7 +583,7 @@
       "url": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-21T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -609,7 +609,7 @@
       "url": "https://tech-blog-v2-opal.vercel.app/article/balancing-engineering-and-parenting",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T05:49:33+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -634,7 +634,7 @@
       "url": "https://github.com/BuilderIO/agent-native",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-21T06:46:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -686,7 +686,7 @@
       "url": "https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-21T10:21:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security",
         "macro"
@@ -711,7 +711,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:09:41.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -735,7 +735,7 @@
       "url": "https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-21T00:00:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -763,7 +763,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:44:02.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -812,7 +812,7 @@
       "url": "https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-21T00:00:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -839,7 +839,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-21T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -863,7 +863,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-21T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -887,7 +887,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:25:41.887+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "disaster"
@@ -915,7 +915,7 @@
       "url": "https://e27.co/sea-logistics-tech-funding-hits-five-year-high-but-its-still-a-third-of-the-2021-peak-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T09:53:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -939,7 +939,7 @@
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:00:51+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -965,7 +965,7 @@
       "url": "https://www.bis.org/speeches/20260921-what-money",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-21T00:00:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "macro"
       ],
@@ -989,7 +989,7 @@
       "url": "https://www.bis.org/speeches/20260921-shaping-next-decade-finance-technology-trust-and-innovation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-21T00:00:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"

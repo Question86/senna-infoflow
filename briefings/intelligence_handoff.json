@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-21T10:35:41Z",
+  "generated_at": "2026-09-21T10:46:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [kritisch] D-LINK Router DIR-822A: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:47:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:47:08+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -141,7 +141,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T10:01:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -165,7 +165,7 @@
       "url": "https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T08:20:51+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -292,7 +292,7 @@
       "url": "https://github.com/anthropics/financial-services",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-21T06:46:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
