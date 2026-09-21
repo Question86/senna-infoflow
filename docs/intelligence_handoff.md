@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-21T17:20:14Z_
+_Generated: 2026-09-21T17:31:39Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-21T09:56:32+00:00` / age_days `0.31`
+- Published: `2026-09-21T09:56:32+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, security high-signal: kritisch, code
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-21T09:47:09+00:00` / age_days `0.31`
+- Published: `2026-09-21T09:47:09+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-21T11:01:31+00:00` / age_days `0.26`
+- Published: `2026-09-21T11:01:31+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-21T09:47:08+00:00` / age_days `0.31`
+- Published: `2026-09-21T09:47:08+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-21T00:00:00+00:00` / age_days `0.72`
+- Published: `2026-09-21T00:00:00+00:00` / age_days `0.73`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-21T08:20:51+00:00` / age_days `0.37`
+- Published: `2026-09-21T08:20:51+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-21T03:00:15+00:00` / age_days `0.6`
+- Published: `2026-09-21T03:00:15+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU Emacs und Red Hat 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-21T11:01:31+00:00` / age_days `0.26`
+- Published: `2026-09-21T11:01:31+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
