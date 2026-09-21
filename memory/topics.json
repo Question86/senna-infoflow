@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-21T11:27:38+00:00",
+  "generated_at": "2026-09-21T11:36:38+00:00",
   "topics": {
     "ai": [
       {
@@ -163,6 +163,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3466"
       },
       {
+        "title": "[UPDATE] [mittel] GNU Emacs und Red Hat Enterprise Linux: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T11:26:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3558"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T11:26:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3484"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T11:21:31+00:00",
@@ -196,20 +210,6 @@
         "published_at": "2026-09-21T09:56:32+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (freeipmi): Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T09:47:09+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1350"
-      },
-      {
-        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T11:21:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3483"
       }
     ],
     "economy": [
@@ -358,6 +358,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3466"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T11:26:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3484"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T11:21:31+00:00",
@@ -393,25 +400,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468"
       },
       {
+        "title": "[NEU] [mittel] Checkmk: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T11:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3485"
+      },
+      {
         "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T11:21:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3483"
-      },
-      {
-        "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T11:21:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3482"
-      },
-      {
-        "title": "[NEU] [hoch] xwiki: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T11:01:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3479"
       }
     ]
   }
