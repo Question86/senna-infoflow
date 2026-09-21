@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T04:59:35+00:00",
-  "run_id": "2026-09-21T04:59:35+00:00",
+  "generated_at": "2026-09-21T05:19:14+00:00",
+  "run_id": "2026-09-21T05:19:14+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 4,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -460,6 +460,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "371309b3c23f2af507d1"
+      },
+      {
+        "title": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2142515.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-20T16:29:22+00:00",
+        "fetched_at": "2026-09-21T05:18:42+00:00",
+        "summary": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af615a1875fa3190d3b0"
       },
       {
         "title": "開発環境を信頼できる状態に保つ - モヒカン技術ブログ",
@@ -998,6 +1019,27 @@
       "id": "371309b3c23f2af507d1"
     },
     {
+      "title": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2142515.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T16:29:22+00:00",
+      "fetched_at": "2026-09-21T05:18:42+00:00",
+      "summary": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af615a1875fa3190d3b0"
+    },
+    {
       "title": "開発環境を信頼できる状態に保つ - モヒカン技術ブログ",
       "url": "https://blog.pinkumohikan.com/entry/reliable-dev-environment",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1103,24 +1145,25 @@
   ],
   "new_findings": [
     {
-      "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
-      "url": "https://e27.co/can-ethereum-clear-us2672-this-week-and-unlock-a-run-to-us3000-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2142515.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-21T04:57:59+00:00",
-      "fetched_at": "2026-09-21T04:59:03+00:00",
-      "summary": "Ethereum gained 8.79 per cent over the last seven days. In 24 hours, Ether added 0.97 per cent to US$2,653.19. That performance beat Bitcoin’s 0.32 per cent gain. The wider crypto complex rose 1.04 per cent to US$2.81T. The seven day move is not a random spike. It sits inside a strong shift into smaller […] The post Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? appeared first on e27 .",
+      "published_at": "2026-09-20T16:29:22+00:00",
+      "fetched_at": "2026-09-21T05:18:42+00:00",
+      "summary": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1320ea8d2505772f3505"
+      "id": "af615a1875fa3190d3b0"
     }
   ],
   "source_errors": [],
