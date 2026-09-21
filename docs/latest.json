@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T11:15:11+00:00",
-  "run_id": "2026-09-21T11:15:11+00:00",
+  "generated_at": "2026-09-21T11:27:38+00:00",
+  "run_id": "2026-09-21T11:27:38+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 3,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
-    "medium": 24,
+    "medium": 27,
     "observe": 37,
     "source_errors": 0
   },
@@ -257,6 +257,30 @@
         "id": "8ae2b97f7d6e6a297549"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-21T11:21:31+00:00",
+        "fetched_at": "2026-09-21T11:27:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0159576805a5930c3cc"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] OpenClaw: Schwachstelle ermöglicht Denial of Service",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3478",
         "source": "BSI CERT-Bund Security Advisories",
@@ -457,6 +481,52 @@
           "LOW"
         ],
         "id": "8db4bb426075fd13d2d5"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3483",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-21T11:21:31+00:00",
+        "fetched_at": "2026-09-21T11:27:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96dcf788834c27ebad95"
+      },
+      {
+        "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3482",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-21T11:21:31+00:00",
+        "fetched_at": "2026-09-21T11:27:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "04c5a48fe8b501e8bd15"
       },
       {
         "title": "[NEU] [hoch] xwiki: Schwachstelle ermöglicht Codeausführung",
@@ -1736,6 +1806,30 @@
       "id": "8ae2b97f7d6e6a297549"
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-21T11:21:31+00:00",
+      "fetched_at": "2026-09-21T11:27:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0159576805a5930c3cc"
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] OpenClaw: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3478",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1936,6 +2030,52 @@
         "LOW"
       ],
       "id": "8db4bb426075fd13d2d5"
+    },
+    {
+      "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3483",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-21T11:21:31+00:00",
+      "fetched_at": "2026-09-21T11:27:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96dcf788834c27ebad95"
+    },
+    {
+      "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3482",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-21T11:21:31+00:00",
+      "fetched_at": "2026-09-21T11:27:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04c5a48fe8b501e8bd15"
     },
     {
       "title": "[NEU] [hoch] xwiki: Schwachstelle ermöglicht Codeausführung",
@@ -2985,37 +3125,37 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] OpenClaw: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3478",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-21T10:56:31+00:00",
-      "fetched_at": "2026-09-21T11:14:41+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenClaw ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-09-21T11:21:31+00:00",
+      "fetched_at": "2026-09-21T11:27:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Patch",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "064dca3234f3bbc724fb"
+      "id": "b0159576805a5930c3cc"
     },
     {
-      "title": "[NEU] [hoch] Docker Sandboxes: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3480",
+      "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3483",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-21T11:01:31+00:00",
-      "fetched_at": "2026-09-21T11:14:41+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Docker Sandboxes ausnutzen, um beliebigen Programmcode auszuführen und um Sicherheitsmaßnahmen zu umgehen.",
+      "published_at": "2026-09-21T11:21:31+00:00",
+      "fetched_at": "2026-09-21T11:27:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3029,16 +3169,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "244f4937199f67b96605"
+      "id": "96dcf788834c27ebad95"
     },
     {
-      "title": "[NEU] [hoch] xwiki: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3479",
+      "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3482",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-21T11:01:31+00:00",
-      "fetched_at": "2026-09-21T11:14:41+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in xwiki ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-09-21T11:21:31+00:00",
+      "fetched_at": "2026-09-21T11:27:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3052,30 +3192,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c0dfc35d87944fc9471d"
-    },
-    {
-      "title": "[NEU] [hoch] Netty: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3477",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-21T10:56:31+00:00",
-      "fetched_at": "2026-09-21T11:14:41+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8975ee13a96327f1d4fd"
+      "id": "04c5a48fe8b501e8bd15"
     }
   ],
   "source_errors": [],
