@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-21T04:29:43+00:00",
+  "generated_at": "2026-09-21T04:45:18+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
         "published_at": "2026-09-21T04:09:41.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb"
+      },
+      {
+        "title": "M 4.7 - 156 km NNW of Hicks Bay, New Zealand",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-21T04:44:02.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi"
       },
       {
         "title": "開発環境を信頼できる状態に保つ - モヒカン技術ブログ",
