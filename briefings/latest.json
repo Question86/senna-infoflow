@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T21:36:46+00:00",
-  "run_id": "2026-09-21T21:36:46+00:00",
+  "generated_at": "2026-09-21T21:42:06+00:00",
+  "run_id": "2026-09-21T21:42:06+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 90,
     "displayed_findings": 90,
     "high": 0,
@@ -4475,28 +4475,7 @@
       "id": "b13af2f1f952131a97ba"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Enterprise adds credential inventory exports",
-      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-21T21:13:18+00:00",
-      "fetched_at": "2026-09-21T21:36:19+00:00",
-      "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and… The post GitHub Enterprise adds credential inventory exports appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e52316eeb7894bc2f904"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
