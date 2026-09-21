@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-21T10:03:32Z",
+  "generated_at": "2026-09-21T10:25:46Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [kritisch] D-LINK Router DIR-822A: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:56:32+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:47:09+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:47:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3456",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T08:46:33+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -115,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T08:46:32+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -137,11 +137,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in HCL BigFix ausnutzen, um Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Daten offenzulegen oder zu manipulieren, SQL-Injection- oder Cross-Site-Scripting-Angriffe durchzuführen oder serverseitige Request-Forgery- sowie B…"
     },
     {
-      "title": "[UPDATE] [hoch] Moxa Ethernet Switch (TN-4500B): Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3455",
+      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-21T08:46:32+00:00",
-      "age_days": 0.05,
+      "published_at": "2026-09-21T10:01:31+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -158,14 +158,14 @@
       "why": [
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Moxa Switch ausnutzen, um einen Denial of Service Angriff durchzuführen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
       "title": "SEA’s venture capital shifts from mega-rounds to AI and SaaS",
       "url": "https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T08:20:51+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -191,7 +191,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:00:15+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security",
         "macro"
@@ -217,7 +217,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3466",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:56:32+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -242,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3467",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:56:32+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -267,7 +267,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3465",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:56:32+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -292,7 +292,7 @@
       "url": "https://github.com/anthropics/financial-services",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-21T06:46:20+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
