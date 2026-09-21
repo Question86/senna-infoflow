@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T09:39:44+00:00_
+_Generated: 2026-09-21T09:49:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `45`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-21T09:39:44+00:00_
 - url: https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan
 - summary: Speech by Mr Kazuyuki Masu, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Fukui, 10 September 2026.
 
-### 7. M 4.5 - 4 km W of Victor Raul, Peru
+### 7. Building the financial system of the future - trusted, connected and resilient
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-09-21T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient
+- summary: Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
+
+### 8. M 4.5 - 4 km W of Victor Raul, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-21T04:09:41.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb
 - summary: Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)
-
-### 8. Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-09-21T01:00:51+00:00`
-- url: https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/
-- summary: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, heal…
 
 END OF DOCUMENT

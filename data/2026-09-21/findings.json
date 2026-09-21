@@ -130,6 +130,30 @@
     "id": "3e3b61fcb91c640460f5"
   },
   {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (freeipmi): Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1350",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-21T09:47:09+00:00",
+    "fetched_at": "2026-09-21T09:49:27+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder eine Speicherbeschädigung zu erreichen, wodurch möglicherweise die Ausführung von beliebigem Code ermöglicht wird.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "73a33ca7b405093cfa93"
+  },
+  {
     "title": "SEA’s venture capital shifts from mega-rounds to AI and SaaS",
     "url": "https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -210,6 +234,29 @@
       "LOW"
     ],
     "id": "8db4bb426075fd13d2d5"
+  },
+  {
+    "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1147",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-21T09:47:08+00:00",
+    "fetched_at": "2026-09-21T09:49:27+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "52e59defb5fc2dd929d6"
   },
   {
     "title": "[UPDATE] [mittel] QEMU: Schwachstelle ermöglicht Codeausführung",
@@ -367,6 +414,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ef5dbec0c7dd52223f6"
+  },
+  {
+    "title": "Building the financial system of the future - trusted, connected and resilient",
+    "url": "https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "fetched_at": "2026-09-21T09:49:27+00:00",
+    "summary": "Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: Mumbai (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3d96d1a7bb28da91b14e"
   },
   {
     "title": "M 4.5 - 4 km W of Victor Raul, Peru",
@@ -563,6 +631,26 @@
     "id": "8502438c5b1feeefc3ac"
   },
   {
+    "title": "National Bank of Ukraine press briefing - monetary policy decisions",
+    "url": "https://www.bis.org/speeches/20260921-national-bank-ukraine-press-briefing-monetary-policy-decisions",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-18T00:00:00+00:00",
+    "fetched_at": "2026-09-21T09:49:27+00:00",
+    "summary": "Speech by Mr Andriy Pyshnyy, Governor of the National Bank of Ukraine, at a press briefing on monetary policy decisions, Kyiv, 17 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+6.2); watchgraph region europe: Kyiv (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c7e4482761b79c1c0e23"
+  },
+  {
     "title": "Werbeblocker Pi-hole: Update stopft Codeschmuggel-Lücken",
     "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-Luecken-11459820.html",
     "source": "heise Security Alerts",
@@ -683,6 +771,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5887c48b0ee5f1e8ea82"
+  },
+  {
+    "title": "What is money?",
+    "url": "https://www.bis.org/speeches/20260921-what-money",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "fetched_at": "2026-09-21T09:49:27+00:00",
+    "summary": "Speech by Ms Anna Seim, Deputy Governor of the Sveriges Riksbank, at the Economy Museum, Stockholm, 9 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "377b2b94a8f7c9622c82"
   },
   {
     "title": "GitHub - fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion e",
