@@ -2138,6 +2138,26 @@
     "id": "d2887ed1d197f725788b"
   },
   {
+    "title": "GitHub Enterprise adds credential inventory exports",
+    "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-21T21:13:18+00:00",
+    "fetched_at": "2026-09-21T21:36:19+00:00",
+    "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and… The post GitHub Enterprise adds credential inventory exports appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e52316eeb7894bc2f904"
+  },
+  {
     "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
     "url": "https://e27.co/can-ethereum-clear-us2672-this-week-and-unlock-a-run-to-us3000-20260921/",
     "source": "e27 Asia Startup and Tech Feed",
