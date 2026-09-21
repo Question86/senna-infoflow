@@ -130,6 +130,30 @@
     "id": "3e3b61fcb91c640460f5"
   },
   {
+    "title": "[NEU] [hoch] WordPress: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3472",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-21T10:06:31+00:00",
+    "fetched_at": "2026-09-21T10:22:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8bc6ae41db2baed04832"
+  },
+  {
     "title": "[NEU] [hoch] Pega Platform: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3466",
     "source": "BSI CERT-Bund Security Advisories",
@@ -330,6 +354,29 @@
       "LOW"
     ],
     "id": "8db4bb426075fd13d2d5"
+  },
+  {
+    "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-21T10:01:31+00:00",
+    "fetched_at": "2026-09-21T10:22:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eaf0c3de7db91b7370e0"
   },
   {
     "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
@@ -971,6 +1018,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0d84d5b43526740c6f5a"
+  },
+  {
+    "title": "Nvidia’s free AI model could push the UAE closer to the U.S.",
+    "url": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-21T10:00:00+00:00",
+    "fetched_at": "2026-09-21T10:22:18+00:00",
+    "summary": "The Emirates owns the machines but rents the intelligence. Nvidia’s next free AI model could change that.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0dae4d2d46898e4e74a5"
   },
   {
     "title": "エンジニアと育児の両立の難しさ",

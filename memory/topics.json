@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-21T10:02:29+00:00",
+  "generated_at": "2026-09-21T10:22:46+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/"
       },
       {
+        "title": "[NEU] [hoch] WordPress: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:06:31+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3472"
+      },
+      {
         "title": "[NEU] [hoch] Pega Platform: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T09:56:32+00:00",
@@ -119,6 +126,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1350"
       },
       {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471"
+      },
+      {
         "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T09:47:08+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-09-21T08:46:33+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3456"
-      },
-      {
-        "title": "[UPDATE] [hoch] Moxa Ethernet Switch (TN-4500B): Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T08:46:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3455"
-      },
-      {
-        "title": "[UPDATE] [hoch] HCL BigFix Service Management: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T08:46:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3461"
       }
     ],
     "economy": [
@@ -337,6 +337,13 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [hoch] WordPress: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:06:31+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3472"
+      },
+      {
         "title": "[NEU] [hoch] Pega Platform: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T09:56:32+00:00",
@@ -365,6 +372,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468"
       },
       {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471"
+      },
+      {
         "title": "Economic activity, prices, and monetary policy in Japan",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-21T00:00:00+00:00",
@@ -391,20 +405,6 @@
         "published_at": "2026-09-21T10:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html"
-      },
-      {
-        "title": "SEA logistics tech funding hits five-year high, but it’s still a third of the 2021 peak",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T09:53:06+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/sea-logistics-tech-funding-hits-five-year-high-but-its-still-a-third-of-the-2021-peak-20260921/"
-      },
-      {
-        "title": "National Bank of Ukraine press briefing - monetary policy decisions",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-18T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20260921-national-bank-ukraine-press-briefing-monetary-policy-decisions"
       }
     ]
   }

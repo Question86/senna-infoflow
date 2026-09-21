@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T10:02:29+00:00_
+_Generiert: 2026-09-21T10:22:46+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+55 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -109,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region south_korea: South Korea (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial performance. In its 2025 annual report, ITM Semiconductor said it had recovered about US$2.47 million […] The post ITM Semiconductor’s Vietnam unit hit by fraud…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] WordPress: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3472)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-21T10:06:31+00:00`, fetched `2026-09-21T10:22:18+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Pega Platform: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3466)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-21T09:56:32+00:00`, fetched `2026-09-21T10:01:59+00:00`
@@ -126,15 +135,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um seine Privilegien zu erhöhen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [UNGEPATCHT] [mittel] poppler: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3465)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-21T09:56:32+00:00`, fetched `2026-09-21T10:01:59+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in poppler ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SEA’s venture capital shifts from mega-rounds to AI and SaaS** — Score 15, observation — [Quelle](https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
