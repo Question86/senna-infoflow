@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-21T04:06:44+00:00",
+  "generated_at": "2026-09-21T04:29:43+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-20T09:58:00+00:00",
         "relevance_score": 23,
         "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro"
+      },
+      {
+        "title": "ITM Semiconductor’s Vietnam unit hit by fraud and widening losses",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-21T04:26:25+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/"
       },
       {
         "title": "The AI productivity paradox: Why finance must move beyond automation",
@@ -66,13 +73,6 @@
         "published_at": "2026-04-22T23:31:43+00:00",
         "relevance_score": 6,
         "url": "https://github.com/fallow-rs/fallow"
-      },
-      {
-        "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-20T21:55:14+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html"
       }
     ],
     "security": [
@@ -116,6 +116,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur"
       },
       {
+        "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-21T04:09:41.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb"
+      },
+      {
         "title": "開発環境を信頼できる状態に保つ - モヒカン技術ブログ",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-20T12:11:00+00:00",
@@ -131,6 +138,13 @@
       }
     ],
     "github": [
+      {
+        "title": "ITM Semiconductor’s Vietnam unit hit by fraud and widening losses",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-21T04:26:25+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/"
+      },
       {
         "title": "The AI productivity paradox: Why finance must move beyond automation",
         "source": "e27 Asia Startup and Tech Feed",
