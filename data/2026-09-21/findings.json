@@ -337,6 +337,27 @@
     "id": "371309b3c23f2af507d1"
   },
   {
+    "title": "開発環境を信頼できる状態に保つ - モヒカン技術ブログ",
+    "url": "https://blog.pinkumohikan.com/entry/reliable-dev-environment",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-20T12:11:00+00:00",
+    "fetched_at": "2026-09-21T03:37:20+00:00",
+    "summary": "システムの開発環境は「そこで動くなら本番環境でも問題ないだろう」と思える状態に保ちたい。 開発環境は動くだけでは足りない 「書いたプログラムが開発環境では動いたが、本番環境では動かなかった」それが続くと開発環境に対する信頼が揺らぐ。たくさんの資料を読んだり先人に聞かないとアプリケーションが立ち上が...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f68ca6f615e45d2cfbb0"
+  },
+  {
     "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
     "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
     "source": "Hatena Bookmark Hotentry IT",
