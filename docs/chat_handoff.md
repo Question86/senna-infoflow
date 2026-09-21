@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T12:59:35+00:00_
+_Generated: 2026-09-21T13:18:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `75`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-21T12:59:35+00:00_
 - url: https://harnesstax.github.io/
 - summary: What does a coding-agent harness actually add, and at what cost? It turns out your Claude models may not need Claude Code… We evaluate 21 model–harness pairs spanning seven models and three harnesses—Claude Code, Codex CLI, and Pi—on SWE-bench Lite and Termin…
 
-### 3. Why Singapore SMEs should treat cybersecurity as a sales issue
+### 3. How V7 gives AI agents institutional memory
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-09-21T00:00:00+00:00`
+- url: https://openai.com/index/v7
+- summary: Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
+
+### 4. Why Singapore SMEs should treat cybersecurity as a sales issue
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-09-21T03:00:15+00:00`
 - url: https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/
 - summary: Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our info…
-
-### 4. M 5.5 - 35 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-09-21T02:09:54.880+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur
-- summary: PAGER - GREEN ShakeMap - VII Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)
 
 ### 5. The AI productivity paradox: Why finance must move beyond automation
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-09-21T12:59:35+00:00_
 - url: https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient
 - summary: Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
 
-### 8. M 4.7 - 76 km W of Ollagüe, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-21T12:34:20.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixg
-- summary: Time 2026-09-21 12:17:05 UTC 2026-09-21 12:17:05 UTC at epicenter Location 21.264°S 68.989°W Depth 121.18 km (75.30 mi)
+### 8. Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-09-15T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.
 
 END OF DOCUMENT
