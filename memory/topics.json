@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-21T10:59:06+00:00",
+  "generated_at": "2026-09-21T11:15:11+00:00",
   "topics": {
     "ai": [
       {
@@ -163,6 +163,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3466"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] OpenClaw: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:56:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3478"
+      },
+      {
         "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T09:56:32+00:00",
@@ -191,25 +198,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1350"
       },
       {
-        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] xwiki: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T10:01:31+00:00",
+        "published_at": "2026-09-21T11:01:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3479"
       },
       {
-        "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] Docker Sandboxes: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T09:47:08+00:00",
+        "published_at": "2026-09-21T11:01:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1147"
-      },
-      {
-        "title": "[UPDATE] [mittel] QEMU: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-21T08:46:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3456"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3480"
       }
     ],
     "economy": [
@@ -358,6 +358,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3466"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] OpenClaw: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:56:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3478"
+      },
+      {
         "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T09:56:32+00:00",
@@ -379,39 +386,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468"
       },
       {
+        "title": "[NEU] [hoch] xwiki: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T11:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3479"
+      },
+      {
+        "title": "[NEU] [hoch] Docker Sandboxes: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T11:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3480"
+      },
+      {
+        "title": "[NEU] [hoch] Netty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:56:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3477"
+      },
+      {
         "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T10:01:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471"
-      },
-      {
-        "title": "Economic activity, prices, and monetary policy in Japan",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-21T00:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan"
-      },
-      {
-        "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T01:00:51+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/"
-      },
-      {
-        "title": "Eurosystem brings central bank money to tokenised finance",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-21T10:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html"
-      },
-      {
-        "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-21T10:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html"
       }
     ]
   }
