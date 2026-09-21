@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T16:35:22+00:00_
+_Generiert: 2026-09-21T16:45:22+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+82 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Grok 4.7 is now available in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-21T14:54:12+00:00`, fetched `2026-09-21T16:44:49+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is… The post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 76 km W of Ollagüe, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-21T12:34:20.040+00:00`, fetched `2026-09-21T12:44:54+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI実行アプリ「Locally AI」に追加されたので、テキストでのチャット機能や画像...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SEA logistics tech funding hits five-year high, but it’s still a third of the 2021 peak** — Score 8, observation — [Quelle](https://e27.co/sea-logistics-tech-funding-hits-five-year-high-but-its-still-a-third-of-the-2021-peak-20260921/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-21T09:53:06+00:00`, fetched `2026-09-21T09:55:36+00:00`
-  - Treffer: APAC Trend Radar, funding, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia’s logistics tech sector wants credit for bouncing back. A new report from data intelligence platform Tracxn shows the region’s warehousing, freight and last-mile players pulling in US$339 million so far in 2026, the strongest annual haul since 2021. Read past the headline, though, and the recovery looks a lot less triumphant: that figure […] The post SEA logistics tech funding hits five-year high, but…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
