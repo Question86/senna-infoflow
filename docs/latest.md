@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T17:34:10+00:00_
+_Generiert: 2026-09-22T17:41:05+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
+64 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens technology closer to commercial scale. The arrangement is structured through a warrant deed under which White Lion […] The post Singapore’s MetaOptics eyes US expans…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Priorities and principles for effective third party assessments** — Score 12, observation — [Quelle](https://openai.com/index/priorities-principles-third-party-assessments)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T17:40:34+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); safety (+2.0); recent (+1.0)
+  - Kurz: OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites** — Score 11, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-22T07:52:00.000+00:00`, fetched `2026-09-22T08:09:38+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Canberra, Reserve Bank of Australia (+2.0)
   - Kurz: Opening statement by Ms Michele Bullock, Governor of the Reserve Bank of Australia, to the House of Representatives Standing Committee on Economics, Canberra, 18 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Google Pixel (16 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1176/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-22T12:31:54+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Google indique que la vulnérabilité...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
