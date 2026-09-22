@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-22T12:05:59+00:00",
+  "generated_at": "2026-09-22T12:32:22+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 9,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 14,
-    "observe": 26
+    "medium": 19,
+    "observe": 30
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [mittel] libssh2: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-22T12:12:00+00:00",
+      "relevance_score": 17,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um Dateien zu manipulieren, Speicherbeschädigungen zu verursachen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.",
+      "section": "medium"
+    },
+    {
       "title": "[UPDATE] [niedrig] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1037",
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-22T12:03:20+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0950",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise Codeausführung, Denial-of-Service-Angriffe, die Umgehung von Sicherheitsmaßnahmen oder die Manipulation von Daten.",
       "section": "medium"
     },
     {
