@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T11:56:45+00:00",
+  "generated_at": "2026-09-22T12:05:59+00:00",
   "topics": {
     "general": [
       {
@@ -75,30 +75,21 @@
         "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9"
       }
     ],
-    "github": [
-      {
-        "title": "Deprecation notice: All-platform CodeQL bundle",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-22T09:21:03+00:00",
-        "relevance_score": 16,
-        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle"
-      },
-      {
-        "title": "tanteki — 業務のための文書をもっと端的に",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-21T23:10:19+00:00",
-        "relevance_score": 7,
-        "url": "https://iwasa-kosui.github.io/tanteki/"
-      },
-      {
-        "title": "Refreshed repository pull requests page generally available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-22T01:25:53+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available"
-      }
-    ],
     "security": [
+      {
+        "title": "[UPDATE] [niedrig] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:03:22+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1037"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:03:20+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0950"
+      },
       {
         "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -140,6 +131,29 @@
         "published_at": "2026-09-22T07:52:00.000+00:00",
         "relevance_score": 11,
         "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "Deprecation notice: All-platform CodeQL bundle",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-22T09:21:03+00:00",
+        "relevance_score": 16,
+        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle"
+      },
+      {
+        "title": "tanteki — 業務のための文書をもっと端的に",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-21T23:10:19+00:00",
+        "relevance_score": 7,
+        "url": "https://iwasa-kosui.github.io/tanteki/"
+      },
+      {
+        "title": "Refreshed repository pull requests page generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-22T01:25:53+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available"
       }
     ],
     "ai": [

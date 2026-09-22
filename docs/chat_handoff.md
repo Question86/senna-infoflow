@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T11:56:45+00:00_
+_Generated: 2026-09-22T12:05:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `40`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-22T11:56:45+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k
 - summary: Time 2026-09-22 05:18:24 UTC 2026-09-22 05:18:24 UTC at epicenter Location 23.133°N 142.437°E Depth 10.00 km (6.21 mi)
 
-### 3. Deprecation notice: All-platform CodeQL bundle
-- source: GitHub Changelog Atom
-- score: `16`
-- published: `2026-09-22T09:21:03+00:00`
-- url: https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle
-- summary: Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.zst), which includes the binaries for all supported platforms up to this release, is marked as deprecated. In… The post Deprecation notice: All-p…
-
-### 4. [UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
+### 3. [UPDATE] [niedrig] Linux Kernel: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-22T08:06:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417
-- summary: Ein Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle als Root auszuführen, Berechtigungen auf Root zu erweitern, SQL-Injection durchzuführen, Anmeldedaten für Adm…
+- published: `2026-09-22T12:03:22+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1037
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-22T12:03:20+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0950
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise Codeausführung, Denial-of-Service-Angriffe, die Umgehung von Sicherheitsmaßnahmen oder die Manipulation von Daten.
 
 ### 5. The compliance paradox: More checks, more fraud
 - source: e27 Asia Startup and Tech Feed
