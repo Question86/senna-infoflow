@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T15:07:14+00:00_
+_Generiert: 2026-09-22T15:22:51+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+59 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
