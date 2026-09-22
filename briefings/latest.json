@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T03:54:12+00:00",
-  "run_id": "2026-09-22T03:54:12+00:00",
+  "generated_at": "2026-09-22T03:59:31+00:00",
+  "run_id": "2026-09-22T03:59:31+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 0,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -113,6 +113,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0dede193a31c62c23165"
+      },
+      {
+        "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
+        "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-22T02:56:00+00:00",
+        "fetched_at": "2026-09-22T03:59:00+00:00",
+        "summary": "日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cacf4c2c1416628bc0b5"
       },
       {
         "title": "AI lets outsiders build but the connected still have an advantage",
@@ -327,6 +349,28 @@
       "id": "0dede193a31c62c23165"
     },
     {
+      "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-22T02:56:00+00:00",
+      "fetched_at": "2026-09-22T03:59:00+00:00",
+      "summary": "日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cacf4c2c1416628bc0b5"
+    },
+    {
       "title": "AI lets outsiders build but the connected still have an advantage",
       "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -452,7 +496,30 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-22T02:56:00+00:00",
+      "fetched_at": "2026-09-22T03:59:00+00:00",
+      "summary": "日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cacf4c2c1416628bc0b5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
