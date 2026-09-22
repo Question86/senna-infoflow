@@ -98,6 +98,43 @@
     "id": "a6b3075964b185fe1310"
   },
   {
+    "title": "M 4.6 - 19 km ENE of Nailong, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-22T07:11:17.331+00:00",
+    "fetched_at": "2026-09-22T07:25:17+00:00",
+    "summary": "DYFI? - V Time 2026-09-22 06:48:09 UTC 2026-09-22 06:48:09 UTC at epicenter Location 11.096°N 124.210°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3749069d74941e2781ad"
+  },
+  {
     "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -259,6 +296,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "957af5616bc412ecab7a"
+  },
+  {
+    "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
+    "url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-21T03:47:18+00:00",
+    "fetched_at": "2026-09-22T07:25:17+00:00",
+    "summary": "はじめに 2026年9月、TypeSafe AIからJevという新しいAIモデルが公開されました。 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem One Modelと呼んでいます。 この記事では、以下の4種類をどう使い分けるか整理し...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "07bb32e0055aebdfdc07"
   },
   {
     "title": "TacnIQ.ai raises US$1.5M to teach machines the language of touch",
