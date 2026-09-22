@@ -1,17 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-22T00:58:16Z",
+  "generated_at": "2026-09-22T01:23:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 5,
+    "dynamics": 7,
     "bands": {
       "strong": 1,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -20,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 94.96,
+      "age_days": 94.98,
       "topics": [
         "ai"
       ],
@@ -45,11 +47,59 @@
       "summary": ""
     },
     {
+      "title": "The compliance paradox: More checks, more fraud",
+      "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-22T01:00:12+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The comp…"
+    },
+    {
+      "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-21T08:43:35+00:00",
+      "age_days": 0.69,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 93.92,
+      "age_days": 93.94,
       "topics": [
         "general"
       ],
@@ -74,7 +124,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 93.92,
+      "age_days": 93.94,
       "topics": [
         "general"
       ],
@@ -99,7 +149,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 93.92,
+      "age_days": 93.94,
       "topics": [
         "ai"
       ],
@@ -126,7 +176,7 @@
       "url": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T08:41:31+00:00",
-      "age_days": 2.68,
+      "age_days": 2.7,
       "topics": [
         "ai"
       ],
