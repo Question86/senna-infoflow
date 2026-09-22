@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T08:10:10+00:00",
+  "generated_at": "2026-09-22T08:47:40+00:00",
   "topics": {
     "general": [
       {
@@ -107,6 +107,13 @@
         "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/"
       },
       {
+        "title": "Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T08:29:35+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/fukuokas-ramen-tech-tests-japans-startup-pitch-to-southeast-asia-20260922/"
+      },
+      {
         "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-21T03:47:18+00:00",
@@ -154,13 +161,6 @@
         "published_at": "2026-09-19T08:41:31+00:00",
         "relevance_score": 4,
         "url": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21"
-      },
-      {
-        "title": "Refreshed repository pull requests page generally available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-22T01:25:53+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available"
       }
     ],
     "geopolitics": [
@@ -177,6 +177,13 @@
         "published_at": "2026-09-22T03:00:14+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/"
+      },
+      {
+        "title": "Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T08:29:35+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/fukuokas-ramen-tech-tests-japans-startup-pitch-to-southeast-asia-20260922/"
       },
       {
         "title": "Philip R. Lane: Interview with Le Temps",
