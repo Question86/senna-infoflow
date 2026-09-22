@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T08:47:40+00:00",
-  "run_id": "2026-09-22T08:47:40+00:00",
+  "generated_at": "2026-09-22T08:55:23+00:00",
+  "run_id": "2026-09-22T08:55:23+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1483,29 +1483,7 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia",
-      "url": "https://e27.co/fukuokas-ramen-tech-tests-japans-startup-pitch-to-southeast-asia-20260922/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-22T08:29:35+00:00",
-      "fetched_at": "2026-09-22T08:47:09+00:00",
-      "summary": "Every mid-sized Asian city with a reformist mayor and a decent airport eventually flirts with calling itself a startup hub. Fukuoka has been making that argument longer than most, and with more institutional backing than a slogan usually gets. Since 2012, the city in southern Japan has layered one startup policy on another: a national […] The post Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia ap…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "31c72c5d5949249f1c53"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
