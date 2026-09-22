@@ -641,6 +641,40 @@
     "id": "ae6547374bc6c98b6d1e"
   },
   {
+    "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
+    "url": "https://cert.europa.eu/publications/security-advisories/2026-013/",
+    "source": "CERT-EU Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-22T18:52:36+00:00",
+    "fetched_at": "2026-09-22T16:55:05+00:00",
+    "summary": "On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild. CERT-EU recommends taking appropriate actions as soon as possible.",
+    "matched_keywords": [
+      "CERT-EU",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: critical vulnerability"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "eb3802fee7fe1144310c"
+  },
+  {
     "title": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
     "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm",
     "source": "Federal Reserve Speeches and Testimony",
