@@ -172,6 +172,29 @@
     "id": "517fad8f233ee503f7a0"
   },
   {
+    "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-22T07:51:31+00:00",
+    "fetched_at": "2026-09-22T07:56:40+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenBao ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d67bb87e9e084cae3de"
+  },
+  {
     "title": "[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
     "source": "BSI CERT-Bund Security Advisories",
