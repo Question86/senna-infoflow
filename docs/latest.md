@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T21:04:59+00:00_
+_Generiert: 2026-09-22T21:18:40+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
+73 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -84,14 +84,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)
   - Kurz: Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.zst), which includes the binaries for all supported platforms up to this release, is marked as deprecated. In… The post Deprecation notice: All-platform CodeQL bundle appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 88 km NNW of Uken, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4y)
+- **M 4.6 - 46 km E of Union, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000twys)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-22T11:06:19.040+00:00`, fetched `2026-09-22T11:07:53+00:00`
+  - Zeit: published `2026-09-22T21:15:33.040+00:00`, fetched `2026-09-22T21:18:11+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-22 10:46:22 UTC 2026-09-22 10:46:22 UTC at epicenter Location 29.037°N 128.894°E Depth 10.00 km (6.21 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-22 20:34:43 UTC 2026-09-22 20:34:43 UTC at epicenter Location 9.689°N 126.529°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
