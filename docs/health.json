@@ -1,18 +1,49 @@
 {
-  "generated_at": "2026-09-22T14:45:02+00:00",
-  "status": "normal",
+  "generated_at": "2026-09-22T14:52:35+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 57,
     "displayed_findings": 57,
     "high": 0,
     "medium": 19,
     "observe": 38,
-    "source_errors": 0
+    "source_errors": 5
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_japan_hot",
+      "source_name": "Google Trends Japan Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.co.jp', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "google_trends_korea_hot",
+      "source_name": "Google Trends South Korea Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.co.kr', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "google_trends_thailand_hot",
+      "source_name": "Google Trends Thailand Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.co.th', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "google_trends_philippines_hot",
+      "source_name": "Google Trends Philippines Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.com.ph', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
