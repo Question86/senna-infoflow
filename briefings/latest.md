@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T19:04:04+00:00_
+_Generiert: 2026-09-22T19:18:41+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
+68 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,6 @@ _Generiert: 2026-09-22T19:04:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Malaysia
-- **GDACS: Green flood alert in Uganda** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104185)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Uganda
 - **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
   - Quelle: GDACS
   - Zeit: ``
@@ -277,6 +273,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに 2026年9月、TypeSafe AIからJevという新しいAIモデルが公開されました。 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem One Modelと呼んでいます。 この記事では、以下の4種類をどう使い分けるか整理し...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing GPT-6 Sol and Luna** — Score 8, observation — [Quelle](https://openai.com/index/introducing-gpt-6-sol-and-luna)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-22T18:00:00+00:00`, fetched `2026-09-22T19:18:11+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Philip R. Lane: Interview with Le Temps** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-22T05:00:00+00:00`, fetched `2026-09-22T05:08:33+00:00`
@@ -294,15 +299,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU** — Score 8, observation — [Quelle](https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-22T02:43:17+00:00`, fetched `2026-09-22T11:30:17+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も "ble...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
