@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T06:55:47+00:00",
+  "generated_at": "2026-09-22T07:03:50+00:00",
   "topics": {
     "general": [
       {
@@ -61,30 +61,14 @@
         "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9"
       }
     ],
-    "economy": [
-      {
-        "title": "Your price problem is a positioning problem wearing a discount request",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T03:00:14+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/"
-      },
-      {
-        "title": "Startups should learn to leave bad markets faster",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T04:00:10+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/"
-      },
-      {
-        "title": "Bitcoin’s US$87,000 spike: Real breakout or a US$900 million short squeeze?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T04:00:59+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/"
-      }
-    ],
     "geopolitics": [
+      {
+        "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T07:00:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/"
+      },
       {
         "title": "Your price problem is a positioning problem wearing a discount request",
         "source": "e27 Asia Startup and Tech Feed",
@@ -105,6 +89,29 @@
         "published_at": "2026-09-22T02:30:12+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/"
+      },
+      {
+        "title": "Bitcoin’s US$87,000 spike: Real breakout or a US$900 million short squeeze?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T04:00:59+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Your price problem is a positioning problem wearing a discount request",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T03:00:14+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/"
+      },
+      {
+        "title": "Startups should learn to leave bad markets faster",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T04:00:10+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/"
       },
       {
         "title": "Bitcoin’s US$87,000 spike: Real breakout or a US$900 million short squeeze?",
