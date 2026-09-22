@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T01:51:14+00:00_
+_Generiert: 2026-09-22T01:57:45+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk).
+6 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0)
   - Kurz: macOS 27にはローカルLLMが入っている macOS 27には、Appleの言語モデルをTerminalから直接使える fm コマンドが入っています。 追加のアプリをインストールする必要はなく、APIキーもいりません。対応するMacなら、Terminalを開いて次の1行を入力するだけで会話を始められます。 いわゆる「ローカルLLM」がOSに最初から...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Refreshed repository pull requests page generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-22T01:25:53+00:00`, fetched `2026-09-22T01:57:15+00:00`
+  - Treffer: GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.0); recent (+1.0)
+  - Kurz: The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
