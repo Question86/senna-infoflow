@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T07:57:10+00:00",
+  "generated_at": "2026-09-22T08:10:10+00:00",
   "topics": {
     "general": [
       {
@@ -59,6 +59,36 @@
         "published_at": "2026-09-21T03:59:28+00:00",
         "relevance_score": 5,
         "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T08:06:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417"
+      },
+      {
+        "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T07:51:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343"
+      },
+      {
+        "title": "[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T07:41:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712"
+      },
+      {
+        "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-22T07:52:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html"
       }
     ],
     "ai": [
@@ -133,22 +163,6 @@
         "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available"
       }
     ],
-    "security": [
-      {
-        "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T07:51:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343"
-      },
-      {
-        "title": "[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T07:41:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712"
-      }
-    ],
     "geopolitics": [
       {
         "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
@@ -187,6 +201,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-22T07:52:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html"
+      },
       {
         "title": "Your price problem is a positioning problem wearing a discount request",
         "source": "e27 Asia Startup and Tech Feed",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T07:57:10+00:00_
+_Generiert: 2026-09-22T08:10:10+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+28 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)
   - Kurz: Time 2026-09-22 05:18:24 UTC 2026-09-22 05:18:24 UTC at epicenter Location 23.133°N 142.437°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-22T08:06:31+00:00`, fetched `2026-09-22T08:09:38+00:00`
+  - Treffer: BSI, CERT-Bund, Firewall, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Firewall (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle als Root auszuführen, Berechtigungen auf Root zu erweitern, SQL-Injection durchzuführen, Anmeldedaten für Administratorsitzungen zu erlangen, sensible Daten zu manipulieren und offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 19 km ENE of Nailong, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-22T07:11:17.331+00:00`, fetched `2026-09-22T07:25:17+00:00`
@@ -77,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens technology closer to commercial scale. The arrangement is structured through a warrant deed under which White Lion […] The post Singapore’s MetaOptics eyes US expans…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites** — Score 11, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-22T07:52:00.000+00:00`, fetched `2026-09-22T08:09:38+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Aufgrund mehrerer Sicherheitslücken raten die WordPress-Entwickler zu einem zügigen Update. Bislang gibt es keine Hinweise auf Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your price problem is a positioning problem wearing a discount request** — Score 11, observation — [Quelle](https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
