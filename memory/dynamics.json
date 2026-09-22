@@ -1,29 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-22T06:05:21Z",
+  "generated_at": "2026-09-22T06:38:48Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 24,
     "bands": {
       "krass": 1,
-      "strong": 3,
+      "strong": 4,
       "watch": 2,
       "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 2,
       "quiet": 17
     }
   },
   "top_dynamics": [
     {
+      "title": "M 4.9 - Volcano Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-22T06:30:53.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-22 06:11:10 UTC 2026-09-22 06:11:10 UTC at epicenter Location 23.003°N 142.340°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - Volcano Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T05:38:04.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -48,7 +73,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -74,7 +99,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.17,
+      "age_days": 95.19,
       "topics": [
         "ai"
       ],
@@ -103,7 +128,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -128,7 +153,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:10+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -156,7 +181,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:00:12+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -180,7 +205,7 @@
       "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T01:25:53+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -206,7 +231,7 @@
       "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:59+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -230,7 +255,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-22T05:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -254,7 +279,7 @@
       "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T02:56:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -280,7 +305,7 @@
       "url": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T17:11:26+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -304,7 +329,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T08:43:35+00:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -328,7 +353,7 @@
       "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T03:59:28+00:00",
-      "age_days": 1.09,
+      "age_days": 1.11,
       "topics": [
         "general"
       ],
@@ -352,7 +377,7 @@
       "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:00:14+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -378,7 +403,7 @@
       "url": "https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T02:00:36+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -403,7 +428,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.14,
+      "age_days": 94.16,
       "topics": [
         "general"
       ],
@@ -419,7 +444,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 94.1d old signal"
+        "aging penalty -16.0 for 94.2d old signal"
       ],
       "summary": ""
     },
@@ -428,7 +453,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.14,
+      "age_days": 94.16,
       "topics": [
         "general"
       ],
@@ -444,7 +469,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 94.1d old signal"
+        "aging penalty -16.0 for 94.2d old signal"
       ],
       "summary": ""
     },
@@ -453,7 +478,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.14,
+      "age_days": 94.16,
       "topics": [
         "ai"
       ],
@@ -470,7 +495,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 94.1d old signal",
+        "aging penalty -16.0 for 94.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -480,7 +505,7 @@
       "url": "https://e27.co/tacniq-ai-raises-us1-5m-to-teach-machines-the-language-of-touch-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:31:46+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -505,7 +530,7 @@
       "url": "https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:30:16+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -530,7 +555,7 @@
       "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T02:30:12+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -555,7 +580,7 @@
       "url": "https://e27.co/why-ai-literacy-is-becoming-a-business-necessity-not-a-competitive-advantage-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:30:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -580,7 +605,7 @@
       "url": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T08:41:31+00:00",
-      "age_days": 2.89,
+      "age_days": 2.91,
       "topics": [
         "ai"
       ],
@@ -601,5 +626,5 @@
       "summary": "macOS 27にはローカルLLMが入っている macOS 27には、Appleの言語モデルをTerminalから直接使える fm コマンドが入っています。 追加のアプリをインストールする必要はなく、APIキーもいりません。対応するMacなら、Terminalを開いて次の1行を入力するだけで会話を始められます。 いわゆる「ローカルLLM」がOSに最初から..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
