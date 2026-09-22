@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T14:00:09+00:00_
+_Generiert: 2026-09-22T14:21:29+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+52 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0)
   - Kurz: The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The compliance paradox: More checks, more fraud appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Jefferson, Discount Window Modernization and Treasury Market Functioning** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-09-22T14:20:00+00:00`, fetched `2026-09-22T14:20:54+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
+  - Kurz: Speech At the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York, New York
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility** — Score 12, observation — [Quelle](https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-22T07:00:50+00:00`, fetched `2026-09-22T07:03:19+00:00`
@@ -186,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: The U.S. is framing its rivalry with China as one of technical superiority, failing to recognize that public trust and robust consumer protections are necessary for long-term dominance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The Spanish Survey of Household Finances (EFF) - more than 20 years of research experience and the way forward** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:20:54+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Refreshed repository pull requests page generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-22T01:25:53+00:00`, fetched `2026-09-22T01:57:15+00:00`
@@ -204,7 +222,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
