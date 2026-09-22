@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-22T04:03:56Z",
+  "generated_at": "2026-09-22T04:27:50Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.09,
+      "age_days": 95.1,
       "topics": [
         "ai"
       ],
@@ -40,11 +40,64 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-22T04:04:43.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-22 03:36:25 UTC 2026-09-22 03:36:25 UTC at epicenter Location 8.391°S 121.468°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "Startups should learn to leave bad markets faster",
+      "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-22T04:00:10+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Startups are constantly encouraged to expand. Enter new countries, test new segments, build distribution partnerships, hire locally and capture market share before someone else does. Much less attention is given to the opposite decision: leaving a market that looked promising but is not working. That decision is often…"
+    },
+    {
       "title": "The compliance paradox: More checks, more fraud",
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:00:12+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -68,7 +121,7 @@
       "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T01:25:53+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -90,11 +143,35 @@
       "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog ."
     },
     {
+      "title": "Bitcoin’s US$87,000 spike: Real breakout or a US$900 million short squeeze?",
+      "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-22T04:00:59+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: breakout"
+      ],
+      "summary": "Bitcoin’s surge to around US$87,000 has captured the market’s full attention, and the data tells a clear story about what powered this move. The leading cryptocurrency rallied from the mid US$70,000s to an intraday high near US$87,000, its strongest level since late January. That advance pushed its market cap toward r…"
+    },
+    {
       "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
       "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T02:56:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -116,11 +193,35 @@
       "summary": "日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本..."
     },
     {
+      "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
+      "url": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-21T17:11:26+00:00",
+      "age_days": 0.47,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。 Linuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリインストールされたTerminalアプリから、フルのDebian GNU/L..."
+    },
+    {
       "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
       "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T08:43:35+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "general"
       ],
@@ -144,7 +245,7 @@
       "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T03:59:28+00:00",
-      "age_days": 1.0,
+      "age_days": 1.02,
       "topics": [
         "general"
       ],
@@ -168,7 +269,7 @@
       "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:00:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -194,7 +295,7 @@
       "url": "https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T02:00:36+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -213,108 +314,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get some. That framing skips the harder question. Attracting a ret…"
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 94.1d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 94.1d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 94.1d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Why Asia’s Physical AI boom will be decided at the camera, not the model",
-      "url": "https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-22T03:30:16+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Robotics and rehabilitation are undergoing a profound transformation that the industry’s own measurement infrastructure has largely failed to keep pace with. For four decades the recording of movement in three dimensions has been organised around a building in a studio. From a wired ring of cameras, a morning of calib…"
     }
   ],
   "read_order": [
@@ -326,9 +325,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 1,
-      "quiet": 10
+      "strong": 2,
+      "watch": 2,
+      "quiet": 8
     }
   }
 }
