@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T15:40:40+00:00_
+_Generated: 2026-09-22T15:45:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `61`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-22T15:40:40+00:00_
 - url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html
 - summary: Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle
 
-### 2. M 4.9 - Volcano Islands, Japan region
+### 2. Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle
+- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
+- score: `18`
+- published: `2026-09-22T15:35:00+00:00`
+- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html
+- summary: Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle
+
+### 3. M 4.9 - Volcano Islands, Japan region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `18`
 - published: `2026-09-22T06:30:53.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s
 - summary: Time 2026-09-22 06:11:10 UTC 2026-09-22 06:11:10 UTC at epicenter Location 23.003°N 142.340°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.0 - Volcano Islands, Japan region
+### 4. M 5.0 - Volcano Islands, Japan region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `18`
 - published: `2026-09-22T05:38:04.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k
 - summary: Time 2026-09-22 05:18:24 UTC 2026-09-22 05:18:24 UTC at epicenter Location 23.133°N 142.437°E Depth 10.00 km (6.21 mi)
-
-### 4. [UPDATE] [mittel] libssh2: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-09-22T12:12:00+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um Dateien zu manipulieren, Speicherbeschädigungen zu verursachen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.
 
 ### 5. The compliance paradox: More checks, more fraud
 - source: e27 Asia Startup and Tech Feed
