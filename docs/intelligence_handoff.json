@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-22T04:49:37Z",
+  "generated_at": "2026-09-22T05:03:22Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.12,
+      "age_days": 95.13,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -97,7 +97,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:00:12+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -121,7 +121,7 @@
       "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T01:25:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -147,7 +147,7 @@
       "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:59+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -171,7 +171,7 @@
       "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T02:56:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -197,7 +197,7 @@
       "url": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T17:11:26+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -221,7 +221,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T08:43:35+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -245,7 +245,7 @@
       "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T03:59:28+00:00",
-      "age_days": 1.03,
+      "age_days": 1.04,
       "topics": [
         "general"
       ],
@@ -269,7 +269,7 @@
       "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:00:14+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -295,7 +295,7 @@
       "url": "https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T02:00:36+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
