@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T14:21:29+00:00_
+_Generiert: 2026-09-22T14:33:55+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+54 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -204,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Refreshed repository pull requests page generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-22T01:25:53+00:00`, fetched `2026-09-22T01:57:15+00:00`
-  - Treffer: GitHub
+- **Statement - base rate of the National Bank of Kazakhstan** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260922-statement-base-rate-national-bank-kazakhstan)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:33:05+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); recent (+1.0)
-  - Kurz: The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 4 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
