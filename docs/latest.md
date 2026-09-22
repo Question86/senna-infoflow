@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T03:59:31+00:00_
+_Generiert: 2026-09-22T04:21:02+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk).
+15 neue relevante Treffer. Stärkstes Signal: „M 4.7 - 54 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,7 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **M 4.7 - 54 km NNW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-22T04:04:43.040+00:00`, fetched `2026-09-22T04:20:16+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-22 03:36:25 UTC 2026-09-22 03:36:25 UTC at epicenter Location 8.391°S 121.468°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -52,6 +60,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!** — Score 5, observation — [Quelle](https://smhn.info/202609-googlebook-os-debian-linux-environment-launch)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-21T17:11:26+00:00`, fetched `2026-09-22T04:20:16+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。 Linuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリインストールされたTerminalアプリから、フルのDebian GNU/L...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2142530.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-21T08:43:35+00:00`, fetched `2026-09-22T01:12:46+00:00`
@@ -60,15 +77,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！ - Qiita** — Score 5, observation — [Quelle](https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-21T03:59:28+00:00`, fetched `2026-09-22T01:34:35+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Refreshed repository pull requests page generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -82,8 +90,12 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
