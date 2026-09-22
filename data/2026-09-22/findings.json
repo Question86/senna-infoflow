@@ -469,6 +469,28 @@
     "id": "6d01405ff696b85fe9ce"
   },
   {
+    "title": "tanteki — 業務のための文書をもっと端的に",
+    "url": "https://iwasa-kosui.github.io/tanteki/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-21T23:10:19+00:00",
+    "fetched_at": "2026-09-22T07:51:36+00:00",
+    "summary": "日本語の業務・技術文書のための Skill 業務のための文書を もっと端的に PRD、ADR、Design Doc、Runbook。 文書の種類ごとに、書くべき情報と書くべきではない情報が違います。 tanteki はその文書が本質的に述べたいことを見定めて、必要な情報だけを記述します。 ファイル取込 Design Doc1. 概要ファイル取込処理を非...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8a019faefdfa00cd74e2"
+  },
+  {
     "title": "Startups should learn to leave bad markets faster",
     "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
     "source": "e27 Asia Startup and Tech Feed",

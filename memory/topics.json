@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T07:45:44+00:00",
+  "generated_at": "2026-09-22T07:52:12+00:00",
   "topics": {
     "general": [
       {
@@ -203,6 +203,13 @@
       }
     ],
     "github": [
+      {
+        "title": "tanteki — 業務のための文書をもっと端的に",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-21T23:10:19+00:00",
+        "relevance_score": 7,
+        "url": "https://iwasa-kosui.github.io/tanteki/"
+      },
       {
         "title": "Refreshed repository pull requests page generally available",
         "source": "GitHub Changelog Atom",
