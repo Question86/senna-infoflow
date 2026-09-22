@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T22:08:06+00:00_
+_Generiert: 2026-09-22T22:21:24+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
+75 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 18, risk).
 
 ## Priorität Hoch
 
