@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-22T10:36:04Z",
+  "generated_at": "2026-09-22T11:03:25Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T08:06:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security",
         "infra"
@@ -37,11 +37,60 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle als Root auszuführen, Berechtigungen auf Root zu erweitern, SQL-Injection durchzuführen, Anmeldedaten für Administratorsitzungen zu erlangen, sensible Daten zu manipulie…"
     },
     {
+      "title": "[UPDATE] [hoch] Joplin: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3298",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-22T10:49:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Joplin ausnutzen, um Benutzerkonten zu übernehmen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten offenzulegen oder zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Netty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2712",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-22T10:48:22+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:51:31+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -65,7 +114,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:41:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -89,7 +138,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T06:30:53.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -114,7 +163,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T05:38:04.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -139,7 +188,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -165,7 +214,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.36,
+      "age_days": 95.38,
       "topics": [
         "ai"
       ],
@@ -194,7 +243,7 @@
       "url": "https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-22T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -219,7 +268,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-22T07:52:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security",
         "macro"
@@ -240,11 +289,11 @@
       "summary": "Aufgrund mehrerer Sicherheitslücken raten die WordPress-Entwickler zu einem zügigen Update. Bislang gibt es keine Hinweise auf Attacken."
     },
     {
-      "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
+      "title": "M 4.6 - 296 km S of Ambon, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.27,
+      "published_at": "2026-09-22T10:48:32.040+00:00",
+      "age_days": 0.01,
       "topics": [
         "disaster"
       ],
@@ -262,55 +311,7 @@
         "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": "Time 2026-09-22 03:36:25 UTC 2026-09-22 03:36:25 UTC at epicenter Location 8.391°S 121.468°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Deprecation notice: All-platform CodeQL bundle",
-      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-09-22T09:21:03+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code"
-      ],
-      "summary": "Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.zst), which includes the binaries for all supported platforms up to this release, is marked as deprecated. In… The post Deprecation notice: All-platform CodeQL bundle appeared first on The GitHub Blog ."
-    },
-    {
-      "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
-      "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-22T07:00:50+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens technology closer to commercial scale. The arrangement is structu…"
+      "summary": "Time 2026-09-22 10:30:19 UTC 2026-09-22 10:30:19 UTC at epicenter Location 6.341°S 128.630°E Depth 295.62 km (183.69 mi)"
     }
   ],
   "read_order": [
@@ -322,9 +323,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 10,
-      "watch": 1
+      "krass": 2,
+      "strong": 10
     }
   }
 }
