@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-22T05:35:01Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-22T05:47:21Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "M 5.0 - Volcano Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-22T05:38:04.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-22 05:18:24 UTC 2026-09-22 05:18:24 UTC at epicenter Location 23.133°N 142.437°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -41,7 +66,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.15,
+      "age_days": 95.16,
       "topics": [
         "ai"
       ],
@@ -70,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -123,7 +148,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:00:12+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -147,7 +172,7 @@
       "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T01:25:53+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -197,7 +222,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-22T05:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -221,7 +246,7 @@
       "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T02:56:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -271,7 +296,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T08:43:35+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -289,30 +314,6 @@
         "no strong comparative reason"
       ],
       "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む"
-    },
-    {
-      "title": "ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！ - Qiita",
-      "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-21T03:59:28+00:00",
-      "age_days": 1.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?"
     }
   ],
   "read_order": [
@@ -324,9 +325,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 2,
-      "quiet": 7
+      "quiet": 6
     }
   }
 }
