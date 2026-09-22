@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-22T02:13:16+00:00",
+  "generated_at": "2026-09-22T02:34:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 0,
-    "observe": 7
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "AI lets outsiders build but the connected still have an advantage",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T02:30:12+00:00",
+      "relevance_score": 8,
+      "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
+      "summary": "The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more o…",
+      "section": "observe"
+    },
+    {
       "title": "Why AI literacy is becoming a business necessity, not a competitive advantage",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -43,16 +53,6 @@
       "url": "https://e27.co/why-ai-literacy-is-becoming-a-business-necessity-not-a-competitive-advantage-20260920/",
       "summary": "A generation ago, digital literacy was considered a specialist skill. Today, the ability to use digital tools, communicate online, and work with technology is a basic expectation across most industries. Artificial intelligence is following a similar path. Wha…",
       "section": "observe"
-    },
-    {
-      "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-21T08:43:35+00:00",
-      "relevance_score": 5,
-      "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
-      "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -60,140 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 95.02,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 95.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The compliance paradox: More checks, more fraud",
-        "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T01:00:12+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 13.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The comp…"
-      },
-      {
-        "title": "Refreshed repository pull requests page generally available",
-        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-22T01:25:53+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 11.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog ."
-      },
-      {
-        "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-21T08:43:35+00:00",
-        "age_days": 0.74,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む"
-      },
-      {
-        "title": "ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！ - Qiita",
-        "url": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-21T03:59:28+00:00",
-        "age_days": 0.94,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?"
-      }
-    ]
-  }
+  ]
 }
