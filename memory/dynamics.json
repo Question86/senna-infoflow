@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-22T19:31:33Z",
+  "generated_at": "2026-09-22T20:02:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0950",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:03:20+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T08:06:31+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "security",
         "infra"
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3505",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3298",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T10:49:06+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-013/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-22T18:52:36+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -151,7 +151,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3507",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:03+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security"
@@ -176,7 +176,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T10:48:22+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -200,7 +200,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:51:31+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -224,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:41:31+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -248,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T06:30:53.040+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -273,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T05:38:04.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -298,7 +298,7 @@
       "url": "https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T02:43:17+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -323,7 +323,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1037",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:03:22+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -349,7 +349,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3506",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -375,7 +375,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3504",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -401,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -426,7 +426,7 @@
       "url": "https://www.heise.de/news/Gleich-noch-ein-Sicherheitsupdate-fuer-WordPress-11462385.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-22T18:29:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -452,7 +452,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.6,
+      "age_days": 0.63,
       "topics": [
         "ai"
       ],
@@ -478,7 +478,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.73,
+      "age_days": 95.75,
       "topics": [
         "ai"
       ],
@@ -497,7 +497,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 95.7d old signal",
+        "aging penalty -8.0 for 95.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -507,7 +507,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-22T15:35:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -533,7 +533,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-22T15:35:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -559,7 +559,7 @@
       "url": "https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-22T10:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -584,7 +584,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-22T07:52:00.000+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security",
         "macro"
@@ -609,7 +609,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T11:06:19.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -634,7 +634,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T10:48:32.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -659,7 +659,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -684,7 +684,7 @@
       "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T14:11:47+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -708,7 +708,7 @@
       "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T09:21:03+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -732,7 +732,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-09-22T14:20:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -757,7 +757,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news023.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T04:40:56+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -784,7 +784,7 @@
       "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T07:00:50+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -808,7 +808,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:10+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "ai",
         "macro"
@@ -836,7 +836,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:11:17.331+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "disaster"
@@ -864,7 +864,7 @@
       "url": "https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-22T00:00:00+00:00",
-      "age_days": 0.81,
+      "age_days": 0.84,
       "topics": [
         "ai",
         "macro"
@@ -891,7 +891,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:00:12+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "general"
       ],
@@ -915,7 +915,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj58",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T12:29:42.356+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -939,7 +939,7 @@
       "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T01:25:53+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -965,7 +965,7 @@
       "url": "https://anond.hatelabo.jp/20260922210618",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T12:14:40+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -989,7 +989,7 @@
       "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:59+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "macro"
       ],
@@ -1013,7 +1013,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-22T05:00:00+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "macro"
       ],
