@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-23T03:01:59+00:00",
+  "generated_at": "2026-09-23T03:25:47+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
         "published_at": "2026-09-22T13:23:51+00:00",
         "relevance_score": 7,
         "url": "https://kawarimidoll.com/posts/202609222/"
+      },
+      {
+        "title": "Build vs buy: Why custom tools are winning in 2026",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-23T03:00:59+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/"
       }
     ]
   }

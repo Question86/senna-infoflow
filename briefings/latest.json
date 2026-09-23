@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T03:01:59+00:00",
-  "run_id": "2026-09-23T03:01:59+00:00",
+  "generated_at": "2026-09-23T03:25:47+00:00",
+  "run_id": "2026-09-23T03:25:47+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 1,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 2,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -350,6 +350,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5a1790aa698f37033eb6"
+      },
+      {
+        "title": "Build vs buy: Why custom tools are winning in 2026",
+        "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-23T03:00:59+00:00",
+        "fetched_at": "2026-09-23T03:25:13+00:00",
+        "summary": "From project management and customer service to human resources (HR) and finance, businesses have access to more prebuilt software options than ever before. However, buying prebuilt software that is designed to serve businesses across a range of industries is unlikely to accommodate your specific needs. That’s why many businesses are building custom tools, rather than […] The post Build vs buy: Why custom tools are…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1ff44d8caf52976da618"
       }
     ]
   },
@@ -673,9 +693,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5a1790aa698f37033eb6"
+    },
+    {
+      "title": "Build vs buy: Why custom tools are winning in 2026",
+      "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T03:00:59+00:00",
+      "fetched_at": "2026-09-23T03:25:13+00:00",
+      "summary": "From project management and customer service to human resources (HR) and finance, businesses have access to more prebuilt software options than ever before. However, buying prebuilt software that is designed to serve businesses across a range of industries is unlikely to accommodate your specific needs. That’s why many businesses are building custom tools, rather than […] The post Build vs buy: Why custom tools are…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Build vs buy: Why custom tools are winning in 2026",
+      "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T03:00:59+00:00",
+      "fetched_at": "2026-09-23T03:25:13+00:00",
+      "summary": "From project management and customer service to human resources (HR) and finance, businesses have access to more prebuilt software options than ever before. However, buying prebuilt software that is designed to serve businesses across a range of industries is unlikely to accommodate your specific needs. That’s why many businesses are building custom tools, rather than […] The post Build vs buy: Why custom tools are…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ff44d8caf52976da618"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
