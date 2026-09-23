@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-23T06:23:36+00:00",
+  "generated_at": "2026-09-23T06:48:20+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/"
       },
       {
-        "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
+        "title": "Southeast Asia gains ground in Seedstars’s disability inclusion accelerator",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-23T01:00:41+00:00",
+        "published_at": "2026-09-23T06:30:25+00:00",
         "relevance_score": 10,
-        "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/"
+        "url": "https://e27.co/southeast-asia-gains-ground-in-seedstarss-disability-inclusion-accelerator-20260923/"
       }
     ],
     "economy": [
@@ -207,6 +207,13 @@
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/agent-substrate/substrate"
+      },
+      {
+        "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-23T06:36:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html"
       }
     ],
     "geopolitics": [

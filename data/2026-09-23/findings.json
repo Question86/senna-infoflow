@@ -312,6 +312,27 @@
     "id": "9ff64baa46832fdde6a0"
   },
   {
+    "title": "Southeast Asia gains ground in Seedstars’s disability inclusion accelerator",
+    "url": "https://e27.co/southeast-asia-gains-ground-in-seedstarss-disability-inclusion-accelerator-20260923/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-23T06:30:25+00:00",
+    "fetched_at": "2026-09-23T06:47:51+00:00",
+    "summary": "Seedstars has named the 15 ventures joining the third cohort of SEED Inclusivity, its accelerator for startups building products and services for people with disabilities across Asia Pacific. Supported by Visa Foundation, the six-month programme brings together companies linked to India, Indonesia, Pakistan, the Philippines, Singapore and Vietnam. The cohort covers a wide range of […] The post Southeast Asia gains g…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a01226860aea8d632a99"
+  },
+  {
     "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
     "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -431,6 +452,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a06557008a8eb7cdf9d2"
+  },
+  {
+    "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
+    "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-23T06:36:00.000+00:00",
+    "fetched_at": "2026-09-23T06:47:51+00:00",
+    "summary": "Aktuell laufen Angriffe auf Sicherheitslücken in F5 BIG-IP APM, Check-Point-Produkte und Arista VeloCloud Orchestrator.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4fd08bb2c0342ca14b7f"
   },
   {
     "title": "Nexstrom lands US$12M to bring 2D semiconductors to 12-inch wafers",
