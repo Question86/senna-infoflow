@@ -721,6 +721,27 @@
     "id": "525fbbb44511b914be4a"
   },
   {
+    "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-23T04:12:36+00:00",
+    "fetched_at": "2026-09-23T09:24:41+00:00",
+    "summary": "JCOMは9月23日朝から、同社のシステム障害により、インターネット接続サービス「J:COM NET」が利用できない状況が起きていると公表した。障害の原因や復旧の見通しに触れていない。 Xのサポート用公式Xアカウントで、23日午前10時24分に告知した。障害の影響で、カスタマーセンターへの電話や、各種サポートへの問い合わ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa32628c4aaa9d44d8d0"
+  },
+  {
     "title": "そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」",
     "url": "https://engineer-ninaritai.com/ubuntu-rust-coreutils-2026/",
     "source": "Hatena Bookmark Hotentry IT",
