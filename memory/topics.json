@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-23T11:18:45+00:00",
+  "generated_at": "2026-09-23T11:29:23+00:00",
   "topics": {
     "ai": [
       {
@@ -200,6 +200,48 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:24:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libtpms): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:24:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1673"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libtpms): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:24:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1669"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:24:30+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0932"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:24:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0499"
+      },
+      {
+        "title": "[UPDATE] [niedrig] libxml2: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:24:50+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1325"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat OpenShift Builds: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-23T10:37:11+00:00",
@@ -212,34 +254,6 @@
         "published_at": "2026-09-23T10:36:49+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420"
-      },
-      {
-        "title": "[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T09:54:24+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3499"
-      },
-      {
-        "title": "agent-substrate/substrate",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/agent-substrate/substrate"
-      },
-      {
-        "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-23T06:36:00.000+00:00",
-        "relevance_score": 8,
-        "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html"
-      },
-      {
-        "title": "Patchday: Adobe Connect ist unter Android, macOS und Windows verwundbar",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-23T08:45:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html"
       }
     ],
     "geopolitics": [
@@ -249,6 +263,13 @@
         "published_at": "2026-09-23T00:00:00+00:00",
         "relevance_score": 18,
         "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:24:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0499"
       },
       {
         "title": "agent-substrate/substrate",
