@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T12:02:11+00:00",
-  "run_id": "2026-09-23T12:02:11+00:00",
+  "generated_at": "2026-09-23T12:31:07+00:00",
+  "run_id": "2026-09-23T12:31:07+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 2,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
     "medium": 27,
-    "observe": 35,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -1157,6 +1157,26 @@
         "id": "a06557008a8eb7cdf9d2"
       },
       {
+        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-23T13:00:00+00:00",
+        "fetched_at": "2026-09-23T12:30:38+00:00",
+        "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8a7f19a51a8abf301cd6"
+      },
+      {
         "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
         "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
         "source": "heise Security Alerts",
@@ -1383,6 +1403,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e85d11edb78e1bc13183"
+      },
+      {
+        "title": "What a task costs on Opus 5.5 | Claude by Anthropic",
+        "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-23T04:27:48+00:00",
+        "fetched_at": "2026-09-23T12:30:38+00:00",
+        "summary": "The cost of a task, and the cost of a retryYou don't set out to buy millions of tokens. You set out to build a feature, finish a migration, or run a task. The token count is whatever the model needed to get there. Two models with the same cost per token can cost very different amounts on the same...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6127b543b3b2ba0df854"
       },
       {
         "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
@@ -2679,6 +2720,26 @@
       "id": "a06557008a8eb7cdf9d2"
     },
     {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-23T13:00:00+00:00",
+      "fetched_at": "2026-09-23T12:30:38+00:00",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8a7f19a51a8abf301cd6"
+    },
+    {
       "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
@@ -2907,6 +2968,27 @@
       "id": "e85d11edb78e1bc13183"
     },
     {
+      "title": "What a task costs on Opus 5.5 | Claude by Anthropic",
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-23T04:27:48+00:00",
+      "fetched_at": "2026-09-23T12:30:38+00:00",
+      "summary": "The cost of a task, and the cost of a retryYou don't set out to buy millions of tokens. You set out to build a feature, finish a migration, or run a task. The token count is whatever the model needed to get there. Two models with the same cost per token can cost very different amounts on the same...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6127b543b3b2ba0df854"
+    },
+    {
       "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
       "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3075,24 +3157,45 @@
   ],
   "new_findings": [
     {
-      "title": "Ubiquiti schließt Denial-of-Service-Lücken in Firewalls und Gateways",
-      "url": "https://www.heise.de/news/Ubiquiti-schliesst-Denial-of-Service-Luecken-in-Firewalls-und-Gateways-11463176.html",
-      "source": "heise Security Alerts",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-23T11:53:00.000+00:00",
-      "fetched_at": "2026-09-23T12:01:41+00:00",
-      "summary": "In UniFi-Firewalls und -Gateways klaffen hochriskante Denial-of-Service-Lücken. Aktualisierte Firmware stopft die Lecks.",
+      "published_at": "2026-09-23T13:00:00+00:00",
+      "fetched_at": "2026-09-23T12:30:38+00:00",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "matched_keywords": [
-        "Security"
+        "OpenAI"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a45d588049c05a67e6b3"
+      "id": "8a7f19a51a8abf301cd6"
+    },
+    {
+      "title": "What a task costs on Opus 5.5 | Claude by Anthropic",
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-23T04:27:48+00:00",
+      "fetched_at": "2026-09-23T12:30:38+00:00",
+      "summary": "The cost of a task, and the cost of a retryYou don't set out to buy millions of tokens. You set out to build a feature, finish a migration, or run a task. The token count is whatever the model needed to get there. Two models with the same cost per token can cost very different amounts on the same...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6127b543b3b2ba0df854"
     }
   ],
   "source_errors": [],
