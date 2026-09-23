@@ -116,6 +116,29 @@
     "id": "a75d8db88bab5e22a244"
   },
   {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-23T12:00:00+00:00",
+    "fetched_at": "2026-09-23T21:09:33+00:00",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "safety",
+      "Security"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+7.5); safety (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a01f12c4eb286c11d672"
+  },
+  {
     "title": "[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1954,6 +1977,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e85d11edb78e1bc13183"
+  },
+  {
+    "title": "loading.dev",
+    "url": "https://loading.dev/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-23T05:39:17+00:00",
+    "fetched_at": "2026-09-23T21:09:33+00:00",
+    "summary": "loading.dev",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "28eb9370d3f8550234c4"
   },
   {
     "title": "What a task costs on Opus 5.5 | Claude by Anthropic",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-23T20:57:57+00:00_
+_Generated: 2026-09-23T21:10:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `88`
+- findings: `90`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-23T20:57:57+00:00_
 - url: https://openai.com/index/ringg
 - summary: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
 
-### 4. [UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-09-23T10:37:11+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in CUPS, wie es z.B. in Red Hat Enterprise Linux und Fedora Linux verwendet wird, ausnutzen, um seine Privilegien zu erhöhen.
+### 4. Sam Altman’s remarks at the United Nations Security Council
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-09-23T12:00:00+00:00`
+- url: https://openai.com/index/sam-altman-un-security-council-remarks
+- summary: OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.
 
 ### 5. AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO
 - source: Hatena Bookmark Hotentry IT

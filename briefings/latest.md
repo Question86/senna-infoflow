@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T20:57:57+00:00_
+_Generiert: 2026-09-23T21:10:06+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+90 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); AI Agents (+6.2); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Sam Altman’s remarks at the United Nations Security Council** — Score 20, observation — [Quelle](https://openai.com/index/sam-altman-un-security-council-remarks)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-23T12:00:00+00:00`, fetched `2026-09-23T21:09:33+00:00`
+  - Treffer: AI/KI, OpenAI, safety, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+7.5); safety (+2.0); recent (+1.0)
+  - Kurz: OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-23T10:37:11+00:00`, fetched `2026-09-23T10:42:21+00:00`
@@ -139,15 +148,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Two years of OpenAI Academy** — Score 16, observation — [Quelle](https://openai.com/index/two-years-of-openai-academy)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-23T16:00:00+00:00`, fetched `2026-09-23T14:51:03+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0)
-  - Kurz: Marking two years of OpenAI Academy and bringing AI skills to even more communities.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
