@@ -1209,6 +1209,26 @@
     "id": "22f66c813294b08f31a9"
   },
   {
+    "title": "Ubiquiti schließt Denial-of-Service-Lücken in Firewalls und Gateways",
+    "url": "https://www.heise.de/news/Ubiquiti-schliesst-Denial-of-Service-Luecken-in-Firewalls-und-Gateways-11463176.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-23T11:53:00.000+00:00",
+    "fetched_at": "2026-09-23T12:01:41+00:00",
+    "summary": "In UniFi-Firewalls und -Gateways klaffen hochriskante Denial-of-Service-Lücken. Aktualisierte Firmware stopft die Lecks.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a45d588049c05a67e6b3"
+  },
+  {
     "title": "Dario Amodei wants to slow AI. China isn’t taking orders",
     "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
