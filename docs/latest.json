@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T09:51:10+00:00",
-  "run_id": "2026-09-23T09:51:10+00:00",
+  "generated_at": "2026-09-23T09:56:23+00:00",
+  "run_id": "2026-09-23T09:56:23+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 38,
     "displayed_findings": 38,
     "high": 0,
@@ -1967,30 +1967,7 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub - wrr/drop: Linux sandboxing that doesn't get in your way",
-      "url": "https://github.com/wrr/drop",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-23T01:54:40+00:00",
-      "fetched_at": "2026-09-23T09:50:42+00:00",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e4c61385d52565066eca"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
