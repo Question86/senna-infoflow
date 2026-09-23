@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T21:22:48Z",
+  "generated_at": "2026-09-23T21:31:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -421,7 +421,7 @@
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-23T12:00:00+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -708,7 +708,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:30:29+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "ai",
         "security",
@@ -762,7 +762,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289157-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-23T13:15:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -813,7 +813,7 @@
       "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-23T10:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -864,7 +864,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T02:23:16.040+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -914,7 +914,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-09-23T14:05:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -989,7 +989,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx53",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T17:40:54.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
