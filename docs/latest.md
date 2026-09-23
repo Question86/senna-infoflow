@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T11:29:23+00:00_
+_Generiert: 2026-09-23T11:38:33+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -66,14 +66,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433)
+- **[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3530)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-23T11:24:51+00:00`, fetched `2026-09-23T11:28:53+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-09-23T11:34:25+00:00`, fetched `2026-09-23T11:38:00+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft GitHub Enterprise Server ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, beliebigen Code auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **dream-num/univer** — Score 16, opportunity — [Quelle](https://github.com/dream-num/univer)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

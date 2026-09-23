@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-23T11:29:23+00:00",
+  "generated_at": "2026-09-23T11:38:33+00:00",
   "topics": {
     "ai": [
       {
@@ -135,6 +135,13 @@
         "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains"
       },
       {
+        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:34:25+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3530"
+      },
+      {
         "title": "dream-num/univer",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -200,6 +207,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498"
       },
       {
+        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:34:25+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3530"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-23T11:24:51+00:00",
@@ -235,25 +249,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0499"
       },
       {
-        "title": "[UPDATE] [niedrig] libxml2: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] FasterXML Jackson: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T11:24:50+00:00",
+        "published_at": "2026-09-23T11:34:27+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1325"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3532"
       },
       {
-        "title": "[UPDATE] [mittel] Red Hat OpenShift Builds: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "title": "[NEU] [hoch] yara: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T10:37:11+00:00",
+        "published_at": "2026-09-23T11:34:27+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3487"
-      },
-      {
-        "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T10:36:49+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3533"
       }
     ],
     "geopolitics": [
@@ -265,11 +272,46 @@
         "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
       },
       {
+        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:34:25+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3530"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-23T11:24:29+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0499"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:34:27+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3532"
+      },
+      {
+        "title": "[NEU] [hoch] yara: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:34:27+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3533"
+      },
+      {
+        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:34:26+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3531"
+      },
+      {
+        "title": "[NEU] [mittel] PgBouncer: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-23T11:34:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3529"
       },
       {
         "title": "agent-substrate/substrate",
@@ -291,41 +333,6 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/google/ax"
-      },
-      {
-        "title": "Almost ten million people took part in ECB survey on new euro banknotes",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-23T09:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html"
-      },
-      {
-        "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-22T13:23:51+00:00",
-        "relevance_score": 7,
-        "url": "https://kawarimidoll.com/posts/202609222/"
-      },
-      {
-        "title": "そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-23T00:37:09+00:00",
-        "relevance_score": 5,
-        "url": "https://engineer-ninaritai.com/ubuntu-rust-coreutils-2026/"
-      },
-      {
-        "title": "Ethereum’s US$2,800 wall: Why bulls keep failing at the same level",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-23T04:52:31+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/ethereums-us2800-wall-why-bulls-keep-failing-at-the-same-level-20260923/"
-      },
-      {
-        "title": "Build vs buy: Why custom tools are winning in 2026",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-23T03:00:59+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/"
       }
     ],
     "general": [
