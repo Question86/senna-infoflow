@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-23T12:58:57+00:00",
+  "generated_at": "2026-09-23T13:13:01+00:00",
   "topics": {
     "ai": [
       {
@@ -189,6 +189,13 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/mvt-project/mvt"
+      },
+      {
+        "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-23T13:00:00+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/"
       }
     ],
     "security": [
@@ -372,6 +379,13 @@
         "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/"
       },
       {
+        "title": "Multiples vulnérabilités dans Oracle PeopleSoft (16 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1187/"
+      },
+      {
         "title": "Is fast fashion losing its fit?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-23T02:30:48+00:00",
@@ -398,13 +412,6 @@
         "published_at": "2026-09-22T18:06:19+00:00",
         "relevance_score": 5,
         "url": "https://www.watch.impress.co.jp/docs/news/2142619.html"
-      },
-      {
-        "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-22T00:46:01+00:00",
-        "relevance_score": 5,
-        "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640"
       }
     ]
   }
