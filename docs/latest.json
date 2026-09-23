@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T16:23:26+00:00",
-  "run_id": "2026-09-23T16:23:26+00:00",
+  "generated_at": "2026-09-23T16:35:54+00:00",
+  "run_id": "2026-09-23T16:35:54+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 81
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
     "medium": 28,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -979,6 +979,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9ff64baa46832fdde6a0"
+      },
+      {
+        "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-09-23T16:30:00+00:00",
+        "fetched_at": "2026-09-23T16:35:22+00:00",
+        "summary": "Philip R. Lane: The Outlook for the Euro Area Economy",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "41884a7d219fdd476d0d"
       },
       {
         "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
@@ -2938,6 +2959,27 @@
       "id": "9ff64baa46832fdde6a0"
     },
     {
+      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-23T16:30:00+00:00",
+      "fetched_at": "2026-09-23T16:35:22+00:00",
+      "summary": "Philip R. Lane: The Outlook for the Euro Area Economy",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41884a7d219fdd476d0d"
+    },
+    {
       "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
       "url": "https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3945,24 +3987,25 @@
   ],
   "new_findings": [
     {
-      "title": "The digitalisation of money, payments and finance",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
       "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-09-23T16:00:00+00:00",
-      "fetched_at": "2026-09-23T16:22:57+00:00",
-      "summary": "The digitalisation of money, payments and finance",
+      "published_at": "2026-09-23T16:30:00+00:00",
+      "fetched_at": "2026-09-23T16:35:22+00:00",
+      "summary": "Philip R. Lane: The Outlook for the Euro Area Economy",
       "matched_keywords": [
+        "euro area",
         "Macro/Policy"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a1ef56db45d4c336a70d"
+      "id": "41884a7d219fdd476d0d"
     }
   ],
   "source_errors": [],

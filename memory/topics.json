@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-23T16:23:26+00:00",
+  "generated_at": "2026-09-23T16:35:54+00:00",
   "topics": {
     "ai": [
       {
@@ -124,6 +124,13 @@
         "published_at": "2026-09-23T04:07:26+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/"
+      },
+      {
+        "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-23T16:30:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf"
       },
       {
         "title": "Almost ten million people took part in ECB survey on new euro banknotes",
