@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T15:32:58+00:00_
+_Generiert: 2026-09-23T15:43:01+00:00_
 
 ## Kurzlage
 
@@ -65,10 +65,6 @@ _Generiert: 2026-09-23T15:32:58+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Chikurachki in Russia
-- **USGS earthquake M5.7 - 180 km NW of Hihifo, Tonga** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx3m)
-  - Quelle: USGS
-  - Zeit: `2026-09-23T14:41:02+00:00`
-  - Kurz: M5.7 - 180 km NW of Hihifo, Tonga. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
