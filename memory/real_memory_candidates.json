@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-23T10:03:09Z",
+  "generated_at": "2026-09-23T10:25:10Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -38,6 +38,11 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
@@ -53,7 +58,7 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Build vs buy: Why custom tools are winning in 2026",
+      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (opentelemetry-go, qs.stringify): Mehrere Schwachstellen ermöglichen Denial of Service",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
