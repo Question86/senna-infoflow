@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T01:40:49Z",
+  "generated_at": "2026-09-23T01:54:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.99,
+      "age_days": 96.0,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T00:34:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T05:17:50+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:30:49+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -128,7 +128,7 @@
       "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:00:41+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -153,7 +153,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.95,
+      "age_days": 94.96,
       "topics": [
         "general"
       ],
@@ -178,7 +178,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.95,
+      "age_days": 94.96,
       "topics": [
         "general"
       ],
@@ -203,7 +203,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 94.95,
+      "age_days": 94.96,
       "topics": [
         "ai"
       ],
@@ -255,7 +255,7 @@
       "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T00:46:01+00:00",
-      "age_days": 1.04,
+      "age_days": 1.05,
       "topics": [
         "ai"
       ],
