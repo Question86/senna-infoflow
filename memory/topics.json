@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-23T18:59:22+00:00",
+  "generated_at": "2026-09-23T19:14:47+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html"
       },
       {
-        "title": "[NEU] [hoch] IBM SPSS Analytic Server und SPSS Modeler: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T11:39:23+00:00",
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-23T12:00:00+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3536"
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
       }
     ],
     "economy": [
@@ -89,6 +89,13 @@
         "published_at": "2026-09-23T04:00:13+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/"
+      },
+      {
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-23T12:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
       },
       {
         "title": "agent-substrate/substrate",
@@ -314,6 +321,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0499"
       },
       {
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-23T12:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+      },
+      {
         "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-23T11:39:23+00:00",
@@ -347,13 +361,6 @@
         "published_at": "2026-09-23T11:34:26+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3531"
-      },
-      {
-        "title": "[NEU] [mittel] PgBouncer: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T11:34:25+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3529"
       }
     ],
     "general": [
