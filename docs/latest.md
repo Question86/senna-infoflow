@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T12:31:07+00:00_
+_Generiert: 2026-09-23T12:49:42+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
