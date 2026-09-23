@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T05:35:06Z",
+  "generated_at": "2026-09-23T05:47:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 24,
@@ -23,7 +23,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:14:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -79,7 +79,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 96.15,
+      "age_days": 96.16,
       "topics": [
         "ai"
       ],
@@ -108,7 +108,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:30:29+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "ai",
         "security",
@@ -135,7 +135,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T02:23:16.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -160,7 +160,7 @@
       "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:00:59+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -185,7 +185,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T00:34:18+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -237,7 +237,7 @@
       "url": "https://e27.co/why-southeast-asias-next-healthtech-winners-will-be-built-around-healthcare-workflows-not-just-ai-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:30:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -263,7 +263,7 @@
       "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T05:17:50+00:00",
-      "age_days": 1.01,
+      "age_days": 1.02,
       "topics": [
         "ai"
       ],
@@ -288,7 +288,7 @@
       "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:30:49+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -314,7 +314,7 @@
       "url": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -339,7 +339,7 @@
       "url": "https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T04:07:26+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -365,7 +365,7 @@
       "url": "https://e27.co/is-fast-fashion-losing-its-fit-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:30:48+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -391,7 +391,7 @@
       "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:00:41+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -416,7 +416,7 @@
       "url": "https://e27.co/ethereums-us2800-wall-why-bulls-keep-failing-at-the-same-level-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T04:52:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -442,7 +442,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 95.11,
+      "age_days": 95.12,
       "topics": [
         "general"
       ],
@@ -467,7 +467,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 95.11,
+      "age_days": 95.12,
       "topics": [
         "general"
       ],
@@ -492,7 +492,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 95.11,
+      "age_days": 95.12,
       "topics": [
         "ai"
       ],
@@ -519,7 +519,7 @@
       "url": "https://e27.co/nexstrom-lands-us12m-to-bring-2d-semiconductors-to-12-inch-wafers-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:50:09+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -544,7 +544,7 @@
       "url": "https://kawarimidoll.com/posts/202609222/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T13:23:51+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -569,7 +569,7 @@
       "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T18:06:19+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -594,7 +594,7 @@
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T16:34:29+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -619,7 +619,7 @@
       "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T00:46:01+00:00",
-      "age_days": 1.2,
+      "age_days": 1.21,
       "topics": [
         "ai"
       ],
