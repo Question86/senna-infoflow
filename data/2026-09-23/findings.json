@@ -851,6 +851,28 @@
     "id": "5d9ba83919d204fcfceb"
   },
   {
+    "title": "Node 20 is no longer available in GitHub Actions",
+    "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-23T20:46:07+00:00",
+    "fetched_at": "2026-09-23T21:38:53+00:00",
+    "summary": "This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no… The post Node 20 is no longer available in GitHub Actions appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "GitHub",
+      "GitHub Actions"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ad8908f94a22f5336f24"
+  },
+  {
     "title": "Barr, A Long-Term View on the Costs of Shelter",
     "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
     "source": "Federal Reserve Speeches and Testimony",

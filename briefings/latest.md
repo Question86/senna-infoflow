@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T21:30:31+00:00_
+_Generiert: 2026-09-23T21:39:23+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+92 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -206,6 +206,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.5); recent (+1.0)
   - Kurz: AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AWS DevOps Agentの構造を改めて正確に理解するために図解していき...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Node 20 is no longer available in GitHub Actions** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-23T20:46:07+00:00`, fetched `2026-09-23T21:38:53+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no… The post Node 20 is no longer available in GitHub Actions appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Barr, A Long-Term View on the Costs of Shelter** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-09-23T14:05:00+00:00`, fetched `2026-09-23T14:21:16+00:00`
@@ -323,15 +332,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Almost ten million people took part in ECB survey on new euro banknotes
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OpenTelemetry in the GitHub Copilot app** — Score 9, opportunity — [Quelle](https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-23T02:14:54+00:00`, fetched `2026-09-23T02:36:57+00:00`
-  - Treffer: Copilot, GitHub, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
