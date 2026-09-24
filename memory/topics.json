@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T11:51:19+00:00",
+  "generated_at": "2026-09-24T11:56:29+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,20 @@
         "url": "https://jvn.jp/vu/JVNVU99700314/"
       },
       {
+        "title": "[UPDATE] [mittel] libarchive: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:49:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2710"
+      },
+      {
+        "title": "[UPDATE] [hoch] GnuTLS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:49:24+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1312"
+      },
+      {
         "title": "[NEU] [mittel] CyberPanel: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-24T11:34:23+00:00",
@@ -59,20 +73,6 @@
         "published_at": "2026-09-24T11:34:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3562"
-      },
-      {
-        "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:29:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Tomcat APR/native Connector: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:29:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559"
       }
     ],
     "geopolitics": [
