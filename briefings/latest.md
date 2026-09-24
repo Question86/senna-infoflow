@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T10:42:49+00:00_
+_Generiert: 2026-09-24T10:49:26+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+45 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -113,6 +113,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1974)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-24T10:45:29+00:00`, fetched `2026-09-24T10:48:57+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1926)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-24T10:45:27+00:00`, fetched `2026-09-24T10:48:57+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Seoul tops global AI implementation as Singapore enters top tier** — Score 14, observation — [Quelle](https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-24T10:45:20+00:00`, fetched `2026-09-24T10:48:57+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: The global race to lead artificial intelligence is usually framed as a contest between countries: the US versus China, with Europe, India and a handful of others trying to carve out space. A new ranking argues that this view misses where much of the action is actually happening. The Observer’s inaugural AI Cities Index, released […] The post Seoul tops global AI implementation as Singapore enters top tier appeared f…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apache Tomcatにおける複数の脆弱性（2026年9月23日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94625787/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-24T10:30:40+09:00`, fetched `2026-09-24T01:36:45+00:00`
@@ -130,24 +157,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM Concert ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Foxit PDF Reader und Foxit PDF Editor: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3525)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-24T10:26:23+00:00`, fetched `2026-09-24T10:31:54+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Foxit PDF Reader und Foxit PDF Editor ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Broadcom Brocade SANnav: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3528)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-24T10:26:23+00:00`, fetched `2026-09-24T10:31:54+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Broadcom Brocade SANnav ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
