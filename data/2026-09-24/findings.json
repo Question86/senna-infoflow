@@ -530,6 +530,27 @@
     "id": "9538ca872c7dc328eac0"
   },
   {
+    "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
+    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-24T08:33:59+00:00",
+    "fetched_at": "2026-09-24T09:55:27+00:00",
+    "summary": "「楽天銀行から、数百万が楽天証券に勝手に移動されていた」「楽天証券に振り替えられて、楽天銀行の残高が0になっていた」 楽天銀行と楽天証券の連携サービスを利用している一部のユーザーが9月22日、意図しない資金移動を相次いで報告した。楽天証券によると、一部のシステムで障害が起きたことが原因。23日未明に資金...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b76b2c6cdd4aece66871"
+  },
+  {
     "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
     "url": "https://labo.hatenastaff.com/entry/2026/09/24/150000",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T09:50:47+00:00",
+  "generated_at": "2026-09-24T09:55:59+00:00",
   "topics": {
     "ai": [
       {
@@ -170,6 +170,13 @@
         "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/"
       },
       {
+        "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-24T08:33:59+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/"
+      },
+      {
         "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-24T06:30:19+00:00",
@@ -196,13 +203,6 @@
         "published_at": "2026-09-24T00:28:37+00:00",
         "relevance_score": 5,
         "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html"
-      },
-      {
-        "title": "SREとは何か、AWSでどう始めるか",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-23T13:46:19+00:00",
-        "relevance_score": 5,
-        "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka"
       }
     ],
     "geopolitics": [
