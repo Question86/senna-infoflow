@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T09:55:59+00:00",
+  "generated_at": "2026-09-24T10:01:06+00:00",
   "topics": {
     "ai": [
       {
@@ -52,6 +52,13 @@
         "published_at": "2026-09-24T01:20:33+00:00",
         "relevance_score": 7,
         "url": "https://komagata.github.io/public-notes/rails-world-2026/"
+      },
+      {
+        "title": "China is excelling in health tech. That’s good news for the world",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-24T10:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……",
@@ -112,6 +119,20 @@
         "url": "https://jvn.jp/vu/JVNVU93766760/"
       },
       {
+        "title": "[UPDATE] [mittel] Apache Tomcat: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T09:54:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3527"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache Sling: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T09:54:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3526"
+      },
+      {
         "title": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
         "published_at": "2026-09-24T07:00:00+00:00",
@@ -124,13 +145,6 @@
         "published_at": "2026-09-23T08:10:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html"
-      },
-      {
-        "title": "Sicherheitspatch gegen Schadcode repariert SolarWinds Observability Self-Hosted",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-24T08:23:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html"
       }
     ],
     "general": [
