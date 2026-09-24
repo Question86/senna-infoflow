@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-24T04:28:22Z",
+  "generated_at": "2026-09-24T04:42:44Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU99700314/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T13:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:40+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:10+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:30+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -113,7 +113,7 @@
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:20+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -140,7 +140,7 @@
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -165,7 +165,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 97.1,
+      "age_days": 97.11,
       "topics": [
         "ai"
       ],
@@ -194,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-24T03:51:50.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -219,7 +219,7 @@
       "url": "https://japan.cnet.com/article/35252874/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T00:18:43+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -243,7 +243,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T23:14:59+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -264,11 +264,35 @@
       "summary": "【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く..."
     },
     {
+      "title": "TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk",
+      "url": "https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T04:29:08+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Cynthia Wihardja’s LinkedIn post begins not with a legal argument, but with a distinction: “There are two ways to lose your freedom. One is done to you. The other, you do to yourself.” The first, she says, is what has happened to her brother, Donald Wihardja, the former head of MDI Ventures, who has begun […] The post…"
+    },
+    {
       "title": "Why scaling across Southeast Asia means pricing in the cable you never see",
       "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:00:17+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -286,30 +310,6 @@
         "no strong comparative reason"
       ],
       "summary": "In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever was left over a terrestrial fibre line that runs through Laos…"
-    },
-    {
-      "title": "Asian investors aren’t choosing between crypto and TradFi anymore",
-      "url": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T03:30:43+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Gold has been a store of wealth across Asia for generations, yet access through traditional financial markets still carries familiar friction. Investors often need dedicated brokerage accounts, fixed trading windows and capital separated from money held elsewhere. What is changing is not what Asian investors want to o…"
     }
   ],
   "read_order": [
