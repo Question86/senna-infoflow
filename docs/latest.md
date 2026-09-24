@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T08:23:10+00:00_
+_Generiert: 2026-09-24T08:40:38+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+31 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **SEA startup funding jumps to US$7.25B, but most founders are still waiting** — Score 12, observation — [Quelle](https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-24T08:34:01+00:00`, fetched `2026-09-24T08:40:08+00:00`
+  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); funding (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s startup funding market is showing signs of life again, but the recovery is not reaching most founders. Venture-backed companies in the region raised US$7.25 billion across 217 equity deals in the first half of 2026, according to the Southeast Asia Startup Funding Report H1 2026 by Kickstart Ventures and DealStreetAsia. That is the […] The post SEA startup funding jumps to US$7.25B, but most founders…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **全景軟體｜CGServiSign - OS Command Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-09-23T08:10:00+00:00`, fetched `2026-09-24T07:02:44+00:00`
@@ -105,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-24 07:40:58 UTC 2026-09-24 07:40:58 UTC at epicenter Location 37.474°N 38.861°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk** — Score 9, observation — [Quelle](https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-24T04:29:08+00:00`, fetched `2026-09-24T04:35:59+00:00`
-  - Treffer: APAC Trend Radar, Public Health
+- **Sicherheitspatch gegen Schadcode repariert SolarWinds Observability Self-Hosted** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-24T08:23:00.000+00:00`, fetched `2026-09-24T08:40:08+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
-  - Kurz: Cynthia Wihardja’s LinkedIn post begins not with a legal argument, but with a distinction: “There are two ways to lose your freedom. One is done to you. The other, you do to yourself.” The first, she says, is what has happened to her brother, Donald Wihardja, the former head of MDI Ventures, who has begun […] The post TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk appeared first on…
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Monitoring-Lösung für IT-Infrastrukturen SolarWinds Observability Self-Hosted ist unter bestimmten Voraussetzungen verwundbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Rails World 2026 DHHキーノートの日本語要約** — Score 7, observation — [Quelle](https://komagata.github.io/public-notes/rails-world-2026/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
