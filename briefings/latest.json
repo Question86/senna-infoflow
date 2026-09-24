@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T10:32:22+00:00",
-  "run_id": "2026-09-24T10:32:22+00:00",
+  "generated_at": "2026-09-24T10:42:49+00:00",
+  "run_id": "2026-09-24T10:42:49+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -1941,97 +1941,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [hoch] Broadcom Brocade SANnav: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3528",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-24T10:26:23+00:00",
-      "fetched_at": "2026-09-24T10:31:54+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Broadcom Brocade SANnav ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "899d88762169c1ffdbf2"
-    },
-    {
-      "title": "[UPDATE] [hoch] Foxit PDF Reader und Foxit PDF Editor: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3525",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-24T10:26:23+00:00",
-      "fetched_at": "2026-09-24T10:31:54+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Foxit PDF Reader und Foxit PDF Editor ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "41761368e5fd6410d174"
-    },
-    {
-      "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3513",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-24T10:26:23+00:00",
-      "fetched_at": "2026-09-24T10:31:54+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Concert ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "71200752c920976b8d94"
-    },
-    {
-      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
-      "url": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-24T10:29:49+00:00",
-      "fetched_at": "2026-09-24T10:31:54+00:00",
-      "summary": "大臣・副大臣・大臣政務官の交代式を行いました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b39fe86c339cacc6b620"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
