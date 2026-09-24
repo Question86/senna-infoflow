@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T07:26:24+00:00_
+_Generiert: 2026-09-24T07:47:21+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+28 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -114,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 写真と開発の大衆化元の配信の時刻：34:11高価で時間のかかる肖像画から、大衆向けカメラ、さらに手間も費用もほとんど意識せず撮れるスマートフォンの写真へ。制作の費用が下がると、作る人と作られるものの数が大きく増え、専門家の役割も変わる、というたとえです。 DHH自身はOpus 4.5を転換点と捉え、その後のモデル...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/24/2000001689/)
+- **はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ** — Score 5, observation — [Quelle](https://labo.hatenastaff.com/entry/2026/09/24/150000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-24T03:24:14+00:00`, fetched `2026-09-24T05:53:02+00:00`
+  - Zeit: published `2026-09-24T06:30:19+00:00`, fetched `2026-09-24T07:46:50+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: セルシスのイラスト・マンガ制作ツール「CLIP STUDIO PAINT」向け素材共有サービス「CLIP STUDIO ASSETS」で9月22日までに、多くの投稿素材が一斉に非公開になった。人物の3Dモデルなどに加え、ペン素材や食事用ナイフの素材が削除されたとの報告もあり、「非公開の基準が分からない」と混乱が続いている。 同社は23日「...
+  - Kurz: はてな匿名ダイアリーは、2026年9月24日に20周年を迎えました。ご利用いただいている皆さまに、あらためて感謝申し上げます。 はてな匿名ダイアリーは、「名前を隠して楽しく日記。」を掲げる場所として続いてきました。 サービスを長く運営していく中で、利用のされ方や取り巻く環境も変化してきました。 これからも、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

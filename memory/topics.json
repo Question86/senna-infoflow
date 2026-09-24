@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T07:26:24+00:00",
+  "generated_at": "2026-09-24T07:47:21+00:00",
   "topics": {
     "ai": [
       {
@@ -142,6 +142,13 @@
         "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/"
       },
       {
+        "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-24T06:30:19+00:00",
+        "relevance_score": 5,
+        "url": "https://labo.hatenastaff.com/entry/2026/09/24/150000"
+      },
+      {
         "title": "Startups keep scaling ops before they scale data — Here’s why it backfires",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-24T03:00:08+00:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-09-24T04:00:08+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-1-20260923/"
-      },
-      {
-        "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T01:00:55+00:00",
-        "relevance_score": 3,
-        "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/"
       }
     ],
     "geopolitics": [
