@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T08:51:56+00:00",
-  "run_id": "2026-09-24T08:51:56+00:00",
+  "generated_at": "2026-09-24T08:58:39+00:00",
+  "run_id": "2026-09-24T08:58:39+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 32,
     "displayed_findings": 32,
     "high": 0,
@@ -1503,29 +1503,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
-      "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-24T05:23:52+00:00",
-      "fetched_at": "2026-09-24T08:51:25+00:00",
-      "summary": "Findy様主催のWebセミナー（2026/9/24）での登壇資料です。 https://findy.connpass.com/event/405902/",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "208b0ad5dbaf9b9e7dd4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
