@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T03:24:16+00:00_
+_Generiert: 2026-09-24T03:37:06+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+15 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -134,14 +134,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered the patient’s history, recognised patterns, weighed possibilities and drew on years of experience. They did not know […] The post The future of healthcare AI isn…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Startups keep scaling ops before they scale data — Here’s why it backfires** — Score 5, observation — [Quelle](https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/)
+- **Asian investors aren’t choosing between crypto and TradFi anymore** — Score 7, observation — [Quelle](https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-24T03:00:08+00:00`, fetched `2026-09-24T03:23:48+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: A startup doubles its headcount. It opens a new sales channel. It ships a second product line. All of this happens while the business is still running on a spreadsheet, a half-built dashboard, or a weekly gut-check meeting. Nobody notices the gap at first, growth feels like growth. Then, three months in, someone on the […] The post Startups keep scaling ops before they scale data — Here’s why it backfires appeared f…
+  - Zeit: published `2026-09-24T03:30:43+00:00`, fetched `2026-09-24T03:36:35+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Gold has been a store of wealth across Asia for generations, yet access through traditional financial markets still carries familiar friction. Investors often need dedicated brokerage accounts, fixed trading windows and capital separated from money held elsewhere. What is changing is not what Asian investors want to own. It is how they access it. A […] The post Asian investors aren’t choosing between crypto and Trad…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/series/rt/2142663.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

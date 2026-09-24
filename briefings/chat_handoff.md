@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T03:24:16+00:00_
+_Generated: 2026-09-24T03:37:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-24T03:24:16+00:00_
 - url: https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/
 - summary: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered t…
 
-### 7. Startups keep scaling ops before they scale data — Here’s why it backfires
+### 7. Asian investors aren’t choosing between crypto and TradFi anymore
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-09-24T03:30:43+00:00`
+- url: https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/
+- summary: Gold has been a store of wealth across Asia for generations, yet access through traditional financial markets still carries familiar friction. Investors often need dedicated brokerage accounts, fixed trading windows and capital separated from money held elsew…
+
+### 8. Startups keep scaling ops before they scale data — Here’s why it backfires
 - source: e27 Asia Startup and Tech Feed
 - score: `5`
 - published: `2026-09-24T03:00:08+00:00`
 - url: https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/
 - summary: A startup doubles its headcount. It opens a new sales channel. It ships a second product line. All of this happens while the business is still running on a spreadsheet, a half-built dashboard, or a weekly gut-check meeting. Nobody notices the gap at first, gr…
-
-### 8. Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-24T00:28:37+00:00`
-- url: https://av.watch.impress.co.jp/docs/series/rt/2142663.html
-- summary: Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
 
 END OF DOCUMENT
