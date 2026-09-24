@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T13:30:13+00:00",
+  "generated_at": "2026-09-24T13:42:35+00:00",
   "topics": {
     "security": [
       {
@@ -270,25 +270,25 @@
         "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/"
       },
       {
+        "title": "Multiples vulnérabilités dans ISC BIND (17 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-17T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1192/"
+      },
+      {
+        "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/"
+      },
+      {
         "title": "大臣・副大臣・大臣政務官の交代式を行いました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-09-24T10:29:49+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b"
-      },
-      {
-        "title": "3大、俺の中で天才ゲームプログラマ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-24T09:26:31+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260924153226"
-      },
-      {
-        "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-24T08:33:59+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/"
       }
     ],
     "economy": [
@@ -349,18 +349,18 @@
         "url": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/"
       },
       {
+        "title": "Transition and adjustment in changing times",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-24T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20260924-transition-and-adjustment-changing-times"
+      },
+      {
         "title": "Opening remarks - panel session on economics of innovation",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-24T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20260924-opening-remarks-panel-session-economics-innovation"
-      },
-      {
-        "title": "Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T04:30:46+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/"
       }
     ],
     "github": [
