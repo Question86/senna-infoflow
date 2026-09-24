@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-24T11:00:09+00:00",
+  "generated_at": "2026-09-24T11:18:44+00:00",
   "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 7,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
-    "medium": 16,
-    "observe": 29,
+    "medium": 22,
+    "observe": 30,
     "source_errors": 0
   },
   "source_errors": [],
