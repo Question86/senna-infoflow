@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T11:29:49+00:00",
+  "generated_at": "2026-09-24T11:39:53+00:00",
   "topics": {
     "security": [
       {
@@ -47,32 +47,32 @@
         "url": "https://jvn.jp/vu/JVNVU99700314/"
       },
       {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] CyberPanel: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:26+00:00",
+        "published_at": "2026-09-24T11:34:23+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3561"
       },
       {
-        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] MLflow: Mehrere Schwachstellen ermöglichen Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:25+00:00",
+        "published_at": "2026-09-24T11:34:23+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3562"
       },
       {
-        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:24+00:00",
+        "published_at": "2026-09-24T11:29:23+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560"
       },
       {
-        "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] Apache Tomcat APR/native Connector: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:23+00:00",
+        "published_at": "2026-09-24T11:29:23+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559"
       }
     ],
     "geopolitics": [
@@ -105,6 +105,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552"
       },
       {
+        "title": "[NEU] [mittel] CyberPanel: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:34:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3561"
+      },
+      {
+        "title": "[NEU] [hoch] MLflow: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:34:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3562"
+      },
+      {
+        "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:29:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Tomcat APR/native Connector: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:29:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559"
+      },
+      {
         "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-24T11:04:26+00:00",
@@ -117,34 +145,6 @@
         "published_at": "2026-09-24T11:04:25+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554"
-      },
-      {
-        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:24+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553"
-      },
-      {
-        "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551"
-      },
-      {
-        "title": "Seoul tops global AI implementation as Singapore enters top tier",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T10:45:20+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:40+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94625787/"
       }
     ],
     "ai": [
