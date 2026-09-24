@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T01:55:09+00:00_
+_Generated: 2026-09-24T02:02:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `11`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-24T01:55:09+00:00_
 - url: https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/
 - summary: For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong ques…
 
-### 6. SREとは何か、AWSでどう始めるか
+### 6. The future of healthcare AI isn’t more data. It’s better context
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-24T02:00:34+00:00`
+- url: https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/
+- summary: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered t…
+
+### 7. SREとは何か、AWSでどう始めるか
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-23T13:46:19+00:00`
 - url: https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka
 - summary: 2026-09-18 gotanda.sre Terraformで複数環境作ったり、複数Stateに分割したりそれとTerragrunt / Terraform multi envs and multi states
 
-### 7. グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記
+### 8. グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-22T14:50:03+00:00`
 - url: https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route
 - summary: Google Mapsのエコモードをオフにする 最近、グーグルマップの経路表示が変だな、と思う方いませんか？？ 5分短縮するために1200円ぐらい高速料金かかる道を表示してきたり、 そうかと想えば、 普通なら15分でイケるところを、燃費のためかどうかしらないですけど、 18分で遠回りな道を表示するようになったり。 Reddit...
-
-### 8. Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction
-- source: e27 Asia Startup and Tech Feed
-- score: `3`
-- published: `2026-09-24T01:00:55+00:00`
-- url: https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/
-- summary: The next portfolio concentration problem may not come from investors staying too close to home, but from millions of investors becoming familiar with the same handful of global companies. For decades, one of the most persistent puzzles in investing has been h…
 
 END OF DOCUMENT
