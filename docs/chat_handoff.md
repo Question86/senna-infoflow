@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T02:02:27+00:00_
+_Generated: 2026-09-24T02:30:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-24T02:02:27+00:00_
 - url: https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/
 - summary: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered t…
 
-### 7. SREとは何か、AWSでどう始めるか
+### 7. Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-24T00:28:37+00:00`
+- url: https://av.watch.impress.co.jp/docs/series/rt/2142663.html
+- summary: Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
+
+### 8. SREとは何か、AWSでどう始めるか
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-23T13:46:19+00:00`
 - url: https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka
 - summary: 2026-09-18 gotanda.sre Terraformで複数環境作ったり、複数Stateに分割したりそれとTerragrunt / Terraform multi envs and multi states
-
-### 8. グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-22T14:50:03+00:00`
-- url: https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route
-- summary: Google Mapsのエコモードをオフにする 最近、グーグルマップの経路表示が変だな、と思う方いませんか？？ 5分短縮するために1200円ぐらい高速料金かかる道を表示してきたり、 そうかと想えば、 普通なら15分でイケるところを、燃費のためかどうかしらないですけど、 18分で遠回りな道を表示するようになったり。 Reddit...
 
 END OF DOCUMENT
