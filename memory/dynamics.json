@@ -1,27 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-24T04:03:51Z",
+  "generated_at": "2026-09-24T04:28:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 24,
     "bands": {
       "krass": 3,
-      "strong": 4,
-      "quiet": 13
+      "strong": 5,
+      "watch": 1,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "quiet": 13
+      "strong": 8,
+      "watch": 1,
+      "quiet": 15
     }
   },
   "top_dynamics": [
+    {
+      "title": "三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99700314/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-24T13:00:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。"
+    },
     {
       "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:40+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -45,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:10+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -69,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:30+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -95,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:20+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -122,7 +148,7 @@
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -147,7 +173,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 97.09,
+      "age_days": 97.1,
       "topics": [
         "ai"
       ],
@@ -176,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-24T03:51:50.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -197,11 +223,35 @@
       "summary": "Time 2026-09-24 03:30:26 UTC 2026-09-24 03:30:26 UTC at epicenter Location 8.330°S 119.367°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Meta、重さが「Quest 3の5分の1」の超軽量VRグラスを27年春に日本発売 Ray-Ban(Gen 3)は24日発売",
+      "url": "https://japan.cnet.com/article/35252874/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-24T00:18:43+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, 9.9"
+      ],
+      "summary": "「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。"
+    },
+    {
       "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T23:14:59+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -222,11 +272,35 @@
       "summary": "【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く..."
     },
     {
+      "title": "Why scaling across Southeast Asia means pricing in the cable you never see",
+      "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T04:00:17+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever was left over a terrestrial fibre line that runs through Laos…"
+    },
+    {
       "title": "Asian investors aren’t choosing between crypto and TradFi anymore",
       "url": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:30:43+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -250,7 +324,7 @@
       "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:00:08+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -274,7 +348,7 @@
       "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:00:55+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -298,7 +372,7 @@
       "url": "https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:30:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -319,11 +393,37 @@
       "summary": "For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong question. The more important question is: How much more can an o…"
     },
     {
+      "title": "What building Bangladesh’s agency actually looks like from the inside – Part 1",
+      "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-1-20260923/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T04:00:08+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "There’s a specific kind of meeting I used to dread in the early years of building Ngital. You’ve prepared everything. You’ve built the presentation carefully. You’ve researched the client’s industry. You walk in, and within the first 10 minutes, you realise the person across the table has already decided what they wan…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 96.05,
+      "age_days": 96.07,
       "topics": [
         "general"
       ],
@@ -348,7 +448,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 96.05,
+      "age_days": 96.07,
       "topics": [
         "general"
       ],
@@ -373,7 +473,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 96.05,
+      "age_days": 96.07,
       "topics": [
         "ai"
       ],
@@ -400,7 +500,7 @@
       "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:00:34+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -425,7 +525,7 @@
       "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T00:28:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -450,7 +550,7 @@
       "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T13:46:19+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -475,7 +575,7 @@
       "url": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T14:50:03+00:00",
-      "age_days": 1.55,
+      "age_days": 1.57,
       "topics": [
         "ai"
       ],
@@ -500,7 +600,7 @@
       "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:00:30+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -521,5 +621,5 @@
       "summary": "Every growing company eventually builds a ritual around checking in on itself. Daily standups, weekly syncs, status calls stacked on status calls, all in the name of staying aligned. At some point, that ritual stops serving the work because the team starts doing the check-in instead of doing the actual work. Fixing it…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱性（2026年9月23日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
