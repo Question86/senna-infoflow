@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T04:36:54+00:00_
+_Generiert: 2026-09-24T04:47:10+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+23 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -123,9 +123,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/all_pressrels.rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f2d8772db10>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
-- `bis_central_bank_speeches` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/cbspeeches.rss?paging_length=15 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f2d87b00f50>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
-- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/all_statistics.rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f2d8791be50>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
