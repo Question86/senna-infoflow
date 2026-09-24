@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T04:23:37+00:00_
+_Generated: 2026-09-24T04:36:54+00:00_
 
 ## Status
-- status: `normal`
-- findings: `20`
+- status: `warning`
+- findings: `23`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-24T04:23:37+00:00_
 - url: https://japan.cnet.com/article/35252874/
 - summary: 「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。
 
-### 7. Why scaling across Southeast Asia means pricing in the cable you never see
+### 7. TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-09-24T04:29:08+00:00`
+- url: https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/
+- summary: Cynthia Wihardja’s LinkedIn post begins not with a legal argument, but with a distinction: “There are two ways to lose your freedom. One is done to you. The other, you do to yourself.” The first, she says, is what has happened to her brother, Donald Wihardja,…
+
+### 8. Why scaling across Southeast Asia means pricing in the cable you never see
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-24T04:00:17+00:00`
 - url: https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/
 - summary: In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever wa…
-
-### 8. The future of healthcare AI isn’t more data. It’s better context
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-24T02:00:34+00:00`
-- url: https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/
-- summary: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered t…
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T04:23:37+00:00_
+_Generiert: 2026-09-24T04:36:54+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+23 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk** — Score 9, observation — [Quelle](https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-24T04:29:08+00:00`, fetched `2026-09-24T04:35:59+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: Cynthia Wihardja’s LinkedIn post begins not with a legal argument, but with a distinction: “There are two ways to lose your freedom. One is done to you. The other, you do to yourself.” The first, she says, is what has happened to her brother, Donald Wihardja, the former head of MDI Ventures, who has begun […] The post TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why scaling across Southeast Asia means pricing in the cable you never see** — Score 8, observation — [Quelle](https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-24T04:00:17+00:00`, fetched `2026-09-24T04:23:08+00:00`
@@ -86,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever was left over a terrestrial fibre line that runs through Laos into Singapore. […] The post Why scaling across Southeast Asia means pricing in the cable you never…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The future of healthcare AI isn’t more data. It’s better context** — Score 8, observation — [Quelle](https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-24T02:00:34+00:00`, fetched `2026-09-24T02:01:55+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered the patient’s history, recognised patterns, weighed possibilities and drew on years of experience. They did not know […] The post The future of healthcare AI isn…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/series/rt/2142663.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -123,3 +123,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/all_pressrels.rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f2d8772db10>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
+- `bis_central_bank_speeches` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/cbspeeches.rss?paging_length=15 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f2d87b00f50>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
+- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/all_statistics.rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f2d8791be50>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
