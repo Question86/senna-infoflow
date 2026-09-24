@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-24T05:47:44Z",
+  "generated_at": "2026-09-24T06:05:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 30,
     "bands": {
       "krass": 4,
       "strong": 5,
       "watch": 1,
-      "quiet": 19
+      "quiet": 20
     },
     "bands_after_gate_recheck": {
       "strong": 9,
       "watch": 1,
-      "quiet": 19
+      "quiet": 20
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU99700314/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T13:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:40+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:10+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:30+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:20+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -148,7 +148,7 @@
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T05:05:49+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -199,7 +199,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 97.16,
+      "age_days": 97.17,
       "topics": [
         "ai"
       ],
@@ -228,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-24T03:51:50.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -253,7 +253,7 @@
       "url": "https://japan.cnet.com/article/35252874/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T00:18:43+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -277,7 +277,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T23:14:59+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -302,7 +302,7 @@
       "url": "https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:29:08+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -326,7 +326,7 @@
       "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:00:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -350,7 +350,7 @@
       "url": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:30:43+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -374,7 +374,7 @@
       "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:00:08+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -398,7 +398,7 @@
       "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:30:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -422,7 +422,7 @@
       "url": "https://e27.co/can-asias-etf-infrastructure-keep-pace-with-its-growth-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:30:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -446,7 +446,7 @@
       "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:00:55+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -470,7 +470,7 @@
       "url": "https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:30:18+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -495,7 +495,7 @@
       "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-1-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:00:08+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -521,7 +521,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 96.12,
+      "age_days": 96.14,
       "topics": [
         "general"
       ],
@@ -546,7 +546,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 96.12,
+      "age_days": 96.14,
       "topics": [
         "general"
       ],
@@ -571,7 +571,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 96.12,
+      "age_days": 96.14,
       "topics": [
         "ai"
       ],
@@ -598,7 +598,7 @@
       "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:00:34+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -623,7 +623,7 @@
       "url": "https://komagata.github.io/public-notes/rails-world-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T01:20:33+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -644,11 +644,36 @@
       "summary": "写真と開発の大衆化元の配信の時刻：34:11高価で時間のかかる肖像画から、大衆向けカメラ、さらに手間も費用もほとんど意識せず撮れるスマートフォンの写真へ。制作の費用が下がると、作る人と作られるものの数が大きく増え、専門家の役割も変わる、というたとえです。 DHH自身はOpus 4.5を転換点と捉え、その後のモデル..."
     },
     {
+      "title": "「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……",
+      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001689/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-24T03:24:14+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "セルシスのイラスト・マンガ制作ツール「CLIP STUDIO PAINT」向け素材共有サービス「CLIP STUDIO ASSETS」で9月22日までに、多くの投稿素材が一斉に非公開になった。人物の3Dモデルなどに加え、ペン素材や食事用ナイフの素材が削除されたとの報告もあり、「非公開の基準が分からない」と混乱が続いている。 同社は23日「..."
+    },
+    {
       "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
       "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T00:28:37+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -673,7 +698,7 @@
       "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T13:46:19+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -698,7 +723,7 @@
       "url": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T14:50:03+00:00",
-      "age_days": 1.62,
+      "age_days": 1.64,
       "topics": [
         "ai"
       ],
@@ -723,7 +748,7 @@
       "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:00:30+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
