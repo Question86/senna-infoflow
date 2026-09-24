@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T04:54:15+00:00_
+_Generiert: 2026-09-24T04:59:09+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+23 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -123,8 +123,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_central_bank_speeches` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
-- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
