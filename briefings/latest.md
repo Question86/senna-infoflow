@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T12:33:04+00:00_
+_Generiert: 2026-09-24T12:51:31+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -157,6 +157,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **A new age of capital - growth, sovereignty and AI** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-24T00:00:00+00:00`, fetched `2026-09-24T12:50:59+00:00`
+  - Treffer: AI/KI, Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Ms Christine Lagarde, President of the European Central Bank, at “Hofburg im Dialog – economy, europe, resilience”, Vienna, 14 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SEA startup funding jumps to US$7.25B, but most founders are still waiting** — Score 12, observation — [Quelle](https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-24T08:34:01+00:00`, fetched `2026-09-24T08:40:08+00:00`
@@ -238,6 +247,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 139 km SW of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txbm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-24T12:44:54.040+00:00`, fetched `2026-09-24T12:50:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-24 12:29:58 UTC 2026-09-24 12:29:58 UTC at epicenter Location 5.340°S 151.492°E Depth 95.60 km (59.40 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - Kermadec Islands, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-24T11:42:21.040+00:00`, fetched `2026-09-24T11:45:30+00:00`
@@ -273,24 +291,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die Monitoring-Lösung für IT-Infrastrukturen SolarWinds Observability Self-Hosted ist unter bestimmten Voraussetzungen verwundbar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Rails World 2026 DHHキーノートの日本語要約** — Score 7, observation — [Quelle](https://komagata.github.io/public-notes/rails-world-2026/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-24T01:20:33+00:00`, fetched `2026-09-24T05:15:35+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 写真と開発の大衆化元の配信の時刻：34:11高価で時間のかかる肖像画から、大衆向けカメラ、さらに手間も費用もほとんど意識せず撮れるスマートフォンの写真へ。制作の費用が下がると、作る人と作られるものの数が大きく増え、専門家の役割も変わる、というたとえです。 DHH自身はOpus 4.5を転換点と捉え、その後のモデル...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **大臣・副大臣・大臣政務官の交代式を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-24T10:29:49+00:00`, fetched `2026-09-24T10:31:54+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 大臣・副大臣・大臣政務官の交代式を行いました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
