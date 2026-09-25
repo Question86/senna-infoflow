@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-25T10:47:27Z",
+  "generated_at": "2026-09-25T11:03:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 12,
-      "strong": 6,
+      "krass": 14,
+      "strong": 10,
       "watch": 5,
-      "quiet": 17
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 14,
+      "krass": 5,
+      "strong": 19,
       "watch": 5,
-      "quiet": 17
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:19:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:47:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -70,11 +70,36 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "[NEU] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3570",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-25T10:44:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:47:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -99,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T08:44:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -125,7 +150,7 @@
       "url": "https://jvn.jp/jp/JVN14353754/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -145,11 +170,108 @@
       "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] Kibana: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3575",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-25T10:54:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Kibana ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um Daten zu manipulieren, um seine Privilegien zu erhöhen, und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] VLC: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3574",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-25T10:54:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in VLC ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3573",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-25T10:54:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3572",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-25T10:49:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren."
+    },
+    {
       "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -173,7 +295,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T05:49:23+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -197,7 +319,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:15+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -217,11 +339,37 @@
       "summary": "baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-25T10:44:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MinIO ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:39:23+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -247,7 +395,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:24:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -273,7 +421,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -299,7 +447,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3301",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:46:46+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -325,7 +473,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:04:23+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -351,7 +499,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:19:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -377,7 +525,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -402,7 +550,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -429,7 +577,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 98.37,
+      "age_days": 98.38,
       "topics": [
         "ai"
       ],
@@ -458,7 +606,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T08:55:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -485,7 +633,7 @@
       "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T07:31:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -510,7 +658,7 @@
       "url": "https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T07:02:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -534,7 +682,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-25T04:41:21.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -559,7 +707,7 @@
       "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T09:43:08+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -585,7 +733,7 @@
       "url": "https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:05+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -609,7 +757,7 @@
       "url": "https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T03:00:31+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -636,7 +784,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-09-25T08:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -660,7 +808,7 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-25T06:00:50+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -685,7 +833,7 @@
       "url": "https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T04:00:11+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "infra"
@@ -713,7 +861,7 @@
       "url": "https://www.digital.go.jp/councils/vc-diw-governance/c164f224-cd22-4d66-9d50-1c1b42daca65",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-25T08:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -737,7 +885,7 @@
       "url": "https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T04:18:26+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -761,7 +909,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260925-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-25T03:00:19+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -785,7 +933,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T03:34:17+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -809,7 +957,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T23:11:39+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -833,7 +981,7 @@
       "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T06:33:26+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -860,7 +1008,7 @@
       "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T03:36:46+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -880,158 +1028,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between early signs and medical attention. The Asian arch support bra…"
-    },
-    {
-      "title": "グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ",
-      "url": "https://japan.cnet.com/article/35252958/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-25T02:26:41+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Googleは米国時間9月24日、モバイル版「Gemini」のAI機能を拡張し、日常の電話をユーザーに代わってこなす、新たなAIエージェント機能を発表した。世界中の内向的な人に朗報だ。ただし、細かな利用条件にも目を通しておきたい。Geminiが代わりにできることには限りがあるからだ。 この機能は、スマートフォンでGeminiを..."
-    },
-    {
-      "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
-      "url": "https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-25T05:03:30+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "There is a particular misery that visits finance departments in the last week of every month. The sales figure on the point-of-sale screen says one thing, the bank statement says another, and somebody has to explain the gap before the books close. Gilang Gibranthama, co-founder of Jakarta-based Matchmade.io, has built…"
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 97.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 97.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 97.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI made the first draft easier. It didn’t make client decisions easier",
-      "url": "https://e27.co/ai-made-the-first-draft-easier-it-didnt-make-client-decisions-easier-20260924/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-25T03:30:48+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A few years ago, the early stages of a video project often began almost from zero. We would talk through the client’s direction, work out a script, develop the visual approach and gradually turn a loose idea into something the client could react to. That part has changed. Today, a client can give me a […] The post AI…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
