@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T23:18:24+00:00_
+_Generiert: 2026-09-25T23:26:40+00:00_
 
 ## Kurzlage
 
@@ -44,7 +44,7 @@ _Generiert: 2026-09-25T23:18:24+00:00_
 - **USGS earthquake M6.6 - 80 km ENE of Tadine, New Caledonia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi)
   - Quelle: USGS
   - Zeit: `2026-09-25T21:23:03+00:00`
-  - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001328)
   - Quelle: GDACS
   - Zeit: ``
