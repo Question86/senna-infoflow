@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T23:32:36+00:00_
+_Generiert: 2026-09-25T23:40:41+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+96 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -294,7 +294,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
