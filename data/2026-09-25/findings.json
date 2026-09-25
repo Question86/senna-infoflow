@@ -301,6 +301,27 @@
     "id": "5b791a6bc436c932dc21"
   },
   {
+    "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+    "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-25T03:13:23+00:00",
+    "fetched_at": "2026-09-25T04:36:47+00:00",
+    "summary": "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can… The post Default Enablement of Copilot Features for Copilot Business and Enterprise appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a912116e60b4a99c53e"
+  },
+  {
     "title": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-260925-01",
     "source": "Japan Digital Agency News RSS",

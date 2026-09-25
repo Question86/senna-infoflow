@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T04:23:50+00:00",
-  "run_id": "2026-09-25T04:23:50+00:00",
+  "generated_at": "2026-09-25T04:37:14+00:00",
+  "run_id": "2026-09-25T04:37:14+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 5,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -331,6 +331,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5b791a6bc436c932dc21"
+      },
+      {
+        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-25T03:13:23+00:00",
+        "fetched_at": "2026-09-25T04:36:47+00:00",
+        "summary": "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can… The post Default Enablement of Copilot Features for Copilot Business and Enterprise appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9a912116e60b4a99c53e"
       },
       {
         "title": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
@@ -741,6 +762,27 @@
       "id": "5b791a6bc436c932dc21"
     },
     {
+      "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-25T03:13:23+00:00",
+      "fetched_at": "2026-09-25T04:36:47+00:00",
+      "summary": "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can… The post Default Enablement of Copilot Features for Copilot Business and Enterprise appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9a912116e60b4a99c53e"
+    },
+    {
       "title": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260925-01",
       "source": "Japan Digital Agency News RSS",
@@ -847,45 +889,25 @@
   ],
   "new_findings": [
     {
-      "title": "Vision AI expands visibility across remote pipeline corridors",
-      "url": "https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-25T04:00:11+00:00",
-      "fetched_at": "2026-09-25T04:22:55+00:00",
-      "summary": "Pipeline operators already receive large volumes of asset data, but physical activity along remote rights-of-way remains difficult to observe continuously. Vision AI is beginning to turn existing infrastructure into an additional layer of operational intelligence. Midstream operators face a problem created by the infrastructure itself: pipelines can run for hundreds of kilometres through terrain that […] The post Vi…",
+      "published_at": "2026-09-25T03:13:23+00:00",
+      "fetched_at": "2026-09-25T04:36:47+00:00",
+      "summary": "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can… The post Default Enablement of Copilot Features for Copilot Business and Enterprise appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1d5da044c92a2f2a72a2"
-    },
-    {
-      "title": "Citi, HSBC back iPiD’s US$16M round to make instant payments safer across borders",
-      "url": "https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-25T04:18:26+00:00",
-      "fetched_at": "2026-09-25T04:22:55+00:00",
-      "summary": "Hitting “send” on a bank transfer used to come with a cushion of time. A payment might sit in a queue for hours, sometimes days, giving banks and senders a window to notice a mistyped account number or a suspicious beneficiary. Instant payments have all but erased that cushion. Money now lands in seconds, and […] The post Citi, HSBC back iPiD’s US$16M round to make instant payments safer across borders appeared firs…",
-      "matched_keywords": [
-        "APAC Trend Radar"
+        "Copilot",
+        "GitHub"
       ],
       "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5b791a6bc436c932dc21"
+      "id": "9a912116e60b4a99c53e"
     }
   ],
   "source_errors": [],

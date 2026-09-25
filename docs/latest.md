@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T04:23:50+00:00_
+_Generiert: 2026-09-25T04:37:14+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+20 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Default Enablement of Copilot Features for Copilot Business and Enterprise** — Score 6, risk — [Quelle](https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-25T03:13:23+00:00`, fetched `2026-09-25T04:36:47+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can… The post Default Enablement of Copilot Features for Copilot Business and Enterprise appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **古川大臣記者会見（令和8年9月25日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260925-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-25T03:00:19+00:00`, fetched `2026-09-25T03:22:42+00:00`
