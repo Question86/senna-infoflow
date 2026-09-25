@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T23:52:09+00:00",
-  "run_id": "2026-09-25T23:52:09+00:00",
+  "generated_at": "2026-09-25T23:57:25+00:00",
+  "run_id": "2026-09-25T23:57:25+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 97
+      "configured_public_sources_only": 99
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 97,
-    "displayed_findings": 97,
+    "new_relevant_findings": 2,
+    "today_file_total": 99,
+    "displayed_findings": 99,
     "high": 0,
     "medium": 34,
-    "observe": 63,
+    "observe": 65,
     "source_errors": 0
   },
   "sections": {
@@ -1096,6 +1096,28 @@
         "id": "5ca8bb94f361e4a6678b"
       },
       {
+        "title": "Claude Code クラウドセッション、使ってみて！",
+        "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-25T06:58:56+00:00",
+        "fetched_at": "2026-09-25T23:56:54+00:00",
+        "summary": "はじめに Claude Code クラウドセッション、使っていますか？実は、ふだんの対話のセッションもそのままクラウドで動かせます！ クラウドセッションは、Claude CodeをAnthropicのクラウドで動かす機能です。PCやアプリ、ブラウザを閉じても処理が止まらず、Desktopアプリやブラウザ、スマホのどこからでも同じセッション...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc0c062ff546f8d847de"
+      },
+      {
         "title": "M 5.0 - 124 km N of Metinaro, Timor Leste",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1305,6 +1327,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f81fceb4a38441b8b7b0"
+      },
+      {
+        "title": "M 5.5 - 61 km ENE of Tadine, New Caledonia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-25T23:54:05.040+00:00",
+        "fetched_at": "2026-09-25T23:56:54+00:00",
+        "summary": "Time 2026-09-25 23:39:41 UTC 2026-09-25 23:39:41 UTC at epicenter Location 21.375°S 168.445°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "fae1225b8e70d5e41578"
       },
       {
         "title": "M 4.9 - 78 km NE of Tadine, New Caledonia",
@@ -3457,6 +3515,28 @@
       "id": "5ca8bb94f361e4a6678b"
     },
     {
+      "title": "Claude Code クラウドセッション、使ってみて！",
+      "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-25T06:58:56+00:00",
+      "fetched_at": "2026-09-25T23:56:54+00:00",
+      "summary": "はじめに Claude Code クラウドセッション、使っていますか？実は、ふだんの対話のセッションもそのままクラウドで動かせます！ クラウドセッションは、Claude CodeをAnthropicのクラウドで動かす機能です。PCやアプリ、ブラウザを閉じても処理が止まらず、Desktopアプリやブラウザ、スマホのどこからでも同じセッション...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc0c062ff546f8d847de"
+    },
+    {
       "title": "M 5.0 - 124 km N of Metinaro, Timor Leste",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3666,6 +3746,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f81fceb4a38441b8b7b0"
+    },
+    {
+      "title": "M 5.5 - 61 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-25T23:54:05.040+00:00",
+      "fetched_at": "2026-09-25T23:56:54+00:00",
+      "summary": "Time 2026-09-25 23:39:41 UTC 2026-09-25 23:39:41 UTC at epicenter Location 21.375°S 168.445°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fae1225b8e70d5e41578"
     },
     {
       "title": "M 4.9 - 78 km NE of Tadine, New Caledonia",
@@ -4753,13 +4869,35 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 78 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqf",
+      "title": "Claude Code クラウドセッション、使ってみて！",
+      "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-25T06:58:56+00:00",
+      "fetched_at": "2026-09-25T23:56:54+00:00",
+      "summary": "はじめに Claude Code クラウドセッション、使っていますか？実は、ふだんの対話のセッションもそのままクラウドで動かせます！ クラウドセッションは、Claude CodeをAnthropicのクラウドで動かす機能です。PCやアプリ、ブラウザを閉じても処理が止まらず、Desktopアプリやブラウザ、スマホのどこからでも同じセッション...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc0c062ff546f8d847de"
+    },
+    {
+      "title": "M 5.5 - 61 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-25T23:50:33.040+00:00",
-      "fetched_at": "2026-09-25T23:51:28+00:00",
-      "summary": "Time 2026-09-25 23:32:44 UTC 2026-09-25 23:32:44 UTC at epicenter Location 21.153°S 168.509°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-25T23:54:05.040+00:00",
+      "fetched_at": "2026-09-25T23:56:54+00:00",
+      "summary": "Time 2026-09-25 23:39:41 UTC 2026-09-25 23:39:41 UTC at epicenter Location 21.375°S 168.445°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -4786,7 +4924,7 @@
         "HD",
         "LOW"
       ],
-      "id": "4085e51adcfa8c17df8c"
+      "id": "fae1225b8e70d5e41578"
     }
   ],
   "source_errors": [],
