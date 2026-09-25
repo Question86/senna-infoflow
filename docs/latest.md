@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T14:57:15+00:00_
+_Generiert: 2026-09-25T15:07:14+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+73 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
