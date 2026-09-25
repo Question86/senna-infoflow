@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-25T03:41:39Z",
+  "generated_at": "2026-09-25T03:50:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 21,
     "bands": {
       "krass": 3,
       "strong": 4,
       "watch": 1,
-      "quiet": 12
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 1,
-      "quiet": 12
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN14353754/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -173,7 +173,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 98.07,
+      "age_days": 98.08,
       "topics": [
         "ai"
       ],
@@ -202,7 +202,7 @@
       "url": "https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -295,6 +295,32 @@
         "no strong comparative reason"
       ],
       "summary": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理"
+    },
+    {
+      "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
+      "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-25T03:36:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between early signs and medical attention. The Asian arch support bra…"
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
@@ -403,7 +429,7 @@
       "url": "https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:12+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -428,7 +454,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T19:55:05+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -453,7 +479,7 @@
       "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:30:04+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -478,7 +504,7 @@
       "url": "https://levtech.jp/media/detail_931/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T01:45:38+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
