@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T08:48:01+00:00",
+  "generated_at": "2026-09-25T08:55:57+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-25T10:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96565230/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T08:44:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671"
       },
       {
         "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
@@ -68,6 +75,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      {
+        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T08:44:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671"
       },
       {
         "title": "AI vs agtech: How AI is revolutionising agriculture",
@@ -124,13 +138,6 @@
         "published_at": "2026-09-25T03:30:48+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-made-the-first-draft-easier-it-didnt-make-client-decisions-easier-20260924/"
-      },
-      {
-        "title": "AI will not become your employee. It will change what work has to be managed",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T02:00:12+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/"
       }
     ],
     "github": [
