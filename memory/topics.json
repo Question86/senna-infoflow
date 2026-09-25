@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T09:45:28+00:00",
+  "generated_at": "2026-09-25T09:51:47+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-25T10:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96565230/"
+      },
+      {
+        "title": "[UPDATE] [niedrig] cyrus imap: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T09:46:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3301"
       },
       {
         "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-25T08:55:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html"
-      },
-      {
-        "title": "Jetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-25T07:31:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html"
       }
     ],
     "ai": [
