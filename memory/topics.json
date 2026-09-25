@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T10:24:14+00:00",
+  "generated_at": "2026-09-25T10:34:09+00:00",
   "topics": {
     "security": [
       {
@@ -40,6 +40,13 @@
         "url": "https://jvn.jp/jp/JVN14353754/"
       },
       {
+        "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:24:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568"
+      },
+      {
         "title": "ViewSonic vCastにおける複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-25T10:00:30+09:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-25T09:46:46+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3301"
-      },
-      {
-        "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:04:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565"
       }
     ],
     "geopolitics": [
@@ -96,6 +96,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      {
+        "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:24:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568"
       },
       {
         "title": "Monetary developments in the euro area: August 2026",

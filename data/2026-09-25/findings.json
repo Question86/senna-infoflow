@@ -163,6 +163,29 @@
     "id": "d70a098913492cbe2a49"
   },
   {
+    "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-25T10:24:23+00:00",
+    "fetched_at": "2026-09-25T10:33:38+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Ansible ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee76449ba99a4ad9bc19"
+  },
+  {
     "title": "ViewSonic vCastにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU96941087/",
     "source": "JVN Japan Vulnerability Notes",

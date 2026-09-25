@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T10:24:14+00:00_
+_Generiert: 2026-09-25T10:34:09+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+43 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
