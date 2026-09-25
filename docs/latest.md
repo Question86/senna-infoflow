@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T18:25:30+00:00_
+_Generiert: 2026-09-25T18:36:52+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+81 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Agentic autofix now uses Copilot Memory** — Score 23, observation — [Quelle](https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-25T17:25:50+00:00`, fetched `2026-09-25T18:36:17+00:00`
+  - Treffer: AI Agents, Copilot, GitHub, Public Health, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Security (+6.0); Public Health (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it… The post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-25T11:59:26+00:00`, fetched `2026-09-25T12:10:30+00:00`
