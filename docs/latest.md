@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T11:52:02+00:00_
+_Generiert: 2026-09-25T11:57:20+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+56 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
