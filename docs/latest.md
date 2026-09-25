@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T02:55:06+00:00_
+_Generiert: 2026-09-25T03:00:21+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **baserCMSにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN14353754/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-25T12:00:00+09:00`, fetched `2026-09-25T02:59:49+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ViewSonic vCastにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96941087/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-25T10:00:30+09:00`, fetched `2026-09-25T01:13:59+00:00`
@@ -30,18 +39,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96565230/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-25T10:00:15+09:00`, fetched `2026-09-25T01:13:59+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN21754394/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-25T12:00:15+09:00`, fetched `2026-09-25T02:59:49+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation** — Score 10, observation — [Quelle](https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-25T01:00:04+00:00`, fetched `2026-09-25T01:13:59+00:00`
@@ -78,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
   - Kurz: Founders still ask me the question they asked in 2019: what does a good backlink cost. This September I finally answered it properly. ESBO Ltd, the link building and digital PR agency I run, exported its entire publisher database, 16,625 sites across 53 languages with verified authority scores and traffic, and published the numbers as […] The post The most expensive links aren’t really links: What 16,625 publisher p…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_931/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-25T01:45:38+00:00`, fetched `2026-09-25T02:59:49+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: しんざき システムエンジニア、PM、ケーナ奏者、三児の父。南米民族音楽の演奏が趣味。仕事・育児・演奏活動の傍ら、レトロゲーム雑記ブログ「不倒城」を20年程運営している。 @shinzaki ブログ：「不倒城」 著者記事一覧 こんにちは、しんざきです。 他人を褒めるのは苦手なんですが、自分を褒めるのは正直めちゃくち...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2142666.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-24T23:11:39+00:00`, fetched `2026-09-25T00:52:20+00:00`
@@ -86,15 +104,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【西川善司のグラフィックスMANIAC】 DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/zenji/2142631.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-24T21:18:01+00:00`, fetched `2026-09-25T02:15:52+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【西川善司のグラフィックスMANIAC】 DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

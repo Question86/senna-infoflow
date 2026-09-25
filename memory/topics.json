@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T02:55:06+00:00",
+  "generated_at": "2026-09-25T03:00:21+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-25T10:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU93222287/"
+      },
+      {
+        "title": "baserCMSにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-25T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN14353754/"
       },
       {
         "title": "ViewSonic vCastにおける複数の脆弱性",
@@ -24,6 +31,13 @@
         "published_at": "2026-09-25T10:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96565230/"
+      },
+      {
+        "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-25T12:00:15+09:00",
+        "relevance_score": 13,
+        "url": "https://jvn.jp/jp/JVN21754394/"
       }
     ],
     "ai": [
@@ -47,6 +61,13 @@
         "published_at": "2026-09-24T19:55:05+00:00",
         "relevance_score": 8,
         "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html"
+      },
+      {
+        "title": "「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-25T01:45:38+00:00",
+        "relevance_score": 5,
+        "url": "https://levtech.jp/media/detail_931/"
       },
       {
         "title": "【西川善司のグラフィックスMANIAC】 DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは",
