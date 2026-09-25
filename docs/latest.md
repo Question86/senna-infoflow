@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T10:49:45+00:00_
+_Generiert: 2026-09-25T10:55:21+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+47 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
