@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T09:01:11+00:00",
+  "generated_at": "2026-09-25T09:23:51+00:00",
   "topics": {
     "security": [
       {
@@ -33,6 +33,13 @@
         "url": "https://jvn.jp/vu/JVNVU96565230/"
       },
       {
+        "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T09:04:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565"
+      },
+      {
         "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-25T08:44:23+00:00",
@@ -54,18 +61,18 @@
         "url": "https://jvn.jp/jp/JVN21754394/"
       },
       {
+        "title": "Sicherheitslücken: GitLab-Server mit Schadcode attackierbar",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-25T08:55:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html"
+      },
+      {
         "title": "Jetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet",
         "source": "heise Security Alerts",
         "published_at": "2026-09-25T07:31:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html"
-      },
-      {
-        "title": "Video-Tool VLC: Version 3.0.24 stopft über 130 Sicherheitslecks",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-25T07:02:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html"
       }
     ],
     "ai": [
@@ -286,6 +293,13 @@
         "published_at": "2026-09-25T05:03:30+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/"
+      },
+      {
+        "title": "Sicherheitslücken: GitLab-Server mit Schadcode attackierbar",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-25T08:55:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html"
       },
       {
         "title": "Citi, HSBC back iPiD’s US$16M round to make instant payments safer across borders",
