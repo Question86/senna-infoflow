@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-09-25T21:40:23+00:00",
+  "generated_at": "2026-09-25T21:45:45+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M7.0 - 68 km ENE of Tadine, New Caledonia",
-        "summary": "M7.0 - 68 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26268000",
-        "published_at": "2026-09-25T21:23:05+00:00",
-        "metrics": {
-          "mag": 7.0,
-          "alert": "",
-          "sig": 754.0,
-          "tsunami": 0
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
@@ -96,6 +81,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104190",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.6 - 80 km ENE of Tadine, New Caledonia",
+        "summary": "M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi",
+        "published_at": "2026-09-25T21:23:03+00:00",
+        "metrics": {
+          "mag": 6.6,
+          "alert": "",
+          "sig": 671.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",

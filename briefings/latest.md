@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T21:40:19+00:00_
+_Generiert: 2026-09-25T21:45:42+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
+90 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.0 - 68 km ENE of Tadine, New Caledonia** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26268000)
-  - Quelle: USGS
-  - Zeit: `2026-09-25T21:23:05+00:00`
-  - Kurz: M7.0 - 68 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-67279 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
@@ -41,6 +37,10 @@ _Generiert: 2026-09-25T21:40:19+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Chile
+- **USGS earthquake M6.6 - 80 km ENE of Tadine, New Caledonia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi)
+  - Quelle: USGS
+  - Zeit: `2026-09-25T21:23:03+00:00`
+  - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001328)
   - Quelle: GDACS
   - Zeit: ``
