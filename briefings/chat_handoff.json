@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T09:51:47+00:00",
+  "generated_at": "2026-09-25T09:57:08+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 2,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 11,
+    "medium": 13,
     "observe": 27
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:47:09+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…",
-      "section": "medium"
-    },
-    {
-      "title": "baserCMSにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T12:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN14353754/",
-      "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。",
       "section": "medium"
     },
     {

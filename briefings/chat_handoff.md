@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T09:51:47+00:00_
+_Generated: 2026-09-25T09:57:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `40`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-25T09:51:47+00:00_
 - url: https://jvn.jp/vu/JVNVU93222287/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier
+### 2. [UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-25T09:47:09+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.
+
+### 3. Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-09-25T09:43:08+00:00`
 - url: https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/
 - summary: San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whethe…
 
-### 3. NVIDIA/Model-Optimizer
+### 4. NVIDIA/Model-Optimizer
 - source: GitHub Trending RSS All Languages Daily
 - score: `16`
 - published: `None`
 - url: https://github.com/NVIDIA/Model-Optimizer
 - summary: A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…
-
-### 4. baserCMSにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-25T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN14353754/
-- summary: baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。
 
 ### 5. baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性
 - source: JVN Japan Vulnerability Notes
