@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T21:09:14+00:00_
+_Generiert: 2026-09-25T21:31:14+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
+88 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M7.0 - 68 km ENE of Tadine, New Caledonia** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26268000)
+  - Quelle: USGS
+  - Zeit: `2026-09-25T21:23:05+00:00`
+  - Kurz: M7.0 - 68 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-67279 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
@@ -248,6 +252,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
   - Kurz: Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and API appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 13 km N of Xunchang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-25T21:18:30.040+00:00`, fetched `2026-09-25T21:30:42+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-25 21:01:27 UTC 2026-09-25 21:01:27 UTC at epicenter Location 28.574°N 104.703°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 62 km SW of San Antonio, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-25T15:46:49.040+00:00`, fetched `2026-09-25T15:47:01+00:00`
@@ -275,15 +288,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: WordPress hat am Dienstag zwei Sicherheitsupdates veröffentlicht. Die kritische Lücke aus dem zweiten wird bereits attackiert.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 124 km N of Metinaro, Timor Leste** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-25T04:41:21.040+00:00`, fetched `2026-09-25T04:48:19+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-25 04:27:40 UTC 2026-09-25 04:27:40 UTC at epicenter Location 7.404°S 125.699°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Proaction boosts sales 60% and saves 75+ hours with Codex** — Score 10, observation — [Quelle](https://openai.com/index/proaction)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-25T19:00:00+00:00`, fetched `2026-09-25T16:11:28+00:00`
