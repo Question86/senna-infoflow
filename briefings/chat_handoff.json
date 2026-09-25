@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T05:55:57+00:00",
+  "generated_at": "2026-09-25T06:01:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 3,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 6,
-    "observe": 17
+    "medium": 7,
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 16,
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…",
       "section": "medium"
     },
     {
@@ -41,16 +51,6 @@
       "published_at": "2026-09-25T10:00:30+09:00",
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU96941087/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "section": "medium"
-    },
-    {
-      "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T10:00:15+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU96565230/",
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },

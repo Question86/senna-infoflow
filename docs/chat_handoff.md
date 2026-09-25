@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T05:55:57+00:00_
+_Generated: 2026-09-25T06:01:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `26`
 
 ## Top Signals
 
@@ -15,25 +15,25 @@ _Generated: 2026-09-25T05:55:57+00:00_
 - url: https://jvn.jp/vu/JVNVU93222287/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. baserCMSにおける複数の脆弱性
+### 2. NVIDIA/Model-Optimizer
+- source: GitHub Trending RSS All Languages Daily
+- score: `16`
+- published: `None`
+- url: https://github.com/NVIDIA/Model-Optimizer
+- summary: A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…
+
+### 3. baserCMSにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-25T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN14353754/
 - summary: baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。
 
-### 3. ViewSonic vCastにおける複数の脆弱性
+### 4. ViewSonic vCastにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-25T10:00:30+09:00`
 - url: https://jvn.jp/vu/JVNVU96941087/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-25T10:00:15+09:00`
-- url: https://jvn.jp/vu/JVNVU96565230/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性
