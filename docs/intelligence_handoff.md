@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-25T04:44:57Z_
+_Generated: 2026-09-25T04:53:07Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “baserCMSにおける複数の脆弱性�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-25T12:00:00+09:00` / age_days `0.07`
+- Published: `2026-09-25T12:00:00+09:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “baserCMSにおける複数の脆弱性�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-09-25T12:00:15+09:00` / age_days `0.07`
+- Published: `2026-09-25T12:00:15+09:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -78,11 +78,21 @@ Stärkste Dynamik nach Gate-Recheck: “baserCMSにおける複数の脆弱性�
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 98.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
+### M 5.0 - 124 km N of Metinaro, Timor Leste
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-09-25T04:41:21.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim
+
 ### The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-25T02:00:05+00:00` / age_days `0.11`
+- Published: `2026-09-25T02:00:05+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: auth
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “baserCMSにおける複数の脆弱性�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-09-25T03:00:31+00:00` / age_days `0.07`
+- Published: `2026-09-25T03:00:31+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: remote, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “baserCMSにおける複数の脆弱性�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-25T04:00:11+00:00` / age_days `0.03`
+- Published: `2026-09-25T04:00:11+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: pipeline, high terms: remote, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -117,15 +127,5 @@ Stärkste Dynamik nach Gate-Recheck: “baserCMSにおける複数の脆弱性�
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/
-
-### 古川大臣記者会見（令和8年9月25日）動画を掲載しました
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-09-25T03:00:19+00:00` / age_days `0.07`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://www.digital.go.jp/speech/minister-260925-01
 
 END OF DOCUMENT
