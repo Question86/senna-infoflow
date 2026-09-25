@@ -216,6 +216,27 @@
     "id": "269d6f9818236fd87240"
   },
   {
+    "title": "Monetary developments in the euro area: August 2026",
+    "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html",
+    "source": "ECB Statistical Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-09-25T08:00:00+00:00",
+    "fetched_at": "2026-09-25T08:07:40+00:00",
+    "summary": "Monetary developments in the euro area: August 2026",
+    "matched_keywords": [
+      "euro area",
+      "Macro/Policy"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "86f37d830f2e7e6647e8"
+  },
+  {
     "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
     "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
     "source": "e27 Asia Startup and Tech Feed",

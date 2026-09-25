@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T07:57:06+00:00",
+  "generated_at": "2026-09-25T08:08:19+00:00",
   "topics": {
     "security": [
       {
@@ -177,6 +177,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      {
+        "title": "Monetary developments in the euro area: August 2026",
+        "source": "ECB Statistical Press Releases",
+        "published_at": "2026-09-25T08:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html"
       },
       {
         "title": "Citi, HSBC back iPiD’s US$16M round to make instant payments safer across borders",

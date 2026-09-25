@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T07:57:06+00:00_
+_Generiert: 2026-09-25T08:08:19+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+32 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -144,6 +144,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-25 04:27:40 UTC 2026-09-25 04:27:40 UTC at epicenter Location 7.404°S 125.699°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Monetary developments in the euro area: August 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-09-25T08:00:00+00:00`, fetched `2026-09-25T08:07:40+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Monetary developments in the euro area: August 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment** — Score 10, observation — [Quelle](https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-25T03:36:46+00:00`, fetched `2026-09-25T03:47:17+00:00`
@@ -261,3 +270,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `japan_digital_agency_news` (rss): HTTPSConnectionPool(host='www.digital.go.jp', port=443): Read timed out. (read timeout=8)
