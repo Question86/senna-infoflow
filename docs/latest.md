@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T11:46:27+00:00_
+_Generiert: 2026-09-25T11:52:02+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+55 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung** — Score 12, risk — [Quelle](https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-25T11:41:00.000+00:00`, fetched `2026-09-25T11:51:31+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Man habe konkrete Hinweise von Strafverfolgern auf eine Attacke, schreibt der Hersteller seinen Kunden. Auch hierzulande sind große Unternehmen betroffen.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-25T09:55:23+00:00`, fetched `2026-09-25T11:29:05+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die GitLab-Entwickler raten zur zügigen Installation der jüngst veröffentlichten Sicherheitsupdates.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-25T07:31:00.000+00:00`, fetched `2026-09-25T07:44:16+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer nutzen derzeit eine Sicherheitslücke in Roundcube Webmail aus. Dafür müssen aber die Voraussetzungen stimmen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年度 属性証明の課題整理に関する有識者会議（第1回）の資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/vc-diw-governance/c164f224-cd22-4d66-9d50-1c1b42daca65)
   - Quelle: Japan Digital Agency News RSS / `rss`
