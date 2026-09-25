@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T21:51:23+00:00_
+_Generiert: 2026-09-25T21:56:37+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-09-25T21:51:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
+- **GDACS: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568087)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.
 - **GDACS: Green flood alert in Chile** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104190)
   - Quelle: GDACS
   - Zeit: ``
