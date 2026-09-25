@@ -1,29 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-25T02:50:33Z",
+  "generated_at": "2026-09-25T03:04:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 17,
     "bands": {
       "krass": 3,
-      "strong": 2,
+      "strong": 4,
       "watch": 1,
-      "quiet": 8
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
+      "strong": 7,
       "watch": 1,
-      "quiet": 8
+      "quiet": 9
     }
   },
   "top_dynamics": [
+    {
+      "title": "baserCMSにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN14353754/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-25T12:00:00+09:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。"
+    },
     {
       "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -43,11 +67,35 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN21754394/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-25T12:00:15+09:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。"
+    },
+    {
       "title": "ViewSonic vCastにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -73,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -98,7 +146,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +173,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 98.04,
+      "age_days": 98.05,
       "topics": [
         "ai"
       ],
@@ -178,7 +226,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T23:11:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -202,7 +250,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.0,
+      "age_days": 97.01,
       "topics": [
         "general"
       ],
@@ -227,7 +275,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.0,
+      "age_days": 97.01,
       "topics": [
         "general"
       ],
@@ -252,7 +300,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.0,
+      "age_days": 97.01,
       "topics": [
         "ai"
       ],
@@ -279,7 +327,7 @@
       "url": "https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -304,7 +352,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T19:55:05+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -329,7 +377,7 @@
       "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:30:04+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -350,11 +398,36 @@
       "summary": "I was sitting in a cafe in Kuala Lumpur recently, sipping an iced mixed coffee with orange, when I realised that the way I organise for trips is exactly how I used to try to “organise” my startup. I was obsessed with the perfect project management software, the flawless internal wiki, and the 18-month roadmap—not […]…"
     },
     {
+      "title": "「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_931/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-25T01:45:38+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "しんざき システムエンジニア、PM、ケーナ奏者、三児の父。南米民族音楽の演奏が趣味。仕事・育児・演奏活動の傍ら、レトロゲーム雑記ブログ「不倒城」を20年程運営している。 @shinzaki ブログ：「不倒城」 著者記事一覧 こんにちは、しんざきです。 他人を褒めるのは苦手なんですが、自分を褒めるのは正直めちゃくち..."
+    },
+    {
       "title": "【西川善司のグラフィックスMANIAC】 DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは",
       "url": "https://pc.watch.impress.co.jp/docs/column/zenji/2142631.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T21:18:01+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -375,5 +448,5 @@
       "summary": "【西川善司のグラフィックスMANIAC】 DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “baserCMSにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
