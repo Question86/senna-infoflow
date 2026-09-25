@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T05:50:45+00:00",
+  "generated_at": "2026-09-25T05:55:57+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-25T10:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96565230/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T05:49:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546"
       },
       {
         "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
