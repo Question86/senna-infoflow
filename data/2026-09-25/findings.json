@@ -89,6 +89,28 @@
     "id": "bcc012fd1c506af52bf3"
   },
   {
+    "title": "AI vs agtech: How AI is revolutionising agriculture",
+    "url": "https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-25T03:00:31+00:00",
+    "fetched_at": "2026-09-25T03:22:42+00:00",
+    "summary": "AI technology is transforming the agricultural industry, changing how the outside world views farming and creating a data-driven system that ensures precision and maximises yields. Imagine a world where technology tells you remotely how many nutrients are lacking and how plants are showing signs of stress and so on. It’s a beautiful experience, not science […] The post AI vs agtech: How AI is revolutionising agricul…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Markets/Capital Structure"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "953ba2ecb436f81b1676"
+  },
+  {
     "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
     "url": "https://jvn.jp/jp/JVN21754394/",
     "source": "JVN Japan Vulnerability Notes",
@@ -194,6 +216,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f0769c9c1f2533904286"
+  },
+  {
+    "title": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
+    "url": "https://www.digital.go.jp/speech/minister-260925-01",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-25T03:00:19+00:00",
+    "fetched_at": "2026-09-25T03:22:42+00:00",
+    "summary": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5635143074072d28ea2b"
   },
   {
     "title": "The founder’s dilemma: Structured serendipity",
