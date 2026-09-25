@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T03:47:51+00:00",
-  "run_id": "2026-09-25T03:47:51+00:00",
+  "generated_at": "2026-09-25T03:54:32+00:00",
+  "run_id": "2026-09-25T03:54:32+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -763,29 +763,7 @@
       "id": "a8355593e98de06f2d85"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
-      "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-25T03:36:46+00:00",
-      "fetched_at": "2026-09-25T03:47:17+00:00",
-      "summary": "For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between early signs and medical attention. The Asian arch support brand, operated by Taiwan-based […] The post GoodARCH launches AI foot mapping in Malaysia with US$230K…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e73cde33b5d433a090c4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
