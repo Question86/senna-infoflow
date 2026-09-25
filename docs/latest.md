@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T11:18:44+00:00_
+_Generiert: 2026-09-25T11:29:34+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+52 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-25T09:55:23+00:00`, fetched `2026-09-25T11:29:05+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **WordPress-Lücke nur Stunden nach Patch attackiert** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Luecke-nur-Stunden-nach-Patch-attackiert-11466076.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-25T11:10:00.000+00:00`, fetched `2026-09-25T11:18:16+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年9月25日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-25T03:34:17+00:00`, fetched `2026-09-25T07:51:20+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
