@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T06:01:25+00:00",
+  "generated_at": "2026-09-25T06:35:53+00:00",
   "topics": {
     "security": [
       {
@@ -77,6 +77,13 @@
         "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/"
       },
       {
+        "title": "Altcoins are running on real news, Wall Street is running on fear",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T06:33:26+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/"
+      },
+      {
         "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-25T05:03:30+00:00",
@@ -110,13 +117,6 @@
         "published_at": "2026-09-24T19:55:05+00:00",
         "relevance_score": 8,
         "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html"
-      },
-      {
-        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-25T03:13:23+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
       }
     ],
     "github": [
@@ -230,6 +230,13 @@
         "published_at": "2026-09-25T01:00:04+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/"
+      },
+      {
+        "title": "Altcoins are running on real news, Wall Street is running on fear",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T06:33:26+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/"
       },
       {
         "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",

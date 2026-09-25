@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T06:01:25+00:00_
+_Generiert: 2026-09-25T06:35:53+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+27 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-09-25T06:01:25+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
-- **GDACS: Green flood alert in Nigeria** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104186)
+- **GDACS: Green flood alert in Chile** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104190)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Nigeria
+  - Kurz: Green flood alert in Chile
 - **GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001328)
   - Quelle: GDACS
   - Zeit: ``
@@ -162,14 +162,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWorks among the most prominent — operate inside a […] The post The KoinWorks era: What Indonesia’s SME l…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore** — Score 9, observation — [Quelle](https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/)
+- **Altcoins are running on real news, Wall Street is running on fear** — Score 9, observation — [Quelle](https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T05:03:30+00:00`, fetched `2026-09-25T05:20:26+00:00`
-  - Treffer: APAC Trend Radar, founder
+  - Zeit: published `2026-09-25T06:33:26+00:00`, fetched `2026-09-25T06:35:22+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia (+2.0)
-  - Kurz: There is a particular misery that visits finance departments in the last week of every month. The sales figure on the point-of-sale screen says one thing, the bank statement says another, and somebody has to explain the gap before the books close. Gilang Gibranthama, co-founder of Jakarta-based Matchmade.io, has built a business around that misery. […] The post Same failure, better clothes: Matchmade.io on selling I…
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged slightly lower. The Dow Jones Industrial Average dropped 161 points, or 0.3 per cent. […] The post Altcoins are running on real news, Wall Street is running on fe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]** — Score 8, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
