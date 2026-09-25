@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T10:43:25+00:00",
+  "generated_at": "2026-09-25T10:49:45+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:44:24+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -47,6 +54,13 @@
         "url": "https://jvn.jp/jp/JVN14353754/"
       },
       {
+        "title": "[NEU] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:44:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3570"
+      },
+      {
         "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-25T10:24:23+00:00",
@@ -59,23 +73,16 @@
         "published_at": "2026-09-25T10:00:30+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96941087/"
-      },
-      {
-        "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96565230/"
-      },
-      {
-        "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:47:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:44:24+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -105,6 +112,13 @@
         "url": "https://github.com/NVIDIA/Model-Optimizer"
       },
       {
+        "title": "[NEU] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:44:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3570"
+      },
+      {
         "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-25T10:24:23+00:00",
@@ -131,13 +145,6 @@
         "published_at": "2026-09-25T03:13:23+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
-      },
-      {
-        "title": "The founder’s dilemma: Structured serendipity",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T01:30:04+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/"
       }
     ],
     "ai": [
