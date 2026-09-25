@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-25T09:40:01Z",
+  "generated_at": "2026-09-25T09:48:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 5,
       "strong": 6,
-      "watch": 4,
-      "quiet": 25
+      "watch": 5,
+      "quiet": 24
     },
     "bands_after_gate_recheck": {
       "krass": 1,
       "strong": 10,
-      "watch": 4,
-      "quiet": 25
+      "watch": 5,
+      "quiet": 24
     }
   },
   "top_dynamics": [
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T05:49:23+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:04:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -250,7 +250,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 98.32,
+      "age_days": 98.33,
       "topics": [
         "ai"
       ],
@@ -279,7 +279,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T08:55:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security",
@@ -306,7 +306,7 @@
       "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T07:31:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -331,7 +331,7 @@
       "url": "https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T07:02:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -376,11 +376,37 @@
       "summary": "Time 2026-09-25 04:27:40 UTC 2026-09-25 04:27:40 UTC at epicenter Location 7.404°S 125.699°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+      "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-25T09:43:08+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the institutions, systems and practitioners to…"
+    },
+    {
       "title": "The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups",
       "url": "https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:05+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -431,7 +457,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-09-25T08:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -455,7 +481,7 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-25T06:00:50+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -508,7 +534,7 @@
       "url": "https://www.digital.go.jp/councils/vc-diw-governance/c164f224-cd22-4d66-9d50-1c1b42daca65",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-25T08:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -532,7 +558,7 @@
       "url": "https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T04:18:26+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -580,7 +606,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T03:34:17+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -628,7 +654,7 @@
       "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T06:33:26+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -655,7 +681,7 @@
       "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T03:36:46+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -681,7 +707,7 @@
       "url": "https://japan.cnet.com/article/35252958/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T02:26:41+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -706,7 +732,7 @@
       "url": "https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T05:03:30+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -731,7 +757,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.28,
+      "age_days": 97.29,
       "topics": [
         "general"
       ],
@@ -756,7 +782,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.28,
+      "age_days": 97.29,
       "topics": [
         "general"
       ],
@@ -781,7 +807,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.28,
+      "age_days": 97.29,
       "topics": [
         "ai"
       ],
@@ -833,7 +859,7 @@
       "url": "https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:12+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -858,7 +884,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T19:55:05+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -908,7 +934,7 @@
       "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:30:04+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -933,7 +959,7 @@
       "url": "https://levtech.jp/media/detail_931/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T01:45:38+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -983,7 +1009,7 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-25T06:00:50+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -1002,31 +1028,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Hindsight: Agent Memory That Learns https://hindsight.vectorize.io/ Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation histo…"
-    },
-    {
-      "title": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-25T06:00:50+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others https://docs.fxembed.com FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! twitter.com : Add fx before your twit…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
