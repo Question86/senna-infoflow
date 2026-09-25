@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T18:59:25+00:00_
+_Generiert: 2026-09-25T19:13:59+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+83 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,6 @@ _Generiert: 2026-09-25T18:59:25+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.248 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001326)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.248 million in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -150,6 +146,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-25 13:47:26 UTC 2026-09-25 13:47:26 UTC at epicenter Location 6.927°S 105.355°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenAIとClaudeのAgent SDKから学ぶAgentの基本構成 - ぷらすのブログ** — Score 15, observation — [Quelle](https://blog.p1ass.com/posts/agent-foundations/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-25T13:15:56+00:00`, fetched `2026-09-25T19:13:26+00:00`
+  - Treffer: agent, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: こんにちは、ぷらす(@p1ass)です。 最近、Agent を「使う側」ではなく「作る側」に興味を持ち始めています。 色々と新しい学びが多いなぁと感じているので、せっかくなので自分が学んだ Agent の開発について、何回かに分けて記事を書いていこうと思います。 現在予定しているテーマは次の 7 つです。 Agent の基本構成 ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **baserCMSにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN14353754/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-25T12:00:00+09:00`, fetched `2026-09-25T02:59:49+00:00`
@@ -198,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Changes to query results in the GitHub Actions API and UI** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-25T18:17:06+00:00`, fetched `2026-09-25T19:13:26+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,… The post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung** — Score 12, risk — [Quelle](https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-25T11:41:00.000+00:00`, fetched `2026-09-25T11:51:31+00:00`
@@ -315,15 +329,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Altcoins are running on real news, Wall Street is running on fear** — Score 9, observation — [Quelle](https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T06:33:26+00:00`, fetched `2026-09-25T06:35:22+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged slightly lower. The Dow Jones Industrial Average dropped 161 points, or 0.3 per cent. […] The post Altcoins are running on real news, Wall Street is running on fe…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -333,7 +338,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f15938517d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

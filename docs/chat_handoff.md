@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T18:59:25+00:00_
+_Generated: 2026-09-25T19:13:59+00:00_
 
 ## Status
-- status: `warning`
-- findings: `81`
+- status: `normal`
+- findings: `83`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-25T18:59:25+00:00_
 - url: https://jvn.jp/jp/JVN21754394/
 - summary: baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。
 
-### 6. Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung
+### 6. Changes to query results in the GitHub Actions API and UI
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-09-25T18:17:06+00:00`
+- url: https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui
+- summary: Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,… The post Changes to query results in the GitHub Actions API and UI appeared first on T…
+
+### 7. Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung
 - source: heise Security Alerts
 - score: `12`
 - published: `2026-09-25T11:41:00.000+00:00`
 - url: https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html
 - summary: Man habe konkrete Hinweise von Strafverfolgern auf eine Attacke, schreibt der Hersteller seinen Kunden. Auch hierzulande sind große Unternehmen betroffen.
 
-### 7. CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support
+### 8. CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-09-25T09:55:23+00:00`
 - url: https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support
 - summary: CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20…
-
-### 8. Expired GitHub Actions artifacts no longer shown in UI and API
-- source: GitHub Changelog Atom
-- score: `12`
-- published: `2026-09-24T19:13:02+00:00`
-- url: https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api
-- summary: Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and…
 
 END OF DOCUMENT
