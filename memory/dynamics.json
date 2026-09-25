@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-25T04:03:48Z",
+  "generated_at": "2026-09-25T04:28:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 23,
     "bands": {
       "krass": 3,
       "strong": 4,
       "watch": 1,
-      "quiet": 13
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 1,
-      "quiet": 13
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN14353754/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:15+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -173,7 +173,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 98.09,
+      "age_days": 98.1,
       "topics": [
         "ai"
       ],
@@ -202,7 +202,7 @@
       "url": "https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -226,7 +226,7 @@
       "url": "https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T03:00:31+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -249,11 +249,63 @@
       "summary": "AI technology is transforming the agricultural industry, changing how the outside world views farming and creating a data-driven system that ensures precision and maximises yields. Imagine a world where technology tells you remotely how many nutrients are lacking and how plants are showing signs of stress and so on. I…"
     },
     {
+      "title": "Vision AI expands visibility across remote pipeline corridors",
+      "url": "https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-25T04:00:11+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "infra"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: pipeline",
+        "high terms: remote",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Pipeline operators already receive large volumes of asset data, but physical activity along remote rights-of-way remains difficult to observe continuously. Vision AI is beginning to turn existing infrastructure into an additional layer of operational intelligence. Midstream operators face a problem created by the infr…"
+    },
+    {
+      "title": "Citi, HSBC back iPiD’s US$16M round to make instant payments safer across borders",
+      "url": "https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-25T04:18:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Hitting “send” on a bank transfer used to come with a cushion of time. A payment might sit in a queue for hours, sometimes days, giving banks and senders a window to notice a mistyped account number or a suspicious beneficiary. Instant payments have all but erased that cushion. Money now lands in seconds, and […] The…"
+    },
+    {
       "title": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260925-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-25T03:00:19+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -277,7 +329,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T23:11:39+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -301,7 +353,7 @@
       "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T03:36:46+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -327,7 +379,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.05,
+      "age_days": 97.07,
       "topics": [
         "general"
       ],
@@ -352,7 +404,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.05,
+      "age_days": 97.07,
       "topics": [
         "general"
       ],
@@ -377,7 +429,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 97.05,
+      "age_days": 97.07,
       "topics": [
         "ai"
       ],
@@ -404,7 +456,7 @@
       "url": "https://e27.co/ai-made-the-first-draft-easier-it-didnt-make-client-decisions-easier-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T03:30:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -429,7 +481,7 @@
       "url": "https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T02:00:12+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -454,7 +506,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T19:55:05+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -479,7 +531,7 @@
       "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:30:04+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -504,7 +556,7 @@
       "url": "https://levtech.jp/media/detail_931/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T01:45:38+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -529,7 +581,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/zenji/2142631.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T21:18:01+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
