@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T23:45:55+00:00_
+_Generiert: 2026-09-25T23:52:09+00:00_
 
 ## Kurzlage
 
-96 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
+97 neue relevante Treffer. Stärkstes Signal: „Agentic autofix now uses Copilot Memory“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
