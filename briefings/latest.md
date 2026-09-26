@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T08:49:00+00:00_
+_Generiert: 2026-09-26T08:54:46+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
+18 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
