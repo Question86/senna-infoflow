@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-26T07:24:44Z",
+  "generated_at": "2026-09-26T07:34:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 18,
@@ -23,7 +23,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "macro"
       ],
@@ -106,7 +106,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:58:05.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -156,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:08:40.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -181,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T03:06:32.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -206,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T01:22:16.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -231,7 +231,7 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T06:27:22+00:00",
-      "age_days": 2.04,
+      "age_days": 2.05,
       "topics": [
         "ai"
       ],
@@ -283,7 +283,7 @@
       "url": "https://garumax.com/windows11-update-stop-adding-features",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:31:08+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -307,7 +307,7 @@
       "url": "https://anond.hatelabo.jp/20260926101532",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T01:19:22+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -358,7 +358,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 98.19,
+      "age_days": 98.2,
       "topics": [
         "general"
       ],
@@ -383,7 +383,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 98.19,
+      "age_days": 98.2,
       "topics": [
         "general"
       ],
@@ -408,7 +408,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 98.19,
+      "age_days": 98.2,
       "topics": [
         "ai"
       ],
@@ -460,7 +460,7 @@
       "url": "https://www.afpbb.com/articles/-/3654591",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:19:51+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
