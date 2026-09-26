@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T05:00:30+00:00_
+_Generiert: 2026-09-26T05:19:00+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 69 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
+9 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 69 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
 
 ## Priorität Hoch
 
@@ -52,6 +52,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI-SQLエンジン「Quail」公開 —⁠—LLMによるデータの絞り込み⁠⁠・結合を効率化 Full Stack Data LabのShreya Shankar氏らは9月24日、Modalとの共同開発によるオープンソースのAI-SQLエンジン「Quail」を公式ブログで発表した。SQLに自然言語で条件を書き、大規模言語モデル（LLM）の判定でデータを絞り込んだり、結び付け...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え** — Score 8, observation — [Quelle](https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-26T02:39:52+00:00`, fetched `2026-09-26T05:18:31+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米マイクロソフト創業者のビル・ゲイツ氏が、人工知能（AI）は「10億人の死者を出すような事態を引き起こせるほど強力だ」と警告し、政府による規制強化を訴えた。米NBCテレビのインタビューに語った内容として、同局が25日報じた。 それによると、ゲイツ氏は「悪意を持つ人間と最新のAIの組み合わせほど強力な兵器はか...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ollaya — Run decision models locally.** — Score 8, opportunity — [Quelle](https://ollaya.dev/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-25T22:11:27+00:00`, fetched `2026-09-26T02:54:29+00:00`
@@ -61,15 +70,6 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Run decision models locally.Ask typed questions about any text or JSON and get calibrated answers in milliseconds. Private, open source, on your own hardware.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **トランプ氏が投稿した習氏出迎え写真、AIで加工か ネタにされた「しかめっ面」消去** — Score 5, observation — [Quelle](https://www.afpbb.com/articles/-/3654591)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T02:19:51+00:00`, fetched `2026-09-26T03:22:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【9月26日 AFP】ドナルド・トランプ米大統領は24日、中国の習近平国家主席をレッドカーペットで出迎えた際の写真を自身のSNS「トゥルース・ソーシャル」に投稿した。だ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
