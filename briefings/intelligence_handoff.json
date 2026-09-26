@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-26T19:46:51Z",
+  "generated_at": "2026-09-26T20:03:04Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "macro"
       ],
@@ -44,7 +44,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 99.74,
+      "age_days": 99.75,
       "topics": [
         "ai"
       ],
@@ -63,17 +63,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 99.7d old signal",
+        "aging penalty -8.0 for 99.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.0 - 52 km NNW of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T19:54:46.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-26 19:37:01 UTC 2026-09-26 19:37:01 UTC at epicenter Location 8.158°S 120.329°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 5.4 - 69 km ENE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:16:50.634+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -98,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T18:57:46.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -123,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T11:08:17.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -148,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:58:05.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -173,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "disaster"
       ],
@@ -198,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T18:47:48.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -223,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T18:07:45.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -248,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T15:20:48.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -273,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T12:57:59.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -292,31 +317,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-09-26 12:11:01 UTC 2026-09-26 12:11:01 UTC at epicenter Location 21.265°S 168.518°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.2 - 58 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-26T12:42:17.040+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-26 12:14:58 UTC 2026-09-26 12:14:58 UTC at epicenter Location 21.218°S 168.323°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -328,8 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 9
+      "strong": 4,
+      "watch": 8
     }
   }
 }
