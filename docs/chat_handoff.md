@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T01:02:43+00:00_
+_Generated: 2026-09-26T01:29:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -21,5 +21,12 @@ _Generated: 2026-09-26T01:02:43+00:00_
 - published: `2026-09-26T00:13:45.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql
 - summary: Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)
+
+### 3. M 5.3 - 58 km ENE of Tadine, New Caledonia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-26T01:22:16.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu
+- summary: Time 2026-09-26 01:10:19 UTC 2026-09-26 01:10:19 UTC at epicenter Location 21.288°S 168.372°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
