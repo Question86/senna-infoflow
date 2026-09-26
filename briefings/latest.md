@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T05:46:20+00:00_
+_Generiert: 2026-09-26T05:52:01+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 69 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
+9 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 69 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -143,3 +143,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f6a335e0550>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
