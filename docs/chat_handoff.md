@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T05:57:05+00:00_
+_Generated: 2026-09-26T06:09:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
@@ -22,18 +22,18 @@ _Generated: 2026-09-26T05:57:05+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql
 - summary: Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)
 
-### 3. M 4.5 - Iceland region
+### 3. M 5.1 - 64 km ENE of Tadine, New Caledonia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-26T06:08:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf
+- summary: Time 2026-09-26 05:50:48 UTC 2026-09-26 05:50:48 UTC at epicenter Location 21.227°S 168.403°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.5 - Iceland region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-26T03:06:32.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0
 - summary: Time 2026-09-26 02:52:55 UTC 2026-09-26 02:52:55 UTC at epicenter Location 68.857°N 16.955°W Depth 10.00 km (6.21 mi)
-
-### 4. M 5.3 - 58 km ENE of Tadine, New Caledonia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-26T01:22:16.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu
-- summary: Time 2026-09-26 01:10:19 UTC 2026-09-26 01:10:19 UTC at epicenter Location 21.288°S 168.372°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
