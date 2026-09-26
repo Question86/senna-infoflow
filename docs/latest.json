@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T07:20:09+00:00",
-  "run_id": "2026-09-26T07:20:09+00:00",
+  "generated_at": "2026-09-26T07:31:02+00:00",
+  "run_id": "2026-09-26T07:31:02+00:00",
   "date": "2026-09-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -819,29 +819,7 @@
       "id": "2c21f436e48259275933"
     }
   ],
-  "new_findings": [
-    {
-      "title": "DHHはRailsを捨てたのか？｜laiso",
-      "url": "https://sizu.me/laiso/posts/ut6i125ew44m",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-26T05:33:53+00:00",
-      "fetched_at": "2026-09-26T07:19:38+00:00",
-      "summary": "DHHという、ドパガキの王みたいなインフルエンサーがいるんですけど、今週、Ruby on Railsのカンファレンス「Rails World」での講演が話題になっていました。観てない方は是非今見てください。日本語字幕もつけられます。 この講演が刺激的だったのは、Railsのカンファレンスでオリジナル作者本人がAIエージェントによる...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4903dba5c00c56afa830"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
