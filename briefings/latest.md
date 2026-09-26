@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T00:18:42+00:00_
+_Generiert: 2026-09-26T01:02:43+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-09-26T00:18:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.5 - 61 km ENE of Tadine, New Caledonia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi)
-  - Quelle: USGS
-  - Zeit: `2026-09-25T23:39:41+00:00`
-  - Kurz: M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
