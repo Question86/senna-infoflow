@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T08:54:46+00:00",
-  "run_id": "2026-09-26T08:54:46+00:00",
+  "generated_at": "2026-09-26T08:59:55+00:00",
+  "run_id": "2026-09-26T08:59:55+00:00",
   "date": "2026-09-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -1077,29 +1077,7 @@
       "id": "2c21f436e48259275933"
     }
   ],
-  "new_findings": [
-    {
-      "title": "インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書 - Qiita",
-      "url": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-26T03:32:28+00:00",
-      "fetched_at": "2026-09-26T08:54:15+00:00",
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? アラートが鳴った、あるいは「不正アクセスかもしれない」という一報が入った。その瞬間、自分が何を確認し、誰に連絡し、どこまでを自分の判断で動いていいのかが分からない。その...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a41d1eeb8cc1e22eaa2f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
