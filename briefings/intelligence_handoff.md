@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-26T22:02:45Z_
+_Generated: 2026-09-26T22:21:54Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-25T22:11:27+00:00` / age_days `0.99`
+- Published: `2026-09-25T22:11:27+00:00` / age_days `1.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `99.84`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `99.85`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 99.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-26T19:54:46.040+00:00` / age_days `0.09`
+- Published: `2026-09-26T19:54:46.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-26T00:16:50.634+00:00` / age_days `0.91`
+- Published: `2026-09-26T00:16:50.634+00:00` / age_days `0.92`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T18:57:46.040+00:00` / age_days `0.13`
+- Published: `2026-09-26T18:57:46.040+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T11:08:17.040+00:00` / age_days `0.45`
+- Published: `2026-09-26T11:08:17.040+00:00` / age_days `0.47`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.63`
+- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.64`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.91`
+- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.92`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql
 
+### M 4.9 - 78 km ESE of Kokopo, Papua New Guinea
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-26T22:06:36.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txv7
+
 ### M 4.8 - 74 km ENE of Tadine, New Caledonia
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-26T18:47:48.040+00:00` / age_days `0.14`
+- Published: `2026-09-26T18:47:48.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-26T18:07:45.040+00:00` / age_days `0.16`
+- Published: `2026-09-26T18:07:45.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-26T15:20:48.040+00:00` / age_days `0.28`
+- Published: `2026-09-26T15:20:48.040+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtn
-
-### M 4.7 - 73 km ENE of Tadine, New Caledonia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-09-26T12:57:59.040+00:00` / age_days `0.38`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsy
 
 END OF DOCUMENT
