@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T10:53:58+00:00_
+_Generated: 2026-09-26T10:59:26+00:00_
 
 ## Status
-- status: `normal`
-- findings: `25`
+- status: `warning`
+- findings: `26`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-09-26T10:53:58+00:00_
 - url: https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca
 - summary: Platform Engineering Kaigi 2026
 
-### 5. M 4.6 - 25 km W of Roncesvalles, Colombia
-- source: USGS M4.5+ Earthquakes Past Hour
+### 5. Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp
+- source: Hatena Bookmark Hotentry IT
 - score: `11`
-- published: `2026-09-26T06:58:05.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj
-- summary: Time 2026-09-26 06:38:19 UTC 2026-09-26 06:38:19 UTC at epicenter Location 4.018°N 75.832°W Depth 10.00 km (6.21 mi)
+- published: `2026-09-26T07:12:52+00:00`
+- url: https://gihyo.jp/article/2026/09/docker-skills
+- summary: Docker⁠⁠、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 DockerのArnaud Héritier氏は2026年9月24日、同社がAIコーディングエージェント向けの公式スキル集「Docker Skills」を公開したことを、自身のXやBlueskyで案内した。Dockerfileの改善や複数コンテナーで構成するアプリケーションの設定な...
 
 END OF DOCUMENT
