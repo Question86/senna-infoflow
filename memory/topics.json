@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-26T09:45:21+00:00",
+  "generated_at": "2026-09-26T09:50:57+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-24T06:27:22+00:00",
         "relevance_score": 17,
         "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects"
+      },
+      {
+        "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-26T07:44:27+00:00",
+        "relevance_score": 13,
+        "url": "https://note.com/npaka/n/n1d86b2196515"
       },
       {
         "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 | gihyo.jp",
@@ -93,6 +100,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql"
       },
       {
+        "title": "M 4.7 - 71 km ENE of Tadine, New Caledonia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-26T09:44:54.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6"
+      },
+      {
         "title": "M 4.8 - 78 km ENE of Tadine, New Caledonia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-26T09:31:20.040+00:00",
@@ -133,13 +147,6 @@
         "published_at": "2026-09-26T07:39:42.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrq"
-      },
-      {
-        "title": "M 5.1 - 64 km ENE of Tadine, New Caledonia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-26T06:08:40.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf"
       }
     ],
     "github": [
