@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T14:21:24+00:00_
+_Generiert: 2026-09-26T14:30:14+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
+35 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,10 @@ _Generiert: 2026-09-26T14:21:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.6 - 74 km ESE of Kokopo, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc)
+  - Quelle: USGS
+  - Zeit: `2026-09-26T14:08:17+00:00`
+  - Kurz: M5.6 - 74 km ESE of Kokopo, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
