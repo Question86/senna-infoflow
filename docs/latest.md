@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T06:53:40+00:00_
+_Generiert: 2026-09-26T07:00:41+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
+13 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-25 23:52:35 UTC 2026-09-25 23:52:35 UTC at epicenter Location 21.202°S 168.435°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.6 - 25 km W of Roncesvalles, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-26T06:58:05.040+00:00`, fetched `2026-09-26T07:00:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-26 06:38:19 UTC 2026-09-26 06:38:19 UTC at epicenter Location 4.018°N 75.832°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 15 km NNW of Xunchang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-26T00:13:45.040+00:00`, fetched `2026-09-26T00:18:11+00:00`
@@ -41,15 +50,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 64 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-26T06:08:40.040+00:00`, fetched `2026-09-26T06:09:29+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-26 05:50:48 UTC 2026-09-26 05:50:48 UTC at epicenter Location 21.227°S 168.403°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 | gihyo.jp** — Score 9, observation — [Quelle](https://gihyo.jp/article/2026/09/quail)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
