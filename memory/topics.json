@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-26T21:01:27+00:00",
+  "generated_at": "2026-09-26T21:17:53+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://ollaya.dev/"
       },
       {
+        "title": "「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜く組織の選択",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-26T15:26:34+00:00",
+        "relevance_score": 5,
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news010.html"
+      },
+      {
         "title": "DHHはRailsを捨てたのか？｜laiso",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-26T05:33:53+00:00",
         "relevance_score": 5,
         "url": "https://sizu.me/laiso/posts/ut6i125ew44m"
-      },
-      {
-        "title": "トランプ氏が投稿した習氏出迎え写真、AIで加工か ネタにされた「しかめっ面」消去",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-26T02:19:51+00:00",
-        "relevance_score": 5,
-        "url": "https://www.afpbb.com/articles/-/3654591"
       }
     ],
     "geopolitics": [
@@ -89,6 +89,13 @@
         "published_at": "2026-09-25T22:11:27+00:00",
         "relevance_score": 8,
         "url": "https://ollaya.dev/"
+      },
+      {
+        "title": "「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜く組織の選択",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-26T15:26:34+00:00",
+        "relevance_score": 5,
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news010.html"
       }
     ],
     "general": [
