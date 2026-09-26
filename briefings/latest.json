@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T09:19:30+00:00",
-  "run_id": "2026-09-26T09:19:30+00:00",
+  "generated_at": "2026-09-26T09:30:14+00:00",
+  "run_id": "2026-09-26T09:30:14+00:00",
   "date": "2026-09-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 1,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -164,6 +164,42 @@
           "LOW"
         ],
         "id": "59f90c512a204915774d"
+      },
+      {
+        "title": "M 4.8 - 97 km NE of Tadine, New Caledonia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-26T09:27:24.040+00:00",
+        "fetched_at": "2026-09-26T09:29:45+00:00",
+        "summary": "Time 2026-09-26 09:08:05 UTC 2026-09-26 09:08:05 UTC at epicenter Location 21.006°S 168.624°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d8cb3cf2092e6d0b1a2f"
       },
       {
         "title": "M 4.7 - 97 km NE of Tadine, New Caledonia",
@@ -726,6 +762,42 @@
       "id": "59f90c512a204915774d"
     },
     {
+      "title": "M 4.8 - 97 km NE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-26T09:27:24.040+00:00",
+      "fetched_at": "2026-09-26T09:29:45+00:00",
+      "summary": "Time 2026-09-26 09:08:05 UTC 2026-09-26 09:08:05 UTC at epicenter Location 21.006°S 168.624°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d8cb3cf2092e6d0b1a2f"
+    },
+    {
       "title": "M 4.7 - 97 km NE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1151,13 +1223,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 97 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrz",
+      "title": "M 4.8 - 97 km NE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-26T09:12:45.040+00:00",
-      "fetched_at": "2026-09-26T09:19:00+00:00",
-      "summary": "Time 2026-09-26 08:54:03 UTC 2026-09-26 08:54:03 UTC at epicenter Location 21.017°S 168.633°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-26T09:27:24.040+00:00",
+      "fetched_at": "2026-09-26T09:29:45+00:00",
+      "summary": "Time 2026-09-26 09:08:05 UTC 2026-09-26 09:08:05 UTC at epicenter Location 21.006°S 168.624°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -1184,7 +1256,7 @@
         "HD",
         "LOW"
       ],
-      "id": "042d9069fff558fa625f"
+      "id": "d8cb3cf2092e6d0b1a2f"
     }
   ],
   "source_errors": [],
