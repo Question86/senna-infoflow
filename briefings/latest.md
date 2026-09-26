@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T14:30:14+00:00_
+_Generiert: 2026-09-26T14:39:40+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
+35 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-09-26T14:30:14+00:00_
   - Quelle: USGS
   - Zeit: `2026-09-25T21:23:03+00:00`
   - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:57.78km) in Papua New Guinea 26/09/2026 14:08 UTC, 170 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568187)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:57.78km) in Papua New Guinea 26/09/2026 14:08 UTC, 170 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568101)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,14 +61,10 @@ _Generiert: 2026-09-26T14:30:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Tonga 23/09/2026 14:41 UTC, 1 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001327)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **USGS earthquake M5.6 - 74 km ESE of Kokopo, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc)
   - Quelle: USGS
   - Zeit: `2026-09-26T14:08:17+00:00`
-  - Kurz: M5.6 - 74 km ESE of Kokopo, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.6 - 74 km ESE of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -155,3 +155,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
