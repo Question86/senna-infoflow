@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T14:39:40+00:00_
+_Generiert: 2026-09-26T14:44:46+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+35 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -86,7 +86,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
