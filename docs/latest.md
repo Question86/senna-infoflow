@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T03:22:51+00:00_
+_Generiert: 2026-09-26T03:36:07+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 69 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 69 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
 
 ## Priorität Hoch
 
