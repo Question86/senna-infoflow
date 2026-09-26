@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T18:58:12+00:00_
+_Generated: 2026-09-26T19:09:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `41`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-26T18:58:12+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-25 23:52:35 UTC 2026-09-25 23:52:35 UTC at epicenter Location 21.202°S 168.435°E Depth 10.00 km (6.21 mi)
 
-### 5. M 4.7 - North Indian Ocean
+### 5. M 4.7 - 5 km N of Bowangshan, China
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-26T18:57:46.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj
+- summary: Time 2026-09-26 18:31:42 UTC 2026-09-26 18:31:42 UTC at epicenter Location 28.360°N 105.055°E Depth 10.00 km (6.21 mi)
+
+### 6. M 4.7 - North Indian Ocean
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-26T11:08:17.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh
 - summary: Time 2026-09-26 10:53:15 UTC 2026-09-26 10:53:15 UTC at epicenter Location 1.831°N 89.498°E Depth 10.00 km (6.21 mi)
-
-### 6. メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-26T08:12:20+00:00`
-- url: https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca
-- summary: Platform Engineering Kaigi 2026
 
 END OF DOCUMENT
