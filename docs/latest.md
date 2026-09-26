@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T10:02:30+00:00_
+_Generiert: 2026-09-26T10:19:06+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+24 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-25 23:52:35 UTC 2026-09-25 23:52:35 UTC at epicenter Location 21.202°S 168.435°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」** — Score 11, observation — [Quelle](https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-26T08:12:20+00:00`, fetched `2026-09-26T10:18:36+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Platform Engineering Kaigi 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 25 km W of Roncesvalles, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-26T06:58:05.040+00:00`, fetched `2026-09-26T07:00:03+00:00`
@@ -69,15 +78,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI-SQLエンジン「Quail」公開 —⁠—LLMによるデータの絞り込み⁠⁠・結合を効率化 Full Stack Data LabのShreya Shankar氏らは9月24日、Modalとの共同開発によるオープンソースのAI-SQLエンジン「Quail」を公式ブログで発表した。SQLに自然言語で条件を書き、大規模言語モデル（LLM）の判定でデータを絞り込んだり、結び付け...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え** — Score 8, observation — [Quelle](https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T02:39:52+00:00`, fetched `2026-09-26T05:18:31+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 米マイクロソフト創業者のビル・ゲイツ氏が、人工知能（AI）は「10億人の死者を出すような事態を引き起こせるほど強力だ」と警告し、政府による規制強化を訴えた。米NBCテレビのインタビューに語った内容として、同局が25日報じた。 それによると、ゲイツ氏は「悪意を持つ人間と最新のAIの組み合わせほど強力な兵器はか...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -86,7 +86,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)

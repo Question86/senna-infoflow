@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T10:02:30+00:00_
+_Generated: 2026-09-26T10:19:06+00:00_
 
 ## Status
-- status: `warning`
-- findings: `23`
+- status: `normal`
+- findings: `24`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-09-26T10:02:30+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-25 23:52:35 UTC 2026-09-25 23:52:35 UTC at epicenter Location 21.202°S 168.435°E Depth 10.00 km (6.21 mi)
 
-### 4. M 4.6 - 25 km W of Roncesvalles, Colombia
+### 4. メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-09-26T08:12:20+00:00`
+- url: https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca
+- summary: Platform Engineering Kaigi 2026
+
+### 5. M 4.6 - 25 km W of Roncesvalles, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-26T06:58:05.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj
 - summary: Time 2026-09-26 06:38:19 UTC 2026-09-26 06:38:19 UTC at epicenter Location 4.018°N 75.832°W Depth 10.00 km (6.21 mi)
-
-### 5. M 5.0 - 15 km NNW of Xunchang, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-26T00:13:45.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql
-- summary: Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
