@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T10:59:26+00:00_
+_Generiert: 2026-09-26T11:13:41+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+27 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,14 +41,6 @@ _Generiert: 2026-09-26T10:59:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.
-- **GDACS: Green flood alert in Chile** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104190)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Chile
-- **GDACS: Green flood alert in Argentina** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104192)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Argentina
 - **USGS earthquake M6.6 - 80 km ENE of Tadine, New Caledonia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi)
   - Quelle: USGS
   - Zeit: `2026-09-25T21:23:03+00:00`
@@ -115,6 +107,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-25 23:52:35 UTC 2026-09-25 23:52:35 UTC at epicenter Location 21.202°S 168.435°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - North Indian Ocean** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-26T11:08:17.040+00:00`, fetched `2026-09-26T11:13:14+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-26 10:53:15 UTC 2026-09-26 10:53:15 UTC at epicenter Location 1.831°N 89.498°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」** — Score 11, observation — [Quelle](https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-26T08:12:20+00:00`, fetched `2026-09-26T10:18:36+00:00`
@@ -142,15 +143,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-26 06:38:19 UTC 2026-09-26 06:38:19 UTC at epicenter Location 4.018°N 75.832°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 15 km NNW of Xunchang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-26T00:13:45.040+00:00`, fetched `2026-09-26T00:18:11+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
@@ -159,7 +151,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
