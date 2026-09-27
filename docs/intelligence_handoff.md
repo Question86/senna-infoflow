@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T18:41:07Z_
+_Generated: 2026-09-27T18:49:38Z_
 
 ## Lageurteil
 
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.07`
+- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-09-27T07:34:10.208+00:00` / age_days `0.46`
+- Published: `2026-09-27T07:34:10.208+00:00` / age_days `0.47`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-27T08:05:41.040+00:00` / age_days `0.44`
+- Published: `2026-09-27T08:05:41.040+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
