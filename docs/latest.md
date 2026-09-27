@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T01:14:53+00:00_
+_Generiert: 2026-09-27T01:43:08+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”“ aus Hatena Bookmark Hotentry IT (Score 9, observation).
+2 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 61 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 5.0 - 61 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-27T01:31:08.040+00:00`, fetched `2026-09-27T01:42:39+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-27 01:18:25 UTC 2026-09-27 01:18:25 UTC at epicenter Location 21.430°S 168.457°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”** — Score 9, observation — [Quelle](https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-26T10:09:00+00:00`, fetched `2026-09-27T01:14:21+00:00`
@@ -33,3 +42,8 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `hn_release_security_burst` (hackernews): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- `fed_monetary_policy_press` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

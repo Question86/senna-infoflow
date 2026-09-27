@@ -1,8 +1,17 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-27T01:14:53+00:00",
+  "generated_at": "2026-09-27T01:43:08+00:00",
   "topics": {
+    "general": [
+      {
+        "title": "M 5.0 - 61 km ENE of Tadine, New Caledonia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-27T01:31:08.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu"
+      }
+    ],
     "ai": [
       {
         "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”",
