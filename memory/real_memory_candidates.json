@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-27T17:32:05Z",
+  "generated_at": "2026-09-27T17:46:25Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -29,6 +29,11 @@
     },
     {
       "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
