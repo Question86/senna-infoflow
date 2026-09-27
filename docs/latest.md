@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T13:27:35+00:00_
+_Generiert: 2026-09-27T13:34:50+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
 
 ## Priorität Hoch
 
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 旧題: 「Go のフラットなパッケージにファイル単位の private を持ち込む Linter “declscope”」 はじめに Go は「誰が書いても同じようになる」言語 Go には表現の選択肢が多くありません。三項演算子もなければ例外もなく，メタプログラミングで遊ぶ文化も薄い。 if err != nil を延々と書き，for を回し，構造体を素直...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「SuicaがJR東海エリアで使えない」問題、ついに解消か JR東海社長「勉強している」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html)
+- **はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり** — Score 5, observation — [Quelle](https://honeshabri.hatenablog.com/entry/hatebu-veil)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-27T09:10:52+00:00`, fetched `2026-09-27T10:57:07+00:00`
+  - Zeit: published `2026-09-27T12:26:03+00:00`, fetched `2026-09-27T13:34:17+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 鉄道会社間の広域利用が依然として課題となっている中、JR東海の丹羽俊介社長は会見で他社とのまたがり利用実現に向け模索しているとのコメントを発表した。現状、どのような課題があるのかを含め、整理してお伝えする。 境界の非対応区間を解消 Suicaエリア一体化による広域乗車と自由度の進化 JR東日本では、交通系IC...
+  - Kurz: はてブのコメント欄には、有用なコメントも確かにある。 ただ、不毛な罵倒で消耗したくはない。 だから、Jevで攻撃的で役に立たないコメントを隠すChrome拡張を作った。 人気でも、攻撃的で役に立たない判定なら隠す 何を作ったのか はてなブックマークのコメント欄には、記事の補足や別視点の指摘など、読む価値のある...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
