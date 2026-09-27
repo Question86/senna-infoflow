@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-09-27T11:21:06+00:00",
-  "status": "warning",
+  "generated_at": "2026-09-27T11:29:46+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 1,
-    "observe": 16,
-    "source_errors": 2
+    "observe": 17,
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "bis_press_releases",
-      "source_name": "BIS Press Releases",
-      "source_type": "rss",
-      "error": "502 Server Error: Bad Gateway for url: https://www.bis.org/doclist/all_pressrels.rss"
-    },
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
