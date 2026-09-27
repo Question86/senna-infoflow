@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-27T14:45:39+00:00",
+  "generated_at": "2026-09-27T14:51:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 20
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T07:32:58+00:00",
+      "relevance_score": 14,
+      "url": "https://note.com/npaka/n/n557fb948c3cf",
+      "summary": "AIデバッグはなぜ収束しないのかについてまとめました。 1. はじめにCodexなどのAIコーディングエージェントでは、 レビュー → 問題を修正 → 再レビュー というデバッグを繰り返すことができます。 Codexを使ったコードレビューでは、発見した問題を「P0〜P3」のような優先度で整理することがあります。 ・P0 : 最優先。...",
+      "section": "medium"
+    },
     {
       "title": "tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
