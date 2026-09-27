@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T02:31:17Z_
+_Generated: 2026-09-27T02:55:00Z_
 
 ## Lageurteil
 
@@ -12,27 +12,47 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `100.02`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `100.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 100.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
+### M 5.1 - 90 km ENE of Tadine, New Caledonia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-27T02:38:54.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5
+
 ### M 5.0 - 61 km ENE of Tadine, New Caledonia
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.04`
+- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu
 
+### ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `9.0`
+- Published: `2026-09-27T01:03:59+00:00` / age_days `0.08`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: root, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://togetter.com/li/2750963
+
 ### AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-09-26T10:09:00+00:00` / age_days `0.68`
+- Published: `2026-09-26T10:09:00+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-09-26T14:30:51+00:00` / age_days `0.5`
+- Published: `2026-09-26T14:30:51+00:00` / age_days `0.52`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `98.99`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `99.0`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 99.0d old signal
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `98.99`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `99.0`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 99.0d old signal
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `98.99`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `99.0`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 99.0d old signal, single-source AI cap enforced after phrase recheck
