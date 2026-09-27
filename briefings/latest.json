@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T23:21:37+00:00",
-  "run_id": "2026-09-27T23:21:37+00:00",
+  "generated_at": "2026-09-27T23:30:09+00:00",
+  "run_id": "2026-09-27T23:30:09+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -2067,29 +2067,7 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [
-    {
-      "title": "20260828_品質と開発生産性を両立させる、AI時代のE2Eテストの考え方",
-      "url": "https://speakerdeck.com/magicpod/20260828-event",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-27T13:40:09+00:00",
-      "fetched_at": "2026-09-27T23:21:09+00:00",
-      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "03ddc0505617d055375c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
