@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T21:58:51+00:00_
+_Generiert: 2026-09-27T22:13:26+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+33 neue relevante Treffer. Stärkstes Signal: „AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話** — Score 12, observation — [Quelle](https://togetter.com/li/2751313)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-27T17:27:38+00:00`, fetched `2026-09-27T22:12:54+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: しえろ🍆 @4_____el ChatGPT「文献 xxx に書いてありますよ」 わたし「目通したけど書いてないよ」 ChatGPT「3 版以前を読んでません？ 4 版で新しい研究成果として追加された記述なのでそっち読んでもらわないと。てか普通最新版チェックしませんか？」 わたし「うう……」（書いてあった） 2026-09-26 19:07:18
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?** — Score 12, risk — [Quelle](https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-27T11:34:00.000+00:00`, fetched `2026-09-27T11:43:11+00:00`
@@ -96,15 +105,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-27 16:43:10 UTC 2026-09-27 16:43:10 UTC at epicenter Location 35.386°N 99.554°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”** — Score 9, observation — [Quelle](https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T10:09:00+00:00`, fetched `2026-09-27T01:14:21+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 旧題: 「Go のフラットなパッケージにファイル単位の private を持ち込む Linter “declscope”」 はじめに Go は「誰が書いても同じようになる」言語 Go には表現の選択肢が多くありません。三項演算子もなければ例外もなく，メタプログラミングで遊ぶ文化も薄い。 if err != nil を延々と書き，for を回し，構造体を素直...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
