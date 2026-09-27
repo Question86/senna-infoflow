@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T11:32:19Z_
+_Generated: 2026-09-27T11:46:45Z_
 
 ## Lageurteil
 
@@ -12,17 +12,27 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T06:28:45+00:00` / age_days `0.21`
+- Published: `2026-09-27T06:28:45+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://github.com/tensorflow/tensorflow
 
+### Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: zero-day, active, exploitation, security high-signal: zero-day, active, exploitation, ausgenutzt, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html
+
 ### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `100.4`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `100.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 100.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.15`
+- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T04:35:37.040+00:00` / age_days `0.29`
+- Published: `2026-09-27T04:35:37.040+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-27T05:17:35.040+00:00` / age_days `0.26`
+- Published: `2026-09-27T05:17:35.040+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-27T02:38:54.040+00:00` / age_days `0.37`
+- Published: `2026-09-27T02:38:54.040+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.42`
+- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.43`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-09-27T07:34:10.208+00:00` / age_days `0.17`
+- Published: `2026-09-27T07:34:10.208+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-27T08:05:41.040+00:00` / age_days `0.14`
+- Published: `2026-09-27T08:05:41.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-27T07:54:06+00:00` / age_days `0.15`
+- Published: `2026-09-27T07:54:06+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-09-27T01:03:59+00:00` / age_days `0.44`
+- Published: `2026-09-27T01:03:59+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: root, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://togetter.com/li/2750963
-
-### 「SuicaがJR東海エリアで使えない」問題、ついに解消か JR東海社長「勉強している」
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-09-27T09:10:52+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html
 
 END OF DOCUMENT
