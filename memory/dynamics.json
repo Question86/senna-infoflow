@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-27T22:46:19Z",
+  "generated_at": "2026-09-27T23:02:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 37,
+    "dynamics": 38,
     "bands": {
       "extreme": 1,
       "krass": 2,
       "strong": 1,
-      "watch": 12,
+      "watch": 13,
       "quiet": 21
     },
     "bands_after_gate_recheck": {
       "krass": 1,
       "strong": 3,
-      "watch": 12,
+      "watch": 13,
       "quiet": 21
     }
   },
@@ -25,7 +25,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-27T19:40:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:28:45+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-27T11:34:00.000+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -104,7 +104,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 100.87,
+      "age_days": 100.88,
       "topics": [
         "ai"
       ],
@@ -133,7 +133,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T19:06:22.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T17:01:19.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -183,7 +183,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:59:00.764+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -208,7 +208,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T04:35:37.040+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "disaster"
       ],
@@ -233,7 +233,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T22:12:12.306+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -258,7 +258,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26270050",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T21:56:41.394+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -283,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:17:35.040+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "disaster"
       ],
@@ -308,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:38:54.040+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "disaster"
       ],
@@ -333,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:31:08.040+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "disaster"
       ],
@@ -358,7 +358,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:34:10.208+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -378,11 +378,35 @@
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)"
     },
     {
+      "title": "M 4.6 - 19 km SW of Sipí, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-27T22:44:50.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-27 21:57:52 UTC 2026-09-27 21:57:52 UTC at epicenter Location 4.531°N 76.775°W Depth 70.50 km (43.80 mi)"
+    },
+    {
       "title": "M 4.6 - Rat Islands, Aleutian Islands, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:05:41.040+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -406,7 +430,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T21:32:11.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -430,7 +454,7 @@
       "url": "https://note.com/npaka/n/n557fb948c3cf",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:32:58+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -456,7 +480,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:54:06+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -480,7 +504,7 @@
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:03:07+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -504,7 +528,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:03:59+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -530,7 +554,7 @@
       "url": "https://zenn.dev/midorisawa07/articles/58411e9ee7e990",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T15:17:24+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -554,7 +578,7 @@
       "url": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T12:26:03+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -578,7 +602,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T09:10:52+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -602,7 +626,7 @@
       "url": "https://note.com/takuinsist/n/n7d2b265d707b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:21:51+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -626,7 +650,7 @@
       "url": "https://togetter.com/li/2751313",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T17:27:38+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -651,7 +675,7 @@
       "url": "https://www.sunafuki.com/entry/chatgpt_English",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T10:01:52+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -676,7 +700,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:06:17+00:00",
-      "age_days": 1.44,
+      "age_days": 1.46,
       "topics": [
         "ai",
         "macro"
@@ -703,7 +727,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T10:09:00+00:00",
-      "age_days": 1.53,
+      "age_days": 1.54,
       "topics": [
         "ai"
       ],
@@ -728,7 +752,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:30:51+00:00",
-      "age_days": 1.34,
+      "age_days": 1.36,
       "topics": [
         "ai"
       ],
@@ -754,7 +778,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 99.83,
+      "age_days": 99.84,
       "topics": [
         "general"
       ],
@@ -779,7 +803,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 99.83,
+      "age_days": 99.84,
       "topics": [
         "general"
       ],
@@ -804,7 +828,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 99.83,
+      "age_days": 99.84,
       "topics": [
         "ai"
       ],
@@ -831,7 +855,7 @@
       "url": "https://zenn.dev/algoartis/articles/73f4da4aa13dcc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T12:09:53+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -856,7 +880,7 @@
       "url": "https://togetter.com/li/2751150",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T09:28:08+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -881,7 +905,7 @@
       "url": "https://note.com/npaka/n/n0ee92a316be3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:00:05+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -906,7 +930,7 @@
       "url": "https://note.com/saki_reset/n/nd6d383ce0c75",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:33:16+00:00",
-      "age_days": 1.34,
+      "age_days": 1.35,
       "topics": [
         "ai"
       ],
@@ -931,7 +955,7 @@
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T02:25:14+00:00",
-      "age_days": 6.85,
+      "age_days": 6.86,
       "topics": [
         "ai"
       ],
