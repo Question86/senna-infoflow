@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T15:20:13+00:00_
+_Generiert: 2026-09-27T15:29:33+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+22 neue relevante Treffer. Stärkstes Signal: „AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -162,3 +162,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fdb747c79d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
