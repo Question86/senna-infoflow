@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T01:43:08+00:00_
+_Generiert: 2026-09-27T02:01:03+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 61 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 61 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 旧題: 「Go のフラットなパッケージにファイル単位の private を持ち込む Linter “declscope”」 はじめに Go は「誰が書いても同じようになる」言語 Go には表現の選択肢が多くありません。三項演算子もなければ例外もなく，メタプログラミングで遊ぶ文化も薄い。 if err != nil を延々と書き，for を回し，構造体を素直...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年9月25日に発表された新しい Microsoft Copilot についての整理 - Qiita** — Score 4, observation — [Quelle](https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-26T14:30:51+00:00`, fetched `2026-09-27T02:00:28+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote autopilot (x0.45)
+  - Kurz: はじめに 2026年9月25日、Microsoft は Copilot の大規模アップデートを発表しました。 Introducing the new Copilot with Home, Code and Autopilot 今回の発表を一言でまとめると、 Microsoft Copilot は「質問に答える AI」から、「仕事を実行する AI プラットフォーム」へ進化しようとしている。 ということになりま...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -99,8 +108,3 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `fed_monetary_policy_press` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
