@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-27T11:38:14+00:00",
+  "generated_at": "2026-09-27T11:43:40+00:00",
   "topics": {
     "ai": [
       {
@@ -128,7 +128,23 @@
         "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/"
       }
     ],
+    "security": [
+      {
+        "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-27T11:34:00.000+00:00",
+        "relevance_score": 12,
+        "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html"
+      }
+    ],
     "geopolitics": [
+      {
+        "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-27T11:34:00.000+00:00",
+        "relevance_score": 12,
+        "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html"
+      },
       {
         "title": "M 4.6 - Rat Islands, Aleutian Islands, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T11:38:14+00:00_
+_Generiert: 2026-09-27T11:43:40+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
 
 ## Priorität Hoch
 
@@ -32,6 +32,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?** — Score 12, risk — [Quelle](https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-27T11:34:00.000+00:00`, fetched `2026-09-27T11:43:11+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Der Sicherheitsforscher Kevin Beaumont und ein Threat-Intelligence-Unternehmen mahnen: Neue Exploits würden aktiv ausgenutzt. Offizielle Informationen fehlen.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する** — Score 12, observation — [Quelle](https://togetter.com/li/2750963)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

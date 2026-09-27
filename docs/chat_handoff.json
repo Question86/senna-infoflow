@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-27T11:38:14+00:00",
+  "generated_at": "2026-09-27T11:43:40+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 1,
-    "observe": 17
+    "observe": 18
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-27T11:34:00.000+00:00",
+      "relevance_score": 12,
+      "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
+      "summary": "Der Sicherheitsforscher Kevin Beaumont und ein Threat-Intelligence-Unternehmen mahnen: Neue Exploits würden aktiv ausgenutzt. Offizielle Informationen fehlen.",
+      "section": "observe"
+    },
+    {
       "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -52,16 +62,6 @@
       "relevance_score": 11,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "summary": "ShakeMap - III Time 2026-09-27 07:48:11 UTC 2026-09-27 07:48:11 UTC at epicenter Location 50.904°N 179.322°E Depth 46.52 km (28.91 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.0 - Rat Islands, Aleutian Islands, Alaska",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-27T07:59:00.764+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
-      "summary": "ShakeMap - III Time 2026-09-27 07:48:12 UTC 2026-09-27 07:48:12 UTC at epicenter Location 50.908°N 179.335°E Depth 34.10 km (21.19 mi)",
       "section": "observe"
     }
   ],
