@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T11:08:23+00:00_
+_Generiert: 2026-09-27T11:21:06+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
+17 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -86,3 +86,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): 502 Server Error: Bad Gateway for url: https://www.bis.org/doclist/all_pressrels.rss
+- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
