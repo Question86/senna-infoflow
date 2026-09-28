@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T18:42:32+00:00_
+_Generiert: 2026-09-28T18:54:40+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+88 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.6 - 36 km SE of Hualien City, Taiwan** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty73)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-28T18:53:00.040+00:00`, fetched `2026-09-28T18:54:08+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-28 18:20:44 UTC 2026-09-28 18:20:44 UTC at epicenter Location 23.702°N 121.806°E Depth 19.01 km (11.81 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-28T14:55:18+00:00`, fetched `2026-09-28T14:00:06+00:00`
@@ -213,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that can scale without burning ever larger amounts of capital. Singapore-headquartered Igloo is now trying […] The post Igloo narrows FY2025 loss as embedded insurance…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.4 - 231 km WSW of Port McNeill, Canada** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-28T04:54:07.040+00:00`, fetched `2026-09-28T04:57:33+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-28 04:41:21 UTC 2026-09-28 04:41:21 UTC at epicenter Location 50.053°N 130.221°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen** — Score 10, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-09-28T12:15:00+00:00`, fetched `2026-09-28T13:09:57+00:00`
