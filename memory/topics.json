@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T05:12:42+00:00",
+  "generated_at": "2026-09-28T05:30:00+00:00",
   "topics": {
     "security": [
       {
@@ -80,6 +80,13 @@
       }
     ],
     "general": [
+      {
+        "title": "Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-28T05:28:18+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/"
+      },
       {
         "title": "M 5.4 - 231 km WSW of Port McNeill, Canada",
         "source": "USGS M4.5+ Earthquakes Past Hour",
