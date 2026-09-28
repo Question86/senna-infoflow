@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T02:56:52+00:00",
+  "generated_at": "2026-09-28T03:08:11+00:00",
   "topics": {
     "security": [
       {
@@ -28,6 +28,13 @@
         "url": "https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/"
       },
       {
+        "title": "Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-26T14:58:00+00:00",
+        "relevance_score": 5,
+        "url": "https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/"
+      },
+      {
         "title": "SIA has scaled AI. Aviation must now govern the point of action",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-28T01:00:39+00:00",
@@ -42,6 +49,13 @@
         "published_at": "2026-09-28T01:30:40+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/"
+      },
+      {
+        "title": "The credential trap: Why outsiders are winning in signal intelligence",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-28T03:00:23+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/"
       }
     ],
     "general": [
