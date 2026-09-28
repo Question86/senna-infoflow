@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T19:00:30+00:00",
+  "generated_at": "2026-09-28T19:17:08+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "new_relevant_findings": 1,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 0,
-    "medium": 32,
+    "medium": 33,
     "observe": 56
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "relevance_score": 23,
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared f…",
+      "section": "medium"
+    },
     {
       "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
       "source": "Rest of World Global Tech Feed",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
       "summary": "Speech At the Oakland Tech Week Opening Keynote, cohosted by the Kapor Center, Oakland, California",
-      "section": "medium"
-    },
-    {
-      "title": "Thailand targets US$80B semiconductor push as it moves beyond assembly",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-28T07:53:24+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/",
-      "summary": "Nine months ago, Thailand unveiled its first national semiconductor roadmap, a 25-year plan to graduate from backend electronics work to high-value chipmaking. This month, Bangkok approved its first national semiconductor and advanced electronics strategy, ag…",
       "section": "medium"
     },
     {
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T07:21:30+00:00",
-        "age_days": 0.49,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen."
-      },
-      {
-        "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:51:29+00:00",
-        "age_days": 0.3,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Velero ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:41:30+00:00",
-        "age_days": 0.31,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1759",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:41:30+00:00",
-        "age_days": 0.31,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um Code auszuführen und um einen Denial of Service Zustand herbeizuführen."
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3599",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:31:29+00:00",
-        "age_days": 0.36,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um Sicherheitsvorkehrungen zu umgehen und so Informationen offenzulegen sowie unbefugte Aktionen durchzuführen."
-      }
-    ]
-  }
+  ]
 }
