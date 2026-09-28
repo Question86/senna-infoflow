@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T03:53:26+00:00_
+_Generiert: 2026-09-28T04:00:59+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 02:53:43 UTC 2026-09-28 02:53:43 UTC at epicenter Location 50.237°N 129.777°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-28T03:57:02.040+00:00`, fetched `2026-09-28T04:00:30+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 69 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-28T03:39:27.040+00:00`, fetched `2026-09-28T03:52:57+00:00`
@@ -136,15 +145,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The credential trap: Why outsiders are winning in signal intelligence** — Score 4, risk — [Quelle](https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/)
+- **Bitcoin dominance at 58.5% and the 55% line that still blocks altseason** — Score 4, observation — [Quelle](https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-28T03:00:23+00:00`, fetched `2026-09-28T03:07:40+00:00`
-  - Treffer: APAC Trend Radar, Public Health
+  - Zeit: published `2026-09-28T03:57:39+00:00`, fetched `2026-09-28T04:00:30+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph demote demo (x0.45)
-  - Kurz: The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation of market data is reshaping who wins. […] The post The credential trap: Why outsiders are winning in…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin trades around US$84,200 to US$84,550 on Monday, September 28, 2026. It is not exploding higher today. Most sources show a modest move, slightly up or down 0.2 per cent to 0.5 per cent, as it consolidates after last week’s sharp rally. The bigger picture is that Bitcoin has rebounded strongly from mid-September lows near […] The post Bitcoin dominance at 58.5% and the 55% line that still blocks altseason appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
