@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T10:01:04+00:00_
+_Generiert: 2026-09-28T10:24:13+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+48 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M5.2 - 190 km WSW of Port McNeill, Canada** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43)
-  - Quelle: USGS
-  - Zeit: `2026-09-28T09:13:39+00:00`
-  - Kurz: M5.2 - 190 km WSW of Port McNeill, Canada. PAGER alert: none. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-88772 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-27`
@@ -69,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom** — Score 20, observation — [Quelle](https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-28T10:00:00+00:00`, fetched `2026-09-28T10:23:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI, Watchgraph:chips_compute_datacenters
+  - Watchgraph: chips_compute_datacenters
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_korea: South Korea, Samsung, SK Hynix (+2.0); watchgraph modules chips_compute_datacenters (+3.0)
+  - Kurz: Samsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Thailand targets US$80B semiconductor push as it moves beyond assembly** — Score 16, observation — [Quelle](https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-28T07:53:24+00:00`, fetched `2026-09-28T08:01:31+00:00`
@@ -243,6 +248,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社** — Score 5, observation — [Quelle](https://www.park24.co.jp/news/2026/09/20260928-1.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T07:35:53+00:00`, fetched `2026-09-28T10:23:43+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年09月28日 2026年9月25日に公表いたしました「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第1報）」に関し、その後の調査により現時点で判明している内容をご報告いたします。 ※第1報はこちら 「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **よく冷えるが価格は約2億7000万円で重さ約13kg、24金製の特注ミニPCが爆誕** — Score 5, observation — [Quelle](https://gigazine.net/news/20260928-24-carat-gold-mini-pc/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-28T05:05:11+00:00`, fetched `2026-09-28T09:35:40+00:00`
@@ -260,15 +274,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2143595.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T01:08:53+00:00`, fetched `2026-09-28T03:52:57+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
