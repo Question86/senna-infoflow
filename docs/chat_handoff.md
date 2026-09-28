@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T04:58:02+00:00_
+_Generated: 2026-09-28T05:12:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `18`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-09-28T04:58:02+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27
 - summary: Time 2026-09-28 02:53:43 UTC 2026-09-28 02:53:43 UTC at epicenter Location 50.237°N 129.777°W Depth 10.00 km (6.21 mi)
 
-### 7. M 5.1 - South Sandwich Islands region
+### 7. M 4.9 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-09-28T03:57:02.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e
-- summary: Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)
+- published: `2026-09-28T05:07:12.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y
+- summary: Time 2026-09-28 04:41:33 UTC 2026-09-28 04:41:33 UTC at epicenter Location 57.650°S 25.347°W Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT
