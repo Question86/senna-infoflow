@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T13:55:10+00:00_
+_Generiert: 2026-09-28T14:00:43+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+77 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-09-28T14:55:18+00:00`, fetched `2026-09-28T14:00:06+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-28T14:40:21+00:00`, fetched `2026-09-28T13:45:27+00:00`
@@ -195,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore is putting a clearer name and sharper frame around one of its most important industrial bets. On Friday, the city-state announced SG Semiconductor, a national identity for its semiconductor sector, jointly developed by A*STAR and the Singapore Economic Development Board (EDB). The move is not a new agency or a standalone company. Rather, it […] The post A*STAR and EDB unveil SG Semiconductor as partnership…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Discount window modernization and treasury market functioning** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-28T00:00:00+00:00`, fetched `2026-09-28T14:00:06+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the 2026 US Treasury Market Conference, organised by the Federal Reserve Bank of New York, New York City, 22 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-28T08:55:38+00:00`
@@ -221,24 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Updates schließen 19 Lücken im Netzwerkanalysetool Wireshark. Über präparierte Profile kann Schadcode auf PCs gelangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **塩崎デジタル副大臣のプロフィールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member/shiozakiakihisa)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-28T07:30:53+00:00`, fetched `2026-09-28T07:44:49+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 塩崎デジタル副大臣のプロフィールを掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **赤松デジタル大臣政務官のプロフィールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member/akamatsuken)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-28T07:30:45+00:00`, fetched `2026-09-28T07:44:49+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 赤松デジタル大臣政務官のプロフィールを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
