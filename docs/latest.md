@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T08:02:02+00:00_
+_Generiert: 2026-09-28T08:36:54+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+36 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
