@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T13:29:43+00:00_
+_Generiert: 2026-09-28T13:46:00+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+72 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -87,6 +87,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-09-28T14:40:21+00:00`, fetched `2026-09-28T13:45:27+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament** — Score 12, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-28T13:30:00+00:00`, fetched `2026-09-28T13:45:27+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab** — Score 12, observation — [Quelle](https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-28T01:30:40+00:00`, fetched `2026-09-28T01:40:22+00:00`
@@ -105,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.4 - north of Svalbard** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty57)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-28T13:43:27.884+00:00`, fetched `2026-09-28T13:45:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-09-28 13:22:39 UTC 2026-09-28 13:22:39 UTC at epicenter Location 82.639°N 7.192°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 190 km WSW of Port McNeill, Canada** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-28T09:30:37.040+00:00`, fetched `2026-09-28T09:35:40+00:00`
@@ -131,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 04:41:21 UTC 2026-09-28 04:41:21 UTC at epicenter Location 50.053°N 130.221°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 195 km WSW of Port McNeill, Canada** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-28T03:52:40.040+00:00`, fetched `2026-09-28T03:52:57+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-28 02:53:43 UTC 2026-09-28 02:53:43 UTC at epicenter Location 50.237°N 129.777°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen** — Score 10, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
@@ -203,24 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 赤松デジタル大臣政務官のプロフィールを掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/contact)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-28T06:00:00+00:00`, fetched `2026-09-28T06:39:37+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **オムロン、祖業を売却 電子部品事業「重い決断」 | NEWSjp** — Score 5, observation — [Quelle](https://news.jp/i/1477171752691761383)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T08:11:38+00:00`, fetched `2026-09-28T12:37:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: オムロンが、祖業の電子部品事業を10月1日付で米投資ファンドに売却する。中国勢の台頭で競争が激化し「大変重い決断だったが、グループとしての企業価値向上のために必要」（辻永順太社長）としている。主力の制御機器事業を中心に、データビジネスと親和性の高い分野に経営資源を集中し収益力を高める。 電子部品事業...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

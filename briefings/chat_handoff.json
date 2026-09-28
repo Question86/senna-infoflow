@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T13:29:43+00:00",
+  "generated_at": "2026-09-28T13:46:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 5,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
     "medium": 28,
-    "observe": 39
+    "observe": 44
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,26 @@
       "section": "medium"
     },
     {
+      "title": "Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-09-28T14:40:21+00:00",
+      "relevance_score": 12,
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html",
+      "summary": "Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "section": "observe"
+    },
+    {
+      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-28T13:30:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+      "summary": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "section": "observe"
+    },
+    {
       "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -73,26 +93,6 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
       "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "section": "observe"
-    },
-    {
-      "title": "M 5.2 - 190 km WSW of Port McNeill, Canada",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-28T09:30:37.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43",
-      "summary": "Time 2026-09-28 09:13:39 UTC 2026-09-28 09:13:39 UTC at epicenter Location 50.171°N 129.679°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-28T05:28:18+00:00",
-      "relevance_score": 11,
-      "url": "https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/",
-      "summary": "For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that ca…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T07:21:30+00:00",
-        "age_days": 0.26,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen."
-      },
-      {
-        "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:51:29+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Velero ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:41:30+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1759",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:41:30+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um Code auszuführen und um einen Denial of Service Zustand herbeizuführen."
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3599",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:31:29+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um Sicherheitsvorkehrungen zu umgehen und so Informationen offenzulegen sowie unbefugte Aktionen durchzuführen."
-      }
-    ]
-  }
+  ]
 }
