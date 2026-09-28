@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-28T05:53:39Z_
+_Generated: 2026-09-28T06:07:15Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-28T13:30:00+09:00` / age_days `0.06`
+- Published: `2026-09-28T13:30:00+09:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-28T04:11:29+00:00` / age_days `0.07`
+- Published: `2026-09-28T04:11:29+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `101.16`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `101.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 101.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-28T03:57:39+00:00` / age_days `0.08`
+- Published: `2026-09-28T03:57:39+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-28T04:54:07.040+00:00` / age_days `0.04`
+- Published: `2026-09-28T04:54:07.040+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-28T03:52:40.040+00:00` / age_days `0.08`
+- Published: `2026-09-28T03:52:40.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27
 
+### M 5.1 - 78 km ENE of Tadine, New Caledonia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-28T05:48:28.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33
+
 ### M 5.3 - 69 km NE of Tadine, New Caledonia
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-28T03:39:27.040+00:00` / age_days `0.09`
+- Published: `2026-09-28T03:39:27.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-28T05:07:12.040+00:00` / age_days `0.03`
+- Published: `2026-09-28T05:07:12.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-28T04:57:49.040+00:00` / age_days `0.04`
+- Published: `2026-09-28T04:57:49.040+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-28T03:57:02.040+00:00` / age_days `0.08`
+- Published: `2026-09-28T03:57:02.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e
-
-### Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-09-28T05:28:18+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/
 
 END OF DOCUMENT
