@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T17:42:06+00:00",
+  "generated_at": "2026-09-28T17:54:47+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html"
       },
       {
-        "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T01:30:40+00:00",
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-28T07:00:00+00:00",
         "relevance_score": 12,
-        "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/"
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
       }
     ],
     "economy": [
@@ -342,6 +342,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27"
       },
       {
+        "title": "M 4.8 - 155 km NNW of Kilmia, Yemen",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-28T17:51:48.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty71"
+      },
+      {
         "title": "M 4.7 - Fiji region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-28T12:32:25.040+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-09-28T06:35:18.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty3a"
-      },
-      {
-        "title": "M 5.2 - 67 km ENE of Tadine, New Caledonia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-28T06:02:20.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38"
       }
     ],
     "github": [
