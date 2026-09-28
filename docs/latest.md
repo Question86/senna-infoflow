@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T10:59:45+00:00_
+_Generiert: 2026-09-28T11:18:03+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+59 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「タイムズカー」会員情報約660万件漏えい 運転免許画像など 不正アクセスで** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/28/2000001808/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T08:04:36+00:00`, fetched `2026-09-28T11:17:34+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: カーシェアリングサービス「タイムズカー」を運営するタイムズモビリティ（パーク24グループ）は9月28日、不正アクセスを受けたシステムから、会員情報約660万件が漏えいしたと発表した。漏えいした情報には、運転免許証画像などの本人確認書類情報も含まれている。 対象は、タイムズカー会員と退会済みの人、タイムズビ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社** — Score 5, observation — [Quelle](https://www.park24.co.jp/news/2026/09/20260928-1.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-28T07:35:53+00:00`, fetched `2026-09-28T10:23:43+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年9月25日に公表いたしました『「タイムズカーWebサイト」への不正アクセスによる個人情報漏えいの可能性について（第1報）』に関し、その後の調査により現時点で判明している内容をご報告いたします。 第1報はこちら 会員の皆様ならびに関係者の皆様に、多大なるご迷惑とご心配をお掛けしておりますことを、改めて...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **よく冷えるが価格は約2億7000万円で重さ約13kg、24金製の特注ミニPCが爆誕** — Score 5, observation — [Quelle](https://gigazine.net/news/20260928-24-carat-gold-mini-pc/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T05:05:11+00:00`, fetched `2026-09-28T09:35:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: フランスのPCメーカーKubbが販売するファンレスミニPC「Kubb Fanless」を24金の無垢材で作った「特注モデル」が製作されました。価格は約170万ドル(約2億6800万円)で、重量は約13kg。もちろん見た目だけではなく、金は一般的なアルミニウムより熱伝導率が高いため、ファンを使わないミニPCにとって冷却性能の向上という...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
