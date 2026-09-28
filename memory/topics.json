@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T05:30:00+00:00",
+  "generated_at": "2026-09-28T05:59:19+00:00",
   "topics": {
     "security": [
       {
@@ -102,6 +102,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27"
       },
       {
+        "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-28T05:48:28.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33"
+      },
+      {
         "title": "M 4.9 - South Sandwich Islands region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-28T05:07:12.040+00:00",
@@ -142,13 +149,6 @@
         "published_at": "2026-09-27T22:17:34+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/"
-      },
-      {
-        "title": "Bitcoin dominance at 58.5% and the 55% line that still blocks altseason",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T03:57:39+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/"
       }
     ],
     "github": [
