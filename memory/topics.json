@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T09:52:54+00:00",
+  "generated_at": "2026-09-28T10:01:04+00:00",
   "topics": {
     "ai": [
       {
@@ -142,6 +142,20 @@
         "url": "https://jvn.jp/vu/JVNVU94863997/"
       },
       {
+        "title": "[UPDATE] [mittel] libtpms: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T09:56:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3216"
+      },
+      {
+        "title": "[UPDATE] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T09:56:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717"
+      },
+      {
         "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-28T09:15:00+09:00",
@@ -168,20 +182,6 @@
         "published_at": "2026-09-28T06:16:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285"
-      },
-      {
-        "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-04-12T00:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/"
-      },
-      {
-        "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-28T07:01:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html"
       }
     ],
     "geopolitics": [
