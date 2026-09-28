@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T03:08:11+00:00_
+_Generiert: 2026-09-28T03:34:09+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region europe: Paris (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph demote portfolio (x0.45)
   - Kurz: Founders raising a venture round tend to watch other startups. Who has just closed? Who is talking to the same funds? Who is setting the price for the next deal? The fund across the table has another comparison to make. At portfolio level, it also has to weigh opening new positions against preserving capital for […] The post Your startup may be competing with a VC’s existing portfolio appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」** — Score 5, observation — [Quelle](https://gendai.media/articles/-/171505)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T01:24:39+00:00`, fetched `2026-09-28T03:33:41+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/28/2000001592/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

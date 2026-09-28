@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T03:08:11+00:00",
-  "run_id": "2026-09-28T03:08:11+00:00",
+  "generated_at": "2026-09-28T03:34:09+00:00",
+  "run_id": "2026-09-28T03:34:09+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -132,6 +132,27 @@
           "EWZ"
         ],
         "id": "9c13ba0a8344220cad41"
+      },
+      {
+        "title": "豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」",
+        "url": "https://gendai.media/articles/-/171505",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-28T01:24:39+00:00",
+        "fetched_at": "2026-09-28T03:33:41+00:00",
+        "summary": "中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d32563d86f87d35c5eda"
       },
       {
         "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
@@ -323,6 +344,27 @@
       "id": "9c13ba0a8344220cad41"
     },
     {
+      "title": "豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」",
+      "url": "https://gendai.media/articles/-/171505",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-28T01:24:39+00:00",
+      "fetched_at": "2026-09-28T03:33:41+00:00",
+      "summary": "中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d32563d86f87d35c5eda"
+    },
+    {
       "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
       "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -409,13 +451,13 @@
   ],
   "new_findings": [
     {
-      "title": "Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部",
-      "url": "https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/",
+      "title": "豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」",
+      "url": "https://gendai.media/articles/-/171505",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-26T14:58:00+00:00",
-      "fetched_at": "2026-09-28T03:07:40+00:00",
-      "summary": "2026.09.25 Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 TL;DR Convai Innovations の Nandakishor Mukkunnoth 氏が公開したオープンソースの意思決定モデル Laya は、状態 (State) と型付きの質問 (Choice / Score / Noul) を受け取り、テキストを生成せずに較正さ...",
+      "published_at": "2026-09-28T01:24:39+00:00",
+      "fetched_at": "2026-09-28T03:33:41+00:00",
+      "summary": "中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -427,28 +469,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3421e012dd52ca4a4807"
-    },
-    {
-      "title": "The credential trap: Why outsiders are winning in signal intelligence",
-      "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-28T03:00:23+00:00",
-      "fetched_at": "2026-09-28T03:07:40+00:00",
-      "summary": "The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation of market data is reshaping who wins. […] The post The credential trap: Why outsiders are winning in…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "32da54885d6e6bdb374c"
+      "id": "d32563d86f87d35c5eda"
     }
   ],
   "source_errors": [],

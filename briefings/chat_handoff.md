@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T03:08:11+00:00_
+_Generated: 2026-09-28T03:34:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-09-28T03:08:11+00:00_
 - url: https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/
 - summary: Founders raising a venture round tend to watch other startups. Who has just closed? Who is talking to the same funds? Who is setting the price for the next deal? The fund across the table has another comparison to make. At portfolio level, it also has to weig…
 
-### 4. 「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情
+### 4. 豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-28T01:24:39+00:00`
+- url: https://gendai.media/articles/-/171505
+- summary: 中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...
+
+### 5. 「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-27T22:17:34+00:00`
 - url: https://www.itmedia.co.jp/news/article/2609/28/2000001592/
 - summary: 飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...
-
-### 5. Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-26T14:58:00+00:00`
-- url: https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/
-- summary: 2026.09.25 Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 TL;DR Convai Innovations の Nandakishor Mukkunnoth 氏が公開したオープンソースの意思決定モデル Laya は、状態 (State) と型付きの質問 (Choice / Score / Noul) を受け取り、テキストを生成せずに較正さ...
 
 END OF DOCUMENT
