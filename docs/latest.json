@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T10:54:28+00:00",
-  "run_id": "2026-09-28T10:54:28+00:00",
+  "generated_at": "2026-09-28T10:59:45+00:00",
+  "run_id": "2026-09-28T10:59:45+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -3035,31 +3035,7 @@
       "id": "3cc6044740c627cc2068"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-28T10:46:29+00:00",
-      "fetched_at": "2026-09-28T10:53:58+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c077bc5bde3950891783"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
