@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-28T06:07:15Z",
+  "generated_at": "2026-09-28T06:53:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 32,
     "bands": {
-      "krass": 1,
-      "strong": 4,
-      "watch": 7,
-      "quiet": 12
+      "krass": 3,
+      "strong": 6,
+      "watch": 10,
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7,
-      "quiet": 12
+      "krass": 1,
+      "strong": 8,
+      "watch": 10,
+      "quiet": 13
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T06:16:29+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenClaw ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+    },
     {
       "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU94863997/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T13:30:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -47,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU96520526/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T09:15:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -67,11 +93,64 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-28T06:39:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes…"
+    },
+    {
+      "title": "[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T06:16:29+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Kyverno ausnutzen, um Sicherheitsmaßnahmen zu umgehen, SSRF auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und unter bestimmten Umständen seine Berechtigungen auf Cluster-Administrator zu erweitern."
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T04:11:29+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -96,7 +175,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 101.17,
+      "age_days": 101.2,
       "topics": [
         "ai"
       ],
@@ -121,11 +200,36 @@
       "summary": ""
     },
     {
+      "title": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-28T06:39:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "TypeScript-to-Native Compiler https://scriptc.dev scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking. Source outputs require only Node. On ma…"
+    },
+    {
       "title": "Bitcoin dominance at 58.5% and the 55% line that still blocks altseason",
       "url": "https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T03:57:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -150,7 +254,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T04:54:07.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -175,7 +279,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:52:40.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -196,11 +300,87 @@
       "summary": "Time 2026-09-28 02:53:43 UTC 2026-09-28 02:53:43 UTC at epicenter Location 50.237°N 129.777°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "A*STAR and EDB unveil SG Semiconductor as partnerships target AI-era chis",
+      "url": "https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-28T06:38:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Singapore is putting a clearer name and sharper frame around one of its most important industrial bets. On Friday, the city-state announced SG Semiconductor, a national identity for its semiconductor sector, jointly developed by A*STAR and the Singapore Economic Development Board (EDB). The move is not a new agency or…"
+    },
+    {
+      "title": "M 4.6 - 63 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty3a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-28T06:35:18.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-28 05:42:21 UTC 2026-09-28 05:42:21 UTC at epicenter Location 21.237°S 168.395°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.2 - 67 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-28T06:02:20.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-28 05:45:29 UTC 2026-09-28 05:45:29 UTC at epicenter Location 21.225°S 168.427°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T05:48:28.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -225,7 +405,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:39:27.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -250,7 +430,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T05:07:12.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -274,7 +454,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T04:57:49.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -298,7 +478,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:57:02.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -322,7 +502,7 @@
       "url": "https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T05:28:18+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -342,11 +522,35 @@
       "summary": "For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that can scale without burning ever larger amounts of capital. Sing…"
     },
     {
+      "title": "ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました",
+      "url": "https://www.digital.go.jp/contact",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-28T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました"
+    },
+    {
       "title": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
       "url": "https://forest.watch.impress.co.jp/docs/news/2143595.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-28T01:08:53+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -370,7 +574,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T22:17:34+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -394,7 +598,7 @@
       "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T01:30:40+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -420,7 +624,7 @@
       "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T03:00:23+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -444,7 +648,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 100.14,
+      "age_days": 100.17,
       "topics": [
         "general"
       ],
@@ -460,7 +664,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 100.1d old signal"
+        "aging penalty -16.0 for 100.2d old signal"
       ],
       "summary": ""
     },
@@ -469,7 +673,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 100.14,
+      "age_days": 100.17,
       "topics": [
         "general"
       ],
@@ -485,7 +689,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 100.1d old signal"
+        "aging penalty -16.0 for 100.2d old signal"
       ],
       "summary": ""
     },
@@ -494,7 +698,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 100.14,
+      "age_days": 100.17,
       "topics": [
         "ai"
       ],
@@ -511,7 +715,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 100.1d old signal",
+        "aging penalty -16.0 for 100.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -521,7 +725,7 @@
       "url": "https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T02:00:45+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -546,7 +750,7 @@
       "url": "https://gendai.media/articles/-/171505",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-28T01:24:39+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -571,7 +775,7 @@
       "url": "https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:58:00+00:00",
-      "age_days": 1.63,
+      "age_days": 1.66,
       "topics": [
         "ai"
       ],
@@ -596,7 +800,7 @@
       "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T01:00:39+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -617,5 +821,5 @@
       "summary": "Singapore Airlines’ expanding artificial intelligence (AI) portfolio shows that adoption is no longer the main issue. The harder question is what an AI system should be permitted to do. The Business Times reported on 18 August that Singapore Airlines, or SIA, has deployed more than 160 AI applications and identified o…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
