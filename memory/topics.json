@@ -1,67 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T07:45:23+00:00",
+  "generated_at": "2026-09-28T08:02:02+00:00",
   "topics": {
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T07:21:30+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T07:21:29+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T04:11:29+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579"
-      },
-      {
-        "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T13:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94863997/"
-      },
-      {
-        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T09:15:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96520526/"
-      },
-      {
-        "title": "[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T06:16:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316"
-      },
-      {
-        "title": "[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T06:16:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285"
-      },
-      {
-        "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-28T07:01:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html"
-      }
-    ],
     "ai": [
+      {
+        "title": "Thailand targets US$80B semiconductor push as it moves beyond assembly",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-28T07:53:24+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/"
+      },
       {
         "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
         "source": "e27 Asia Startup and Tech Feed",
@@ -121,6 +70,13 @@
     ],
     "economy": [
       {
+        "title": "Thailand targets US$80B semiconductor push as it moves beyond assembly",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-28T07:53:24+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/"
+      },
+      {
         "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-28T01:30:40+00:00",
@@ -140,6 +96,64 @@
         "published_at": "2026-09-28T03:00:23+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T07:21:30+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T07:21:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T04:11:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579"
+      },
+      {
+        "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-28T13:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94863997/"
+      },
+      {
+        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-28T09:15:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96520526/"
+      },
+      {
+        "title": "[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T06:16:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316"
+      },
+      {
+        "title": "[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T06:16:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285"
+      },
+      {
+        "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-28T07:01:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html"
       }
     ],
     "general": [
