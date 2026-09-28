@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T05:59:19+00:00_
+_Generiert: 2026-09-28T06:40:12+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+28 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -39,6 +39,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-28T06:16:29+00:00`, fetched `2026-09-28T06:39:37+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in OpenClaw ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-28T06:16:29+00:00`, fetched `2026-09-28T06:39:37+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Kyverno ausnutzen, um Sicherheitsmaßnahmen zu umgehen, SSRF auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und unter bestimmten Umständen seine Berechtigungen auf Cluster-Administrator zu erweitern.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -78,23 +96,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 02:53:43 UTC 2026-09-28 02:53:43 UTC at epicenter Location 50.237°N 129.777°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 78 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33)
+- **A*STAR and EDB unveil SG Semiconductor as partnerships target AI-era chis** — Score 10, opportunity — [Quelle](https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-28T06:38:11+00:00`, fetched `2026-09-28T06:39:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore is putting a clearer name and sharper frame around one of its most important industrial bets. On Friday, the city-state announced SG Semiconductor, a national identity for its semiconductor sector, jointly developed by A*STAR and the Singapore Economic Development Board (EDB). The move is not a new agency or a standalone company. Rather, it […] The post A*STAR and EDB unveil SG Semiconductor as partnership…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.6 - 63 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty3a)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-28T05:48:28.040+00:00`, fetched `2026-09-28T05:58:49+00:00`
+  - Zeit: published `2026-09-28T06:35:18.040+00:00`, fetched `2026-09-28T06:39:37+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-28 05:28:08 UTC 2026-09-28 05:28:08 UTC at epicenter Location 21.207°S 168.546°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-09-28 05:42:21 UTC 2026-09-28 05:42:21 UTC at epicenter Location 21.237°S 168.395°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Your startup may be competing with a VC’s existing portfolio** — Score 8, observation — [Quelle](https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-28T02:00:45+00:00`, fetched `2026-09-28T02:02:12+00:00`
-  - Treffer: APAC Trend Radar, founder, Public Health, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region europe: Paris (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph demote portfolio (x0.45)
-  - Kurz: Founders raising a venture round tend to watch other startups. Who has just closed? Who is talking to the same funds? Who is setting the price for the next deal? The fund across the table has another comparison to make. At portfolio level, it also has to weigh opening new positions against preserving capital for […] The post Your startup may be competing with a VC’s existing portfolio appeared first on e27 .
+- **ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/contact)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-28T06:00:00+00:00`, fetched `2026-09-28T06:39:37+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」** — Score 5, observation — [Quelle](https://gendai.media/articles/-/171505)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -123,6 +150,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **vercel-labs/scriptc** — Score 5, observation — [Quelle](https://github.com/vercel-labs/scriptc)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-28T06:39:37+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: TypeScript-to-Native Compiler https://scriptc.dev scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking. Source outputs require only Node. On macOS 15+ arm64, ordinary LLVM-tier executables use scriptc's bundled helper and precompiled runtime p…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **InfinityLoop1308/PipePipe** — Score 5, observation — [Quelle](https://github.com/InfinityLoop1308/PipePipe)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-28T06:39:37+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes with ReturnYouTubeDislike Show original titles on YouTube (non-localized) Log in to access restrict…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -132,3 +177,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
