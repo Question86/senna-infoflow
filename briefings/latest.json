@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T11:56:31+00:00",
-  "run_id": "2026-09-28T11:56:31+00:00",
+  "generated_at": "2026-09-28T12:04:55+00:00",
+  "run_id": "2026-09-28T12:04:55+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 0,
@@ -3261,31 +3261,7 @@
       "id": "3cc6044740c627cc2068"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-28T11:51:29+00:00",
-      "fetched_at": "2026-09-28T11:55:59+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Velero ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e25bdf9e3b55e982f4e4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
