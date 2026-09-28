@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T12:57:27+00:00_
+_Generiert: 2026-09-28T13:10:27+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+67 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 02:53:43 UTC 2026-09-28 02:53:43 UTC at epicenter Location 50.237°N 129.777°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen** — Score 10, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-09-28T12:15:00+00:00`, fetched `2026-09-28T13:09:57+00:00`
+  - Treffer: BSI, CERT-Bund, Citrix, Cyber-Sicherheitswarnung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); Citrix (+2.5); recent (+1.0)
+  - Kurz: Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **A*STAR and EDB unveil SG Semiconductor as partnerships target AI-era chis** — Score 10, opportunity — [Quelle](https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-28T06:38:11+00:00`, fetched `2026-09-28T06:39:37+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: オムロンが、祖業の電子部品事業を10月1日付で米投資ファンドに売却する。中国勢の台頭で競争が激化し「大変重い決断だったが、グループとしての企業価値向上のために必要」（辻永順太社長）としている。主力の制御機器事業を中心に、データビジネスと親和性の高い分野に経営資源を集中し収益力を高める。 電子部品事業...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「タイムズカー」会員情報約660万件漏えい 運転免許画像など 不正アクセスで** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/28/2000001808/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T08:04:36+00:00`, fetched `2026-09-28T11:17:34+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: カーシェアリングサービス「タイムズカー」を運営するタイムズモビリティ（パーク24グループ）は9月28日、不正アクセスを受けたシステムから、会員情報約660万件が漏えいしたと発表した。漏えいした情報には、運転免許証画像などの本人確認書類情報も含まれている。 対象は、タイムズカー会員と退会済みの人、タイムズビ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
