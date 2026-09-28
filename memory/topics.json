@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T20:33:09+00:00",
+  "generated_at": "2026-09-28T20:44:33+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty7u"
       },
       {
+        "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-28T16:16:09+00:00",
+        "relevance_score": 14,
+        "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/"
+      },
+      {
         "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-28T10:46:29+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-28T10:31:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3599"
-      },
-      {
-        "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-04-12T00:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/"
       }
     ],
     "security": [

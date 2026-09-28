@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T20:33:09+00:00_
+_Generiert: 2026-09-28T20:44:33+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
+92 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -111,6 +111,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 15:01:39 UTC 2026-09-28 15:01:39 UTC at epicenter Location 5.634°N 127.034°E Depth 78.20 km (48.59 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing cf: the agentic CLI for the entire Cloudflare API** — Score 14, observation — [Quelle](https://blog.cloudflare.com/cloudflare-cf-cli-launch/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T16:16:09+00:00`, fetched `2026-09-28T20:44:00+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: September 28, 2026Introducing cf: the agentic CLI for the entire Cloudflare API Over the last year, agent use of Wrangler has skyrocketed. In March 2026, agents were responsible for a quarter of Wrangler use, up from single-digit percentages the year prior. Last week, agent usage reached 48%. Age...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **バッファロー製Wi-Fi製品における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94863997/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-28T13:30:00+09:00`, fetched `2026-09-28T04:45:44+00:00`
