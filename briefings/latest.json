@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T13:46:00+00:00",
-  "run_id": "2026-09-28T13:46:00+00:00",
+  "generated_at": "2026-09-28T13:55:10+00:00",
+  "run_id": "2026-09-28T13:55:10+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 3,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
-    "medium": 28,
-    "observe": 44,
+    "medium": 30,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -75,6 +75,28 @@
           "URA"
         ],
         "id": "6d2a114e2e1f7853849e"
+      },
+      {
+        "title": "Power, markets, and strategy in a changing global order",
+        "url": "https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-28T00:00:00+00:00",
+        "fetched_at": "2026-09-28T13:54:37+00:00",
+        "summary": "Opening remarks by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the International Monetary Fund Economic Review Conference “Power, markets, and strategy in a changing global order”, Bangkok, 11 June 2026.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e637e5b6d7136a6f3a29"
       },
       {
         "title": "Thailand targets US$80B semiconductor push as it moves beyond assembly",
@@ -145,6 +167,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3c6fd61fca766490c6b6"
+      },
+      {
+        "title": "広がる「AIで人類滅亡」論、サム・アルトマン氏が語ったこと--2日後に先端モデルの訓練停止も公表",
+        "url": "https://japan.cnet.com/article/35253028/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-28T05:28:45+00:00",
+        "fetched_at": "2026-09-28T13:54:37+00:00",
+        "summary": "OpenAIのサム・アルトマンCEOは米国時間9月23日、国連安全保障理事会で演説し、人間の制御下に置き続けられると強く論証できないAIモデルは「訓練すべきではない」と述べた。破局のリスクを何％と見積もるかは問題ではなく、「どの水準も到底受け入れられない」という。 演説の2日後、OpenAIは最上位モデルの訓練を止め...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fbb9b0e7e4ef990bb934"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -1572,6 +1617,26 @@
         "id": "883ceaca1dcdaf4052b4"
       },
       {
+        "title": "Back to school - passing Europe's triple test",
+        "url": "https://www.bis.org/speeches/20260928-back-school-passing-europes-triple-test",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-28T00:00:00+00:00",
+        "fetched_at": "2026-09-28T13:54:37+00:00",
+        "summary": "Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland, at the OMFIF Nordic SSA Forum, Helsinki, 19 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c5c6425d2f42bc6ad5bd"
+      },
+      {
         "title": "オムロン、祖業を売却 電子部品事業「重い決断」 | NEWSjp",
         "url": "https://news.jp/i/1477171752691761383",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1936,6 +2001,28 @@
       "id": "6d2a114e2e1f7853849e"
     },
     {
+      "title": "Power, markets, and strategy in a changing global order",
+      "url": "https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "fetched_at": "2026-09-28T13:54:37+00:00",
+      "summary": "Opening remarks by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the International Monetary Fund Economic Review Conference “Power, markets, and strategy in a changing global order”, Bangkok, 11 June 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e637e5b6d7136a6f3a29"
+    },
+    {
       "title": "Thailand targets US$80B semiconductor push as it moves beyond assembly",
       "url": "https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2004,6 +2091,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3c6fd61fca766490c6b6"
+    },
+    {
+      "title": "広がる「AIで人類滅亡」論、サム・アルトマン氏が語ったこと--2日後に先端モデルの訓練停止も公表",
+      "url": "https://japan.cnet.com/article/35253028/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-28T05:28:45+00:00",
+      "fetched_at": "2026-09-28T13:54:37+00:00",
+      "summary": "OpenAIのサム・アルトマンCEOは米国時間9月23日、国連安全保障理事会で演説し、人間の制御下に置き続けられると強く論証できないAIモデルは「訓練すべきではない」と述べた。破局のリスクを何％と見積もるかは問題ではなく、「どの水準も到底受け入れられない」という。 演説の2日後、OpenAIは最上位モデルの訓練を止め...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fbb9b0e7e4ef990bb934"
     },
     {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -3429,6 +3539,26 @@
       "id": "883ceaca1dcdaf4052b4"
     },
     {
+      "title": "Back to school - passing Europe's triple test",
+      "url": "https://www.bis.org/speeches/20260928-back-school-passing-europes-triple-test",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "fetched_at": "2026-09-28T13:54:37+00:00",
+      "summary": "Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland, at the OMFIF Nordic SSA Forum, Helsinki, 19 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5c6425d2f42bc6ad5bd"
+    },
+    {
       "title": "オムロン、祖業を売却 電子部品事業「重い決断」 | NEWSjp",
       "url": "https://news.jp/i/1477171752691761383",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3745,145 +3875,69 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-09-28T14:40:21+00:00",
-      "fetched_at": "2026-09-28T13:45:27+00:00",
-      "summary": "Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "db5d75aaef15b79bc8bd"
-    },
-    {
-      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-09-28T13:30:00+00:00",
-      "fetched_at": "2026-09-28T13:45:27+00:00",
-      "summary": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "matched_keywords": [
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: parliament"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "0f99b0f312befc6104c2"
-    },
-    {
-      "title": "M 5.4 - north of Svalbard",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty57",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-28T13:43:27.884+00:00",
-      "fetched_at": "2026-09-28T13:45:27+00:00",
-      "summary": "ShakeMap - III Time 2026-09-28 13:22:39 UTC 2026-09-28 13:22:39 UTC at epicenter Location 82.639°N 7.192°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "2cccd01f5773824c32ce"
-    },
-    {
-      "title": "L'Europe, C'est Nous",
-      "url": "https://www.bis.org/speeches/20260928-leurope-cest-nous",
+      "title": "Power, markets, and strategy in a changing global order",
+      "url": "https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-28T00:00:00+00:00",
-      "fetched_at": "2026-09-28T13:45:27+00:00",
-      "summary": "Remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the informal ECOFIN dinner, Dublin, 18 September 2026.",
+      "fetched_at": "2026-09-28T13:54:37+00:00",
+      "summary": "Opening remarks by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the International Monetary Fund Economic Review Conference “Power, markets, and strategy in a changing global order”, Bangkok, 11 June 2026.",
       "matched_keywords": [
-        "Macro/Policy"
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Markets/Capital Structure"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "883ceaca1dcdaf4052b4"
-    },
-    {
-      "title": "Opening remarks “Trust and innovation - the future of finance\"",
-      "url": "https://www.bis.org/speeches/20260928-opening-remarks-trust-and-innovation-future-finance",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "fetched_at": "2026-09-28T13:45:27+00:00",
-      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Central Bank of Ireland Conference “Trust and innovation - the future of finance\", Dublin, 18 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 18,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "75af7f499e635e94ba5f"
+      "id": "e637e5b6d7136a6f3a29"
+    },
+    {
+      "title": "広がる「AIで人類滅亡」論、サム・アルトマン氏が語ったこと--2日後に先端モデルの訓練停止も公表",
+      "url": "https://japan.cnet.com/article/35253028/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-28T05:28:45+00:00",
+      "fetched_at": "2026-09-28T13:54:37+00:00",
+      "summary": "OpenAIのサム・アルトマンCEOは米国時間9月23日、国連安全保障理事会で演説し、人間の制御下に置き続けられると強く論証できないAIモデルは「訓練すべきではない」と述べた。破局のリスクを何％と見積もるかは問題ではなく、「どの水準も到底受け入れられない」という。 演説の2日後、OpenAIは最上位モデルの訓練を止め...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fbb9b0e7e4ef990bb934"
+    },
+    {
+      "title": "Back to school - passing Europe's triple test",
+      "url": "https://www.bis.org/speeches/20260928-back-school-passing-europes-triple-test",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "fetched_at": "2026-09-28T13:54:37+00:00",
+      "summary": "Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland, at the OMFIF Nordic SSA Forum, Helsinki, 19 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5c6425d2f42bc6ad5bd"
     }
   ],
   "source_errors": [],
