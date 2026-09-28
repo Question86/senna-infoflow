@@ -1,19 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-28T19:02:49Z",
+  "generated_at": "2026-09-28T19:21:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
+      "extreme": 1,
       "krass": 16,
       "strong": 20,
-      "watch": 4
+      "watch": 3
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 32,
-      "watch": 4
+      "strong": 33,
+      "watch": 3
     }
   },
   "top_dynamics": [
@@ -22,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:30+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -47,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T08:36:29+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -72,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -97,7 +98,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-28T12:15:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -122,7 +123,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-28T12:37:00.000+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -147,7 +148,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-12T00:00:00+00:00",
-      "age_days": 899.79,
+      "age_days": 899.81,
       "topics": [
         "ai",
         "security"
@@ -174,7 +175,7 @@
       "url": "https://jvn.jp/vu/JVNVU94863997/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T13:30:00+09:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -198,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3606",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T11:46:29+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -222,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:46:29+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -247,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3603",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:41:29+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -271,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3602",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:41:29+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -296,7 +297,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3601",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:36:29+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -320,7 +321,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3600",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:31:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -344,7 +345,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3596",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:26:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -368,7 +369,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3216",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T09:56:29+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -392,7 +393,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T09:56:29+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -416,7 +417,7 @@
       "url": "https://jvn.jp/vu/JVNVU96520526/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T09:15:00+09:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "security"
       ],
@@ -440,7 +441,7 @@
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-28T06:39:37+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -463,11 +464,40 @@
       "summary": "An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes…"
     },
     {
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: critical, rce",
+        "security high-signal: critical, rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog ."
+    },
+    {
       "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T11:51:29+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -493,7 +523,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T11:41:30+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -519,7 +549,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1759",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T11:41:30+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -545,7 +575,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3599",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:31:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -572,7 +602,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3598",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:31:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -598,7 +628,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3597",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:26:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -625,7 +655,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3594",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:21:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -651,7 +681,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:21:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -677,7 +707,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -703,7 +733,7 @@
       "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-28T17:23:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -729,7 +759,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:29+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -754,7 +784,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T04:11:29+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -779,7 +809,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 101.71,
+      "age_days": 101.72,
       "topics": [
         "ai"
       ],
@@ -808,7 +838,7 @@
       "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-28T10:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -835,7 +865,7 @@
       "url": "https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-28T00:00:00+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "macro"
@@ -862,7 +892,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-28T07:01:00.000+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -887,7 +917,7 @@
       "url": "https://github.com/vercel-labs/scriptc",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-28T06:39:37+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -912,7 +942,7 @@
       "url": "https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T03:57:39+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
@@ -937,7 +967,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty57",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T13:43:27.884+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -962,7 +992,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T09:30:37.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -987,7 +1017,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T04:54:07.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -1006,31 +1036,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-09-28 04:41:21 UTC 2026-09-28 04:41:21 UTC at epicenter Location 50.053°N 130.221°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 195 km WSW of Port McNeill, Canada",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-28T03:52:40.040+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-28 02:53:43 UTC 2026-09-28 02:53:43 UTC at epicenter Location 50.237°N 129.777°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
