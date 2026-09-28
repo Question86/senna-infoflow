@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T04:27:56+00:00_
+_Generiert: 2026-09-28T04:46:16+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+15 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -70,6 +70,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder nicht näher spezifizierten Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **バッファロー製Wi-Fi製品における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94863997/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-28T13:30:00+09:00`, fetched `2026-09-28T04:45:44+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96520526/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-28T09:15:00+09:00`, fetched `2026-09-28T01:01:04+00:00`
