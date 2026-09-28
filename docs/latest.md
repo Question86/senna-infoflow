@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T21:32:06+00:00_
+_Generiert: 2026-09-28T21:41:24+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
+95 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる** — Score 16, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/09/27/120017)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-27T07:55:43+00:00`, fetched `2026-09-28T21:40:52+00:00`
+  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: はじめに Codexが修正している途中で、「なぜ、その判定を変えるのか」と聞きたくなることがあります。理由を知りたいだけなのか、その変更を止めてほしいのか。途中で送る一文にも、別の目的があります。 長い仕事を続ける /goal、途中の質問を分ける /side、実行中の指示変更と予約送信。それぞれ、作業を続ける条件、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 2 km SW of Sakai, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty7u)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-28T20:19:59.624+00:00`, fetched `2026-09-28T20:20:53+00:00`
@@ -137,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96520526/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-28T09:15:00+09:00`, fetched `2026-09-28T01:01:04+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
