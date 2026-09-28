@@ -1445,6 +1445,26 @@
     "id": "9c13ba0a8344220cad41"
   },
   {
+    "title": "Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them",
+    "url": "https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-28T00:00:00+00:00",
+    "fetched_at": "2026-09-28T14:37:56+00:00",
+    "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a99ff33adbdd1fa801cc"
+  },
+  {
     "title": "Discount window modernization and treasury market functioning",
     "url": "https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning",
     "source": "BIS Central Bankers Speeches",
@@ -1526,6 +1546,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "91fd6af5f3c0cf4f9393"
+  },
+  {
+    "title": "We are raising the policy rate to dampen inflation",
+    "url": "https://www.bis.org/speeches/20260928-we-are-raising-policy-rate-dampen-inflation",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-28T00:00:00+00:00",
+    "fetched_at": "2026-09-28T14:37:56+00:00",
+    "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 24 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "26732f3b884785e8a797"
   },
   {
     "title": "IFC joins Boost’s cap table with US$20M bet on digital lending",

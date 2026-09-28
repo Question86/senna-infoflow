@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T14:24:18+00:00_
+_Generiert: 2026-09-28T14:38:25+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+80 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -266,6 +266,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore is putting a clearer name and sharper frame around one of its most important industrial bets. On Friday, the city-state announced SG Semiconductor, a national identity for its semiconductor sector, jointly developed by A*STAR and the Singapore Economic Development Board (EDB). The move is not a new agency or a standalone company. Rather, it […] The post A*STAR and EDB unveil SG Semiconductor as partnership…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-28T00:00:00+00:00`, fetched `2026-09-28T14:37:56+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Discount window modernization and treasury market functioning** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-09-28T00:00:00+00:00`, fetched `2026-09-28T14:00:06+00:00`
@@ -283,15 +292,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf Microsoft-SharePoint-Schwachstelle** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-28T12:37:00.000+00:00`, fetched `2026-09-28T12:56:58+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die CISA warnt vor beobachteten Angriffen auf eine hochriskante SharePoint-Lücke und auf Mikrotik-Router.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
