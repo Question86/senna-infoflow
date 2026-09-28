@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T11:31:26+00:00",
+  "generated_at": "2026-09-28T11:43:25+00:00",
   "topics": {
     "ai": [
       {
@@ -221,6 +221,20 @@
         "url": "https://jvn.jp/vu/JVNVU94863997/"
       },
       {
+        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:41:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026"
+      },
+      {
+        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:41:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1759"
+      },
+      {
         "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-28T10:46:29+00:00",
@@ -247,20 +261,6 @@
         "published_at": "2026-09-28T10:36:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3601"
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3599"
-      },
-      {
-        "title": "[NEU] [mittel] Coolify: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3600"
       }
     ],
     "general": [
