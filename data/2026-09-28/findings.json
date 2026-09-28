@@ -836,6 +836,27 @@
     "id": "3c68e1121dc0b994a917"
   },
   {
+    "title": "Artificial intelligence - the new frontiers of risk",
+    "url": "https://www.bis.org/speeches/20260928-artificial-intelligence-new-frontiers-risk",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-28T00:00:00+00:00",
+    "fetched_at": "2026-09-28T14:23:46+00:00",
+    "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, to the Association des avocats en droit boursier, Paris, 9 September 2026.",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d2fe314a2e7ba593ed9b"
+  },
+  {
     "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
     "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
     "source": "CERT-FR Avis de sécurité",
