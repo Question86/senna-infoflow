@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T21:11:25+00:00_
+_Generiert: 2026-09-28T21:32:06+00:00_
 
 ## Kurzlage
 
-92 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
+94 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder nicht näher spezifizierten Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Are you a Codex Original?** — Score 16, observation — [Quelle](https://openai.com/form/codex-originals)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-28T00:00:00+00:00`, fetched `2026-09-28T21:31:36+00:00`
+  - Treffer: OpenAI, Public Health, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 2 km SW of Sakai, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty7u)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-28T20:19:59.624+00:00`, fetched `2026-09-28T20:20:53+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)** — Score 14, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2024-04-12T00:00:00+00:00`, fetched `2026-09-28T08:55:38+00:00`
-  - Treffer: alerte, attaque, CERT-FR, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)
-  - Kurz: \[Mise à jour du 10 mai 2024\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information de la victime et...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
