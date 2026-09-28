@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-28T11:36:17Z",
+  "generated_at": "2026-09-28T11:48:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 11,
+      "krass": 13,
       "strong": 17,
-      "watch": 12
+      "watch": 10
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 25,
-      "watch": 12
+      "strong": 27,
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:30+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T08:36:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-12T00:00:00+00:00",
-      "age_days": 899.48,
+      "age_days": 899.49,
       "topics": [
         "ai",
         "security"
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:46:29+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3603",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:41:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3602",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:41:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -222,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3601",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:36:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -270,7 +270,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3596",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:26:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -294,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3216",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T09:56:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -318,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T09:56:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -342,7 +342,7 @@
       "url": "https://jvn.jp/vu/JVNVU96520526/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T09:15:00+09:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -387,6 +387,58 @@
         "security high-signal: rce"
       ],
       "summary": "An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes…"
+    },
+    {
+      "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T11:41:30+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1759",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T11:41:30+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um Code auszuführen und um einen Denial of Service Zustand herbeizuführen."
     },
     {
       "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -446,7 +498,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3597",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:26:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -473,7 +525,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3594",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:21:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -499,7 +551,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:21:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -525,7 +577,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -551,7 +603,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:29+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -576,7 +628,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T04:11:29+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -601,7 +653,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 101.4,
+      "age_days": 101.41,
       "topics": [
         "ai"
       ],
@@ -630,7 +682,7 @@
       "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-28T10:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -657,7 +709,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-28T07:01:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -707,7 +759,7 @@
       "url": "https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T03:57:39+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -732,7 +784,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T09:30:37.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -757,7 +809,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T04:54:07.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -782,7 +834,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:52:40.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -807,7 +859,7 @@
       "url": "https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T06:38:11+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -833,7 +885,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-18T00:00:00+00:00",
-      "age_days": 10.48,
+      "age_days": 10.49,
       "topics": [
         "general"
       ],
@@ -857,7 +909,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T06:35:18.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -882,7 +934,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T06:02:20.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -907,7 +959,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T05:48:28.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -932,7 +984,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:39:27.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -957,30 +1009,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T05:07:12.040+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-28 04:41:33 UTC 2026-09-28 04:41:33 UTC at epicenter Location 57.650°S 25.347°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "M 4.6 - northwest of the Kuril Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2w",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-28T04:57:49.040+00:00",
       "age_days": 0.28,
       "topics": [
         "disaster"
@@ -998,31 +1026,7 @@
       "why": [
         "early terms: earthquake"
       ],
-      "summary": "Time 2026-09-28 04:42:56 UTC 2026-09-28 04:42:56 UTC at epicenter Location 49.026°N 151.571°E Depth 258.71 km (160.75 mi)"
-    },
-    {
-      "title": "M 5.1 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-28T03:57:02.040+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)"
+      "summary": "Time 2026-09-28 04:41:33 UTC 2026-09-28 04:41:33 UTC at epicenter Location 57.650°S 25.347°W Depth 35.00 km (21.75 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
