@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T22:10:03+00:00_
+_Generiert: 2026-09-28T22:23:44+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
+96 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
 
 ## Priorität Hoch
 
