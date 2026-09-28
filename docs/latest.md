@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T10:24:13+00:00_
+_Generiert: 2026-09-28T10:36:07+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+53 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
