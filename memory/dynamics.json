@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-28T10:07:57Z",
+  "generated_at": "2026-09-28T10:29:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 6,
-      "strong": 10,
+      "krass": 8,
+      "strong": 11,
       "watch": 12,
-      "quiet": 12
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 13,
+      "strong": 16,
       "watch": 12,
-      "quiet": 12
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:30+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T08:36:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-12T00:00:00+00:00",
-      "age_days": 899.42,
+      "age_days": 899.44,
       "topics": [
         "ai",
         "security"
@@ -126,7 +126,7 @@
       "url": "https://jvn.jp/vu/JVNVU94863997/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T13:30:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3216",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T09:56:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -174,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T09:56:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://jvn.jp/vu/JVNVU96520526/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T09:15:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-28T06:39:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -245,11 +245,63 @@
       "summary": "An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes…"
     },
     {
+      "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3594",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T10:21:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in vm2 ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[NEU] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T10:21:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Sicher…"
+    },
+    {
       "title": "[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -275,7 +327,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -300,7 +352,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T04:11:29+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -325,7 +377,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 101.34,
+      "age_days": 101.35,
       "topics": [
         "ai"
       ],
@@ -344,17 +396,44 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 101.3d old signal",
+        "aging penalty -8.0 for 101.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
+      "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-09-28T10:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Samsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies."
     },
     {
       "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-28T07:01:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -379,7 +458,7 @@
       "url": "https://github.com/vercel-labs/scriptc",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-28T06:39:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -404,7 +483,7 @@
       "url": "https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T03:57:39+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -429,7 +508,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T09:30:37.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -454,7 +533,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T04:54:07.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -479,7 +558,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty27",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:52:40.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -504,7 +583,7 @@
       "url": "https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T06:38:11+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -530,7 +609,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-18T00:00:00+00:00",
-      "age_days": 10.42,
+      "age_days": 10.44,
       "topics": [
         "general"
       ],
@@ -554,7 +633,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T06:35:18.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -579,7 +658,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T06:02:20.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -604,7 +683,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T05:48:28.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -629,7 +708,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:39:27.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -654,7 +733,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T05:07:12.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -678,7 +757,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T04:57:49.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -702,7 +781,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T03:57:02.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -726,7 +805,7 @@
       "url": "https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T05:28:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -750,7 +829,7 @@
       "url": "https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T07:53:24+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -776,7 +855,7 @@
       "url": "https://e27.co/ifc-joins-boosts-cap-table-with-us20m-bet-on-digital-lending-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T08:07:42+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -800,7 +879,7 @@
       "url": "https://www.digital.go.jp/about/member/akamatsuken",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-28T07:30:45+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -824,7 +903,7 @@
       "url": "https://www.digital.go.jp/contact",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-28T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -848,7 +927,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-18T00:00:00+00:00",
-      "age_days": 10.42,
+      "age_days": 10.44,
       "topics": [
         "ai"
       ],
@@ -870,11 +949,35 @@
       "summary": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
     },
     {
+      "title": "タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社",
+      "url": "https://www.park24.co.jp/news/2026/09/20260928-1.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-28T07:35:53+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "2026年09月28日 2026年9月25日に公表いたしました「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第1報）」に関し、その後の調査により現時点で判明している内容をご報告いたします。 ※第1報はこちら 「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第..."
+    },
+    {
       "title": "よく冷えるが価格は約2億7000万円で重さ約13kg、24金製の特注ミニPCが爆誕",
       "url": "https://gigazine.net/news/20260928-24-carat-gold-mini-pc/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-28T05:05:11+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -898,7 +1001,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2143595.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-28T01:08:53+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -916,104 +1019,6 @@
         "no strong comparative reason"
       ],
       "summary": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」"
-    },
-    {
-      "title": "中国、治安維持向けロボット開発 警棒や盾装備し威圧感、試験運用（共同通信） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/31c264df300eb840c4086b9a4e0ef6e140ff44ad",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-28T01:08:01+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "【北京共同】中国で暴動対策など治安部門での活用を見据えた人型ロボットの開発が進んでいる。北京で8月に開かれた「世界ロボット大会」では、警棒や盾を装備した威圧感のある人型ロボットが登場。開発関係者によると、現在は試験運用の段階で、将来的には武装警察と共に警備やパトロールをすることを想定している。 【..."
-    },
-    {
-      "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-27T22:17:34+00:00",
-      "age_days": 0.49,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散..."
-    },
-    {
-      "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
-      "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-28T01:30:40+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms like Grab, Sea Group and GoTo have since been synonymous wi…"
-    },
-    {
-      "title": "The credential trap: Why outsiders are winning in signal intelligence",
-      "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-28T03:00:23+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation o…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
