@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T15:18:06+00:00",
+  "generated_at": "2026-09-28T15:33:26+00:00",
   "topics": {
     "ai": [
       {
@@ -293,6 +293,13 @@
     ],
     "general": [
       {
+        "title": "M 4.9 - 124 km SE of Pondaguitan, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-28T15:28:15.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5m"
+      },
+      {
         "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
         "source": "CERT-FR Avis de sécurité",
         "published_at": "2026-09-18T00:00:00+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-09-28T06:02:20.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38"
-      },
-      {
-        "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-28T05:48:28.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33"
       }
     ],
     "github": [
