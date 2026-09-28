@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T10:36:07+00:00_
+_Generiert: 2026-09-28T10:47:09+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+57 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年09月28日 2026年9月25日に公表いたしました「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第1報）」に関し、その後の調査により現時点で判明している内容をご報告いたします。 ※第1報はこちら 「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第2報） | カーシェアリングのタイムズカー** — Score 5, observation — [Quelle](https://share.timescar.jp/news/2026/0928/1815.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T07:07:10+00:00`, fetched `2026-09-28T10:46:41+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年9月25日に公表いたしました『「タイムズカーWebサイト」への不正アクセスによる個人情報漏えいの可能性について（第1報）』に関し、その後の調査により現時点で判明している内容をご報告いたします。 第1報はこちら 会員の皆様ならびに関係者の皆様に、多大なるご迷惑とご心配をお掛けしておりますことを、改めて...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **よく冷えるが価格は約2億7000万円で重さ約13kg、24金製の特注ミニPCが爆誕** — Score 5, observation — [Quelle](https://gigazine.net/news/20260928-24-carat-gold-mini-pc/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-28T05:05:11+00:00`, fetched `2026-09-28T09:35:40+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: フランスのPCメーカーKubbが販売するファンレスミニPC「Kubb Fanless」を24金の無垢材で作った「特注モデル」が製作されました。価格は約170万ドル(約2億6800万円)で、重量は約13kg。もちろん見た目だけではなく、金は一般的なアルミニウムより熱伝導率が高いため、ファンを使わないミニPCにとって冷却性能の向上という...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」** — Score 5, observation — [Quelle](https://gendai.media/articles/-/171505)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T01:24:39+00:00`, fetched `2026-09-28T03:33:41+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
