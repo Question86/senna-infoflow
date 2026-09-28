@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T06:40:12+00:00_
+_Generiert: 2026-09-28T07:13:56+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+30 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 05:42:21 UTC 2026-09-28 05:42:21 UTC at epicenter Location 21.237°S 168.395°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-28T07:01:00.000+00:00`, fetched `2026-09-28T07:13:26+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Updates schließen 19 Lücken im Netzwerkanalysetool Wireshark. Über präparierte Profile kann Schadcode auf PCs gelangen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/contact)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-28T06:00:00+00:00`, fetched `2026-09-28T06:39:37+00:00`
@@ -194,14 +203,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/28/2000001592/)
+- **中国、治安維持向けロボット開発 警棒や盾装備し威圧感、試験運用（共同通信） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/31c264df300eb840c4086b9a4e0ef6e140ff44ad)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-27T22:17:34+00:00`, fetched `2026-09-28T01:01:04+00:00`
+  - Zeit: published `2026-09-28T01:08:01+00:00`, fetched `2026-09-28T07:13:26+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...
+  - Kurz: 【北京共同】中国で暴動対策など治安部門での活用を見据えた人型ロボットの開発が進んでいる。北京で8月に開かれた「世界ロボット大会」では、警棒や盾を装備した威圧感のある人型ロボットが登場。開発関係者によると、現在は試験運用の段階で、将来的には武装警察と共に警備やパトロールをすることを想定している。 【...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **vercel-labs/scriptc** — Score 5, observation — [Quelle](https://github.com/vercel-labs/scriptc)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -230,7 +239,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

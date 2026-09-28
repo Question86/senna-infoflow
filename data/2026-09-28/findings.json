@@ -582,6 +582,26 @@
     "id": "9c13ba0a8344220cad41"
   },
   {
+    "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
+    "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-28T07:01:00.000+00:00",
+    "fetched_at": "2026-09-28T07:13:26+00:00",
+    "summary": "Updates schließen 19 Lücken im Netzwerkanalysetool Wireshark. Über präparierte Profile kann Schadcode auf PCs gelangen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "91fd6af5f3c0cf4f9393"
+  },
+  {
     "title": "ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました",
     "url": "https://www.digital.go.jp/contact",
     "source": "Japan Digital Agency News RSS",
@@ -642,6 +662,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d581512a584f69233145"
+  },
+  {
+    "title": "中国、治安維持向けロボット開発 警棒や盾装備し威圧感、試験運用（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/31c264df300eb840c4086b9a4e0ef6e140ff44ad",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:08:01+00:00",
+    "fetched_at": "2026-09-28T07:13:26+00:00",
+    "summary": "【北京共同】中国で暴動対策など治安部門での活用を見据えた人型ロボットの開発が進んでいる。北京で8月に開かれた「世界ロボット大会」では、警棒や盾を装備した威圧感のある人型ロボットが登場。開発関係者によると、現在は試験運用の段階で、将来的には武装警察と共に警備やパトロールをすることを想定している。 【...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5031003dc6263f0a65bc"
   },
   {
     "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
