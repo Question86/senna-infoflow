@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T23:09:36+00:00_
+_Generiert: 2026-09-29T23:22:34+00:00_
 
 ## Kurzlage
 
-102 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
+104 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -274,6 +274,15 @@ _Generiert: 2026-09-29T23:09:36+00:00_
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
   - Kurz: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it's designed for researchers, drone developers, and serious SDR enthusiasts who want to explore and e…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-29T18:51:02+00:00`, fetched `2026-09-29T23:22:04+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bowman, Opening Remarks** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-09-29T15:00:00+00:00`, fetched `2026-09-29T15:08:26+00:00`
@@ -336,15 +345,6 @@ _Generiert: 2026-09-29T23:09:36+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ChatGPTの共同開発者であるがディオゴ・アルメイダ氏がCEOを務めるTypeSafe AIが開発した、意思決定モデルの「Jev」と同じように、リクエスト形式でコードに組み込むことができる小型の意思決定モデルが「Jeff」です。RTX PRO 6000の場合は1回の意思決定当たり約22ミリ秒、 AppleのM4 Maxの場合は1回の意思決定当たり約2...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-29T12:38:14+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
