@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T13:49:44+00:00_
+_Generiert: 2026-09-29T13:57:36+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+87 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-09-29T13:49:44+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].
 - **GDACS: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001330)
   - Quelle: GDACS
   - Zeit: ``

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T13:49:44+00:00",
+  "generated_at": "2026-09-29T13:57:36+00:00",
   "topics": {
     "ai": [
       {
@@ -140,11 +140,11 @@
         "url": "https://www.bis.org/speeches/20260928-opening-speech-12th-edition-ermas-conference"
       },
       {
-        "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T05:24:48+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/1982-ventures-joins-limiteds-us18-5m-seed-round-to-simplify-cross-border-business-banking-20260929/"
+        "title": "Introductory remarks by the Governing Board, Swiss National Bank news conference",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-29T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20260929-introductory-remarks-governing-board-swiss-national-bank-news-conference"
       }
     ],
     "security": [
