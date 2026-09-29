@@ -139,6 +139,30 @@
     "id": "557db71f64d47b2ba7db"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] Zabbix: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3632",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:46:29+00:00",
+    "fetched_at": "2026-09-29T11:50:26+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Zabbix ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "62194845f24406415734"
+  },
+  {
     "title": "[NEU] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3626",
     "source": "BSI CERT-Bund Security Advisories",
@@ -345,6 +369,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4e3665ee545360827654"
+  },
+  {
+    "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3629",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:41:29+00:00",
+    "fetched_at": "2026-09-29T11:50:26+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Froxlor ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und möglicherweise erweiterte Berechtigungen zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7761e31d9c89f88a8a07"
+  },
+  {
+    "title": "[NEU] [hoch] DENX U-Boot: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3631",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:41:29+00:00",
+    "fetched_at": "2026-09-29T11:50:26+00:00",
+    "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in DENX U-Boot ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f0329ed650f3b57c7562"
+  },
+  {
+    "title": "[NEU] [hoch] Apache Airflow Providers: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:41:29+00:00",
+    "fetched_at": "2026-09-29T11:50:26+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Apache Airflow Providern ausnutzen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02507ef5e284f17b03fc"
   },
   {
     "title": "[NEU] [mittel] FasterXML Jackson Databind: Schwachstelle ermöglicht Denial of Service",
@@ -1030,6 +1123,43 @@
     "id": "89ba03a5f81b3d2b1da2"
   },
   {
+    "title": "M 4.7 - 100 km W of Petrolia, CA",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:50:38.625+00:00",
+    "fetched_at": "2026-09-29T11:50:26+00:00",
+    "summary": "ShakeMap - II DYFI? - II Time 2026-09-29 11:36:37 UTC 2026-09-29 11:36:37 UTC at epicenter Location 40.433°N 125.460°W Depth 2.28 km (1.42 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3dba9e60a1ff2a7bf362"
+  },
+  {
     "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1085,6 +1215,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ecdd3f9de85cad51be68"
+  },
+  {
+    "title": "M 4.8 - 98 km SW of Port-Vila, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybs",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:45:45.040+00:00",
+    "fetched_at": "2026-09-29T11:50:26+00:00",
+    "summary": "Time 2026-09-29 11:27:48 UTC 2026-09-29 11:27:48 UTC at epicenter Location 18.231°S 167.545°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0221f16508a817781704"
   },
   {
     "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
