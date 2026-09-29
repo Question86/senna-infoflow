@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T23:30:53+00:00_
+_Generiert: 2026-09-29T23:39:47+00:00_
 
 ## Kurzlage
 
-105 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
+106 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
 
 ## Priorität Hoch
 

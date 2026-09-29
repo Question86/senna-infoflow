@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T23:30:53+00:00",
-  "run_id": "2026-09-29T23:30:53+00:00",
+  "generated_at": "2026-09-29T23:39:47+00:00",
+  "run_id": "2026-09-29T23:39:47+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 105
+      "configured_public_sources_only": 106
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 105,
-    "displayed_findings": 105,
+    "today_file_total": 106,
+    "displayed_findings": 106,
     "high": 1,
     "medium": 47,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -2262,6 +2262,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "beec5877b6713caa5a52"
+      },
+      {
+        "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-29T21:36:55+00:00",
+        "fetched_at": "2026-09-29T23:39:17+00:00",
+        "summary": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ad7f0ccdbeec07077ca0"
       },
       {
         "title": "「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文",
@@ -4809,6 +4830,27 @@
       "id": "beec5877b6713caa5a52"
     },
     {
+      "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T21:36:55+00:00",
+      "fetched_at": "2026-09-29T23:39:17+00:00",
+      "summary": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ad7f0ccdbeec07077ca0"
+    },
+    {
       "title": "「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文",
       "url": "https://gigazine.net/news/20260930-bend-lang/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5122,13 +5164,13 @@
   ],
   "new_findings": [
     {
-      "title": "IIJ Bootcamp 2026 – AI時代にハンズオン研修で学んでほしいこと | IIJ Engineers Blog",
-      "url": "https://eng-blog.iij.ad.jp/archives/37642",
+      "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-28T05:07:01+00:00",
-      "fetched_at": "2026-09-29T23:30:20+00:00",
-      "summary": "IIJ ネットワークサービス事業本部 ネットワーク本部 基盤プロダクト開発部 所属。2015年に新卒入社。Webアプリケーションの実装・運用を主務としつつ色々やってる人です。 はじめに IIJでは毎年7月から8月にかけて、初心者向けの研修として「IIJ Bootcamp」を有志で開催しており、今年でなんと8年目になります。 もちろ...",
+      "published_at": "2026-09-29T21:36:55+00:00",
+      "fetched_at": "2026-09-29T23:39:17+00:00",
+      "summary": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -5140,7 +5182,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c26b89787bc0e22ecc27"
+      "id": "ad7f0ccdbeec07077ca0"
     }
   ],
   "source_errors": [],
