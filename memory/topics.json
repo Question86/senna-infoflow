@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T17:57:57+00:00",
+  "generated_at": "2026-09-29T18:13:41+00:00",
   "topics": {
     "ai": [
       {
@@ -33,11 +33,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3617"
       },
       {
+        "title": "DevDay 2026 Recap",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-29T10:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/devday-2026-recap"
+      },
+      {
         "title": "[NEU] [hoch] Apache Airflow Providers: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-29T11:41:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630"
+      },
+      {
+        "title": "Introducing GPT-6.1 Sol",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-29T10:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol"
       },
       {
         "title": "M 5.4 - 99 km SSE of Pangai, Tonga",
@@ -59,20 +73,6 @@
         "published_at": "2026-09-29T01:00:42+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/"
-      },
-      {
-        "title": "byoungd/up",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/byoungd/up"
-      },
-      {
-        "title": "NawfalMotii79/PLFM_RADAR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
       }
     ],
     "economy": [
@@ -249,18 +249,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614"
       },
       {
+        "title": "DevDay 2026 Recap",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-29T10:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/devday-2026-recap"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rhc): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-29T07:46:29+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605"
-      },
-      {
-        "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96968110/"
       }
     ],
     "geopolitics": [
