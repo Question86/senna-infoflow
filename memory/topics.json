@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T10:48:38+00:00",
+  "generated_at": "2026-09-29T10:55:07+00:00",
   "topics": {
     "ai": [
       {
@@ -258,6 +258,13 @@
         "url": "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/"
       },
       {
+        "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-29T10:47:49.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk"
+      },
+      {
         "title": "M 4.8 - South Sandwich Islands region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-29T06:58:22.040+00:00",
@@ -312,13 +319,6 @@
         "published_at": "2026-09-29T03:51:35+00:00",
         "relevance_score": 5,
         "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html"
-      },
-      {
-        "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-29T00:17:38+00:00",
-        "relevance_score": 5,
-        "url": "https://tech-blog.monotaro.com/entry/2026/09/29/090000"
       }
     ],
     "github": [
