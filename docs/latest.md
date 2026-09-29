@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T19:23:07+00:00_
+_Generiert: 2026-09-29T19:33:05+00:00_
 
 ## Kurzlage
 
-98 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
+99 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ _Generiert: 2026-09-29T19:23:07+00:00_
   - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_korea: South Korea, Samsung (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconductor supply chain. In two filings with the Korea Exchange dated September 28, the Samsung Electronics affiliate said it will spend about […] The post Vietnam gai…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Repository custom runner settings for Dependabot** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-29T19:10:00+00:00`, fetched `2026-09-29T19:32:37+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GPT-6.1 Sol in GitHub Copilot** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-29T17:02:27+00:00`, fetched `2026-09-29T17:44:38+00:00`
