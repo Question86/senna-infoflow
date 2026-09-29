@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T01:16:45+00:00_
+_Generiert: 2026-09-29T01:44:54+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+5 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And who should be responsible when an algorithm causes harm? Britain’s latest AI debate suggests […] The post AI governance is moving from promises to proof appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How we will do better for Australia** — Score 12, observation — [Quelle](https://openai.com/index/how-we-will-do-better-for-australia)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-29T01:00:00+00:00`, fetched `2026-09-29T01:44:19+00:00`
+  - Treffer: OpenAI, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
+  - Kurz: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/special/2143427.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-28T22:05:37+00:00`, fetched `2026-09-29T01:16:17+00:00`
@@ -116,3 +125,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
