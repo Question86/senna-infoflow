@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T14:26:34+00:00_
+_Generiert: 2026-09-29T14:38:33+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+88 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
