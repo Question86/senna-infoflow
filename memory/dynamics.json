@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-29T08:54:56Z",
+  "generated_at": "2026-09-29T09:04:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 7,
-      "strong": 8,
+      "strong": 11,
       "watch": 6,
-      "quiet": 18
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 14,
+      "strong": 17,
       "watch": 6,
-      "quiet": 18
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T07:36:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -71,11 +71,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia and Safari ausnutzen,, um beliebigen Code mit Root- oder Kernel-Rechten auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, auf Daten zuzugreifen, diese zu manipulieren oder offenzulegen…"
     },
     {
+      "title": "[UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T08:49:43+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "Pgpool-IIにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN22475874/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T14:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -95,11 +121,59 @@
       "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [hoch] Rancher: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3541",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T08:49:43+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rancher ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Exim: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3475",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T08:49:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Exim ausnutzen, um Sicherheitsvorkehrungen zu umgehen, den Speicher zu beschädigen, einen Denial-of-Service-Zustand herbeizuführen oder Daten offenzulegen und zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2906",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T08:48:26+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -123,7 +197,7 @@
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:24:16+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -151,7 +225,7 @@
       "url": "https://github.com/cs341-illinois/coursebook",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:24:16+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -179,7 +253,7 @@
       "url": "https://jvn.jp/vu/JVNVU96968110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T15:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -205,7 +279,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T09:15:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -231,7 +305,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:37:41+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security",
         "macro",
@@ -283,7 +357,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 102.29,
+      "age_days": 102.3,
       "topics": [
         "ai"
       ],
@@ -342,7 +416,7 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-29T01:00:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security"
@@ -367,7 +441,7 @@
       "url": "https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-29T06:31:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -392,7 +466,7 @@
       "url": "https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-29T05:57:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -417,7 +491,7 @@
       "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T07:15:44+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -444,7 +518,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T04:33:51.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -469,7 +543,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T03:39:38.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -571,7 +645,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T06:58:22.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -595,7 +669,7 @@
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-28T19:00:00+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -644,7 +718,7 @@
       "url": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-29T06:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -668,7 +742,7 @@
       "url": "https://www.digital.go.jp/policies/digital_promotion_staff",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-29T06:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -741,7 +815,7 @@
       "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T01:00:42+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -766,7 +840,7 @@
       "url": "https://github.com/byoungd/up",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:24:16+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -791,7 +865,7 @@
       "url": "https://tech-blog.monotaro.com/entry/2026/09/29/090000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T00:17:38+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -815,7 +889,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-28T22:05:37+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -867,7 +941,7 @@
       "url": "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-29T06:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -892,7 +966,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 101.25,
+      "age_days": 101.26,
       "topics": [
         "general"
       ],
@@ -917,7 +991,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 101.25,
+      "age_days": 101.26,
       "topics": [
         "general"
       ],
@@ -942,7 +1016,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 101.25,
+      "age_days": 101.26,
       "topics": [
         "ai"
       ],
@@ -963,82 +1037,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々",
-      "url": "https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-29T02:40:12+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "こんにちは。ライターの西村です。 最近、僕がAIで作ったwebアプリについて、プログラマーでライターの三土さん、デイリーポータルZ編集長の林さん、編集の石川さんに話を聞いてもらいました。 それではどうぞ。 まったく何もわからなくてもなんか作れるのすげえな 左から、筆者の西村、石川さん、三土さん、林さんです..."
-    },
-    {
-      "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
-      "url": "https://note.com/rk611/n/n56e6db823eb1",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-28T03:45:29+00:00",
-      "age_days": 1.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "先日会食で聞いた怖い話。 ある企業から依頼している外注さんが、AIを使い始めてから明らかにクオリティが下がっており、AIを使うなとも言いづらいし、修正依頼するもいまいち噛み合わず、やりづらいので終了しようと思う、という話でした。 気になったのはその先で、話を聞く限り、どうもその外注の方はAI使ってクオリ..."
-    },
-    {
-      "title": "Zuckerberg’s Muse Charm doesn’t care about your ad budget",
-      "url": "https://e27.co/zuckerbergs-muse-charm-doesnt-care-about-your-ad-budget-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T03:00:11+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: chain",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "This week at Meta Connect, Mark Zuckerberg held up something that looked like a toy. The Muse Charm is a keychain-sized gadget with a little animated avatar on its screen. You press it, talk to it, and your Muse agent gets to work. Meta says it will ship by December. The Muse agent behind it […] The post Zuckerberg’s…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NoMachine: Schwachstelle ermöglicht Codeausführung und Privilegieneskalation” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
