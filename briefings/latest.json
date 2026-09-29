@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T19:33:05+00:00",
-  "run_id": "2026-09-29T19:33:05+00:00",
+  "generated_at": "2026-09-29T19:42:27+00:00",
+  "run_id": "2026-09-29T19:42:27+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 99,
     "displayed_findings": 99,
     "high": 1,
@@ -4802,30 +4802,7 @@
       "id": "8c1e2d18022a183f2362"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Repository custom runner settings for Dependabot",
-      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-29T19:10:00+00:00",
-      "fetched_at": "2026-09-29T19:32:37+00:00",
-      "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4dedaf62ba2315e5d45a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
