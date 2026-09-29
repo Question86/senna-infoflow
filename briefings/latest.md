@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T05:54:11+00:00_
+_Generiert: 2026-09-29T05:59:36+00:00_
 
 ## Kurzlage
 
@@ -29,30 +29,8 @@ _Generiert: 2026-09-29T05:54:11+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
   - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. WordPress Core Remote File Inclusion Vulnerability
-- **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Thailand
-- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Mexico
-- **GDACS: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001330)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Volcanic eruption is on going for Etna in Italy** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000150)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Etna in Italy
-- **GDACS: Green notification for tropical cyclone RACHEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001329)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone RACHEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:57.78km) in Papua New Guinea 26/09/2026 14:08 UTC, 170 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568187)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:57.78km) in Papua New Guinea 26/09/2026 14:08 UTC, 170 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fe09333da50>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
