@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T17:33:54+00:00_
+_Generiert: 2026-09-29T17:45:09+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+92 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_korea: South Korea, Samsung (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconductor supply chain. In two filings with the Korea Exchange dated September 28, the Samsung Electronics affiliate said it will spend about […] The post Vietnam gai…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GPT-6.1 Sol in GitHub Copilot** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-29T17:02:27+00:00`, fetched `2026-09-29T17:44:38+00:00`
+  - Treffer: AI Agents, Copilot, GitHub, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Can Bitcoin hold US$82,000? Inside the security fear and macro storm** — Score 18, risk — [Quelle](https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-29T02:37:41+00:00`, fetched `2026-09-29T02:48:00+00:00`
