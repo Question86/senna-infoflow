@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T19:08:56+00:00_
+_Generiert: 2026-09-29T19:23:07+00:00_
 
 ## Kurzlage
 
-97 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
+98 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -310,6 +310,15 @@ _Generiert: 2026-09-29T19:08:56+00:00_
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速** — Score 11, observation — [Quelle](https://gigazine.net/news/20260929-jeff/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-29T13:04:44+00:00`, fetched `2026-09-29T19:22:35+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ChatGPTの共同開発者であるがディオゴ・アルメイダ氏がCEOを務めるTypeSafe AIが開発した、意思決定モデルの「Jev」と同じように、リクエスト形式でコードに組み込むことができる小型の意思決定モデルが「Jeff」です。RTX PRO 6000の場合は1回の意思決定当たり約22ミリ秒、 AppleのM4 Maxの場合は1回の意思決定当たり約2...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 100 km W of Petrolia, CA** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-29T11:50:38.625+00:00`, fetched `2026-09-29T11:50:26+00:00`
@@ -327,15 +336,6 @@ _Generiert: 2026-09-29T19:08:56+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The open-source AI platforms vying to become China’s Hugging Face** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-29T10:00:00+00:00`, fetched `2026-09-29T10:05:29+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
