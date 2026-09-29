@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T04:59:40+00:00",
+  "generated_at": "2026-09-29T05:19:36+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-29T02:37:41+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/"
+      },
+      {
+        "title": "Pgpool-IIにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-29T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN22475874/"
       },
       {
         "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
