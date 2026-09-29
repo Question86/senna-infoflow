@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T11:00:40+00:00",
+  "generated_at": "2026-09-29T11:19:57+00:00",
   "topics": {
     "ai": [
       {
@@ -170,11 +170,11 @@
         "url": "https://jvn.jp/jp/JVN22475874/"
       },
       {
-        "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
+        "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
+        "published_at": "2026-09-29T11:16:32+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3547"
       }
     ],
     "geopolitics": [
