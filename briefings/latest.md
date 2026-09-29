@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T02:02:22+00:00_
+_Generiert: 2026-09-29T02:30:45+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -107,6 +107,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
   - Kurz: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **What I have learned watching foreign tech companies build in Singapore** — Score 9, opportunity — [Quelle](https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-29T02:30:05+00:00`, fetched `2026-09-29T02:30:13+00:00`
+  - Treffer: APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of grants, tax incentives and investment support available to companies building substantive operations here. But there is […] The post What I have learned watchi…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由** — Score 7, observation — [Quelle](https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T23:36:42+00:00`, fetched `2026-09-29T02:30:13+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/special/2143427.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

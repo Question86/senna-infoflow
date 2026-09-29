@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T02:02:22+00:00_
+_Generated: 2026-09-29T02:30:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `8`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-09-29T02:02:22+00:00_
 - url: https://openai.com/index/how-we-will-do-better-for-australia
 - summary: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
 
-### 5. 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-28T22:05:37+00:00`
-- url: https://internet.watch.impress.co.jp/docs/special/2143427.html
-- summary: 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？
+### 5. What I have learned watching foreign tech companies build in Singapore
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-09-29T02:30:05+00:00`
+- url: https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/
+- summary: When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of…
 
 END OF DOCUMENT

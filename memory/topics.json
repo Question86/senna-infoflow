@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T02:02:22+00:00",
+  "generated_at": "2026-09-29T02:30:45+00:00",
   "topics": {
     "security": [
       {
@@ -35,6 +35,13 @@
         "url": "https://openai.com/index/how-we-will-do-better-for-australia"
       },
       {
+        "title": "What I have learned watching foreign tech companies build in Singapore",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-29T02:30:05+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/"
+      },
+      {
         "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-28T03:45:29+00:00",
@@ -56,6 +63,22 @@
         "published_at": "2026-09-29T01:00:00+00:00",
         "relevance_score": 12,
         "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+      },
+      {
+        "title": "What I have learned watching foreign tech companies build in Singapore",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-29T02:30:05+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/"
+      }
+    ],
+    "github": [
+      {
+        "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-28T23:36:42+00:00",
+        "relevance_score": 7,
+        "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu"
       }
     ],
     "general": [
