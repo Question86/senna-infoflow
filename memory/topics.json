@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T07:24:47+00:00",
+  "generated_at": "2026-09-29T07:42:43+00:00",
   "topics": {
     "ai": [
       {
@@ -133,6 +133,13 @@
         "published_at": "2026-09-29T09:15:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU99151548/"
+      },
+      {
+        "title": "[UPDATE] [hoch] NoMachine: Schwachstelle ermöglicht Codeausführung und Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T07:36:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891"
       },
       {
         "title": "[UPDATE] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",

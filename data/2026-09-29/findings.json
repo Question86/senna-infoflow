@@ -133,6 +133,29 @@
     "id": "c0acaaaa49280ffaae93"
   },
   {
+    "title": "[UPDATE] [hoch] NoMachine: Schwachstelle ermöglicht Codeausführung und Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T07:36:29+00:00",
+    "fetched_at": "2026-09-29T07:42:11+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in NoMachine ausnutzen, um möglicherweise beliebigen Code auszuführen, Daten offenzulegen oder zu verändern oder andere, nicht näher genannte Auswirkungen zu erreichen. Eine Privilegieneskalation auf root ist ebenfalls möglich.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "45102bab8fa50d860e31"
+  },
+  {
     "title": "[UPDATE] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352",
     "source": "BSI CERT-Bund Security Advisories",
