@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T02:30:45+00:00",
-  "run_id": "2026-09-29T02:30:45+00:00",
+  "generated_at": "2026-09-29T02:48:31+00:00",
+  "run_id": "2026-09-29T02:48:31+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,39 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 7,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
+        "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-29T02:37:41+00:00",
+        "fetched_at": "2026-09-29T02:48:00+00:00",
+        "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The post Can Bitcoin hold US$82,000? Inside the security fear and macro storm appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Security"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a08d6038bc10a913b92a"
+      },
       {
         "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
         "url": "https://jvn.jp/vu/JVNVU99151548/",
@@ -206,6 +228,28 @@
   },
   "findings": [
     {
+      "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
+      "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-29T02:37:41+00:00",
+      "fetched_at": "2026-09-29T02:48:00+00:00",
+      "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The post Can Bitcoin hold US$82,000? Inside the security fear and macro storm appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Security"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a08d6038bc10a913b92a"
+    },
+    {
       "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
@@ -379,47 +423,26 @@
   ],
   "new_findings": [
     {
-      "title": "What I have learned watching foreign tech companies build in Singapore",
-      "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
+      "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
+      "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-29T02:30:05+00:00",
-      "fetched_at": "2026-09-29T02:30:13+00:00",
-      "summary": "When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of grants, tax incentives and investment support available to companies building substantive operations here. But there is […] The post What I have learned watchi…",
+      "published_at": "2026-09-29T02:37:41+00:00",
+      "fetched_at": "2026-09-29T02:48:00+00:00",
+      "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The post Can Bitcoin hold US$82,000? Inside the security fear and macro storm appeared first on e27 .",
       "matched_keywords": [
         "APAC Trend Radar",
-        "funding"
+        "Climate/Disaster Infrastructure",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 18,
+      "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "624d556bbf6412c7a4ff"
-    },
-    {
-      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-      "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-28T23:36:42+00:00",
-      "fetched_at": "2026-09-29T02:30:13+00:00",
-      "summary": "2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e922f225ca22c7e6a1e4"
+      "id": "a08d6038bc10a913b92a"
     }
   ],
   "source_errors": [],

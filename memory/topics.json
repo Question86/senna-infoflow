@@ -1,15 +1,31 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T02:30:45+00:00",
+  "generated_at": "2026-09-29T02:48:31+00:00",
   "topics": {
     "security": [
+      {
+        "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-29T02:37:41+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/"
+      },
       {
         "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-29T09:15:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU99151548/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-29T02:37:41+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/"
       }
     ],
     "ai": [
