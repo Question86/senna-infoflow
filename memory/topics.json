@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T09:50:35+00:00",
+  "generated_at": "2026-09-29T09:56:58+00:00",
   "topics": {
     "ai": [
       {
@@ -284,6 +284,13 @@
         "published_at": "2026-09-29T03:44:02+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260929-01"
+      },
+      {
+        "title": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-29T03:51:35+00:00",
+        "relevance_score": 5,
+        "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html"
       },
       {
         "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
