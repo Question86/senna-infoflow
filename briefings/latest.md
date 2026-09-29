@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T03:11:16+00:00_
+_Generiert: 2026-09-29T03:48:31+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -117,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
   - Kurz: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 76 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-29T03:39:38.040+00:00`, fetched `2026-09-29T03:48:00+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-29 03:23:54 UTC 2026-09-29 03:23:54 UTC at epicenter Location 21.072°S 168.409°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **What I have learned watching foreign tech companies build in Singapore** — Score 9, opportunity — [Quelle](https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-29T02:30:05+00:00`, fetched `2026-09-29T02:30:13+00:00`
@@ -134,6 +143,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年9月29日）動画を追加しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260929-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-29T03:44:02+00:00`, fetched `2026-09-29T03:48:00+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年9月29日）動画を追加しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog** — Score 5, observation — [Quelle](https://tech-blog.monotaro.com/entry/2026/09/29/090000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
