@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-29T03:30:52Z_
+_Generated: 2026-09-29T03:52:29Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T09:15:00+09:00` / age_days `0.14`
+- Published: `2026-09-29T09:15:00+09:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T02:37:41+00:00` / age_days `0.04`
+- Published: `2026-09-29T02:37:41+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `102.06`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `102.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 102.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-29T01:00:00+00:00` / age_days `0.1`
+- Published: `2026-09-29T01:00:00+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: bsi
 - Quelle: https://openai.com/index/how-we-will-do-better-for-australia
 
+### M 5.3 - 76 km NE of Tadine, New Caledonia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-29T03:39:38.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5
+
 ### What I have learned watching foreign tech companies build in Singapore
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-29T02:30:05+00:00` / age_days `0.04`
+- Published: `2026-09-29T02:30:05+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-09-28T23:36:42+00:00` / age_days `0.16`
+- Published: `2026-09-28T23:36:42+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu
 
+### 古川大臣記者会見（令和8年9月29日）動画を追加しました
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-09-29T03:44:02+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://www.digital.go.jp/speech/minister-260929-01
+
 ### Passing 1.5°C global warming: Performative ESG is no longer acceptable
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-29T02:00:32+00:00` / age_days `0.06`
+- Published: `2026-09-29T02:00:32+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-29T01:00:42+00:00` / age_days `0.1`
+- Published: `2026-09-29T01:00:42+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-29T00:17:38+00:00` / age_days `0.13`
+- Published: `2026-09-29T00:17:38+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Authlibライブラリにおける署名
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-28T22:05:37+00:00` / age_days `0.23`
+- Published: `2026-09-28T22:05:37+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://internet.watch.impress.co.jp/docs/special/2143427.html
-
-### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `101.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 101.0d old signal
-- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
-
-### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `101.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 101.0d old signal
-- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
 
 END OF DOCUMENT
