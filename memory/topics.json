@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T11:31:30+00:00",
+  "generated_at": "2026-09-29T11:42:56+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T11:31:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3626"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-29T10:31:29+00:00",
@@ -168,13 +175,6 @@
         "published_at": "2026-09-29T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN22475874/"
-      },
-      {
-        "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T11:21:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0111"
       }
     ],
     "geopolitics": [
@@ -184,6 +184,13 @@
         "published_at": "2026-09-28T19:00:00+00:00",
         "relevance_score": 18,
         "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T11:31:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3626"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
@@ -221,32 +228,25 @@
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html"
       },
       {
-        "title": "[NEU] [hoch] IBM DataPower Gateway: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] FasterXML Jackson Databind: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T11:21:29+00:00",
+        "published_at": "2026-09-29T11:36:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3623"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3627"
       },
       {
-        "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] Ghostscript: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
+        "published_at": "2026-09-29T11:36:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3628"
       },
       {
-        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Wind River VxWorks 7: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
+        "published_at": "2026-09-29T11:31:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3621"
-      },
-      {
-        "title": "[NEU] [hoch] GeoServer: Schwachstelle ermöglicht Codeausführung und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3620"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3624"
       }
     ],
     "general": [
@@ -314,11 +314,11 @@
         "url": "https://www.digital.go.jp/speech/minister-260929-01"
       },
       {
-        "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」",
+        "title": "ChromeOSの後継Googlebook OSはウンコ💩やで",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-29T07:41:33+00:00",
+        "published_at": "2026-09-29T07:57:49+00:00",
         "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html"
+        "url": "https://anond.hatelabo.jp/20260925135223"
       }
     ],
     "github": [

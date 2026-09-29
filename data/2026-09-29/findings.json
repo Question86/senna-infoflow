@@ -139,6 +139,30 @@
     "id": "557db71f64d47b2ba7db"
   },
   {
+    "title": "[NEU] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3626",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:31:29+00:00",
+    "fetched_at": "2026-09-29T11:42:24+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "362968985a6b20ed1d36"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3618",
     "source": "BSI CERT-Bund Security Advisories",
@@ -321,6 +345,121 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4e3665ee545360827654"
+  },
+  {
+    "title": "[NEU] [mittel] FasterXML Jackson Databind: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3627",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:36:29+00:00",
+    "fetched_at": "2026-09-29T11:42:24+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson Databind ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8f299f8cfbce71529be1"
+  },
+  {
+    "title": "[NEU] [hoch] Ghostscript: Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3628",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:36:29+00:00",
+    "fetched_at": "2026-09-29T11:42:24+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Ghostscript ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0dfbcf023e3c2055fb67"
+  },
+  {
+    "title": "[UPDATE] [hoch] Node.js: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0393",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:31:29+00:00",
+    "fetched_at": "2026-09-29T11:42:24+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Node.js ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand zu verursachen, vertrauliche Informationen offenzulegen, Dateien zu manipulieren oder seine Privilegien zu erweitern.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ad2c382bfdac928cc67"
+  },
+  {
+    "title": "[NEU] [mittel] Wind River VxWorks 7: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3624",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:31:29+00:00",
+    "fetched_at": "2026-09-29T11:42:24+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Wind River VxWorks ausnutzen, um einen Denial of Service Angriff durchzuführen, möglicherweise beliebigen Code auszuführen und Daten offenzulegen oder zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0843dd84ffe19085fcb7"
+  },
+  {
+    "title": "[NEU] [hoch] WebKitGTK: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3625",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:31:29+00:00",
+    "fetched_at": "2026-09-29T11:42:24+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2d0357ded428fc3ef926"
   },
   {
     "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
@@ -1298,6 +1437,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cbac88a093b178dafd49"
+  },
+  {
+    "title": "ChromeOSの後継Googlebook OSはウンコ💩やで",
+    "url": "https://anond.hatelabo.jp/20260925135223",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-29T07:57:49+00:00",
+    "fetched_at": "2026-09-29T11:42:24+00:00",
+    "summary": "先日こんな記事を書いていたんだけど、最近話題になってるChromeOSとAndroidの基盤統合（いわゆるGooglebook OS構想）と、ChromeOS 147からデフォルトになった新アーキテクチャ「Baguette」 の話をLinuxギーク目線でするわ。 世間やガジェットメディアは「新GooglebookでAndroidアプリがもっとサクサク動くようになるね...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8cd164cb4c82d0b40010"
   },
   {
     "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」",
