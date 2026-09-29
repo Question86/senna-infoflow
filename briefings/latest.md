@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T04:28:33+00:00_
+_Generiert: 2026-09-29T04:43:23+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+14 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -117,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
   - Kurz: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-29T04:33:51.040+00:00`, fetched `2026-09-29T04:42:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-29 04:16:27 UTC 2026-09-29 04:16:27 UTC at epicenter Location 55.316°S 28.210°W Depth 35.08 km (21.80 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 76 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-29T03:39:38.040+00:00`, fetched `2026-09-29T03:48:00+00:00`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T04:28:33+00:00_
+_Generated: 2026-09-29T04:43:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-09-29T04:28:33+00:00_
 - url: https://openai.com/index/how-we-will-do-better-for-australia
 - summary: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
 
-### 6. M 5.3 - 76 km NE of Tadine, New Caledonia
+### 6. M 4.8 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-09-29T03:39:38.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5
-- summary: Time 2026-09-29 03:23:54 UTC 2026-09-29 03:23:54 UTC at epicenter Location 21.072°S 168.409°E Depth 10.00 km (6.21 mi)
+- published: `2026-09-29T04:33:51.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab
+- summary: Time 2026-09-29 04:16:27 UTC 2026-09-29 04:16:27 UTC at epicenter Location 55.316°S 28.210°W Depth 35.08 km (21.80 mi)
 
 END OF DOCUMENT
