@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T16:38:30+00:00_
+_Generated: 2026-09-29T16:50:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `90`
+- findings: `91`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-29T16:38:30+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.
 
-### 5. M 5.6 - southern Mid-Atlantic Ridge
+### 5. Barr, Economic Conditions and Monetary Policy
+- source: Federal Reserve Speeches and Testimony
+- score: `13`
+- published: `2026-09-29T16:40:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm
+- summary: Speech At the Detroit Economic Club, Detroit, Michigan
+
+### 6. M 5.6 - southern Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-29T13:46:38.746+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3
 - summary: PAGER - GREEN ShakeMap - I Time 2026-09-29 13:06:10 UTC 2026-09-29 13:06:10 UTC at epicenter Location 35.204°S 16.186°W Depth 10.00 km (6.21 mi)
 
-### 6. M 5.4 - 99 km SSE of Pangai, Tonga
+### 7. M 5.4 - 99 km SSE of Pangai, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-29T13:06:51.006+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-29 12:40:35 UTC 2026-09-29 12:40:35 UTC at epicenter Location 20.677°S 174.081°W Depth 10.00 km (6.21 mi)
 
-### 7. Passing 1.5°C global warming: Performative ESG is no longer acceptable
+### 8. Passing 1.5°C global warming: Performative ESG is no longer acceptable
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-29T02:00:32+00:00`
 - url: https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/
 - summary: The planet has already passed 1.5°C of warming against pre-industrial levels, or it’s very near. This isn’t fiction or a scam; it’s science and it’s existential. The 1.5°C target was set at the 2015 Paris Agreement after intense pressure from vulnerable islan…
-
-### 8. AI governance is moving from promises to proof
-- source: e27 Asia Startup and Tech Feed
-- score: `13`
-- published: `2026-09-29T01:00:42+00:00`
-- url: https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/
-- summary: For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And w…
 
 END OF DOCUMENT
