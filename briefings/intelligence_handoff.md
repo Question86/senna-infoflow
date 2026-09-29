@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-29T06:41:46Z_
+_Generated: 2026-09-29T07:04:13Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
 
 ## Top Dynamics
+
+### [UPDATE] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-09-29T06:51:29+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, root, security high-signal: code, root
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352
 
 ### Pgpool-IIにおける複数の脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-29T14:00:00+09:00` / age_days `0.07`
+- Published: `2026-09-29T14:00:00+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T15:00:00+09:00` / age_days `0.03`
+- Published: `2026-09-29T15:00:00+09:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T09:15:00+09:00` / age_days `0.27`
+- Published: `2026-09-29T09:15:00+09:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T02:37:41+00:00` / age_days `0.17`
+- Published: `2026-09-29T02:37:41+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `102.2`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `102.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 102.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T06:22:38+00:00` / age_days `0.01`
+- Published: `2026-09-29T06:22:38+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: exchange, security high-signal: exchange, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-29T01:00:00+00:00` / age_days `0.24`
+- Published: `2026-09-29T01:00:00+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: bsi
 - Quelle: https://openai.com/index/how-we-will-do-better-for-australia
 
+### Groupware Zimbra: Update schließt zahlreiche Sicherheitslücken
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.0`
+- Published: `2026-09-29T06:31:00.000+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html
+
 ### WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-29T05:57:00.000+00:00` / age_days `0.03`
+- Published: `2026-09-29T05:57:00.000+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, auth, security high-signal: kritisch, auth
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-29T04:33:51.040+00:00` / age_days `0.09`
+- Published: `2026-09-29T04:33:51.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-29T03:39:38.040+00:00` / age_days `0.13`
+- Published: `2026-09-29T03:39:38.040+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5
-
-### What I have learned watching foreign tech companies build in Singapore
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-09-29T02:30:05+00:00` / age_days `0.17`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/
-
-### Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-09-28T23:36:42+00:00` / age_days `0.3`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu
 
 END OF DOCUMENT
