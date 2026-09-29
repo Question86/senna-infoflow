@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T06:31:51+00:00",
+  "generated_at": "2026-09-29T06:59:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 3,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 5,
-    "observe": 18
+    "medium": 6,
+    "observe": 20
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-      "source": "Japan Digital Agency News RSS",
+      "title": "M 4.8 - South Sandwich Islands region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-29T06:00:00+00:00",
+      "published_at": "2026-09-29T06:58:22.040+00:00",
       "relevance_score": 9,
-      "url": "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
-      "summary": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat",
+      "summary": "Time 2026-09-29 06:38:49 UTC 2026-09-29 06:38:49 UTC at epicenter Location 55.256°S 28.463°W Depth 35.00 km (21.75 mi)",
       "section": "observe"
     }
   ],
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “PFU製Image Scanner Driver for Linuxにおける複数の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96968110/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T15:00:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99151548/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T09:15:00+09:00",
-        "age_days": 0.27,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
-        "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T02:37:41+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "security",
-          "macro",
-          "disaster"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The p…"
-      },
-      {
-        "title": "Pgpool-IIにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN22475874/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T14:00:00+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 102.2,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 102.2d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

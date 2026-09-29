@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T06:31:51+00:00",
+  "generated_at": "2026-09-29T06:59:23+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,20 @@
         "url": "https://jvn.jp/vu/JVNVU99151548/"
       },
       {
+        "title": "[UPDATE] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T06:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352"
+      },
+      {
+        "title": "Groupware Zimbra: Update schließt zahlreiche Sicherheitslücken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-29T06:31:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html"
+      },
+      {
         "title": "WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung",
         "source": "heise Security Alerts",
         "published_at": "2026-09-29T05:57:00.000+00:00",
@@ -158,6 +172,13 @@
         "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/"
       },
       {
+        "title": "Groupware Zimbra: Update schließt zahlreiche Sicherheitslücken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-29T06:31:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html"
+      },
+      {
         "title": "WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung",
         "source": "heise Security Alerts",
         "published_at": "2026-09-29T05:57:00.000+00:00",
@@ -166,6 +187,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.8 - South Sandwich Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-29T06:58:22.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat"
+      },
       {
         "title": "M 4.8 - South Sandwich Islands region",
         "source": "USGS M4.5+ Earthquakes Past Hour",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T06:31:51+00:00_
+_Generated: 2026-09-29T06:59:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `26`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-29T06:31:51+00:00_
 - url: https://openai.com/index/how-we-will-do-better-for-australia
 - summary: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
 
-### 8. 第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました
-- source: Japan Digital Agency News RSS
+### 8. M 4.8 - South Sandwich Islands region
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-09-29T06:00:00+00:00`
-- url: https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495
-- summary: 第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました
+- published: `2026-09-29T06:58:22.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat
+- summary: Time 2026-09-29 06:38:49 UTC 2026-09-29 06:38:49 UTC at epicenter Location 55.256°S 28.463°W Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT
