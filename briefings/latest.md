@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T00:36:00+00:00_
+_Generiert: 2026-09-29T01:16:45+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+4 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AI governance is moving from promises to proof** — Score 13, observation — [Quelle](https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-29T01:00:42+00:00`, fetched `2026-09-29T01:16:17+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And who should be responsible when an algorithm causes harm? Britain’s latest AI debate suggests […] The post AI governance is moving from promises to proof appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/special/2143427.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T22:05:37+00:00`, fetched `2026-09-29T01:16:17+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者** — Score 5, observation — [Quelle](https://note.com/rk611/n/n56e6db823eb1)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-28T03:45:29+00:00`, fetched `2026-09-29T00:35:31+00:00`
