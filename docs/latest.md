@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T22:17:38+00:00_
+_Generiert: 2026-09-29T22:30:29+00:00_
 
 ## Kurzlage
 
-101 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
+102 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
 
 ## Priorität Hoch
 
@@ -266,6 +266,15 @@ _Generiert: 2026-09-29T22:17:38+00:00_
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 15 km SW of San Antonio, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyfk)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-29T22:22:10.040+00:00`, fetched `2026-09-29T22:29:57+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-29 21:50:29 UTC 2026-09-29 21:50:29 UTC at epicenter Location 3.831°N 75.591°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速** — Score 11, observation — [Quelle](https://gigazine.net/news/20260929-jeff/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-29T13:04:44+00:00`, fetched `2026-09-29T19:22:35+00:00`
@@ -275,15 +284,6 @@ _Generiert: 2026-09-29T22:17:38+00:00_
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ChatGPTの共同開発者であるがディオゴ・アルメイダ氏がCEOを務めるTypeSafe AIが開発した、意思決定モデルの「Jev」と同じように、リクエスト形式でコードに組み込むことができる小型の意思決定モデルが「Jeff」です。RTX PRO 6000の場合は1回の意思決定当たり約22ミリ秒、 AppleのM4 Maxの場合は1回の意思決定当たり約2...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 100 km W of Petrolia, CA** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-29T11:50:38.625+00:00`, fetched `2026-09-29T11:50:26+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - II DYFI? - II Time 2026-09-29 11:36:37 UTC 2026-09-29 11:36:37 UTC at epicenter Location 40.433°N 125.460°W Depth 2.28 km (1.42 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-29T12:38:14+00:00`
