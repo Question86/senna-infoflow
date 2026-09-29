@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T01:44:54+00:00_
+_Generiert: 2026-09-29T02:02:22+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+6 neue relevante Treffer. Stärkstes Signal: „Authlibライブラリにおける署名検証が回避される脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Passing 1.5°C global warming: Performative ESG is no longer acceptable** — Score 13, risk — [Quelle](https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-29T02:00:32+00:00`, fetched `2026-09-29T02:01:48+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
+  - Kurz: The planet has already passed 1.5°C of warming against pre-industrial levels, or it’s very near. This isn’t fiction or a scam; it’s science and it’s existential. The 1.5°C target was set at the 2015 Paris Agreement after intense pressure from vulnerable island nations. It was meant to head off irreversible tipping points like catastrophic sea-level […] The post Passing 1.5°C global warming: Performative ESG is no lo…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI governance is moving from promises to proof** — Score 13, observation — [Quelle](https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-29T01:00:42+00:00`, fetched `2026-09-29T01:16:17+00:00`
@@ -125,7 +134,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
