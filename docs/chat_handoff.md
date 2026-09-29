@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T06:59:23+00:00_
+_Generated: 2026-09-29T07:24:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-29T06:59:23+00:00_
 - url: https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/
 - summary: Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macr…
 
-### 3. PFU製Image Scanner Driver for Linuxにおける複数の脆弱性
+### 3. Towards safety cases for frontier AI training
+- source: OpenAI News RSS
+- score: `18`
+- published: `2026-09-28T19:00:00+00:00`
+- url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
+- summary: Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
+
+### 4. PFU製Image Scanner Driver for Linuxにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-29T15:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96968110/
 - summary: 株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。
-
-### 4. Pgpool-IIにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-29T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN22475874/
-- summary: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
 
 ### 5. Passing 1.5°C global warming: Performative ESG is no longer acceptable
 - source: e27 Asia Startup and Tech Feed
@@ -50,18 +50,18 @@ _Generated: 2026-09-29T06:59:23+00:00_
 - url: https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/
 - summary: For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And w…
 
-### 7. How we will do better for Australia
-- source: OpenAI News RSS
-- score: `12`
-- published: `2026-09-29T01:00:00+00:00`
-- url: https://openai.com/index/how-we-will-do-better-for-australia
-- summary: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
+### 7. byoungd/up
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/byoungd/up
+- summary: An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 https://biezou.com title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 人生进阶指南 中文 |…
 
-### 8. M 4.8 - South Sandwich Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-29T06:58:22.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat
-- summary: Time 2026-09-29 06:38:49 UTC 2026-09-29 06:38:49 UTC at epicenter Location 55.256°S 28.463°W Depth 35.00 km (21.75 mi)
+### 8. NawfalMotii79/PLFM_RADAR
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/NawfalMotii79/PLFM_RADAR
+- summary: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) mo…
 
 END OF DOCUMENT
