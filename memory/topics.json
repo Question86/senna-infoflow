@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T12:58:29+00:00",
+  "generated_at": "2026-09-29T13:16:47+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-29T11:41:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630"
+      },
+      {
+        "title": "M 5.4 - 99 km SSE of Pangai, Tonga",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-29T13:06:51.006+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1"
       },
       {
         "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-29T07:15:44+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/"
-      },
-      {
-        "title": "How we will do better for Australia",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-29T01:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia"
       }
     ],
     "economy": [
