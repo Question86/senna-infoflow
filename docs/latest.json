@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T13:57:36+00:00",
-  "run_id": "2026-09-29T13:57:36+00:00",
+  "generated_at": "2026-09-29T14:09:21+00:00",
+  "run_id": "2026-09-29T14:09:21+00:00",
   "date": "2026-09-29",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 87
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 0,
     "medium": 42,
     "observe": 45,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -4187,29 +4187,15 @@
       "id": "f6352974874c9512bf28"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Introductory remarks by the Governing Board, Swiss National Bank news conference",
-      "url": "https://www.bis.org/speeches/20260929-introductory-remarks-governing-board-swiss-national-bank-news-conference",
-      "source": "BIS Central Bankers Speeches",
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-09-29T00:00:00+00:00",
-      "fetched_at": "2026-09-29T13:57:05+00:00",
-      "summary": "Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Berne, 24 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "beec5877b6713caa5a52"
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fd6d0b416d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
