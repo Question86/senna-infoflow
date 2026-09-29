@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T13:16:47+00:00",
+  "generated_at": "2026-09-29T13:36:16+00:00",
   "topics": {
     "ai": [
       {
@@ -96,6 +96,13 @@
         "published_at": "2026-09-29T07:15:44+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/"
+      },
+      {
+        "title": "Statement - 2026 Innovation Financial Forum",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-29T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20260928-statement-2026-innovation-financial-forum"
       },
       {
         "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",
