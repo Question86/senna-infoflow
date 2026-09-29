@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T13:36:16+00:00_
+_Generiert: 2026-09-29T13:49:44+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+86 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.6 - southern Mid-Atlantic Ridge** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-29T13:46:38.746+00:00`, fetched `2026-09-29T13:49:06+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-09-29 13:06:10 UTC 2026-09-29 13:06:10 UTC at epicenter Location 35.204°S 16.186°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 99 km SSE of Pangai, Tonga** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-29T13:06:51.006+00:00`, fetched `2026-09-29T13:16:14+00:00`
@@ -177,6 +186,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
   - Kurz: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Quantitative tightening - the next chapter** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-29T00:00:00+00:00`, fetched `2026-09-29T13:49:06+00:00`
+  - Treffer: banking, macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: Speech by Sir David Ramsden, Deputy Governor for Markets and Banking of the Bank of England, at the Bank of England, co-hosted by the Money, Macro and Finance Society, London, 28 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **An update on AI and the economy** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20260929-update-ai-and-economy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-29T00:00:00+00:00`, fetched `2026-09-29T13:49:06+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 100 km W of Petrolia, CA** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-29T11:50:38.625+00:00`, fetched `2026-09-29T11:50:26+00:00`
@@ -185,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - II DYFI? - II Time 2026-09-29 11:36:37 UTC 2026-09-29 11:36:37 UTC at epicenter Location 40.433°N 125.460°W Depth 2.28 km (1.42 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 96 km ENE of Alianza Cristiana, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-29T10:47:49.040+00:00`, fetched `2026-09-29T10:54:36+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-29 10:22:14 UTC 2026-09-29 10:22:14 UTC at epicenter Location 3.121°S 75.641°W Depth 134.76 km (83.74 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
@@ -230,24 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。ライターの西村です。 最近、僕がAIで作ったwebアプリについて、プログラマーでライターの三土さん、デイリーポータルZ編集長の林さん、編集の石川さんに話を聞いてもらいました。 それではどうぞ。 まったく何もわからなくてもなんか作れるのすげえな 左から、筆者の西村、石川さん、三土さん、林さんです...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **cs341-illinois/coursebook** — Score 8, opportunity — [Quelle](https://github.com/cs341-illinois/coursebook)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-29T07:24:16+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Open Source Introductory Systems Programming Textbook for the University of Illinois https://cs341.cs.illinois.edu/coursebook Coursebook Welcome to the systems programming coursebook! This repository houses a high-quality, open-source introductory systems programming textbook used by the CS 341: System Programming course at the University of Illinois Urbana-Champaign The book assumes that you have taken a programmin…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Groupware Zimbra: Update schließt zahlreiche Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-29T06:31:00.000+00:00`, fetched `2026-09-29T06:58:56+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Ein Update schließt diverse Lücken in Zimbra, die etwa die Kontoübernahme oder das Unterschieben von Schadcode ermöglichen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
