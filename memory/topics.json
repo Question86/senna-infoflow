@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T10:37:14+00:00",
+  "generated_at": "2026-09-29T10:48:38+00:00",
   "topics": {
     "ai": [
       {
@@ -170,11 +170,11 @@
         "url": "https://jvn.jp/jp/JVN22475874/"
       },
       {
-        "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:26:29+00:00",
+        "published_at": "2026-09-29T10:41:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3615"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622"
       }
     ],
     "geopolitics": [
@@ -221,32 +221,32 @@
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html"
       },
       {
+        "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3621"
+      },
+      {
+        "title": "[NEU] [hoch] GeoServer: Schwachstelle ermöglicht Codeausführung und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3620"
+      },
+      {
         "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-29T10:26:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3615"
-      },
-      {
-        "title": "[NEU] [mittel] git für Windows: Mehrere Schwachstellen ermöglichen Manipulation von Dateien und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3611"
-      },
-      {
-        "title": "[NEU] [mittel] Bitwarden: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3610"
-      },
-      {
-        "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T09:56:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3609"
       }
     ],
     "general": [
