@@ -1,31 +1,79 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-29T10:41:59Z",
+  "generated_at": "2026-09-29T10:51:18Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 16,
-      "strong": 13,
-      "watch": 6,
-      "quiet": 3
+      "krass": 18,
+      "strong": 14,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 27,
-      "watch": 6,
-      "quiet": 3
+      "krass": 6,
+      "strong": 28,
+      "watch": 6
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T10:41:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, auth",
+        "security high-signal: code, auth"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in PCRE (Perl Compatible Regular Expressions) ausnutzen, um möglicherweise beliebigen Code auszuführen, angrenzenden Speicher zu beschädigen oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
+      "title": "[NEU] [hoch] GeoServer: Schwachstelle ermöglicht Codeausführung und Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3620",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T10:41:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GeoServer ausnutzen, um beliebigen Programmcode auszuführen, und um Informationen offenzulegen."
+    },
     {
       "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3615",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:26:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -50,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3609",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T09:56:29+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -75,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T07:36:29+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -100,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T06:51:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -125,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3616",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:26:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -197,6 +245,30 @@
         "security high-signal: jvn, security"
       ],
       "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3621",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T10:41:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
       "title": "[NEU] [mittel] git für Windows: Mehrere Schwachstellen ermöglichen Manipulation von Dateien und DoS",
@@ -299,7 +371,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2906",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T08:48:26+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -351,7 +423,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3617",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:26:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -613,7 +685,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T07:46:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -638,7 +710,7 @@
       "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-29T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "infra"
@@ -665,7 +737,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 102.36,
+      "age_days": 102.37,
       "topics": [
         "ai"
       ],
@@ -694,7 +766,7 @@
       "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T06:22:38+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security",
@@ -724,7 +796,7 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-29T01:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -749,7 +821,7 @@
       "url": "https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-29T06:31:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -799,7 +871,7 @@
       "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T07:15:44+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -851,7 +923,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T03:39:38.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -876,7 +948,7 @@
       "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:30:05+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -902,7 +974,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-29T08:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -926,7 +998,7 @@
       "url": "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T05:09:29+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "disaster"
@@ -971,80 +1043,7 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-09-29 06:38:49 UTC 2026-09-29 06:38:49 UTC at epicenter Location 55.256°S 28.463°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-09-28T19:00:00+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-    },
-    {
-      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-      "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-28T23:36:42+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア..."
-    },
-    {
-      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
-      "url": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-29T06:00:00+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
