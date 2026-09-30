@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-30T18:31:49Z",
+  "generated_at": "2026-09-30T18:53:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:16:29+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:34:00+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:16:29+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -120,7 +120,7 @@
       "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-30T10:00:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -146,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3671",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:51:29+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:36:29+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:01:29+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -224,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:27:21+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -274,7 +274,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "security"
       ],
@@ -299,7 +299,7 @@
       "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-30T16:48:24+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
