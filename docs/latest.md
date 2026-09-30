@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T07:57:08+00:00_
+_Generiert: 2026-09-30T08:08:48+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+45 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to customers without building physical distribution from scratch. AI […] The post Why AI could unbundle the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The Indian economy in an ever more volatile and complex world** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T08:08:18+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-30T07:42:11.040+00:00`, fetched `2026-09-30T07:43:46+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Good practices of green finance in Southeast Asia** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T07:43:46+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Hong Kong (+2.0)
-  - Kurz: Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Bank of China (Hong Kong) Green Forum 2026 and Sharing Workshop “Good practices of green finance in Southeast Asia”, Hong Kong, 7 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **電子カルテの導入状況に関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/electronic-medical-record)
   - Quelle: Japan Digital Agency News RSS / `rss`

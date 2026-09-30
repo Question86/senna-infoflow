@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T07:57:08+00:00",
-  "run_id": "2026-09-30T07:57:08+00:00",
+  "generated_at": "2026-09-30T08:08:48+00:00",
+  "run_id": "2026-09-30T08:08:48+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 2,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 12,
-    "observe": 31,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -667,6 +667,27 @@
         "id": "502a9c3fcbcfe94fd840"
       },
       {
+        "title": "The Indian economy in an ever more volatile and complex world",
+        "url": "https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "fetched_at": "2026-09-30T08:08:18+00:00",
+        "summary": "Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.",
+        "matched_keywords": [
+          "banking",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c9fb9fb3b10c4cedf9b"
+      },
+      {
         "title": "M 5.2 - Balleny Islands region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1097,6 +1118,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "449a6a4aa94324a721f4"
+      },
+      {
+        "title": "タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策",
+        "url": "https://zenn.dev/gzer0/articles/timescar-leak-countermeasures",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T01:43:13+00:00",
+        "fetched_at": "2026-09-30T08:08:18+00:00",
+        "summary": "クレジットカード情報は、流出していないと発表されています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用されているかどうか 考えられる被害 起こりやすい順に並べます。 1. タイムズカーを装っ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "75015cb7bed5299ca1bc"
       },
       {
         "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
@@ -1835,6 +1877,27 @@
       "id": "502a9c3fcbcfe94fd840"
     },
     {
+      "title": "The Indian economy in an ever more volatile and complex world",
+      "url": "https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T08:08:18+00:00",
+      "summary": "Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c9fb9fb3b10c4cedf9b"
+    },
+    {
       "title": "M 5.2 - Balleny Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2267,6 +2330,27 @@
       "id": "449a6a4aa94324a721f4"
     },
     {
+      "title": "タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策",
+      "url": "https://zenn.dev/gzer0/articles/timescar-leak-countermeasures",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T01:43:13+00:00",
+      "fetched_at": "2026-09-30T08:08:18+00:00",
+      "summary": "クレジットカード情報は、流出していないと発表されています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用されているかどうか 考えられる被害 起こりやすい順に並べます。 1. タイムズカーを装っ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "75015cb7bed5299ca1bc"
+    },
+    {
       "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2367,66 +2451,46 @@
   ],
   "new_findings": [
     {
-      "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-30T07:34:00+00:00",
-      "fetched_at": "2026-09-30T07:56:38+00:00",
-      "summary": "Cyera Research於2026年9月1日公開研究報告，揭露PostgreSQL邏輯解碼（Logical Decoding）功能存在一項漏洞，編號為CVE-2026-6471，CVSS分數為7.2，並命名為「PostGREShell」。具REPLICATION權限的非超級使用者（non-superuser）可利用此漏洞執行任意程式碼。PostgreSQL Global Development Group已於2026年8月13日釋出修補版本。截至2026年9月9日，公開資料未載明已有實際攻擊事件。 漏洞源自邏輯解碼外掛載入機制 邏輯解碼是PostgreSQL將預寫式日誌（Write-Ahead Log, WAL）中的資料變更轉換為外部系統可讀格式的機制，常用於資料複寫與變更資料擷取。PostgreSQL 自 2014 年發布的 9.4 版本起正式支援此功能，意味該漏洞在被發現前可能已存在12年。 此漏洞源於PostgreS…",
-      "matched_keywords": [
-        "Security",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "010bad3ff2b056c326f8"
-    },
-    {
-      "title": "CISA更新Medusa勒索軟體安全防護指引：揭露新型勒索手法與入侵指標",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-30T07:38:00+00:00",
-      "fetched_at": "2026-09-30T07:56:38+00:00",
-      "summary": "美國聯邦調查局（FBI）、網路安全和基礎設施安全局（CISA）及衛生及公共服務部(HHS)近日聯合發布針對勒索軟體「Medusa」的安全防護指引更新。報告指出，截至2026年4月，該勒索軟體在全球已造成超過500家機構受害，受影響範圍涵蓋醫療、教育、製造及科技等多個關鍵基礎設施領域。 Medusa自2021年6月首度被發現，近年演變為採用「勒索軟體即服務」(RaaS)的加盟營運模式，其主要的入侵手法與技術特徵如下： 1. 結合初期存取仲介（IAB）：攻擊者常於網路犯罪論壇向初期存取仲介購買受害機構的內網存取權限。 2. 快速利用已知資安漏洞：攻擊者密切關注新發布的漏洞訊息，最快能在漏洞公開後的24小時內迅速發動攻擊，鎖定尚未完成安全性修補的系統。 3. 雙重勒索機制：除將受害者裝置內的檔案加密外，還會威脅若不支付贖金，便會將竊取的資料公布在特設的洩密網站上。 此次更新中特別揭露一起重複索賠案例：受害者在支付贖金後，隨即遭到另一…",
-      "matched_keywords": [
-        "Security",
-        "TWCERT"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d51eaebb494c4680c180"
-    },
-    {
-      "title": "Statement - base rate of the National Bank of Kazakhstan",
-      "url": "https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan",
+      "title": "The Indian economy in an ever more volatile and complex world",
+      "url": "https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "fetched_at": "2026-09-30T07:56:38+00:00",
-      "summary": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 24 July 2026.",
+      "fetched_at": "2026-09-30T08:08:18+00:00",
+      "summary": "Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.",
       "matched_keywords": [
+        "banking",
         "Macro/Policy"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "89221315d25d96feb7e4"
+      "id": "2c9fb9fb3b10c4cedf9b"
+    },
+    {
+      "title": "タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策",
+      "url": "https://zenn.dev/gzer0/articles/timescar-leak-countermeasures",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T01:43:13+00:00",
+      "fetched_at": "2026-09-30T08:08:18+00:00",
+      "summary": "クレジットカード情報は、流出していないと発表されています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用されているかどうか 考えられる被害 起こりやすい順に並べます。 1. タイムズカーを装っ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "75015cb7bed5299ca1bc"
     }
   ],
   "source_errors": [],
