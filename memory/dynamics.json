@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-30T09:28:51Z",
+  "generated_at": "2026-09-30T09:46:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T12:30:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:38:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:19:06.129+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -98,7 +98,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:34:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -126,7 +126,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -151,7 +151,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:30:28+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -177,7 +177,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T06:59:09+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -203,7 +203,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 103.31,
+      "age_days": 103.32,
       "topics": [
         "ai"
       ],
@@ -232,7 +232,7 @@
       "url": "https://github.com/mizchi/explainer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T19:12:08+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "macro"
@@ -259,7 +259,7 @@
       "url": "https://github.com/mvschwarz/openrig",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T06:59:09+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -286,7 +286,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:00:34+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -313,7 +313,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -338,7 +338,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -363,7 +363,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:00:25+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -389,7 +389,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:52:39.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -414,7 +414,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:18:27.542+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -439,7 +439,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11237-c9189-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-30T09:43:00+00:00",
-      "age_days": 0,
+      "age_days": 0.0,
       "topics": [
         "security"
       ],
@@ -463,7 +463,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11240-0fa1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-30T09:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -487,7 +487,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:18:27.129+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -512,7 +512,7 @@
       "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -540,7 +540,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T03:01:50.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -564,7 +564,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T07:42:11.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -589,7 +589,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyid",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T07:07:04.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -614,7 +614,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T01:35:08.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -639,7 +639,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:00:22+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -663,7 +663,7 @@
       "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -690,7 +690,7 @@
       "url": "https://github.com/t8y2/dbx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T06:59:09+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -716,7 +716,7 @@
       "url": "https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -740,7 +740,7 @@
       "url": "https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -764,7 +764,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-09-30T08:15:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -788,7 +788,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T08:31:11.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -812,7 +812,7 @@
       "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -836,7 +836,7 @@
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T23:26:36+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -862,7 +862,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-30T02:20:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -886,7 +886,7 @@
       "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T09:19:45+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -910,7 +910,7 @@
       "url": "https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -934,7 +934,7 @@
       "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -958,7 +958,7 @@
       "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -982,7 +982,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T04:55:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -1006,7 +1006,7 @@
       "url": "https://zenn.dev/gzer0/articles/timescar-leak-countermeasures",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T01:43:13+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
