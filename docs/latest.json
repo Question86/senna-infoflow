@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T08:59:46+00:00",
-  "run_id": "2026-09-30T08:59:46+00:00",
+  "generated_at": "2026-09-30T09:21:37+00:00",
+  "run_id": "2026-09-30T09:21:37+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 1,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
     "medium": 12,
-    "observe": 37,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -998,6 +998,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c2bfa9f8fe9cc3985ef"
+      },
+      {
+        "title": "令和8年熊本地震に関する対応状況について（9月30日）",
+        "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-30T09:19:45+00:00",
+        "fetched_at": "2026-09-30T09:21:08+00:00",
+        "summary": "令和8年熊本地震に関する対応状況について（9月30日）",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af0f2dd9a3531a4f5f93"
       },
       {
         "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
@@ -2312,6 +2332,26 @@
       "id": "2c2bfa9f8fe9cc3985ef"
     },
     {
+      "title": "令和8年熊本地震に関する対応状況について（9月30日）",
+      "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-30T09:19:45+00:00",
+      "fetched_at": "2026-09-30T09:21:08+00:00",
+      "summary": "令和8年熊本地震に関する対応状況について（9月30日）",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af0f2dd9a3531a4f5f93"
+    },
+    {
       "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
       "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
       "source": "Japan Digital Agency News RSS",
@@ -2653,7 +2693,28 @@
       "id": "d656d83316676b7ff635"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "令和8年熊本地震に関する対応状況について（9月30日）",
+      "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-30T09:19:45+00:00",
+      "fetched_at": "2026-09-30T09:21:08+00:00",
+      "summary": "令和8年熊本地震に関する対応状況について（9月30日）",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af0f2dd9a3531a4f5f93"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
