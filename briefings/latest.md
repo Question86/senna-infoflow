@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T21:35:15+00:00_
+_Generiert: 2026-09-30T21:45:38+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+95 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install packages, call API…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Gemini 4 Argon: our next era of frontier intelligence** — Score 18, opportunity — [Quelle](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-30T20:28:49+00:00`, fetched `2026-09-30T21:44:59+00:00`
+  - Treffer: AI/KI, developer, Hatena, hotentry, Security, technology
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[NEU] [hoch] n8n: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The cross-border due diligence questions most founders cannot answer** — Score 14, observation — [Quelle](https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-30T01:00:22+00:00`, fetched `2026-09-30T01:03:18+00:00`
-  - Treffer: APAC Trend Radar, founder, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growing. Then I asked him three questions. Where does your intellectual property legally sit? Who owns […] The post The cross-border due diligence questions most foun…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

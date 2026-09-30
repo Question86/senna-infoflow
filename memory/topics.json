@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T21:35:15+00:00",
+  "generated_at": "2026-09-30T21:45:38+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": null,
         "relevance_score": 21,
         "url": "https://github.com/NVIDIA/OpenShell"
+      },
+      {
+        "title": "Gemini 4 Argon: our next era of frontier intelligence",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-30T20:28:49+00:00",
+        "relevance_score": 18,
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
       },
       {
         "title": "A 20% stablecoin APY may be less magical than it sounds",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-30T05:51:23+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/"
-      },
-      {
-        "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-30T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament"
       }
     ],
     "github": [
@@ -214,6 +214,13 @@
     ],
     "security": [
       {
+        "title": "Gemini 4 Argon: our next era of frontier intelligence",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-30T20:28:49+00:00",
+        "relevance_score": 18,
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+      },
+      {
         "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T11:51:29+00:00",
@@ -275,13 +282,6 @@
         "published_at": "2026-09-30T11:51:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3673"
-      },
-      {
-        "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3671"
       }
     ],
     "general": [
