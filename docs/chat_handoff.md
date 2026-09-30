@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T11:42:15+00:00_
+_Generated: 2026-09-30T11:56:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `66`
+- findings: `72`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-30T11:42:15+00:00_
 - url: https://github.com/NVIDIA/OpenShell
 - summary: OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrad…
 
-### 4. M 5.6 - 74 km S of Yonakuni, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `17`
-- published: `2026-09-30T05:19:06.129+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
-- summary: ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
+### 4. [NEU] [hoch] n8n: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-09-30T11:51:29+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672
+- summary: Ein Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen.
 
 ### 5. Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
