@@ -71,6 +71,43 @@
     "id": "f4b3b758c04488bd0aba"
   },
   {
+    "title": "M 4.8 - 18 km SW of Tayaman, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-30T02:18:27.542+00:00",
+    "fetched_at": "2026-09-30T02:32:43+00:00",
+    "summary": "DYFI? - III Time 2026-09-30 01:34:05 UTC 2026-09-30 01:34:05 UTC at epicenter Location 13.092°N 120.473°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b7ece181adf7b457b97f"
+  },
+  {
     "title": "The cross-border due diligence questions most founders cannot answer",
     "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -170,6 +207,26 @@
       "LOW"
     ],
     "id": "b243fd8729177bb98c04"
+  },
+  {
+    "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-09-30T02:20:00+00:00",
+    "fetched_at": "2026-09-30T02:32:43+00:00",
+    "summary": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ae5acbffcdd8c1eb40b"
   },
   {
     "title": "タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」",

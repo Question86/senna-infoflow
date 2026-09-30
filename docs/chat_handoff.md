@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T02:02:27+00:00_
+_Generated: 2026-09-30T02:33:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-30T02:02:27+00:00_
 - url: https://jvn.jp/vu/JVNVU93754811/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. The cross-border due diligence questions most founders cannot answer
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-09-30T01:00:22+00:00`
-- url: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
-- summary: A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growin…
+### 4. M 4.8 - 18 km SW of Tayaman, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-30T02:18:27.542+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs
+- summary: DYFI? - III Time 2026-09-30 01:34:05 UTC 2026-09-30 01:34:05 UTC at epicenter Location 13.092°N 120.473°E Depth 10.00 km (6.21 mi)
 
 ### 5. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 - source: Hatena Bookmark Hotentry IT
@@ -57,11 +57,11 @@ _Generated: 2026-09-30T02:02:27+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
 - summary: Time 2026-09-30 01:17:47 UTC 2026-09-30 01:17:47 UTC at epicenter Location 21.009°S 168.328°E Depth 10.00 km (6.21 mi)
 
-### 8. タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-29T23:47:03+00:00`
-- url: https://togetter.com/li/2752131
-- summary: AIと人事に苦しむマーモット @Duetousandyou トッパン「タイムズがデカいのやらかしたぞ！！ 今のうちにリリースしろ！！」 レゴランド「俺も！」 日本郵便「俺も！」 京王グループ「俺も！」 東京メトロ「俺も！」 イープラス「俺も！」 ニッポンレンタカー「俺も！」 スターツ出版「俺も！」 セコマ「俺も！」 集英社...
+### 8. Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
+- source: ECB Press Releases Speeches Interviews
+- score: `8`
+- published: `2026-09-30T02:20:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html
+- summary: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
 
 END OF DOCUMENT
