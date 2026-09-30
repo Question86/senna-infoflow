@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T06:33:21+00:00_
+_Generated: 2026-09-30T06:59:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `29`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-30T06:33:21+00:00_
 - url: https://github.com/mizchi/explainer
 - summary: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only…
 
-### 2. M 5.6 - 74 km S of Yonakuni, Japan
+### 2. mvschwarz/openrig
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/mvschwarz/openrig
+- summary: Multi-agent harness that runs Claude Code and Codex together as one system https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, manage…
+
+### 3. NVIDIA/OpenShell
+- source: GitHub Trending RSS All Languages Daily
+- score: `21`
+- published: `None`
+- url: https://github.com/NVIDIA/OpenShell
+- summary: OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrad…
+
+### 4. M 5.6 - 74 km S of Yonakuni, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-09-30T05:19:06.129+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
 - summary: ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
-
-### 3. A 20% stablecoin APY may be less magical than it sounds
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-09-30T02:00:34+00:00`
-- url: https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/
-- summary: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask b…
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-09-30T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU93754811/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
 - source: e27 Asia Startup and Tech Feed
