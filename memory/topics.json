@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T07:44:16+00:00",
+  "generated_at": "2026-09-30T07:57:08+00:00",
   "topics": {
     "ai": [
       {
@@ -256,6 +256,20 @@
         "published_at": "2026-09-30T12:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90160989/"
+      },
+      {
+        "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-09-30T07:34:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html"
+      },
+      {
+        "title": "CISA更新Medusa勒索軟體安全防護指引：揭露新型勒索手法與入侵指標",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-09-30T07:38:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html"
       }
     ],
     "economy": [
@@ -323,11 +337,11 @@
         "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow"
       },
       {
-        "title": "Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+        "title": "Statement - base rate of the National Bank of Kazakhstan",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-30T00:00:00+00:00",
         "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion"
+        "url": "https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan"
       }
     ]
   }

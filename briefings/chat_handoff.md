@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T07:44:16+00:00_
+_Generated: 2026-09-30T07:57:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `43`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-30T07:44:16+00:00_
 - url: https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/
 - summary: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of…
 
-### 7. MoneyHero shareholder urges board to explore sale after stock slump
+### 7. PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行
+- source: TWCERT/CC Security News RSS
+- score: `11`
+- published: `2026-09-30T07:34:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html
+- summary: Cyera Research於2026年9月1日公開研究報告，揭露PostgreSQL邏輯解碼（Logical Decoding）功能存在一項漏洞，編號為CVE-2026-6471，CVSS分數為7.2，並命名為「PostGREShell」。具REPLICATION權限的非超級使用者（non-superuser）可利用此漏洞執行任意程式碼。PostgreSQL Global Development Group已於2026年8月13日釋出修補版本。截至2026年9月9日，公開資料未載明已有實際攻擊事件。 漏洞源自邏…
+
+### 8. MoneyHero shareholder urges board to explore sale after stock slump
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-30T05:51:23+00:00`
 - url: https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/
 - summary: MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares.…
-
-### 8. M 5.4 - Balleny Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-30T05:18:27.129+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi
-- summary: ShakeMap - I Time 2026-09-30 04:48:06 UTC 2026-09-30 04:48:06 UTC at epicenter Location 63.009°S 169.216°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
