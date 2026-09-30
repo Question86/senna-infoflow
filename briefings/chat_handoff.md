@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T22:45:25+00:00_
+_Generated: 2026-09-30T22:52:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `98`
+- findings: `99`
 
 ## Top Signals
 
-### 1. GitHub - mizchi/explainer
+### 1. GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-09-30T18:28:31+00:00`
+- url: https://github.com/nanaism/yomiyasu
+- summary: 『yomiyasu（よみやす）』は、AIが生成した日本語の不自然さを解消し、人間が読みやすく情報密度の高い日本語へ推敲するためのスキルです。 Codex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。 開発背景や言語学的病理の分析、複数のコーパスによる検証結果については、以下...
+
+### 2. GitHub - mizchi/explainer
 - source: Hatena Bookmark Hotentry IT
 - score: `23`
 - published: `2026-09-29T19:12:08+00:00`
 - url: https://github.com/mizchi/explainer
 - summary: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only…
 
-### 2. mvschwarz/openrig
+### 3. mvschwarz/openrig
 - source: GitHub Trending RSS All Languages Daily
 - score: `23`
 - published: `None`
 - url: https://github.com/mvschwarz/openrig
 - summary: Multi-agent harness that runs Claude Code and Codex together as one system https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, manage…
 
-### 3. NVIDIA/OpenShell
+### 4. NVIDIA/OpenShell
 - source: GitHub Trending RSS All Languages Daily
 - score: `21`
 - published: `None`
 - url: https://github.com/NVIDIA/OpenShell
 - summary: OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrad…
-
-### 4. Gemini 4 Argon: our next era of frontier intelligence
-- source: Hatena Bookmark Hotentry IT
-- score: `18`
-- published: `2026-09-30T20:28:49+00:00`
-- url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
-- summary: Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Clou…
 
 ### 5. Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)
 - source: CERT-FR Avis de sécurité

@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T22:45:25+00:00",
+  "generated_at": "2026-09-30T22:52:26+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-30T18:28:31+00:00",
+        "relevance_score": 23,
+        "url": "https://github.com/nanaism/yomiyasu"
+      },
       {
         "title": "GitHub - mizchi/explainer",
         "source": "Hatena Bookmark Hotentry IT",
@@ -66,16 +73,16 @@
         "published_at": "2026-09-30T10:00:00+00:00",
         "relevance_score": 11,
         "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-      },
-      {
-        "title": "MoneyHero shareholder urges board to explore sale after stock slump",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-30T05:51:23+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/"
       }
     ],
     "github": [
+      {
+        "title": "GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-30T18:28:31+00:00",
+        "relevance_score": 23,
+        "url": "https://github.com/nanaism/yomiyasu"
+      },
       {
         "title": "GitHub - mizchi/explainer",
         "source": "Hatena Bookmark Hotentry IT",
