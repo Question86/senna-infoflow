@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T11:19:28+00:00_
+_Generiert: 2026-09-30T11:30:05+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+64 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask because I once paid for not asking. In 2022, I […] The post A 20% stablecoin APY may be less magical than it sounds appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Red Hat Enterprise Linux (pki-core und dogtag-pki): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-30T11:16:29+00:00`, fetched `2026-09-30T11:29:36+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pki-core und dogtag-pki) ausnutzen, um beliebigen Programmcode auszuführen, und um Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-30T10:51:29+00:00`, fetched `2026-09-30T11:00:25+00:00`
@@ -158,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 https://dbxio.com 100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server. English |…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 27 km N of Kupang, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyjb)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-30T11:21:02.040+00:00`, fetched `2026-09-30T11:29:36+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-30 10:58:50 UTC 2026-09-30 10:58:50 UTC at epicenter Location 9.924°S 123.646°E Depth 19.37 km (12.03 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI companies want to embed safety evaluators, but countries need their own** — Score 15, observation — [Quelle](https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-30T10:00:00+00:00`, fetched `2026-09-30T10:06:48+00:00`
@@ -176,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-30 02:35:50 UTC 2026-09-30 02:35:50 UTC at epicenter Location 4.649°N 94.852°E Depth 33.87 km (21.05 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 104 km SSE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-30T02:52:39.040+00:00`, fetched `2026-09-30T03:00:56+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-30 02:30:44 UTC 2026-09-30 02:30:44 UTC at epicenter Location 4.502°N 125.747°E Depth 156.85 km (97.46 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90160989/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-30T12:30:00+09:00`, fetched `2026-09-30T03:41:51+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-30T11:01:29+00:00`, fetched `2026-09-30T11:18:54+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in DENX U-Boot ausnutzen, um den Speicher zu beschädigen, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe zu starten.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The cross-border due diligence questions most founders cannot answer** — Score 14, observation — [Quelle](https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-30T01:00:22+00:00`, fetched `2026-09-30T01:03:18+00:00`
