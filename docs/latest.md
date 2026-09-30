@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T02:33:11+00:00_
+_Generiert: 2026-09-30T02:52:30+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+11 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-30T01:03:38+00:00`, fetched `2026-09-30T02:52:02+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 信用情報機関のCICと日本信用情報機構（JICC）は9月29日、インターネットやスマホアプリからの本人申告や開示の申し込みが集中し、手続きが遅れていると発表した。 前日には、「タイムズカー」が免許証画像を含む大規模な情報漏えいを公表。自分の免許証情報の漏えいを心配した人が、本人申告で今後の悪用に備えたり、自...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」** — Score 5, observation — [Quelle](https://togetter.com/li/2752131)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

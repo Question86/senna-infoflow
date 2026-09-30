@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T02:33:11+00:00",
+  "generated_at": "2026-09-30T02:52:30+00:00",
   "topics": {
     "ai": [
       {
@@ -88,6 +88,13 @@
         "published_at": "2026-09-30T01:35:08.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq"
+      },
+      {
+        "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-30T01:03:38+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/"
       }
     ],
     "economy": [
