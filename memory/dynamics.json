@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-30T08:04:52Z",
+  "generated_at": "2026-09-30T08:55:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 3,
-      "strong": 12,
-      "watch": 12,
-      "quiet": 12
+      "strong": 14,
+      "watch": 13,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 16,
-      "watch": 12,
-      "quiet": 12
+      "strong": 18,
+      "watch": 13,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T12:30:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:38:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:19:06.129+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -98,7 +98,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:34:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -126,7 +126,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -151,7 +151,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:30:28+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -177,7 +177,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T06:59:09+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -203,7 +203,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 103.25,
+      "age_days": 103.29,
       "topics": [
         "ai"
       ],
@@ -232,7 +232,7 @@
       "url": "https://github.com/mizchi/explainer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T19:12:08+00:00",
-      "age_days": 0.54,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "macro"
@@ -259,7 +259,7 @@
       "url": "https://github.com/mvschwarz/openrig",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T06:59:09+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -286,7 +286,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:00:34+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -313,7 +313,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -338,7 +338,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -363,7 +363,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:00:25+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -389,7 +389,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:52:39.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -414,7 +414,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:18:27.542+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -435,11 +435,59 @@
       "summary": "DYFI? - III Time 2026-09-30 01:34:05 UTC 2026-09-30 01:34:05 UTC at epicenter Location 13.092°N 120.473°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "鼎新數智｜EasyFlow .NET - 存在5個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11237-c9189-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-09-30T09:43:00+00:00",
+      "age_days": 0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "鼎新數智｜EasyFlow .NET - 存在5個漏洞"
+    },
+    {
+      "title": "鼎新數智｜EasyFlow .NET - Arbitrary File Upload",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11240-0fa1b-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "age_days": 0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "鼎新數智｜EasyFlow .NET - Arbitrary File Upload"
+    },
+    {
       "title": "M 5.4 - Balleny Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:18:27.129+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -464,7 +512,7 @@
       "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -492,7 +540,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T03:01:50.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -516,7 +564,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T07:42:11.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -541,7 +589,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyid",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T07:07:04.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -566,7 +614,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T01:35:08.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -591,7 +639,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:00:22+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "macro"
       ],
@@ -615,7 +663,7 @@
       "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -642,7 +690,7 @@
       "url": "https://github.com/t8y2/dbx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T06:59:09+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -668,7 +716,7 @@
       "url": "https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -692,7 +740,7 @@
       "url": "https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -716,7 +764,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-09-30T08:15:18+00:00",
-      "age_days": 0,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -736,11 +784,35 @@
       "summary": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45"
     },
     {
+      "title": "M 5.1 - 121 km S of Kokopo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-30T08:31:11.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-30 08:15:17 UTC 2026-09-30 08:15:17 UTC at epicenter Location 5.435°S 152.133°E Depth 28.03 km (17.41 mi)"
+    },
+    {
       "title": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました",
       "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -764,7 +836,7 @@
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T23:26:36+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -790,7 +862,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-30T02:20:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -814,7 +886,7 @@
       "url": "https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -838,7 +910,7 @@
       "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -862,7 +934,7 @@
       "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -886,7 +958,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T04:55:05+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -906,11 +978,35 @@
       "summary": "カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な..."
     },
     {
+      "title": "タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策",
+      "url": "https://zenn.dev/gzer0/articles/timescar-leak-countermeasures",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-30T01:43:13+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "クレジットカード情報は、流出していないと発表されています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用されているかどうか 考えられる被害 起こりやすい順に並べます。 1. タイムズカーを装っ..."
+    },
+    {
       "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T01:03:38+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -928,107 +1024,6 @@
         "no strong comparative reason"
       ],
       "summary": "信用情報機関のCICと日本信用情報機構（JICC）は9月29日、インターネットやスマホアプリからの本人申告や開示の申し込みが集中し、手続きが遅れていると発表した。 前日には、「タイムズカー」が免許証画像を含む大規模な情報漏えいを公表。自分の免許証情報の漏えいを心配した人が、本人申告で今後の悪用に備えたり、自..."
-    },
-    {
-      "title": "ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001870/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-29T23:54:48+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "誤送付されたデータは、カナ氏名と、保険料控除用証券番号、業務IDの3項目。証券番号は損保ジャパン固有の識別番号で、第三者がこの番号だけで個人や契約内容を特定・照会できない。業務IDは、控除証明書の発行年、損害保険会社の識別番号、対象契約の証券番号を組み合わせた、証明書単位のユニークキー。 漢字氏名や住..."
-    },
-    {
-      "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
-      "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-30T04:23:12+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of the Japanese education group, has invested in Do Ventures F…"
-    },
-    {
-      "title": "MoneyHero shareholder urges board to explore sale after stock slump",
-      "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-30T05:51:23+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares. Jonathan Honig, who says he beneficially owns about 9 per c…"
-    },
-    {
-      "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 28 September 2026."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
