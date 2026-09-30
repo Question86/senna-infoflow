@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T22:35:52+00:00_
+_Generiert: 2026-09-30T22:45:25+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,10 @@ _Generiert: 2026-09-30T22:35:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, No people affected in 100km.
-- **USGS earthquake M5.6 - 84 km SW of Tamarindo, Costa Rica** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj)
+- **USGS earthquake M5.6 - 94 km SW of Tamarindo, Costa Rica** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj)
   - Quelle: USGS
-  - Zeit: `2026-09-30T21:55:27+00:00`
-  - Kurz: M5.6 - 84 km SW of Tamarindo, Costa Rica. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-09-30T21:55:26+00:00`
+  - Kurz: M5.6 - 94 km SW of Tamarindo, Costa Rica. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
