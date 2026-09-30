@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T01:40:36+00:00",
+  "generated_at": "2026-09-30T02:02:27+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-29T19:12:08+00:00",
         "relevance_score": 23,
         "url": "https://github.com/mizchi/explainer"
+      },
+      {
+        "title": "A 20% stablecoin APY may be less magical than it sounds",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-30T02:00:34+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/"
       },
       {
         "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
@@ -40,6 +47,15 @@
         "published_at": "2026-09-29T19:12:08+00:00",
         "relevance_score": 23,
         "url": "https://github.com/mizchi/explainer"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "A 20% stablecoin APY may be less magical than it sounds",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-30T02:00:34+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/"
       }
     ],
     "security": [

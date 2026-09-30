@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T01:40:36+00:00_
+_Generated: 2026-09-30T02:02:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -15,42 +15,49 @@ _Generated: 2026-09-30T01:40:36+00:00_
 - url: https://github.com/mizchi/explainer
 - summary: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
+### 2. A 20% stablecoin APY may be less magical than it sounds
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-09-30T02:00:34+00:00`
+- url: https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/
+- summary: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask b…
+
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-30T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU93754811/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. The cross-border due diligence questions most founders cannot answer
+### 4. The cross-border due diligence questions most founders cannot answer
 - source: e27 Asia Startup and Tech Feed
 - score: `14`
 - published: `2026-09-30T01:00:22+00:00`
 - url: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
 - summary: A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growin…
 
-### 4. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
+### 5. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-29T23:26:36+00:00`
 - url: https://tech-lab.sios.jp/archives/54936
 - summary: 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...
 
-### 5. Why AI could unbundle the beauty industry
+### 6. Why AI could unbundle the beauty industry
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-30T01:30:28+00:00`
 - url: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
 - summary: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics f…
 
-### 6. M 4.8 - 75 km NE of Tadine, New Caledonia
+### 7. M 4.8 - 75 km NE of Tadine, New Caledonia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-30T01:35:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
 - summary: Time 2026-09-30 01:17:47 UTC 2026-09-30 01:17:47 UTC at epicenter Location 21.009°S 168.328°E Depth 10.00 km (6.21 mi)
 
-### 7. タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」
+### 8. タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-29T23:47:03+00:00`

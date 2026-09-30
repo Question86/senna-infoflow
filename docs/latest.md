@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T01:40:36+00:00_
+_Generiert: 2026-09-30T02:02:27+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+8 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only what that reader does not already k...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **A 20% stablecoin APY may be less magical than it sounds** — Score 17, observation — [Quelle](https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-30T02:00:34+00:00`, fetched `2026-09-30T02:01:55+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask because I once paid for not asking. In 2022, I […] The post A 20% stablecoin APY may be less magical than it sounds appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU93754811/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
