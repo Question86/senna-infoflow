@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T10:07:20+00:00",
+  "generated_at": "2026-09-30T10:26:21+00:00",
   "topics": {
     "ai": [
       {
@@ -256,6 +256,13 @@
         "published_at": "2026-09-30T12:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90160989/"
+      },
+      {
+        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:10:13+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591"
       },
       {
         "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
