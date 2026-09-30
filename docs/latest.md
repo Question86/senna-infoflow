@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T14:24:47+00:00_
+_Generiert: 2026-09-30T14:38:41+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+80 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
