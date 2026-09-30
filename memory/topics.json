@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T17:01:46+00:00",
+  "generated_at": "2026-09-30T17:20:58+00:00",
   "topics": {
     "ai": [
       {
@@ -105,11 +105,25 @@
         "url": "https://github.com/t8y2/dbx"
       },
       {
+        "title": "GitHub Advanced Security trials for GitHub Team",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-30T16:48:24+00:00",
+        "relevance_score": 11,
+        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team"
+      },
+      {
         "title": "Helping small businesses put AI to work",
         "source": "OpenAI News RSS",
         "published_at": "2026-09-30T10:00:00+00:00",
         "relevance_score": 11,
         "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+      },
+      {
+        "title": "X25519-only TLS ends for GHE.com on October 7",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-30T13:30:24+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15"
       }
     ],
     "geopolitics": [
