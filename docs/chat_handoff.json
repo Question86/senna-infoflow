@@ -100,5 +100,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
+        "url": "https://jvn.jp/vu/JVNVU93754811/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-30T09:00:00+09:00",
+        "age_days": 0.19,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cisa, jvn, security, advisory"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "Why AI could unbundle the beauty industry",
+        "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-30T01:30:28+00:00",
+        "age_days": 0.13,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to custo…"
+      },
+      {
+        "title": "富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU90160989/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-30T12:30:00+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 103.11,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 103.1d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "GitHub - mizchi/explainer",
+        "url": "https://github.com/mizchi/explainer",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-29T19:12:08+00:00",
+        "age_days": 0.39,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only what that reader does not already k..."
+      }
+    ]
+  }
 }
