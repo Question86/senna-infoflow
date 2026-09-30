@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-30T00:08:36+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-09-30T01:03:48+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 1,
+    "medium": 3,
     "observe": 1
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "GitHub - mizchi/explainer",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T19:12:08+00:00",
+      "relevance_score": 23,
+      "url": "https://github.com/mizchi/explainer",
+      "summary": "English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only…",
+      "section": "medium"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
       "source": "JVN Japan Vulnerability Notes",
@@ -22,6 +32,16 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "The cross-border due diligence questions most founders cannot answer",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-30T01:00:22+00:00",
+      "relevance_score": 14,
+      "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
+      "summary": "A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growin…",
       "section": "medium"
     },
     {

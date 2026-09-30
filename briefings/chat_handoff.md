@@ -1,21 +1,35 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T00:08:36+00:00_
+_Generated: 2026-09-30T01:03:48+00:00_
 
 ## Status
-- status: `warning`
-- findings: `2`
+- status: `normal`
+- findings: `4`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
+### 1. GitHub - mizchi/explainer
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-09-29T19:12:08+00:00`
+- url: https://github.com/mizchi/explainer
+- summary: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only…
+
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-30T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU93754811/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
+### 3. The cross-border due diligence questions most founders cannot answer
+- source: e27 Asia Startup and Tech Feed
+- score: `14`
+- published: `2026-09-30T01:00:22+00:00`
+- url: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
+- summary: A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growin…
+
+### 4. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-29T23:26:36+00:00`

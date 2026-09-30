@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T00:08:36+00:00_
+_Generiert: 2026-09-30T01:03:48+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+4 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **GitHub - mizchi/explainer** — Score 23, observation — [Quelle](https://github.com/mizchi/explainer)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-29T19:12:08+00:00`, fetched `2026-09-30T01:03:18+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Content-Chance, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only what that reader does not already k...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU93754811/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-30T09:00:00+09:00`, fetched `2026-09-30T00:07:57+00:00`
@@ -21,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The cross-border due diligence questions most founders cannot answer** — Score 14, observation — [Quelle](https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-30T01:00:22+00:00`, fetched `2026-09-30T01:03:18+00:00`
+  - Treffer: APAC Trend Radar, founder, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growing. Then I asked him three questions. Where does your intellectual property legally sit? Who owns […] The post The cross-border due diligence questions most foun…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -36,12 +54,9 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fe183cd5590>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

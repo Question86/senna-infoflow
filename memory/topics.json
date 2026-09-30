@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T00:08:36+00:00",
+  "generated_at": "2026-09-30T01:03:48+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "GitHub - mizchi/explainer",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-29T19:12:08+00:00",
+        "relevance_score": 23,
+        "url": "https://github.com/mizchi/explainer"
+      },
+      {
+        "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-29T23:26:36+00:00",
+        "relevance_score": 11,
+        "url": "https://tech-lab.sios.jp/archives/54936"
+      }
+    ],
+    "github": [
+      {
+        "title": "GitHub - mizchi/explainer",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-29T19:12:08+00:00",
+        "relevance_score": 23,
+        "url": "https://github.com/mizchi/explainer"
+      }
+    ],
     "security": [
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
@@ -12,13 +37,13 @@
         "url": "https://jvn.jp/vu/JVNVU93754811/"
       }
     ],
-    "ai": [
+    "economy": [
       {
-        "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-29T23:26:36+00:00",
-        "relevance_score": 11,
-        "url": "https://tech-lab.sios.jp/archives/54936"
+        "title": "The cross-border due diligence questions most founders cannot answer",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-30T01:00:22+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/"
       }
     ]
   }
