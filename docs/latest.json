@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T19:29:39+00:00",
-  "run_id": "2026-09-30T19:29:39+00:00",
+  "generated_at": "2026-09-30T19:39:56+00:00",
+  "run_id": "2026-09-30T19:39:56+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 92,
     "displayed_findings": 92,
     "high": 0,
@@ -4651,30 +4651,7 @@
       "id": "c17ab13d865ba220aefe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cook, The Dual Mandate in Rural America",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-09-30T19:25:00+00:00",
-      "fetched_at": "2026-09-30T19:29:03+00:00",
-      "summary": "Speech At the 2026 Investing in Rural America Conference, Federal Reserve Bank of Richmond, Asheville, North Carolina",
-      "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85a81133aba934e9f1ab"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
