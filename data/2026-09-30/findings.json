@@ -1826,6 +1826,27 @@
     "id": "53cff5a9927f515e2ca0"
   },
   {
+    "title": "設計次第でAIコードの読む量は減らせる / designing-for-code-reading",
+    "url": "https://speakerdeck.com/minodriven/designing-for-code-reading",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-30T10:31:41+00:00",
+    "fetched_at": "2026-09-30T15:35:37+00:00",
+    "summary": "このイベントの登壇資料です。 今こそ聞きたいソフトウェア設計 #2 設計次第で、AIコードの読む量は減らせる https://findy.connpass.com/event/405803/",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4789b6af087e9d5d7902"
+  },
+  {
     "title": "「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手",
     "url": "https://forest.watch.impress.co.jp/docs/news/2144295.html",
     "source": "Hatena Bookmark Hotentry IT",
