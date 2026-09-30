@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T06:59:41+00:00_
+_Generated: 2026-09-30T07:26:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `37`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-30T06:59:41+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
 - summary: ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
 
-### 5. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
+### 5. Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-09-30T08:15:18+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html
+- summary: Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 6. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-30T04:23:12+00:00`
 - url: https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/
 - summary: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of…
 
-### 6. MoneyHero shareholder urges board to explore sale after stock slump
+### 7. MoneyHero shareholder urges board to explore sale after stock slump
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-30T05:51:23+00:00`
 - url: https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/
 - summary: MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares.…
 
-### 7. M 5.4 - Balleny Islands region
+### 8. M 5.4 - Balleny Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-30T05:18:27.129+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi
 - summary: ShakeMap - I Time 2026-09-30 04:48:06 UTC 2026-09-30 04:48:06 UTC at epicenter Location 63.009°S 169.216°E Depth 10.00 km (6.21 mi)
-
-### 8. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-29T23:26:36+00:00`
-- url: https://tech-lab.sios.jp/archives/54936
-- summary: 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...
 
 END OF DOCUMENT

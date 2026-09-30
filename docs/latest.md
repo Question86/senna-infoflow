@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T06:59:41+00:00_
+_Generiert: 2026-09-30T07:26:31+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+37 neue relevante Treffer. Stärkstes Signal: „GitHub - mizchi/explainer“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-09-30T08:15:18+00:00`, fetched `2026-09-30T07:25:59+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market** — Score 12, observation — [Quelle](https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-30T04:23:12+00:00`, fetched `2026-09-30T04:25:22+00:00`
@@ -159,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to customers without building physical distribution from scratch. AI […] The post Why AI could unbundle the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 83 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyid)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-30T07:07:04.040+00:00`, fetched `2026-09-30T07:25:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-30 06:50:03 UTC 2026-09-30 06:50:03 UTC at epicenter Location 20.988°S 168.424°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 75 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-30T01:35:08.040+00:00`, fetched `2026-09-30T01:40:04+00:00`
@@ -176,6 +194,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T07:25:59+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **電子カルテの導入状況に関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/electronic-medical-record)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -204,23 +231,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-30T01:03:38+00:00`, fetched `2026-09-30T02:52:02+00:00`
-  - Treffer: Hatena, hotentry
+- **Tending the public garden - accountable for today, stewarding for tomorrow** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T07:25:59+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 信用情報機関のCICと日本信用情報機構（JICC）は9月29日、インターネットやスマホアプリからの本人申告や開示の申し込みが集中し、手続きが遅れていると発表した。 前日には、「タイムズカー」が免許証画像を含む大規模な情報漏えいを公表。自分の免許証情報の漏えいを心配した人が、本人申告で今後の悪用に備えたり、自...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001870/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-29T23:54:48+00:00`, fetched `2026-09-30T03:41:51+00:00`
-  - Treffer: Hatena, hotentry
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, to the DPER (Department of Public Expenditure and Reform) Management Conference, Dublin, 10 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T07:25:59+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 誤送付されたデータは、カナ氏名と、保険料控除用証券番号、業務IDの3項目。証券番号は損保ジャパン固有の識別番号で、第三者がこの番号だけで個人や契約内容を特定・照会できない。業務IDは、控除証明書の発行年、損害保険会社の識別番号、対象契約の証券番号を組み合わせた、証明書単位のユニークキー。 漢字氏名や住...
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

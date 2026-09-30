@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T06:59:41+00:00",
-  "run_id": "2026-09-30T06:59:41+00:00",
+  "generated_at": "2026-09-30T07:26:31+00:00",
+  "run_id": "2026-09-30T07:26:31+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 8,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 12,
-    "observe": 17,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -439,6 +439,28 @@
     ],
     "observe": [
       {
+        "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-09-30T08:15:18+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0266b8b7a27033a64bac"
+      },
+      {
         "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
         "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -582,6 +604,42 @@
         "id": "502a9c3fcbcfe94fd840"
       },
       {
+        "title": "M 5.0 - 83 km NE of Tadine, New Caledonia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyid",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-30T07:07:04.040+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "Time 2026-09-30 06:50:03 UTC 2026-09-30 06:50:03 UTC at epicenter Location 20.988°S 168.424°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "2533d6391c5f5ac8479d"
+      },
+      {
         "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
         "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -657,6 +715,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6ae5acbffcdd8c1eb40b"
+      },
+      {
+        "title": "Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum",
+        "url": "https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8b672a9d1aa46053092a"
       },
       {
         "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
@@ -758,6 +836,107 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1915d81b3dca68a67e3b"
+      },
+      {
+        "title": "Tending the public garden - accountable for today, stewarding for tomorrow",
+        "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, to the DPER (Department of Public Expenditure and Reform) Management Conference, Dublin, 10 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e04291d23bebcc0f3f23"
+      },
+      {
+        "title": "Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+        "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d16ef5ebb25e4cfd68fa"
+      },
+      {
+        "title": "Digital innovation - hindrance or booster for banks’ business models?",
+        "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "705fbd0fae0154138b16"
+      },
+      {
+        "title": "Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+        "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "Convening remarks by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "53cff5a9927f515e2ca0"
+      },
+      {
+        "title": "タイムズカー、退会者の免許証画像も「7年」保存していた理由 パーク24に聞いた",
+        "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T04:55:05+00:00",
+        "fetched_at": "2026-09-30T07:25:59+00:00",
+        "summary": "カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "449a6a4aa94324a721f4"
       },
       {
         "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
@@ -1268,6 +1447,28 @@
       "id": "f00682278c324ed0f687"
     },
     {
+      "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-09-30T08:15:18+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0266b8b7a27033a64bac"
+    },
+    {
       "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
       "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1411,6 +1612,42 @@
       "id": "502a9c3fcbcfe94fd840"
     },
     {
+      "title": "M 5.0 - 83 km NE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyid",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-30T07:07:04.040+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Time 2026-09-30 06:50:03 UTC 2026-09-30 06:50:03 UTC at epicenter Location 20.988°S 168.424°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2533d6391c5f5ac8479d"
+    },
+    {
       "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
       "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1486,6 +1723,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6ae5acbffcdd8c1eb40b"
+    },
+    {
+      "title": "Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum",
+      "url": "https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8b672a9d1aa46053092a"
     },
     {
       "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
@@ -1589,6 +1846,107 @@
       "id": "1915d81b3dca68a67e3b"
     },
     {
+      "title": "Tending the public garden - accountable for today, stewarding for tomorrow",
+      "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, to the DPER (Department of Public Expenditure and Reform) Management Conference, Dublin, 10 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e04291d23bebcc0f3f23"
+    },
+    {
+      "title": "Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+      "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d16ef5ebb25e4cfd68fa"
+    },
+    {
+      "title": "Digital innovation - hindrance or booster for banks’ business models?",
+      "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "705fbd0fae0154138b16"
+    },
+    {
+      "title": "Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+      "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Convening remarks by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "53cff5a9927f515e2ca0"
+    },
+    {
+      "title": "タイムズカー、退会者の免許証画像も「7年」保存していた理由 パーク24に聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T04:55:05+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "449a6a4aa94324a721f4"
+    },
+    {
       "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1689,147 +2047,183 @@
   ],
   "new_findings": [
     {
-      "title": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-30T06:59:09+00:00",
-      "summary": "Multi-agent harness that runs Claude Code and Codex together as one system https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of terminal sessions into a persistent, organized team. Talk to a lead agent about the outcome you w…",
+      "published_at": "2026-09-30T08:15:18+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "dcf89078473d42c904ba"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0266b8b7a27033a64bac"
     },
     {
-      "title": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "M 5.0 - 83 km NE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyid",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-30T06:59:09+00:00",
-      "summary": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install packages, call API…",
+      "published_at": "2026-09-30T07:07:04.040+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Time 2026-09-30 06:50:03 UTC 2026-09-30 06:50:03 UTC at epicenter Location 20.988°S 168.424°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Content-Chance",
-        "GitHub Trending",
-        "Watchgraph:ai_agents_workflow"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 21,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2533d6391c5f5ac8479d"
+    },
+    {
+      "title": "Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum",
+      "url": "https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8b672a9d1aa46053092a"
+    },
+    {
+      "title": "Tending the public garden - accountable for today, stewarding for tomorrow",
+      "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, to the DPER (Department of Public Expenditure and Reform) Management Conference, Dublin, 10 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "bd2a3f67a4ea5f8980ec"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e04291d23bebcc0f3f23"
     },
     {
-      "title": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "Digital innovation - hindrance or booster for banks’ business models?",
+      "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-30T06:59:09+00:00",
-      "summary": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 https://dbxio.com 100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server. English |…",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Watchgraph:ai_agents_workflow"
+        "Macro/Policy"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "705fbd0fae0154138b16"
+    },
+    {
+      "title": "Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+      "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Convening remarks by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "53cff5a9927f515e2ca0"
+    },
+    {
+      "title": "Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+      "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
       ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP, MCP server"
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d16ef5ebb25e4cfd68fa"
+    },
+    {
+      "title": "タイムズカー、退会者の免許証画像も「7年」保存していた理由 パーク24に聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T04:55:05+00:00",
+      "fetched_at": "2026-09-30T07:25:59+00:00",
+      "summary": "カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
       ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "7e85e8c4ac50b0fd8205"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "449a6a4aa94324a721f4"
     }
   ],
   "source_errors": [],
