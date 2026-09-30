@@ -100,5 +100,141 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
+        "url": "https://jvn.jp/vu/JVNVU93754811/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-30T09:00:00+09:00",
+        "age_days": 0.29,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cisa, jvn, security, advisory"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "Why AI could unbundle the beauty industry",
+        "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-30T01:30:28+00:00",
+        "age_days": 0.23,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to custo…"
+      },
+      {
+        "title": "NVIDIA/OpenShell",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-09-30T06:59:09+00:00",
+        "age_days": 0.0,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets…"
+      },
+      {
+        "title": "富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU90160989/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-30T12:30:00+09:00",
+        "age_days": 0.15,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 103.21,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 103.2d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
