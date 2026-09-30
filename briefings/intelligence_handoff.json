@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-30T13:44:11Z",
+  "generated_at": "2026-09-30T13:53:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:16:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:16:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -198,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T11:01:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -224,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -274,7 +274,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
