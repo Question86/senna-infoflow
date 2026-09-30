@@ -1189,6 +1189,27 @@
     "id": "53cff5a9927f515e2ca0"
   },
   {
+    "title": "「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2144295.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-30T06:40:13+00:00",
+    "fetched_at": "2026-09-30T09:36:35+00:00",
+    "summary": "「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "59e16aa12f47588c644e"
+  },
+  {
     "title": "タイムズカー、退会者の免許証画像も「7年」保存していた理由 パーク24に聞いた",
     "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
     "source": "Hatena Bookmark Hotentry IT",
