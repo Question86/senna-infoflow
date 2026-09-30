@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T11:30:05+00:00",
-  "run_id": "2026-09-30T11:30:05+00:00",
+  "generated_at": "2026-09-30T11:42:15+00:00",
+  "run_id": "2026-09-30T11:42:15+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 66
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "new_relevant_findings": 2,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 0,
-    "medium": 25,
+    "medium": 27,
     "observe": 39,
     "source_errors": 0
   },
@@ -354,6 +354,29 @@
         "id": "7e85e8c4ac50b0fd8205"
       },
       {
+        "title": "[NEU] [hoch] OWASP ModSecurity: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-30T11:36:29+00:00",
+        "fetched_at": "2026-09-30T11:41:45+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen und um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1f5951f5591bb70c5330"
+      },
+      {
         "title": "M 5.0 - 27 km N of Kupang, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyjb",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -543,6 +566,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bc51af9f3b65410ee923"
+      },
+      {
+        "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-30T11:36:29+00:00",
+        "fetched_at": "2026-09-30T11:41:45+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenProject ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8ce5a1a6f88cf0ef1988"
       },
       {
         "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS",
@@ -2023,6 +2069,29 @@
       "id": "7e85e8c4ac50b0fd8205"
     },
     {
+      "title": "[NEU] [hoch] OWASP ModSecurity: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-30T11:36:29+00:00",
+      "fetched_at": "2026-09-30T11:41:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen und um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f5951f5591bb70c5330"
+    },
+    {
       "title": "M 5.0 - 27 km N of Kupang, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyjb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2212,6 +2281,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bc51af9f3b65410ee923"
+    },
+    {
+      "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-30T11:36:29+00:00",
+      "fetched_at": "2026-09-30T11:41:45+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenProject ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8ce5a1a6f88cf0ef1988"
     },
     {
       "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS",
@@ -3365,74 +3457,36 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Red Hat Enterprise Linux (pki-core und dogtag-pki): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662",
+      "title": "[NEU] [hoch] OWASP ModSecurity: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-30T11:16:29+00:00",
-      "fetched_at": "2026-09-30T11:29:36+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pki-core und dogtag-pki) ausnutzen, um beliebigen Programmcode auszuführen, und um Daten zu manipulieren.",
+      "published_at": "2026-09-30T11:36:29+00:00",
+      "fetched_at": "2026-09-30T11:41:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen und um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "65c5930cac05c199babd"
+      "id": "1f5951f5591bb70c5330"
     },
     {
-      "title": "M 5.0 - 27 km N of Kupang, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyjb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-30T11:21:02.040+00:00",
-      "fetched_at": "2026-09-30T11:29:36+00:00",
-      "summary": "Time 2026-09-30 10:58:50 UTC 2026-09-30 10:58:50 UTC at epicenter Location 9.924°S 123.646°E Depth 19.37 km (12.03 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "63760a0270e4a1e81b9f"
-    },
-    {
-      "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661",
+      "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-30T11:16:29+00:00",
-      "fetched_at": "2026-09-30T11:29:36+00:00",
-      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in MikroTik RouterOS ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-09-30T11:36:29+00:00",
+      "fetched_at": "2026-09-30T11:41:45+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenProject ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3446,7 +3500,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "da06bce347f196c400b6"
+      "id": "8ce5a1a6f88cf0ef1988"
     }
   ],
   "source_errors": [],
