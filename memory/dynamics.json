@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-01T20:41:48Z",
+  "generated_at": "2026-10-01T20:50:18Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 12,
+      "krass": 14,
       "strong": 20,
-      "watch": 8
+      "watch": 6
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 28,
-      "watch": 8
+      "strong": 30,
+      "watch": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:46+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:16:29+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:01:29+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3683",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:01:29+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -218,7 +218,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0213",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:52:01+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -242,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2468",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:51:58+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -266,7 +266,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -290,7 +290,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -314,7 +314,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-01T19:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -340,7 +340,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:51:59+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -362,11 +362,39 @@
       "summary": "Ein Angreifer kann diese Schwachstellen ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu Denial‑of‑Service, Speicherbeschädigung oder weiteren nicht definierten Auswirkungen führen."
     },
     {
+      "title": "Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-01T19:57:39+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Private vulnerability reporting now applies daily rate limits to new reports. This helps protect you from bulk and automated submissions, while legitimate researchers can still reach you. Open source maintainers… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog ."
+    },
+    {
       "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:16:30+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -392,7 +420,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:06:29+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -418,7 +446,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:06:29+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -444,7 +472,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T07:56:29+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -470,7 +498,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:46+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -495,7 +523,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:44+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -516,11 +544,38 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand zu verursachen."
     },
     {
+      "title": "Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-01T19:57:28+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog ."
+    },
+    {
       "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
       "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T04:30:25+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -546,7 +601,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 104.78,
+      "age_days": 104.79,
       "topics": [
         "ai"
       ],
@@ -654,7 +709,7 @@
       "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T07:24:00.000+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -679,7 +734,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyw9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T18:15:30.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -729,7 +784,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyua",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T14:38:35.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -754,7 +809,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T05:49:06.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -804,7 +859,7 @@
       "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-01T19:09:10+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -856,7 +911,7 @@
       "url": "https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:06:00.000+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -880,7 +935,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyuf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T15:09:04.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -905,7 +960,7 @@
       "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "source": "BIS Press Releases",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "ai",
         "macro"
@@ -933,7 +988,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-01T17:30:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -975,56 +1030,6 @@
         "high terms: 10"
       ],
       "summary": "Euro area bank interest rate statistics: August 2026"
-    },
-    {
-      "title": "M 5.1 - 176 km SE of Lata, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyx0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-01T20:20:37.040+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-01 20:00:34 UTC 2026-10-01 20:00:34 UTC at epicenter Location 11.673°S 167.092°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - 171 km SE of Lata, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tywu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-01T20:03:02.040+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-01 19:38:01 UTC 2026-10-01 19:38:01 UTC at epicenter Location 11.771°S 166.961°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
