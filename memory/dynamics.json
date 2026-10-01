@@ -1,29 +1,128 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-01T10:03:43Z",
+  "generated_at": "2026-10-01T10:27:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 34,
+    "dynamics": 40,
     "bands": {
-      "krass": 2,
-      "strong": 7,
+      "krass": 6,
+      "strong": 9,
       "watch": 8,
       "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
+      "krass": 2,
+      "strong": 13,
       "watch": 8,
       "quiet": 17
     }
   },
   "top_dynamics": [
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T10:07:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Speicherbeschädigungen zu verursachen und möglicherweise beliebigen Code auszuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gdb): Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Podman: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um seine Privilegien zu erhöhen."
+    },
+    {
       "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T07:56:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -45,11 +144,61 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ESR, Mozilla Firefox und Thunderbird ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher…"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T10:07:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Daten zu manipulieren, Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
+      "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T10:07:44+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
       "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
       "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T04:30:25+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -75,7 +224,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 104.34,
+      "age_days": 104.35,
       "topics": [
         "ai"
       ],
@@ -94,7 +243,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 104.3d old signal",
+        "aging penalty -8.0 for 104.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -104,7 +253,7 @@
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-01T11:30:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -130,7 +279,7 @@
       "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T03:30:32+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -158,7 +307,7 @@
       "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:58:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -183,7 +332,7 @@
       "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T07:24:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -208,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T05:49:06.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -233,7 +382,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:50:10.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -258,7 +407,7 @@
       "url": "https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:47:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -283,7 +432,7 @@
       "url": "https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:06:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -307,7 +456,7 @@
       "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "source": "BIS Press Releases",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -335,7 +484,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-01T08:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -359,7 +508,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T09:12:29.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -384,7 +533,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:52:50.450+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -409,7 +558,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T00:45:24.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -434,7 +583,7 @@
       "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:20:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -460,7 +609,7 @@
       "url": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-01T06:12:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -480,11 +629,35 @@
       "summary": "Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）"
     },
     {
+      "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-01T07:26:23+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "佐川急便は10月1日、前日に公表した「お荷物問い合わせサービス」への不正アクセスについて、調査の結果、顧客の個人情報が外部に流出した可能性があると発表した。同サービスは、同社Webサイトで荷物の輸送状況を確認できるもの。被害の拡大を防ぐため、荷物の問い合わせや集荷受付など、Webサービスの一部を停止してい..."
+    },
+    {
       "title": "睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表",
       "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T03:02:41+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -508,7 +681,7 @@
       "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
       "source": "BIS Press Releases",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "infra",
@@ -536,7 +709,7 @@
       "url": "https://anond.hatelabo.jp/20261001070030",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T22:05:08+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -562,7 +735,7 @@
       "url": "https://e27.co/uptober-or-downtober-will-bitcoins-19-seasonal-average-survive-us100-oil-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T06:11:05+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -586,7 +759,7 @@
       "url": "https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T06:30:43+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -612,7 +785,7 @@
       "url": "https://www.digital.go.jp/councils/kyotsuwt/b152169b-f876-4d57-9cd9-2b3a211d3826",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-01T08:06:16+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -636,7 +809,7 @@
       "url": "https://e27.co/zeya-health-buys-connectlah-to-build-ai-booking-rails-for-clinics-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T05:30:19+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -662,7 +835,7 @@
       "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T01:25:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -686,7 +859,7 @@
       "url": "https://blog.tinect.jp/?p=91526",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T23:23:44+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -710,7 +883,7 @@
       "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T02:30:27+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -737,7 +910,7 @@
       "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:30:45+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -761,7 +934,7 @@
       "url": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:10:02+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -787,7 +960,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 103.3,
+      "age_days": 103.32,
       "topics": [
         "general"
       ],
@@ -812,7 +985,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 103.3,
+      "age_days": 103.32,
       "topics": [
         "general"
       ],
@@ -837,7 +1010,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 103.3,
+      "age_days": 103.32,
       "topics": [
         "ai"
       ],
@@ -858,33 +1031,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "Why a good product isn’t enough for sustainable growth",
-      "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-01T02:00:01+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A good product can open the door to a market, but it does not guarantee business success. Many companies reach a point where their product or service has potential, customers are showing interest, and the team is working hard, but growth remains slower than expected. The challenge is often not the product itself. It i…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
