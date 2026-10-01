@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T20:47:31+00:00",
-  "run_id": "2026-10-01T20:47:31+00:00",
+  "generated_at": "2026-10-01T20:54:17+00:00",
+  "run_id": "2026-10-01T20:54:17+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 0,
@@ -4165,51 +4165,7 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Rate limits for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-01T19:57:39+00:00",
-      "fetched_at": "2026-10-01T20:47:01+00:00",
-      "summary": "Private vulnerability reporting now applies daily rate limits to new reports. This helps protect you from bulk and automated submissions, while legitimate researchers can still reach you. Open source maintainers… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Open Source",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+7.5); Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "mixed",
-      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d41e93c8f0ebb5d8f54e"
-    },
-    {
-      "title": "Structured forms for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-01T19:57:28+00:00",
-      "fetched_at": "2026-10-01T20:47:01+00:00",
-      "summary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a18da3b09585e6c4c34b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
