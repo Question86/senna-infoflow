@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T03:44:22+00:00",
+  "generated_at": "2026-10-01T03:59:21+00:00",
   "topics": {
     "security": [
       {
@@ -109,6 +109,13 @@
         "published_at": "2026-10-01T00:45:24.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp"
+      },
+      {
+        "title": "Gboard チームからの新しいキーボードのご提案 2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T01:25:00+00:00",
+        "relevance_score": 5,
+        "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/"
       },
       {
         "title": "さよならイルカショー",
