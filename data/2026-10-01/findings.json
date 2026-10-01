@@ -822,6 +822,28 @@
     "id": "86070acdc80a877cb752"
   },
   {
+    "title": "GitHub Copilot can now interact with desktop apps with computer use",
+    "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:11:26+00:00",
+    "fetched_at": "2026-10-01T19:28:41+00:00",
+    "summary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI Agents",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "099a95b9a7b1611c2ff6"
+  },
+  {
     "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
     "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
     "source": "Federal Reserve Speeches and Testimony",
@@ -1004,6 +1026,28 @@
       "LOW"
     ],
     "id": "49491413e46fe25d7464"
+  },
+  {
+    "title": "GitHub Copilot in VS Code, September 2026 releases",
+    "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:09:10+00:00",
+    "fetched_at": "2026-10-01T19:28:41+00:00",
+    "summary": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps… The post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Automatisierung",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Automatisierung (+4.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "976fa586b7b85bb3f14e"
   },
   {
     "title": "Actions retention now covers checks, runs, and statuses",
