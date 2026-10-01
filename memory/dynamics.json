@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-01T19:02:40Z",
+  "generated_at": "2026-10-01T19:23:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 12,
-      "strong": 18,
-      "watch": 10
+      "strong": 19,
+      "watch": 9
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 26,
-      "watch": 10
+      "strong": 27,
+      "watch": 9
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:46+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1570",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:41:29+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3682",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:56:29+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:41:29+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:16:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:01:29+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3683",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:01:29+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -218,7 +218,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0213",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:52:01+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -242,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2468",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:51:58+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -266,7 +266,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -290,7 +290,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -310,11 +310,37 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um seine Privilegien zu erhöhen."
     },
     {
+      "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "published_at": "2026-10-01T19:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Speech At the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington, D.C."
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:51:59+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -340,7 +366,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:16:30+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -366,7 +392,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:06:29+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -392,7 +418,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:06:29+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -418,7 +444,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T07:56:29+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -444,7 +470,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:46+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -469,7 +495,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:44+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -494,7 +520,7 @@
       "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T04:30:25+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -520,7 +546,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 104.71,
+      "age_days": 104.73,
       "topics": [
         "ai"
       ],
@@ -549,7 +575,7 @@
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-01T11:30:00+09:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -575,7 +601,7 @@
       "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T03:30:32+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "macro"
@@ -603,7 +629,7 @@
       "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:58:00.000+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -628,7 +654,7 @@
       "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T07:24:00.000+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -653,7 +679,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyw9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T18:15:30.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -678,7 +704,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyw6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T17:37:33.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -703,7 +729,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyua",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T14:38:35.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -728,7 +754,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T05:49:06.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -753,7 +779,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:50:10.040+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "disaster"
       ],
@@ -778,7 +804,7 @@
       "url": "https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:47:00.000+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -803,7 +829,7 @@
       "url": "https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:06:00.000+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -827,7 +853,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyuf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T15:09:04.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -852,7 +878,7 @@
       "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "source": "BIS Press Releases",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "macro"
@@ -880,7 +906,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-01T17:30:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -904,7 +930,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-01T08:00:00+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "macro"
       ],
@@ -928,7 +954,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T09:12:29.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -953,7 +979,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:52:50.450+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "disaster"
       ],
@@ -978,7 +1004,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T00:45:24.040+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -997,34 +1023,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-01 00:28:22 UTC 2026-10-01 00:28:22 UTC at epicenter Location 19.276°N 43.035°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-01T12:58:17.805+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "DYFI? - III Time 2026-10-01 12:27:11 UTC 2026-10-01 12:27:11 UTC at epicenter Location 35.703°N 140.551°E Depth 41.65 km (25.88 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
