@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T11:26:41+00:00",
-  "run_id": "2026-10-01T11:26:41+00:00",
+  "generated_at": "2026-10-01T11:45:35+00:00",
+  "run_id": "2026-10-01T11:45:35+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 3,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 22,
-    "observe": 25,
+    "medium": 24,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -292,6 +292,52 @@
           "LOW"
         ],
         "id": "b453f93cf612286da8cf"
+      },
+      {
+        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1570",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:41:29+00:00",
+        "fetched_at": "2026-10-01T11:45:04+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "adbff0f2ee76ff8575fb"
+      },
+      {
+        "title": "[NEU] [mittel] Vaadin: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:41:29+00:00",
+        "fetched_at": "2026-10-01T11:45:04+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Vaadin ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen oder Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "987e889c4fe5c3c78c48"
       },
       {
         "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
@@ -991,6 +1037,27 @@
         "id": "c1a880b6a64e8ac85782"
       },
       {
+        "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
+        "url": "https://news.jp/i/1478299651827581816",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-01T08:09:10+00:00",
+        "fetched_at": "2026-10-01T11:45:04+00:00",
+        "summary": "個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98977ac05ac115348a40"
+      },
+      {
         "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
         "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1420,6 +1487,52 @@
         "LOW"
       ],
       "id": "b453f93cf612286da8cf"
+    },
+    {
+      "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1570",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:41:29+00:00",
+      "fetched_at": "2026-10-01T11:45:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "adbff0f2ee76ff8575fb"
+    },
+    {
+      "title": "[NEU] [mittel] Vaadin: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:41:29+00:00",
+      "fetched_at": "2026-10-01T11:45:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Vaadin ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "987e889c4fe5c3c78c48"
     },
     {
       "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
@@ -2117,6 +2230,27 @@
       "id": "c1a880b6a64e8ac85782"
     },
     {
+      "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
+      "url": "https://news.jp/i/1478299651827581816",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-01T08:09:10+00:00",
+      "fetched_at": "2026-10-01T11:45:04+00:00",
+      "summary": "個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98977ac05ac115348a40"
+    },
+    {
       "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
       "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2283,13 +2417,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
+      "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1570",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T11:16:30+00:00",
-      "fetched_at": "2026-10-01T11:26:08+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell PowerScale OneFS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren.",
+      "published_at": "2026-10-01T11:41:29+00:00",
+      "fetched_at": "2026-10-01T11:45:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2303,16 +2437,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fcdcaed058667c5bc53c"
+      "id": "adbff0f2ee76ff8575fb"
     },
     {
-      "title": "[UPDATE] [mittel] Intel UEFI Reference BIOS: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
+      "title": "[NEU] [mittel] Vaadin: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T11:16:29+00:00",
-      "fetched_at": "2026-10-01T11:26:08+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Intel UEFI Reference BIOS ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-10-01T11:41:29+00:00",
+      "fetched_at": "2026-10-01T11:45:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Vaadin ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen oder Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2326,7 +2460,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "60c3e8f465a2417e5147"
+      "id": "987e889c4fe5c3c78c48"
+    },
+    {
+      "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
+      "url": "https://news.jp/i/1478299651827581816",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-01T08:09:10+00:00",
+      "fetched_at": "2026-10-01T11:45:04+00:00",
+      "summary": "個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98977ac05ac115348a40"
     }
   ],
   "source_errors": [],

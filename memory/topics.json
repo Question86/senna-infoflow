@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T11:26:41+00:00",
+  "generated_at": "2026-10-01T11:45:35+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
       },
       {
+        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1570"
+      },
+      {
+        "title": "[NEU] [mittel] Vaadin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700"
+      },
+      {
         "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-01T11:16:30+00:00",
@@ -59,20 +73,6 @@
         "published_at": "2026-10-01T11:16:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757"
-      },
-      {
-        "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:06:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686"
-      },
-      {
-        "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Offenlegung von Informationen und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:06:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685"
       }
     ],
     "ai": [
@@ -179,6 +179,13 @@
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
       },
       {
+        "title": "[NEU] [mittel] Vaadin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700"
+      },
+      {
         "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-01T11:06:29+00:00",
@@ -233,13 +240,6 @@
         "published_at": "2026-10-01T07:24:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html"
-      },
-      {
-        "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T02:30:27+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/"
       }
     ],
     "general": [
@@ -300,18 +300,18 @@
         "url": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/"
       },
       {
+        "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T08:09:10+00:00",
+        "relevance_score": 5,
+        "url": "https://news.jp/i/1478299651827581816"
+      },
+      {
         "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-01T07:26:23+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/"
-      },
-      {
-        "title": "睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-01T03:02:41+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/"
       }
     ]
   }
