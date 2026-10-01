@@ -1662,5 +1662,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "589f5686646881c562f6"
+  },
+  {
+    "title": "New dashboard experience now the default",
+    "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T16:14:56+00:00",
+    "fetched_at": "2026-10-01T16:34:24+00:00",
+    "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone. The redesigned dashboard helps you focus on the work that matters most and… The post New dashboard experience now the default appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b90cfb7fef4638635578"
   }
 ]
