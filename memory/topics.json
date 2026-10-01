@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T18:59:43+00:00",
+  "generated_at": "2026-10-01T19:16:50+00:00",
   "topics": {
     "security": [
       {
@@ -328,6 +328,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ0"
       },
       {
+        "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-10-01T19:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm"
+      },
+      {
         "title": "ChatGPT連携初日の増田で何が起きていたか",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-30T22:05:08+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-10-01T01:52:50.450+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny"
-      },
-      {
-        "title": "M 4.9 - northern Mid-Atlantic Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-01T00:45:24.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp"
       }
     ],
     "github": [
