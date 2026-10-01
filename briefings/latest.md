@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T07:58:18+00:00_
+_Generiert: 2026-10-01T08:16:31+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,9 +122,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-01 01:31:23 UTC 2026-10-01 01:31:23 UTC at epicenter Location 0.863°S 123.184°E Depth 116.39 km (72.32 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-01T07:56:29+00:00`, fetched `2026-10-01T08:16:02+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ESR, Mozilla Firefox und Thunderbird ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe zu starten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **Euro area bank interest rate statistics: August 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-10-01T08:00:00+00:00`, fetched `2026-10-01T08:16:02+00:00`
+  - Treffer: euro area, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area bank interest rate statistics: August 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPT連携初日の増田で何が起きていたか** — Score 12, observation — [Quelle](https://anond.hatelabo.jp/20261001070030)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-30T22:05:08+00:00`, fetched `2026-10-01T00:43:59+00:00`
@@ -179,6 +197,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In healthcare, booking an appointment is rarely as simple as finding an empty slot on a calendar. A patient may need a specific doctor, a particular procedure, a referral, a follow-up window, or a clinic that accepts certain rules around timing and availability. Much of this still sits in phone calls, WhatsApp threads and front-desk […] The post Zeya Health buys ConnectLah to build AI booking rails for clinics appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Attacken auf IT-Verwaltungsplattform HPE OneView möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-01T08:06:00.000+00:00`, fetched `2026-10-01T08:16:02+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Drei Sicherheitslücken gefährden HPE OneView und HPE Synergy Composer. Eine reparierte Version steht zum Download bereit.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **WatchGuard schließt teils kritische Lücken in Fireware OS** — Score 7, observation — [Quelle](https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-01T07:24:00.000+00:00`, fetched `2026-10-01T07:47:54+00:00`
@@ -187,6 +214,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: WatchGuard schließt im Fireware OS ein gutes Dutzend Sicherheitslücken. Die sind teils kritisch und erlauben etwa Codeschmuggel.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **国・地方デジタル共通基盤推進連絡協議会ワーキングチーム（第16回）の会議資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsuwt/b152169b-f876-4d57-9cd9-2b3a211d3826)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-01T08:06:16+00:00`, fetched `2026-10-01T08:16:02+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 国・地方デジタル共通基盤推進連絡協議会ワーキングチーム（第16回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/gbiz-portal/news/20261001-01/)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -197,6 +233,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/01/2000001901/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-01T03:02:41+00:00`, fetched `2026-10-01T08:16:02+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gboard チームからの新しいキーボードのご提案 2026** — Score 5, observation — [Quelle](https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-01T01:25:00+00:00`, fetched `2026-10-01T03:58:53+00:00`
@@ -205,15 +250,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 第 15 回目となる Google からの新しいキーボードのご提案シリーズは、あなたを中心とした流れるような入力体験を通じて、みなさまの日常に潤いをお届けします。 Gboard は、優れた変換性能にくわえて、お好きな写真を背景にできるテーマ機能、翻訳機能や校正支援機能などの便利な機能をそなえたスマートフォンやタブレ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **さよならイルカショー** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91526)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-30T23:23:44+00:00`, fetched `2026-10-01T02:58:26+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
