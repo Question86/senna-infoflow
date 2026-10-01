@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T22:19:33+00:00",
-  "run_id": "2026-10-01T22:19:33+00:00",
+  "generated_at": "2026-10-01T22:30:21+00:00",
+  "run_id": "2026-10-01T22:30:21+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4391,29 +4391,7 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「この勢いは驚き」タイムズカー情報流出で「集団訴訟」呼びかけ、わずか1日で参加希望2000人超 - 弁護士ドットコムニュース",
-      "url": "https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-01T11:45:11+00:00",
-      "fetched_at": "2026-10-01T22:19:00+00:00",
-      "summary": "カーシェアサービス「タイムズカー」の会員情報が不正アクセスによって漏えいした問題をめぐり、運営会社などに損害賠償を求める集団訴訟への参加希望が、2000人を超えたことがわかった（10月1日午後6時）。呼びかけている牧野裕貴弁護士が同日、弁護士ドットコムニュースの取材に明らかにした。 牧野弁護士は9月30日未...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e4b15fd695eb3ab8c7b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
