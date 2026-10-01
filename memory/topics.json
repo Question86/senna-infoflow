@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T14:09:12+00:00",
+  "generated_at": "2026-10-01T14:27:54+00:00",
   "topics": {
     "security": [
       {
@@ -349,6 +349,13 @@
         "published_at": "2026-10-01T13:01:31+00:00",
         "relevance_score": 10,
         "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0"
+      },
+      {
+        "title": "GitHub async merge API generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T14:00:51+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available"
       }
     ]
   }

@@ -1347,6 +1347,26 @@
     "id": "6d61c6a10beeb890cc3c"
   },
   {
+    "title": "GitHub async merge API generally available",
+    "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T14:00:51+00:00",
+    "fetched_at": "2026-10-01T14:27:25+00:00",
+    "summary": "You can now use the generally available GitHub async merge API to merge individual or stacked pull requests, add pull requests to a merge queue, or merge pull requests directly.… The post GitHub async merge API generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ac19366d2dd2e3c48440"
+  },
+  {
     "title": "Uptober or downtober: Will Bitcoin’s 19% seasonal average survive US$100 oil?",
     "url": "https://e27.co/uptober-or-downtober-will-bitcoins-19-seasonal-average-survive-us100-oil-20261001/",
     "source": "e27 Asia Startup and Tech Feed",
