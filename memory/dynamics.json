@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-01T09:06:48Z",
+  "generated_at": "2026-10-01T09:31:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 32,
+    "dynamics": 34,
     "bands": {
       "krass": 2,
-      "strong": 6,
-      "watch": 7,
+      "strong": 7,
+      "watch": 8,
       "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 7,
+      "strong": 9,
+      "watch": 8,
       "quiet": 17
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T07:56:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T04:30:25+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 104.3,
+      "age_days": 104.31,
       "topics": [
         "ai"
       ],
@@ -104,7 +104,7 @@
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-01T11:30:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -130,7 +130,7 @@
       "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T03:30:32+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -154,11 +154,36 @@
       "summary": "Meta has appointed Dhruv Vohra as Managing Director of its Global Business Group in Southeast Asia, putting a longtime regional executive in charge of one of the company’s most commercially important and behaviourally complex markets. Based in the region, Vohra will oversee Meta’s commercial strategy across Indonesia,…"
     },
     {
+      "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
+      "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-01T08:58:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code"
+      ],
+      "summary": "TeamViewer hat aktualisierte Pakete veröffentlicht, die hochriskante Sicherheitslecks stopfen. Admins sollten sie zügig installieren."
+    },
+    {
       "title": "WatchGuard schließt teils kritische Lücken in Fireware OS",
       "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T07:24:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -183,7 +208,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T05:49:06.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -208,7 +233,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:50:10.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -233,7 +258,7 @@
       "url": "https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:47:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -258,7 +283,7 @@
       "url": "https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:06:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -282,7 +307,7 @@
       "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "source": "BIS Press Releases",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "macro"
@@ -310,7 +335,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-01T08:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -330,11 +355,36 @@
       "summary": "Euro area bank interest rate statistics: August 2026"
     },
     {
+      "title": "M 4.9 - 145 km ESE of Neiafu, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-01T09:12:29.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-01 08:45:44 UTC 2026-10-01 08:45:44 UTC at epicenter Location 19.141°S 172.704°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:52:50.450+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -359,7 +409,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T00:45:24.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -384,7 +434,7 @@
       "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:20:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -410,7 +460,7 @@
       "url": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-01T06:12:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -434,7 +484,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T03:02:41+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -458,7 +508,7 @@
       "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
       "source": "BIS Press Releases",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "infra",
@@ -486,7 +536,7 @@
       "url": "https://anond.hatelabo.jp/20261001070030",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T22:05:08+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -512,7 +562,7 @@
       "url": "https://e27.co/uptober-or-downtober-will-bitcoins-19-seasonal-average-survive-us100-oil-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T06:11:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -536,7 +586,7 @@
       "url": "https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T06:30:43+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -562,7 +612,7 @@
       "url": "https://www.digital.go.jp/councils/kyotsuwt/b152169b-f876-4d57-9cd9-2b3a211d3826",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-01T08:06:16+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -586,7 +636,7 @@
       "url": "https://e27.co/zeya-health-buys-connectlah-to-build-ai-booking-rails-for-clinics-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T05:30:19+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -612,7 +662,7 @@
       "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T01:25:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -636,7 +686,7 @@
       "url": "https://blog.tinect.jp/?p=91526",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T23:23:44+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -660,7 +710,7 @@
       "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T02:30:27+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -687,7 +737,7 @@
       "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:30:45+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -711,7 +761,7 @@
       "url": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:10:02+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -737,7 +787,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 103.26,
+      "age_days": 103.28,
       "topics": [
         "general"
       ],
@@ -762,7 +812,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 103.26,
+      "age_days": 103.28,
       "topics": [
         "general"
       ],
@@ -787,7 +837,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 103.26,
+      "age_days": 103.28,
       "topics": [
         "ai"
       ],
@@ -814,7 +864,7 @@
       "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T02:00:01+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
