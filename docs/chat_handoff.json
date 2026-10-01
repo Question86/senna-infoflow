@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-01T21:17:36+00:00",
+  "generated_at": "2026-10-01T21:30:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 2,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 30,
-    "observe": 54
+    "medium": 31,
+    "observe": 55
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "dotfiles を AI agent のために作り変えた",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-01T14:35:59+00:00",
+      "relevance_score": 23,
+      "url": "https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/",
+      "summary": "最近、自分のターミナルでコマンドを打っているのは、ほとんど自分ではなく Claude Code や Codex だった（以下 AI）。試しに数えてみると、直近 gh を叩いた回数は自分が80回で、AI が1,339回だった。 一方で、10年以上いじってきた dotfiles は、人間が快適に使うための設定の塊だ。これが AI にとってはけっこう邪魔...",
+      "section": "medium"
+    },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
       "source": "JVN Japan Vulnerability Notes",
@@ -42,16 +52,6 @@
       "relevance_score": 17,
       "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
       "summary": "Across Southeast Asia’s technology hubs, the AI conversation has moved quickly from “Can it help developers write code faster?” to a harder question: “Can it be trusted to work on the codebase by itself?” That shift matters. The first wave of generative AI in…",
-      "section": "medium"
-    },
-    {
-      "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-10-01T14:00:00+00:00",
-      "relevance_score": 16,
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
-      "summary": "Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
       "section": "medium"
     },
     {
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:51:59+00:00",
-        "age_days": 0.44,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann diese Schwachstellen ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu Denial‑of‑Service, Speicherbeschädigung oder weiteren nicht definierten Auswirkungen führen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:07:46+00:00",
-        "age_days": 0.47,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Speicherbeschädigungen zu verursachen und möglicherweise beliebigen Code auszuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gdb): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:07:45+00:00",
-        "age_days": 0.47,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "Rate limits for private vulnerability reports",
-        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-01T19:57:39+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Private vulnerability reporting now applies daily rate limits to new reports. This helps protect you from bulk and automated submissions, while legitimate researchers can still reach you. Open source maintainers… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog ."
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1570",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:41:29+00:00",
-        "age_days": 0.4,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen."
-      }
-    ]
-  }
+  ]
 }
