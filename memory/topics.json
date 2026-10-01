@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T10:53:12+00:00",
+  "generated_at": "2026-10-01T10:58:48+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
       },
       {
+        "title": "[NEU] [mittel] OpenSC: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:56:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3682"
+      },
+      {
         "title": "[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-01T10:52:01+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-01T10:07:45+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652"
-      },
-      {
-        "title": "[UPDATE] [hoch] Podman: Schwachstelle ermöglicht Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:07:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651"
       }
     ],
     "ai": [
@@ -177,6 +177,13 @@
         "published_at": "2026-10-01T01:20:29+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
+      },
+      {
+        "title": "[NEU] [mittel] OpenSC: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:56:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3682"
       },
       {
         "title": "Euro area bank interest rate statistics: August 2026",
