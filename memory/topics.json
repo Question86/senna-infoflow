@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T22:41:16+00:00",
+  "generated_at": "2026-10-01T22:53:42+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"
       },
       {
+        "title": "GitHub Actions: macOS 14 runner image retirement",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:11:23+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement"
+      },
+      {
         "title": "10 technical talks I’m excited about at GitHub Universe 2026",
         "source": "GitHub Blog Atom",
         "published_at": "2026-10-01T15:07:16+00:00",
         "relevance_score": 12,
         "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
-      },
-      {
-        "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-10-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://openai.com/index/the-den-family-social"
       }
     ],
     "security": [
@@ -379,6 +379,13 @@
         "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"
       },
       {
+        "title": "GitHub Actions: macOS 14 runner image retirement",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:11:23+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement"
+      },
+      {
         "title": "Scheduled code scanning skips inactive repositories",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-10-01T16:49:15+00:00",
@@ -426,13 +433,6 @@
         "published_at": "2026-10-01T14:00:51+00:00",
         "relevance_score": 4,
         "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available"
-      },
-      {
-        "title": "Accessibility statements highlighted on repository overview",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-01T19:04:32+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview"
       }
     ]
   }
