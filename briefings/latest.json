@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T11:13:11+00:00",
-  "run_id": "2026-10-01T11:13:11+00:00",
+  "generated_at": "2026-10-01T11:26:41+00:00",
+  "run_id": "2026-10-01T11:26:41+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 2,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
-    "medium": 20,
+    "medium": 22,
     "observe": 25,
     "source_errors": 0
   },
@@ -292,6 +292,52 @@
           "LOW"
         ],
         "id": "b453f93cf612286da8cf"
+      },
+      {
+        "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:16:30+00:00",
+        "fetched_at": "2026-10-01T11:26:08+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell PowerScale OneFS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fcdcaed058667c5bc53c"
+      },
+      {
+        "title": "[UPDATE] [mittel] Intel UEFI Reference BIOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:16:29+00:00",
+        "fetched_at": "2026-10-01T11:26:08+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Intel UEFI Reference BIOS ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "60c3e8f465a2417e5147"
       },
       {
         "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
@@ -1376,6 +1422,52 @@
       "id": "b453f93cf612286da8cf"
     },
     {
+      "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:16:30+00:00",
+      "fetched_at": "2026-10-01T11:26:08+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell PowerScale OneFS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fcdcaed058667c5bc53c"
+    },
+    {
+      "title": "[UPDATE] [mittel] Intel UEFI Reference BIOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:16:29+00:00",
+      "fetched_at": "2026-10-01T11:26:08+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Intel UEFI Reference BIOS ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60c3e8f465a2417e5147"
+    },
+    {
       "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2191,13 +2283,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686",
+      "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T11:06:29+00:00",
-      "fetched_at": "2026-10-01T11:12:41+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Moodle ausnutzen, um Dateien zu manipulieren, Daten offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+      "published_at": "2026-10-01T11:16:30+00:00",
+      "fetched_at": "2026-10-01T11:26:08+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell PowerScale OneFS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2211,16 +2303,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9cd2a5a4ab18246b31c9"
+      "id": "fcdcaed058667c5bc53c"
     },
     {
-      "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Offenlegung von Informationen und Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685",
+      "title": "[UPDATE] [mittel] Intel UEFI Reference BIOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T11:06:29+00:00",
-      "fetched_at": "2026-10-01T11:12:41+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Informationen offenzulegen und um Daten zu manipulieren.",
+      "published_at": "2026-10-01T11:16:29+00:00",
+      "fetched_at": "2026-10-01T11:26:08+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Intel UEFI Reference BIOS ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2234,53 +2326,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6445f72f07b4f71bd9ff"
-    },
-    {
-      "title": "[NEU] [mittel] Ghostscript: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-01T11:01:29+00:00",
-      "fetched_at": "2026-10-01T11:12:41+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ghostscript ausnutzen, um möglicherweise Daten offenzulegen oder zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b2b76844c0a71b625769"
-    },
-    {
-      "title": "[NEU] [mittel] Apache Camel: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3683",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-01T11:01:29+00:00",
-      "fetched_at": "2026-10-01T11:12:41+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in Apache Camel ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "337c3e8f23865f009104"
+      "id": "60c3e8f465a2417e5147"
     }
   ],
   "source_errors": [],
