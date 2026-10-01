@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T05:46:09+00:00_
+_Generated: 2026-10-01T05:55:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-01T05:46:09+00:00_
 - url: https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/
 - summary: Across Southeast Asia’s technology hubs, the AI conversation has moved quickly from “Can it help developers write code faster?” to a harder question: “Can it be trusted to work on the codebase by itself?” That shift matters. The first wave of generative AI in…
 
-### 4. M 4.6 - 45 km ENE of Luwuk, Indonesia
+### 4. M 5.0 - 38 km WSW of Palimbang, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-10-01T01:50:10.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ0
-- summary: Time 2026-10-01 01:31:23 UTC 2026-10-01 01:31:23 UTC at epicenter Location 0.863°S 123.184°E Depth 116.39 km (72.32 mi)
+- published: `2026-10-01T05:49:06.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7
+- summary: Time 2026-10-01 05:34:10 UTC 2026-10-01 05:34:10 UTC at epicenter Location 6.112°N 123.860°E Depth 10.00 km (6.21 mi)
 
 ### 5. ChatGPT連携初日の増田で何が起きていたか
 - source: Hatena Bookmark Hotentry IT
