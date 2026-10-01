@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T02:39:52+00:00_
+_Generiert: 2026-10-01T02:59:01+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+11 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
   - Kurz: In July 2011, a 27-year-old Stanford dropout secured a 10-minute slot with George Shultz at the Hoover Institution. The meeting ran two and a half hours. Before the month was out, the former secretary of state had joined the Theranos board, won over, he told Fortune, by her “purity of motivation.” Nothing said in that […] The post Why con artists get the meeting that honest founders can’t appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **さよならイルカショー** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91526)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-30T23:23:44+00:00`, fetched `2026-10-01T02:58:26+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PSA, Granite Asia launch US$50M fund to scale supply-chain innovation** — Score 4, observation — [Quelle](https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T02:39:52+00:00",
+  "generated_at": "2026-10-01T02:59:01+00:00",
   "topics": {
     "security": [
       {
@@ -86,6 +86,13 @@
         "published_at": "2026-10-01T00:45:24.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp"
+      },
+      {
+        "title": "さよならイルカショー",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-30T23:23:44+00:00",
+        "relevance_score": 5,
+        "url": "https://blog.tinect.jp/?p=91526"
       },
       {
         "title": "What building Bangladesh’s agency actually looks like from the inside – Part 2",
