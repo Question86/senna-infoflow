@@ -70,6 +70,29 @@
     "id": "b097d38e4443b2e9baae"
   },
   {
+    "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-10-01T14:00:00+00:00",
+    "fetched_at": "2026-10-01T14:08:37+00:00",
+    "summary": "Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3496bb3d5edf8f517d8e"
+  },
+  {
     "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941",
     "source": "BSI CERT-Bund Security Advisories",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T13:57:28+00:00_
+_Generiert: 2026-10-01T14:09:12+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+60 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,10 @@ _Generiert: 2026-10-01T13:57:28+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI -.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI&gt;=III.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI -.
 - **GDACS: Green notification for tropical cyclone CHOI-WAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001332)
   - Quelle: GDACS
   - Zeit: ``
@@ -107,6 +107,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Across Southeast Asia’s technology hubs, the AI conversation has moved quickly from “Can it help developers write code faster?” to a harder question: “Can it be trusted to work on the codebase by itself?” That shift matters. The first wave of generative AI in software engineering was largely about assistance: autocomplete tools, chat-based coding helpers, […] The post The AI agent boom is exposing Southeast Asia’s s…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI** — Score 16, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-10-01T14:00:00+00:00`, fetched `2026-10-01T14:08:37+00:00`
+  - Treffer: AI/KI, Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`

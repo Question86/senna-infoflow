@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T13:57:28+00:00",
-  "run_id": "2026-10-01T13:57:28+00:00",
+  "generated_at": "2026-10-01T14:09:12+00:00",
+  "run_id": "2026-10-01T14:09:12+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 1,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
-    "medium": 25,
+    "medium": 26,
     "observe": 34,
     "source_errors": 0
   },
@@ -98,6 +98,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b097d38e4443b2e9baae"
+      },
+      {
+        "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
+        "source": "Federal Reserve Speeches and Testimony",
+        "source_type": "rss",
+        "published_at": "2026-10-01T14:00:00+00:00",
+        "fetched_at": "2026-10-01T14:08:37+00:00",
+        "summary": "Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy",
+          "speech",
+          "testimony"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3496bb3d5edf8f517d8e"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1509,6 +1532,29 @@
       "id": "b097d38e4443b2e9baae"
     },
     {
+      "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-10-01T14:00:00+00:00",
+      "fetched_at": "2026-10-01T14:08:37+00:00",
+      "summary": "Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3496bb3d5edf8f517d8e"
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2845,47 +2891,27 @@
   ],
   "new_findings": [
     {
-      "title": "Actions Runner Controller release 0.15.0",
-      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-      "source": "GitHub Changelog Atom",
+      "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
       "source_type": "rss",
-      "published_at": "2026-10-01T13:01:31+00:00",
-      "fetched_at": "2026-10-01T13:56:59+00:00",
-      "summary": "GitHub Actions Runner Controller 0.15.0 includes reliability, scalability, and observability improvements for runner scale sets. These updates help you operate larger runner fleets with fewer disruptions during upgrades and Kubernetes… The post Actions Runner Controller release 0.15.0 appeared first on The GitHub Blog .",
+      "published_at": "2026-10-01T14:00:00+00:00",
+      "fetched_at": "2026-10-01T14:08:37+00:00",
+      "summary": "Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
       "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
+        "AI/KI",
+        "Macro/Policy",
+        "speech",
+        "testimony"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0de6837b7d232ced9f29"
-    },
-    {
-      "title": "日本原子力機構に不正アクセス 研究者の個人情報が漏えい | NEWSjp",
-      "url": "https://news.jp/i/1478318653420880862",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-01T10:02:04+00:00",
-      "fetched_at": "2026-10-01T13:56:59+00:00",
-      "summary": "日本原子力研究開発機構は1日、茨城県東海村にある研究用原子炉「JRR3」の利用手続きサイトに不正アクセスがあり、外部の研究者の運転免許証画像など計2419件の登録情報が漏えいしたと公表した。施設の安全や警備に影響する情報は含まれないという。 機構によると、漏えいした情報のうち免許証やパスポートの画像、健康...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f53b797566875752ad76"
+      "id": "3496bb3d5edf8f517d8e"
     }
   ],
   "source_errors": [],

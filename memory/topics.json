@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T13:57:28+00:00",
+  "generated_at": "2026-10-01T14:09:12+00:00",
   "topics": {
     "security": [
       {
@@ -91,6 +91,13 @@
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
       },
       {
+        "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-10-01T14:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm"
+      },
+      {
         "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-01T12:58:17.805+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-09-21T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1209/"
-      },
-      {
-        "title": "Why con artists get the meeting that honest founders can’t",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T01:10:02+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/"
       }
     ],
     "economy": [
@@ -154,6 +154,13 @@
         "published_at": "2026-10-01T03:30:32+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/"
+      },
+      {
+        "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-10-01T14:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm"
       },
       {
         "title": "Euro area bank interest rate statistics: August 2026",

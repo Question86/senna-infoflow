@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T13:57:28+00:00_
+_Generated: 2026-10-01T14:09:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `60`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-01T13:57:28+00:00_
 - url: https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/
 - summary: Across Southeast Asia’s technology hubs, the AI conversation has moved quickly from “Can it help developers write code faster?” to a harder question: “Can it be trusted to work on the codebase by itself?” That shift matters. The first wave of generative AI in…
 
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
+### 4. Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI
+- source: Federal Reserve Speeches and Testimony
 - score: `16`
-- published: `2026-10-01T10:51:59+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941
-- summary: Ein Angreifer kann diese Schwachstellen ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu Denial‑of‑Service, Speicherbeschädigung oder weiteren nicht definierten Auswirkungen führen.
+- published: `2026-10-01T14:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm
+- summary: Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri
 
 ### 5. Christine Lagarde: Where AI risks meet
 - source: ECB Press Releases Speeches Interviews
