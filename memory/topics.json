@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T10:44:43+00:00",
+  "generated_at": "2026-10-02T10:52:01+00:00",
   "topics": {
     "ai": [
       {
@@ -112,6 +112,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
       },
       {
+        "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation und Offenlegung von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367"
+      },
+      {
         "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T10:41:29+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711"
-      },
-      {
-        "title": "[NEU] [hoch] CODESYS Control Runtime und Gateway Client: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:26:30+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710"
       }
     ],
     "geopolitics": [

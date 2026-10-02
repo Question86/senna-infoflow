@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T10:44:43+00:00",
-  "run_id": "2026-10-02T10:44:43+00:00",
+  "generated_at": "2026-10-02T10:52:01+00:00",
+  "run_id": "2026-10-02T10:52:01+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 21,
+    "medium": 22,
     "observe": 26,
     "source_errors": 0
   },
@@ -300,6 +300,29 @@
           "LOW"
         ],
         "id": "e84985033db4b91208af"
+      },
+      {
+        "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation und Offenlegung von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-02T10:46:29+00:00",
+        "fetched_at": "2026-10-02T10:51:29+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Python ausnutzen, um Daten zu manipulieren oder offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8a0fcaabd2c0266ca1d2"
       },
       {
         "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
@@ -1491,6 +1514,29 @@
       "id": "e84985033db4b91208af"
     },
     {
+      "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation und Offenlegung von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-02T10:46:29+00:00",
+      "fetched_at": "2026-10-02T10:51:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Python ausnutzen, um Daten zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8a0fcaabd2c0266ca1d2"
+    },
+    {
       "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3713",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2405,13 +2451,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3713",
+      "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation und Offenlegung von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-02T10:41:29+00:00",
-      "fetched_at": "2026-10-02T10:44:13+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Bouncy Castle ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-10-02T10:46:29+00:00",
+      "fetched_at": "2026-10-02T10:51:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Python ausnutzen, um Daten zu manipulieren oder offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2425,7 +2471,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e8e73aab119f23e6e440"
+      "id": "8a0fcaabd2c0266ca1d2"
     }
   ],
   "source_errors": [],
