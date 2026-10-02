@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-02T02:55:51Z",
+  "generated_at": "2026-10-02T03:06:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -67,7 +67,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.04,
+      "age_days": 105.05,
       "topics": [
         "ai"
       ],
@@ -122,7 +122,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:43:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -146,7 +146,7 @@
       "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T14:05:52+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -170,7 +170,7 @@
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:26:14+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -246,7 +246,7 @@
       "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T01:00:55+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -272,7 +272,7 @@
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:53:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],

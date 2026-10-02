@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-02T02:55:51Z_
+_Generated: 2026-10-02T03:06:07Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-02T10:00:15+09:00` / age_days `0.08`
+- Published: `2026-10-02T10:00:15+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-02T10:00:30+09:00` / age_days `0.08`
+- Published: `2026-10-02T10:00:30+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-02T10:00:00+09:00` / age_days `0.08`
+- Published: `2026-10-02T10:00:00+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `105.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `105.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 105.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-02T02:43:05+00:00` / age_days `0.01`
+- Published: `2026-10-02T02:43:05+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-01T14:05:52+00:00` / age_days `0.53`
+- Published: `2026-10-01T14:05:52+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-10-02T02:26:14+00:00` / age_days `0.02`
+- Published: `2026-10-02T02:26:14+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `4.0`
-- Published: `2026-10-02T01:00:55+00:00` / age_days `0.08`
+- Published: `2026-10-02T01:00:55+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-10-01T22:53:10+00:00` / age_days `0.17`
+- Published: `2026-10-01T22:53:10+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck

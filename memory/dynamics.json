@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T02:55:51Z",
+  "generated_at": "2026-10-02T03:06:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 15,
@@ -21,7 +21,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.04,
+      "age_days": 105.05,
       "topics": [
         "ai"
       ],
@@ -128,7 +128,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:43:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -152,7 +152,7 @@
       "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T14:05:52+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -176,7 +176,7 @@
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:26:14+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -252,7 +252,7 @@
       "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T01:00:55+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -278,7 +278,7 @@
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:53:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -330,7 +330,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 104.0,
+      "age_days": 104.01,
       "topics": [
         "general"
       ],
@@ -355,7 +355,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 104.0,
+      "age_days": 104.01,
       "topics": [
         "general"
       ],
@@ -380,7 +380,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 104.0,
+      "age_days": 104.01,
       "topics": [
         "ai"
       ],
