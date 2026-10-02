@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T11:24:00Z",
+  "generated_at": "2026-10-02T11:35:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 18,
+      "krass": 19,
       "strong": 12,
-      "watch": 7,
-      "quiet": 3
+      "watch": 8,
+      "quiet": 1
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 26,
-      "watch": 7,
-      "quiet": 3
+      "strong": 27,
+      "watch": 8,
+      "quiet": 1
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T11:06:38+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:11:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T08:21:29+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3716",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T11:11:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3714",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:51:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3713",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:41:29+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3709",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -246,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -272,7 +272,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -294,11 +294,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3717",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-02T11:26:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Administratorrechte zu erlangen."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat OpenShift: Schwachstelle ermöglicht Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0600",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -324,7 +350,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -351,7 +377,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -377,7 +403,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -403,7 +429,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -429,7 +455,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -455,7 +481,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -481,7 +507,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -508,7 +534,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3694",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T06:06:29+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -534,7 +560,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-02T06:46:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -561,7 +587,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:51:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -586,7 +612,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -613,7 +639,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.39,
+      "age_days": 105.4,
       "topics": [
         "ai"
       ],
@@ -642,7 +668,7 @@
       "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-02T10:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -768,7 +794,7 @@
       "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:25:38+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -794,7 +820,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-02T08:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -812,6 +838,31 @@
         "high terms: 10"
       ],
       "summary": "Euro area quarterly balance of payments and international investment position: second quarter of 2026"
+    },
+    {
+      "title": "M 5.0 - 63 km SW of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz0x",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-02T11:33:54.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-02 11:14:14 UTC 2026-10-02 11:14:14 UTC at epicenter Location 6.637°S 155.014°E Depth 38.25 km (23.77 mi)"
     },
     {
       "title": "M 4.8 - 35 km SSW of El Colomo, Mexico",
@@ -843,7 +894,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:59:37.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -868,7 +919,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:49:51.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -893,7 +944,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:42:18.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -918,7 +969,7 @@
       "url": "https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T11:17:28+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro"
@@ -945,7 +996,7 @@
       "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:48:10+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -972,7 +1023,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261002-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T04:10:03+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -990,54 +1041,6 @@
         "high terms: 10"
       ],
       "summary": "古川大臣記者会見（令和8年10月2日）動画を掲載しました"
-    },
-    {
-      "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
-      "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-02T02:43:05+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）"
-    },
-    {
-      "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html",
-      "source": "ECB Statistical Press Releases",
-      "published_at": "2026-10-02T09:00:00+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Households and non-financial corporations in the euro area: second quarter of 2026"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
