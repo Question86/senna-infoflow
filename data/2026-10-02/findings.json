@@ -23,6 +23,28 @@
     "id": "9efbc9f5c1689ae66551"
   },
   {
+    "title": "Repository security advisory comments API in public preview",
+    "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-02T13:15:25+00:00",
+    "fetched_at": "2026-10-02T15:34:44+00:00",
+    "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in public preview appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8fedc10f804cc2280f05"
+  },
+  {
     "title": "The hidden economics of autonomous AI agents",
     "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -872,6 +894,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "84d50d48f920be7399e2"
+  },
+  {
+    "title": "New fields for SecurityAdvisory GraphQL API",
+    "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-02T13:18:00+00:00",
+    "fetched_at": "2026-10-02T15:34:44+00:00",
+    "summary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:… The post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a84c2012e95d91a68fc8"
   },
   {
     "title": "Confidential comments on repository security advisories",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T15:22:56+00:00",
-  "run_id": "2026-10-02T15:22:56+00:00",
+  "generated_at": "2026-10-02T15:35:21+00:00",
+  "run_id": "2026-10-02T15:35:21+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 2,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
-    "medium": 29,
-    "observe": 39,
+    "medium": 30,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -51,6 +51,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9efbc9f5c1689ae66551"
+      },
+      {
+        "title": "Repository security advisory comments API in public preview",
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-02T13:15:25+00:00",
+        "fetched_at": "2026-10-02T15:34:44+00:00",
+        "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8fedc10f804cc2280f05"
       },
       {
         "title": "The hidden economics of autonomous AI agents",
@@ -906,6 +928,27 @@
         "id": "84d50d48f920be7399e2"
       },
       {
+        "title": "New fields for SecurityAdvisory GraphQL API",
+        "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-02T13:18:00+00:00",
+        "fetched_at": "2026-10-02T15:34:44+00:00",
+        "summary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:… The post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a84c2012e95d91a68fc8"
+      },
+      {
         "title": "Confidential comments on repository security advisories",
         "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
         "source": "GitHub Changelog Atom",
@@ -1735,6 +1778,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9efbc9f5c1689ae66551"
+    },
+    {
+      "title": "Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-02T13:15:25+00:00",
+      "fetched_at": "2026-10-02T15:34:44+00:00",
+      "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8fedc10f804cc2280f05"
     },
     {
       "title": "The hidden economics of autonomous AI agents",
@@ -2588,6 +2653,27 @@
       "id": "84d50d48f920be7399e2"
     },
     {
+      "title": "New fields for SecurityAdvisory GraphQL API",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-02T13:18:00+00:00",
+      "fetched_at": "2026-10-02T15:34:44+00:00",
+      "summary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:… The post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a84c2012e95d91a68fc8"
+    },
+    {
       "title": "Confidential comments on repository security advisories",
       "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "source": "GitHub Changelog Atom",
@@ -3395,25 +3481,47 @@
   ],
   "new_findings": [
     {
-      "title": "普通のメガネなのに網膜投影 TDKがレンズに埋め込める透明ミラー",
-      "url": "https://www.watch.impress.co.jp/docs/news/2145266.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-02T12:11:08+00:00",
-      "fetched_at": "2026-10-02T15:22:20+00:00",
-      "summary": "普通のメガネなのに網膜投影 TDKがレンズに埋め込める透明ミラー",
+      "published_at": "2026-10-02T13:15:25+00:00",
+      "fetched_at": "2026-10-02T15:34:44+00:00",
+      "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in public preview appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 19,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8fedc10f804cc2280f05"
+    },
+    {
+      "title": "New fields for SecurityAdvisory GraphQL API",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-02T13:18:00+00:00",
+      "fetched_at": "2026-10-02T15:34:44+00:00",
+      "summary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:… The post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e4ad4c0413f45576abfb"
+      "id": "a84c2012e95d91a68fc8"
     }
   ],
   "source_errors": [],
