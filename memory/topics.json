@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T05:09:11+00:00",
+  "generated_at": "2026-10-02T05:25:56+00:00",
   "topics": {
     "ai": [
       {
@@ -118,6 +118,13 @@
     ],
     "general": [
       {
+        "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-02T02:39:19+00:00",
+        "relevance_score": 11,
+        "url": "https://labo.hatenastaff.com/entry/2026/10/02/113000"
+      },
+      {
         "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-02T02:26:14+00:00",
@@ -179,13 +186,6 @@
         "published_at": "2026-10-01T22:41:14+00:00",
         "relevance_score": 5,
         "url": "https://www.techno-edge.net/article/2026/10/02/5544.html"
-      },
-      {
-        "title": "『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-01T15:45:56+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260514203244"
       }
     ],
     "github": [
