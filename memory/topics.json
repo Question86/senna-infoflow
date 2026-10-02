@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T10:20:29+00:00",
+  "generated_at": "2026-10-02T10:33:30+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-10-02T04:48:10+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/"
+      },
+      {
+        "title": "[NEU] [hoch] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen und potenziell Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711"
       },
       {
         "title": "[UPDATE] [hoch] JetBrains You Track: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-02T03:30:15+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/"
-      },
-      {
-        "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T01:00:55+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-10-02T10:00:00+00:00",
         "relevance_score": 20,
         "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
@@ -98,62 +105,90 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701"
       },
       {
+        "title": "[NEU] [hoch] Tenable Security Nessus: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0600"
+      },
+      {
+        "title": "[NEU] [mittel] MediaWiki: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3709"
+      },
+      {
+        "title": "[NEU] [hoch] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen und potenziell Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711"
+      },
+      {
+        "title": "[NEU] [hoch] CODESYS Control Runtime und Gateway Client: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710"
+      },
+      {
         "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-02T10:00:30+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU94648869/"
-      },
-      {
-        "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92911062/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Vercel Next.js: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T09:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699"
-      },
-      {
-        "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T09:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698"
-      },
-      {
-        "title": "[UPDATE] [hoch] JetBrains You Track: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T09:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T08:21:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Zammad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T06:06:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3694"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712"
+      },
       {
         "title": "[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T09:11:29+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701"
+      },
+      {
+        "title": "[NEU] [hoch] Tenable Security Nessus: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
+      },
+      {
+        "title": "[NEU] [mittel] MediaWiki: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3709"
+      },
+      {
+        "title": "[NEU] [hoch] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen und potenziell Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711"
+      },
+      {
+        "title": "[NEU] [hoch] CODESYS Control Runtime und Gateway Client: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:26:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710"
       },
       {
         "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
@@ -182,13 +217,6 @@
         "published_at": "2026-10-02T09:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html"
-      },
-      {
-        "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T04:25:38+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/"
       }
     ],
     "economy": [
