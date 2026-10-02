@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T21:59:58+00:00",
-  "run_id": "2026-10-02T21:59:58+00:00",
+  "generated_at": "2026-10-02T22:19:42+00:00",
+  "run_id": "2026-10-02T22:19:42+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
     "medium": 33,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -2005,6 +2005,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e4ad4c0413f45576abfb"
+      },
+      {
+        "title": "タイムズカー免許証画像流出、集団訴訟準備サイトに1万人超登録 責任追及へ弁護士が開設",
+        "url": "https://www.sankei.com/article/20261002-CBY3MPTUCVOO7BQLK4W4MOITEM/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-02T10:30:35+00:00",
+        "fetched_at": "2026-10-02T22:19:06+00:00",
+        "summary": "カーシェアリングサービス「タイムズカー」への不正アクセスで免許証画像などが流出した問題で、集団訴訟に向けた準備が進んでいる。東京弁護士会の牧野裕貴弁護士がサイトを開設し、2日午後1時までに、1万人以上が登録。牧野弁護士は「企業側の責任を追及するために多くの人の協力が必要だ」と呼びかけた。 サイトへの...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "726546aaebdd0028ede8"
       },
       {
         "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
@@ -4152,6 +4173,27 @@
       "id": "e4ad4c0413f45576abfb"
     },
     {
+      "title": "タイムズカー免許証画像流出、集団訴訟準備サイトに1万人超登録 責任追及へ弁護士が開設",
+      "url": "https://www.sankei.com/article/20261002-CBY3MPTUCVOO7BQLK4W4MOITEM/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-02T10:30:35+00:00",
+      "fetched_at": "2026-10-02T22:19:06+00:00",
+      "summary": "カーシェアリングサービス「タイムズカー」への不正アクセスで免許証画像などが流出した問題で、集団訴訟に向けた準備が進んでいる。東京弁護士会の牧野裕貴弁護士がサイトを開設し、2日午後1時までに、1万人以上が登録。牧野弁護士は「企業側の責任を追及するために多くの人の協力が必要だ」と呼びかけた。 サイトへの...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "726546aaebdd0028ede8"
+    },
+    {
       "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
       "url": "https://www.47news.jp/15026982.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4321,13 +4363,13 @@
   ],
   "new_findings": [
     {
-      "title": "【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？",
-      "url": "https://zenn.dev/sc30gsw/books/080faba713547b",
+      "title": "タイムズカー免許証画像流出、集団訴訟準備サイトに1万人超登録 責任追及へ弁護士が開設",
+      "url": "https://www.sankei.com/article/20261002-CBY3MPTUCVOO7BQLK4W4MOITEM/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-02T14:24:04+00:00",
-      "fetched_at": "2026-10-02T21:59:25+00:00",
-      "summary": "【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？ AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillとい...",
+      "published_at": "2026-10-02T10:30:35+00:00",
+      "fetched_at": "2026-10-02T22:19:06+00:00",
+      "summary": "カーシェアリングサービス「タイムズカー」への不正アクセスで免許証画像などが流出した問題で、集団訴訟に向けた準備が進んでいる。東京弁護士会の牧野裕貴弁護士がサイトを開設し、2日午後1時までに、1万人以上が登録。牧野弁護士は「企業側の責任を追及するために多くの人の協力が必要だ」と呼びかけた。 サイトへの...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4339,7 +4381,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2de96626f08de2fb7766"
+      "id": "726546aaebdd0028ede8"
     }
   ],
   "source_errors": [],

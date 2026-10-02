@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T21:59:58+00:00_
+_Generiert: 2026-10-02T22:19:42+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „A model guide for the GPT-6 family“ aus OpenAI News RSS (Score 23, observation).
+84 neue relevante Treffer. Stärkstes Signal: „A model guide for the GPT-6 family“ aus OpenAI News RSS (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
