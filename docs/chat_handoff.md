@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T14:56:36+00:00_
+_Generated: 2026-10-02T15:02:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `67`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-02T14:56:36+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libpcap) ausnutzen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.
 
-### 5. Euro area quarterly balance of payments and international investment position: second quarter of 2026
+### 5. AI is rewriting the developer career ladder. Here’s how to stand out.
+- source: GitHub Blog Atom
+- score: `13`
+- published: `2026-10-02T15:00:00+00:00`
+- url: https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/
+- summary: Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog .
+
+### 6. Euro area quarterly balance of payments and international investment position: second quarter of 2026
 - source: ECB Statistical Press Releases
 - score: `13`
 - published: `2026-10-02T08:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html
 - summary: Euro area quarterly balance of payments and international investment position: second quarter of 2026
 
-### 6. FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar
+### 7. FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar
 - source: heise Security Alerts
 - score: `12`
 - published: `2026-10-02T06:46:00.000+00:00`
 - url: https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html
 - summary: Fortinet warnt vor Angriffen auf eine Zero-Day-Sicherheitslücke in FortiMail. Sie ermöglicht die Übernahme der Geräte aus dem Netz.
 
-### 7. Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes
+### 8. Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-02T10:58:09+00:00`
 - url: https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/
 - summary: Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dis…
-
-### 8. はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-02T02:39:19+00:00`
-- url: https://labo.hatenastaff.com/entry/2026/10/02/113000
-- summary: はてな匿名ダイアリー20周年の取り組みのひとつとして、実験的に新しい技術への対応を進めています。 先日お知らせしたChatGPTに続き、Claudeからもはてな匿名ダイアリーを利用できるようになりました。 Claudeとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、投稿*1したりできます。 Claudeからは...
 
 END OF DOCUMENT

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-02T14:56:36+00:00",
+  "generated_at": "2026-10-02T15:02:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 5,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
-    "medium": 28,
-    "observe": 34
+    "medium": 29,
+    "observe": 38
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-02T15:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog .",
+      "section": "observe"
+    },
+    {
       "title": "Euro area quarterly balance of payments and international investment position: second quarter of 2026",
       "source": "ECB Statistical Press Releases",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/",
       "summary": "Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dis…",
-      "section": "observe"
-    },
-    {
-      "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-02T02:39:19+00:00",
-      "relevance_score": 11,
-      "url": "https://labo.hatenastaff.com/entry/2026/10/02/113000",
-      "summary": "はてな匿名ダイアリー20周年の取り組みのひとつとして、実験的に新しい技術への対応を進めています。 先日お知らせしたChatGPTに続き、Claudeからもはてな匿名ダイアリーを利用できるようになりました。 Claudeとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、投稿*1したりできます。 Claudeからは...",
       "section": "observe"
     }
   ],
