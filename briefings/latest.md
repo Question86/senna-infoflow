@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T13:25:11+00:00_
+_Generiert: 2026-10-02T13:36:16+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
+60 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -233,6 +233,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
   - Kurz: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s […] The post MoneyHero’s activist investor wants a sale. Richard Li holds the real vote appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Confidential comments on repository security advisories** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-02T13:15:40+00:00`, fetched `2026-10-02T13:35:40+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with… The post Confidential comments on repository security advisories appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Households and non-financial corporations in the euro area: second quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-10-02T09:00:00+00:00`, fetched `2026-10-02T09:16:29+00:00`
@@ -313,15 +322,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 文字画像APNGメーカー｜TRPG WEBツール観測所
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/90de4098-6f70-433f-a492-7ab11d87e72d)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-02T06:00:00+00:00`, fetched `2026-10-02T06:35:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
