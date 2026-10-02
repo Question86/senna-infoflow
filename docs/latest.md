@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T21:32:41+00:00_
+_Generiert: 2026-10-02T21:43:03+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „A model guide for the GPT-6 family“ aus OpenAI News RSS (Score 23, observation).
+82 neue relevante Treffer. Stärkstes Signal: „A model guide for the GPT-6 family“ aus OpenAI News RSS (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
   - Kurz: You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with… The post Confidential comments on repository security advisories appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～** — Score 10, observation — [Quelle](https://lpi.or.jp/news/press/page/20261001_01/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-02T12:06:40+00:00`, fetched `2026-10-02T21:42:29+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ Linux技術者認定「LinuC(リナック)」などを実施する特定非営利活動法人エルピーアイジャパン(以下:LPI-Japan、東京都千代田区、理事長 鈴木 敦夫)...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Households and non-financial corporations in the euro area: second quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-10-02T09:00:00+00:00`, fetched `2026-10-02T09:16:29+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Walk into any pitch meeting, attend any LP conference, or read any VC blog, and you’ll be handed the same well-worn gospel: build diverse teams, move fast, be transparent, hire for culture, flatten hierarchies, and always be learning. This is the catechism of the modern venture capitalist, wisdom dispensed freely, with conviction, to the founders […] The post The advice gap: Why VCs don’t practice what they preach a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-02T11:30:00+00:00`, fetched `2026-10-02T11:33:42+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
