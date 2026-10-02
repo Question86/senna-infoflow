@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T06:35:36+00:00_
+_Generiert: 2026-10-02T06:59:41+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+28 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -143,6 +143,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar** — Score 12, risk — [Quelle](https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-02T06:46:00.000+00:00`, fetched `2026-10-02T06:59:12+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Fortinet warnt vor Angriffen auf eine Zero-Day-Sicherheitslücke in FortiMail. Sie ermöglicht die Übernahme der Geräte aus dem Netz.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ** — Score 11, observation — [Quelle](https://labo.hatenastaff.com/entry/2026/10/02/113000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-02T02:39:19+00:00`, fetched `2026-10-02T05:25:25+00:00`
@@ -242,14 +251,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月2日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka** — Score 5, observation — [Quelle](https://note.com/npaka/n/n4a1185074686)
+- **ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞** — Score 5, observation — [Quelle](https://otakuma.net/archives/2026100202.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-01T22:53:10+00:00`, fetched `2026-10-02T01:15:37+00:00`
+  - Zeit: published `2026-10-02T01:51:28+00:00`, fetched `2026-10-02T06:59:12+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 12GB VRAMで125Bモデルを動かす「Strata」の概要をまとめました。 1. はじめにローカルLLMでは、GPUのVRAM容量が大きな制約になります。特に100Bを超えるモデルは、量子化しても一般的なGPUのVRAMだけで動かすのは困難です。 そこで登場したのが、AI推論エンジン「Strata」です。 Strataは、GPUとCPUで計算を分担し、VRA...
+  - Kurz: よくある「ローソンを騙った偽メール」とは、少し事情が違います。今回は、ローソンのメールサーバーそのものが第三者に不正利用されました。ローソンは10月1日、同社のメールサーバーが第三者に不正利用され、外部に不審な英文メールが送信されていたことを発表しました。送信件数は推計約70万件にのぼります。 Publish...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
