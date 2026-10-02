@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T15:02:20+00:00_
+_Generiert: 2026-10-02T15:22:56+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
+68 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,6 @@ _Generiert: 2026-10-02T15:02:20+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104202)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in France
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826)
   - Quelle: GDACS
   - Zeit: ``

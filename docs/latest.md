@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T15:02:20+00:00_
+_Generiert: 2026-10-02T15:22:56+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
+68 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
