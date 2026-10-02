@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T08:59:00+00:00_
+_Generated: 2026-10-02T09:16:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `36`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-02T08:59:00+00:00_
 - url: https://jvn.jp/vu/JVNVU91842649/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Why Philippine companies are winning AI mentions but losing control of context
+### 3. [NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-02T09:11:29+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiMail ausnutzen, um Dateien zu manipulieren.
+
+### 4. Why Philippine companies are winning AI mentions but losing control of context
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-10-02T04:48:10+00:00`
 - url: https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/
 - summary: For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Googl…
-
-### 4. M 4.5 - 101 km NE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-02T07:24:34.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy
-- summary: Time 2026-10-02 06:48:06 UTC 2026-10-02 06:48:06 UTC at epicenter Location 7.951°S 121.099°E Depth 10.00 km (6.21 mi)
 
 ### 5. Euro area quarterly balance of payments and international investment position: second quarter of 2026
 - source: ECB Statistical Press Releases
