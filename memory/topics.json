@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T11:07:19+00:00",
+  "generated_at": "2026-10-02T11:22:53+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-02T03:28:53+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/"
+      },
+      {
+        "title": "Singapore’s AI dividend will depend on what happens after the pilot phase",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T11:17:28+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/"
       },
       {
         "title": "[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-02T03:00:55+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/"
-      },
-      {
-        "title": "AI時代の勉強法(2026)",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-01T23:26:31+00:00",
-        "relevance_score": 8,
-        "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-10-02T10:00:00+00:00",
         "relevance_score": 20,
         "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T11:06:38+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen",
@@ -119,6 +126,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
       },
       {
+        "title": "[NEU] [hoch] CPython: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T11:11:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3716"
+      },
+      {
         "title": "[NEU] [mittel] OpenBao: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T10:51:29+00:00",
@@ -131,20 +145,36 @@
         "published_at": "2026-10-02T10:46:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Singapore’s AI dividend will depend on what happens after the pilot phase",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T11:17:28+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/"
       },
       {
-        "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:41:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3713"
+        "title": "Why Philippine companies are winning AI mentions but losing control of context",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T04:48:10+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/"
       },
       {
-        "title": "[UPDATE] [mittel] Red Hat OpenShift: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:26:30+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0600"
+        "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T03:00:55+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/"
+      },
+      {
+        "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T04:25:38+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/"
       }
     ],
     "geopolitics": [
@@ -175,6 +205,13 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 15,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
+      },
+      {
+        "title": "[NEU] [hoch] CPython: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T11:11:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3716"
       },
       {
         "title": "[NEU] [mittel] OpenBao: Mehrere Schwachstellen",
@@ -210,36 +247,6 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94648869/"
-      }
-    ],
-    "economy": [
-      {
-        "title": "Why Philippine companies are winning AI mentions but losing control of context",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T04:48:10+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/"
-      },
-      {
-        "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T03:00:55+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/"
-      },
-      {
-        "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T04:25:38+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/"
       }
     ],
     "general": [
