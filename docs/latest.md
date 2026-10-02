@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T07:41:12+00:00_
+_Generiert: 2026-10-02T07:52:50+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+31 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -214,7 +214,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `restofworld_feed` (rss): 403 Client Error: Forbidden for url: https://restofworld.org/feed/latest/
