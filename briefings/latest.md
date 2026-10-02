@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T09:59:57+00:00_
+_Generiert: 2026-10-02T10:20:29+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+40 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Who gets to decide if AI is safe? Africa wants a say** — Score 20, observation — [Quelle](https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-10-02T10:00:00+00:00`, fetched `2026-10-02T10:19:59+00:00`
+  - Treffer: Africa, AI/KI, Public Health, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); Public Health (+6.2); Africa (+2.5); recent (+1.0)
+  - Kurz: African companies race to adopt American and Chinese AI, with little attention paid to safety.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The hidden economics of autonomous AI agents** — Score 19, opportunity — [Quelle](https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-02T03:28:53+00:00`, fetched `2026-10-02T03:39:20+00:00`
@@ -308,9 +317,9 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
