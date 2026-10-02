@@ -1,8 +1,40 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T00:35:14+00:00",
+  "generated_at": "2026-10-02T01:16:09+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-02T10:00:15+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU91842649/"
+      },
+      {
+        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-02T10:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94648869/"
+      },
+      {
+        "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-02T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92911062/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-02T10:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94648869/"
+      }
+    ],
     "ai": [
       {
         "title": "AI時代の勉強法(2026)",
@@ -10,6 +42,20 @@
         "published_at": "2026-10-01T23:26:31+00:00",
         "relevance_score": 8,
         "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era"
+      },
+      {
+        "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T01:00:55+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/"
+      },
+      {
+        "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T22:53:10+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/npaka/n/n4a1185074686"
       }
     ],
     "general": [
