@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T07:24:30+00:00_
+_Generiert: 2026-10-02T07:41:12+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
   - Kurz: For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Google Gemini and Perplexity for product recommendations, comparisons and buying advice, brands face a new visibility […] The post Why Philippine companies are winni…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 101 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-02T07:24:34.040+00:00`, fetched `2026-10-02T07:40:41+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-02 06:48:06 UTC 2026-10-02 06:48:06 UTC at epicenter Location 7.951°S 121.099°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 192 km WNW of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-02T06:12:24.040+00:00`, fetched `2026-10-02T06:35:05+00:00`
@@ -205,3 +214,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `restofworld_feed` (rss): 403 Client Error: Forbidden for url: https://restofworld.org/feed/latest/
