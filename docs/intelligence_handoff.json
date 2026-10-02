@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-02T04:29:56Z",
+  "generated_at": "2026-10-02T04:47:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -67,7 +67,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.11,
+      "age_days": 105.12,
       "topics": [
         "ai"
       ],
@@ -145,11 +145,37 @@
       "summary": ""
     },
     {
+      "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
+      "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T04:25:38+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10"
+      ],
+      "summary": "The cryptocurrency sector is moving higher in a coordinated fashion. Bitcoin rose 1.70 per cent to US$85,002.11 over the past 24 hours. The total crypto market climbed 1.16 per cent to US$2.89T. This advance rests on two powerful forces. Institutional optimism and policy progress are working together. The result is a…"
+    },
+    {
       "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261002-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T04:10:03+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -173,7 +199,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:43:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -197,7 +223,7 @@
       "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T14:05:52+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -221,7 +247,7 @@
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:26:14+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -247,7 +273,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T23:26:31+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -273,7 +299,7 @@
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T15:45:56+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -291,32 +317,6 @@
         "no strong comparative reason"
       ],
       "summary": "トランプが訪中したところ、盛大なパレードで歓待を受けた。これに対して六韜の一節と言われる文言を貼る人が多いが、実はこれはデマなので指摘するぞ。 https://togetter.com/li/2696932 この一節はネットで広く知られているし、外交や国際関係、安全保障畑の人らも良く引用している。だから増田もずっと信じていた。 ..."
-    },
-    {
-      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
-      "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T01:00:55+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Indonesia’s agritech sector looks different in 2026 than it did when TaniHub raised its Series B in 2021. The cohort of platforms that emerged in the late 2010s — TaniHub, Crowde, iGrow, Sayurbox, and others — aimed to do for smallholder agriculture what fintech had done for SME credit: build technology infrastructure…"
     }
   ],
   "read_order": [
@@ -328,8 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "quiet": 7
+      "strong": 6,
+      "quiet": 6
     }
   }
 }
