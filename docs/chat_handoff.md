@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T15:58:57+00:00_
+_Generated: 2026-10-02T16:16:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `72`
 
 ## Top Signals
 
-### 1. Who gets to decide if AI is safe? Africa wants a say
+### 1. A model guide for the GPT-6 family
+- source: OpenAI News RSS
+- score: `23`
+- published: `2026-10-02T16:15:00+00:00`
+- url: https://openai.com/index/practical-guide-building-gpt-6
+- summary: Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
+
+### 2. Who gets to decide if AI is safe? Africa wants a say
 - source: Rest of World Global Tech Feed
 - score: `20`
 - published: `2026-10-02T10:00:00+00:00`
 - url: https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: African companies race to adopt American and Chinese AI, with little attention paid to safety.
 
-### 2. Repository security advisory comments API in public preview
+### 3. Repository security advisory comments API in public preview
 - source: GitHub Changelog Atom
 - score: `19`
 - published: `2026-10-02T13:15:25+00:00`
 - url: https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview
 - summary: You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in pub…
 
-### 3. The hidden economics of autonomous AI agents
+### 4. The hidden economics of autonomous AI agents
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-10-02T03:28:53+00:00`
 - url: https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/
 - summary: For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try t…
-
-### 4. Singapore’s AI dividend will depend on what happens after the pilot phase
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-10-02T11:17:28+00:00`
-- url: https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/
-- summary: Singapore’s early bet on artificial intelligence could give its economy a modest but meaningful lift as population ageing starts to bite. But the real test will not be how many companies say they use AI. It will be whether they can rebuild work around it. The…
 
 ### 5. AI is rewriting the developer career ladder. Here’s how to stand out.
 - source: GitHub Blog Atom

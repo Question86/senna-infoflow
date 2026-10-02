@@ -1,14 +1,22 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T15:58:57+00:00_
+_Generiert: 2026-10-02T16:16:08+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Who gets to decide if AI is safe? Africa wants a say“ aus Rest of World Global Tech Feed (Score 20, observation).
+72 neue relevante Treffer. Stärkstes Signal: „A model guide for the GPT-6 family“ aus OpenAI News RSS (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-102490 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-02`
+  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Improper Privilege Management Vulnerability
+- **CISA KEV: CVE-2026-102489 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-02`
+  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Session Fixation Vulnerability
 - **CISA KEV: CVE-2026-104286 Fortinet FortiMail** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-01`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-02T15:58:57+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-29`
   - Kurz: Known exploited vulnerability. Added 2026-09-29. Due 2026-10-02. Apple Multiple Products Out-of-Bounds Write Vulnerability
-- **CISA KEV: CVE-2026-88772 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-27`
-  - Kurz: Known exploited vulnerability. Added 2026-09-27. Due 2026-09-30. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
-- **CISA KEV: CVE-2026-88771 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-27`
-  - Kurz: Known exploited vulnerability. Added 2026-09-27. Due 2026-09-30. Citrix NetScaler Improper Input Validation Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **A model guide for the GPT-6 family** — Score 23, observation — [Quelle](https://openai.com/index/practical-guide-building-gpt-6)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-02T16:15:00+00:00`, fetched `2026-10-02T16:15:35+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, Content-Chance, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Who gets to decide if AI is safe? Africa wants a say** — Score 20, observation — [Quelle](https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-02T10:00:00+00:00`, fetched `2026-10-02T10:19:59+00:00`
@@ -198,15 +207,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92911062/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-02T10:00:00+09:00`, fetched `2026-10-02T01:15:37+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten

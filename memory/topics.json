@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T15:58:57+00:00",
+  "generated_at": "2026-10-02T16:16:08+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "A model guide for the GPT-6 family",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-02T16:15:00+00:00",
+        "relevance_score": 23,
+        "url": "https://openai.com/index/practical-guide-building-gpt-6"
+      },
       {
         "title": "Who gets to decide if AI is safe? Africa wants a say",
         "source": "Rest of World Global Tech Feed",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-02T15:00:00+00:00",
         "relevance_score": 13,
         "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/"
-      },
-      {
-        "title": "FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-02T06:46:00.000+00:00",
-        "relevance_score": 12,
-        "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html"
       }
     ],
     "security": [

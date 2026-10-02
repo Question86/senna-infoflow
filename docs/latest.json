@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T15:58:57+00:00",
-  "run_id": "2026-10-02T15:58:57+00:00",
+  "generated_at": "2026-10-02T16:16:08+00:00",
+  "run_id": "2026-10-02T16:16:08+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 1,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
-    "medium": 31,
+    "medium": 32,
     "observe": 40,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "A model guide for the GPT-6 family",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-02T16:15:00+00:00",
+        "fetched_at": "2026-10-02T16:15:35+00:00",
+        "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "Content-Chance",
+          "OpenAI"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3bda6b442d532716bdde"
+      },
       {
         "title": "Who gets to decide if AI is safe? Africa wants a say",
         "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -1794,6 +1817,29 @@
   },
   "findings": [
     {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-02T16:15:00+00:00",
+      "fetched_at": "2026-10-02T16:15:35+00:00",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bda6b442d532716bdde"
+    },
+    {
       "title": "Who gets to decide if AI is safe? Africa wants a say",
       "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3553,7 +3599,31 @@
       "id": "c909517437b35b1e5348"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-02T16:15:00+00:00",
+      "fetched_at": "2026-10-02T16:15:35+00:00",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bda6b442d532716bdde"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
