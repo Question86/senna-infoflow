@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T13:05:29+00:00",
-  "run_id": "2026-10-02T13:05:29+00:00",
+  "generated_at": "2026-10-02T13:25:11+00:00",
+  "run_id": "2026-10-02T13:25:11+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 59,
     "displayed_findings": 59,
     "high": 0,
@@ -2963,28 +2963,7 @@
       "id": "c909517437b35b1e5348"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-02T13:00:00+00:00",
-      "fetched_at": "2026-10-02T13:05:00+00:00",
-      "summary": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "570f645c7d7e45d54bcc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
