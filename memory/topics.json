@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T10:52:01+00:00",
+  "generated_at": "2026-10-02T10:57:22+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:51:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T10:26:30+00:00",
@@ -112,6 +119,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
       },
       {
+        "title": "[NEU] [mittel] OpenBao: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3714"
+      },
+      {
         "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation und Offenlegung von Daten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T10:46:29+00:00",
@@ -131,23 +145,16 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0600"
-      },
-      {
-        "title": "[NEU] [mittel] MediaWiki: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:26:30+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3709"
-      },
-      {
-        "title": "[NEU] [hoch] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen und potenziell Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:26:30+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:51:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -168,6 +175,13 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 15,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
+      },
+      {
+        "title": "[NEU] [mittel] OpenBao: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3714"
       },
       {
         "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
@@ -203,20 +217,6 @@
         "published_at": "2026-10-02T10:00:30+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU94648869/"
-      },
-      {
-        "title": "Euro area quarterly balance of payments and international investment position: second quarter of 2026",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-10-02T08:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html"
-      },
-      {
-        "title": "FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-02T06:46:00.000+00:00",
-        "relevance_score": 12,
-        "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html"
       }
     ],
     "economy": [
