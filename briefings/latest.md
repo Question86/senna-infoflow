@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T01:16:09+00:00_
+_Generiert: 2026-10-02T01:44:46+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -155,7 +155,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
