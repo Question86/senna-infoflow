@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T15:46:20+00:00",
-  "run_id": "2026-10-02T15:46:20+00:00",
+  "generated_at": "2026-10-02T15:53:47+00:00",
+  "run_id": "2026-10-02T15:53:47+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 71,
     "displayed_findings": 71,
     "high": 0,
@@ -3553,45 +3553,7 @@
       "id": "c909517437b35b1e5348"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.8 - 78 km WSW of San Nicolas, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1q",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-02T15:35:35.040+00:00",
-      "fetched_at": "2026-10-02T15:45:46+00:00",
-      "summary": "Time 2026-10-02 15:10:19 UTC 2026-10-02 15:10:19 UTC at epicenter Location 14.571°N 119.459°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "823cf0df16c00819705a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
