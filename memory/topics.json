@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T10:57:22+00:00",
+  "generated_at": "2026-10-02T11:07:19+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html"
       },
       {
+        "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T10:58:09+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/"
+      },
+      {
         "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-02T03:00:55+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-01T23:26:31+00:00",
         "relevance_score": 8,
         "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era"
-      },
-      {
-        "title": "The next information advantage is knowing what changed",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T03:30:15+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/"
       }
     ],
     "security": [
