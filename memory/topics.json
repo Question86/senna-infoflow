@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T15:35:21+00:00",
+  "generated_at": "2026-10-02T15:46:20+00:00",
   "topics": {
     "ai": [
       {
@@ -316,6 +316,13 @@
     ],
     "general": [
       {
+        "title": "M 4.8 - 78 km WSW of San Nicolas, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-02T15:35:35.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1q"
+      },
+      {
         "title": "M 4.5 - 101 km NE of Ruteng, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-02T07:24:34.040+00:00",
@@ -377,13 +384,6 @@
         "published_at": "2026-10-02T04:59:37.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl"
-      },
-      {
-        "title": "M 4.9 - 97 km S of Panguna, Papua New Guinea",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-02T04:49:51.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg"
       }
     ]
   }
