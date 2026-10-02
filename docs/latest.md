@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T07:59:31+00:00_
+_Generiert: 2026-10-02T08:24:36+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-02T08:21:29+00:00`, fetched `2026-10-02T08:24:07+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Vercel Next.js ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [kritisch] Zammad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und Privilegieneskalation** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3694)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-02T06:06:29+00:00`, fetched `2026-10-02T06:35:05+00:00`
@@ -87,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Euro area quarterly balance of payments and international investment position: second quarter of 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-10-02T08:00:00+00:00`, fetched `2026-10-02T08:24:07+00:00`
+  - Treffer: balance of payments, euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area quarterly balance of payments and international investment position: second quarter of 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar** — Score 12, risk — [Quelle](https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-02T06:46:00.000+00:00`, fetched `2026-10-02T06:59:12+00:00`
