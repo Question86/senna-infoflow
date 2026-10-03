@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-03T22:33:50+00:00",
+  "generated_at": "2026-10-03T23:27:09+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html"
       },
       {
+        "title": "地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T21:01:32+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2753759"
+      },
+      {
         "title": "高市首相がAppleに要請――「自殺防止機能の搭載を」 生成AIへの相談増加を受け",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-03T09:12:10+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-02T23:40:34+00:00",
         "relevance_score": 5,
         "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html"
-      },
-      {
-        "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-02T15:17:29+00:00",
-        "relevance_score": 5,
-        "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14"
       }
     ],
     "security": [
@@ -122,6 +122,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.9 - 39 km WSW of Tambolaka, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-03T23:25:56.759+00:00",
+        "relevance_score": 19,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer"
+      },
       {
         "title": "M 4.8 - 112 km S of Koshima, Japan",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -184,13 +191,6 @@
         "published_at": "2026-10-03T00:45:23+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/"
-      },
-      {
-        "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-02T15:01:33+00:00",
-        "relevance_score": 5,
-        "url": "https://azukiazusa.dev/blog/css-margin-trim/"
       }
     ],
     "geopolitics": [

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-03T22:33:50+00:00_
+_Generated: 2026-10-03T23:27:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `26`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-03T22:33:50+00:00_
 - url: https://voluntas.ghost.io/2026-10-first-half-llm/
 - summary: あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5...
 
-### 4. M 4.8 - 112 km S of Koshima, Japan
+### 4. M 5.9 - 39 km WSW of Tambolaka, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-03T06:25:52.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5
-- summary: Time 2026-10-03 06:05:21 UTC 2026-10-03 06:05:21 UTC at epicenter Location 29.221°N 130.613°E Depth 37.47 km (23.28 mi)
+- score: `19`
+- published: `2026-10-03T23:25:56.759+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer
+- summary: PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-10-03 22:55:55 UTC 2026-10-03 22:55:55 UTC at epicenter Location 9.567°S 118.908°E Depth 45.95 km (28.55 mi)
 
 ### 5. 「決め方」の渡し方 / How to hand over the "decision-making process"
 - source: Hatena Bookmark Hotentry IT

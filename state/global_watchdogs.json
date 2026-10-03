@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:33:52+00:00",
+  "generated_at": "2026-10-03T23:27:11+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,6 +95,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
         "summary": "Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
         "source": "GDACS",
@@ -121,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - 39 km WSW of Tambolaka, Indonesia",
+        "summary": "M5.9 - 39 km WSW of Tambolaka, Indonesia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
+        "published_at": "2026-10-03T22:55:55+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "green",
+          "sig": 536.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
