@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-03T22:00:19Z",
+  "generated_at": "2026-10-03T23:00:00Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-03T08:23:00.000+00:00",
-      "age_days": 0.57,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.83,
+      "age_days": 106.88,
       "topics": [
         "ai"
       ],
@@ -60,7 +60,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 106.8d old signal",
+        "aging penalty -8.0 for 106.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -70,7 +70,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T04:08:11+00:00",
-      "age_days": 2.74,
+      "age_days": 2.79,
       "topics": [
         "ai",
         "security"
@@ -93,11 +93,36 @@
       "summary": "「Codex Security」と「Claude Security」を使って、AIで自社サービスの脆弱性を発見・検証する方法を簡単にまとめました。 1. はじめにWebサービスでは、氏名やメールアドレス、住所など、多くの重要なデータを扱います。情報流出のニュースを見ると、自分たちのサービスにも、気付いていない脆弱性が残っているのでは..."
     },
     {
+      "title": "Microsoft Digital Defense Report 2026 | Microsoft",
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T08:35:42+00:00",
+      "age_days": 0.6,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security, microsoft"
+      ],
+      "summary": "In an era of interconnected risk, attackers are increasingly exploiting the trusted identities, systems, relationships, and services organizations rely on most. The 2026 Microsoft Digital Defense Report reveals a fundamental shift in cybersecurity with the interconnected digital ecosystem and the..."
+    },
+    {
       "title": "M 4.8 - 112 km S of Koshima, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -122,7 +147,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 1.55,
+      "age_days": 1.6,
       "topics": [
         "ai"
       ],
@@ -148,7 +173,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T08:13:44+00:00",
-      "age_days": 0.57,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "macro"
@@ -175,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T20:22:14.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -200,7 +225,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T18:34:52.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -225,7 +250,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T17:52:33.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -250,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:21:50.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -275,7 +300,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T03:14:19.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -294,30 +319,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-03 02:59:06 UTC 2026-10-03 02:59:06 UTC at epicenter Location 52.084°N 160.422°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
-      "url": "https://linuc.org/textbooks/network/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 1.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から..."
     }
   ],
   "read_order": [
@@ -329,9 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 7,
-      "quiet": 1
+      "strong": 5,
+      "watch": 7
     }
   }
 }
