@@ -1,97 +1,37 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-02T23:57:53+00:00",
+  "generated_at": "2026-10-03T00:26:06+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 2,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 33,
-    "observe": 53
+    "medium": 1,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "A model guide for the GPT-6 family",
-      "source": "OpenAI News RSS",
+      "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-02T16:15:00+00:00",
-      "relevance_score": 23,
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "published_at": "2026-10-02T08:42:07+00:00",
+      "relevance_score": 21,
+      "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
+      "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...",
       "section": "medium"
     },
     {
-      "title": "Who gets to decide if AI is safe? Africa wants a say",
-      "source": "Rest of World Global Tech Feed",
+      "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-02T10:00:00+00:00",
-      "relevance_score": 20,
-      "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "summary": "African companies race to adopt American and Chinese AI, with little attention paid to safety.",
-      "section": "medium"
-    },
-    {
-      "title": "Repository security advisory comments API in public preview",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-02T13:15:25+00:00",
-      "relevance_score": 19,
-      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-      "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in pub…",
-      "section": "medium"
-    },
-    {
-      "title": "The hidden economics of autonomous AI agents",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-02T03:28:53+00:00",
-      "relevance_score": 19,
-      "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
-      "summary": "For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try t…",
-      "section": "medium"
-    },
-    {
-      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-02T15:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-      "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog .",
-      "section": "observe"
-    },
-    {
-      "title": "Euro area quarterly balance of payments and international investment position: second quarter of 2026",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-02T08:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
-      "summary": "Euro area quarterly balance of payments and international investment position: second quarter of 2026",
-      "section": "observe"
-    },
-    {
-      "title": "FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-02T06:46:00.000+00:00",
-      "relevance_score": 12,
-      "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
-      "summary": "Fortinet warnt vor Angriffen auf eine Zero-Day-Sicherheitslücke in FortiMail. Sie ermöglicht die Übernahme der Geräte aus dem Netz.",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.7 - 5 km NNE of Korumburra, Australia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-02T16:17:19.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y",
-      "summary": "Time 2026-10-02 16:01:39 UTC 2026-10-02 16:01:39 UTC at epicenter Location 38.380°S 145.840°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-03-20T02:41:10+00:00",
+      "relevance_score": 4,
+      "url": "https://revpdf.com/",
+      "summary": "The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work.",
       "section": "observe"
     }
   ],
@@ -100,141 +40,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T11:06:38+00:00",
-        "age_days": 0.54,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libpcap) ausnutzen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:26:30+00:00",
-        "age_days": 0.57,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, code",
-          "security high-signal: kritisch, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Foreman ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen."
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
-        "url": "https://jvn.jp/vu/JVNVU91842649/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:15+09:00",
-        "age_days": 0.96,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T09:11:29+00:00",
-        "age_days": 0.62,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, fortinet",
-          "security high-signal: active, exploitation, fortinet"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiMail ausnutzen, um Dateien zu manipulieren."
-      },
-      {
-        "title": "Vulnérabilité dans F5 BIG-IP (23 septembre 2026)",
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1220/",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-09-23T00:00:00+00:00",
-        "age_days": 10.01,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, code",
-          "security high-signal: active, code"
-        ],
-        "summary": "Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que la vulnérabilité CVE-2026-94127 est activement exploitée. Des indicateurs de compromission sont disponibles dans l'avis de l'éditeur."
-      }
-    ]
-  }
+  ]
 }
