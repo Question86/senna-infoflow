@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-03T03:27:41+00:00_
+_Generated: 2026-10-03T03:55:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-10-03T03:27:41+00:00_
 - url: https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14
 - summary: はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...
 
-### 5. Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF
+### 5. 宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』
 - source: Hatena Bookmark Hotentry IT
-- score: `4`
-- published: `2026-03-20T02:41:10+00:00`
-- url: https://revpdf.com/
-- summary: The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work.
+- score: `5`
+- published: `2026-10-02T14:56:01+00:00`
+- url: https://ameblo.jp/miyamotokarin-official/entry-12980414977.html
+- summary: かりんだよ！5周年記念ライブツアーに向けてアプリ、いや、Webサイトなんだけどアプリ風に！ファンのみなさんがセットリストを投稿したり、スタンプを集めたりできるWebアプリを作っています。本日はデバッグ配信！このブログは配信前に書いてますので配信がどうなったか分かりませんがまあまあの結果だったからこのブロ...
 
 END OF DOCUMENT

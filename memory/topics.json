@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-03T03:27:41+00:00",
+  "generated_at": "2026-10-03T03:55:56+00:00",
   "topics": {
     "ai": [
       {
@@ -42,6 +42,13 @@
         "published_at": "2026-10-03T03:14:19.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal"
+      },
+      {
+        "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-02T14:56:01+00:00",
+        "relevance_score": 5,
+        "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html"
       },
       {
         "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
