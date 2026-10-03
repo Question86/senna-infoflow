@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T12:49:52+00:00_
+_Generiert: 2026-10-03T14:26:23+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Codex Security ・ Claude Security 入門｜npaka“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+16 neue relevante Treffer. Stärkstes Signal: „Codex Security ・ Claude Security 入門｜npaka“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026 年 10 月前半の LLM 利用状況** — Score 20, observation — [Quelle](https://voluntas.ghost.io/2026-10-first-half-llm/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-03T08:13:44+00:00`, fetched `2026-10-03T14:25:50+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 112 km S of Koshima, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-03T06:25:52.040+00:00`, fetched `2026-10-03T06:34:44+00:00`
@@ -103,6 +112,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **「決め方」の渡し方 / How to hand over the "decision-making process"** — Score 13, observation — [Quelle](https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-04-09T04:25:23+00:00`, fetched `2026-10-03T14:25:50+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: 【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung** — Score 12, risk — [Quelle](https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-03T08:23:00.000+00:00`, fetched `2026-10-03T08:37:17+00:00`
@@ -130,6 +148,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install , then run /impeccable init inside your AI coding tool. Full docs: impeccable.style . Why Impeccable…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-03T14:21:50.040+00:00`, fetched `2026-10-03T14:25:50+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 163 km SE of Petropavlovsk-Kamchatsky, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-03T03:14:19.040+00:00`, fetched `2026-10-03T03:27:08+00:00`
@@ -147,15 +174,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/03/2000001981/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-03T00:45:23+00:00`, fetched `2026-10-03T07:03:50+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
