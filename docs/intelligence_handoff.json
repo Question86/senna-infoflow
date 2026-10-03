@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-03T23:00:00Z",
+  "generated_at": "2026-10-03T23:54:30Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-03T08:23:00.000+00:00",
-      "age_days": 0.61,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.88,
+      "age_days": 106.91,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T04:08:11+00:00",
-      "age_days": 2.79,
+      "age_days": 2.82,
       "topics": [
         "ai",
         "security"
@@ -93,11 +93,37 @@
       "summary": "「Codex Security」と「Claude Security」を使って、AIで自社サービスの脆弱性を発見・検証する方法を簡単にまとめました。 1. はじめにWebサービスでは、氏名やメールアドレス、住所など、多くの重要なデータを扱います。情報流出のニュースを見ると、自分たちのサービスにも、気付いていない脆弱性が残っているのでは..."
     },
     {
+      "title": "M 5.9 - 39 km WSW of Tambolaka, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T23:25:56.759+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-10-03 22:55:55 UTC 2026-10-03 22:55:55 UTC at epicenter Location 9.567°S 118.908°E Depth 45.95 km (28.55 mi)"
+    },
+    {
       "title": "Microsoft Digital Defense Report 2026 | Microsoft",
       "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T08:35:42+00:00",
-      "age_days": 0.6,
+      "age_days": 0.64,
       "topics": [
         "security",
         "macro"
@@ -122,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.69,
+      "age_days": 0.73,
       "topics": [
         "disaster"
       ],
@@ -147,7 +173,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 1.6,
+      "age_days": 1.63,
       "topics": [
         "ai"
       ],
@@ -173,7 +199,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T08:13:44+00:00",
-      "age_days": 0.62,
+      "age_days": 0.65,
       "topics": [
         "ai",
         "macro"
@@ -200,7 +226,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T20:22:14.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -225,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T18:34:52.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -250,7 +276,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T17:52:33.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -275,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:21:50.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -294,31 +320,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)"
-    },
-    {
-      "title": "M 5.0 - 163 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-03T03:14:19.040+00:00",
-      "age_days": 0.82,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-03 02:59:06 UTC 2026-10-03 02:59:06 UTC at epicenter Location 52.084°N 160.422°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -330,8 +331,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7
+      "strong": 6,
+      "watch": 6
     }
   }
 }
