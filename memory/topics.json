@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-03T20:33:51+00:00",
+  "generated_at": "2026-10-03T21:39:56+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-10-03T08:13:44+00:00",
         "relevance_score": 20,
         "url": "https://voluntas.ghost.io/2026-10-first-half-llm/"
+      },
+      {
+        "title": "AI増田判定、便利すぎて本文を読まなくて済むようになってる",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T06:30:05+00:00",
+        "relevance_score": 11,
+        "url": "https://anond.hatelabo.jp/20261003152005"
       },
       {
         "title": "pbakaus/impeccable",
