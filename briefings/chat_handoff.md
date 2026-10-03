@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-03T02:59:27+00:00_
+_Generated: 2026-10-03T03:27:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -22,14 +22,21 @@ _Generated: 2026-10-03T02:59:27+00:00_
 - url: https://linuc.org/textbooks/network/
 - summary: ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から...
 
-### 3. 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita
+### 3. M 5.0 - 163 km SE of Petropavlovsk-Kamchatsky, Russia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-03T03:14:19.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal
+- summary: Time 2026-10-03 02:59:06 UTC 2026-10-03 02:59:06 UTC at epicenter Location 52.084°N 160.422°E Depth 10.00 km (6.21 mi)
+
+### 4. 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-02T15:17:29+00:00`
 - url: https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14
 - summary: はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...
 
-### 4. Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF
+### 5. Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF
 - source: Hatena Bookmark Hotentry IT
 - score: `4`
 - published: `2026-03-20T02:41:10+00:00`

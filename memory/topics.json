@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-03T02:59:27+00:00",
+  "generated_at": "2026-10-03T03:27:41+00:00",
   "topics": {
     "ai": [
       {
@@ -35,6 +35,13 @@
         "published_at": "2026-10-02T22:00:08+00:00",
         "relevance_score": 11,
         "url": "https://linuc.org/textbooks/network/"
+      },
+      {
+        "title": "M 5.0 - 163 km SE of Petropavlovsk-Kamchatsky, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-03T03:14:19.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal"
       },
       {
         "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
