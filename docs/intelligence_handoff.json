@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-03T06:45:25Z",
+  "generated_at": "2026-10-03T07:11:44Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.2,
+      "age_days": 106.22,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 0.92,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T03:14:19.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -120,7 +120,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -140,11 +140,35 @@
       "summary": "ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から..."
     },
     {
+      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T00:45:23+00:00",
+      "age_days": 0.27,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると..."
+    },
+    {
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:34:44+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -167,11 +191,37 @@
       "summary": "The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install…"
     },
     {
+      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
+      "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T03:45:48+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民..."
+    },
+    {
       "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T14:56:01+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -195,7 +245,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:45:10+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -221,7 +271,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 105.16,
+      "age_days": 105.18,
       "topics": [
         "general"
       ],
@@ -246,7 +296,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 105.16,
+      "age_days": 105.18,
       "topics": [
         "general"
       ],
@@ -265,58 +315,6 @@
         "aging penalty -16.0 for 105.2d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 105.16,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 105.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-      "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな..."
     }
   ],
   "read_order": [
