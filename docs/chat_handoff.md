@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-03T21:39:56+00:00_
+_Generated: 2026-10-03T22:33:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `24`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-03T21:39:56+00:00_
 - url: https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html
 - summary: Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand.
 
-### 7. AI増田判定、便利すぎて本文を読まなくて済むようになってる
+### 7. Microsoft Digital Defense Report 2026 | Microsoft
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-03T08:35:42+00:00`
+- url: https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/
+- summary: In an era of interconnected risk, attackers are increasingly exploiting the trusted identities, systems, relationships, and services organizations rely on most. The 2026 Microsoft Digital Defense Report reveals a fundamental shift in cybersecurity with the in…
+
+### 8. AI増田判定、便利すぎて本文を読まなくて済むようになってる
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-03T06:30:05+00:00`
 - url: https://anond.hatelabo.jp/20261003152005
 - summary: AI増田判定、便利すぎて本文を読まなくて済むようになってる 9月30日、はてな匿名ダイアリーがChatGPTから検索、閲覧、投稿できるようになった。10月2日にはClaudeからも使えるようになった。 はてな匿名ダイアリーがChatGPTから使えるようになりました はてな匿名ダイアリーがClaudeからも使えるようになりました 案の...
-
-### 8. Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-02T22:00:08+00:00`
-- url: https://linuc.org/textbooks/network/
-- summary: ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から...
 
 END OF DOCUMENT
