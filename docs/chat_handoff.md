@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-03T06:35:16+00:00_
+_Generated: 2026-10-03T07:04:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `11`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-03T06:35:16+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal
 - summary: Time 2026-10-03 02:59:06 UTC 2026-10-03 02:59:06 UTC at epicenter Location 52.084°N 160.422°E Depth 10.00 km (6.21 mi)
 
-### 6. Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」
+### 6. 韓国6行に「AIハッキング」、4行で個人情報流出
 - source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-03T00:45:10+00:00`
-- url: https://www.itmedia.co.jp/news/article/2610/03/2000001983/
-- summary: 米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。 Appleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプラ...
+- score: `8`
+- published: `2026-10-03T03:45:48+00:00`
+- url: https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html
+- summary: 韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...
 
 END OF DOCUMENT
