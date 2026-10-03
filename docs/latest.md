@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T08:19:54+00:00_
+_Generiert: 2026-10-03T08:37:47+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
+12 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung** — Score 12, risk — [Quelle](https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-03T08:23:00.000+00:00`, fetched `2026-10-03T08:37:17+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan** — Score 11, observation — [Quelle](https://linuc.org/textbooks/network/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-02T22:00:08+00:00`, fetched `2026-10-03T01:35:27+00:00`

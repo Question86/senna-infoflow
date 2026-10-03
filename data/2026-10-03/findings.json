@@ -85,6 +85,39 @@
     "id": "e3f193da14dfea48882d"
   },
   {
+    "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
+    "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-03T08:23:00.000+00:00",
+    "fetched_at": "2026-10-03T08:37:17+00:00",
+    "summary": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand.",
+    "matched_keywords": [
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: zero-day"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "9122f0783f41d1a57391"
+  },
+  {
     "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
     "url": "https://linuc.org/textbooks/network/",
     "source": "Hatena Bookmark Hotentry IT",
