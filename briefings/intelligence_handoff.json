@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-03T20:57:08Z",
+  "generated_at": "2026-10-03T22:00:19Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-03T08:23:00.000+00:00",
-      "age_days": 0.52,
+      "age_days": 0.57,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.79,
+      "age_days": 106.83,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T04:08:11+00:00",
-      "age_days": 2.7,
+      "age_days": 2.74,
       "topics": [
         "ai",
         "security"
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.61,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -122,7 +122,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 1.51,
+      "age_days": 1.55,
       "topics": [
         "ai"
       ],
@@ -148,7 +148,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T08:13:44+00:00",
-      "age_days": 0.53,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "macro"
@@ -175,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T20:22:14.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -200,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T18:34:52.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -225,7 +225,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T17:52:33.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -250,7 +250,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:21:50.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -275,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T03:14:19.040+00:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -300,7 +300,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.96,
+      "age_days": 1.0,
       "topics": [
         "general"
       ],
