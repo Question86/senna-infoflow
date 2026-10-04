@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-04T23:41:01+00:00",
+  "generated_at": "2026-10-04T23:52:35+00:00",
   "topics": {
     "ai": [
       {
@@ -135,6 +135,13 @@
         "published_at": "2026-10-04T01:57:32.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv"
+      },
+      {
+        "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T23:05:07+00:00",
+        "relevance_score": 8,
+        "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html"
       },
       {
         "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
