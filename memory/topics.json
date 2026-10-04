@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-04T21:32:18+00:00",
+  "generated_at": "2026-10-04T21:46:12+00:00",
   "topics": {
     "ai": [
       {
@@ -149,6 +149,13 @@
         "published_at": "2026-10-03T23:12:52+00:00",
         "relevance_score": 7,
         "url": "https://gigazine.net/news/20261004-photon-matrix/"
+      },
+      {
+        "title": "JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T09:27:45+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/qnighy/articles/json-ambiguity"
       },
       {
         "title": "6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu",
