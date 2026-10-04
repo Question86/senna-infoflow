@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-04T19:23:21Z",
+  "generated_at": "2026-10-04T21:10:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 25,
     "bands": {
       "strong": 5,
       "watch": 2,
-      "quiet": 16
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 2,
-      "quiet": 16
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 107.73,
+      "age_days": 107.8,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 107.7d old signal",
+        "aging penalty -8.0 for 107.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:58:14.386+00:00",
-      "age_days": 0.81,
+      "age_days": 0.88,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T10:31:08.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:39:45.040+00:00",
-      "age_days": 0.82,
+      "age_days": 0.9,
       "topics": [
         "disaster"
       ],
@@ -127,7 +127,7 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:11:15+00:00",
-      "age_days": 8.3,
+      "age_days": 8.37,
       "topics": [
         "ai",
         "macro"
@@ -155,7 +155,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T14:28:42.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -180,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T01:57:32.040+00:00",
-      "age_days": 0.73,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -205,7 +205,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:32:18+00:00",
-      "age_days": 0.83,
+      "age_days": 0.9,
       "topics": [
         "ai"
       ],
@@ -231,7 +231,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T08:03:25+00:00",
-      "age_days": 0.47,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -255,7 +255,7 @@
       "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T13:00:04+00:00",
-      "age_days": 1.27,
+      "age_days": 1.34,
       "topics": [
         "ai"
       ],
@@ -281,7 +281,7 @@
       "url": "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T07:03:47+00:00",
-      "age_days": 0.51,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -305,7 +305,7 @@
       "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:07:44+00:00",
-      "age_days": 0.68,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -332,7 +332,7 @@
       "url": "https://togetter.com/li/2753949",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T08:48:45+00:00",
-      "age_days": 0.44,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -358,7 +358,7 @@
       "url": "https://togetter.com/li/2753906",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T06:58:01+00:00",
-      "age_days": 0.52,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -384,7 +384,7 @@
       "url": "https://gigazine.net/news/20261004-photon-matrix/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:12:52+00:00",
-      "age_days": 0.84,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -410,7 +410,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T02:37:40+00:00",
-      "age_days": 0.7,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -436,7 +436,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 106.69,
+      "age_days": 106.76,
       "topics": [
         "general"
       ],
@@ -452,7 +452,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 106.7d old signal"
+        "aging penalty -16.0 for 106.8d old signal"
       ],
       "summary": ""
     },
@@ -461,7 +461,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 106.69,
+      "age_days": 106.76,
       "topics": [
         "general"
       ],
@@ -477,7 +477,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 106.7d old signal"
+        "aging penalty -16.0 for 106.8d old signal"
       ],
       "summary": ""
     },
@@ -486,7 +486,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 106.69,
+      "age_days": 106.76,
       "topics": [
         "ai"
       ],
@@ -503,7 +503,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 106.7d old signal",
+        "aging penalty -16.0 for 106.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -513,7 +513,7 @@
       "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T14:23:54+00:00",
-      "age_days": 1.21,
+      "age_days": 1.28,
       "topics": [
         "ai"
       ],
@@ -538,7 +538,7 @@
       "url": "https://github.com/Effect-TS/effect",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-04T07:06:18+00:00",
-      "age_days": 0.51,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -559,11 +559,61 @@
       "summary": "Build production-ready applications in TypeScript https://effect.website Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency, scheduling, trac…"
     },
     {
+      "title": "AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹",
+      "url": "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T12:43:02+00:00",
+      "age_days": 0.35,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "私は1978年4月にプログラミングを学び始めました。それから48年以上、さまざまなソフトウェア開発のプロジェクトに携わり、現在もソフトウェア開発を続けています。 この48年間で、ソフトウェア開発を取り巻く環境は大きく変わりました。 そして今、生成AIによって、また大きな変化が起きています。 しかし、今回の変化..."
+    },
+    {
+      "title": "30年かけて育てた自動耳コピ「WaoN」がiOS/Macアプリに！AI時代にあえて挑む、0倍速でも音が鳴り続ける「わおん」",
+      "url": "https://www.dtmstation.com/archives/80372.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T10:17:28+00:00",
+      "age_days": 0.45,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "録音された音楽から音符を取り出す「自動耳コピ」は、コンピュータと音楽の世界で昔から追い求められてきたテーマです。そうした中、物理学の研究者からプログラマーに転じた市來健吾（いちき けんご）さんが1996年に書き始め、GPLのオープンソースとして公開してきた採譜プログラム「WaoN」が、iPhone/iPad/Mac用のネイ..."
+    },
+    {
       "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
       "url": "https://note.com/takahiroanno/n/n3cd3c9a38e8e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:50:38+00:00",
-      "age_days": 0.65,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -588,7 +638,7 @@
       "url": "https://togetter.com/li/2753802",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T00:47:30+00:00",
-      "age_days": 0.77,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
