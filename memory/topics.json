@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-04T00:12:43+00:00",
+  "generated_at": "2026-10-04T01:32:49+00:00",
   "topics": {
     "general": [
       {
@@ -17,6 +17,22 @@
         "published_at": "2026-10-03T23:39:45.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7"
+      }
+    ],
+    "ai": [
+      {
+        "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T23:32:18+00:00",
+        "relevance_score": 12,
+        "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/"
+      },
+      {
+        "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T14:23:54+00:00",
+        "relevance_score": 8,
+        "url": "https://azukiazusa.dev/blog/e2e-ai-testing/"
       }
     ]
   }
