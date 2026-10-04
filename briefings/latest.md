@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-04T11:04:56+00:00_
+_Generiert: 2026-10-04T13:04:09+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
+16 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,10 @@ _Generiert: 2026-10-04T11:04:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Malaysia
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:69.726km) in Indonesia 03/10/2026 23:37 UTC, 1.1 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569335)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Volcano Islands, Japan Region 04/10/2026 11:12 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569426)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:69.726km) in Indonesia 03/10/2026 23:37 UTC, 1.1 million in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Volcano Islands, Japan Region 04/10/2026 11:12 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +57,6 @@ _Generiert: 2026-10-04T11:04:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI -.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI -.
 
 ## Wirtschaft global
 

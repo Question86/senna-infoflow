@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-04T11:04:56+00:00_
+_Generiert: 2026-10-04T13:04:09+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
+16 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
 
 ## Priorität Hoch
 

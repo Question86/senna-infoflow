@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-04T11:04:56+00:00",
+  "generated_at": "2026-10-04T13:04:09+00:00",
   "topics": {
     "ai": [
       {
@@ -38,6 +38,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/Effect-TS/effect"
+      },
+      {
+        "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T06:58:01+00:00",
+        "relevance_score": 7,
+        "url": "https://togetter.com/li/2753906"
       },
       {
         "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
@@ -121,6 +128,13 @@
         "published_at": "2026-10-04T01:57:32.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv"
+      },
+      {
+        "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T08:03:25+00:00",
+        "relevance_score": 7,
+        "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/"
       },
       {
         "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
