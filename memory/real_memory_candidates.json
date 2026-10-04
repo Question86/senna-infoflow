@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-03T23:54:30Z",
+  "generated_at": "2026-10-04T00:52:52Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,32 +23,17 @@
   ],
   "current_dynamic_memory_candidates": [
     {
-      "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Codex Security ・ Claude Security 入門｜npaka",
+      "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Microsoft Digital Defense Report 2026 | Microsoft",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 5.9 - 39 km WSW of Tambolaka, Indonesia",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 4.8 - 112 km S of Koshima, Japan",
+      "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
