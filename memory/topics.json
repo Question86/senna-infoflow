@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-04T09:13:56+00:00",
+  "generated_at": "2026-10-04T11:04:56+00:00",
   "topics": {
     "ai": [
       {
@@ -38,6 +38,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/Effect-TS/effect"
+      },
+      {
+        "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T03:50:38+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/takahiroanno/n/n3cd3c9a38e8e"
       },
       {
         "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
@@ -93,6 +100,13 @@
         "published_at": "2026-10-03T23:58:14.386+00:00",
         "relevance_score": 19,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
+      },
+      {
+        "title": "M 5.0 - 37 km N of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-04T10:31:08.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5"
       },
       {
         "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
