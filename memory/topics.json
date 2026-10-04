@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-04T07:06:47+00:00",
+  "generated_at": "2026-10-04T09:13:56+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-03T23:32:18+00:00",
         "relevance_score": 12,
         "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/"
+      },
+      {
+        "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T13:00:04+00:00",
+        "relevance_score": 9,
+        "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management"
       },
       {
         "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
@@ -38,6 +45,13 @@
         "published_at": "2026-10-04T03:07:44+00:00",
         "relevance_score": 5,
         "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/"
+      },
+      {
+        "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T02:37:40+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/"
       },
       {
         "title": "最近は商業誌の仕事でも普通にAIを使って効率化することが増えたので、どんどん触っておいた方がいいと推奨する→AI画像が問題になるが、叩き台など作業効率化はありでは？",
