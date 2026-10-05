@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T02:45:11+00:00_
+_Generiert: 2026-10-05T03:03:05+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Everyone can build with AI now. Almost nobody can see what’s coming“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+8 neue relevante Treffer. Stärkstes Signal: „Everyone can build with AI now. Almost nobody can see what’s coming“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -89,6 +89,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Change fatigue is an organisational design problem, not a resilience problem** — Score 9, observation — [Quelle](https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-05T03:00:23+00:00`, fetched `2026-10-05T03:02:33+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
+  - Kurz: In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to keep functioning through it, even while they are worn out by […] The post Change fatigue is an organisational design problem, not a resilience problem appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - central Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

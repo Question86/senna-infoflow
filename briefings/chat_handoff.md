@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T02:45:11+00:00_
+_Generated: 2026-10-05T03:03:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -22,25 +22,25 @@ _Generated: 2026-10-05T02:45:11+00:00_
 - url: https://forbesjapan.com/articles/detail/105823
 - summary: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
 
-### 3. M 5.3 - central Mid-Atlantic Ridge
+### 3. Change fatigue is an organisational design problem, not a resilience problem
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-10-05T03:00:23+00:00`
+- url: https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/
+- summary: In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to…
+
+### 4. M 5.3 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-05T01:35:49.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp
 - summary: Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)
 
-### 4. A funding round can improve your metrics without improving your company
+### 5. A funding round can improve your metrics without improving your company
 - source: e27 Asia Startup and Tech Feed
 - score: `6`
 - published: `2026-10-05T02:00:14+00:00`
 - url: https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/
 - summary: The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But th…
-
-### 5. 「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-05T00:37:16+00:00`
-- url: https://togetter.com/li/2754205
-- summary: 威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...
 
 END OF DOCUMENT
