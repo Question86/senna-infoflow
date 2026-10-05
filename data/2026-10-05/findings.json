@@ -509,6 +509,27 @@
     "id": "012dc9828548cfed4711"
   },
   {
+    "title": "Opening address - “Key trends 2026” conference",
+    "url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-05T00:00:00+00:00",
+    "fetched_at": "2026-10-05T15:00:39+00:00",
+    "summary": "Opening address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the “Key trends 2026” conference, organised by the Association of Serbian Banks, Chamber of Commerce and Industry of Serbia and Association of Serbian Insurers, Zlatibor, 28 September 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0f08449b64013243a99e"
+  },
+  {
     "title": "Multiples vulnérabilités dans Zabbix Agent (24 septembre 2026)",
     "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/",
     "source": "CERT-FR Avis de sécurité",
