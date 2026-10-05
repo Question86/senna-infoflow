@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T10:27:37+00:00_
+_Generiert: 2026-10-05T10:41:19+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+39 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -156,6 +156,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Building advertising for the way people use AI** — Score 11, opportunity — [Quelle](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-05T10:00:00+00:00`, fetched `2026-10-05T10:40:48+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 11, observation — [Quelle](https://forbesjapan.com/articles/detail/105823)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-04T18:34:21+00:00`, fetched `2026-10-05T01:52:07+00:00`
@@ -281,15 +290,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The AI boom is making the world’s cheapest smartphones disappear** — Score 5, observation — [Quelle](https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-10-05T10:00:43+00:00`, fetched `2026-10-05T10:27:06+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0)
-  - Kurz: AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
