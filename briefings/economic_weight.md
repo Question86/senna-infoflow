@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-05T17:08:51+00:00`
+Generated: `2026-10-05T17:23:37+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
