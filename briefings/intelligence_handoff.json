@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T05:59:15Z",
+  "generated_at": "2026-10-05T06:50:55Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 108.17,
+      "age_days": 108.2,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -95,7 +95,7 @@
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -118,11 +118,36 @@
       "summary": "For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, documentation, debugging and speed. For many startups, the fi…"
     },
     {
+      "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T05:46:50.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-05 05:26:44 UTC 2026-10-05 05:26:44 UTC at epicenter Location 21.421°S 174.268°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - Kuril Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T04:36:07.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -147,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T01:35:49.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -172,7 +197,7 @@
       "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:00:23+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -196,7 +221,7 @@
       "url": "https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:00:36+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -220,7 +245,7 @@
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T01:00:34+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -246,7 +271,7 @@
       "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T02:00:14+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -270,7 +295,7 @@
       "url": "https://forbesjapan.com/articles/detail/105823",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T18:34:21+00:00",
-      "age_days": 0.48,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -290,30 +315,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用..."
-    },
-    {
-      "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-05T01:09:28+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表"
     }
   ],
   "read_order": [
@@ -326,8 +327,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 5,
-      "quiet": 3
+      "watch": 6,
+      "quiet": 2
     }
   }
 }
