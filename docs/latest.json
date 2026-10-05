@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T10:41:19+00:00",
-  "run_id": "2026-10-05T10:41:19+00:00",
+  "generated_at": "2026-10-05T10:58:45+00:00",
+  "run_id": "2026-10-05T10:58:45+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 0,
@@ -1919,29 +1919,7 @@
       "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "fetched_at": "2026-10-05T10:40:48+00:00",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a41a6c0b063c0435863e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
