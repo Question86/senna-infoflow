@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T20:08:02+00:00",
+  "generated_at": "2026-10-05T20:37:43+00:00",
   "topics": {
     "ai": [
       {
@@ -363,6 +363,13 @@
         "published_at": "2026-10-02T19:07:04+00:00",
         "relevance_score": 5,
         "url": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire"
+      },
+      {
+        "title": "npm staged publishing now supports creating new packages",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-02T19:05:17+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages"
       },
       {
         "title": "tester-army/e2e",
