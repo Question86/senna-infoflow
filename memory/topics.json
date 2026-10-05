@@ -1,6 +1,48 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T00:26:37+00:00",
-  "topics": {}
+  "generated_at": "2026-10-05T01:17:24+00:00",
+  "topics": {
+    "ai": [
+      {
+        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T01:00:34+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/"
+      },
+      {
+        "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T23:57:28+00:00",
+        "relevance_score": 5,
+        "url": "https://aikido-community.jp/articles/quiet-business-app-database-access"
+      },
+      {
+        "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T23:13:04+00:00",
+        "relevance_score": 5,
+        "url": "https://blog.shibayu36.org/entry/2026/10/05/074417"
+      }
+    ],
+    "github": [
+      {
+        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T01:00:34+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T01:00:34+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/"
+      }
+    ]
+  }
 }
