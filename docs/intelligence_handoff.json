@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T07:58:31Z",
+  "generated_at": "2026-10-05T08:34:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Warnung vor Angriffen auf Zammad und Citrix NetScaler” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:41:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:26:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security",
         "infra"
@@ -67,7 +67,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -116,7 +116,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T07:40:32.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -141,7 +141,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 108.25,
+      "age_days": 108.28,
       "topics": [
         "ai"
       ],
@@ -160,7 +160,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 108.2d old signal",
+        "aging penalty -8.0 for 108.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -170,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T06:40:40.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -195,7 +195,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -221,7 +221,7 @@
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -248,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T05:46:50.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -273,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T04:36:07.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -298,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T01:35:49.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
