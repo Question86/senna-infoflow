@@ -355,6 +355,27 @@
     "id": "35d46ab693cb37978919"
   },
   {
+    "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+    "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-05T22:42:14+00:00",
+    "fetched_at": "2026-10-05T22:53:52+00:00",
+    "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02615515093dd109c903"
+  },
+  {
     "title": "Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html",
     "source": "ECB Open Market Operations and Communication",
