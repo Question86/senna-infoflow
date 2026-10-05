@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T03:32:49+00:00",
-  "run_id": "2026-10-05T03:32:49+00:00",
+  "generated_at": "2026-10-05T03:57:39+00:00",
+  "run_id": "2026-10-05T03:57:39+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 1,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -215,6 +215,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "edb22c5aaae423f1f55a"
+      },
+      {
+        "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
+        "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-05T03:45:31+00:00",
+        "fetched_at": "2026-10-05T03:57:06+00:00",
+        "summary": "Bitcoin rose 1.81 per cent to US$86,350.24 in 24 hours, slightly outperforming the broader market, which gained 1.45 per cent. The move looks modest on the surface. Underneath, two forces drove the gain. Renewed spot ETF demand and a softer macro backdrop gave the largest cryptocurrency a firmer floor. A short squeeze then amplified the […] The post Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "df983882c992140385b5"
       }
     ]
   },
@@ -403,9 +423,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "edb22c5aaae423f1f55a"
+    },
+    {
+      "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
+      "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T03:45:31+00:00",
+      "fetched_at": "2026-10-05T03:57:06+00:00",
+      "summary": "Bitcoin rose 1.81 per cent to US$86,350.24 in 24 hours, slightly outperforming the broader market, which gained 1.45 per cent. The move looks modest on the surface. Underneath, two forces drove the gain. Renewed spot ETF demand and a softer macro backdrop gave the largest cryptocurrency a firmer floor. A short squeeze then amplified the […] The post Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
+      "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T03:45:31+00:00",
+      "fetched_at": "2026-10-05T03:57:06+00:00",
+      "summary": "Bitcoin rose 1.81 per cent to US$86,350.24 in 24 hours, slightly outperforming the broader market, which gained 1.45 per cent. The move looks modest on the surface. Underneath, two forces drove the gain. Renewed spot ETF demand and a softer macro backdrop gave the largest cryptocurrency a firmer floor. A short squeeze then amplified the […] The post Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df983882c992140385b5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T03:32:49+00:00_
+_Generiert: 2026-10-05T03:57:39+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Everyone can build with AI now. Almost nobody can see what’s coming“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+9 neue relevante Treffer. Stärkstes Signal: „Everyone can build with AI now. Almost nobody can see what’s coming“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 ## Priorität Hoch
 
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?** — Score 4, observation — [Quelle](https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-05T03:45:31+00:00`, fetched `2026-10-05T03:57:06+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin rose 1.81 per cent to US$86,350.24 in 24 hours, slightly outperforming the broader market, which gained 1.45 per cent. The move looks modest on the surface. Underneath, two forces drove the gain. Renewed spot ETF demand and a softer macro backdrop gave the largest cryptocurrency a firmer floor. A short squeeze then amplified the […] The post Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T03:32:49+00:00",
+  "generated_at": "2026-10-05T03:57:39+00:00",
   "topics": {
     "ai": [
       {
@@ -38,6 +38,13 @@
         "published_at": "2026-10-04T23:13:04+00:00",
         "relevance_score": 5,
         "url": "https://blog.shibayu36.org/entry/2026/10/05/074417"
+      },
+      {
+        "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T03:45:31+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/"
       }
     ],
     "github": [
@@ -63,6 +70,13 @@
         "published_at": "2026-10-05T02:00:14+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/"
+      },
+      {
+        "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T03:45:31+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/"
       }
     ],
     "general": [
