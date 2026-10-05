@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T15:01:13+00:00",
+  "generated_at": "2026-10-05T15:22:30+00:00",
   "topics": {
     "ai": [
       {
@@ -240,6 +240,13 @@
         "published_at": "2026-10-05T08:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html"
+      },
+      {
+        "title": "Our approach to EU text provenance rules",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-05T15:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://openai.com/index/eu-text-provenance"
       },
       {
         "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
