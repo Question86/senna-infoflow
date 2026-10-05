@@ -101,6 +101,27 @@
     "id": "6e5442e850befefdf097"
   },
   {
+    "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
+    "url": "https://togetter.com/li/2754205",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-05T00:37:16+00:00",
+    "fetched_at": "2026-10-05T02:44:38+00:00",
+    "summary": "威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36fdbd38cc0c240eb57b"
+  },
+  {
     "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
     "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
     "source": "Hatena Bookmark Hotentry IT",

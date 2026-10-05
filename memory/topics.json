@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T02:11:55+00:00",
+  "generated_at": "2026-10-05T02:45:11+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-04T18:34:21+00:00",
         "relevance_score": 11,
         "url": "https://forbesjapan.com/articles/detail/105823"
+      },
+      {
+        "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-05T00:37:16+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2754205"
       },
       {
         "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T02:11:55+00:00_
+_Generated: 2026-10-05T02:45:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-10-05T02:11:55+00:00_
 - url: https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/
 - summary: The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But th…
 
-### 5. 最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」
+### 5. 「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-04T23:57:28+00:00`
-- url: https://aikido-community.jp/articles/quiet-business-app-database-access
-- summary: 9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。...
+- published: `2026-10-05T00:37:16+00:00`
+- url: https://togetter.com/li/2754205
+- summary: 威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...
 
 END OF DOCUMENT
