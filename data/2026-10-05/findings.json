@@ -203,6 +203,29 @@
     "id": "2b55d9804bc9a46a9f95"
   },
   {
+    "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-05T10:18:02+00:00",
+    "fetched_at": "2026-10-05T10:27:06+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Cross-Site-Scripting- und Spoofing-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cfa22dbb090b814e48c3"
+  },
+  {
     "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
     "source": "BSI CERT-Bund Security Advisories",
@@ -626,6 +649,47 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6e5442e850befefdf097"
+  },
+  {
+    "title": "The AI boom is making the world’s cheapest smartphones disappear",
+    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-05T10:00:43+00:00",
+    "fetched_at": "2026-10-05T10:27:06+00:00",
+    "summary": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b71ca4135b1713d5f37d"
+  },
+  {
+    "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象",
+    "url": "https://ascii.jp/elem/000/004/440/4440100/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-05T09:05:31+00:00",
+    "fetched_at": "2026-10-05T10:27:06+00:00",
+    "summary": "焼肉きんぐを運営する物語コーポレーションは10月5日、公式アプリの会員管理システムが第三者から不正アクセスを受け、会員情報1078万8963件が流出したと発表した。アプリのユーザー登録数は1080万8784件で、ほぼすべてのユーザーが対象となる。 流出した情報には、会員番号、氏名（アプリ登録名）、メールアドレス、電...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "778dd2dbfe2a787fd448"
   },
   {
     "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
