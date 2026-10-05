@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T11:28:20+00:00",
-  "run_id": "2026-10-05T11:28:20+00:00",
+  "generated_at": "2026-10-05T11:40:06+00:00",
+  "run_id": "2026-10-05T11:40:06+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 1,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
     "medium": 8,
-    "observe": 31,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -322,6 +322,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "712130aa81b87322f3a4"
+      },
+      {
+        "title": "0G picks Singapore as global base, expands AI research into badminton",
+        "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-05T11:30:56+00:00",
+        "fetched_at": "2026-10-05T11:39:28+00:00",
+        "summary": "For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure company said it will invest about US$15.4 million in Singapore over the next five years, using the country […] The post 0G picks Singapore as global base, expands…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "00a52895989decd9421e"
       },
       {
         "title": "アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ",
@@ -1269,6 +1290,27 @@
       "id": "712130aa81b87322f3a4"
     },
     {
+      "title": "0G picks Singapore as global base, expands AI research into badminton",
+      "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T11:30:56+00:00",
+      "fetched_at": "2026-10-05T11:39:28+00:00",
+      "summary": "For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure company said it will invest about US$15.4 million in Singapore over the next five years, using the country […] The post 0G picks Singapore as global base, expands…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00a52895989decd9421e"
+    },
+    {
       "title": "アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ",
       "url": "https://japan.cnet.com/article/35253230/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1919,7 +1961,29 @@
       "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "0G picks Singapore as global base, expands AI research into badminton",
+      "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T11:30:56+00:00",
+      "fetched_at": "2026-10-05T11:39:28+00:00",
+      "summary": "For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure company said it will invest about US$15.4 million in Singapore over the next five years, using the country […] The post 0G picks Singapore as global base, expands…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00a52895989decd9421e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

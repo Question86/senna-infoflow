@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T11:28:20+00:00_
+_Generated: 2026-10-05T11:40:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `40`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-05T11:28:20+00:00_
 - url: https://forbesjapan.com/articles/detail/105823
 - summary: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
 
-### 7. アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ
+### 7. 0G picks Singapore as global base, expands AI research into badminton
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-05T11:30:56+00:00`
+- url: https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/
+- summary: For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure com…
+
+### 8. アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-10-05T06:43:08+00:00`
 - url: https://japan.cnet.com/article/35253230/
 - summary: Amazon傘下のAudibleは、オーディオブック配信サービス「Audible」の没入感を高めようとしている。同社は米国時間10月1日、本を聴く体験を広げるため、AIを活用した3つの新機能を発表した。これにより、ユーザーは登場人物のガイドを確認し、物語に参加するとともに、聴いている本に登場する都市や名所について詳しく知...
-
-### 8. OneByZero raises US$20M Series A to help enterprises move AI from pilots to production
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-05T06:00:45+00:00`
-- url: https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/
-- summary: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that exper…
 
 END OF DOCUMENT
