@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-05T12:39:45Z",
+  "generated_at": "2026-10-05T13:02:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
-      "strong": 11,
-      "watch": 10,
-      "quiet": 17
+      "strong": 12,
+      "watch": 12,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 12,
-      "watch": 10,
-      "quiet": 17
+      "strong": 13,
+      "watch": 12,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security",
@@ -77,7 +77,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:41:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -103,7 +103,7 @@
       "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:26:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security",
         "infra"
@@ -129,7 +129,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -153,7 +153,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T07:40:32.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-05T10:00:43+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -229,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T10:18:02+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -255,7 +255,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 108.45,
+      "age_days": 108.46,
       "topics": [
         "ai"
       ],
@@ -274,7 +274,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 108.4d old signal",
+        "aging penalty -8.0 for 108.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -284,7 +284,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T06:40:40.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -309,7 +309,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -331,11 +331,37 @@
       "summary": "Bitcoin rose 1.81 per cent to US$86,350.24 in 24 hours, slightly outperforming the broader market, which gained 1.45 per cent. The move looks modest on the surface. Underneath, two forces drove the gain. Renewed spot ETF demand and a softer macro backdrop gave the largest cryptocurrency a firmer floor. A short squeeze…"
     },
     {
+      "title": "Accelerating Hong Kong’s bond market development - building a diversified, deep, dynamic and digital-native market",
+      "url": "https://www.bis.org/speeches/20261005-accelerating-hong-kongs-bond-market-development-building-diversified-deep-dynamic-and-digital-native-market",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "age_days": 0.54,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, auth",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Welcoming remarks and keynote address by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the Treasury Markets Summit 2026, Hong Kong, 23 September 2026."
+    },
+    {
       "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -362,7 +388,7 @@
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-05T10:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -388,7 +414,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T12:12:42.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -413,7 +439,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T05:46:50.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -438,7 +464,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T04:36:07.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -463,7 +489,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T01:35:49.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -488,7 +514,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-05T08:00:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -512,7 +538,7 @@
       "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:00:23+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -536,7 +562,7 @@
       "url": "https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:00:36+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "macro"
       ],
@@ -556,11 +582,59 @@
       "summary": "In November, ASEAN leaders are scheduled to sign the Digital Economy Framework Agreement (DEFA), the first region-wide pact written specifically for the digital economy. Negotiators closed the text in Manila in May, and ASEAN’s own statement puts the prize at up to US$2 trillion in digital economy value by 2030 if the…"
     },
     {
+      "title": "Unwavering dedication",
+      "url": "https://www.bis.org/speeches/20261005-unwavering-dedication",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "age_days": 0.54,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the University at Buffalo, Buffalo, New York, 29 September 2026."
+    },
+    {
+      "title": "Leading the next chapter - Islamic finance as a catalyst for national prosperity",
+      "url": "https://www.bis.org/speeches/20261005-leading-next-chapter-islamic-finance-catalyst-national-prosperity",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "age_days": 0.54,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Presentation by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Financial Institutions' Directors Education (FIDE) Forum “Advancing Islamic finance as part of the national agenda”, Kuala Lumpur, 24 September 2026."
+    },
+    {
       "title": "Basel III applicable in almost all member jurisdictions by 2027",
       "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
       "source": "BIS Press Releases",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "macro"
       ],
@@ -584,7 +658,7 @@
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T01:00:34+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -610,7 +684,7 @@
       "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T02:00:14+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "macro"
       ],
@@ -634,7 +708,7 @@
       "url": "https://www.bis.org/speeches/20261005-launch-women-entrepreneurs-we-finance-code-albania",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "macro"
       ],
@@ -658,7 +732,7 @@
       "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T11:30:56+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -685,7 +759,7 @@
       "url": "https://ascii.jp/elem/000/004/440/4440100/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T09:05:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -709,7 +783,7 @@
       "url": "https://forbesjapan.com/articles/detail/105823",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T18:34:21+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -735,7 +809,7 @@
       "url": "https://japan.cnet.com/article/35253230/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T06:43:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -761,7 +835,7 @@
       "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T06:00:45+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -787,7 +861,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-05T06:00:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -811,7 +885,7 @@
       "url": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T06:52:58+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -837,7 +911,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2145484.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T04:29:59+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -861,7 +935,7 @@
       "url": "https://www.47news.jp/15038299.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T04:29:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -885,7 +959,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T01:09:28+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -909,7 +983,7 @@
       "url": "https://note.com/shi3zblog/n/nf59b8740cd24",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T22:18:25+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -933,7 +1007,7 @@
       "url": "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T07:00:58+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -954,84 +1028,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Singapore’s electric vehicle (EV) market is no longer waiting for a breakthrough moment. In 2026, the shift is already visible on the road, in dealerships, and across public car parks where chargers have become a more common part of the urban landscape. But the next stage of growth may be harder than the first. EV […]…"
-    },
-    {
-      "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
-      "url": "https://type.jp/et/feature/31834/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-05T07:03:43+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "転職・求人情報サイトのtype エンジニアtype ITニュース AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え NEW! 2026.10.05 ITニュース 和田卓人プログラミングAI 生成AIは「コードを書く」というエンジニアの仕事を急速に変えた。AIと相談しながら実装を進めるだけで..."
-    },
-    {
-      "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
-      "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-05T04:55:25+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに 自分の仕事ができるようになったら、その先は何を勉強すればいいのだろう。今の仕事で足りないものは少し分かってきた。でも、それを身につけた頃にも、同じ働き方が求められているだろうか。 AI時代に何が必要になるのか、私にもはっきり分かっているわけではない。自分が経験してきた仕事のやり方が、そのま..."
-    },
-    {
-      "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
-      "url": "https://togetter.com/li/2754205",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-05T00:37:16+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
