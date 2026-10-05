@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T22:54:22+00:00",
-  "run_id": "2026-10-05T22:54:22+00:00",
+  "generated_at": "2026-10-05T22:59:50+00:00",
+  "run_id": "2026-10-05T22:59:50+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 66,
     "displayed_findings": 66,
     "high": 0,
@@ -3359,29 +3359,7 @@
       "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-05T22:42:14+00:00",
-      "fetched_at": "2026-10-05T22:53:52+00:00",
-      "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02615515093dd109c903"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
