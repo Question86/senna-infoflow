@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T09:02:06+00:00_
+_Generiert: 2026-10-05T09:55:03+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+35 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -156,6 +156,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35253230/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-05T06:43:08+00:00`, fetched `2026-10-05T09:54:34+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Amazon傘下のAudibleは、オーディオブック配信サービス「Audible」の没入感を高めようとしている。同社は米国時間10月1日、本を聴く体験を広げるため、AIを活用した3つの新機能を発表した。これにより、ユーザーは登場人物のガイドを確認し、物語に参加するとともに、聴いている本に登場する都市や名所について詳しく知...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OneByZero raises US$20M Series A to help enterprises move AI from pilots to production** — Score 10, observation — [Quelle](https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-05T06:00:45+00:00`, fetched `2026-10-05T06:00:55+00:00`
@@ -228,6 +237,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: In November, ASEAN leaders are scheduled to sign the Digital Economy Framework Agreement (DEFA), the first region-wide pact written specifically for the digital economy. Negotiators closed the text in Manila in May, and ASEAN’s own statement puts the prize at up to US$2 trillion in digital economy value by 2030 if the agreement is implemented […] The post Stop calling Southeast Asia an emerging market in mobile. It…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Basel III applicable in almost all member jurisdictions by 2027** — Score 8, observation — [Quelle](https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T09:54:34+00:00`
+  - Treffer: Basel, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)
+  - Kurz: Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely monitor and assess the full and consistent implementation of Basel III standards.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Warnung vor Angriffen auf Zammad und Citrix NetScaler** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-05T06:41:00.000+00:00`, fetched `2026-10-05T06:51:35+00:00`
@@ -254,15 +272,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる** — Score 5, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-05T04:55:25+00:00`, fetched `2026-10-05T07:55:42+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに 自分の仕事ができるようになったら、その先は何を勉強すればいいのだろう。今の仕事で足りないものは少し分かってきた。でも、それを身につけた頃にも、同じ働き方が求められているだろうか。 AI時代に何が必要になるのか、私にもはっきり分かっているわけではない。自分が経験してきた仕事のやり方が、そのま...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **tester-army/e2e** — Score 5, observation — [Quelle](https://github.com/tester-army/e2e)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
