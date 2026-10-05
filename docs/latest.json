@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T23:44:23+00:00",
-  "run_id": "2026-10-05T23:44:23+00:00",
+  "generated_at": "2026-10-05T23:50:25+00:00",
+  "run_id": "2026-10-05T23:50:25+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 68,
     "displayed_findings": 68,
     "high": 0,
@@ -3495,29 +3495,7 @@
       "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "連日の不正アクセスの件、マジでシャレにならないが、こんなやばいの日本だけ？他の国で問題になってないん？「今世界中で起きてる」",
-      "url": "https://togetter.com/li/2754581",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-05T18:31:36+00:00",
-      "fetched_at": "2026-10-05T23:43:53+00:00",
-      "summary": "企業で相次ぐ“不正アクセス” 狙われる「個人情報」｜FNNプライムオンライン 第三者からの不正アクセスを受けた企業からの情報漏えいが相次いでいます。5日夕方、「焼肉きんぐ」を運営する物語コーポレーションは、公式アプリの会員管理システムが第三者からの不正アクセスを受け、登録され… FNNプライムオンライン",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3886603a9798a01e6724"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
