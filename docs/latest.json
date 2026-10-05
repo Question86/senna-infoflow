@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T12:01:52+00:00",
-  "run_id": "2026-10-05T12:01:52+00:00",
+  "generated_at": "2026-10-05T12:35:25+00:00",
+  "run_id": "2026-10-05T12:35:25+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 3,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
     "medium": 8,
-    "observe": 32,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -389,6 +389,42 @@
         "id": "012dc9828548cfed4711"
       },
       {
+        "title": "M 4.6 - 21 km S of Luganville, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-05T12:12:42.040+00:00",
+        "fetched_at": "2026-10-05T12:34:54+00:00",
+        "summary": "Time 2026-10-05 11:47:07 UTC 2026-10-05 11:47:07 UTC at epicenter Location 15.716°S 167.148°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6a9be3c6246d2b893480"
+      },
+      {
         "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -725,6 +761,26 @@
         "id": "6e5442e850befefdf097"
       },
       {
+        "title": "Launch of the Women Entrepreneurs (WE) Finance Code in Albania",
+        "url": "https://www.bis.org/speeches/20261005-launch-women-entrepreneurs-we-finance-code-albania",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-05T00:00:00+00:00",
+        "fetched_at": "2026-10-05T12:34:54+00:00",
+        "summary": "Address by Mr Gent Sejko, Governor of the Bank of Albania, at the launch of the Women Entrepreneurs (WE) Finance Code in Albania, Tirana, 8 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eee92ffde968717a7159"
+      },
+      {
         "title": "The AI boom is making the world’s cheapest smartphones disappear",
         "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -764,6 +820,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "778dd2dbfe2a787fd448"
+      },
+      {
+        "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
+        "url": "https://type.jp/et/feature/31834/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-05T07:03:43+00:00",
+        "fetched_at": "2026-10-05T12:34:54+00:00",
+        "summary": "転職・求人情報サイトのtype エンジニアtype ITニュース AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え NEW! 2026.10.05 ITニュース 和田卓人プログラミングAI 生成AIは「コードを書く」というエンジニアの仕事を急速に変えた。AIと相談しながら実装を進めるだけで...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ea3a9b1370fc8ba6ecec"
       },
       {
         "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
@@ -1355,6 +1432,42 @@
       "id": "012dc9828548cfed4711"
     },
     {
+      "title": "M 4.6 - 21 km S of Luganville, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-05T12:12:42.040+00:00",
+      "fetched_at": "2026-10-05T12:34:54+00:00",
+      "summary": "Time 2026-10-05 11:47:07 UTC 2026-10-05 11:47:07 UTC at epicenter Location 15.716°S 167.148°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6a9be3c6246d2b893480"
+    },
+    {
       "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -1691,6 +1804,26 @@
       "id": "6e5442e850befefdf097"
     },
     {
+      "title": "Launch of the Women Entrepreneurs (WE) Finance Code in Albania",
+      "url": "https://www.bis.org/speeches/20261005-launch-women-entrepreneurs-we-finance-code-albania",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "fetched_at": "2026-10-05T12:34:54+00:00",
+      "summary": "Address by Mr Gent Sejko, Governor of the Bank of Albania, at the launch of the Women Entrepreneurs (WE) Finance Code in Albania, Tirana, 8 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eee92ffde968717a7159"
+    },
+    {
       "title": "The AI boom is making the world’s cheapest smartphones disappear",
       "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -1730,6 +1863,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "778dd2dbfe2a787fd448"
+    },
+    {
+      "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
+      "url": "https://type.jp/et/feature/31834/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-05T07:03:43+00:00",
+      "fetched_at": "2026-10-05T12:34:54+00:00",
+      "summary": "転職・求人情報サイトのtype エンジニアtype ITニュース AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え NEW! 2026.10.05 ITニュース 和田卓人プログラミングAI 生成AIは「コードを書く」というエンジニアの仕事を急速に変えた。AIと相談しながら実装を進めるだけで...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea3a9b1370fc8ba6ecec"
     },
     {
       "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
@@ -1961,7 +2115,85 @@
       "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.6 - 21 km S of Luganville, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-05T12:12:42.040+00:00",
+      "fetched_at": "2026-10-05T12:34:54+00:00",
+      "summary": "Time 2026-10-05 11:47:07 UTC 2026-10-05 11:47:07 UTC at epicenter Location 15.716°S 167.148°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6a9be3c6246d2b893480"
+    },
+    {
+      "title": "Launch of the Women Entrepreneurs (WE) Finance Code in Albania",
+      "url": "https://www.bis.org/speeches/20261005-launch-women-entrepreneurs-we-finance-code-albania",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "fetched_at": "2026-10-05T12:34:54+00:00",
+      "summary": "Address by Mr Gent Sejko, Governor of the Bank of Albania, at the launch of the Women Entrepreneurs (WE) Finance Code in Albania, Tirana, 8 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eee92ffde968717a7159"
+    },
+    {
+      "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
+      "url": "https://type.jp/et/feature/31834/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-05T07:03:43+00:00",
+      "fetched_at": "2026-10-05T12:34:54+00:00",
+      "summary": "転職・求人情報サイトのtype エンジニアtype ITニュース AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え NEW! 2026.10.05 ITニュース 和田卓人プログラミングAI 生成AIは「コードを書く」というエンジニアの仕事を急速に変えた。AIと相談しながら実装を進めるだけで...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea3a9b1370fc8ba6ecec"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
