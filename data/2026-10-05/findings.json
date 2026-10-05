@@ -92,6 +92,42 @@
     "id": "712130aa81b87322f3a4"
   },
   {
+    "title": "M 4.5 - Kuril Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-05T04:36:07.040+00:00",
+    "fetched_at": "2026-10-05T04:47:04+00:00",
+    "summary": "Time 2026-10-05 04:16:23 UTC 2026-10-05 04:16:23 UTC at epicenter Location 45.953°N 151.868°E Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "982a45406c927d5beddf"
+  },
+  {
     "title": "Change fatigue is an organisational design problem, not a resilience problem",
     "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -273,6 +309,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "edb22c5aaae423f1f55a"
+  },
+  {
+    "title": "プログラミングの基本原理｜shi3z",
+    "url": "https://note.com/shi3zblog/n/nf59b8740cd24",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-04T22:18:25+00:00",
+    "fetched_at": "2026-10-05T04:47:04+00:00",
+    "summary": "東十条の駅を降りると、すぐに階段がある。 その階段を登ろうとすると、シスターズの長女が言った。 「まるで流れるように南口に行きますね」 「君はジッダという街を知っているか?」 サウジアラビアにある街、ジッダにあるキング・アブドゥルアズィーズ国際空港には、他の空港にはない珍しいターミナルがある。 ハッジ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "79195b9348f3f7c8d142"
   },
   {
     "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
