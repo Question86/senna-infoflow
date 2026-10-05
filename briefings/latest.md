@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T05:45:01+00:00_
+_Generiert: 2026-10-05T06:01:41+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-10-05T05:45:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
+- **GDACS: Green flood alert in Honduras** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104209)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Honduras
 - **GDACS: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001333)
   - Quelle: GDACS
   - Zeit: ``
@@ -99,6 +103,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OneByZero raises US$20M Series A to help enterprises move AI from pilots to production** — Score 10, observation — [Quelle](https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-05T06:00:45+00:00`, fetched `2026-10-05T06:00:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 71 km E of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-05T05:46:50.040+00:00`, fetched `2026-10-05T06:00:55+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-05 05:26:44 UTC 2026-10-05 05:26:44 UTC at epicenter Location 21.421°S 174.268°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - Kuril Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-05T04:36:07.040+00:00`, fetched `2026-10-05T04:47:04+00:00`
@@ -144,15 +166,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: In November, ASEAN leaders are scheduled to sign the Digital Economy Framework Agreement (DEFA), the first region-wide pact written specifically for the digital economy. Negotiators closed the text in Manila in May, and ASEAN’s own statement puts the prize at up to US$2 trillion in digital economy value by 2030 if the agreement is implemented […] The post Stop calling Southeast Asia an emerging market in mobile. It…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **A funding round can improve your metrics without improving your company** — Score 6, observation — [Quelle](https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-05T02:00:14+00:00`, fetched `2026-10-05T02:11:23+00:00`
-  - Treffer: APAC Trend Radar, funding
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
-  - Kurz: The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But the harder question is not on the dashboard: after the round, what became […] The post A funding round can improve your metrics without improving your company app…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2145512.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-05T01:09:28+00:00`, fetched `2026-10-05T04:13:59+00:00`
@@ -170,3 +183,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7ff43b9c6b10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7ff43ba8d250>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

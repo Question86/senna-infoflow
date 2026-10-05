@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T05:45:01+00:00",
+  "generated_at": "2026-10-05T06:01:41+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-10-04T18:34:21+00:00",
         "relevance_score": 11,
         "url": "https://forbesjapan.com/articles/detail/105823"
+      },
+      {
+        "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T06:00:45+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/"
       },
       {
         "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）",
@@ -108,6 +115,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-05T05:46:50.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme"
+      },
       {
         "title": "M 4.5 - Kuril Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
