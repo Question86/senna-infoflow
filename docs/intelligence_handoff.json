@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T07:24:44Z",
+  "generated_at": "2026-10-05T07:58:31Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Warnung vor Angriffen auf Zammad und Citrix NetScaler” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:41:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:26:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security",
         "infra"
@@ -67,7 +67,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -112,11 +112,36 @@
       "summary": "今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ..."
     },
     {
+      "title": "M 4.9 - Volcano Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T07:40:32.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 108.23,
+      "age_days": 108.25,
       "topics": [
         "ai"
       ],
@@ -145,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T06:40:40.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -170,7 +195,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -196,7 +221,7 @@
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -223,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T05:46:50.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -248,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T04:36:07.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -273,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T01:35:49.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -292,30 +317,6 @@
         "high terms: 10, 9.9"
       ],
       "summary": "Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Change fatigue is an organisational design problem, not a resilience problem",
-      "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-05T03:00:23+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to keep functioning through it, even while they are worn out by…"
     }
   ],
   "read_order": [
@@ -327,8 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 4
+      "strong": 9,
+      "watch": 3
     }
   }
 }
