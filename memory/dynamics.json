@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-05T10:19:50Z",
+  "generated_at": "2026-10-05T10:38:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
-      "krass": 1,
-      "strong": 10,
+      "krass": 2,
+      "strong": 11,
       "watch": 8,
-      "quiet": 20
+      "quiet": 19
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 10,
+      "strong": 12,
       "watch": 8,
-      "quiet": 20
+      "quiet": 19
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -77,7 +77,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:41:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -103,7 +103,7 @@
       "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:26:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security",
         "infra"
@@ -129,7 +129,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -153,7 +153,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T07:40:32.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -199,11 +199,63 @@
       "summary": "Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)"
     },
     {
+      "title": "The AI boom is making the world’s cheapest smartphones disappear",
+      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-10-05T10:00:43+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: shortage",
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models."
+    },
+    {
+      "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-05T10:18:02+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Cross-Site-Scripting- und Spoofing-Angriffe durchzuführen."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 108.35,
+      "age_days": 108.36,
       "topics": [
         "ai"
       ],
@@ -222,7 +274,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 108.3d old signal",
+        "aging penalty -8.0 for 108.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -232,7 +284,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T06:40:40.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -257,7 +309,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -283,7 +335,7 @@
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -310,7 +362,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T05:46:50.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -335,7 +387,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T04:36:07.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -360,7 +412,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T01:35:49.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -385,7 +437,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-05T08:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -409,7 +461,7 @@
       "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:00:23+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -433,7 +485,7 @@
       "url": "https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:00:36+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "macro"
       ],
@@ -457,7 +509,7 @@
       "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
       "source": "BIS Press Releases",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -481,7 +533,7 @@
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T01:00:34+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -507,7 +559,7 @@
       "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T02:00:14+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "macro"
       ],
@@ -527,11 +579,35 @@
       "summary": "The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But the harder question is not on the dashboard: after the round,…"
     },
     {
+      "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象",
+      "url": "https://ascii.jp/elem/000/004/440/4440100/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-05T09:05:31+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "焼肉きんぐを運営する物語コーポレーションは10月5日、公式アプリの会員管理システムが第三者から不正アクセスを受け、会員情報1078万8963件が流出したと発表した。アプリのユーザー登録数は1080万8784件で、ほぼすべてのユーザーが対象となる。 流出した情報には、会員番号、氏名（アプリ登録名）、メールアドレス、電..."
+    },
+    {
       "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/105823",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T18:34:21+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -557,7 +633,7 @@
       "url": "https://japan.cnet.com/article/35253230/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T06:43:08+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -583,7 +659,7 @@
       "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T06:00:45+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -609,7 +685,7 @@
       "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-05T06:00:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -633,7 +709,7 @@
       "url": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T06:52:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -659,7 +735,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2145484.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T04:29:59+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -683,7 +759,7 @@
       "url": "https://www.47news.jp/15038299.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T04:29:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -707,7 +783,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T01:09:28+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -731,7 +807,7 @@
       "url": "https://note.com/shi3zblog/n/nf59b8740cd24",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T22:18:25+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -755,7 +831,7 @@
       "url": "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T07:00:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -782,7 +858,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T04:55:25+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -808,7 +884,7 @@
       "url": "https://togetter.com/li/2754205",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T00:37:16+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -834,7 +910,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T23:13:04+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -860,7 +936,7 @@
       "url": "https://e27.co/nearly-half-of-asia-pacific-consumers-open-to-stablecoins-within-five-years-visa-says-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T05:00:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -886,7 +962,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 107.31,
+      "age_days": 107.33,
       "topics": [
         "general"
       ],
@@ -911,7 +987,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 107.31,
+      "age_days": 107.33,
       "topics": [
         "general"
       ],
@@ -936,7 +1012,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 107.31,
+      "age_days": 107.33,
       "topics": [
         "ai"
       ],
@@ -957,56 +1033,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
-      "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T23:57:28+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。..."
-    },
-    {
-      "title": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-05T07:55:42+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Next generation e2e testing framework for web and mobile apps. https://tester.army/e2e e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. // tests/checkout.e2e.t…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
