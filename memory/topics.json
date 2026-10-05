@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T08:09:57+00:00",
+  "generated_at": "2026-10-05T08:44:08+00:00",
   "topics": {
     "ai": [
       {
@@ -117,6 +117,13 @@
         "published_at": "2026-10-05T01:35:49.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
+      },
+      {
+        "title": "Windows 11、エクスプローラーで「~」（チルダ）が利用可能に。ユーザーフォルダーへ素早くアクセス",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-05T04:29:59+00:00",
+        "relevance_score": 5,
+        "url": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2145484.html"
       },
       {
         "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
