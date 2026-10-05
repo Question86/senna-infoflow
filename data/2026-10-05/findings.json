@@ -398,6 +398,28 @@
     "id": "a41a6c0b063c0435863e"
   },
   {
+    "title": "AIでサイバー攻撃のコスト激減 数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー",
+    "url": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-05T08:05:24+00:00",
+    "fetched_at": "2026-10-05T21:15:53+00:00",
+    "summary": "わずか数行の指示を出すだけで、AIが脆弱性を探し、侵入し、カード情報まで盗み出す──。サイバー攻撃の自動化が実戦段階に迫っている。 セキュリティ企業Gambit Securityの9月22日の報告によると、金銭目的の攻撃者が複数のオープンソースAIエージェントを使い、数百店のオンラインショップを攻撃した。2026年9月10～15...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6d0008f207062b21da8c"
+  },
+  {
     "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "url": "https://forbesjapan.com/articles/detail/105823",
     "source": "Hatena Bookmark Hotentry IT",
@@ -552,6 +574,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d7f002b3e630b873b1cf"
+  },
+  {
+    "title": "M 5.0 - south of the Fiji Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-05T20:44:56.040+00:00",
+    "fetched_at": "2026-10-05T21:15:53+00:00",
+    "summary": "Time 2026-10-05 20:22:59 UTC 2026-10-05 20:22:59 UTC at epicenter Location 24.424°S 179.811°E Depth 518.64 km (322.27 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "620d5d873bb2fc675c3f"
   },
   {
     "title": "M 4.6 - 12 km ENE of Metahāra, Ethiopia",
