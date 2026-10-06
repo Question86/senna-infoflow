@@ -1221,6 +1221,27 @@
     "id": "723f2d39fee760d5940b"
   },
   {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-06T12:00:00+00:00",
+    "fetched_at": "2026-10-06T23:26:14+00:00",
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2586010a4625fb997176"
+  },
+  {
     "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
     "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
     "source": "Japan Digital Agency News RSS",

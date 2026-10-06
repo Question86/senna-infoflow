@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T23:13:00+00:00_
+_Generated: 2026-10-06T23:26:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `100`
+- findings: `101`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-06T23:13:00+00:00_
 - url: https://openai.com/index/atlassian-partnership
 - summary: Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
 
-### 7. 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
+### 7. How Jump Trading is scaling quant research with ChatGPT
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-10-06T12:00:00+00:00`
+- url: https://openai.com/index/jump-trading
+- summary: Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
+
+### 8. 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
 - source: Japan Digital Agency News RSS
 - score: `12`
 - published: `2026-10-06T06:10:19+00:00`
 - url: https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework
 - summary: 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
-
-### 8. The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-06T05:21:26+00:00`
-- url: https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/
-- summary: Across Southeast Asia’s technology hubs, engineering leaders are getting used to a new kind of productivity curve. In Singapore, Jakarta, Manila and Ho Chi Minh City, software teams are shipping faster, clearing backlogs more quickly and leaning on AI tools f…
 
 END OF DOCUMENT
