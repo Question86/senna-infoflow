@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T11:01:05+00:00_
+_Generiert: 2026-10-06T11:19:38+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+64 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -297,6 +297,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-06 06:54:10 UTC 2026-10-06 06:54:10 UTC at epicenter Location 20.009°S 67.421°W Depth 191.74 km (119.14 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Economic conditions and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T11:19:07+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Detroit Economic Club, Detroit, Michigan, 29 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Philip R. Lane: Interview with Ansa** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-06T07:00:00+00:00`, fetched `2026-10-06T07:00:17+00:00`
@@ -315,15 +324,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Supervisory risk appetite, efficiency and effectiveness** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261006-supervisory-risk-appetite-efficiency-and-effectiveness)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:47:23+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0)
-  - Kurz: Contribution by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the BCBS International Conference of Banking Supervisors panel on “Navigating the new financial landscape”, Bali, 30 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Not just AI. China is building technologies that challenge U.S. dominance** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-06T10:00:00+00:00`, fetched `2026-10-06T10:05:00+00:00`

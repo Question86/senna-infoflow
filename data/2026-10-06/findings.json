@@ -1082,6 +1082,26 @@
     "id": "71ec0aab82cdb93ec1af"
   },
   {
+    "title": "Economic conditions and monetary policy",
+    "url": "https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-06T00:00:00+00:00",
+    "fetched_at": "2026-10-06T11:19:07+00:00",
+    "summary": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Detroit Economic Club, Detroit, Michigan, 29 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4cdb3d128c52e4336f5"
+  },
+  {
     "title": "Philip R. Lane: Interview with Ansa",
     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -1164,6 +1184,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "04470f57d2962c061d1f"
+  },
+  {
+    "title": "Special remarks - JC3 Journey to Zero Conference 2026",
+    "url": "https://www.bis.org/speeches/20261006-special-remarks-jc3-journey-zero-conference-2026",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-06T00:00:00+00:00",
+    "fetched_at": "2026-10-06T11:19:07+00:00",
+    "summary": "Speech by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the JC3 Journey to Zero Conference 2026, Kuala Lumpur, 29 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6bed0858be3628def973"
   },
   {
     "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
