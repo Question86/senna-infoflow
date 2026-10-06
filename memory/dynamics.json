@@ -1,22 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-06T10:40:01Z",
+  "generated_at": "2026-10-06T10:51:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 13,
+      "krass": 14,
       "extreme": 1,
-      "strong": 15,
-      "watch": 8,
-      "quiet": 3
+      "strong": 20,
+      "watch": 5
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 27,
-      "watch": 8,
-      "quiet": 3
+      "strong": 33,
+      "watch": 5
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T05:40:46+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -50,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T09:40:48+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -75,7 +73,7 @@
       "url": "https://jvn.jp/jp/JVN53292492/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -95,11 +93,59 @@
       "summary": "株式会社ウェイブダッシュが提供するAndroidアプリ「チケット流通センター」には、複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [hoch] Progress Software Sitefinity Next.js Renderer SDK: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3744",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T10:40:47+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Progress Software Sitefinity Next.js Renderer SDK ausnutzen, um Dateien zu manipulieren und vertrauliche Informationen offenzulegen."
+    },
+    {
+      "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3742",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T10:40:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in CUPS ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [niedrig] GnuPG: Schwachstelle ermöglicht Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3739",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T09:40:49+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -123,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3724",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -147,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3736",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -171,7 +217,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T10:20:46+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -197,7 +243,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T07:55:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -223,7 +269,7 @@
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:15+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -249,7 +295,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3741",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T10:25:46+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -276,7 +322,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -302,7 +348,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3675",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:46:44+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -328,7 +374,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:35:46+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -355,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:05:46+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -375,6 +421,31 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rapid7 Velociraptor ausnutzen, um Dateien zu manipulieren, Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen und vertrauliche Informationen offenzulegen."
+    },
+    {
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3743",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T10:40:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren oder offenzulegen oder Sicherheitsmaßnahmen zu umgehen."
     },
     {
       "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
@@ -436,7 +507,7 @@
       "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T08:55:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -464,7 +535,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -491,7 +562,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 109.36,
+      "age_days": 109.37,
       "topics": [
         "ai"
       ],
@@ -520,7 +591,7 @@
       "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-06T10:23:38+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -547,7 +618,7 @@
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:10+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security",
@@ -577,7 +648,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:24+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security",
@@ -607,7 +678,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:25:46+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -633,7 +704,7 @@
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:00:16+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -657,11 +728,39 @@
       "summary": "Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able to drop the traditional bottom rungs of the corporate ladde…"
     },
     {
+      "title": "Thailand's new horizons - empowering people, building resilience",
+      "url": "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "age_days": 0.45,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Speech by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the Bangkok Business Summit 2026 \"Reinvent Thailand, resilient ASEAN\", Bangkok, 3 September 2026."
+    },
+    {
       "title": "Not just AI. China is building technologies that challenge U.S. dominance",
       "url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-06T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -686,7 +785,7 @@
       "url": "https://www.heise.de/news/Android-Patchday-Google-stopft-diverse-Rechteausweitungsluecken-11477435.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-06T09:52:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -705,6 +804,32 @@
         "security high-signal: kritisch"
       ],
       "summary": "Im Oktober versorgt Google mehr als 25 Sicherheitslücken mit Patches. Sieben gelten als kritisches Risiko."
+    },
+    {
+      "title": "Repo markets and monetary policy implementation",
+      "url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "age_days": 0.45,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Remarks by Mr Toni Gravelle, Deputy Governor of the Bank of Canada, at the Bloomberg Canadian Finance Conference, New York City, 29 September 2026."
     },
     {
       "title": "M 4.9 - State of Yap, Federated States of Micronesia",
@@ -737,7 +862,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:51:32.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -783,11 +908,39 @@
       "summary": "Time 2026-10-06 03:42:43 UTC 2026-10-06 03:42:43 UTC at epicenter Location 7.832°S 120.393°E Depth 8.65 km (5.38 mi)"
     },
     {
+      "title": "Supervisory risk appetite, efficiency and effectiveness",
+      "url": "https://www.bis.org/speeches/20261006-supervisory-risk-appetite-efficiency-and-effectiveness",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "age_days": 0.45,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Contribution by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the BCBS International Conference of Banking Supervisors panel on “Navigating the new financial landscape”, Bali, 30 September 2026."
+    },
+    {
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-06T07:27:28+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -813,7 +966,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T06:36:06.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -838,7 +991,7 @@
       "url": "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-06T00:00:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -866,7 +1019,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T09:12:47.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -891,7 +1044,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzva",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T07:34:22.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -910,153 +1063,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-06 06:54:10 UTC 2026-10-06 06:54:10 UTC at epicenter Location 20.009°S 67.421°W Depth 191.74 km (119.14 mi)"
-    },
-    {
-      "title": "Philip R. Lane: Interview with Ansa",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Philip R. Lane: Interview with Ansa"
-    },
-    {
-      "title": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-06T07:27:28+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Tool for automatic PS5 executables porting to Linux and Windows https://discord.gg/BHFztBPUe About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No…"
-    },
-    {
-      "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
-      "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-06T06:10:19+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月6日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261006-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-06T02:59:42+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "古川大臣記者会見（令和8年10月6日）動画を掲載しました"
-    },
-    {
-      "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
-      "url": "https://ascii.jp/elem/000/004/439/4439144/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-06T06:21:53+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。システムの管理用アカウントの認証情報を不正に取得され、内部へアクセスされたという。 最も影響が大きいのは、楽天ドライブ上に保存されたデータだ。2026年1月29日から9月17日..."
-    },
-    {
-      "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-06T05:32:06+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相 時事通信 政治部2026年10月06日14時02分配信 記者会見する古川俊治デジタル相＝６日、デジタル庁 古川俊治デジタル相は６日の記者会見で、大和証券など民間企業で頻発する不正アクセスによる個人情報の流出事案について「サイバー攻撃は企業や組織だけの..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
