@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-06T10:36:32+00:00",
+  "generated_at": "2026-10-06T10:47:52+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T10:40:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3743"
+      },
+      {
         "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-06T10:20:46+00:00",
@@ -126,25 +133,18 @@
         "url": "https://jvn.jp/jp/JVN53292492/"
       },
       {
-        "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Progress Software Sitefinity Next.js Renderer SDK: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T10:25:46+00:00",
+        "published_at": "2026-10-06T10:40:47+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3741"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3744"
       },
       {
-        "title": "[NEU] [niedrig] GnuPG: Schwachstelle ermöglicht Manipulation von Dateien",
+        "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T09:40:49+00:00",
+        "published_at": "2026-10-06T10:40:46+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3739"
-      },
-      {
-        "title": "[NEU] [hoch] LibreOffice: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T09:40:48+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3742"
       }
     ],
     "github": [
@@ -170,6 +170,13 @@
         "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/"
       },
       {
+        "title": "Repo markets and monetary policy implementation",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-06T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation"
+      },
+      {
         "title": "boykopovar/AnyPS5",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -193,11 +200,32 @@
         "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T10:40:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3743"
+      },
+      {
         "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-06T10:20:46+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740"
+      },
+      {
+        "title": "[NEU] [hoch] Progress Software Sitefinity Next.js Renderer SDK: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T10:40:47+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3744"
+      },
+      {
+        "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T10:40:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3742"
       },
       {
         "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
@@ -226,27 +254,6 @@
         "published_at": "2026-10-06T06:10:19+00:00",
         "relevance_score": 12,
         "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework"
-      },
-      {
-        "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-06T05:21:26+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/"
-      },
-      {
-        "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-06T02:00:44+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/"
-      },
-      {
-        "title": "Philip R. Lane: Interview with Ansa",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-06T07:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
       }
     ],
     "economy": [
@@ -300,25 +307,25 @@
         "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/"
       },
       {
+        "title": "Thailand's new horizons - empowering people, building resilience",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-06T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience"
+      },
+      {
+        "title": "Repo markets and monetary policy implementation",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-06T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation"
+      },
+      {
         "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-06T02:00:44+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/"
-      },
-      {
-        "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-06T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change"
-      },
-      {
-        "title": "Economic policymaking in a changing world",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-06T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world"
       }
     ],
     "general": [

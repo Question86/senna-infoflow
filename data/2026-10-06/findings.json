@@ -275,6 +275,30 @@
     "id": "386044d5f63064ba517a"
   },
   {
+    "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3743",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T10:40:46+00:00",
+    "fetched_at": "2026-10-06T10:47:23+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren oder offenzulegen oder Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a56184abca47b29e768"
+  },
+  {
     "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740",
     "source": "BSI CERT-Bund Security Advisories",
@@ -500,6 +524,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4f670beeb0ef8ccec24c"
+  },
+  {
+    "title": "[NEU] [hoch] Progress Software Sitefinity Next.js Renderer SDK: Schwachstelle ermöglicht Manipulation von Dateien",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3744",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T10:40:47+00:00",
+    "fetched_at": "2026-10-06T10:47:23+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Progress Software Sitefinity Next.js Renderer SDK ausnutzen, um Dateien zu manipulieren und vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4210913e52ff081393b"
+  },
+  {
+    "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3742",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T10:40:46+00:00",
+    "fetched_at": "2026-10-06T10:47:23+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in CUPS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cbb2809743b091d0cf1b"
   },
   {
     "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
@@ -774,6 +844,27 @@
     "id": "0e1ea55ce0d6d360375a"
   },
   {
+    "title": "Thailand's new horizons - empowering people, building resilience",
+    "url": "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-06T00:00:00+00:00",
+    "fetched_at": "2026-10-06T10:47:23+00:00",
+    "summary": "Speech by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the Bangkok Business Summit 2026 \"Reinvent Thailand, resilient ASEAN\", Bangkok, 3 September 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand, ASEAN (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4992e9326179c773581b"
+  },
+  {
     "title": "M 4.7 - 36 km WNW of Ollagüe, Chile",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -852,6 +943,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5732de96071ed84acbe6"
+  },
+  {
+    "title": "Repo markets and monetary policy implementation",
+    "url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-06T00:00:00+00:00",
+    "fetched_at": "2026-10-06T10:47:23+00:00",
+    "summary": "Remarks by Mr Toni Gravelle, Deputy Governor of the Bank of Canada, at the Bloomberg Canadian Finance Conference, New York City, 29 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region canada: Canada, Bank of Canada (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "93c95c18b74bc0a7f59a"
   },
   {
     "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
@@ -1011,6 +1122,27 @@
     "id": "0fe5ea0634171fac65ee"
   },
   {
+    "title": "Supervisory risk appetite, efficiency and effectiveness",
+    "url": "https://www.bis.org/speeches/20261006-supervisory-risk-appetite-efficiency-and-effectiveness",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-06T00:00:00+00:00",
+    "fetched_at": "2026-10-06T10:47:23+00:00",
+    "summary": "Contribution by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the BCBS International Conference of Banking Supervisors panel on “Navigating the new financial landscape”, Bali, 30 September 2026.",
+    "matched_keywords": [
+      "banking",
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "04470f57d2962c061d1f"
+  },
+  {
     "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
     "url": "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change",
     "source": "BIS Central Bankers Speeches",
@@ -1110,6 +1242,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5d8352d700add8419afc"
+  },
+  {
+    "title": "Keynote speech - Money20/20 Middle East",
+    "url": "https://www.bis.org/speeches/20261005-keynote-speech-money2020-middle-east",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-06T00:00:00+00:00",
+    "fetched_at": "2026-10-06T10:47:23+00:00",
+    "summary": "Keynote speech by His Excellency Mr Ayman Al-Sayari, Governor of the Saudi Central Bank, at the Money20/20 Middle East, Riyadh, 15 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "632681dd1ec4a2181d08"
   },
   {
     "title": "Economic policymaking in a changing world",

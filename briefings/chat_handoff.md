@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T10:36:32+00:00_
+_Generated: 2026-10-06T10:47:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `54`
+- findings: `61`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-06T10:36:32+00:00_
 - url: https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/
 - summary: Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able…
 
-### 8. M 4.7 - 36 km WNW of Ollagüe, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-06T06:36:06.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6
-- summary: Time 2026-10-06 06:16:33 UTC 2026-10-06 06:16:33 UTC at epicenter Location 21.159°S 68.603°W Depth 122.01 km (75.81 mi)
+### 8. Thailand's new horizons - empowering people, building resilience
+- source: BIS Central Bankers Speeches
+- score: `12`
+- published: `2026-10-06T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience
+- summary: Speech by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the Bangkok Business Summit 2026 "Reinvent Thailand, resilient ASEAN", Bangkok, 3 September 2026.
 
 END OF DOCUMENT
