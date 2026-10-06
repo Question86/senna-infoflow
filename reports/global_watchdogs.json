@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:42:05+00:00",
+  "generated_at": "2026-10-06T18:54:11+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,6 +95,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:26.047km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.9M, Depth:26.047km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI IV.",
         "source": "GDACS",
@@ -133,7 +143,7 @@
         "metrics": {
           "mag": 5.5,
           "alert": "",
-          "sig": 467.0,
+          "sig": 479.0,
           "tsunami": 0
         }
       }

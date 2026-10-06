@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T18:42:03+00:00_
+_Generiert: 2026-10-06T18:54:08+00:00_
 
 ## Kurzlage
 
@@ -41,6 +41,10 @@ _Generiert: 2026-10-06T18:42:03+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Guatemala
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:26.047km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569799)
   - Quelle: GDACS
   - Zeit: ``
