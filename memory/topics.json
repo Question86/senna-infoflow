@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-06T23:45:32+00:00",
+  "generated_at": "2026-10-06T23:52:21+00:00",
   "topics": {
     "ai": [
       {
@@ -182,6 +182,13 @@
         "published_at": "2026-10-06T00:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation"
+      },
+      {
+        "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-06T23:43:00+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics"
       },
       {
         "title": "boykopovar/AnyPS5",

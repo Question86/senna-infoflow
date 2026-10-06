@@ -2051,6 +2051,27 @@
     "id": "0454a1e0b91e409d207b"
   },
   {
+    "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+    "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-06T23:43:00+00:00",
+    "fetched_at": "2026-10-06T23:51:43+00:00",
+    "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02cfd37ffd9ec31f3dff"
+  },
+  {
     "title": "TalentHero, DeeMoney form Thai JV to connect hiring, payroll and payments",
     "url": "https://e27.co/talenthero-deemoney-form-thai-jv-to-connect-hiring-payroll-and-payments-20261006/",
     "source": "e27 Asia Startup and Tech Feed",
