@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-06T08:10:50+00:00",
+  "generated_at": "2026-10-06T08:34:25+00:00",
   "topics": {
     "ai": [
       {
@@ -216,6 +216,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T08:25:46+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-06T07:55:46+00:00",
@@ -316,6 +323,13 @@
         "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco"
       },
       {
+        "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-06T04:11:53+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2754733"
+      },
+      {
         "title": "Google ドライブ、Google ドキュメントでMarkdown（.md）をそのまま扱えるように／フォーマット変換不要、そのままプレビューや編集・共同作業が可能に",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-06T02:59:53+00:00",
@@ -328,13 +342,6 @@
         "published_at": "2026-10-06T00:20:20+00:00",
         "relevance_score": 5,
         "url": "https://anond.hatelabo.jp/20261006091814"
-      },
-      {
-        "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-05T23:08:08+00:00",
-        "relevance_score": 5,
-        "url": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b"
       }
     ],
     "axiom": [

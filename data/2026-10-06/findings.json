@@ -205,6 +205,30 @@
     "id": "553e4e007e86754a136e"
   },
   {
+    "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T08:25:46+00:00",
+    "fetched_at": "2026-10-06T08:33:53+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Zabbix Frontend ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "386044d5f63064ba517a"
+  },
+  {
     "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
     "source": "BSI CERT-Bund Security Advisories",
@@ -801,6 +825,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ccedb822b307955d379"
+  },
+  {
+    "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
+    "url": "https://togetter.com/li/2754733",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-06T04:11:53+00:00",
+    "fetched_at": "2026-10-06T08:33:53+00:00",
+    "summary": "やまさん @yamasaruyama @SOG55585235 ちょっとよく分からんのだけど 後続バスの列は別に並んでんの？ 普通は1列に並んで乗れる人から乗っていくもんだと思うけど 2026-10-06 09:47:35 SOG @SOG55585235 @yamasaruyama 列自体は1列しか無いです なので前に並んでる人達が行先違いで乗らなければ抜いて行って乗車するので...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7c0b3d08531eef02f458"
   },
   {
     "title": "Google ドライブ、Google ドキュメントでMarkdown（.md）をそのまま扱えるように／フォーマット変換不要、そのままプレビューや編集・共同作業が可能に",
