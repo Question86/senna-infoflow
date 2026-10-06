@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T02:53:04+00:00_
+_Generiert: 2026-10-06T03:01:31+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+9 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -99,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway** — Score 12, opportunity — [Quelle](https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-06T03:00:16+00:00`, fetched `2026-10-06T03:00:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able to drop the traditional bottom rungs of the corporate ladder. The headline number is 18 […] The post Gartner says AI will kill the entry-level marketing job by…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-06T02:00:44+00:00`, fetched `2026-10-06T02:03:43+00:00`
@@ -107,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my […] The post Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet appeared first…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年10月6日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261006-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-06T02:59:42+00:00`, fetched `2026-10-06T03:00:55+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年10月6日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -144,3 +162,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f056fd6da50>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
