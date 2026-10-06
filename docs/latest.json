@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T22:28:10+00:00",
-  "run_id": "2026-10-06T22:28:10+00:00",
+  "generated_at": "2026-10-06T22:38:53+00:00",
+  "run_id": "2026-10-06T22:38:53+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 96,
     "displayed_findings": 96,
     "high": 0,
@@ -4831,29 +4831,7 @@
       "id": "1d42d450bdaa727ba3b3"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Fableを使いこなせない",
-      "url": "https://anond.hatelabo.jp/20261006200248",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-06T11:03:01+00:00",
-      "fetched_at": "2026-10-06T22:27:38+00:00",
-      "summary": "Claudeには毎月お金を払っている。最初は無料版だったが、尊敬しているAI系の発信者たちが「課金してない人は本当のAIを知らない」と言っていたので、去年からProプランに入っている。非エンジニアの事務職としては、そこそこ思い切った出費だった。 おかげで仕事はだいぶ楽になった。毎月の売上CSVをエクセルで集計する...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "80332db2b4c31f645efc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
