@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T10:55:50+00:00",
-  "run_id": "2026-10-06T10:55:50+00:00",
+  "generated_at": "2026-10-06T11:01:05+00:00",
+  "run_id": "2026-10-06T11:01:05+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 62,
     "displayed_findings": 62,
     "high": 0,
@@ -3109,31 +3109,7 @@
       "id": "8fed855ceab1d614bbee"
     }
   ],
-  "new_findings": [
-    {
-      "title": "漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた",
-      "url": "https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-06T06:19:59+00:00",
-      "fetched_at": "2026-10-06T10:55:19+00:00",
-      "summary": "9月の終わりごろから、情報漏洩のニュースをやたらとよく見るなと感じていました。タイムズカー、セイコーマート、東京メトロ、OZmallと数日おきに続き、10月に入ると焼肉きんぐです。SNSでも、さすがに多すぎるのではという声や、AIが攻撃に使われているのではという声をよく見かけました。 ただ、「よく見る」と「増え...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5542c2652f2180879526"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
