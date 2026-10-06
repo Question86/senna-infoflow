@@ -1,18 +1,38 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-06T03:13:56Z_
+_Generated: 2026-10-06T03:34:40Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「チケット流通センター」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### Androidアプリ「チケット流通センター」における複数の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-10-06T12:00:00+09:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/jp/JVN53292492/
+
+### MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-06T12:00:15+09:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
+- Quelle: https://jvn.jp/jp/JVN13510969/
 
 ### The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T01:00:35+00:00` / age_days `0.09`
+- Published: `2026-10-06T01:00:35+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -22,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `109.05`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `109.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 109.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T02:00:10+00:00` / age_days `0.05`
+- Published: `2026-10-06T02:00:10+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: 10, security high-signal: 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T01:00:24+00:00` / age_days `0.09`
+- Published: `2026-10-06T01:00:24+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: 10, security high-signal: 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T03:00:16+00:00` / age_days `0.01`
+- Published: `2026-10-06T03:00:16+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-06T02:59:42+00:00` / age_days `0.01`
+- Published: `2026-10-06T02:59:42+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://www.digital.go.jp/speech/minister-261006-01
 
+### Geminiの使いどころ🥹
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.0`
+- Published: `2026-10-06T01:10:59+00:00` / age_days `0.1`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://anond.hatelabo.jp/20261006101040
+
 ### Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-10-06T02:00:44+00:00` / age_days `0.05`
+- Published: `2026-10-06T02:00:44+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-05T23:08:08+00:00` / age_days `0.17`
+- Published: `2026-10-05T23:08:08+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -92,40 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-10-05T23:08:07+00:00` / age_days `0.17`
+- Published: `2026-10-05T23:08:07+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://gigazine.net/news/20261006-homa-protocol-replace-tcp/
-
-### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `108.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 108.0d old signal
-- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
-
-### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `108.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 108.0d old signal
-- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
-
-### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `108.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 108.0d old signal, single-source AI cap enforced after phrase recheck
-- Quelle: https://toyokeizai.net/articles/-/948348?display=b
 
 END OF DOCUMENT
