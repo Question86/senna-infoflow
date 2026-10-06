@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T22:13:23+00:00_
+_Generiert: 2026-10-06T22:28:10+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+96 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 ## Priorität Hoch
 
