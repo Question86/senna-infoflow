@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T12:59:57+00:00_
+_Generiert: 2026-10-06T13:21:22+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+78 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -270,6 +270,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region canada: Canada, Bank of Canada (+2.0)
   - Kurz: Remarks by Mr Toni Gravelle, Deputy Governor of the Bank of Canada, at the Bloomberg Canadian Finance Conference, New York City, 29 September 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-25T00:00:00+00:00`, fetched `2026-10-06T13:20:49+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Red Hat (25 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-25T00:00:00+00:00`, fetched `2026-10-06T13:20:49+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-25T00:00:00+00:00`, fetched `2026-10-06T13:20:49+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-06T02:00:44+00:00`, fetched `2026-10-06T02:03:43+00:00`
@@ -278,6 +305,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my […] The post Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet appeared first…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-06T13:00:00+00:00`, fetched `2026-10-06T13:20:49+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 55 km ESE of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -297,42 +333,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-06 06:54:10 UTC 2026-10-06 06:54:10 UTC at epicenter Location 20.009°S 67.421°W Depth 191.74 km (119.14 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Economic conditions and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T11:19:07+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Detroit Economic Club, Detroit, Michigan, 29 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Philip R. Lane: Interview with Ansa** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-06T07:00:00+00:00`, fetched `2026-10-06T07:00:17+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Philip R. Lane: Interview with Ansa
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース** — Score 8, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261006de55007)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-06T02:45:48+00:00`, fetched `2026-10-06T05:46:47+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Not just AI. China is building technologies that challenge U.S. dominance** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-10-06T10:00:00+00:00`, fetched `2026-10-06T10:05:00+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, "Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare."
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
