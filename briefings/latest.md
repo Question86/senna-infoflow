@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T18:54:08+00:00_
+_Generiert: 2026-10-06T18:59:43+00:00_
 
 ## Kurzlage
 
@@ -60,7 +60,7 @@ _Generiert: 2026-10-06T18:54:08+00:00_
 - **USGS earthquake M5.5 - 92 km NNW of Aleneva, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky)
   - Quelle: USGS
   - Zeit: `2026-10-06T18:34:31+00:00`
-  - Kurz: M5.5 - 92 km NNW of Aleneva, Alaska. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 92 km NNW of Aleneva, Alaska. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
