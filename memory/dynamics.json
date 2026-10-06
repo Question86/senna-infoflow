@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-06T06:42:16Z",
+  "generated_at": "2026-10-06T07:04:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 34,
     "bands": {
-      "krass": 5,
+      "krass": 6,
       "extreme": 1,
       "strong": 8,
-      "watch": 1,
+      "watch": 3,
       "quiet": 16
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 13,
-      "watch": 1,
+      "strong": 14,
+      "watch": 3,
       "quiet": 16
     }
   },
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T05:40:46+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://jvn.jp/jp/JVN53292492/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:15+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -96,11 +96,38 @@
       "summary": "Measurement Computing Corporationが提供するUniversal Library for Linux (uldaq)には、スタックベースのバッファオーバーフローの脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T06:35:46+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Dateien zu manipulieren Informationen offenzulegen oder einen Denial of Service zu verursachen."
+    },
+    {
       "title": "[UPDATE] [mittel] Rapid7 Velociraptor: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:05:46+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -126,7 +153,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T03:06:03+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -152,7 +179,7 @@
       "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:01:42+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -181,7 +208,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -208,7 +235,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 109.2,
+      "age_days": 109.21,
       "topics": [
         "ai"
       ],
@@ -237,7 +264,7 @@
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security",
@@ -267,7 +294,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:24+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security",
@@ -297,7 +324,7 @@
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:00:16+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -325,7 +352,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:58:57.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro",
         "disaster"
@@ -351,7 +378,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:51:32.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -376,7 +403,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:00:46.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -397,11 +424,60 @@
       "summary": "Time 2026-10-06 03:42:43 UTC 2026-10-06 03:42:43 UTC at epicenter Location 7.832°S 120.393°E Depth 8.65 km (5.38 mi)"
     },
     {
+      "title": "M 4.7 - 36 km WNW of Ollagüe, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-06T06:36:06.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-06 06:16:33 UTC 2026-10-06 06:16:33 UTC at epicenter Location 21.159°S 68.603°W Depth 122.01 km (75.81 mi)"
+    },
+    {
+      "title": "Philip R. Lane: Interview with Ansa",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Philip R. Lane: Interview with Ansa"
+    },
+    {
       "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
       "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-06T06:10:19+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -425,7 +501,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261006-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-06T02:59:42+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -449,7 +525,7 @@
       "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T05:32:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -473,7 +549,7 @@
       "url": "https://anond.hatelabo.jp/20261006091814",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T00:20:20+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -497,7 +573,7 @@
       "url": "https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T05:21:26+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -523,7 +599,7 @@
       "url": "https://anond.hatelabo.jp/20261006101040",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T01:10:59+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -549,7 +625,7 @@
       "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:44+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -576,7 +652,7 @@
       "url": "https://e27.co/talenthero-deemoney-form-thai-jv-to-connect-hiring-payroll-and-payments-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:53:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -603,7 +679,7 @@
       "url": "https://e27.co/ai-is-starting-to-behave-less-like-a-tool-and-more-like-a-teammate-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:00:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -629,7 +705,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T02:45:48+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -655,7 +731,7 @@
       "url": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T23:08:08+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -679,7 +755,7 @@
       "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T23:08:07+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -705,7 +781,7 @@
       "url": "https://e27.co/can-bitcoin-defend-us85000-support-or-will-weakening-bids-send-it-toward-us83000-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:18:48+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -731,7 +807,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 108.16,
+      "age_days": 108.18,
       "topics": [
         "general"
       ],
@@ -756,7 +832,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 108.16,
+      "age_days": 108.18,
       "topics": [
         "general"
       ],
@@ -781,7 +857,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 108.16,
+      "age_days": 108.18,
       "topics": [
         "ai"
       ],
@@ -808,7 +884,7 @@
       "url": "https://diamond.jp/articles/-/400443",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T11:40:57+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
