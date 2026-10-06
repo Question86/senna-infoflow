@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T22:38:53+00:00_
+_Generiert: 2026-10-06T22:47:14+00:00_
 
 ## Kurzlage
 
-96 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+99 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **「開発者の指示を無視せよ」「自分は自由になった」…オープンAIの暴走エージェントたちは傍若無人に振る舞っていた | Business Insider Japan** — Score 19, observation — [Quelle](https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-06T07:38:26+00:00`, fetched `2026-10-06T22:46:34+00:00`
+  - Treffer: agent, APAC Trend Radar, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2. 自分のミスを隠すよう自らに指示していたオープンAIによると、同社がビジネス用途の主力モデルと位置づける「GPT-5.6 Sol」の訓練中にも、モデルが「ミスやミスアライメントといった情報をユーザーから隠す」よう自分に念押しする事例が見つかった。 例えば、ユーザーから財務データを探すよう求められたものの、その...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Schwachstelle ermöglicht Offenlegung von Informationen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3755)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-06T12:11:15+00:00`, fetched `2026-10-06T12:18:05+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-06 04:28:36 UTC 2026-10-06 04:28:36 UTC at epicenter Location 29.020°N 142.845°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Bowman, Modernizing the Regulatory and Supervisory Landscape** — Score 14, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-10-06T14:45:00+00:00`, fetched `2026-10-06T14:47:16+00:00`
-  - Treffer: banking, Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech At the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-10-06 16:53:11 UTC 2026-10-06 16:53:11 UTC at epicenter Location 30.117°N 79.615°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sharing AI progress in mathematics** — Score 11, observation — [Quelle](https://openai.com/index/sharing-ai-progress-in-mathematics)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-06T12:00:00+00:00`, fetched `2026-10-06T22:46:34+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab** — Score 11, observation — [Quelle](https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-06T03:06:03+00:00`, fetched `2026-10-06T05:20:03+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-06T02:00:44+00:00`, fetched `2026-10-06T02:03:43+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my […] The post Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet appeared first…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -295,3 +295,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): HTTPSConnectionPool(host='trends.google.co.th', port=443): Read timed out. (read timeout=8)
