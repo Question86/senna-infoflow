@@ -157,6 +157,43 @@
     "id": "553e4e007e86754a136e"
   },
   {
+    "title": "M 4.6 - Izu Islands, Japan region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-06T04:51:32.040+00:00",
+    "fetched_at": "2026-10-06T04:52:12+00:00",
+    "summary": "Time 2026-10-06 04:28:36 UTC 2026-10-06 04:28:36 UTC at epicenter Location 29.020°N 142.845°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1156e8a61c0d274bac15"
+  },
+  {
     "title": "M 4.8 - 86 km N of Ruteng, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
     "source": "USGS M4.5+ Earthquakes Past Hour",
