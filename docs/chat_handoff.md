@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T06:36:10+00:00_
+_Generated: 2026-10-06T07:00:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `30`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-06T06:36:10+00:00_
 - url: https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/
 - summary: Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able…
 
-### 8. ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab
-- source: Hatena Bookmark Hotentry IT
+### 8. M 4.7 - 36 km WNW of Ollagüe, Chile
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-10-06T03:06:03+00:00`
-- url: https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/
-- summary: セキュリティ対策Labが掲載された18件を確認したところ、レギュラー、シルバー、ゴールドの各レコードについて、ランクとポイント数・獲得回数の明確な矛盾は確認できませんでした。 例えば、ゴールドと記録されたサンプルは700ポイント・7回の条件を満たしつつ、プラチナの2,000ポイント・15回の両条件までは満たしてい...
+- published: `2026-10-06T06:36:06.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6
+- summary: Time 2026-10-06 06:16:33 UTC 2026-10-06 06:16:33 UTC at epicenter Location 21.159°S 68.603°W Depth 122.01 km (75.81 mi)
 
 END OF DOCUMENT
