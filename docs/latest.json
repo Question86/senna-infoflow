@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T07:45:46+00:00",
-  "run_id": "2026-10-06T07:45:46+00:00",
+  "generated_at": "2026-10-06T07:57:24+00:00",
+  "run_id": "2026-10-06T07:57:24+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 34,
     "displayed_findings": 34,
     "high": 0,
@@ -1843,44 +1843,7 @@
       "id": "8fed855ceab1d614bbee"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.5 - 60 km WNW of Colchani, Bolivia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzva",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-06T07:34:22.040+00:00",
-      "fetched_at": "2026-10-06T07:45:15+00:00",
-      "summary": "Time 2026-10-06 06:54:10 UTC 2026-10-06 06:54:10 UTC at epicenter Location 20.009°S 67.421°W Depth 191.74 km (119.14 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "71ec0aab82cdb93ec1af"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
