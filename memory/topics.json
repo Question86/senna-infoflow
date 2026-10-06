@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-06T07:27:57+00:00",
+  "generated_at": "2026-10-06T07:45:46+00:00",
   "topics": {
     "ai": [
       {
@@ -279,6 +279,13 @@
         "published_at": "2026-10-06T06:36:06.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6"
+      },
+      {
+        "title": "M 4.5 - 60 km WNW of Colchani, Bolivia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-06T07:34:22.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzva"
       },
       {
         "title": "古川大臣記者会見（令和8年10月6日）動画を掲載しました",
