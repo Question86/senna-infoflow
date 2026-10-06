@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-06T09:46:42Z",
+  "generated_at": "2026-10-06T10:03:32Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T05:40:46+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -36,35 +36,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Teams, Microsoft Azure Managed Instance und Microsoft Service Bus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen oder Daten zu manipulieren."
     },
     {
-      "title": "Androidアプリ「チケット流通センター」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN53292492/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-06T12:00:00+09:00",
-      "age_days": 0.28,
+      "title": "[NEU] [hoch] LibreOffice: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T09:40:48+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
-      "security_high_signal": false,
+      "security_high_signal": true,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: jvn, security"
+        "high terms: code",
+        "security high-signal: code"
       ],
-      "summary": "株式会社ウェイブダッシュが提供するAndroidアプリ「チケット流通センター」には、複数の脆弱性が存在します。"
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und beliebigen Code auszuführen."
     },
     {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T07:55:46+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -90,7 +91,7 @@
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:15+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -116,7 +117,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -142,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3675",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:46:44+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -168,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:35:46+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -195,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:05:46+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -221,7 +222,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T03:06:03+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -247,7 +248,7 @@
       "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:01:42+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -276,7 +277,7 @@
       "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T08:55:15+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -304,7 +305,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -336,8 +337,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
