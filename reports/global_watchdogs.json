@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:25:50+00:00",
+  "generated_at": "2026-10-06T18:42:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 92 km NNW of Aleneva, Alaska",
+        "summary": "M5.5 - 92 km NNW of Aleneva, Alaska. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky",
+        "published_at": "2026-10-06T18:34:31+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 467.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
