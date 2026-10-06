@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T00:00:54+00:00_
+_Generiert: 2026-10-06T00:57:06+00:00_
 
 ## Kurzlage
 
-Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen. 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+1 neue relevante Treffer. Stärkstes Signal: „ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,7 +73,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-05T23:08:08+00:00`, fetched `2026-10-06T00:56:36+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 昨年9月末のアサヒグループホールディングスへのサイバー攻撃について、犯行声明を出したハッカー集団「Qilin」のウェブサイトの一部=セキュリティー会社提供（朝日新聞） 世界各国の企業などにサイバー攻撃を繰り返すランサムウェア（身代金ウイルス）集団「Qilin（キリン）」の中心メンバーでロシア国籍の男（28）を...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -82,7 +90,3 @@ Keine neuen Beobachtungssignale.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)

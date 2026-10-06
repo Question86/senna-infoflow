@@ -1,6 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-06T00:00:54+00:00",
-  "topics": {}
+  "generated_at": "2026-10-06T00:57:06+00:00",
+  "topics": {
+    "general": [
+      {
+        "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-05T23:08:08+00:00",
+        "relevance_score": 5,
+        "url": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b"
+      }
+    ]
+  }
 }
