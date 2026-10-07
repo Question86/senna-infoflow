@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T10:19:37+00:00_
+_Generiert: 2026-10-07T10:33:52+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **From commitment to execution - mobilizing the financial sector for Uganda's tenfold growth opening** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20261007-commitment-execution-mobilizing-financial-sector-ugandas-tenfold-growth-opening)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-07T00:00:00+00:00`, fetched `2026-10-07T10:33:23+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Remarks by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the 9th Annual Uganda Bankers' Association Conference “The role of Uganda’s financial institutions in facilitating tenfold GDP growth”, Kampala, 18 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **【速報】HIS、顧客6百人超パスポート情報流出か** — Score 5, observation — [Quelle](https://www.47news.jp/15049148.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-07T06:37:46+00:00`, fetched `2026-10-07T08:28:17+00:00`
@@ -185,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 旅行大手エイチ・アイ・エス（HIS）は7日、不正アクセスを受けて最大627人分の顧客のパスポート情報が流出した恐れがあると発表した。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG** — Score 5, observation — [Quelle](https://newsdig.tbs.co.jp/articles/-/2995228)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-07T04:48:04+00:00`, fetched `2026-10-07T06:42:10+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 去年、アサヒビールへのサイバー攻撃を行ったハッカー集団「Qilin」。その中心メンバーが拘束されたことをめぐり、QilinがJNNの取材に応じました。アサヒグループホールディングスなど世界の企業にサイバー攻撃を…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

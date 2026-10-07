@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T10:19:37+00:00",
+  "generated_at": "2026-10-07T10:33:52+00:00",
   "topics": {
     "security": [
       {
@@ -214,6 +214,13 @@
         "published_at": "2026-10-07T08:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html"
+      },
+      {
+        "title": "From commitment to execution - mobilizing the financial sector for Uganda's tenfold growth opening",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261007-commitment-execution-mobilizing-financial-sector-ugandas-tenfold-growth-opening"
       }
     ],
     "general": [
