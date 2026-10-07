@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-07T05:43:57Z_
+_Generated: 2026-10-07T05:53:55Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-07T14:00:00+09:00` / age_days `0.03`
+- Published: `2026-10-07T14:00:00+09:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T04:30:07+00:00` / age_days `0.05`
+- Published: `2026-10-07T04:30:07+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T09:00:00+09:00` / age_days `0.24`
+- Published: `2026-10-07T09:00:00+09:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-07T05:26:50.040+00:00` / age_days `0.01`
+- Published: `2026-10-07T05:26:50.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-07T03:14:09.040+00:00` / age_days `0.1`
+- Published: `2026-10-07T03:14:09.040+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-10-07T03:28:35+00:00` / age_days `0.09`
+- Published: `2026-10-07T03:28:35+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-06T15:28:35+00:00` / age_days `0.59`
+- Published: `2026-10-06T15:28:35+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-10-07T05:30:38+00:00` / age_days `0.01`
+- Published: `2026-10-07T05:30:38+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
