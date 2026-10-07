@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-07T10:40:11Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-07T10:51:10Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -10,6 +10,31 @@
     "Security high-signal terms outrank AI hype when exposure could matter."
   ],
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:31:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code, 10",
+        "security high-signal: angriffe, code, 10"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SonicWall SMA1000 ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen, beliebigen Code auszuführen und Cross-Site-Scripting-Angriffe durchzuführen."
+    },
     {
       "title": "Movable Typeにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN91153973/",
@@ -35,11 +60,35 @@
       "summary": "シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3758",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:36:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um Informationen offenzulegen, um Dateien zu manipulieren und um seine Privilegien zu erhöhen."
+    },
+    {
       "title": "AI could turn concierge medicine into the future interface to healthcare",
       "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:30:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -93,7 +142,7 @@
       "url": "https://jvn.jp/vu/JVNVU94062711/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T09:00:00+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -115,11 +164,63 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[NEU] [mittel] NetBox: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3759",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:41:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in NetBox ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[NEU] [hoch] Aruba ArubaOS Switch: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3760",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:41:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Aruba ArubaOS Switch ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
       "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T06:59:02+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -145,7 +246,7 @@
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-07T06:50:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -171,7 +272,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 110.36,
+      "age_days": 110.37,
       "topics": [
         "ai"
       ],
@@ -200,7 +301,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-015/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-07T09:52:48+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -220,108 +321,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "On 5 October 2026, Atlassian published a security advisory addressing a critical arbitrary file access vulnerability. It affects Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye. CERT-EU strongly r…"
-    },
-    {
-      "title": "Conflict in the Red Sea is forcing cloud giants to find a new route for the internet",
-      "url": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-10-07T10:00:41+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local",
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "Fishermen motor past a commercial vessel anchored off Yemen's coast at Bab al-Mandeb, in the straits connecting the Red Sea with the Gulf of Aden and the Indian Ocean on September 12, 2026. Yemen's Houthis took over on September 11, 2026, a Red Sea island of Mayyun that is located in the middle of the Bab al-Mandeb sh…"
-    },
-    {
-      "title": "From commitment to execution - mobilizing the financial sector for Uganda's tenfold growth opening",
-      "url": "https://www.bis.org/speeches/20261007-commitment-execution-mobilizing-financial-sector-ugandas-tenfold-growth-opening",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: execution, 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Remarks by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the 9th Annual Uganda Bankers' Association Conference “The role of Uganda’s financial institutions in facilitating tenfold GDP growth”, Kampala, 18 September 2026."
-    },
-    {
-      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
-      "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-07T01:00:55+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to consolidate a market. This is the story the region tells about it…"
-    },
-    {
-      "title": "M 4.9 - 80 km SW of El Arenal, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-07T08:02:16.040+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-07 07:43:19 UTC 2026-10-07 07:43:19 UTC at epicenter Location 14.621°N 93.189°W Depth 61.65 km (38.31 mi)"
     }
   ],
   "read_order": [
@@ -333,8 +332,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "krass": 1,
+      "strong": 11
     }
   }
 }
