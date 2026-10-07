@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T06:13:01+00:00",
+  "generated_at": "2026-10-07T06:42:41+00:00",
   "topics": {
     "ai": [
       {
@@ -144,6 +144,13 @@
         "published_at": "2026-10-07T00:57:35+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d"
+      },
+      {
+        "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-07T04:48:04+00:00",
+        "relevance_score": 5,
+        "url": "https://newsdig.tbs.co.jp/articles/-/2995228"
       },
       {
         "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
