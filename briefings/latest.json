@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T13:06:05+00:00",
-  "run_id": "2026-10-07T13:06:05+00:00",
+  "generated_at": "2026-10-07T13:28:21+00:00",
+  "run_id": "2026-10-07T13:28:21+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 57,
     "displayed_findings": 57,
     "high": 0,
@@ -2913,68 +2913,7 @@
       "id": "58fccdef7314ae1ef99a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Diagnostic challenges for ECB monetary policy",
-      "url": "https://www.bis.org/speeches/20261007-diagnostic-challenges-ecb-monetary-policy",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T13:05:31+00:00",
-      "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the 9th “ECB Conference on Monetary Policy 2026: bridging science and practice”, Frankfurt am Main, 5 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "77c85dfd0c52cc4b6403"
-    },
-    {
-      "title": "Modernizing financial regulation - initial observations from eSLR",
-      "url": "https://www.bis.org/speeches/20261007-modernizing-financial-regulation-initial-observations-eslr",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T13:05:31+00:00",
-      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington DC, 1 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b0ccc7d5f3c15b8103ac"
-    },
-    {
-      "title": "Gold between continuity and change",
-      "url": "https://www.bis.org/speeches/20261007-gold-between-continuity-and-change",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T13:05:31+00:00",
-      "summary": "Welcome remarks by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at the Global Precious Metals Conference, Sorrento, 5 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d2627bf54827b8577682"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
