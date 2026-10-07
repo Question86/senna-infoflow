@@ -1112,6 +1112,26 @@
     "id": "77c85dfd0c52cc4b6403"
   },
   {
+    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "source": "Federal Reserve Monetary Policy Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:00:00+00:00",
+    "fetched_at": "2026-10-07T18:01:37+00:00",
+    "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "38ffc1332cfbcf863d68"
+  },
+  {
     "title": "Secret protection must scale with software",
     "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
     "source": "GitHub Blog Atom",

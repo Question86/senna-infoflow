@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T17:56:20+00:00_
+_Generiert: 2026-10-07T18:02:07+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -231,14 +231,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Darden School of Business, University of Virginia, Charlottesville, Virginia, 1 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Secret protection must scale with software** — Score 8, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-10-07T17:45:34+00:00`, fetched `2026-10-07T17:47:46+00:00`
-  - Treffer: AI/KI, Copilot, GitHub
+- **Minutes of the Federal Open Market Committee, September 15-16, 2026** — Score 8, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm)
+  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
+  - Zeit: published `2026-10-07T18:00:00+00:00`, fetched `2026-10-07T18:01:37+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Minutes of the Federal Open Market Committee, September 15-16, 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

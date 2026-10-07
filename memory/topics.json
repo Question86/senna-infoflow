@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T17:56:20+00:00",
+  "generated_at": "2026-10-07T18:02:07+00:00",
   "topics": {
     "security": [
       {
@@ -307,11 +307,11 @@
         "url": "https://www.bis.org/speeches/20261007-diagnostic-challenges-ecb-monetary-policy"
       },
       {
-        "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-07T08:00:00+00:00",
+        "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+        "source": "Federal Reserve Monetary Policy Press Releases",
+        "published_at": "2026-10-07T18:00:00+00:00",
         "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html"
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       }
     ],
     "general": [
