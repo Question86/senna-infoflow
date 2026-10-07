@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T11:00:38+00:00_
+_Generated: 2026-10-07T11:18:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `41`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-07T11:00:38+00:00_
 - url: https://jvn.jp/vu/JVNVU94062711/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders
-- source: e27 Asia Startup and Tech Feed
+### 4. M 4.7 - 22 km WNW of Manado, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-10-07T03:28:35+00:00`
-- url: https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/
-- summary: Asia’s AI founders are increasingly facing a split-screen reality. Investor interest is high, but building at the frontier of artificial intelligence still requires more than a seed cheque. Startups need access to large models, cloud infrastructure, technical…
+- published: `2026-10-07T11:16:03.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0qw
+- summary: Time 2026-10-07 10:57:34 UTC 2026-10-07 10:57:34 UTC at epicenter Location 1.580°N 124.670°E Depth 139.83 km (86.89 mi)
 
 ### 5. Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
