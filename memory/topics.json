@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T18:28:37+00:00",
+  "generated_at": "2026-10-07T18:48:14+00:00",
   "topics": {
     "security": [
       {
@@ -247,6 +247,20 @@
         "published_at": "2026-10-07T04:00:42+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/"
+      },
+      {
+        "title": "Local sandboxing for GitHub Copilot now generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-07T15:46:17+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available"
+      },
+      {
+        "title": "Discover local models in GitHub Copilot CLI",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-07T15:46:13+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli"
       }
     ],
     "economy": [
@@ -337,6 +351,13 @@
         "url": "https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/"
       },
       {
+        "title": "M 4.6 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-07T18:33:02.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tl"
+      },
+      {
         "title": "M 5.2 - Chagos Archipelago region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-07T15:35:28.240+00:00",
@@ -384,13 +405,6 @@
         "published_at": "2026-10-01T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1243/"
-      },
-      {
-        "title": "事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-07T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c"
       }
     ]
   }
