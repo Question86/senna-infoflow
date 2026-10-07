@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-07T09:11:09Z_
+_Generated: 2026-10-07T09:31:17Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-07T14:00:00+09:00` / age_days `0.17`
+- Published: `2026-10-07T14:00:00+09:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-10-07T01:30:31+00:00` / age_days `0.32`
+- Published: `2026-10-07T01:30:31+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T04:30:07+00:00` / age_days `0.2`
+- Published: `2026-10-07T04:30:07+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T09:00:00+09:00` / age_days `0.38`
+- Published: `2026-10-07T09:00:00+09:00` / age_days `0.4`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU94062711/
 
+### 相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-07T06:59:02+00:00` / age_days `0.11`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html
+
 ### Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T06:50:00.000+00:00` / age_days `0.1`
+- Published: `2026-10-07T06:50:00.000+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, security high-signal: kritisch, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `110.3`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `110.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 110.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-10-07T01:00:55+00:00` / age_days `0.34`
+- Published: `2026-10-07T01:00:55+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-07T08:02:16.040+00:00` / age_days `0.05`
+- Published: `2026-10-07T08:02:16.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-07T05:26:50.040+00:00` / age_days `0.16`
+- Published: `2026-10-07T05:26:50.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-07T03:14:09.040+00:00` / age_days `0.25`
+- Published: `2026-10-07T03:14:09.040+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns
-
-### Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.0`
-- Published: `2026-10-07T08:00:00+00:00` / age_days `0.05`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html
 
 END OF DOCUMENT
