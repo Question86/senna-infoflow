@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-07T04:56:22+00:00",
+  "generated_at": "2026-10-07T05:03:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 1,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 10
   },
   "source_errors_count": 0,
@@ -42,6 +42,16 @@
       "relevance_score": 15,
       "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
       "summary": "Asia’s AI founders are increasingly facing a split-screen reality. Investor interest is high, but building at the frontier of artificial intelligence still requires more than a seed cheque. Startups need access to large models, cloud infrastructure, technical…",
+      "section": "medium"
+    },
+    {
+      "title": "Movable Typeにおける複数の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-07T14:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN91153973/",
+      "summary": "シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。",
       "section": "medium"
     },
     {

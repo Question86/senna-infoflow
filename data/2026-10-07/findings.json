@@ -114,6 +114,28 @@
     "id": "5686d6fb14dcb41e4246"
   },
   {
+    "title": "Movable Typeにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN91153973/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-07T14:00:00+09:00",
+    "fetched_at": "2026-10-07T05:02:55+00:00",
+    "summary": "シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "474960da4c81cdb643e5"
+  },
+  {
     "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
     "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
     "source": "e27 Asia Startup and Tech Feed",

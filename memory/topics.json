@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T04:56:22+00:00",
+  "generated_at": "2026-10-07T05:03:23+00:00",
   "topics": {
     "ai": [
       {
@@ -93,6 +93,13 @@
         "published_at": "2026-10-07T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU94062711/"
+      },
+      {
+        "title": "Movable Typeにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-07T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN91153973/"
       }
     ],
     "general": [

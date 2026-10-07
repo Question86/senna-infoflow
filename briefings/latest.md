@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T04:56:22+00:00_
+_Generiert: 2026-10-07T05:03:23+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Asia’s AI founders are increasingly facing a split-screen reality. Investor interest is high, but building at the frontier of artificial intelligence still requires more than a seed cheque. Startups need access to large models, cloud infrastructure, technical feedback, distribution channels and patient capital, all while competing with better-funded peers in the US and China. Granite […] The post Granite Asia, Googl…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Movable Typeにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN91153973/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-07T14:00:00+09:00`, fetched `2026-10-07T05:02:55+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
