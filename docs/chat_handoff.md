@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T02:58:05+00:00_
+_Generated: 2026-10-07T03:16:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `9`
 
 ## Top Signals
 
@@ -22,25 +22,25 @@ _Generated: 2026-10-07T02:58:05+00:00_
 - url: https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/
 - summary: Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to conso…
 
-### 3. AI could turn concierge medicine into the future interface to healthcare
+### 3. M 4.8 - 132 km ENE of Tadine, New Caledonia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-07T03:14:09.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns
+- summary: Time 2026-10-07 02:49:59 UTC 2026-10-07 02:49:59 UTC at epicenter Location 20.979°S 169.001°E Depth 10.00 km (6.21 mi)
+
+### 4. AI could turn concierge medicine into the future interface to healthcare
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-10-07T01:30:31+00:00`
 - url: https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/
 - summary: Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual re…
 
-### 4. 国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました
-- source: Japan Digital Agency News RSS
+### 5. Europe’s trade truce with America has not restored trust in American business
+- source: e27 Asia Startup and Tech Feed
 - score: `6`
-- published: `2026-10-07T00:57:35+00:00`
-- url: https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d
-- summary: 国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました
-
-### 5. AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-06T23:07:20+00:00`
-- url: https://wirelesswire.jp/2026/10/94606/
-- summary: 『ザ・バンド かつて僕らは兄弟だった』や『ナワリヌイ』などのドキュメンタリー映画の監督として知られる新鋭ダニエル・ロアーが、AIをテーマとするドキュメンタリー映画を手がけたと知り、是非観たいと思っていたところ、『ジ・AIドック オア・ハウ・アイ・ビケイム・アン・アポカロプティミスト』という腹立たしいほ...
+- published: `2026-10-07T03:00:06+00:00`
+- url: https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/
+- summary: For much of the past three decades, American companies operating overseas benefited from a powerful assumption: that despite periodic political turbulence at home, the United States (US) remained a predictable and broadly reliable commercial partner. That ass…
 
 END OF DOCUMENT

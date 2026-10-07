@@ -66,6 +66,42 @@
     "id": "962adf1e23ffaa42831b"
   },
   {
+    "title": "M 4.8 - 132 km ENE of Tadine, New Caledonia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-07T03:14:09.040+00:00",
+    "fetched_at": "2026-10-07T03:15:44+00:00",
+    "summary": "Time 2026-10-07 02:49:59 UTC 2026-10-07 02:49:59 UTC at epicenter Location 20.979°S 169.001°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f349b76f1cd5c53c37ed"
+  },
+  {
     "title": "AI could turn concierge medicine into the future interface to healthcare",
     "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -85,6 +121,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bdc581a54c37a5cfa851"
+  },
+  {
+    "title": "Europe’s trade truce with America has not restored trust in American business",
+    "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-07T03:00:06+00:00",
+    "fetched_at": "2026-10-07T03:15:44+00:00",
+    "summary": "For much of the past three decades, American companies operating overseas benefited from a powerful assumption: that despite periodic political turbulence at home, the United States (US) remained a predictable and broadly reliable commercial partner. That assumption has been badly tested. Yet the latest phase of the US-European relationship is more complicated than a simple […] The post Europe’s trade truce with Ame…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a770a147ca6e0a8c3a0d"
   },
   {
     "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",

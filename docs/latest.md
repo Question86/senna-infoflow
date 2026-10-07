@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T02:58:05+00:00_
+_Generiert: 2026-10-07T03:16:15+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to consolidate a market. This is the story the region tells about itself. It […] The post Why Southeast Asia is underbuilt in the categories that produce its most durab…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 132 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-07T03:14:09.040+00:00`, fetched `2026-10-07T03:15:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-07 02:49:59 UTC 2026-10-07 02:49:59 UTC at epicenter Location 20.979°S 169.001°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI could turn concierge medicine into the future interface to healthcare** — Score 8, observation — [Quelle](https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-07T01:30:31+00:00`, fetched `2026-10-07T01:46:11+00:00`
@@ -41,6 +50,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual retainers ranging from a few thousand dollars to tens of thousands for longer appointments and faster […] The post AI could turn concierge medicine into the futur…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Europe’s trade truce with America has not restored trust in American business** — Score 6, observation — [Quelle](https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-07T03:00:06+00:00`, fetched `2026-10-07T03:15:44+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
+  - Kurz: For much of the past three decades, American companies operating overseas benefited from a powerful assumption: that despite periodic political turbulence at home, the United States (US) remained a predictable and broadly reliable commercial partner. That assumption has been badly tested. Yet the latest phase of the US-European relationship is more complicated than a simple […] The post Europe’s trade truce with Ame…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d)
   - Quelle: Japan Digital Agency News RSS / `rss`
