@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T01:13:20+00:00",
+  "generated_at": "2026-10-07T01:46:41+00:00",
   "topics": {
     "security": [
       {
@@ -19,6 +19,15 @@
         "published_at": "2026-10-07T01:00:55+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "AI could turn concierge medicine into the future interface to healthcare",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T01:30:31+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/"
       }
     ],
     "general": [
