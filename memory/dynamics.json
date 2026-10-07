@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-07T21:36:41Z",
+  "generated_at": "2026-10-07T21:49:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:31:46+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/jp/JVN91153973/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T14:00:00+09:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -145,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3763",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:46:46+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -169,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3758",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:36:45+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -193,7 +193,7 @@
       "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:30:31+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -218,7 +218,7 @@
       "url": "https://www.bis.org/speeches/20261007-canadas-housing-affordability-dilemma",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "macro"
       ],
@@ -243,7 +243,7 @@
       "url": "https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T04:30:07+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "macro"
@@ -272,7 +272,7 @@
       "url": "https://jvn.jp/vu/JVNVU94062711/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T09:00:00+09:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "security"
       ],
@@ -350,7 +350,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3728",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:57:10+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -376,7 +376,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3761",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:46:45+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -402,7 +402,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3762",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:46:45+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -428,7 +428,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3759",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:41:45+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -454,7 +454,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3760",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:41:45+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -480,7 +480,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1242/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 7.9,
+      "age_days": 7.91,
       "topics": [
         "security"
       ],
@@ -531,7 +531,7 @@
       "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T06:59:02+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -583,7 +583,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 110.82,
+      "age_days": 110.83,
       "topics": [
         "ai"
       ],
@@ -612,7 +612,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-015/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-07T09:52:48+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -638,7 +638,7 @@
       "url": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-07T10:00:41+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -664,7 +664,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0qw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T11:16:03.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -689,7 +689,7 @@
       "url": "https://www.bis.org/speeches/20261007-opportunity-and-trust-europes-capital-market-and-irish-funds-sector",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "macro"
       ],
@@ -715,7 +715,7 @@
       "url": "https://www.bis.org/speeches/20261007-diagnostic-challenges-ecb-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai",
         "macro"
@@ -743,7 +743,7 @@
       "url": "https://www.bis.org/speeches/20261007-czech-koruna-50-years-after-beginning-post-bretton-woods-system-and-czech-national-bank-100-years-after-establishment",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai",
         "macro"
@@ -771,7 +771,7 @@
       "url": "https://www.bis.org/speeches/20261007-modernizing-financial-regulation-initial-observations-eslr",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai",
         "macro"
@@ -799,7 +799,7 @@
       "url": "https://www.bis.org/speeches/20261007-technology-money-and-financial-infrastructure-future",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai",
         "macro"
@@ -827,7 +827,7 @@
       "url": "https://www.bis.org/speeches/20261007-gold-between-continuity-and-change",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "macro"
       ],
@@ -853,7 +853,7 @@
       "url": "https://www.bis.org/speeches/20261007-commitment-execution-mobilizing-financial-sector-ugandas-tenfold-growth-opening",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "macro"
       ],
@@ -879,7 +879,7 @@
       "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:00:55+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "macro"
       ],
@@ -904,7 +904,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T18:53:53.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -929,7 +929,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T18:33:02.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -954,7 +954,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T15:35:28.240+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -1029,7 +1029,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T05:26:50.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
