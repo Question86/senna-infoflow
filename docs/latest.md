@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T08:00:04+00:00_
+_Generiert: 2026-10-07T08:28:51+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to consolidate a market. This is the story the region tells about itself. It […] The post Why Southeast Asia is underbuilt in the categories that produce its most durab…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 80 km SW of El Arenal, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-07T08:02:16.040+00:00`, fetched `2026-10-07T08:28:17+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-07 07:43:19 UTC 2026-10-07 07:43:19 UTC at epicenter Location 14.621°N 93.189°W Depth 61.65 km (38.31 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-07T05:26:50.040+00:00`, fetched `2026-10-07T05:36:51+00:00`
@@ -132,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
   - Kurz: Special address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Fifth Kautilya Economic Conclave, Mumbai, 3 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-07T08:00:00+00:00`, fetched `2026-10-07T08:28:17+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-07T06:00:00+00:00`, fetched `2026-10-07T06:12:30+00:00`
@@ -150,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【速報】HIS、顧客6百人超パスポート情報流出か** — Score 5, observation — [Quelle](https://www.47news.jp/15049148.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-07T06:37:46+00:00`, fetched `2026-10-07T08:28:17+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 旅行大手エイチ・アイ・エス（HIS）は7日、不正アクセスを受けて最大627人分の顧客のパスポート情報が流出した恐れがあると発表した。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG** — Score 5, observation — [Quelle](https://newsdig.tbs.co.jp/articles/-/2995228)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-07T04:48:04+00:00`, fetched `2026-10-07T06:42:10+00:00`
@@ -167,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること** — Score 5, observation — [Quelle](https://wirelesswire.jp/2026/10/94606/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-06T23:07:20+00:00`, fetched `2026-10-07T02:57:35+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 『ザ・バンド かつて僕らは兄弟だった』や『ナワリヌイ』などのドキュメンタリー映画の監督として知られる新鋭ダニエル・ロアーが、AIをテーマとするドキュメンタリー映画を手がけたと知り、是非観たいと思っていたところ、『ジ・AIドック オア・ハウ・アイ・ビケイム・アン・アポカロプティミスト』という腹立たしいほ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
