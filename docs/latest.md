@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T00:22:30+00:00_
+_Generiert: 2026-10-07T01:13:20+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+5 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,33 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Why Southeast Asia is underbuilt in the categories that produce its most durable companies** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-07T01:00:55+00:00`, fetched `2026-10-07T01:12:48+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to consolidate a market. This is the story the region tells about itself. It […] The post Why Southeast Asia is underbuilt in the categories that produce its most durab…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-07T00:57:35+00:00`, fetched `2026-10-07T01:12:48+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-06T21:30:06+00:00`, fetched `2026-10-07T01:12:48+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **2026年の情報漏洩を手口で分類してみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/yama3133/items/071119dfea9ed24d0948)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-06T15:28:35+00:00`, fetched `2026-10-07T00:22:00+00:00`
