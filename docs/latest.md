@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T05:57:37+00:00_
+_Generiert: 2026-10-07T06:13:01+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia’s foodtech winners are the least glamorous ones** — Score 12, observation — [Quelle](https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-07T06:03:47+00:00`, fetched `2026-10-07T06:12:30+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: Southeast Asia’s foodtech story was supposed to be about disruption: lab-grown shrimp on every plate, groceries at your door in 15 minutes, ghost kitchens replacing the corner restaurant. The reality has been humbler, and arguably more interesting. The 2022 correction thinned the herd, the eFishery scandal and TaniHub’s collapse left scars, and many of the […] The post Southeast Asia’s foodtech winners are the least…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When the carer has dementia too: Japan turns to physical AI to rescue eldercare** — Score 10, observation — [Quelle](https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-07T05:30:38+00:00`, fetched `2026-10-07T05:36:51+00:00`
@@ -87,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-07 02:49:59 UTC 2026-10-07 02:49:59 UTC at epicenter Location 20.979°S 169.001°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI could turn concierge medicine into the future interface to healthcare** — Score 8, observation — [Quelle](https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-07T01:30:31+00:00`, fetched `2026-10-07T01:46:11+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-07T06:00:00+00:00`, fetched `2026-10-07T06:12:30+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual retainers ranging from a few thousand dollars to tens of thousands for longer appointments and faster […] The post AI could turn concierge medicine into the futur…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d)
   - Quelle: Japan Digital Agency News RSS / `rss`
