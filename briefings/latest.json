@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T12:21:04+00:00",
-  "run_id": "2026-10-07T12:21:04+00:00",
+  "generated_at": "2026-10-07T12:48:03+00:00",
+  "run_id": "2026-10-07T12:48:03+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 4,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
     "medium": 20,
-    "observe": 30,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -623,6 +623,27 @@
         "id": "3547391cb61a47342b65"
       },
       {
+        "title": "The data version of Godzilla versus Kong - FRED takes on AI",
+        "url": "https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "fetched_at": "2026-10-07T12:47:32+00:00",
+        "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at \"Navigating trust, AI and storytelling in a world of data\", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3c3cbb3f3061adc5152d"
+      },
+      {
         "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
         "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -728,6 +749,48 @@
           "EWZ"
         ],
         "id": "962adf1e23ffaa42831b"
+      },
+      {
+        "title": "Monetary policy in a world of overlapping shocks",
+        "url": "https://www.bis.org/speeches/20261007-monetary-policy-world-overlapping-shocks",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "fetched_at": "2026-10-07T12:47:32+00:00",
+        "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 8th Capital Markets Seminar, co-hosted by the European Commission, European Investment Bank and the European Stability Mechanism, Luxembourg, 30 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "9eb750b8fa995a32f2f4"
       },
       {
         "title": "M 4.5 - south of the Fiji Islands",
@@ -874,6 +937,26 @@
         "id": "f349b76f1cd5c53c37ed"
       },
       {
+        "title": "The US economy and monetary policy",
+        "url": "https://www.bis.org/speeches/20261007-us-economy-and-monetary-policy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "fetched_at": "2026-10-07T12:47:32+00:00",
+        "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Darden School of Business, University of Virginia, Charlottesville, Virginia, 1 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d3e8f91e8a5a49b3c003"
+      },
+      {
         "title": "Preserving financial stability in an evolving world",
         "url": "https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world",
         "source": "BIS Central Bankers Speeches",
@@ -892,6 +975,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bdf3914179de55ba0c2c"
+      },
+      {
+        "title": "Opportunity and trust - Europe’s capital market and the Irish funds sector",
+        "url": "https://www.bis.org/speeches/20261007-opportunity-and-trust-europes-capital-market-and-irish-funds-sector",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "fetched_at": "2026-10-07T12:47:32+00:00",
+        "summary": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Irish Funds Annual Global Funds Conference, Dublin, 1 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "525119f4e80221dde2c5"
       },
       {
         "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
@@ -1880,6 +2005,27 @@
       "id": "3547391cb61a47342b65"
     },
     {
+      "title": "The data version of Godzilla versus Kong - FRED takes on AI",
+      "url": "https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at \"Navigating trust, AI and storytelling in a world of data\", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3c3cbb3f3061adc5152d"
+    },
+    {
       "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
       "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1985,6 +2131,48 @@
         "EWZ"
       ],
       "id": "962adf1e23ffaa42831b"
+    },
+    {
+      "title": "Monetary policy in a world of overlapping shocks",
+      "url": "https://www.bis.org/speeches/20261007-monetary-policy-world-overlapping-shocks",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 8th Capital Markets Seminar, co-hosted by the European Commission, European Investment Bank and the European Stability Mechanism, Luxembourg, 30 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "9eb750b8fa995a32f2f4"
     },
     {
       "title": "M 4.5 - south of the Fiji Islands",
@@ -2131,6 +2319,26 @@
       "id": "f349b76f1cd5c53c37ed"
     },
     {
+      "title": "The US economy and monetary policy",
+      "url": "https://www.bis.org/speeches/20261007-us-economy-and-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Darden School of Business, University of Virginia, Charlottesville, Virginia, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3e8f91e8a5a49b3c003"
+    },
+    {
       "title": "Preserving financial stability in an evolving world",
       "url": "https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world",
       "source": "BIS Central Bankers Speeches",
@@ -2149,6 +2357,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bdf3914179de55ba0c2c"
+    },
+    {
+      "title": "Opportunity and trust - Europe’s capital market and the Irish funds sector",
+      "url": "https://www.bis.org/speeches/20261007-opportunity-and-trust-europes-capital-market-and-irish-funds-sector",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Irish Funds Annual Global Funds Conference, Dublin, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "525119f4e80221dde2c5"
     },
     {
       "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
@@ -2545,165 +2795,129 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (sequoia-openpgp, perl-DBI): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3790",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-07T12:07:09+00:00",
-      "fetched_at": "2026-10-07T12:20:33+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8df73aa4122d81d501fe"
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [hoch] GIMP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3789",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-07T12:07:09+00:00",
-      "fetched_at": "2026-10-07T12:20:33+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren und möglicherweise beliebigen Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "19bec384b0d719bda7b7"
-    },
-    {
-      "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3792",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-07T12:07:09+00:00",
-      "fetched_at": "2026-10-07T12:20:33+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Gitea ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Cross-Site-Scripting-Angriffe durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5fb6d2fa619548b346d5"
-    },
-    {
-      "title": "[NEU] [hoch] IBM SPSS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3791",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-07T12:07:09+00:00",
-      "fetched_at": "2026-10-07T12:20:33+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM SPSS ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8450b218ba6b1c0be8ae"
-    },
-    {
-      "title": "[NEU] [mittel] Mozilla Firefox: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3788",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-07T12:07:09+00:00",
-      "fetched_at": "2026-10-07T12:20:33+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b85fe729a2f839092e06"
-    },
-    {
-      "title": "[NEU] [mittel] X.Org X11 und Xwayland: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3787",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-07T12:07:09+00:00",
-      "fetched_at": "2026-10-07T12:20:33+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 und Xwayland ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Zustand herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6a8a75c7a14447d38618"
-    },
-    {
-      "title": "The Czech koruna 50 years after the beginning of the post-Bretton Woods system and the Czech National Bank 100 years after the establishment of the National Bank of Czechoslovakia",
-      "url": "https://www.bis.org/speeches/20261007-czech-koruna-50-years-after-beginning-post-bretton-woods-system-and-czech-national-bank-100-years-after-establishment",
+      "title": "The data version of Godzilla versus Kong - FRED takes on AI",
+      "url": "https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T12:20:33+00:00",
-      "summary": "Opening remarks by Mr Jan Frait, Deputy Governor of the Czech National Bank, at the “New challenges in central banking” conference marking the 100th anniversary of the Czech National Bank, Prague, 6 October 2026.",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at \"Navigating trust, AI and storytelling in a world of data\", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.",
       "matched_keywords": [
-        "banking",
+        "AI/KI",
         "Macro/Policy"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fb5a9233d1add2e3d2b1"
+      "id": "3c3cbb3f3061adc5152d"
+    },
+    {
+      "title": "Monetary policy in a world of overlapping shocks",
+      "url": "https://www.bis.org/speeches/20261007-monetary-policy-world-overlapping-shocks",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 8th Capital Markets Seminar, co-hosted by the European Commission, European Investment Bank and the European Stability Mechanism, Luxembourg, 30 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "9eb750b8fa995a32f2f4"
+    },
+    {
+      "title": "The US economy and monetary policy",
+      "url": "https://www.bis.org/speeches/20261007-us-economy-and-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Darden School of Business, University of Virginia, Charlottesville, Virginia, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3e8f91e8a5a49b3c003"
+    },
+    {
+      "title": "Opportunity and trust - Europe’s capital market and the Irish funds sector",
+      "url": "https://www.bis.org/speeches/20261007-opportunity-and-trust-europes-capital-market-and-irish-funds-sector",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T12:47:32+00:00",
+      "summary": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Irish Funds Annual Global Funds Conference, Dublin, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "525119f4e80221dde2c5"
     }
   ],
   "source_errors": [],
