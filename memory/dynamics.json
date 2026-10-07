@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-07T10:51:10Z",
+  "generated_at": "2026-10-07T11:03:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 6,
-      "strong": 6,
+      "krass": 9,
+      "strong": 7,
       "watch": 9,
-      "quiet": 17
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 12,
+      "strong": 16,
       "watch": 9,
-      "quiet": 17
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:31:46+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://jvn.jp/jp/JVN91153973/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T14:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -70,11 +70,35 @@
       "summary": "シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3763",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:46:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Devolutions Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren."
+    },
+    {
       "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3758",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:36:45+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -98,7 +122,7 @@
       "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:30:31+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -123,7 +147,7 @@
       "url": "https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T04:30:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -152,7 +176,7 @@
       "url": "https://jvn.jp/vu/JVNVU94062711/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T09:00:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -172,6 +196,84 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+    },
+    {
+      "title": "[UPDATE] [hoch] Langflow: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3728",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:57:10+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Dateien zu manipulieren."
+    },
+    {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3761",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:46:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durch…"
+    },
+    {
+      "title": "[NEU] [hoch] Aruba ClearPass Policy Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3762",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-07T10:46:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Aruba ClearPass Policy Manager ausnutzen, um einen SQL-Injection Angriff durchzuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchz…"
     },
     {
       "title": "[NEU] [mittel] NetBox: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -230,7 +332,7 @@
       "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T06:59:02+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -256,7 +358,7 @@
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-07T06:50:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -282,7 +384,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 110.37,
+      "age_days": 110.38,
       "topics": [
         "ai"
       ],
@@ -311,7 +413,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-015/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-07T09:52:48+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -363,7 +465,7 @@
       "url": "https://www.bis.org/speeches/20261007-commitment-execution-mobilizing-financial-sector-ugandas-tenfold-growth-opening",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "macro"
       ],
@@ -389,7 +491,7 @@
       "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:00:55+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "macro"
       ],
@@ -414,7 +516,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0qs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T10:40:45.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -439,7 +541,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T08:02:16.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -489,7 +591,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T03:14:09.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -514,7 +616,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-07T08:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -538,7 +640,7 @@
       "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:28:35+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -564,7 +666,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-10-07T08:15:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -588,7 +690,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T03:23:49+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -612,7 +714,7 @@
       "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T15:28:35+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "general"
       ],
@@ -636,7 +738,7 @@
       "url": "https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T06:03:47+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -663,7 +765,7 @@
       "url": "https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T05:30:38+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -689,7 +791,7 @@
       "url": "https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -716,7 +818,7 @@
       "url": "https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-07T06:00:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -740,7 +842,7 @@
       "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-07T00:57:35+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -788,7 +890,7 @@
       "url": "https://newsdig.tbs.co.jp/articles/-/2995228",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T04:48:04+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -862,7 +964,7 @@
       "url": "https://e27.co/light-liquidations-and-flat-funding-is-bitcoin-about-to-explode-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:40:22+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -888,7 +990,7 @@
       "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:00:06+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -914,7 +1016,7 @@
       "url": "https://wirelesswire.jp/2026/10/94606/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T23:07:20+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -934,83 +1036,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "『ザ・バンド かつて僕らは兄弟だった』や『ナワリヌイ』などのドキュメンタリー映画の監督として知られる新鋭ダニエル・ロアーが、AIをテーマとするドキュメンタリー映画を手がけたと知り、是非観たいと思っていたところ、『ジ・AIドック オア・ハウ・アイ・ビケイム・アン・アポカロプティミスト』という腹立たしいほ..."
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 109.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 109.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 109.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 109.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 109.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 109.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
