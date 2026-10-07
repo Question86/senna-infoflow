@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T02:39:53+00:00_
+_Generated: 2026-10-07T02:58:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-10-07T02:39:53+00:00_
 - url: https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d
 - summary: 国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました
 
-### 5. 【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選
+### 5. AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-06T21:30:06+00:00`
-- url: https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html
-- summary: 【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選
+- published: `2026-10-06T23:07:20+00:00`
+- url: https://wirelesswire.jp/2026/10/94606/
+- summary: 『ザ・バンド かつて僕らは兄弟だった』や『ナワリヌイ』などのドキュメンタリー映画の監督として知られる新鋭ダニエル・ロアーが、AIをテーマとするドキュメンタリー映画を手がけたと知り、是非観たいと思っていたところ、『ジ・AIドック オア・ハウ・アイ・ビケイム・アン・アポカロプティミスト』という腹立たしいほ...
 
 END OF DOCUMENT
