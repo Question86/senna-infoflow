@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T05:03:23+00:00",
+  "generated_at": "2026-10-07T05:24:57+00:00",
   "topics": {
     "ai": [
       {
@@ -116,6 +116,13 @@
         "published_at": "2026-10-07T00:57:35+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d"
+      },
+      {
+        "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-07T03:23:49+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/"
       },
       {
         "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
