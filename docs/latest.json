@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T07:32:16+00:00",
-  "run_id": "2026-10-07T07:32:16+00:00",
+  "generated_at": "2026-10-07T07:50:18+00:00",
+  "run_id": "2026-10-07T07:50:18+00:00",
   "date": "2026-10-07",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 23
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
     "medium": 4,
     "observe": 19,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1233,79 +1233,8 @@
       "id": "2cf46f7a644f49b32ba7"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-10-07T08:15:18+00:00",
-      "fetched_at": "2026-10-07T07:31:47+00:00",
-      "summary": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1972fa74570cb1f75065"
-    },
-    {
-      "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
-      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-07T06:50:00.000+00:00",
-      "fetched_at": "2026-10-07T07:31:47+00:00",
-      "summary": "Ein kritisches Leck in Atlassians Data-Center-Produkten ermöglicht unbefugten Dateizugriff ohne Anmeldung. Updates stehen bereit.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "86a0ede9e8a317c57f2b"
-    },
-    {
-      "title": "Preserving financial stability in an evolving world",
-      "url": "https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T07:31:47+00:00",
-      "summary": "Special address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Fifth Kautilya Economic Conclave, Mumbai, 3 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bdf3914179de55ba0c2c"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "google_trends_taiwan_hot",
-      "source_name": "Google Trends Taiwan Hot Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
