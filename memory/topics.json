@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T03:16:15+00:00",
+  "generated_at": "2026-10-07T03:40:16+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,36 @@
         "published_at": "2026-10-07T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU94062711/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T03:28:35+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/"
+      },
+      {
+        "title": "AI could turn concierge medicine into the future interface to healthcare",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T01:30:31+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/"
+      },
+      {
+        "title": "Europe’s trade truce with America has not restored trust in American business",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T03:00:06+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/"
+      },
+      {
+        "title": "AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-06T23:07:20+00:00",
+        "relevance_score": 5,
+        "url": "https://wirelesswire.jp/2026/10/94606/"
       }
     ],
     "economy": [
@@ -49,29 +79,6 @@
         "published_at": "2026-10-06T15:28:35+00:00",
         "relevance_score": 5,
         "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948"
-      }
-    ],
-    "ai": [
-      {
-        "title": "AI could turn concierge medicine into the future interface to healthcare",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T01:30:31+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/"
-      },
-      {
-        "title": "Europe’s trade truce with America has not restored trust in American business",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T03:00:06+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/"
-      },
-      {
-        "title": "AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-06T23:07:20+00:00",
-        "relevance_score": 5,
-        "url": "https://wirelesswire.jp/2026/10/94606/"
       }
     ],
     "geopolitics": [
