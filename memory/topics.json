@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T18:48:14+00:00",
+  "generated_at": "2026-10-07T18:59:20+00:00",
   "topics": {
     "security": [
       {
@@ -351,6 +351,13 @@
         "url": "https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/"
       },
       {
+        "title": "M 4.8 - 194 km S of Ust’-Kamchatsk Staryy, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-07T18:53:53.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tm"
+      },
+      {
         "title": "M 4.6 - south of the Fiji Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-07T18:33:02.040+00:00",
@@ -398,13 +405,6 @@
         "published_at": "2026-10-01T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1245/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans CPython (01 octobre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-10-01T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1243/"
       }
     ]
   }
