@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-07T07:04:11Z_
+_Generated: 2026-10-07T07:35:53Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-07T14:00:00+09:00` / age_days `0.09`
+- Published: `2026-10-07T14:00:00+09:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-10-07T01:30:31+00:00` / age_days `0.23`
+- Published: `2026-10-07T01:30:31+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T04:30:07+00:00` / age_days `0.11`
+- Published: `2026-10-07T04:30:07+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T09:00:00+09:00` / age_days `0.29`
+- Published: `2026-10-07T09:00:00+09:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU94062711/
 
+### Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-07T06:50:00.000+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: kritisch, security high-signal: kritisch, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html
+
 ### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `110.21`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `110.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 110.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-10-07T01:00:55+00:00` / age_days `0.25`
+- Published: `2026-10-07T01:00:55+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-07T05:26:50.040+00:00` / age_days `0.07`
+- Published: `2026-10-07T05:26:50.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-07T03:14:09.040+00:00` / age_days `0.16`
+- Published: `2026-10-07T03:14:09.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,40 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-10-07T03:28:35+00:00` / age_days `0.15`
+- Published: `2026-10-07T03:28:35+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/
 
+### Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `12.0`
+- Published: `2026-10-07T08:15:18+00:00` / age_days `0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html
+
 ### バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-07T03:23:49+00:00` / age_days `0.15`
+- Published: `2026-10-07T03:23:49+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://www.itmedia.co.jp/news/article/2610/07/2000002055/
-
-### 2026年の情報漏洩を手口で分類してみた - Qiita
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-10-06T15:28:35+00:00` / age_days `0.65`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://qiita.com/yama3133/items/071119dfea9ed24d0948
-
-### Southeast Asia’s foodtech winners are the least glamorous ones
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `9.0`
-- Published: `2026-10-07T06:03:47+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/
 
 END OF DOCUMENT
