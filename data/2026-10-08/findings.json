@@ -266,6 +266,29 @@
     "id": "ef85b84c8b0e63b57e9d"
   },
   {
+    "title": "[UPDATE] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2444",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-08T12:45:16+00:00",
+    "fetched_at": "2026-10-08T12:55:46+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e0ec32e6a0fe977ade0d"
+  },
+  {
     "title": "[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3639",
     "source": "BSI CERT-Bund Security Advisories",
