@@ -1,18 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T07:57:15Z",
+  "generated_at": "2026-10-08T08:18:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 30,
     "bands": {
       "extreme": 1,
-      "krass": 3,
+      "krass": 4,
       "strong": 7,
       "watch": 5,
       "quiet": 13
     },
     "bands_after_gate_recheck": {
+      "krass": 1,
       "strong": 11,
       "watch": 5,
       "quiet": 13
@@ -20,11 +21,36 @@
   },
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-08T07:51:46+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in VMware Workstation und VMware Fusion ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:31+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -53,7 +79,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T05:51:45+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -79,7 +105,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T06:57:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -105,7 +131,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:30:39+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -132,7 +158,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 111.25,
+      "age_days": 111.26,
       "topics": [
         "ai"
       ],
@@ -151,7 +177,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 111.2d old signal",
+        "aging penalty -8.0 for 111.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -161,7 +187,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:25+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security",
@@ -191,7 +217,7 @@
       "url": "https://www.digital.go.jp/about/human-resource-plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-08T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -216,7 +242,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:04:14.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -241,7 +267,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:17:55.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -266,7 +292,7 @@
       "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:50:58+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -291,7 +317,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T07:09:18.629+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -316,7 +342,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:52:25.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -341,7 +367,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:51:22.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -366,7 +392,7 @@
       "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T06:16:03+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -392,7 +418,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-08T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -416,7 +442,7 @@
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T00:48:05+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -440,7 +466,7 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-08T07:36:27+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -465,7 +491,7 @@
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T02:17:29+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -489,7 +515,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/1007/655190",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T09:44:28+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "general"
       ],
@@ -513,7 +539,7 @@
       "url": "https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T03:47:24+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -540,7 +566,7 @@
       "url": "https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T03:00:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -566,7 +592,7 @@
       "url": "https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:37+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -593,7 +619,7 @@
       "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:55+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "macro"
       ],
@@ -617,7 +643,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2146580.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T23:39:51+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -641,7 +667,7 @@
       "url": "https://e27.co/creative-supply-is-large-dependable-production-capacity-is-not-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:00:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -668,7 +694,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 110.21,
+      "age_days": 110.23,
       "topics": [
         "general"
       ],
@@ -693,7 +719,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 110.21,
+      "age_days": 110.23,
       "topics": [
         "general"
       ],
@@ -718,7 +744,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 110.21,
+      "age_days": 110.23,
       "topics": [
         "ai"
       ],
@@ -745,7 +771,7 @@
       "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T00:13:18+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -766,5 +792,5 @@
       "summary": "このほか、Gyazoでユーザー関連データ約2,362万件、ムラウチドットコムで771万6,811件の個人情報の持ち出しが確認されたと報じられています。 ただしGyazoの件数は、メールアドレス未登録の匿名ユーザーも含みます。 件数を単純に足しても意味がないので、数字は規模感の目安として見るのがよさそうです。 参考：各社公..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of the year is a landlord” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
