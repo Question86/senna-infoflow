@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T05:50:41+00:00_
+_Generated: 2026-10-08T05:57:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-08T05:50:41+00:00_
 - url: https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/
 - summary: Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where…
 
-### 2. M 5.0 - 92 km N of Ruteng, Indonesia
+### 2. [UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-08T05:51:45+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Administratorrechte zu erlangen.
+
+### 3. M 5.0 - 92 km N of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-08T05:04:14.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa
 - summary: Time 2026-10-08 04:48:59 UTC 2026-10-08 04:48:59 UTC at epicenter Location 7.776°S 120.540°E Depth 10.00 km (6.21 mi)
 
-### 3. M 4.7 - 101 km NE of Ruteng, Indonesia
+### 4. M 4.7 - 101 km NE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-08T03:17:55.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw
 - summary: Time 2026-10-08 03:00:01 UTC 2026-10-08 03:00:01 UTC at epicenter Location 7.899°S 121.044°E Depth 10.00 km (6.21 mi)
-
-### 4. Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-10-08T05:30:39+00:00`
-- url: https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/
-- summary: For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel’s RE:AI and the Singapore Institute of Technology (SI…
 
 ### 5. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-10-08T05:50:41+00:00_
 - url: https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/
 - summary: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office w…
 
-### 8. M 4.9 - 81 km NNW of Malfa, Italy
+### 8. M 4.5 - 39 km NE of Calama, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-08T03:51:22.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0
-- summary: Time 2026-10-08 03:42:52 UTC 2026-10-08 03:42:52 UTC at epicenter Location 39.206°N 14.352°E Depth 367.08 km (228.09 mi)
+- score: `11`
+- published: `2026-10-08T05:52:25.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh
+- summary: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
 
 END OF DOCUMENT
