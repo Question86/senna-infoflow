@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T11:24:01+00:00_
+_Generiert: 2026-10-08T11:35:46+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+52 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 04:48:59 UTC 2026-10-08 04:48:59 UTC at epicenter Location 7.776°S 120.540°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen ermöglichen Privilegieneskalation** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3639)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-08T11:27:55+00:00`, fetched `2026-10-08T11:35:16+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Octopus Deploy ausnutzen, um seine Privilegien zu erhöhen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-08T11:06:46+00:00`, fetched `2026-10-08T11:23:30+00:00`
@@ -83,15 +92,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Broadcom Fabric OS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] LibreSSL: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-08T11:06:46+00:00`, fetched `2026-10-08T11:23:30+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in LibreSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand auszulösen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap** — Score 14, opportunity — [Quelle](https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the OMFIF (Official Monetary and Financial Institutions Forum) Roundtable “Future of banking: Europe’s strategic banking challenges”, London, 1 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Meeting of 9-10 September 2026** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-08T11:30:00+00:00`, fetched `2026-10-08T11:35:16+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Meeting of 9-10 September 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Piero Cipollone: Interview with Corriere della Sera** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:17:16+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル庁におけるデジタル人材確保・育成計画を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/human-resource-plan)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:17:16+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル庁におけるデジタル人材確保・育成計画を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
