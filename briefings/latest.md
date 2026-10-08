@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T07:36:57+00:00_
+_Generiert: 2026-10-08T07:54:44+00:00_
 
 ## Kurzlage
 
@@ -57,10 +57,6 @@ _Generiert: 2026-10-08T07:36:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI&gt;=III.
-- **USGS earthquake M5.5 - west of Macquarie Island** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws)
-  - Quelle: USGS
-  - Zeit: `2026-10-08T06:46:47+00:00`
-  - Kurz: M5.5 - west of Macquarie Island. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
