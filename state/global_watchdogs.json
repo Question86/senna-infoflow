@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:03:05+00:00",
+  "generated_at": "2026-10-08T08:33:02+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569799",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 17 km SW of Burias, Philippines",
+        "summary": "M5.5 - 17 km SW of Burias, Philippines. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
+        "published_at": "2026-10-08T08:07:59+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

@@ -71,6 +71,44 @@
     "id": "e9f6de839b80ec2d186e"
   },
   {
+    "title": "M 5.5 - 17 km SW of Burias, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-08T08:30:33.926+00:00",
+    "fetched_at": "2026-10-08T08:32:19+00:00",
+    "summary": "ShakeMap - V Time 2026-10-08 08:07:59 UTC 2026-10-08 08:07:59 UTC at epicenter Location 5.601°N 125.152°E Depth 52.05 km (32.34 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f47f12f2fbeddb2f540f"
+  },
+  {
     "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
     "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -115,6 +153,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c6b8abe9c8da041cd657"
+  },
+  {
+    "title": "M 4.6 - 61 km W of Banda Aceh, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-08T08:02:52.040+00:00",
+    "fetched_at": "2026-10-08T08:32:19+00:00",
+    "summary": "Time 2026-10-08 07:45:12 UTC 2026-10-08 07:45:12 UTC at epicenter Location 5.455°N 94.781°E Depth 97.53 km (60.60 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e5bcc83edf25af6571de"
   },
   {
     "title": "M 5.0 - 92 km N of Ruteng, Indonesia",
@@ -308,6 +383,28 @@
       "LOW"
     ],
     "id": "1a2cd9dbeefc828315bd"
+  },
+  {
+    "title": "Waller, The Signaling Value of the Summary of Economic Projections",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-10-08T08:30:00+00:00",
+    "fetched_at": "2026-10-08T08:32:19+00:00",
+    "summary": "Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye",
+    "matched_keywords": [
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cc45e858b2388045e41e"
   },
   {
     "title": "Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups",
