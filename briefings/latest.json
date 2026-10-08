@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T16:26:16+00:00",
-  "run_id": "2026-10-08T16:26:16+00:00",
+  "generated_at": "2026-10-08T16:40:32+00:00",
+  "run_id": "2026-10-08T16:40:32+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 0,
@@ -3513,28 +3513,7 @@
       "id": "75e04212962661c67b82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Screen readers can navigate timelines as lists",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-08T16:00:56+00:00",
-      "fetched_at": "2026-10-08T16:25:45+00:00",
-      "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,… The post Screen readers can navigate timelines as lists appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7878b6a7c6518476d581"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
