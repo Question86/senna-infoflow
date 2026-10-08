@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T02:55:25+00:00_
+_Generiert: 2026-10-08T03:04:31+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+7 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -94,6 +94,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia is digitising health records. Making them portable is the harder problem** — Score 12, observation — [Quelle](https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-08T03:00:06+00:00`, fetched `2026-10-08T03:04:03+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Healthcare digitisation usually becomes visible through the applications people interact with: patient portals, telehealth platforms, digital prescriptions and, increasingly, digital health wallets. But the interface is rarely the difficult part. In March 2026, the World Health Organisation (WHO), the Alliance for Health Policy and Systems Research and Temasek Foundation launched a three-year initiative to help […]…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SEA’s insurers face a new question: what happens when customers have agents?** — Score 12, observation — [Quelle](https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-08T02:00:37+00:00`, fetched `2026-10-08T02:03:50+00:00`

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-08T02:55:25+00:00",
+  "generated_at": "2026-10-08T03:04:31+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,15 @@
         "published_at": "2026-10-08T01:00:55+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Southeast Asia is digitising health records. Making them portable is the harder problem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-08T03:00:06+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/"
       }
     ],
     "general": [
