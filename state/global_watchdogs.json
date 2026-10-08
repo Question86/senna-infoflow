@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:33:02+00:00",
+  "generated_at": "2026-10-08T08:52:51+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,11 +74,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Mexico",
-        "summary": "Green flood alert in Mexico",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075",
         "published_at": "",
         "metrics": {}
       },
@@ -143,7 +143,7 @@
         "metrics": {
           "mag": 5.5,
           "alert": "green",
-          "sig": 465.0,
+          "sig": 467.0,
           "tsunami": 0
         }
       }

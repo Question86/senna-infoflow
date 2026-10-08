@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T08:32:59+00:00_
+_Generiert: 2026-10-08T08:52:48+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-10-08T08:32:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
-- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Mexico
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064)
   - Quelle: GDACS
   - Zeit: ``
@@ -269,14 +269,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか - Qiita** — Score 5, observation — [Quelle](https://qiita.com/shinkai_/items/4c6c12324e115a125621)
+- **嫌われるデザインの歴史** — Score 5, observation — [Quelle](https://zenn.dev/blackmose/articles/de0170a13be930)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-08T00:13:18+00:00`, fetched `2026-10-08T04:41:26+00:00`
+  - Zeit: published `2026-10-08T01:44:23+00:00`, fetched `2026-10-08T08:52:15+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: このほか、Gyazoでユーザー関連データ約2,362万件、ムラウチドットコムで771万6,811件の個人情報の持ち出しが確認されたと報じられています。 ただしGyazoの件数は、メールアドレス未登録の匿名ユーザーも含みます。 件数を単純に足しても意味がないので、数字は規模感の目安として見るのがよさそうです。 参考：各社公...
+  - Kurz: はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのよ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
