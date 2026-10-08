@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T06:52:29+00:00_
+_Generiert: 2026-10-08T07:11:13+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.5 - west of Macquarie Island** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-08T07:09:18.629+00:00`, fetched `2026-10-08T07:10:42+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-08 06:46:47 UTC 2026-10-08 06:46:47 UTC at epicenter Location 52.548°S 140.212°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups** — Score 12, observation — [Quelle](https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-08T03:47:24+00:00`, fetched `2026-10-08T03:50:45+00:00`
@@ -95,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office work. Those are useful gains. But a new whitepaper by Google Cloud and CoverGo argues that they may also be […] The post SEA’s insurers face a new question: what…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffe auf Atlassian-Data-Center-Lücke haben begonnen** — Score 11, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-08T06:57:00.000+00:00`, fetched `2026-10-08T07:10:42+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Kurz nach der Warnung von Atlassian zur kritischen Sicherheitslücke wurden jetzt Angriffe beobachtet. Admins müssen handeln.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 39 km NE of Calama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

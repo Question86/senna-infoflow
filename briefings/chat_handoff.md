@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T06:52:29+00:00_
+_Generated: 2026-10-08T07:11:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `24`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-08T06:52:29+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa
 - summary: Time 2026-10-08 04:48:59 UTC 2026-10-08 04:48:59 UTC at epicenter Location 7.776°S 120.540°E Depth 10.00 km (6.21 mi)
 
-### 5. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
+### 5. M 5.5 - west of Macquarie Island
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-08T07:09:18.629+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-08 06:46:47 UTC 2026-10-08 06:46:47 UTC at epicenter Location 52.548°S 140.212°E Depth 10.00 km (6.21 mi)
+
+### 6. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-08T03:47:24+00:00`
 - url: https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/
 - summary: Endeavor Catalyst has closed an oversubscribed US$320 million fifth fund, lifting its assets under management to more than US$850 million and giving the global investment platform fresh capital at a time when startup markets outside Silicon Valley are beginni…
 
-### 6. Southeast Asia is digitising health records. Making them portable is the harder problem
+### 7. Southeast Asia is digitising health records. Making them portable is the harder problem
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-08T03:00:06+00:00`
 - url: https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/
 - summary: Healthcare digitisation usually becomes visible through the applications people interact with: patient portals, telehealth platforms, digital prescriptions and, increasingly, digital health wallets. But the interface is rarely the difficult part. In March 202…
 
-### 7. SEA’s insurers face a new question: what happens when customers have agents?
+### 8. SEA’s insurers face a new question: what happens when customers have agents?
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-08T02:00:37+00:00`
 - url: https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/
 - summary: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office w…
-
-### 8. M 4.5 - 39 km NE of Calama, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-08T05:52:25.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh
-- summary: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
 
 END OF DOCUMENT
