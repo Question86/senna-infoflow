@@ -1828,6 +1828,26 @@
     "id": "a52b8fb04f14a3dc4936"
   },
   {
+    "title": "Triage role users or higher can now archive pull requests",
+    "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-08T19:01:42+00:00",
+    "fetched_at": "2026-10-08T21:01:57+00:00",
+    "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine… The post Triage role users or higher can now archive pull requests appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "abc7ac862d0f28e1a8c9"
+  },
+  {
     "title": "Screen readers can navigate timelines as lists",
     "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
     "source": "GitHub Changelog Atom",
