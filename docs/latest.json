@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T22:40:42+00:00",
-  "run_id": "2026-10-08T22:40:42+00:00",
+  "generated_at": "2026-10-08T22:57:15+00:00",
+  "run_id": "2026-10-08T22:57:15+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -3939,29 +3939,7 @@
       "id": "75e04212962661c67b82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
-      "url": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-08T14:42:37+00:00",
-      "fetched_at": "2026-10-08T22:40:11+00:00",
-      "summary": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表 さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プラ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "170afca11e8047b83f49"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
