@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:52:51+00:00",
+  "generated_at": "2026-10-08T09:02:53+00:00",
   "sections": {
     "global_security": [
       {
@@ -143,7 +143,7 @@
         "metrics": {
           "mag": 5.5,
           "alert": "green",
-          "sig": 467.0,
+          "sig": 468.0,
           "tsunami": 0
         }
       }
