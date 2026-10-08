@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T23:06:29+00:00",
-  "run_id": "2026-10-08T23:06:29+00:00",
+  "generated_at": "2026-10-08T23:23:18+00:00",
+  "run_id": "2026-10-08T23:23:18+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 26,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -1281,6 +1281,28 @@
           "LOW"
         ],
         "id": "b5432d5bb2bb42d4c272"
+      },
+      {
+        "title": "撮ったことすら忘れるスクショは、AIで外部記憶になりつつある",
+        "url": "https://ki-to-oku.net/ai-turns-screenshots-into-external-memory/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T21:49:08+00:00",
+        "fetched_at": "2026-10-08T23:22:48+00:00",
+        "summary": "スクショの「デジタル健忘」2026年8月、「デジタル健忘：スクリーンショットの余波（Digital amnesia: The aftermath of a screenshot）」と題した論文が、学術誌『Memory & Cognition』に掲載された。ニューヨーク州立大学ビンガムトン校で、写真を撮ることと記憶の関係を調べてきたディアン・ウェスターマン（Deanne L...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ce36d9ca7ab626692d8b"
       },
       {
         "title": "AIに月3万円使えない人はその時点で負けている｜手羽先",
@@ -3260,6 +3282,28 @@
       "id": "b5432d5bb2bb42d4c272"
     },
     {
+      "title": "撮ったことすら忘れるスクショは、AIで外部記憶になりつつある",
+      "url": "https://ki-to-oku.net/ai-turns-screenshots-into-external-memory/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T21:49:08+00:00",
+      "fetched_at": "2026-10-08T23:22:48+00:00",
+      "summary": "スクショの「デジタル健忘」2026年8月、「デジタル健忘：スクリーンショットの余波（Digital amnesia: The aftermath of a screenshot）」と題した論文が、学術誌『Memory & Cognition』に掲載された。ニューヨーク州立大学ビンガムトン校で、写真を撮ることと記憶の関係を調べてきたディアン・ウェスターマン（Deanne L...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce36d9ca7ab626692d8b"
+    },
+    {
       "title": "AIに月3万円使えない人はその時点で負けている｜手羽先",
       "url": "https://note.com/teba_eleven/n/n61e5e7700881",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3985,26 +4029,26 @@
   ],
   "new_findings": [
     {
-      "title": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE",
-      "url": "https://securitydrive.jp/column/0023/",
+      "title": "撮ったことすら忘れるスクショは、AIで外部記憶になりつつある",
+      "url": "https://ki-to-oku.net/ai-turns-screenshots-into-external-memory/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-08T06:38:37+00:00",
-      "fetched_at": "2026-10-08T23:05:58+00:00",
-      "summary": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 2026年9月、国内で不正アクセスや情報漏えいの公表が相次いだ。タイムズカーの約660万アカウント、セイコーマートのアプリ会員約57万アカウントをはじめ、わずか数日の間に大手・官公庁が次々と被害を明らかにした。なぜいまこの短期間で公表が爆増し...",
+      "published_at": "2026-10-08T21:49:08+00:00",
+      "fetched_at": "2026-10-08T23:22:48+00:00",
+      "summary": "スクショの「デジタル健忘」2026年8月、「デジタル健忘：スクリーンショットの余波（Digital amnesia: The aftermath of a screenshot）」と題した論文が、学術誌『Memory & Cognition』に掲載された。ニューヨーク州立大学ビンガムトン校で、写真を撮ることと記憶の関係を調べてきたディアン・ウェスターマン（Deanne L...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
-        "hotentry",
-        "Security"
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e7f838c65dca4f4048d9"
+      "id": "ce36d9ca7ab626692d8b"
     }
   ],
   "source_errors": [],
