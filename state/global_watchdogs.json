@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:46:46+00:00",
+  "generated_at": "2026-10-08T11:55:42+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,16 +64,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.3 - 102 km NE of Norsup, Vanuatu",
         "summary": "M6.3 - 102 km NE of Norsup, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
@@ -86,71 +76,12 @@
           "sig": 613.0,
           "tsunami": 0
         }
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.566 million .",
-        "summary": "Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.566 million .",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .",
-        "summary": "Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI&gt;=III.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI&gt;=III.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569799",
-        "published_at": "",
-        "metrics": {}
       }
     ],
     "global_economy": []
   },
   "source_errors": [
+    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fec58a47990>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }

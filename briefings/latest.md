@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T11:46:43+00:00_
+_Generiert: 2026-10-08T11:55:31+00:00_
 
 ## Kurzlage
 
@@ -29,38 +29,12 @@ _Generiert: 2026-10-08T11:46:43+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-30`
   - Kurz: Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
-- **GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).
 - **USGS earthquake M6.3 - 102 km NE of Norsup, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi)
   - Quelle: USGS
   - Zeit: `2026-10-08T09:00:07+00:00`
   - Kurz: M6.3 - 102 km NE of Norsup, Vanuatu. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].
-- **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.566 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.566 million .
-- **GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569799)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI&gt;=III.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fec58a47990>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
