@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T03:51:15+00:00_
+_Generated: 2026-10-08T04:01:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `13`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-10-08T03:51:15+00:00_
 - url: https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/
 - summary: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office w…
 
-### 7. 直近で相次いでいる国内組織における不正アクセスに関する注意喚起
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-08T02:17:29+00:00`
-- url: https://www.jpcert.or.jp/at/2026/at260030.html
-- summary: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
+### 7. M 4.9 - 81 km NNW of Malfa, Italy
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-08T03:51:22.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0
+- summary: Time 2026-10-08 03:42:52 UTC 2026-10-08 03:42:52 UTC at epicenter Location 39.206°N 14.352°E Depth 367.08 km (228.09 mi)
 
 END OF DOCUMENT
