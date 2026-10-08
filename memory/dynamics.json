@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T10:04:03Z",
+  "generated_at": "2026-10-08T10:28:48Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,14 +9,14 @@
       "extreme": 1,
       "krass": 4,
       "strong": 13,
-      "watch": 6,
-      "quiet": 16
+      "watch": 7,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "krass": 1,
       "strong": 17,
-      "watch": 6,
-      "quiet": 16
+      "watch": 7,
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T07:51:46+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:30:33.926+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -75,7 +75,7 @@
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -104,7 +104,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T05:51:45+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -130,7 +130,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T06:57:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -156,7 +156,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:30:39+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -183,7 +183,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 111.34,
+      "age_days": 111.35,
       "topics": [
         "ai"
       ],
@@ -202,7 +202,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 111.3d old signal",
+        "aging penalty -8.0 for 111.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -212,7 +212,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:25+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security",
@@ -242,7 +242,7 @@
       "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T09:41:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -267,7 +267,7 @@
       "url": "https://www.digital.go.jp/about/human-resource-plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-08T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -292,7 +292,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:02:52.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -317,7 +317,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:04:14.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -342,7 +342,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:17:55.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -367,7 +367,7 @@
       "url": "https://www.bis.org/speeches/20261007-where-ai-risks-meet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -395,7 +395,7 @@
       "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:50:58+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "macro"
       ],
@@ -420,7 +420,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T09:25:28.496+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -445,7 +445,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T07:09:18.629+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -470,7 +470,7 @@
       "url": "https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -496,7 +496,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:52:25.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -521,7 +521,7 @@
       "url": "https://www.bis.org/speeches/20261007-reinforcing-europes-financial-resilience-and-growth-potential",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -545,11 +545,36 @@
       "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the 10th Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 2 October 2026."
     },
     {
+      "title": "M 5.1 - 236 km E of Levuka, Fiji",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-08T10:21:28.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-08 10:07:28 UTC 2026-10-08 10:07:28 UTC at epicenter Location 18.015°S 178.455°W Depth 602.27 km (374.23 mi)"
+    },
+    {
       "title": "M 4.9 - 81 km NNW of Malfa, Italy",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:51:22.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -574,7 +599,7 @@
       "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T06:16:03+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -600,7 +625,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-08T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -624,7 +649,7 @@
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T00:48:05+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -648,7 +673,7 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-08T07:36:27+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -669,11 +694,35 @@
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. https://morluto.github.io/rea/ English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down…"
     },
     {
+      "title": "The European project, the role of rating agencies and the prospects of the Greek economy",
+      "url": "https://www.bis.org/speeches/20261007-european-project-role-rating-agencies-and-prospects-greek-economy",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "age_days": 0.44,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the Annual Reunion of the Scope Ratings \"The European project, the role of rating agencies and the prospects of the Greek economy\", Athens, 24 September 2026."
+    },
+    {
       "title": "Address - launch of BOMStats, the Bank of Mauritius data portal",
       "url": "https://www.bis.org/speeches/20261007-address-launch-bomstats-bank-mauritius-data-portal",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -697,7 +746,7 @@
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T02:17:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -721,7 +770,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/1007/655190",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T09:44:28+00:00",
-      "age_days": 1.01,
+      "age_days": 1.03,
       "topics": [
         "general"
       ],
@@ -745,7 +794,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-08T08:30:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -772,7 +821,7 @@
       "url": "https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T03:47:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -799,7 +848,7 @@
       "url": "https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T03:00:06+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -825,7 +874,7 @@
       "url": "https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:37+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -852,7 +901,7 @@
       "url": "https://www.bis.org/speeches/20261008-introductory-statement-roundtable-preparing-transformative-ai",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -879,7 +928,7 @@
       "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:55+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "macro"
       ],
@@ -903,7 +952,7 @@
       "url": "https://www.bis.org/speeches/20261008-competitiveness-european-banking-sector",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -926,11 +975,35 @@
       "summary": "Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the OMFIF (Official Monetary and Financial Institutions Forum) Roundtable “Future of banking: Europe’s strategic banking challenges”, London, 1 October 2026."
     },
     {
+      "title": "すでにWEBデザイナーの8割は不要である - Qiita",
+      "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-08T01:21:53+00:00",
+      "age_days": 0.38,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに タイトルは煽りではなく、ここ2〜3年の現場で私が実際に感じていることです。 この記事で言う「WEBデザイナー」は、FigmaやPhotoshopで画面を作る人全般を指します。業務..."
+    },
+    {
       "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
       "url": "https://forest.watch.impress.co.jp/docs/news/2146580.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T23:39:51+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -954,7 +1027,7 @@
       "url": "https://e27.co/creative-supply-is-large-dependable-production-capacity-is-not-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:00:32+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -975,86 +1048,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The client accepted the final video. We still decided not to work with the production team again. Before the project, the team had looked like a strong choice. They sent us more than a dozen polished samples, with good image quality and a convincing visual standard. We hired them to produce a five-minute promotional f…"
-    },
-    {
-      "title": "Update and outlook for the Jamaican economy",
-      "url": "https://www.bis.org/speeches/20261007-update-and-outlook-jamaican-economy",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Speech by Mr Brian Langrin, Governor of the Bank of Jamaica, at the Monetary Policy Decision Press Briefing, Kingston, 29 September 2026."
-    },
-    {
-      "title": "Climate change - the economic reality we can no longer ignore",
-      "url": "https://www.bis.org/speeches/20261007-climate-change-economic-reality-we-can-no-longer-ignore",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank and Chair of the Network for Greening the Financial System (NGFS), at the Sustainable Finance Gipfel, Frankfurt am Main, 1 October 2026."
-    },
-    {
-      "title": "嫌われるデザインの歴史",
-      "url": "https://zenn.dev/blackmose/articles/de0170a13be930",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-08T01:44:23+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのよ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
