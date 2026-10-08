@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T21:33:38+00:00",
-  "run_id": "2026-10-08T21:33:38+00:00",
+  "generated_at": "2026-10-08T21:44:52+00:00",
+  "run_id": "2026-10-08T21:44:52+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 0,
@@ -3853,29 +3853,7 @@
       "id": "75e04212962661c67b82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "IDCフロンティアへのランサム攻撃、495の企業・自治体に影響",
-      "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03418/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-08T13:03:04+00:00",
-      "fetched_at": "2026-10-08T21:33:09+00:00",
-      "summary": "ソフトバンク子会社のIDCフロンティアは2026年10月7日、クラウドサービス「IDCFクラウド」が第三者によるランサムウエア攻撃を受け、495の契約先企業・自治体に影響が出ていると明らかにした。 障害は同日午前3時40分ごろに東日本リージョン1で発生。同社はその後、第三者からのランサムウエア攻撃によるものと公表した...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7fb7174038c1b2966866"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
