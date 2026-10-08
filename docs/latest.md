@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T21:44:52+00:00_
+_Generiert: 2026-10-08T21:52:53+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+77 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
