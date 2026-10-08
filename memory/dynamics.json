@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T02:07:36Z",
+  "generated_at": "2026-10-08T02:39:55Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 9,
+    "dynamics": 10,
     "bands": {
       "extreme": 1,
       "strong": 2,
-      "quiet": 6
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "quiet": 6
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -50,7 +50,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 111.01,
+      "age_days": 111.03,
       "topics": [
         "ai"
       ],
@@ -79,7 +79,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:25+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security",
@@ -109,7 +109,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/1007/655190",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T09:44:28+00:00",
-      "age_days": 0.68,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -133,7 +133,7 @@
       "url": "https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:37+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -160,7 +160,7 @@
       "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:55+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -180,11 +180,35 @@
       "summary": "Winning new customers is usually treated as one of the clearest signs that a company is growing. More contracts mean more revenue, more logos and more evidence that the market wants what the business is selling. For an early-stage company in particular, saying no to a paying customer can feel almost irrational. Yet re…"
     },
     {
+      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2146580.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-07T23:39:51+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 109.97,
+      "age_days": 109.99,
       "topics": [
         "general"
       ],
@@ -209,7 +233,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 109.97,
+      "age_days": 109.99,
       "topics": [
         "general"
       ],
@@ -234,7 +258,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 109.97,
+      "age_days": 109.99,
       "topics": [
         "ai"
       ],
