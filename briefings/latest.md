@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T15:32:16+00:00_
+_Generiert: 2026-10-08T15:48:11+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,10 @@ _Generiert: 2026-10-08T15:32:16+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.001 million .
-- **GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
+- **GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.665 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .
+  - Kurz: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.665 million .
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807)
   - Quelle: GDACS
   - Zeit: ``
