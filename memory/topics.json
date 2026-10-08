@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-08T10:49:18+00:00",
+  "generated_at": "2026-10-08T10:56:54+00:00",
   "topics": {
     "ai": [
       {
@@ -244,6 +244,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577"
       },
       {
+        "title": "[NEU] [hoch] Cisco Meraki (MR, MS und MX) und IOS XE: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T10:51:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793"
+      },
+      {
         "title": "[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-08T07:51:46+00:00",
@@ -266,6 +273,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Cisco Meraki (MR, MS und MX) und IOS XE: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T10:51:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793"
+      },
       {
         "title": "[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
@@ -328,13 +342,6 @@
         "published_at": "2026-10-08T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261007-update-and-outlook-jamaican-economy"
-      },
-      {
-        "title": "The European project, the role of rating agencies and the prospects of the Greek economy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-08T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261007-european-project-role-rating-agencies-and-prospects-greek-economy"
       }
     ]
   }
