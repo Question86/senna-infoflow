@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T19:36:25Z",
+  "generated_at": "2026-10-08T19:50:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:32:11+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T07:51:46+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3815",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:31:50+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3816",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:31:50+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:30:33.926+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -146,7 +146,7 @@
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:31+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "macro"
@@ -175,7 +175,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T05:51:45+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3813",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:31:49+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -227,7 +227,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:32:11+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -279,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3639",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:27:55+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -305,7 +305,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:06:46+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -331,7 +331,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:06:46+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -357,7 +357,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3794",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:01:45+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -383,7 +383,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T10:51:45+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -410,7 +410,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 7.82,
+      "age_days": 7.83,
       "topics": [
         "security"
       ],
@@ -436,7 +436,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:31:49+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -461,7 +461,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T06:57:00.000+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -487,7 +487,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:30:39+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -514,7 +514,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 111.73,
+      "age_days": 111.74,
       "topics": [
         "ai"
       ],
@@ -543,7 +543,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:25+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "security",
@@ -573,7 +573,7 @@
       "url": "https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T11:52:00.000+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -598,7 +598,7 @@
       "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T09:41:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -623,7 +623,7 @@
       "url": "https://www.digital.go.jp/about/human-resource-plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-08T06:00:00+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -648,7 +648,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T14:44:33.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -673,7 +673,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:02:52.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -698,7 +698,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:04:14.040+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -723,7 +723,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:17:55.040+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -748,7 +748,7 @@
       "url": "https://www.bis.org/speeches/20261007-where-ai-risks-meet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai",
         "macro"
@@ -776,7 +776,7 @@
       "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-08T17:02:52+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -801,7 +801,7 @@
       "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:50:58+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "macro"
       ],
@@ -826,7 +826,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T09:25:28.496+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -851,7 +851,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T07:09:18.629+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -876,7 +876,7 @@
       "url": "https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "macro"
       ],
@@ -902,7 +902,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:52:25.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -927,7 +927,7 @@
       "url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "macro"
       ],
@@ -953,7 +953,7 @@
       "url": "https://www.bis.org/speeches/20261007-reinforcing-europes-financial-resilience-and-growth-potential",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai",
         "macro"
@@ -1006,7 +1006,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:51:22.040+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -1031,7 +1031,7 @@
       "url": "https://ptyhard.co.jp/blog/2026/10/code-review",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T07:01:58+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
