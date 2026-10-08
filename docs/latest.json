@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T17:00:34+00:00",
-  "run_id": "2026-10-08T17:00:34+00:00",
+  "generated_at": "2026-10-08T17:19:15+00:00",
+  "run_id": "2026-10-08T17:19:15+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 1,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 26,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1101,6 +1101,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2f0abddf8e51488641ec"
+      },
+      {
+        "title": "How one bug bounty researcher chooses the features they investigate",
+        "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-08T17:02:52+00:00",
+        "fetched_at": "2026-10-08T17:18:43+00:00",
+        "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Security (+6.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bd7cc2da96ad2b437bfd"
       },
       {
         "title": "M 5.1 - 236 km E of Levuka, Fiji",
@@ -2845,6 +2866,27 @@
       "id": "2f0abddf8e51488641ec"
     },
     {
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-08T17:02:52+00:00",
+      "fetched_at": "2026-10-08T17:18:43+00:00",
+      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd7cc2da96ad2b437bfd"
+    },
+    {
       "title": "M 5.1 - 236 km E of Levuka, Fiji",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3513,7 +3555,29 @@
       "id": "75e04212962661c67b82"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-08T17:02:52+00:00",
+      "fetched_at": "2026-10-08T17:18:43+00:00",
+      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd7cc2da96ad2b437bfd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
