@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-08T02:58:10Z_
+_Generated: 2026-10-08T03:21:52Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T01:00:31+00:00` / age_days `0.08`
+- Published: `2026-10-08T01:00:31+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, rce, 10, security high-signal: active, rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,17 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `111.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `111.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 111.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 111.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
 ### ASEAN just upgraded its trade rulebook. Most operators will scale on the old one
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T02:00:25+00:00` / age_days `0.04`
+- Published: `2026-10-08T02:00:25+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: rce, 10, security high-signal: rce, 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-07T09:44:28+00:00` / age_days `0.72`
+- Published: `2026-10-07T09:44:28+00:00` / age_days `0.73`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://www.gdm.or.jp/pressrelease/2026/1007/655190
 
+### Southeast Asia is digitising health records. Making them portable is the harder problem
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `9.0`
+- Published: `2026-10-08T03:00:06+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/
+
 ### SEA’s insurers face a new question: what happens when customers have agents?
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-10-08T02:00:37+00:00` / age_days `0.04`
+- Published: `2026-10-08T02:00:37+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-10-08T01:00:55+00:00` / age_days `0.08`
+- Published: `2026-10-08T01:00:55+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-07T23:39:51+00:00` / age_days `0.14`
+- Published: `2026-10-07T23:39:51+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `110.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `110.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 110.0d old signal
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `110.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `110.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 110.0d old signal
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of t
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `110.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `110.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 110.0d old signal, single-source AI cap enforced after phrase recheck
