@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T17:31:16+00:00_
+_Generiert: 2026-10-08T17:45:36+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-88779 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-04`
-  - Kurz: Known exploited vulnerability. Added 2026-10-04. Due 2026-10-07. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
-- **CISA KEV: CVE-2026-102490 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11.  ISC BIND Data Processing Errors Vulnerability
+- **CISA KEV: CVE-2016-3081 Apache Struts** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-02`
-  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Improper Privilege Management Vulnerability
-- **CISA KEV: CVE-2026-102489 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Apache Struts Command Injection Vulnerability
+- **CISA KEV: CVE-2023-22894 Strapi Strapi** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-02`
-  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Session Fixation Vulnerability
-- **CISA KEV: CVE-2026-104286 Fortinet FortiMail** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Strapi Cleartext Storage of Sensitive Information Vulnerability
+- **CISA KEV: CVE-2021-3199 ONLYOFFICE Docs** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-01`
-  - Kurz: Known exploited vulnerability. Added 2026-10-01. Due 2026-10-04. Fortinet FortiMail Path Traversal Vulnerability
-- **CISA KEV: CVE-2026-76504 Cisco Catalyst SD-WAN Manager** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability
+- **CISA KEV: CVE-2015-3306 ProFTPD ProFTPD** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-09-30`
-  - Kurz: Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
 - **GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077)
   - Quelle: GDACS
   - Zeit: ``
@@ -210,6 +210,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-08 06:46:47 UTC 2026-10-08 06:46:47 UTC at epicenter Location 52.548°S 140.212°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How Oracle turns days of work into minutes with ChatGPT and Codex** — Score 12, observation — [Quelle](https://openai.com/index/oracle)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-08T16:00:00+00:00`, fetched `2026-10-08T17:45:05+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Pollo AI turns creative ideas into campaigns with OpenAI** — Score 12, observation — [Quelle](https://openai.com/index/pollo-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-08T12:00:00+00:00`, fetched `2026-10-08T17:45:05+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); recent (+1.0)
+  - Kurz: With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Waller, The Signaling Value of the Summary of Economic Projections** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-10-08T08:30:00+00:00`, fetched `2026-10-08T08:32:19+00:00`
@@ -308,24 +326,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); GitHub (+2.0); recent (+1.0)
   - Kurz: As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Meeting of 9-10 September 2026** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-08T11:30:00+00:00`, fetched `2026-10-08T11:35:16+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Meeting of 9-10 September 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Piero Cipollone: Interview with Corriere della Sera** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:17:16+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: Interview with Corriere della Sera
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

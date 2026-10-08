@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T17:31:16+00:00_
+_Generated: 2026-10-08T17:45:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `70`
+- findings: `72`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-08T17:31:16+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-08 06:46:47 UTC 2026-10-08 06:46:47 UTC at epicenter Location 52.548°S 140.212°E Depth 10.00 km (6.21 mi)
 
-### 7. Waller, The Signaling Value of the Summary of Economic Projections
-- source: Federal Reserve Speeches and Testimony
+### 7. How Oracle turns days of work into minutes with ChatGPT and Codex
+- source: OpenAI News RSS
 - score: `12`
-- published: `2026-10-08T08:30:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
-- summary: Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye
+- published: `2026-10-08T16:00:00+00:00`
+- url: https://openai.com/index/oracle
+- summary: Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
 
-### 8. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
-- source: e27 Asia Startup and Tech Feed
+### 8. Pollo AI turns creative ideas into campaigns with OpenAI
+- source: OpenAI News RSS
 - score: `12`
-- published: `2026-10-08T03:47:24+00:00`
-- url: https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/
-- summary: Endeavor Catalyst has closed an oversubscribed US$320 million fifth fund, lifting its assets under management to more than US$850 million and giving the global investment platform fresh capital at a time when startup markets outside Silicon Valley are beginni…
+- published: `2026-10-08T12:00:00+00:00`
+- url: https://openai.com/index/pollo-ai
+- summary: With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
 
 END OF DOCUMENT
