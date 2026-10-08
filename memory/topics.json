@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-08T14:38:56+00:00",
+  "generated_at": "2026-10-08T14:51:38+00:00",
   "topics": {
     "ai": [
       {
@@ -161,6 +161,13 @@
         "published_at": "2026-10-08T04:50:58+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/"
+      },
+      {
+        "title": "Draft pull requests count toward pull request limits",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-08T14:25:53+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits"
       }
     ],
     "general": [
@@ -170,6 +177,13 @@
         "published_at": "2026-10-08T08:30:33.926+00:00",
         "relevance_score": 17,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4"
+      },
+      {
+        "title": "M 4.9 - 113 km NW of Baa, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-08T14:44:33.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yr"
       },
       {
         "title": "M 4.6 - 61 km W of Banda Aceh, Indonesia",
@@ -226,13 +240,6 @@
         "published_at": "2026-10-08T03:51:22.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0"
-      },
-      {
-        "title": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-08T00:48:05+00:00",
-        "relevance_score": 8,
-        "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html"
       }
     ],
     "security": [
