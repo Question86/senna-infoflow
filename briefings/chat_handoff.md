@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T09:02:50+00:00_
+_Generated: 2026-10-08T09:26:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `35`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-08T09:02:50+00:00_
 - url: https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/
 - summary: Singapore’s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisio…
 
-### 5. M 5.5 - west of Macquarie Island
+### 5. M 6.3 - 102 km NE of Norsup, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-08T09:25:28.496+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi
+- summary: PAGER - GREEN ShakeMap - VIII DYFI? - VII Time 2026-10-08 09:00:07 UTC 2026-10-08 09:00:07 UTC at epicenter Location 15.541°S 168.189°E Depth 10.00 km (6.21 mi)
+
+### 6. M 5.5 - west of Macquarie Island
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-08T07:09:18.629+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-08 06:46:47 UTC 2026-10-08 06:46:47 UTC at epicenter Location 52.548°S 140.212°E Depth 10.00 km (6.21 mi)
 
-### 6. Waller, The Signaling Value of the Summary of Economic Projections
+### 7. Waller, The Signaling Value of the Summary of Economic Projections
 - source: Federal Reserve Speeches and Testimony
 - score: `12`
 - published: `2026-10-08T08:30:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
 - summary: Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye
 
-### 7. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
+### 8. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-08T03:47:24+00:00`
 - url: https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/
 - summary: Endeavor Catalyst has closed an oversubscribed US$320 million fifth fund, lifting its assets under management to more than US$850 million and giving the global investment platform fresh capital at a time when startup markets outside Silicon Valley are beginni…
-
-### 8. Southeast Asia is digitising health records. Making them portable is the harder problem
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-08T03:00:06+00:00`
-- url: https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/
-- summary: Healthcare digitisation usually becomes visible through the applications people interact with: patient portals, telehealth platforms, digital prescriptions and, increasingly, digital health wallets. But the interface is rarely the difficult part. In March 202…
 
 END OF DOCUMENT
