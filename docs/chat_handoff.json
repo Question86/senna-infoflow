@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-08T14:51:38+00:00",
+  "generated_at": "2026-10-08T14:58:58+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
-    "medium": 25,
+    "medium": 26,
     "observe": 41
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "summary": "Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where…",
+      "section": "medium"
+    },
+    {
+      "title": "AIが書いたコードを目視で追うのはやめよう──「工場の品質検査」から考えるこれからのコードレビュー | パーティーハード株式会社",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T07:01:58+00:00",
+      "relevance_score": 19,
+      "url": "https://ptyhard.co.jp/blog/2026/10/code-review",
+      "summary": "Claude Code や Codex などの生成AIツールが開発現場に導入され、コードの初稿を作成する時間は短縮されました。しかし、コードの生成速度が向上した一方で、プルリクエストのレビュー待ちが滞留し、テックリードや開発責任者が疲弊する現場が増えています。 AIコーディングが引き起こすレビューの滞留たとえばCRUD処理...",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 17,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
       "summary": "ShakeMap - V Time 2026-10-08 08:07:59 UTC 2026-10-08 08:07:59 UTC at epicenter Location 5.601°N 125.152°E Depth 52.05 km (32.34 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-08T13:31:49+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux in resteasy ausnutzen, um Informationen offenzulegen.",
       "section": "medium"
     },
     {

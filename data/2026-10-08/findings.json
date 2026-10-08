@@ -23,6 +23,53 @@
     "id": "ebdc093ac12a2f4c6faa"
   },
   {
+    "title": "AIが書いたコードを目視で追うのはやめよう──「工場の品質検査」から考えるこれからのコードレビュー | パーティーハード株式会社",
+    "url": "https://ptyhard.co.jp/blog/2026/10/code-review",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-08T07:01:58+00:00",
+    "fetched_at": "2026-10-08T14:58:28+00:00",
+    "summary": "Claude Code や Codex などの生成AIツールが開発現場に導入され、コードの初稿を作成する時間は短縮されました。しかし、コードの生成速度が向上した一方で、プルリクエストのレビュー待ちが滞留し、テックリードや開発責任者が疲弊する現場が増えています。 AIコーディングが引き起こすレビューの滞留たとえばCRUD処理...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "e4f249da68e29fc71312"
+  },
+  {
     "title": "morluto/rea",
     "url": "https://github.com/morluto/rea",
     "source": "GitHub Trending RSS All Languages Daily",
