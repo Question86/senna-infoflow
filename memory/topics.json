@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-08T10:01:39+00:00",
+  "generated_at": "2026-10-08T10:23:54+00:00",
   "topics": {
     "ai": [
       {
@@ -214,6 +214,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh"
       },
       {
+        "title": "M 5.1 - 236 km E of Levuka, Fiji",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-08T10:21:28.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn"
+      },
+      {
         "title": "M 4.9 - 81 km NNW of Malfa, Italy",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-08T03:51:22.040+00:00",
@@ -226,13 +233,6 @@
         "published_at": "2026-10-08T00:48:05+00:00",
         "relevance_score": 8,
         "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html"
-      },
-      {
-        "title": "デジタル庁におけるデジタル人材確保・育成計画を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-08T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/about/human-resource-plan"
       }
     ],
     "security": [
@@ -330,11 +330,11 @@
         "url": "https://www.bis.org/speeches/20261007-update-and-outlook-jamaican-economy"
       },
       {
-        "title": "Reinforcing Europe’s financial resilience – and growth potential",
+        "title": "The European project, the role of rating agencies and the prospects of the Greek economy",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-08T00:00:00+00:00",
         "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261007-reinforcing-europes-financial-resilience-and-growth-potential"
+        "url": "https://www.bis.org/speeches/20261007-european-project-role-rating-agencies-and-prospects-greek-economy"
       }
     ]
   }
