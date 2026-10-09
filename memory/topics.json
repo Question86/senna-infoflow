@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T18:34:39+00:00",
+  "generated_at": "2026-10-09T18:50:53+00:00",
   "topics": {
     "ai": [
       {
@@ -309,6 +309,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
       },
       {
+        "title": "M 5.5 - 3 km SW of Bajo Corral, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T18:42:45.902+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t"
+      },
+      {
         "title": "M 5.9 - west of Macquarie Island",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-09T15:13:33.712+00:00",
@@ -337,6 +344,13 @@
         "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/"
       },
       {
+        "title": "M 5.8 - 1 km S of El Cacao, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T18:48:19.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
+      },
+      {
         "title": "M 7.6 - 10 km WSW of Pitaloza Arriba, Panama",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-09T18:11:12.040+00:00",
@@ -356,20 +370,6 @@
         "published_at": "2026-10-09T17:26:57.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18e"
-      },
-      {
-        "title": "M 4.6 - south of the Fiji Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T15:36:32.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u168"
-      },
-      {
-        "title": "M 4.8 - northern Mid-Atlantic Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T09:56:24.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u"
       }
     ]
   }
