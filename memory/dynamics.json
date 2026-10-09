@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-09T21:36:10Z",
+  "generated_at": "2026-10-09T21:49:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:36+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3780",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T10:44:11+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:12+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3011",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:12+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -143,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:11+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -167,7 +167,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0235",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:11+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -191,7 +191,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3801",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T08:39:12+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -215,7 +215,7 @@
       "url": "https://deno.com/blog/cloudflare",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T13:21:58+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security"
@@ -241,7 +241,7 @@
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T05:32:26+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -266,7 +266,7 @@
       "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-08T19:43:05+00:00",
-      "age_days": 1.08,
+      "age_days": 1.09,
       "topics": [
         "general"
       ],
@@ -291,7 +291,7 @@
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-09T09:00:00+09:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "security"
       ],
@@ -317,7 +317,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:57+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -343,7 +343,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:36+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -369,7 +369,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:49:11+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -395,7 +395,7 @@
       "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T05:30:44+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -421,7 +421,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -446,7 +446,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -471,7 +471,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:12+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -496,7 +496,7 @@
       "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-09T10:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -522,7 +522,7 @@
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T06:26:14+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "security"
       ],
@@ -548,7 +548,7 @@
       "url": "https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-09T08:24:00.000+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -574,7 +574,7 @@
       "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-09T07:12:00.000+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -600,7 +600,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 112.82,
+      "age_days": 112.83,
       "topics": [
         "ai"
       ],
@@ -629,7 +629,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-02T00:00:00+00:00",
-      "age_days": 7.9,
+      "age_days": 7.91,
       "topics": [
         "ai",
         "security"
@@ -656,7 +656,7 @@
       "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T06:05:35+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "macro"
@@ -683,7 +683,7 @@
       "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T11:11:59+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security",
@@ -739,7 +739,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T05:33:36.610+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -764,7 +764,7 @@
       "url": "https://ascii.jp/elem/000/004/441/4441372/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T03:48:34+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -814,7 +814,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T18:42:45.902+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -864,7 +864,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T14:19:06.162+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -889,7 +889,7 @@
       "url": "https://www.heise.de/news/Angreifer-koennen-Systeme-mit-IBM-Verify-Identity-Access-uebernehmen-11482296.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-09T10:04:00.000+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -913,7 +913,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T10:47:03.630+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -938,7 +938,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T20:57:19.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -963,7 +963,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T20:32:08.435+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -988,7 +988,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T20:07:42.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -1013,7 +1013,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T19:35:01.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
