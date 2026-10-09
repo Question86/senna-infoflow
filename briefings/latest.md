@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T15:45:51+00:00_
+_Generiert: 2026-10-09T15:55:10+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-10-09T15:45:51+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.708 million .
-- **USGS earthquake M5.9 - west of Macquarie Island** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164)
-  - Quelle: USGS
-  - Zeit: `2026-10-09T14:49:41+00:00`
-  - Kurz: M5.9 - west of Macquarie Island. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
