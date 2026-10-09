@@ -149,6 +149,29 @@
     "id": "448c59068ee0a878f5bb"
   },
   {
+    "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3801",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T08:39:12+00:00",
+    "fetched_at": "2026-10-09T08:52:02+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8ad583f17966e3c6146a"
+  },
+  {
     "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
     "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -191,6 +214,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3957834c795aad6cd234"
+  },
+  {
+    "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-09T06:26:14+00:00",
+    "fetched_at": "2026-10-09T08:52:02+00:00",
+    "summary": "注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 直近において、国内の金融機関や通信事業者等の幅広い事業者から、不正アクセスの被害による情報漏えい事案の公表が相次いで行われています。特に、大量の個人情報を取り扱うオンラインサービス・アカウントサービス等に関するシステ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1109a96e26e24a8d5c30"
   },
   {
     "title": "ASEAN’s startup ecosystem is entering its accountability phase",
@@ -287,6 +332,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1b5a51789dc2f950993"
+  },
+  {
+    "title": "M 4.8 - 97 km E of Levuka, Fiji",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14i",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-09T08:42:17.040+00:00",
+    "fetched_at": "2026-10-09T08:52:02+00:00",
+    "summary": "Time 2026-10-09 08:27:10 UTC 2026-10-09 08:27:10 UTC at epicenter Location 17.991°S 179.762°W Depth 639.94 km (397.64 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b9660373f6c2f799536f"
   },
   {
     "title": "M 4.5 - 249 km E of Levuka, Fiji",

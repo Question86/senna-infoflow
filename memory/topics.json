@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T08:31:45+00:00",
+  "generated_at": "2026-10-09T08:52:39+00:00",
   "topics": {
     "ai": [
       {
@@ -144,6 +144,20 @@
         "url": "https://jvn.jp/vu/JVNVU91137775/"
       },
       {
+        "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T08:39:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3801"
+      },
+      {
+        "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T06:26:14+00:00",
+        "relevance_score": 11,
+        "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html"
+      },
+      {
         "title": "Sicherheitspatches: Kritische Root-Lücke bedroht Cisco-Switches",
         "source": "heise Security Alerts",
         "published_at": "2026-10-09T08:24:00.000+00:00",
@@ -172,6 +186,13 @@
         "published_at": "2026-10-09T01:00:35+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/"
+      },
+      {
+        "title": "M 4.8 - 97 km E of Levuka, Fiji",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T08:42:17.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14i"
       },
       {
         "title": "M 4.5 - 249 km E of Levuka, Fiji",
