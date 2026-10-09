@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T13:50:54+00:00_
+_Generated: 2026-10-09T13:59:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `59`
 
 ## Top Signals
 
-### 1. AI chats are becoming the new starting point for online shopping
+### 1. Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `20`
+- published: `2026-10-02T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/
+- summary: Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission s…
+
+### 2. AI chats are becoming the new starting point for online shopping
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-09T06:05:35+00:00`
 - url: https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/
 - summary: For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now…
 
-### 2. [NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen
+### 3. [NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-09T12:14:37+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen.
 
-### 3. [NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen
+### 4. [NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-09T12:14:37+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849
 - summary: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Cross-Site Scripting Angriff durchzuführen.
-
-### 4. AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-10-09T11:11:59+00:00`
-- url: https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/
-- summary: The artificial intelligence boom is no longer just a story about software models, cloud platforms, or the companies racing to build the next large language model. It is increasingly a story about where chips are made, how far they travel, and whether the supp…
 
 ### 5. SoftBank, Grab, PETROS explore AI infra platform in Sarawak
 - source: e27 Asia Startup and Tech Feed
