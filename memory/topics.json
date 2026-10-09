@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T09:02:19+00:00",
+  "generated_at": "2026-10-09T09:26:40+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/"
       },
       {
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-09T07:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://openai.com/index/sophos"
+      },
+      {
         "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-09T00:44:39+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-09T03:48:34+00:00",
         "relevance_score": 5,
         "url": "https://ascii.jp/elem/000/004/441/4441372/"
-      },
-      {
-        "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-08T23:07:59+00:00",
-        "relevance_score": 5,
-        "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html"
       }
     ],
     "github": [
@@ -137,11 +137,46 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Ceph Storage): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T09:19:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-09T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU91137775/"
+      },
+      {
+        "title": "[UPDATE] [mittel] SSH Protokoll: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T09:19:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174"
+      },
+      {
+        "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T09:19:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3011"
+      },
+      {
+        "title": "[UPDATE] [mittel] CoreDNS: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T09:19:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0461"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Advanced Cluster Management: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T09:19:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0235"
       },
       {
         "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
@@ -209,6 +244,20 @@
         "url": "https://www.digital.go.jp/speech/minister-261009-01"
       },
       {
+        "title": "アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T08:13:07+00:00",
+        "relevance_score": 5,
+        "url": "https://news.web.nhk/newsweb/na/nd-20261009de57294"
+      },
+      {
+        "title": "JR東、「えきねっと」などで漏えいか メルアドなど最大206万件 IDCFクラウドへの不正アクセスで",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T06:26:00+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002171/"
+      },
+      {
         "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-09T03:07:01+00:00",
@@ -228,13 +277,6 @@
         "published_at": "2026-10-08T23:56:47+00:00",
         "relevance_score": 5,
         "url": "https://news.web.nhk/newsweb/na/nd-20261009de56955"
-      },
-      {
-        "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-08T14:25:56+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration"
       }
     ],
     "geopolitics": [
