@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T17:58:09+00:00_
+_Generiert: 2026-10-09T18:14:53+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
+67 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M7.6 - 10 km WSW of Pitaloza Arriba, Panama** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k)
+  - Quelle: USGS
+  - Zeit: `2026-10-09T17:56:05+00:00`
+  - Kurz: M7.6 - 10 km WSW of Pitaloza Arriba, Panama. PAGER alert: none. Tsunami flag: 0.
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
