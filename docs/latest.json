@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T22:25:05+00:00",
-  "run_id": "2026-10-09T22:25:05+00:00",
+  "generated_at": "2026-10-09T22:35:52+00:00",
+  "run_id": "2026-10-09T22:35:52+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 0,
@@ -4529,29 +4529,7 @@
       "id": "b813b0f3a5153d097556"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2146950.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-09T05:51:20+00:00",
-      "fetched_at": "2026-10-09T22:24:34+00:00",
-      "summary": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a9db394003088ca8bdce"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
