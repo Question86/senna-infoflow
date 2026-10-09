@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T11:58:38+00:00_
+_Generated: 2026-10-09T12:19:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `51`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-09T11:58:38+00:00_
 - url: https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/
 - summary: For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now…
 
-### 2. AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds
+### 2. [NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-09T12:14:37+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen.
+
+### 3. [NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-09T12:14:37+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849
+- summary: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Cross-Site Scripting Angriff durchzuführen.
+
+### 4. AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-10-09T11:11:59+00:00`
 - url: https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/
 - summary: The artificial intelligence boom is no longer just a story about software models, cloud platforms, or the companies racing to build the next large language model. It is increasingly a story about where chips are made, how far they travel, and whether the supp…
-
-### 3. [UPDATE] [hoch] Red Hat Enterprise Linux (Ceph Storage): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-09T09:19:12+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (Ceph Storage) ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-09T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU91137775/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. SoftBank, Grab, PETROS explore AI infra platform in Sarawak
 - source: e27 Asia Startup and Tech Feed

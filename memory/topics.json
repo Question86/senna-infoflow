@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T11:58:38+00:00",
+  "generated_at": "2026-10-09T12:19:41+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/"
       },
       {
+        "title": "国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す | 株式会社サイバーセキュリティクラウド",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T04:50:18+00:00",
+        "relevance_score": 5,
+        "url": "https://www.cscloud.co.jp/news/report/202610099351/?lang=en"
+      },
+      {
         "title": "EpicGames/raddebugger",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -142,30 +149,21 @@
         "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/"
       }
     ],
-    "geopolitics": [
-      {
-        "title": "AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T11:11:59+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/"
-      },
-      {
-        "title": "As U.S. blocks DJI, Insta360 races to win American creators",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-10-09T10:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T06:06:24+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
-      }
-    ],
     "security": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849"
+      },
       {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Ceph Storage): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -181,6 +179,34 @@
         "url": "https://jvn.jp/vu/JVNVU91137775/"
       },
       {
+        "title": "[NEU] [mittel] Obsidian: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:57+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850"
+      },
+      {
+        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847"
+      },
+      {
+        "title": "[NEU] [hoch] poppler: Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:36+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845"
+      },
+      {
+        "title": "[NEU] [hoch] Hazelcast: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:36+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846"
+      },
+      {
         "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-09T10:44:11+00:00",
@@ -193,48 +219,71 @@
         "published_at": "2026-10-09T09:49:11+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783"
-      },
+      }
+    ],
+    "geopolitics": [
       {
-        "title": "[UPDATE] [mittel] SSH Protokoll: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T09:19:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174"
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848"
       },
       {
-        "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T09:19:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3011"
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849"
       },
       {
-        "title": "[UPDATE] [mittel] CoreDNS: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T11:11:59+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/"
+      },
+      {
+        "title": "[NEU] [mittel] Obsidian: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T09:19:11+00:00",
+        "published_at": "2026-10-09T12:14:57+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0461"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850"
       },
       {
-        "title": "[UPDATE] [hoch] Red Hat Advanced Cluster Management: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Codeausführung und DoS",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T09:19:11+00:00",
+        "published_at": "2026-10-09T12:14:37+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0235"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847"
       },
       {
-        "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
+        "title": "[NEU] [hoch] poppler: Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T08:39:12+00:00",
+        "published_at": "2026-10-09T12:14:36+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3801"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845"
       },
       {
-        "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-09T06:26:14+00:00",
+        "title": "[NEU] [hoch] Hazelcast: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:36+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846"
+      },
+      {
+        "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-10-09T10:00:00+00:00",
         "relevance_score": 11,
-        "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html"
+        "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T06:06:24+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
       }
     ],
     "general": [
