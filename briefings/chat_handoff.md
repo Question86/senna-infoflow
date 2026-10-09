@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T08:02:00+00:00_
+_Generated: 2026-10-09T08:31:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `25`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-09T08:02:00+00:00_
 - url: https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/
 - summary: Jenni is an academic research and writing platform used by more than six million researchers, who have written over 15 million papers on it. The US-headquartered company says it passed US$10 million in annual recurring revenue (ARR) this year and is profitabl…
 
-### 4. M 5.2 - 117 km SE of Bitung, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
+### 4. Ecosystem Roundup: Granite Asia, Google bundle cash and compute for Asia’s AI founders
+- source: e27 Asia Startup and Tech Feed
 - score: `15`
-- published: `2026-10-09T05:33:36.610+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v
-- summary: DYFI? - I Time 2026-10-09 05:11:04 UTC 2026-10-09 05:11:04 UTC at epicenter Location 0.759°N 125.937°E Depth 40.05 km (24.89 mi)
+- published: `2026-10-09T08:10:20+00:00`
+- url: https://e27.co/ecosystem-roundup-granite-asia-google-bundle-cash-and-compute-for-asias-ai-founders-20261009/
+- summary: Asia’s AI founders do not lack investor attention. What they lack is the expensive plumbing frontier AI demands: models, compute, technical help and patient capital. Granite Asia and Google AI Futures Fund want to bundle all of it into one programme. The Sing…
 
 ### 5. SoftBank, Grab, PETROS explore AI infra platform in Sarawak
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-10-09T08:02:00+00:00_
 - url: https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/
 - summary: Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broade…
 
-### 8. Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach
+### 8. Sicherheitspatches: Kritische Root-Lücke bedroht Cisco-Switches
 - source: heise Security Alerts
 - score: `10`
-- published: `2026-10-09T07:12:00.000+00:00`
-- url: https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html
-- summary: Vergangenes Wochenende hat Citrix eine Zero-Day-Lücke in Netscaler geschlossen. Jetzt legt der Hersteller ein weiteres Update nach.
+- published: `2026-10-09T08:24:00.000+00:00`
+- url: https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html
+- summary: Angreifer können unter anderem an Sicherheitslücken in Cisco License On-Prem und Nexus 3000 ansetzen.
 
 END OF DOCUMENT

@@ -68,6 +68,50 @@
     "id": "3ad2a989a56f1608a9f0"
   },
   {
+    "title": "Ecosystem Roundup: Granite Asia, Google bundle cash and compute for Asia’s AI founders",
+    "url": "https://e27.co/ecosystem-roundup-granite-asia-google-bundle-cash-and-compute-for-asias-ai-founders-20261009/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-09T08:10:20+00:00",
+    "fetched_at": "2026-10-09T08:31:06+00:00",
+    "summary": "Asia’s AI founders do not lack investor attention. What they lack is the expensive plumbing frontier AI demands: models, compute, technical help and patient capital. Granite Asia and Google AI Futures Fund want to bundle all of it into one programme. The Singapore-headquartered VC firm, which manages around US$11 billion in assets and co-managed capital, […] The post Ecosystem Roundup: Granite Asia, Google bundle ca…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "founder",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "a735e415ddf0de195130"
+  },
+  {
     "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -169,6 +213,27 @@
     "id": "3ab144b4856ac9f460b5"
   },
   {
+    "title": "Sicherheitspatches: Kritische Root-Lücke bedroht Cisco-Switches",
+    "url": "https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-09T08:24:00.000+00:00",
+    "fetched_at": "2026-10-09T08:31:06+00:00",
+    "summary": "Angreifer können unter anderem an Sicherheitslücken in Cisco License On-Prem und Nexus 3000 ansetzen.",
+    "matched_keywords": [
+      "Open Source",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); Open Source (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9987278a02eb6876ddee"
+  },
+  {
     "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
     "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html",
     "source": "heise Security Alerts",
@@ -222,6 +287,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1b5a51789dc2f950993"
+  },
+  {
+    "title": "M 4.5 - 249 km E of Levuka, Fiji",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14e",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-09T08:28:43.040+00:00",
+    "fetched_at": "2026-10-09T08:31:06+00:00",
+    "summary": "Time 2026-10-09 08:11:47 UTC 2026-10-09 08:11:47 UTC at epicenter Location 17.720°S 178.355°W Depth 559.66 km (347.76 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "c4fc3ad27b83609bf161"
   },
   {
     "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",

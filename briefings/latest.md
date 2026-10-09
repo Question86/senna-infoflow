@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T08:02:00+00:00_
+_Generiert: 2026-10-09T08:31:45+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+25 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Jenni is an academic research and writing platform used by more than six million researchers, who have written over 15 million papers on it. The US-headquartered company says it passed US$10 million in annual recurring revenue (ARR) this year and is profitable, having grown almost entirely from revenue after raising only a small angel round. […] The post Why Jenni thinks researchers need more than ChatGPT for academ…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ecosystem Roundup: Granite Asia, Google bundle cash and compute for Asia’s AI founders** — Score 15, observation — [Quelle](https://e27.co/ecosystem-roundup-granite-asia-google-bundle-cash-and-compute-for-asias-ai-founders-20261009/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T08:10:20+00:00`, fetched `2026-10-09T08:31:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Asia’s AI founders do not lack investor attention. What they lack is the expensive plumbing frontier AI demands: models, compute, technical help and patient capital. Granite Asia and Google AI Futures Fund want to bundle all of it into one programme. The Singapore-headquartered VC firm, which manages around US$11 billion in assets and co-managed capital, […] The post Ecosystem Roundup: Granite Asia, Google bundle ca…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 117 km SE of Bitung, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-09T05:33:36.610+00:00`, fetched `2026-10-09T05:37:54+00:00`
@@ -135,6 +144,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broader dot-com governance cleanup. China went through one in the late 2010s, when Luckin Coffee […] The post ASEAN’s startup ecosystem is entering its accountability…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitspatches: Kritische Root-Lücke bedroht Cisco-Switches** — Score 10, observation — [Quelle](https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-09T08:24:00.000+00:00`, fetched `2026-10-09T08:31:06+00:00`
+  - Treffer: Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Open Source (+3.0); recent (+1.0)
+  - Kurz: Angreifer können unter anderem an Sicherheitslücken in Cisco License On-Prem und Nexus 3000 ansetzen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach** — Score 10, risk — [Quelle](https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-09T07:12:00.000+00:00`, fetched `2026-10-09T07:29:33+00:00`
@@ -153,6 +171,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 249 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14e)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-09T08:28:43.040+00:00`, fetched `2026-10-09T08:31:06+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-09 08:11:47 UTC 2026-10-09 08:11:47 UTC at epicenter Location 17.720°S 178.355°W Depth 559.66 km (347.76 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」** — Score 8, observation — [Quelle](https://www.afpbb.com/articles/-/3656804)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-09T00:44:39+00:00`, fetched `2026-10-09T03:57:56+00:00`
