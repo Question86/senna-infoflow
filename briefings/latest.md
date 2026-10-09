@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T05:51:31+00:00_
+_Generiert: 2026-10-09T05:59:29+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+16 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -171,7 +171,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f59f6e7ef10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

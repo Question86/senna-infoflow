@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T05:51:31+00:00",
-  "run_id": "2026-10-09T05:51:31+00:00",
+  "generated_at": "2026-10-09T05:59:29+00:00",
+  "run_id": "2026-10-09T05:59:29+00:00",
   "date": "2026-10-09",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 16
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
     "medium": 3,
     "observe": 13,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -747,38 +747,8 @@
       "id": "b813b0f3a5153d097556"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-09T01:01:01+00:00",
-      "fetched_at": "2026-10-09T05:50:51+00:00",
-      "summary": "米Google Cloudは10月9日（現地時間）、新サービス「Gemini Agent」を発表した。クラウドで動作するマルチエージェントツールとされる。 米Googleのシュバム・サブー氏のXでの投稿によれば、Gemini Agentは単一のモデルにロックインされないことが特徴で、各タスクを最適なモデルで実行するとうたう。現時点でGoogleの新...",
-      "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "955b9d2ca68a30df0a89"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f59f6e7ef10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
