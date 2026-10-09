@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T03:43:48+00:00",
+  "generated_at": "2026-10-09T03:58:25+00:00",
   "topics": {
     "security": [
       {
@@ -26,6 +26,13 @@
         "published_at": "2026-10-08T09:20:23+00:00",
         "relevance_score": 12,
         "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html"
+      },
+      {
+        "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T00:44:39+00:00",
+        "relevance_score": 8,
+        "url": "https://www.afpbb.com/articles/-/3656804"
       },
       {
         "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
