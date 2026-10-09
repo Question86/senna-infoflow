@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T15:55:10+00:00",
+  "generated_at": "2026-10-09T16:01:22+00:00",
   "topics": {
     "ai": [
       {
@@ -233,6 +233,13 @@
         "published_at": "2026-10-09T11:11:59+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/"
+      },
+      {
+        "title": "Hack the World: Why hackathons are still the best place to learn to build",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-10-09T16:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/"
       },
       {
         "title": "国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す | 株式会社サイバーセキュリティクラウド",
