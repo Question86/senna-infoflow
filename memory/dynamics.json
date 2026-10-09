@@ -1,18 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-09T01:47:30Z",
+  "generated_at": "2026-10-09T02:15:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 10,
     "bands": {
       "krass": 1,
       "strong": 1,
-      "quiet": 6
+      "watch": 1,
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "quiet": 6
+      "watch": 1,
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -21,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-09T09:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +49,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 111.99,
+      "age_days": 112.01,
       "topics": [
         "ai"
       ],
@@ -72,11 +74,36 @@
       "summary": ""
     },
     {
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-09T02:00:44+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: supply",
+        "high terms: 10"
+      ],
+      "summary": "There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve…"
+    },
+    {
       "title": "ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261009de56955",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:56:47+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -100,7 +127,7 @@
       "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T01:00:35+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -122,11 +149,35 @@
       "summary": "Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broader dot-com governance cleanup. China went through one in the…"
     },
     {
+      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+      "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-08T14:25:56+00:00",
+      "age_days": 0.49,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧..."
+    },
+    {
       "title": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
       "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T09:20:23+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -151,7 +202,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 110.96,
+      "age_days": 110.98,
       "topics": [
         "general"
       ],
@@ -176,7 +227,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 110.96,
+      "age_days": 110.98,
       "topics": [
         "general"
       ],
@@ -201,7 +252,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 110.96,
+      "age_days": 110.98,
       "topics": [
         "ai"
       ],
