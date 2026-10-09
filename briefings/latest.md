@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T08:52:39+00:00_
+_Generiert: 2026-10-09T09:02:19+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-10-09T08:52:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).
-- **USGS earthquake M6.3 - 102 km NE of Norsup, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi)
-  - Quelle: USGS
-  - Zeit: `2026-10-08T09:00:07+00:00`
-  - Kurz: M6.3 - 102 km NE of Norsup, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Volcanic eruption is on going for Taal in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151)
   - Quelle: GDACS
   - Zeit: ``
