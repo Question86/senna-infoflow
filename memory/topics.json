@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T20:35:41+00:00",
+  "generated_at": "2026-10-09T20:47:35+00:00",
   "topics": {
     "ai": [
       {
@@ -316,6 +316,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
       },
       {
+        "title": "M 6.6 - 14 km W of Río Grande, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T20:45:18.326+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w"
+      },
+      {
         "title": "M 5.5 - 3 km SW of Bajo Corral, Panama",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-09T18:42:45.902+00:00",
@@ -370,13 +377,6 @@
         "published_at": "2026-10-09T19:35:01.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198"
-      },
-      {
-        "title": "M 5.0 - 14 km SE of Río Grande, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T19:25:01.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197"
       }
     ]
   }
