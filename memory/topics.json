@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T19:24:31+00:00",
+  "generated_at": "2026-10-09T19:34:46+00:00",
   "topics": {
     "ai": [
       {
@@ -344,6 +344,13 @@
         "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/"
       },
       {
+        "title": "M 5.0 - 14 km SE of Río Grande, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T19:25:01.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197"
+      },
+      {
         "title": "M 5.0 - 19 km S of Leones Arriba, Panama",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-09T19:13:33.040+00:00",
@@ -363,13 +370,6 @@
         "published_at": "2026-10-09T18:48:19.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
-      },
-      {
-        "title": "M 7.6 - 10 km WSW of Pitaloza Arriba, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T18:11:12.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k"
       }
     ]
   }
