@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T07:30:07+00:00",
-  "run_id": "2026-10-09T07:30:07+00:00",
+  "generated_at": "2026-10-09T07:50:30+00:00",
+  "run_id": "2026-10-09T07:50:30+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 21,
     "displayed_findings": 21,
     "high": 0,
@@ -983,62 +983,7 @@
       "id": "b813b0f3a5153d097556"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-      "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-09T07:12:00.000+00:00",
-      "fetched_at": "2026-10-09T07:29:33+00:00",
-      "summary": "Vergangenes Wochenende hat Citrix eine Zero-Day-Lücke in Netscaler geschlossen. Jetzt legt der Hersteller ein weiteres Update nach.",
-      "matched_keywords": [
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: zero-day"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "3fe5b74ff073f9f3ed6d"
-    },
-    {
-      "title": "EpicGames/raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-09T07:29:33+00:00",
-      "summary": "A native, user-mode, multi-process, graphical debugger. The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found packaged along with debugger releases, or within the build folder after a local copy has been built. You can find…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "24acc94bd86f6e39eacc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
