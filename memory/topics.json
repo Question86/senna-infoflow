@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T05:38:27+00:00",
+  "generated_at": "2026-10-09T05:51:31+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "published_at": "2026-10-09T00:44:39+00:00",
         "relevance_score": 8,
         "url": "https://www.afpbb.com/articles/-/3656804"
+      },
+      {
+        "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T01:01:01+00:00",
+        "relevance_score": 7,
+        "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/"
       },
       {
         "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
