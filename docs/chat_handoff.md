@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T13:59:50+00:00_
+_Generated: 2026-10-09T14:21:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `60`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-09T13:59:50+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849
 - summary: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Cross-Site Scripting Angriff durchzuführen.
 
-### 5. SoftBank, Grab, PETROS explore AI infra platform in Sarawak
+### 5. M 5.4 - 99 km NE of Norsup, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-09T14:19:06.162+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x
+- summary: PAGER - GREEN ShakeMap - VI Time 2026-10-09 13:51:42 UTC 2026-10-09 13:51:42 UTC at epicenter Location 15.536°S 168.145°E Depth 10.00 km (6.21 mi)
+
+### 6. SoftBank, Grab, PETROS explore AI infra platform in Sarawak
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-09T05:30:44+00:00`
 - url: https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/
 - summary: Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its…
 
-### 6. Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
+### 7. Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-08T09:20:23+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2146802.html
 - summary: Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
 
-### 7. M 5.1 - 72 km SSW of Colchane, Chile
+### 8. M 5.1 - 72 km SSW of Colchane, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-09T10:47:03.630+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153
 - summary: DYFI? - III Time 2026-10-09 10:22:14 UTC 2026-10-09 10:22:14 UTC at epicenter Location 19.913°S 68.791°W Depth 123.84 km (76.95 mi)
-
-### 8. As U.S. blocks DJI, Insta360 races to win American creators
-- source: Rest of World Global Tech Feed
-- score: `11`
-- published: `2026-10-09T10:00:00+00:00`
-- url: https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: Insta360 co-founder Max Richter at the opening of the New York flagship store
 
 END OF DOCUMENT
