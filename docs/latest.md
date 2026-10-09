@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T03:18:53+00:00_
+_Generiert: 2026-10-09T03:43:48+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Why Jenni thinks researchers need more than ChatGPT for academic writing** — Score 16, observation — [Quelle](https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T03:32:00+00:00`, fetched `2026-10-09T03:43:20+00:00`
+  - Treffer: APAC Trend Radar, OpenAI, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: Jenni is an academic research and writing platform used by more than six million researchers, who have written over 15 million papers on it. The US-headquartered company says it passed US$10 million in annual recurring revenue (ARR) this year and is profitable, having grown almost entirely from revenue after raising only a small angel round. […] The post Why Jenni thinks researchers need more than ChatGPT for academ…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -91,6 +100,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
