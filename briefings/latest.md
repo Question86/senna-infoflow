@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T05:59:29+00:00_
+_Generiert: 2026-10-09T06:30:00+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+19 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **AI chats are becoming the new starting point for online shopping** — Score 17, observation — [Quelle](https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T06:05:35+00:00`, fetched `2026-10-09T06:29:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now beginning with a question to an AI system, whether through ChatGPT-style assistants built on […] The post AI chats are becoming the new starting point for onlin…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91137775/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-09T09:00:00+09:00`, fetched `2026-10-09T00:21:20+00:00`
@@ -165,8 +174,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
