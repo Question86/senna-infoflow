@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T19:34:46+00:00",
+  "generated_at": "2026-10-09T19:44:32+00:00",
   "topics": {
     "ai": [
       {
@@ -242,6 +242,13 @@
         "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/"
       },
       {
+        "title": "Copilot code review: New organization billing options and controls",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-08T19:43:05+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls"
+      },
+      {
         "title": "国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す | 株式会社サイバーセキュリティクラウド",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-09T04:50:18+00:00",
@@ -344,6 +351,13 @@
         "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/"
       },
       {
+        "title": "M 4.8 - 14 km SSW of Tebario, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T19:35:01.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198"
+      },
+      {
         "title": "M 5.0 - 14 km SE of Río Grande, Panama",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-09T19:25:01.040+00:00",
@@ -363,13 +377,6 @@
         "published_at": "2026-10-09T19:07:39.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u194"
-      },
-      {
-        "title": "M 5.8 - 1 km S of El Cacao, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T18:48:19.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
       }
     ]
   }
