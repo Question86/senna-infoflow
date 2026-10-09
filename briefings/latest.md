@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T12:19:41+00:00_
+_Generiert: 2026-10-09T12:44:57+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+52 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

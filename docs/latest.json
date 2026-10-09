@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T12:19:41+00:00",
-  "run_id": "2026-10-09T12:19:41+00:00",
+  "generated_at": "2026-10-09T12:44:57+00:00",
+  "run_id": "2026-10-09T12:44:57+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 1,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
     "medium": 20,
-    "observe": 31,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -1041,6 +1041,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4d3eef0598f387420a3a"
+      },
+      {
+        "title": "印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社",
+        "url": "https://www.non-standardworld.co.jp/stone-engine-js/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-09T08:06:29+00:00",
+        "fetched_at": "2026-10-09T12:44:27+00:00",
+        "summary": "できることすべてこのページ上で実際に組まれています。文字にマウスを乗せると赤くなるのは、1文字ずつがSVGの要素になっているからです。 縦書きと縦中横2 桁以下の数字は正体で並べ、3 桁以上の数字と英字は 90 度回転します。句読点や括弧は縦組み用のグリフに置き換わります。 コードを見る<StoneText direction=\"t...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f7310923bbdd0a62d84d"
       },
       {
         "title": "JR東、「えきねっと」などで漏えいか メルアドなど最大206万件 IDCFクラウドへの不正アクセスで",
@@ -2286,6 +2307,27 @@
       "id": "4d3eef0598f387420a3a"
     },
     {
+      "title": "印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社",
+      "url": "https://www.non-standardworld.co.jp/stone-engine-js/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-09T08:06:29+00:00",
+      "fetched_at": "2026-10-09T12:44:27+00:00",
+      "summary": "できることすべてこのページ上で実際に組まれています。文字にマウスを乗せると赤くなるのは、1文字ずつがSVGの要素になっているからです。 縦書きと縦中横2 桁以下の数字は正体で並べ、3 桁以上の数字と英字は 90 度回転します。句読点や括弧は縦組み用のグリフに置き換わります。 コードを見る<StoneText direction=\"t...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f7310923bbdd0a62d84d"
+    },
+    {
       "title": "JR東、「えきねっと」などで漏えいか メルアドなど最大206万件 IDCFクラウドへの不正アクセスで",
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002171/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2517,153 +2559,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-09T12:14:37+00:00",
-      "fetched_at": "2026-10-09T12:19:05+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Cross-Site Scripting Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d70ed972a48cd8d450d8"
-    },
-    {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-09T12:14:37+00:00",
-      "fetched_at": "2026-10-09T12:19:05+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "212d339b0677d7786d83"
-    },
-    {
-      "title": "[NEU] [mittel] Obsidian: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-09T12:14:57+00:00",
-      "fetched_at": "2026-10-09T12:19:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Obsidian ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Programmcode mit Benutzerrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a3b0aef549765d0b3d30"
-    },
-    {
-      "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Codeausführung und DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-09T12:14:37+00:00",
-      "fetched_at": "2026-10-09T12:19:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Citrix Systems NetScaler ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "31d66b09c16d44daaf59"
-    },
-    {
-      "title": "[NEU] [hoch] Hazelcast: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-09T12:14:36+00:00",
-      "fetched_at": "2026-10-09T12:19:05+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Hazelcast ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d021a71f68ff68c15cca"
-    },
-    {
-      "title": "[NEU] [hoch] poppler: Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-09T12:14:36+00:00",
-      "fetched_at": "2026-10-09T12:19:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in poppler ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5df3e932cb450db91d74"
-    },
-    {
-      "title": "国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す | 株式会社サイバーセキュリティクラウド",
-      "url": "https://www.cscloud.co.jp/news/report/202610099351/?lang=en",
+      "title": "印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社",
+      "url": "https://www.non-standardworld.co.jp/stone-engine-js/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-09T04:50:18+00:00",
-      "fetched_at": "2026-10-09T12:19:05+00:00",
-      "summary": "2026.10.09 国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す 公開日：2026年10月9日 セキュリティインテリジェンス本部 西川 彰 2026年9月前後から国内組織で相次いでいる不正アクセス事案に関連し、株式会社マクニカが公開した「重点...",
+      "published_at": "2026-10-09T08:06:29+00:00",
+      "fetched_at": "2026-10-09T12:44:27+00:00",
+      "summary": "できることすべてこのページ上で実際に組まれています。文字にマウスを乗せると赤くなるのは、1文字ずつがSVGの要素になっているからです。 縦書きと縦中横2 桁以下の数字は正体で並べ、3 桁以上の数字と英字は 90 度回転します。句読点や括弧は縦組み用のグリフに置き換わります。 コードを見る<StoneText direction=\"t...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2675,7 +2577,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5c89b1be5c0753211d51"
+      "id": "f7310923bbdd0a62d84d"
     }
   ],
   "source_errors": [],
