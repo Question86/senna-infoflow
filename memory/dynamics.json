@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-09T23:24:12Z",
+  "generated_at": "2026-10-09T23:35:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3780",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T10:44:11+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -191,7 +191,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3801",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T08:39:12+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -215,7 +215,7 @@
       "url": "https://deno.com/blog/cloudflare",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T13:21:58+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -241,7 +241,7 @@
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T05:32:26+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -266,7 +266,7 @@
       "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-08T19:43:05+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "general"
       ],
@@ -317,7 +317,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:57+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -421,7 +421,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -446,7 +446,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -496,7 +496,7 @@
       "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-09T10:00:00+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -600,7 +600,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 112.89,
+      "age_days": 112.9,
       "topics": [
         "ai"
       ],
@@ -656,7 +656,7 @@
       "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T06:05:35+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai",
         "macro"
@@ -683,7 +683,7 @@
       "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T11:11:59+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai",
         "security",
@@ -713,7 +713,7 @@
       "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T03:00:09+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -739,7 +739,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T05:33:36.610+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "disaster"
       ],
@@ -789,7 +789,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T20:45:18.326+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -839,7 +839,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T15:13:33.712+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -864,7 +864,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T14:19:06.162+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -938,7 +938,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T21:53:49.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -963,7 +963,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T20:57:19.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -988,7 +988,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T20:32:08.435+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
