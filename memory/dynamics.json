@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-09T02:47:08Z",
+  "generated_at": "2026-10-09T03:07:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 11,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-09T09:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 112.03,
+      "age_days": 112.05,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T02:00:44+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "macro"
       ],
@@ -103,7 +103,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T00:40:10+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -127,7 +127,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261009de56955",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:56:47+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -151,7 +151,7 @@
       "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T01:00:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -177,7 +177,7 @@
       "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T14:25:56+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -201,7 +201,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T09:20:23+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -226,7 +226,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 111.0,
+      "age_days": 111.01,
       "topics": [
         "general"
       ],
@@ -251,7 +251,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 111.0,
+      "age_days": 111.01,
       "topics": [
         "general"
       ],
@@ -276,7 +276,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 111.0,
+      "age_days": 111.01,
       "topics": [
         "ai"
       ],
