@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T20:23:19+00:00_
+_Generiert: 2026-10-09T20:35:41+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
+78 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
 
 ## Priorität Hoch
 
