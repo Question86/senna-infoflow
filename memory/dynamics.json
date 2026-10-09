@@ -1,21 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-09T15:03:26Z",
+  "generated_at": "2026-10-09T15:25:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 13,
-      "strong": 17,
-      "watch": 9,
-      "quiet": 1
+      "strong": 18,
+      "watch": 9
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 29,
-      "watch": 9,
-      "quiet": 1
+      "strong": 30,
+      "watch": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -49,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:36+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -73,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3780",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T10:44:11+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -97,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:12+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -121,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3011",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:12+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -145,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:11+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -169,7 +167,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0235",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:11+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -193,7 +191,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3801",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T08:39:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -217,7 +215,7 @@
       "url": "https://deno.com/blog/cloudflare",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T13:21:58+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -243,7 +241,7 @@
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T05:32:26+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -268,7 +266,7 @@
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-09T09:00:00+09:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "security"
       ],
@@ -294,7 +292,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:57+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -320,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:36+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -346,7 +344,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:49:11+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -372,7 +370,7 @@
       "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T05:30:44+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -398,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -423,7 +421,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T12:14:37+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -448,7 +446,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-09T09:19:12+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -473,7 +471,7 @@
       "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-09T10:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -499,7 +497,7 @@
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T06:26:14+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -525,7 +523,7 @@
       "url": "https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-09T08:24:00.000+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -551,7 +549,7 @@
       "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-09T07:12:00.000+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -577,7 +575,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 112.55,
+      "age_days": 112.56,
       "topics": [
         "ai"
       ],
@@ -596,7 +594,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 112.5d old signal",
+        "aging penalty -8.0 for 112.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -606,7 +604,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-02T00:00:00+00:00",
-      "age_days": 7.63,
+      "age_days": 7.64,
       "topics": [
         "ai",
         "security"
@@ -633,7 +631,7 @@
       "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T06:05:35+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -660,7 +658,7 @@
       "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T11:11:59+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security",
@@ -690,7 +688,7 @@
       "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T03:00:09+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -716,7 +714,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T05:33:36.610+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -741,7 +739,7 @@
       "url": "https://ascii.jp/elem/000/004/441/4441372/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T03:48:34+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -762,11 +760,36 @@
       "summary": "sponsored ミリ秒の世界を制するRazerの技術力に迫る！ 王者Nikoが認めた「勝てるヘッドセット」の条件とは? sponsored SENSE-15FR172-U7P-TK4Xをレビュー アプリによってはデスクトップPCに匹敵する性能！Core Ultra 7 270HX Plus＆GeForce RTX 5070 Laptop GPU搭載ノートPCがスゴイ sponsored JN-iBC375G144UQP-HSC9..."
     },
     {
+      "title": "M 5.9 - west of Macquarie Island",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-09T15:13:33.712+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-09 14:49:41 UTC 2026-10-09 14:49:41 UTC at epicenter Location 60.976°S 154.462°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T14:19:06.162+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -791,7 +814,7 @@
       "url": "https://www.heise.de/news/Angreifer-koennen-Systeme-mit-IBM-Verify-Identity-Access-uebernehmen-11482296.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-09T10:04:00.000+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -815,7 +838,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T10:47:03.630+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -840,7 +863,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T09:56:24.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -865,7 +888,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T08:42:17.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -890,7 +913,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-09T08:28:43.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -915,7 +938,7 @@
       "url": "https://github.com/EpicGames/raddebugger",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-09T07:29:33+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -942,7 +965,7 @@
       "url": "https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T03:32:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -968,7 +991,7 @@
       "url": "https://e27.co/ecosystem-roundup-granite-asia-google-bundle-cash-and-compute-for-asias-ai-founders-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T08:10:20+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -994,7 +1017,7 @@
       "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T02:00:44+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "macro"
       ],
@@ -1013,30 +1036,6 @@
         "high terms: 10"
       ],
       "summary": "There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve…"
-    },
-    {
-      "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
-      "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-09T06:06:24+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "The crypto market is reeling. Bitcoin trades around US$80,550 to US$81,000. Ethereum trades near US$2,410 to US$2,470. Both assets dropped sharply on October 9, 2026. An aggressive deleveraging wave and broader macro risk-off sentiment drove the decline. Bitcoin fell about 3.3 per cent to 4 per cent over the last 24 h…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
