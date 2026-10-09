@@ -534,6 +534,44 @@
     "id": "8ad583f17966e3c6146a"
   },
   {
+    "title": "M 5.4 - 9 km SSE of Los Asientos, Panama",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ay",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-09T23:39:02.443+00:00",
+    "fetched_at": "2026-10-09T23:39:34+00:00",
+    "summary": "PAGER - GREEN ShakeMap - VII Time 2026-10-09 23:12:37 UTC 2026-10-09 23:12:37 UTC at epicenter Location 7.437°N 80.097°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "badf4ea86a3f94d536de"
+  },
+  {
     "title": "M 6.6 - 14 km W of Río Grande, Panama",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1107,6 +1145,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1b5a51789dc2f950993"
+  },
+  {
+    "title": "M 5.0 - 8 km ESE of La Tronosa, Panama",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ax",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-09T23:38:07.040+00:00",
+    "fetched_at": "2026-10-09T23:39:34+00:00",
+    "summary": "Time 2026-10-09 23:10:02 UTC 2026-10-09 23:10:02 UTC at epicenter Location 7.396°N 80.528°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3cb4fc8706d2ec994701"
   },
   {
     "title": "M 4.6 - 4 km NNE of Río Grande, Panama",
@@ -1949,6 +2023,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "955b9d2ca68a30df0a89"
+  },
+  {
+    "title": "GitHub Copilot weekly releases — October 5",
+    "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-09T22:58:23+00:00",
+    "fetched_at": "2026-10-09T23:39:34+00:00",
+    "summary": "This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku… The post GitHub Copilot weekly releases — October 5 appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6336aabdf1f31be7ccc5"
   },
   {
     "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",

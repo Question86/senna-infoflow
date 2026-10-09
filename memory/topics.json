@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T23:28:39+00:00",
+  "generated_at": "2026-10-09T23:40:07+00:00",
   "topics": {
     "ai": [
       {
@@ -256,6 +256,13 @@
         "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls"
       },
       {
+        "title": "GitHub Copilot weekly releases — October 5",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-09T22:58:23+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5"
+      },
+      {
         "title": "国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す | 株式会社サイバーセキュリティクラウド",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-09T04:50:18+00:00",
@@ -323,6 +330,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
       },
       {
+        "title": "M 5.4 - 9 km SSE of Los Asientos, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T23:39:02.443+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ay"
+      },
+      {
         "title": "M 6.6 - 14 km W of Río Grande, Panama",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-09T20:45:18.326+00:00",
@@ -365,25 +379,18 @@
         "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/"
       },
       {
+        "title": "M 5.0 - 8 km ESE of La Tronosa, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T23:38:07.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ax"
+      },
+      {
         "title": "M 4.9 - 13 km W of Río Grande, Panama",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-09T21:53:49.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a9"
-      },
-      {
-        "title": "M 4.9 - 12 km SSW of Tebario, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T20:57:19.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19s"
-      },
-      {
-        "title": "M 6.9 - 8 km NW of Río Grande, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T20:32:08.435+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001"
       }
     ]
   }

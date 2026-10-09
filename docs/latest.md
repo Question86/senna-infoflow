@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T23:28:39+00:00_
+_Generiert: 2026-10-09T23:40:07+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
+88 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - 9 km SSE of Los Asientos, Panama** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ay)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-09T23:39:02.443+00:00`, fetched `2026-10-09T23:39:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VII Time 2026-10-09 23:12:37 UTC 2026-10-09 23:12:37 UTC at epicenter Location 7.437°N 80.097°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.6 - 14 km W of Río Grande, Panama** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-09T20:45:18.326+00:00`, fetched `2026-10-09T20:47:03+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VII Time 2026-10-09 18:22:15 UTC 2026-10-09 18:22:15 UTC at epicenter Location 7.586°N 80.289°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.9 - west of Macquarie Island** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-09T15:13:33.712+00:00`, fetched `2026-10-09T15:17:29+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-09 14:49:41 UTC 2026-10-09 14:49:41 UTC at epicenter Location 60.976°S 154.462°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis)
   - Quelle: GitHub Changelog Atom / `rss`
