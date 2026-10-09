@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T18:14:53+00:00_
+_Generiert: 2026-10-09T18:34:39+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
+68 neue relevante Treffer. Stärkstes Signal: „Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)“ aus CERT-FR Avis de sécurité (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.6 - 10 km WSW of Pitaloza Arriba, Panama** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k)
+- **USGS earthquake M7.7 - 12 km WSW of Pitaloza Arriba, Panama** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k)
   - Quelle: USGS
-  - Zeit: `2026-10-09T17:56:05+00:00`
-  - Kurz: M7.6 - 10 km WSW of Pitaloza Arriba, Panama. PAGER alert: none. Tsunami flag: 0.
+  - Zeit: `2026-10-09T17:56:06+00:00`
+  - Kurz: M7.7 - 12 km WSW of Pitaloza Arriba, Panama. PAGER alert: pending. Tsunami flag: 0.
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
@@ -33,6 +33,10 @@ _Generiert: 2026-10-09T18:14:53+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
+- **GDACS: Orange earthquake (Magnitude 7.6M, Depth:10km) in Panama 09/10/2026 17:56 UTC, 470 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570339)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange earthquake (Magnitude 7.6M, Depth:10km) in Panama 09/10/2026 17:56 UTC, 470 thousand (in MMI&gt;=VII).
 - **GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +57,6 @@ _Generiert: 2026-10-09T18:14:53+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].
-- **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.708 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.708 million .
 
 ## Wirtschaft global
 
@@ -175,6 +175,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-10-09 13:51:42 UTC 2026-10-09 13:51:42 UTC at epicenter Location 15.536°S 168.145°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Asana cuts model costs 76x in browser tests with GPT-6.1 Sol** — Score 12, observation — [Quelle](https://openai.com/index/asana-browser-agent)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-09T07:00:00+00:00`, fetched `2026-10-09T18:34:05+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SoftBank, Grab, PETROS explore AI infra platform in Sarawak** — Score 12, observation — [Quelle](https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-09T05:30:44+00:00`, fetched `2026-10-09T05:37:54+00:00`
@@ -283,15 +292,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Vergangenes Wochenende hat Citrix eine Zero-Day-Lücke in Netscaler geschlossen. Jetzt legt der Hersteller ein weiteres Update nach.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI labs are chasing a slice of the corporate pie in Southeast Asia** — Score 10, observation — [Quelle](https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-09T04:00:33+00:00`, fetched `2026-10-09T04:16:29+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
