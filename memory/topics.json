@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T09:41:48+00:00",
+  "generated_at": "2026-10-09T10:00:57+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html"
       },
       {
+        "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-10-09T10:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-09T04:00:33+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-09T01:01:01+00:00",
         "relevance_score": 7,
         "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/"
-      },
-      {
-        "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-09T03:48:34+00:00",
-        "relevance_score": 5,
-        "url": "https://ascii.jp/elem/000/004/441/4441372/"
       }
     ],
     "github": [
@@ -151,6 +151,13 @@
         "url": "https://jvn.jp/vu/JVNVU91137775/"
       },
       {
+        "title": "[UPDATE] [hoch] ILIAS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T09:49:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783"
+      },
+      {
         "title": "[UPDATE] [mittel] SSH Protokoll: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-09T09:19:12+00:00",
@@ -198,13 +205,6 @@
         "published_at": "2026-10-09T08:24:00.000+00:00",
         "relevance_score": 10,
         "url": "https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html"
-      },
-      {
-        "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-09T07:12:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html"
       }
     ],
     "general": [
@@ -221,6 +221,13 @@
         "published_at": "2026-10-09T01:00:35+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/"
+      },
+      {
+        "title": "M 4.8 - northern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T09:56:24.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u"
       },
       {
         "title": "M 4.8 - 97 km E of Levuka, Fiji",
@@ -270,16 +277,16 @@
         "published_at": "2026-10-09T00:40:10+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/"
-      },
-      {
-        "title": "ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-08T23:56:47+00:00",
-        "relevance_score": 5,
-        "url": "https://news.web.nhk/newsweb/na/nd-20261009de56955"
       }
     ],
     "geopolitics": [
+      {
+        "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-10-09T10:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
       {
         "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
         "source": "e27 Asia Startup and Tech Feed",

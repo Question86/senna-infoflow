@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T09:41:48+00:00_
+_Generiert: 2026-10-09T10:00:57+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+39 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -119,6 +119,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - I Time 2026-10-09 05:11:04 UTC 2026-10-09 05:11:04 UTC at epicenter Location 0.759°N 125.937°E Depth 40.05 km (24.89 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] ILIAS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-09T09:49:11+00:00`, fetched `2026-10-09T10:00:27+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, sowie Daten zu manipulieren oder offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] SSH Protokoll: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-09T09:19:12+00:00`, fetched `2026-10-09T09:26:05+00:00`
@@ -127,15 +136,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle im SSH Protokoll ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3011)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-09T09:19:12+00:00`, fetched `2026-10-09T09:26:05+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen oder unbekannte Auswirkungen zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **As U.S. blocks DJI, Insta360 races to win American creators** — Score 11, risk — [Quelle](https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-10-09T10:00:00+00:00`, fetched `2026-10-09T10:00:27+00:00`
+  - Treffer: Macro/Policy, Watchgraph:war_escalation_sanctions
+  - Watchgraph: war_escalation_sanctions
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, XOM, CVX, SHEL, TTE, BP, ENB
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph modules war_escalation_sanctions (+3.0)
+  - Kurz: Insta360 co-founder Max Richter at the opening of the New York flagship store
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構** — Score 11, observation — [Quelle](https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-09T06:26:14+00:00`, fetched `2026-10-09T08:52:02+00:00`
@@ -203,6 +212,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-09T09:56:24.040+00:00`, fetched `2026-10-09T10:00:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-09 09:29:18 UTC 2026-10-09 09:29:18 UTC at epicenter Location 35.333°N 35.574°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 97 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14i)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-09T08:42:17.040+00:00`, fetched `2026-10-09T08:52:02+00:00`

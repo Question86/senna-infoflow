@@ -173,6 +173,29 @@
     "id": "448c59068ee0a878f5bb"
   },
   {
+    "title": "[UPDATE] [hoch] ILIAS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:49:11+00:00",
+    "fetched_at": "2026-10-09T10:00:27+00:00",
+    "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, sowie Daten zu manipulieren oder offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "72d45bbecc5f20238d33"
+  },
+  {
     "title": "[UPDATE] [mittel] SSH Protokoll: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174",
     "source": "BSI CERT-Bund Security Advisories",
@@ -332,6 +355,48 @@
     "id": "3957834c795aad6cd234"
   },
   {
+    "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+    "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-09T10:00:00+00:00",
+    "fetched_at": "2026-10-09T10:00:27+00:00",
+    "summary": "Insta360 co-founder Max Richter at the opening of the New York flagship store",
+    "matched_keywords": [
+      "Macro/Policy",
+      "Watchgraph:war_escalation_sanctions"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph modules war_escalation_sanctions (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "war_escalation_sanctions"
+    ],
+    "watchgraph_reasons": [
+      "war_escalation_sanctions: sanctions"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "e7e446a0a9329f1b72bd"
+  },
+  {
     "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
     "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -448,6 +513,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1b5a51789dc2f950993"
+  },
+  {
+    "title": "M 4.8 - northern Mid-Atlantic Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:56:24.040+00:00",
+    "fetched_at": "2026-10-09T10:00:27+00:00",
+    "summary": "Time 2026-10-09 09:29:18 UTC 2026-10-09 09:29:18 UTC at epicenter Location 35.333°N 35.574°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e64b92bc723d3cdadb94"
   },
   {
     "title": "M 4.8 - 97 km E of Levuka, Fiji",
