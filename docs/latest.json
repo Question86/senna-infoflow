@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T10:23:44+00:00",
-  "run_id": "2026-10-09T10:23:44+00:00",
+  "generated_at": "2026-10-09T10:36:36+00:00",
+  "run_id": "2026-10-09T10:36:36+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
@@ -1987,28 +1987,7 @@
       "id": "b813b0f3a5153d097556"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Angreifer können Systeme mit IBM Verify Identity Access übernehmen",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Systeme-mit-IBM-Verify-Identity-Access-uebernehmen-11482296.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-09T10:04:00.000+00:00",
-      "fetched_at": "2026-10-09T10:23:13+00:00",
-      "summary": "IBMs Zugriffsmanagementlösungen IBM Verify Identity Access und IBM Security Verify Access sind verwundbar.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "49aa5a37e4fe8cbb45c8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
