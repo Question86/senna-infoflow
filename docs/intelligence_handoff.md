@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-10T21:02:59Z_
+_Generated: 2026-10-10T21:23:13Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-10T07:26:49+00:00` / age_days `0.57`
+- Published: `2026-10-10T07:26:49+00:00` / age_days `0.58`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T23:06:11+00:00` / age_days `1.91`
+- Published: `2026-10-08T23:06:11+00:00` / age_days `1.93`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: actively, active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `113.79`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `113.81`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 113.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-10T05:50:42.040+00:00` / age_days `0.63`
+- Published: `2026-10-10T05:50:42.040+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.78`
+- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.79`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-10T01:29:35+00:00` / age_days `0.81`
+- Published: `2026-10-10T01:29:35+00:00` / age_days `0.83`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -72,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-10T04:38:06.008+00:00` / age_days `0.68`
+- Published: `2026-10-10T04:38:06.008+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf
 
+### M 4.9 - Kermadec Islands region
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-10T21:03:02.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gm
+
 ### M 4.7 - 2 km WNW of El Cacao, Panama
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T16:49:10.040+00:00` / age_days `0.18`
+- Published: `2026-10-10T16:49:10.040+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T16:30:27.040+00:00` / age_days `0.19`
+- Published: `2026-10-10T16:30:27.040+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T12:37:37.040+00:00` / age_days `0.35`
+- Published: `2026-10-10T12:37:37.040+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T10:50:44.040+00:00` / age_days `0.43`
+- Published: `2026-10-10T10:50:44.040+00:00` / age_days `0.44`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1e5
-
-### M 4.5 - 61 km N of Hihifo, Tonga
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-10-10T08:58:29.040+00:00` / age_days `0.5`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm
 
 END OF DOCUMENT
