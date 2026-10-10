@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-10T12:55:15Z_
+_Generated: 2026-10-10T13:03:30Z_
 
 ## Lageurteil
 
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-10T05:50:42.040+00:00` / age_days `0.29`
+- Published: `2026-10-10T05:50:42.040+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.44`
+- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T12:37:37.040+00:00` / age_days `0.01`
+- Published: `2026-10-10T12:37:37.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T08:58:29.040+00:00` / age_days `0.16`
+- Published: `2026-10-10T08:58:29.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T06:48:43.040+00:00` / age_days `0.25`
+- Published: `2026-10-10T06:48:43.040+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
