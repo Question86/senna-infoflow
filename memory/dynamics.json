@@ -1,18 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-10T01:04:08Z",
+  "generated_at": "2026-10-10T01:44:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 8,
     "bands": {
       "krass": 1,
       "strong": 1,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -21,7 +23,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:06:11+00:00",
-      "age_days": 1.08,
+      "age_days": 1.11,
       "topics": [
         "ai",
         "macro"
@@ -49,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 112.96,
+      "age_days": 112.99,
       "topics": [
         "ai"
       ],
@@ -74,11 +76,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T01:29:24.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-10 01:11:47 UTC 2026-10-10 01:11:47 UTC at epicenter Location 7.530°N 80.586°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T11:35:53+00:00",
-      "age_days": 0.56,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -103,7 +130,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 111.93,
+      "age_days": 111.95,
       "topics": [
         "general"
       ],
@@ -119,7 +146,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 111.9d old signal"
+        "aging penalty -16.0 for 112.0d old signal"
       ],
       "summary": ""
     },
@@ -128,7 +155,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 111.93,
+      "age_days": 111.95,
       "topics": [
         "general"
       ],
@@ -144,7 +171,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 111.9d old signal"
+        "aging penalty -16.0 for 112.0d old signal"
       ],
       "summary": ""
     },
@@ -153,7 +180,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 111.93,
+      "age_days": 111.95,
       "topics": [
         "ai"
       ],
@@ -170,10 +197,36 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 111.9d old signal",
+        "aging penalty -16.0 for 112.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
+      "url": "https://togetter.com/li/2756400",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-09T23:42:54+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Mr.Genki | marketing & webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / claude.dev Blog” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
