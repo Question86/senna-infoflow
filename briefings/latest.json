@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T12:47:03+00:00",
-  "run_id": "2026-10-10T12:47:03+00:00",
+  "generated_at": "2026-10-10T12:58:45+00:00",
+  "run_id": "2026-10-10T12:58:45+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 32,
     "displayed_findings": 32,
     "high": 0,
@@ -1889,44 +1889,7 @@
       "id": "f877eaded9c67794f71e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.6 - 268 km WNW of Houma, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ej",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-10T12:37:37.040+00:00",
-      "fetched_at": "2026-10-10T12:46:32+00:00",
-      "summary": "Time 2026-10-10 12:21:02 UTC 2026-10-10 12:21:02 UTC at epicenter Location 19.945°S 177.526°W Depth 560.20 km (348.09 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "1c7b83ec176d565a102d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
