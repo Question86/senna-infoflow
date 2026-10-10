@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-10T04:52:37Z",
+  "generated_at": "2026-10-10T05:03:35Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 22,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 7,
+      "watch": 8,
       "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 7,
+      "watch": 8,
       "quiet": 10
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:06:11+00:00",
-      "age_days": 1.24,
+      "age_days": 1.25,
       "topics": [
         "ai",
         "macro"
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 113.12,
+      "age_days": 113.13,
       "topics": [
         "ai"
       ],
@@ -105,7 +105,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:38:06.008+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -126,11 +126,36 @@
       "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.5 - 9 km WNW of Flores, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T04:51:36.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-10 04:33:03 UTC 2026-10-10 04:33:03 UTC at epicenter Location 7.524°N 80.479°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.3 - 41 km NNE of Yigo Village, Guam",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:20:42.123+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -155,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:19:41.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -180,7 +205,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T03:00:45.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -205,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:45:14.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -230,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:54:37.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -255,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:29:24.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -280,7 +305,7 @@
       "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-10T03:00:59+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -304,7 +329,7 @@
       "url": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T15:12:30+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -328,7 +353,7 @@
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T11:35:53+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -353,7 +378,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2147140.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T12:18:27+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -377,7 +402,7 @@
       "url": "https://togetter.com/li/2756407",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T00:50:20+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -532,7 +557,7 @@
       "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2023-01-23T12:21:49+00:00",
-      "age_days": 1355.69,
+      "age_days": 1355.7,
       "topics": [
         "ai"
       ],
