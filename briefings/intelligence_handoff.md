@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-10T02:59:34Z_
+_Generated: 2026-10-10T03:26:37Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T23:06:11+00:00` / age_days `1.16`
+- Published: `2026-10-08T23:06:11+00:00` / age_days `1.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: actively, active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -22,27 +22,37 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `113.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `113.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 113.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 113.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
 ### M 5.1 - 133 km WNW of Ternate, Indonesia
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.03`
+- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs
 
+### M 4.5 - 18 km SSE of Río Grande, Panama
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-10T03:00:45.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw
+
 ### M 5.1 - 1 km NNE of Tonosí, Panama
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T02:45:14.040+00:00` / age_days `0.01`
+- Published: `2026-10-10T02:45:14.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T01:54:37.040+00:00` / age_days `0.05`
+- Published: `2026-10-10T01:54:37.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-10T01:29:24.040+00:00` / age_days `0.06`
+- Published: `2026-10-10T01:29:24.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-10-09T11:35:53+00:00` / age_days `0.64`
+- Published: `2026-10-09T11:35:53+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-09T12:18:27+00:00` / age_days `0.61`
+- Published: `2026-10-09T12:18:27+00:00` / age_days `0.63`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-10-10T00:50:20+00:00` / age_days `0.09`
+- Published: `2026-10-10T00:50:20+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `112.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `112.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 112.0d old signal
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `112.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `112.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 112.0d old signal
 - Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
-
-### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `112.01`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 112.0d old signal, single-source AI cap enforced after phrase recheck
-- Quelle: https://toyokeizai.net/articles/-/948348?display=b
 
 END OF DOCUMENT
