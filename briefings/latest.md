@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T18:36:46+00:00_
+_Generiert: 2026-10-10T18:50:13+00:00_
 
 ## Kurzlage
 
@@ -65,10 +65,6 @@ _Generiert: 2026-10-10T18:36:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Taal in Philippines
-- **USGS earthquake M5.8 - 1 km S of El Cacao, Panama** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x)
-  - Quelle: USGS
-  - Zeit: `2026-10-09T18:37:46+00:00`
-  - Kurz: M5.8 - 1 km S of El Cacao, Panama. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
