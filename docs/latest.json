@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T08:47:45+00:00",
-  "run_id": "2026-10-10T08:47:45+00:00",
+  "generated_at": "2026-10-10T08:56:24+00:00",
+  "run_id": "2026-10-10T08:56:24+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1455,29 +1455,7 @@
       "id": "f877eaded9c67794f71e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-09T23:24:10+00:00",
-      "fetched_at": "2026-10-10T08:47:12+00:00",
-      "summary": "写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f38840b935e99a6615d9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
