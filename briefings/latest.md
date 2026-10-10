@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T09:02:18+00:00_
+_Generiert: 2026-10-10T09:22:28+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -151,6 +151,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half without knowing it. The cheapest quote in a media plan is usually the one worth […] The post Half the market will not take your money: The access problem for regulat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ** — Score 11, observation — [Quelle](https://future-architect.github.io/articles/20261009a/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-10T01:47:07+00:00`, fetched `2026-10-10T09:21:59+00:00`
+  - Treffer: AI/KI, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 61 km N of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-10T08:58:29.040+00:00`, fetched `2026-10-10T09:01:46+00:00`
@@ -186,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Mr.Genki | marketing & webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2147318.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T23:24:10+00:00`, fetched `2026-10-10T08:47:12+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

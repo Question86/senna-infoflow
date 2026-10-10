@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-10T09:02:18+00:00",
+  "generated_at": "2026-10-10T09:22:28+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      {
+        "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-10T01:47:07+00:00",
+        "relevance_score": 11,
+        "url": "https://future-architect.github.io/articles/20261009a/"
       },
       {
         "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
@@ -156,6 +163,13 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      {
+        "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-10T01:47:07+00:00",
+        "relevance_score": 11,
+        "url": "https://future-architect.github.io/articles/20261009a/"
       }
     ]
   }
