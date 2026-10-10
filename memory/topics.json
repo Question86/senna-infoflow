@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-10T03:05:58+00:00",
+  "generated_at": "2026-10-10T03:30:08+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "published_at": "2026-10-08T23:06:11+00:00",
         "relevance_score": 16,
         "url": "https://claude.dev/blog/building-effective-agent-automations/"
+      },
+      {
+        "title": "Half the market will not take your money: The access problem for regulated startups",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-10T03:00:59+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/"
       },
       {
         "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
@@ -84,6 +91,13 @@
         "published_at": "2026-10-10T01:29:24.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl"
+      },
+      {
+        "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T15:12:30+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3"
       },
       {
         "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
