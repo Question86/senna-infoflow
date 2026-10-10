@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T04:39:27+00:00_
+_Generiert: 2026-10-10T04:51:26+00:00_
 
 ## Kurzlage
 
@@ -53,6 +53,10 @@ _Generiert: 2026-10-10T04:39:27+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-10T04:14:01+00:00`
   - Kurz: M6.0 - 7 km N of La Tronosa, Panama. PAGER alert: yellow. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570467)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570350)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-10-10T04:39:27+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown].
-- **GDACS: Volcanic eruption is on going for Taal in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Taal in Philippines
 
 ## Wirtschaft global
 
