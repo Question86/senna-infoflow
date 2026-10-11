@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-11T03:35:58Z",
+  "generated_at": "2026-10-11T03:58:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.07,
+      "age_days": 114.08,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T00:48:54.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -145,7 +145,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -171,7 +171,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -196,7 +196,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 113.03,
+      "age_days": 113.05,
       "topics": [
         "general"
       ],
@@ -221,7 +221,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 113.03,
+      "age_days": 113.05,
       "topics": [
         "general"
       ],
@@ -246,7 +246,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 113.03,
+      "age_days": 113.05,
       "topics": [
         "ai"
       ],
