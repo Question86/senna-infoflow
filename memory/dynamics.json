@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T11:22:59Z",
+  "generated_at": "2026-10-11T11:34:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 21,
@@ -23,7 +23,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:16:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.39,
+      "age_days": 114.4,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -105,7 +105,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -130,7 +130,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T10:26:30.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -155,7 +155,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T07:46:37.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -230,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T00:48:54.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -255,7 +255,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -281,7 +281,7 @@
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:33:54+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -305,7 +305,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T21:06:31+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -353,7 +353,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 1.09,
+      "age_days": 1.1,
       "topics": [
         "ai"
       ],
@@ -405,7 +405,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -507,7 +507,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -532,7 +532,7 @@
       "url": "https://note.com/lytton_life/n/n838e58f5aff8",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-05-29T04:52:09+00:00",
-      "age_days": 135.27,
+      "age_days": 135.28,
       "topics": [
         "ai"
       ],
