@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T10:25:05Z",
+  "generated_at": "2026-10-11T10:36:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 19,
+    "dynamics": 20,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 5,
+      "watch": 6,
       "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 5,
+      "watch": 6,
       "quiet": 10
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:16:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.35,
+      "age_days": 114.36,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -105,7 +105,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -126,11 +126,36 @@
       "summary": "Time 2026-10-11 02:35:35 UTC 2026-10-11 02:35:35 UTC at epicenter Location 5.471°N 126.616°E Depth 121.25 km (75.34 mi)"
     },
     {
+      "title": "M 4.6 - 260 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T10:26:30.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-11 10:05:41 UTC 2026-10-11 10:05:41 UTC at epicenter Location 20.386°S 177.664°W Depth 512.92 km (318.71 mi)"
+    },
+    {
       "title": "M 4.5 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T07:46:37.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -205,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T00:48:54.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -230,7 +255,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -256,7 +281,7 @@
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:33:54+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -280,7 +305,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T21:06:31+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -328,7 +353,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 1.05,
+      "age_days": 1.06,
       "topics": [
         "ai"
       ],
@@ -380,7 +405,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -482,7 +507,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
