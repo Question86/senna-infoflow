@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T23:35:51Z",
+  "generated_at": "2026-10-11T23:48:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 34,
+    "dynamics": 35,
     "bands": {
       "krass": 2,
       "strong": 6,
       "watch": 12,
-      "quiet": 14
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 8,
       "watch": 12,
-      "quiet": 14
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:16:00+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://toruoka.xyz/202610_security_key/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T12:13:54+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -77,7 +77,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.9,
+      "age_days": 114.91,
       "topics": [
         "ai"
       ],
@@ -106,7 +106,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T21:52:51.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T12:31:54.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -156,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "disaster"
       ],
@@ -181,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "disaster"
       ],
@@ -206,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T14:31:31.802+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -231,7 +231,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T13:59:24.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -280,7 +280,7 @@
       "url": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T08:34:08+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -308,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T18:07:43.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -333,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T17:22:56.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -358,7 +358,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T11:36:41.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -383,7 +383,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T10:26:30.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -408,7 +408,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T07:46:37.040+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -483,7 +483,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T00:48:54.040+00:00",
-      "age_days": 0.95,
+      "age_days": 0.96,
       "topics": [
         "disaster"
       ],
@@ -508,7 +508,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 1.06,
+      "age_days": 1.07,
       "topics": [
         "ai"
       ],
@@ -534,7 +534,7 @@
       "url": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T15:00:42+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -558,7 +558,7 @@
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:33:54+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "general"
       ],
@@ -582,7 +582,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T21:06:31+00:00",
-      "age_days": 1.1,
+      "age_days": 1.11,
       "topics": [
         "general"
       ],
@@ -630,7 +630,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 1.6,
+      "age_days": 1.61,
       "topics": [
         "ai"
       ],
@@ -678,11 +678,35 @@
       "summary": "著者 元木大介（もときだいすけ），熊井悠（くまいゆう） 著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし..."
     },
     {
+      "title": "やっぱりApple Watchで決まり！ Series 12は計測が大きく進化、健康になりたい俺が本気で試してみた (1/5)",
+      "url": "https://ascii.jp/elem/000/004/440/4440915/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-11T09:09:58+00:00",
+      "age_days": 0.61,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "健康診断の結果を見るたびに、そろそろ本気で体を立て直したいと思う。そんな人は多いはずです。私もその一人で、これまでいくつものスマートウォッチを試してきましたが、結局手元に残るのはApple Watchでした。9月に発売された12世代目の「Apple Watch Series 12」は、見た目こそ前のモデルとほぼ同じですが、中身は心..."
+    },
+    {
       "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.99,
+      "age_days": 1.0,
       "topics": [
         "ai"
       ],
@@ -784,7 +808,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -834,7 +858,7 @@
       "url": "https://note.com/humble_bobcat51/n/n64602c64db6c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T08:37:11+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai"
       ],
@@ -859,7 +883,7 @@
       "url": "https://note.com/lytton_life/n/n838e58f5aff8",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-05-29T04:52:09+00:00",
-      "age_days": 135.78,
+      "age_days": 135.79,
       "topics": [
         "ai"
       ],
