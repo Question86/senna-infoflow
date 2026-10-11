@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T18:04:08Z",
+  "generated_at": "2026-10-11T19:02:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 31,
     "bands": {
       "krass": 1,
       "strong": 5,
-      "watch": 11,
+      "watch": 12,
       "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 11,
+      "watch": 12,
       "quiet": 13
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:16:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.67,
+      "age_days": 114.71,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T12:31:54.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -105,7 +105,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -130,7 +130,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -155,7 +155,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T14:31:31.802+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -180,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T13:59:24.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -205,7 +205,7 @@
       "url": "https://slides.yusu.ke/honoconf-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T09:03:48+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -229,7 +229,7 @@
       "url": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T08:34:08+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -253,11 +253,36 @@
       "summary": "Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。"
     },
     {
+      "title": "M 4.8 - 31 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T18:07:43.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-11 17:11:29 UTC 2026-10-11 17:11:29 UTC at epicenter Location 7.708°N 81.621°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 101 km SSW of Severo-Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T17:22:56.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -282,7 +307,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T11:36:41.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -307,7 +332,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T10:26:30.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -332,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T07:46:37.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -357,7 +382,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:42:11.040+00:00",
-      "age_days": 0.52,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -382,7 +407,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.67,
+      "age_days": 0.71,
       "topics": [
         "disaster"
       ],
@@ -407,7 +432,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T00:48:54.040+00:00",
-      "age_days": 0.72,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -432,7 +457,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.83,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -458,7 +483,7 @@
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:33:54+00:00",
-      "age_days": 0.56,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -482,7 +507,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T21:06:31+00:00",
-      "age_days": 0.87,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -506,7 +531,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T05:13:38+00:00",
-      "age_days": 1.54,
+      "age_days": 1.58,
       "topics": [
         "general"
       ],
@@ -530,7 +555,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 1.37,
+      "age_days": 1.41,
       "topics": [
         "ai"
       ],
@@ -556,7 +581,7 @@
       "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T04:01:51+00:00",
-      "age_days": 5.58,
+      "age_days": 5.63,
       "topics": [
         "ai"
       ],
@@ -582,7 +607,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.76,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -607,7 +632,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 113.63,
+      "age_days": 113.68,
       "topics": [
         "general"
       ],
@@ -623,7 +648,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 113.6d old signal"
+        "aging penalty -16.0 for 113.7d old signal"
       ],
       "summary": ""
     },
@@ -632,7 +657,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 113.63,
+      "age_days": 113.68,
       "topics": [
         "general"
       ],
@@ -648,7 +673,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 113.6d old signal"
+        "aging penalty -16.0 for 113.7d old signal"
       ],
       "summary": ""
     },
@@ -657,7 +682,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 113.63,
+      "age_days": 113.68,
       "topics": [
         "ai"
       ],
@@ -674,7 +699,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 113.6d old signal",
+        "aging penalty -16.0 for 113.7d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -684,7 +709,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.67,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -709,7 +734,7 @@
       "url": "https://togetter.com/li/2756939",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T12:39:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -734,7 +759,7 @@
       "url": "https://note.com/humble_bobcat51/n/n64602c64db6c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T08:37:11+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -759,7 +784,7 @@
       "url": "https://note.com/lytton_life/n/n838e58f5aff8",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-05-29T04:52:09+00:00",
-      "age_days": 135.55,
+      "age_days": 135.59,
       "topics": [
         "ai"
       ],
@@ -775,7 +800,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 135.5d old signal",
+        "aging penalty -16.0 for 135.6d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "【2026年8月30日 追記】 kindle_shot は大型アップデートで圧倒的に使いやすくしました。 画面は選んで進むだけのウィザード型になり、Python の導入からセットアップまで全自動になっています。 対応も Kindle・楽天Kobo・Google Play ブックス・DMMブックス・コミックシーモアの5サービスに広がりました。 最新版のダ..."
