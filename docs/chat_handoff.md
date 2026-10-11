@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T07:36:59+00:00_
+_Generated: 2026-10-11T07:49:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-10-11T07:36:59+00:00_
 - url: https://togetter.com/li/2756720
 - summary: ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
 
-### 5. M 4.7 - 110 km SSE of Sola, Vanuatu
+### 5. M 4.5 - south of the Fiji Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-11T07:46:37.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3
+- summary: Time 2026-10-11 07:28:52 UTC 2026-10-11 07:28:52 UTC at epicenter Location 23.692°S 179.965°E Depth 546.34 km (339.48 mi)
+
+### 6. M 4.7 - 110 km SSE of Sola, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-11T05:42:11.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il
 - summary: Time 2026-10-11 05:07:57 UTC 2026-10-11 05:07:57 UTC at epicenter Location 14.734°S 168.070°E Depth 10.60 km (6.59 mi)
 
-### 6. M 5.0 - 3 km NW of Flores, Panama
+### 7. M 5.0 - 3 km NW of Flores, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-11T02:06:11.382+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw
 - summary: DYFI? - III Time 2026-10-11 01:50:52 UTC 2026-10-11 01:50:52 UTC at epicenter Location 7.514°N 80.428°W Depth 10.00 km (6.21 mi)
-
-### 7. M 4.6 - 18 km WNW of Río Grande, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-11T00:48:54.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj
-- summary: Time 2026-10-11 00:06:09 UTC 2026-10-11 00:06:09 UTC at epicenter Location 7.809°N 81.472°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
