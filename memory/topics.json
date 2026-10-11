@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-11T11:31:26+00:00",
+  "generated_at": "2026-10-11T11:42:00+00:00",
   "topics": {
     "ai": [
       {
@@ -70,6 +70,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0"
       },
       {
+        "title": "M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-11T11:36:41.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3"
+      },
+      {
         "title": "M 4.6 - 260 km WNW of Houma, Tonga",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-11T10:26:30.040+00:00",
@@ -117,13 +124,6 @@
         "published_at": "2026-10-10T21:06:31+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521"
-      },
-      {
-        "title": "「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-10T05:13:38+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/"
       }
     ],
     "github": [
