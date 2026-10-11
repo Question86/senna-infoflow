@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-11T20:56:38+00:00_
+_Generiert: 2026-10-11T21:04:29+00:00_
 
 ## Kurzlage
 
