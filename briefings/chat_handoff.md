@@ -1,67 +1,32 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T23:59:55+00:00_
+_Generated: 2026-10-11T00:59:22+00:00_
 
 ## Status
-- status: `warning`
-- findings: `45`
+- status: `normal`
+- findings: `3`
 
 ## Top Signals
 
-### 1. New controls and chat improvements in Copilot for JetBrains
-- source: GitHub Changelog Atom
-- score: `16`
-- published: `2026-10-10T18:53:39+00:00`
-- url: https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains
-- summary: This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for Jet…
-
-### 2. Building effective agent automations / claude.dev Blog
+### 1. Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン
 - source: Hatena Bookmark Hotentry IT
 - score: `16`
-- published: `2026-10-08T23:06:11+00:00`
-- url: https://claude.dev/blog/building-effective-agent-automations/
-- summary: As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to…
+- published: `2026-10-10T22:12:05+00:00`
+- url: https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/
+- summary: 2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ...
 
-### 3. M 4.5 - 171 km SSW of Pagar Alam, Indonesia
+### 2. M 4.6 - 18 km WNW of Río Grande, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-10T22:14:09.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu
-- summary: Time 2026-10-10 21:38:09 UTC 2026-10-10 21:38:09 UTC at epicenter Location 5.403°S 102.542°E Depth 29.58 km (18.38 mi)
+- score: `9`
+- published: `2026-10-11T00:48:54.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj
+- summary: Time 2026-10-11 00:06:09 UTC 2026-10-11 00:06:09 UTC at epicenter Location 7.809°N 81.472°W Depth 10.00 km (6.21 mi)
 
-### 4. M 5.0 - 141 km E of Bitung, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-10T05:50:42.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv
-- summary: Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)
-
-### 5. M 6.0 - 7 km N of La Tronosa, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-10T04:38:06.008+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf
-- summary: PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)
-
-### 6. anthropics/knowledge-work-plugins
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/anthropics/knowledge-work-plugins
-- summary: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code .…
-
-### 7. Half the market will not take your money: The access problem for regulated startups
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-10T03:00:59+00:00`
-- url: https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/
-- summary: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half witho…
-
-### 8. bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ
+### 3. 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能
 - source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-10T01:47:07+00:00`
-- url: https://future-architect.github.io/articles/20261009a/
-- summary: はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...
+- score: `9`
+- published: `2026-10-10T09:16:40+00:00`
+- url: https://gigazine.net/news/20261010-readest/
+- summary: 電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対...
 
 END OF DOCUMENT
