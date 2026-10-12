@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T17:01:16+00:00_
+_Generiert: 2026-10-12T17:21:22+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+67 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Hackers Champloo 2026 の登壇資料です https://hackers-champloo.org/2026/program.html
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Push attribution for commits in limited public preview** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-10-12-push-attribution-public-preview)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-12T16:30:11+00:00`, fetched `2026-10-12T17:20:50+00:00`
+  - Treffer: GitHub, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Public Health (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author… The post Push attribution for commits in limited public preview appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita** — Score 8, observation — [Quelle](https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-10T18:04:33+00:00`, fetched `2026-10-12T01:18:27+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Warnung vor Angriffen auf alte Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-12T06:28:00.000+00:00`, fetched `2026-10-12T08:00:11+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die CISA warnt vor beobachteten Angriffen unter anderem auf Apache Struts, BIND und ProFTPD. Die Lücken sind teils sehr alt.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
