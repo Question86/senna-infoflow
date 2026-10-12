@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T13:53:04+00:00_
+_Generiert: 2026-10-12T14:07:45+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+62 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retailers adopt the technology, a clear signal that AI is no longer […] The post Why SEA’s retailers need to protect AI-powered customer experience with observabilit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1s2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-12T14:04:42.040+00:00`, fetched `2026-10-12T14:07:13+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-12 13:44:41 UTC 2026-10-12 13:44:41 UTC at epicenter Location 16.293°S 67.099°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-12T11:48:07.040+00:00`, fetched `2026-10-12T11:51:17+00:00`
@@ -168,15 +177,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration Deep neural networks built on a tape-based autograd system You can reuse your favorite Python packages such as NumPy, SciPy, and Cython to extend PyTorch when needed. Our trunk health (Continuous…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 7 km ESE of Tebario, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qd)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-12T07:38:49.040+00:00`, fetched `2026-10-12T08:00:11+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-12 07:16:06 UTC 2026-10-12 07:16:06 UTC at epicenter Location 7.699°N 80.914°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **実践！ SRE × AI - ABEMA における AIOps -** — Score 9, observation — [Quelle](https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-12T05:30:08+00:00`, fetched `2026-10-12T10:43:18+00:00`
