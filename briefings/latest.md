@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T23:52:02+00:00_
+_Generiert: 2026-10-12T23:58:19+00:00_
 
 ## Kurzlage
 
@@ -41,6 +41,10 @@ _Generiert: 2026-10-12T23:52:02+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-12T23:20:36+00:00`
   - Kurz: M6.1 - 18 km W of Río Grande, Panama. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570970)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +57,6 @@ _Generiert: 2026-10-12T23:52:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570467)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
