@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T22:45:27+00:00",
-  "run_id": "2026-10-12T22:45:27+00:00",
+  "generated_at": "2026-10-12T22:53:39+00:00",
+  "run_id": "2026-10-12T22:53:39+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -4119,29 +4119,7 @@
       "id": "9acc7ae451e8220f48ef"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2147419.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-12T14:49:00+00:00",
-      "fetched_at": "2026-10-12T22:44:52+00:00",
-      "summary": "ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bdb757c87d9189d4403a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
