@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-12T23:36:42Z",
+  "generated_at": "2026-10-12T23:49:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 22,
-      "strong": 15,
-      "watch": 3
+      "strong": 16,
+      "watch": 2
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 33,
-      "watch": 3
+      "strong": 34,
+      "watch": 2
     }
   },
   "top_dynamics": [
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:49:11+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai",
         "security"
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3862",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:54:11+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -195,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3195",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:44:15+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -219,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1833",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T08:49:11+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -243,7 +243,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T08:49:11+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -267,7 +267,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -291,7 +291,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -317,7 +317,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:49:11+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -343,7 +343,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:54:12+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -369,7 +369,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:54:12+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -474,7 +474,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -500,7 +500,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -526,7 +526,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3836",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:34:12+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -578,7 +578,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:39:45+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -604,7 +604,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-016/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-12T14:57:02+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -630,7 +630,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:54:11+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -655,7 +655,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -680,7 +680,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -732,7 +732,7 @@
       "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T04:00:42+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -759,7 +759,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 115.9,
+      "age_days": 115.91,
       "topics": [
         "ai"
       ],
@@ -788,7 +788,7 @@
       "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-12T06:28:00.000+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -813,7 +813,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-25T00:00:00+00:00",
-      "age_days": 900.98,
+      "age_days": 900.99,
       "topics": [
         "security"
       ],
@@ -839,7 +839,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T12:39:51.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -864,7 +864,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T04:07:59.040+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -889,7 +889,7 @@
       "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:00:50+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "macro"
       ],
@@ -911,11 +911,36 @@
       "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build anot…"
     },
     {
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-12T23:42:46.521+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - VIII DYFI? - IV Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Push attribution for commits in limited public preview",
       "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T16:30:11+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [],
       "dynamics_score": 21.0,
       "raw_band": "strong",
@@ -939,7 +964,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-12T17:43:59+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -965,7 +990,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T18:58:30.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -990,31 +1015,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T18:57:55.443+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "DYFI? - IV Time 2026-10-12 18:17:18 UTC 2026-10-12 18:17:18 UTC at epicenter Location 33.721°S 71.811°W Depth 33.63 km (20.89 mi)"
-    },
-    {
-      "title": "M 4.7 - Mid-Indian Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ut",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T18:51:44.040+00:00",
       "age_days": 0.2,
       "topics": [
         "disaster"
@@ -1033,7 +1033,7 @@
         "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": "Time 2026-10-12 18:27:41 UTC 2026-10-12 18:27:41 UTC at epicenter Location 16.294°S 67.110°E Depth 10.00 km (6.21 mi)"
+      "summary": "DYFI? - IV Time 2026-10-12 18:17:18 UTC 2026-10-12 18:17:18 UTC at epicenter Location 33.721°S 71.811°W Depth 33.63 km (20.89 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
