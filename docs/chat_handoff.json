@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-12T10:57:19+00:00",
+  "generated_at": "2026-10-12T11:08:29+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 6,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
-    "medium": 13,
+    "medium": 19,
     "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-12T10:59:11+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder beliebige Dateien auf dem Host zu schreiben oder zu überschreiben, was möglicherweise…",
+      "section": "medium"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-12T10:54:12+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "section": "medium"
+    },
     {
       "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
       "source": "BSI CERT-Bund Security Advisories",
@@ -32,26 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853",
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BusyBox ausnutzen, um beliebigen Programmcode auszuführen und Nutzerrechte zu erlangen.",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-12T07:40:07+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen, Benutzer auf vom Angreifer kontrollierte Websites umzuleiten oder Denial-of-Service-Zustände auszulösen.",
-      "section": "medium"
-    },
-    {
-      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-12T05:00:13+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
-      "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME l…",
       "section": "medium"
     },
     {
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:49:11+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:49:11+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BusyBox ausnutzen, um beliebigen Programmcode auszuführen und Nutzerrechte zu erlangen."
-      },
-      {
-        "title": "[UPDATE] [mittel] MIT Kerberos: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3836",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:34:12+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in MIT Kerberos ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T09:34:11+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Struts ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Argo CD: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T07:39:45+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Argo CD ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen und Zugangsdaten auszulesen, Zugriffsbeschränkungen zu umgehen oder einen Denial of Service zu verursachen."
-      }
-    ]
-  }
+  ]
 }

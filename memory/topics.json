@@ -1,9 +1,23 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T10:57:19+00:00",
+  "generated_at": "2026-10-12T11:08:29+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:59:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -26,56 +40,56 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824"
       },
       {
+        "title": "[NEU] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:59:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860"
+      },
+      {
+        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
+      },
+      {
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858"
+      },
+      {
+        "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856"
+      },
+      {
         "title": "[UPDATE] [mittel] libxml2: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-12T10:44:15+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3195"
-      },
-      {
-        "title": "[UPDATE] [mittel] MIT Kerberos: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:34:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3836"
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T09:34:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852"
-      },
-      {
-        "title": "[UPDATE] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T08:49:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1833"
-      },
-      {
-        "title": "[UPDATE] [mittel] IBM WebSphere Application Server Liberty: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T08:49:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0518"
-      },
-      {
-        "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T07:40:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841"
-      },
-      {
-        "title": "[UPDATE] [hoch] Argo CD: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T07:39:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:59:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -91,6 +105,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853"
       },
       {
+        "title": "[NEU] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:59:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860"
+      },
+      {
+        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
+      },
+      {
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858"
+      },
+      {
+        "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856"
+      },
+      {
         "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-12T01:00:26+00:00",
@@ -103,20 +145,6 @@
         "published_at": "2026-10-12T04:17:27+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
-      },
-      {
-        "title": "pytorch/pytorch",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/pytorch/pytorch"
-      },
-      {
-        "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-12T06:28:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html"
       }
     ],
     "ai": [

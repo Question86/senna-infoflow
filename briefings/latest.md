@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T10:57:19+00:00_
+_Generiert: 2026-10-12T11:08:29+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+41 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-12T10:59:11+00:00`, fetched `2026-10-12T11:07:58+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder beliebige Dateien auf dem Host zu schreiben oder zu überschreiben, was möglicherweise zur vollständigen Kompromittierung des Systems führen kann.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-12T10:54:12+00:00`, fetched `2026-10-12T11:07:58+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-12T10:49:11+00:00`, fetched `2026-10-12T10:56:47+00:00`
@@ -81,24 +99,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [UNGEPATCHT] [mittel] BusyBox: Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-12T10:49:11+00:00`, fetched `2026-10-12T10:56:47+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BusyBox ausnutzen, um beliebigen Programmcode auszuführen und Nutzerrechte zu erlangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-12T07:40:07+00:00`, fetched `2026-10-12T08:00:11+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen, Benutzer auf vom Angreifer kontrollierte Websites umzuleiten oder Denial-of-Service-Zustände auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore SMEs buy back time with AI, but messy data keeps pilots stuck** — Score 16, opportunity — [Quelle](https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
