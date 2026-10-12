@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T17:34:54+00:00_
+_Generated: 2026-10-12T17:46:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `68`
 
 ## Top Signals
 
-### 1. [NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff
+### 1. GitHub Copilot app for Beginners: How to teach Copilot about your codebase
+- source: GitHub Blog Atom
+- score: `23`
+- published: `2026-10-12T17:43:59+00:00`
+- url: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/
+- summary: Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .
+
+### 2. [NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T11:54:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871
 - summary: Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
 
-### 2. [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
+### 3. [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T11:19:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Foreman ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.
 
-### 3. [NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen
+### 4. [NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T10:59:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder beliebige Dateien auf dem Host zu schreiben oder zu überschreiben, was möglicherweise…
-
-### 4. [NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-12T10:54:12+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. 2026-016: Critical Vulnerability in GitLab CE and EE
 - source: CERT-EU Security Advisories
