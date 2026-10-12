@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T03:03:08+00:00_
+_Generiert: 2026-10-12T03:38:44+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+9 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
