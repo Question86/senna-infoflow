@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T02:27:42+00:00_
+_Generiert: 2026-10-12T03:03:08+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+7 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 ## Priorität Hoch
 
@@ -43,6 +43,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Don’t build another app. Build inside the ones people already open** — Score 9, observation — [Quelle](https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-12T03:00:50+00:00`, fetched `2026-10-12T03:02:37+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build another app. Build inside the ones people already open appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita** — Score 8, observation — [Quelle](https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-10T18:04:33+00:00`, fetched `2026-10-12T01:18:27+00:00`
@@ -51,6 +60,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへアクセスすることによって生じる、新たな...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/12/2000002195/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-12T01:35:17+00:00`, fetched `2026-10-12T03:02:37+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”と同様に扱い、モデルの外側に統制の仕組みを置くべきだと訴えている。なお...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

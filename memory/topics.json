@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T02:27:42+00:00",
+  "generated_at": "2026-10-12T03:03:08+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-10-10T18:04:33+00:00",
         "relevance_score": 8,
         "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5"
+      },
+      {
+        "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-12T01:35:17+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/"
       }
     ],
     "geopolitics": [
@@ -40,6 +47,15 @@
         "published_at": "2026-10-12T01:00:26+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Don’t build another app. Build inside the ones people already open",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T03:00:50+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/"
       }
     ],
     "general": [
