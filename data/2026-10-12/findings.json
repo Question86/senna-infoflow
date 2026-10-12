@@ -191,6 +191,43 @@
     "id": "7b8b287377b10ed41ce2"
   },
   {
+    "title": "M 4.6 - 100 km SSW of Kencong, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rm",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-12T12:39:51.040+00:00",
+    "fetched_at": "2026-10-12T12:44:25+00:00",
+    "summary": "Time 2026-10-12 11:58:08 UTC 2026-10-12 11:58:08 UTC at epicenter Location 9.152°S 113.100°E Depth 55.22 km (34.31 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7793c2f9faf8a3ed3a6f"
+  },
+  {
     "title": "M 4.5 - 53 km S of Kushiro, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1144,6 +1181,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "79289da4609e55923259"
+  },
+  {
+    "title": "人生やりたいことリストのすすめ FIRE後の楽しみを可視化する | ドクセル",
+    "url": "https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T05:25:28+00:00",
+    "fetched_at": "2026-10-12T12:44:25+00:00",
+    "summary": "人生やりたいことリストのすすめ — FIRE後の楽しみを可視化する IPUSIRON (@ipusiron) 第3回FIRE勉強会 2026-08-15 1 自己紹介 IPUSIRON イプシロン X : @ipusiron 肩書き 技術書作家（セキュリティ） 著書 40冊超 ／ 積み上げ100cm ブログ セキュリティアカデメイア (akademeia.info) 拠点 福島県相馬市 関心事 古典暗...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "665b051d16c3f494841c"
   },
   {
     "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
