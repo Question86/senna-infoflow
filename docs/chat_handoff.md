@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T12:45:00+00:00_
+_Generated: 2026-10-12T13:17:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `59`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-12T12:45:00+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 5. Your deeptech company does not have one capital problem
+### 5. 2026-016: Critical Vulnerability in GitLab CE and EE
+- source: CERT-EU Security Advisories
+- score: `12`
+- published: `2026-10-12T14:57:02+00:00`
+- url: https://cert.europa.eu/publications/security-advisories/2026-016/
+- summary: On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitra…
+
+### 6. Your deeptech company does not have one capital problem
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-12T02:00:33+00:00`
 - url: https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/
 - summary: Open a deeptech company’s use-of-proceeds slide and one number often sits at the top: the size of the next round. Underneath, however, the money may be doing very different jobs—funding an unproven product, buying equipment, carrying inventory, financing rece…
 
-### 6. Why SEA’s retailers need to protect AI-powered customer experience with observability
+### 7. Why SEA’s retailers need to protect AI-powered customer experience with observability
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-12T01:00:26+00:00`
 - url: https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/
 - summary: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retai…
 
-### 7. M 5.7 - Mid-Indian Ridge
+### 8. M 5.7 - Mid-Indian Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-12T11:48:07.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh
 - summary: Time 2026-10-12 11:28:43 UTC 2026-10-12 11:28:43 UTC at epicenter Location 9.007°S 67.564°E Depth 10.00 km (6.21 mi)
-
-### 8. M 4.8 - 56 km E of Yairipok, India
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-12T01:45:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr
-- summary: Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)
 
 END OF DOCUMENT
