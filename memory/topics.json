@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T05:42:31+00:00",
+  "generated_at": "2026-10-12T05:58:27+00:00",
   "topics": {
     "ai": [
       {
@@ -52,6 +52,13 @@
         "published_at": "2026-10-10T18:04:33+00:00",
         "relevance_score": 8,
         "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5"
+      },
+      {
+        "title": "ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-12T03:17:05+00:00",
+        "relevance_score": 5,
+        "url": "https://posfie.com/@cashewNutsUmai/p/YXvMlOP"
       },
       {
         "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
