@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T04:58:06+00:00_
+_Generiert: 2026-10-12T05:18:59+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 53 km S of Kushiro, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+14 neue relevante Treffer. Stärkstes Signal: „Singapore SMEs buy back time with AI, but messy data keeps pilots stuck“ aus e27 Asia Startup and Tech Feed (Score 16, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-10-12T04:58:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570370)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:164.813km) in Tonga 12/10/2026 04:38 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570970)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI&gt;=VII).
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:164.813km) in Tonga 12/10/2026 04:38 UTC, Few people affected in MMI III.
 - **GDACS: Green notification for tropical cyclone TWENTYEIGHT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001336)
   - Quelle: GDACS
   - Zeit: ``
@@ -48,7 +48,7 @@ _Generiert: 2026-10-12T04:58:06+00:00_
 - **USGS earthquake M5.5 - 123 km W of Neiafu, Tonga** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl)
   - Quelle: USGS
   - Zeit: `2026-10-12T04:38:09+00:00`
-  - Kurz: M5.5 - 123 km W of Neiafu, Tonga. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 123 km W of Neiafu, Tonga. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Singapore SMEs buy back time with AI, but messy data keeps pilots stuck** — Score 16, opportunity — [Quelle](https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-12T05:00:13+00:00`, fetched `2026-10-12T05:18:28+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME landscape in Southeast Asia That tension […] The post Singapore SMEs buy back time with AI, but messy data keeps pilots stuck appeared first on e27 .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.5 - 53 km S of Kushiro, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-12T04:07:59.040+00:00`, fetched `2026-10-12T04:33:37+00:00`
@@ -161,8 +170,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
