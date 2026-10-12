@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T05:58:27+00:00_
+_Generated: 2026-10-12T06:33:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-10-12T05:58:27+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr
 - summary: Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)
 
-### 7. Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere
+### 7. Vietnam’s shoppers are asking AI first, but Google still gets the last word
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
-- published: `2026-10-12T04:17:27+00:00`
-- url: https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/
-- summary: Malaysia has put a number on its startup ambitions: MYR450 million (US$110.4 million). That is how much the National Fund of Funds Jelawang Capital and Dana Perintis, the startup vehicle of the Retirement Fund (KWAP), will invest in developing startups, Prime…
+- published: `2026-10-12T06:25:47+00:00`
+- url: https://e27.co/vietnams-shoppers-are-asking-ai-first-but-google-still-gets-the-last-word-20261012/
+- summary: Before a Vietnamese shopper adds anything to a cart these days, there is a good chance a chatbot has been consulted. As many as 62 per cent of Vietnamese buyers use AI, including generative AI, to research purchases before they buy, according to a new survey…
 
 END OF DOCUMENT
