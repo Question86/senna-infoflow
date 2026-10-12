@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T23:31:08+00:00_
+_Generated: 2026-10-12T23:43:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `80`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-12T23:31:08+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder beliebige Dateien auf dem Host zu schreiben oder zu überschreiben, was möglicherweise…
 
-### 5. 2026-016: Critical Vulnerability in GitLab CE and EE
+### 5. M 6.1 - 18 km W of Río Grande, Panama
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-12T23:42:46.521+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
+- summary: PAGER - GREEN ShakeMap - VIII DYFI? - IV Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
+
+### 6. 2026-016: Critical Vulnerability in GitLab CE and EE
 - source: CERT-EU Security Advisories
 - score: `12`
 - published: `2026-10-12T14:57:02+00:00`
 - url: https://cert.europa.eu/publications/security-advisories/2026-016/
 - summary: On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitra…
 
-### 6. Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30
+### 7. Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-10-12T14:40:20+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260090.en.html
 - summary: Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30
 
-### 7. Your deeptech company does not have one capital problem
+### 8. Your deeptech company does not have one capital problem
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-12T02:00:33+00:00`
 - url: https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/
 - summary: Open a deeptech company’s use-of-proceeds slide and one number often sits at the top: the size of the next round. Underneath, however, the money may be doing very different jobs—funding an unproven product, buying equipment, carrying inventory, financing rece…
-
-### 8. Why SEA’s retailers need to protect AI-powered customer experience with observability
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-12T01:00:26+00:00`
-- url: https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/
-- summary: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retai…
 
 END OF DOCUMENT
