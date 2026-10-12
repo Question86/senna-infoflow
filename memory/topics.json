@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T09:07:39+00:00",
+  "generated_at": "2026-10-12T09:42:08+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-12T07:40:07+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T09:34:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852"
       },
       {
         "title": "[UPDATE] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Denial of Service",
@@ -112,11 +119,11 @@
         "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5"
       },
       {
-        "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+        "title": "崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-12T04:10:08+00:00",
+        "published_at": "2026-10-12T07:26:15+00:00",
         "relevance_score": 5,
-        "url": "https://www.techno-edge.net/article/2026/10/12/5574.html"
+        "url": "https://togetter.com/li/2757239"
       }
     ],
     "general": [
