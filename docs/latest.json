@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:40:27+00:00",
-  "run_id": "2026-10-12T11:40:27+00:00",
+  "generated_at": "2026-10-12T11:51:49+00:00",
+  "run_id": "2026-10-12T11:51:49+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 1,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
     "medium": 25,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -691,6 +691,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8bf00b4e2765032b143d"
+      },
+      {
+        "title": "M 5.7 - Mid-Indian Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-12T11:48:07.040+00:00",
+        "fetched_at": "2026-10-12T11:51:17+00:00",
+        "summary": "Time 2026-10-12 11:28:43 UTC 2026-10-12 11:28:43 UTC at epicenter Location 9.007°S 67.564°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "362fbfbe2669a041d67c"
       },
       {
         "title": "M 4.8 - 56 km E of Yairipok, India",
@@ -1880,6 +1916,42 @@
       "id": "8bf00b4e2765032b143d"
     },
     {
+      "title": "M 5.7 - Mid-Indian Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-12T11:48:07.040+00:00",
+      "fetched_at": "2026-10-12T11:51:17+00:00",
+      "summary": "Time 2026-10-12 11:28:43 UTC 2026-10-12 11:28:43 UTC at epicenter Location 9.007°S 67.564°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "362fbfbe2669a041d67c"
+    },
+    {
       "title": "M 4.8 - 56 km E of Yairipok, India",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2403,7 +2475,44 @@
       "id": "9acc7ae451e8220f48ef"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.7 - Mid-Indian Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-12T11:48:07.040+00:00",
+      "fetched_at": "2026-10-12T11:51:17+00:00",
+      "summary": "Time 2026-10-12 11:28:43 UTC 2026-10-12 11:28:43 UTC at epicenter Location 9.007°S 67.564°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "362fbfbe2669a041d67c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

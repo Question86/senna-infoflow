@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T11:40:27+00:00_
+_Generiert: 2026-10-12T11:51:49+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+49 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,10 @@ _Generiert: 2026-10-12T11:40:27+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).
+- **USGS earthquake M5.7 - Mid-Indian Ridge** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh)
+  - Quelle: USGS
+  - Zeit: `2026-10-12T11:28:43+00:00`
+  - Kurz: M5.7 - Mid-Indian Ridge. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -148,6 +152,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retailers adopt the technology, a clear signal that AI is no longer […] The post Why SEA’s retailers need to protect AI-powered customer experience with observabilit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.7 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-12T11:48:07.040+00:00`, fetched `2026-10-12T11:51:17+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-12 11:28:43 UTC 2026-10-12 11:28:43 UTC at epicenter Location 9.007°S 67.564°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 56 km E of Yairipok, India** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-12T01:45:49.040+00:00`, fetched `2026-10-12T01:56:59+00:00`
@@ -183,15 +196,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-12 07:16:06 UTC 2026-10-12 07:16:06 UTC at epicenter Location 7.699°N 80.914°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-12T05:36:32.040+00:00`, fetched `2026-10-12T05:41:54+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-12 05:15:50 UTC 2026-10-12 05:15:50 UTC at epicenter Location 25.192°S 179.981°E Depth 470.83 km (292.56 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **実践！ SRE × AI - ABEMA における AIOps -** — Score 9, observation — [Quelle](https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

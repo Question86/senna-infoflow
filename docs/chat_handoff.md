@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T11:40:27+00:00_
+_Generated: 2026-10-12T11:51:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `49`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-12T11:40:27+00:00_
 - url: https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/
 - summary: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retai…
 
-### 7. M 4.8 - 56 km E of Yairipok, India
+### 7. M 5.7 - Mid-Indian Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-12T11:48:07.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh
+- summary: Time 2026-10-12 11:28:43 UTC 2026-10-12 11:28:43 UTC at epicenter Location 9.007°S 67.564°E Depth 10.00 km (6.21 mi)
+
+### 8. M 4.8 - 56 km E of Yairipok, India
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-12T01:45:49.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr
 - summary: Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)
-
-### 8. Vietnam’s shoppers are asking AI first, but Google still gets the last word
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-12T06:25:47+00:00`
-- url: https://e27.co/vietnams-shoppers-are-asking-ai-first-but-google-still-gets-the-last-word-20261012/
-- summary: Before a Vietnamese shopper adds anything to a cart these days, there is a good chance a chatbot has been consulted. As many as 62 per cent of Vietnamese buyers use AI, including generative AI, to research purchases before they buy, according to a new survey…
 
 END OF DOCUMENT
