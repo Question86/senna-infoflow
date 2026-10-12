@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T11:51:49+00:00_
+_Generated: 2026-10-12T12:00:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `49`
+- findings: `53`
 
 ## Top Signals
 
-### 1. [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
+### 1. [NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-12T11:54:11+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871
+- summary: Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+
+### 2. [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T11:19:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Foreman ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.
 
-### 2. [NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen
+### 3. [NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T10:59:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder beliebige Dateien auf dem Host zu schreiben oder zu überschreiben, was möglicherweise…
 
-### 3. [NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service
+### 4. [NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T10:54:12+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. [NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-12T10:49:11+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854
-- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen.
 
 ### 5. Your deeptech company does not have one capital problem
 - source: e27 Asia Startup and Tech Feed
