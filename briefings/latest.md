@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T04:34:09+00:00_
+_Generiert: 2026-10-12T04:58:06+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 53 km S of Kushiro, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+13 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 53 km S of Kushiro, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-10-12T04:34:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).
+- **USGS earthquake M5.5 - 123 km W of Neiafu, Tonga** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl)
+  - Quelle: USGS
+  - Zeit: `2026-10-12T04:38:09+00:00`
+  - Kurz: M5.5 - 123 km W of Neiafu, Tonga. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -118,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Malaysia has put a number on its startup ambitions: MYR450 million (US$110.4 million). That is how much the National Fund of Funds Jelawang Capital and Dana Perintis, the startup vehicle of the Retirement Fund (KWAP), will invest in developing startups, Prime Minister Anwar Ibrahim said in his Budget 2027 speech to parliament on Friday. “Startups […] The post Malaysia’s Budget 2027 hands startups US$110.4M but the b…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.5 - 123 km W of Neiafu, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-12T04:53:41.040+00:00`, fetched `2026-10-12T04:57:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-12 04:38:09 UTC 2026-10-12 04:38:09 UTC at epicenter Location 18.528°S 175.144°W Depth 164.81 km (102.41 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita** — Score 8, observation — [Quelle](https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-10T18:04:33+00:00`, fetched `2026-10-12T01:18:27+00:00`
