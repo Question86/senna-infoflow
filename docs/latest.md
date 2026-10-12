@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T09:42:08+00:00_
+_Generiert: 2026-10-12T10:02:07+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+30 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 

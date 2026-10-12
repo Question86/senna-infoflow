@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T09:42:08+00:00",
+  "generated_at": "2026-10-12T10:02:07+00:00",
   "topics": {
     "security": [
       {
@@ -154,6 +154,13 @@
         "published_at": "2026-10-12T04:53:41.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl"
+      },
+      {
+        "title": "スロップ表現100連発",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-12T03:57:30+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/todesking/articles/5bc43f449ecdf6"
       },
       {
         "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
