@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-12T16:54:02Z",
+  "generated_at": "2026-10-12T17:03:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 22,
-      "strong": 12,
-      "watch": 6
+      "strong": 13,
+      "watch": 5
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 30,
-      "watch": 6
+      "strong": 31,
+      "watch": 5
     }
   },
   "top_dynamics": [
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:49:11+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -267,7 +267,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -291,7 +291,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -317,7 +317,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:49:11+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -474,7 +474,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -500,7 +500,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -526,7 +526,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3836",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:34:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -578,7 +578,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:39:45+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -604,7 +604,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-016/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-12T14:57:02+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -655,7 +655,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -680,7 +680,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -759,7 +759,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 115.62,
+      "age_days": 115.63,
       "topics": [
         "ai"
       ],
@@ -788,7 +788,7 @@
       "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-12T06:28:00.000+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -807,6 +807,32 @@
         "security high-signal: angriffe"
       ],
       "summary": "Die CISA warnt vor beobachteten Angriffen unter anderem auf Apache Struts, BIND und ProFTPD. Die Lücken sind teils sehr alt."
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2024-04-25T00:00:00+00:00",
+      "age_days": 900.71,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active",
+        "security high-signal: active",
+        "aging penalty -8.0 for 900.7d old signal"
+      ],
+      "summary": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées. La vulnérabilité..."
     },
     {
       "title": "M 4.6 - 100 km SSW of Kencong, Indonesia",
@@ -838,7 +864,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T04:07:59.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -863,7 +889,7 @@
       "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:00:50+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "macro"
       ],
@@ -939,7 +965,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T11:48:07.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -1008,31 +1034,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-12 07:16:06 UTC 2026-10-12 07:16:06 UTC at epicenter Location 7.699°N 80.914°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T05:36:32.040+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10, 9.9"
-      ],
-      "summary": "Time 2026-10-12 05:15:50 UTC 2026-10-12 05:15:50 UTC at epicenter Location 25.192°S 179.981°E Depth 470.83 km (292.56 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
