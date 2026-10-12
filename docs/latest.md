@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T08:00:50+00:00_
+_Generiert: 2026-10-12T08:44:05+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+25 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -178,7 +178,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
