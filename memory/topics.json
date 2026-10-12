@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T11:08:29+00:00",
+  "generated_at": "2026-10-12T11:27:37+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:19:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868"
+      },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -40,42 +47,42 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824"
       },
       {
-        "title": "[NEU] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:59:11+00:00",
+        "published_at": "2026-10-12T11:19:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869"
       },
       {
-        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] ImageMagick: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
+        "published_at": "2026-10-12T11:14:12+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867"
       },
       {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "title": "[NEU] [niedrig] mutt: Schwachstelle ermöglicht Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
+        "published_at": "2026-10-12T11:14:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3866"
       },
       {
-        "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] LiteLLM: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:11+00:00",
+        "published_at": "2026-10-12T11:14:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856"
-      },
-      {
-        "title": "[UPDATE] [mittel] libxml2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:44:15+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3195"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:19:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868"
+      },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -105,46 +112,39 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853"
       },
       {
-        "title": "[NEU] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:59:11+00:00",
+        "published_at": "2026-10-12T11:19:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869"
       },
       {
-        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] ImageMagick: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
+        "published_at": "2026-10-12T11:14:12+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867"
       },
       {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "title": "[NEU] [niedrig] mutt: Schwachstelle ermöglicht Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
+        "published_at": "2026-10-12T11:14:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3866"
       },
       {
-        "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] LiteLLM: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:11+00:00",
+        "published_at": "2026-10-12T11:14:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864"
       },
       {
-        "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-12T01:00:26+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/"
-      },
-      {
-        "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-12T04:17:27+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
+        "title": "[NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:14:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865"
       }
     ],
     "ai": [
@@ -161,6 +161,27 @@
         "published_at": "2026-10-12T04:00:42+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/"
+      },
+      {
+        "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:19:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869"
+      },
+      {
+        "title": "[NEU] [mittel] LiteLLM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:14:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864"
+      },
+      {
+        "title": "[NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:14:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865"
       },
       {
         "title": "Your deeptech company does not have one capital problem",
@@ -196,27 +217,6 @@
         "published_at": "2026-10-12T04:17:27+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
-      },
-      {
-        "title": "pytorch/pytorch",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/pytorch/pytorch"
-      },
-      {
-        "title": "実践！ SRE × AI - ABEMA における AIOps -",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-12T05:30:08+00:00",
-        "relevance_score": 9,
-        "url": "https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops"
-      },
-      {
-        "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-10T18:04:33+00:00",
-        "relevance_score": 8,
-        "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5"
       }
     ],
     "general": [
@@ -298,6 +298,13 @@
         "published_at": "2026-10-12T03:00:50+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/"
+      },
+      {
+        "title": "OpenCode から Pi へ切り替えた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-12T07:48:10+00:00",
+        "relevance_score": 5,
+        "url": "https://voluntas.ghost.io/migrate-opencode-to-pi/"
       }
     ],
     "github": [
