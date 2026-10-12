@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T01:57:29+00:00_
+_Generiert: 2026-10-12T02:27:42+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Why SEA’s retailers need to protect AI-powered customer experience with observability“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+5 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **Your deeptech company does not have one capital problem** — Score 12, observation — [Quelle](https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-12T02:00:33+00:00`, fetched `2026-10-12T02:27:12+00:00`
+  - Treffer: APAC Trend Radar, funding, Watchgraph:capitals_power_centers, Webentwicklung
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Open a deeptech company’s use-of-proceeds slide and one number often sits at the top: the size of the next round. Underneath, however, the money may be doing very different jobs—funding an unproven product, buying equipment, carrying inventory, financing receivables or supporting a new deployment. For fundraising, grouping them together is convenient. For deciding what kind […] The post Your deeptech company does no…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why SEA’s retailers need to protect AI-powered customer experience with observability** — Score 12, observation — [Quelle](https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-12T01:00:26+00:00`, fetched `2026-10-12T01:18:27+00:00`

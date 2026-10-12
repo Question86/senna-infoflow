@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T01:57:29+00:00",
+  "generated_at": "2026-10-12T02:27:42+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Your deeptech company does not have one capital problem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T02:00:33+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/"
+      },
       {
         "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
         "source": "e27 Asia Startup and Tech Feed",

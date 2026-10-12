@@ -1,5 +1,49 @@
 [
   {
+    "title": "Your deeptech company does not have one capital problem",
+    "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-12T02:00:33+00:00",
+    "fetched_at": "2026-10-12T02:27:12+00:00",
+    "summary": "Open a deeptech company’s use-of-proceeds slide and one number often sits at the top: the size of the next round. Underneath, however, the money may be doing very different jobs—funding an unproven product, buying equipment, carrying inventory, financing receivables or supporting a new deployment. For fundraising, grouping them together is convenient. For deciding what kind […] The post Your deeptech company does no…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "funding",
+      "Watchgraph:capitals_power_centers",
+      "Webentwicklung"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "72f6218049f3d48d6d59"
+  },
+  {
     "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
     "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/",
     "source": "e27 Asia Startup and Tech Feed",
