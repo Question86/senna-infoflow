@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T10:27:23+00:00",
+  "generated_at": "2026-10-12T10:43:47+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-12T07:40:07+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824"
+      },
+      {
+        "title": "[UPDATE] [mittel] MIT Kerberos: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:34:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3836"
       },
       {
         "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
@@ -112,18 +119,18 @@
         "url": "https://github.com/pytorch/pytorch"
       },
       {
+        "title": "実践！ SRE × AI - ABEMA における AIOps -",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-12T05:30:08+00:00",
+        "relevance_score": 9,
+        "url": "https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops"
+      },
+      {
         "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-10T18:04:33+00:00",
         "relevance_score": 8,
         "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5"
-      },
-      {
-        "title": "崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-12T07:26:15+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2757239"
       }
     ],
     "general": [
