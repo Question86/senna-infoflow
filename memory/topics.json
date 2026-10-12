@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T05:18:59+00:00",
+  "generated_at": "2026-10-12T05:42:31+00:00",
   "topics": {
     "ai": [
       {
@@ -70,11 +70,25 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa"
       },
       {
+        "title": "M 4.5 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-12T05:36:32.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz"
+      },
+      {
         "title": "M 5.5 - 123 km W of Neiafu, Tonga",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-12T04:53:41.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl"
+      },
+      {
+        "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-12T01:17:05+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html"
       },
       {
         "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
