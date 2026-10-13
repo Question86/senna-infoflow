@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T07:36:30+00:00",
+  "generated_at": "2026-10-13T07:56:25+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
       },
       {
+        "title": "Modernizing the regulatory and supervisory landscape",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape"
+      },
+      {
         "title": "What is work worth when thought is metered?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-13T04:00:45+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-13T02:24:37+00:00",
         "relevance_score": 5,
         "url": "https://levtech.jp/media/detail_940/"
-      },
-      {
-        "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-12T23:29:58+00:00",
-        "relevance_score": 5,
-        "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
       }
     ],
     "github": [
@@ -251,6 +251,13 @@
         "published_at": "2026-10-13T04:24:48+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
+      },
+      {
+        "title": "Modernizing the regulatory and supervisory landscape",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape"
       },
       {
         "title": "What is work worth when thought is metered?",

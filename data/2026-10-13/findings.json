@@ -340,6 +340,27 @@
     "id": "3b0de167ef5559016623"
   },
   {
+    "title": "Modernizing the regulatory and supervisory landscape",
+    "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-13T00:00:00+00:00",
+    "fetched_at": "2026-10-13T07:55:52+00:00",
+    "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.",
+    "matched_keywords": [
+      "banking",
+      "Macro/Policy"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6696b833d1ef802943b7"
+  },
+  {
     "title": "What is work worth when thought is metered?",
     "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -616,6 +637,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "577d2bf33628d7264c7b"
+  },
+  {
+    "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
+    "url": "https://www.nict.go.jp/press/2026/10/13-1.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-13T05:15:17+00:00",
+    "fetched_at": "2026-10-13T07:55:52+00:00",
+    "summary": "トップ>広報>プレスリリース>2026年>【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6c611f8a884adac05233"
   },
   {
     "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
