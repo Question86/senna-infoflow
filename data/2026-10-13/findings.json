@@ -1081,6 +1081,28 @@
     "id": "962ceacce2ef52ca158c"
   },
   {
+    "title": "Enterprise managed settings enforcement updates",
+    "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-13T15:20:10+00:00",
+    "fetched_at": "2026-10-13T16:49:06+00:00",
+    "summary": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The post Enterprise managed settings enforcement updates appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9cab76a2f8cf5bc1848e"
+  },
+  {
     "title": "MakeO secures US$10M to scale Zenyum’s dentist network across Asia",
     "url": "https://e27.co/makeo-secures-us10m-to-scale-zenyums-dentist-network-across-asia-20261013/",
     "source": "e27 Asia Startup and Tech Feed",

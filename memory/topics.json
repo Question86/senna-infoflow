@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T16:33:07+00:00",
+  "generated_at": "2026-10-13T16:49:34+00:00",
   "topics": {
     "ai": [
       {
@@ -198,6 +198,13 @@
         "url": "https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/"
       },
       {
+        "title": "Enterprise managed settings enforcement updates",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T15:20:10+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates"
+      },
+      {
         "title": "Client telemetry user attribution and configurable capture",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-10-12T22:38:00+00:00",
@@ -342,18 +349,18 @@
         "url": "https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future"
       },
       {
+        "title": "Enterprise managed settings enforcement updates",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T15:20:10+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates"
+      },
+      {
         "title": "Opening remarks - Cargox Solution Day",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
-      },
-      {
-        "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-13T09:40:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html"
       }
     ],
     "general": [
