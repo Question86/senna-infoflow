@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-13T08:09:24Z",
+  "generated_at": "2026-10-13T08:40:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T07:35:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -92,7 +92,7 @@
       "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T06:00:12+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -119,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T06:34:11+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -141,11 +141,61 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen."
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T08:29:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T08:29:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.26,
+      "age_days": 116.28,
       "topics": [
         "ai"
       ],
@@ -174,7 +224,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T07:09:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -199,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -224,7 +274,7 @@
       "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -252,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T06:10:42.886+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -271,60 +321,6 @@
         "high terms: 10, 9.8"
       ],
       "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
-      "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 16th International Conference on Financial Crime and Counter Terrorism Financing (IFCTF) 2026, Kuala Lumpur, 6 October 2026."
-    },
-    {
-      "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
-      "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Opening remarks by Mr Álvaro Santos Pereira, Governor of the Banco de Portugal, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026."
     }
   ],
   "read_order": [
@@ -336,8 +332,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
