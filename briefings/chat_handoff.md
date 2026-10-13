@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T02:15:43+00:00_
+_Generated: 2026-10-13T02:50:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `9`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-13T02:15:43+00:00_
 - url: https://www.digital.go.jp/speech/minister-261013-01
 - summary: 古川大臣記者会見（令和8年10月13日）動画を掲載しました
 
-### 6. Announcing AWS Lambda Web Functions | Amazon Web Services
+### 6. フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-12T23:29:58+00:00`
-- url: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
-- summary: The session catalog is live. Explore what's waiting for you
+- published: `2026-10-13T01:57:29+00:00`
+- url: https://www.itmedia.co.jp/news/article/2610/13/2000002201/
+- summary: フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U...
 
 END OF DOCUMENT
