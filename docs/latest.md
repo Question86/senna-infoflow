@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T04:13:23+00:00_
+_Generiert: 2026-10-13T04:38:22+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+20 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 119 km SSW of Gambiran Satu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.1 - 119 km SSW of Gambiran Satu, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-13T04:15:46.040+00:00`, fetched `2026-10-13T04:37:53+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN38664315/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-13T12:00:00+09:00`, fetched `2026-10-13T03:05:44+00:00`
@@ -78,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)
   - Kurz: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the slide. So we went looking for startups that do more […] The post Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What is work worth when thought is metered?** — Score 9, observation — [Quelle](https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/)
+- **Could a hot inflation print send Bitcoin and Ethereum into freefall?** — Score 10, observation — [Quelle](https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-13T04:00:45+00:00`, fetched `2026-10-13T04:12:44+00:00`
+  - Zeit: published `2026-10-13T04:24:48+00:00`, fetched `2026-10-13T04:37:53+00:00`
   - Treffer: APAC Trend Radar, Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spent my career applying technology to improve productivity and offset inflationary costs, and […] The post What is work worth when thought is metered? appeared fir…
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The cryptocurrency market is going through a difficult stretch. In my view, this selloff is not a story about broken technology or failed projects. It is a story about how tightly digital assets now track the mood of traditional finance. Bitcoin has fallen 2.49 per cent to US$81,755.72 in 24 hours. That move underperforms a […] The post Could a hot inflation print send Bitcoin and Ethereum into freefall? appeared fi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 9 km SSE of La Mesa, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
