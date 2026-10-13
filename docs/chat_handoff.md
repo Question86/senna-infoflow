@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T16:58:45+00:00_
+_Generated: 2026-10-13T17:12:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `81`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-13T16:58:45+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)
 
-### 7. Anonymous organization-level registries for Dependabot
+### 7. Secret scanning blocks Anthropic keys by default, adds Salesforce
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-10-13T16:12:36+00:00`
+- url: https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce
+- summary: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by…
+
+### 8. Anonymous organization-level registries for Dependabot
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-10-12T14:04:16+00:00`
 - url: https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot
 - summary: You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for…
-
-### 8. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-10-13T03:56:11+00:00`
-- url: https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/
-- summary: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offe…
 
 END OF DOCUMENT

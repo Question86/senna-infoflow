@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T16:58:45+00:00_
+_Generiert: 2026-10-13T17:12:25+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+81 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -232,6 +232,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Secret scanning blocks Anthropic keys by default, adds Salesforce** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-13T16:12:36+00:00`, fetched `2026-10-13T17:11:54+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Anonymous organization-level registries for Dependabot** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-12T14:04:16+00:00`, fetched `2026-10-13T00:34:51+00:00`
@@ -277,14 +286,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.3 - 122 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s)
+- **M 5.1 - 119 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-13T14:54:13.040+00:00`, fetched `2026-10-13T14:54:27+00:00`
+  - Zeit: published `2026-10-13T16:58:34.040+00:00`, fetched `2026-10-13T17:11:54+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-13 14:36:10 UTC 2026-10-13 14:36:10 UTC at epicenter Location 5.445°S 152.126°E Depth 18.52 km (11.51 mi)
+  - Kurz: Time 2026-10-13 16:28:14 UTC 2026-10-13 16:28:14 UTC at epicenter Location 5.416°S 152.114°E Depth 28.40 km (17.65 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Investing through uncertainty - financing Europe's future** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future)
   - Quelle: BIS Central Bankers Speeches / `rss`
@@ -339,15 +348,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Zwei Schwachstellen in Apache OpenNLP bedrohen die Data-Mining-Software IBM SPSS Modeler.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **24 Sicherheitslücken in GitLab geschlossen** — Score 7, observation — [Quelle](https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-13T09:03:00.000+00:00`, fetched `2026-10-13T09:13:40+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer können an mehreren Schwachstellen in GitLab Community Edition und Enterprise Edition ansetzen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
