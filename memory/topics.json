@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T08:07:32+00:00",
+  "generated_at": "2026-10-13T08:38:46+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/"
       },
       {
+        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
+      },
+      {
         "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program"
-      },
-      {
-        "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-13T02:55:22+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/"
       }
     ],
     "github": [
@@ -113,6 +113,20 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T08:29:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T08:29:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863"
+      },
       {
         "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
         "source": "e27 Asia Startup and Tech Feed",
@@ -242,6 +256,13 @@
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
+      },
+      {
+        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
       }
     ],
     "economy": [
@@ -281,6 +302,13 @@
         "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/"
       },
       {
+        "title": "The signaling value of the summary of economic projections",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections"
+      },
+      {
         "title": "Opening remarks - Cargox Solution Day",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-13T00:00:00+00:00",
@@ -295,25 +323,18 @@
         "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration"
       },
       {
+        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
+      },
+      {
         "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program"
-      },
-      {
-        "title": "Leveraging the Mauritius IFC as a payment system hub",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub"
-      },
-      {
-        "title": "Cross-border payments as a necessity for Africa's resilience and economic transformation",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation"
       }
     ]
   }

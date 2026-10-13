@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:07:32+00:00",
-  "run_id": "2026-10-13T08:07:32+00:00",
+  "generated_at": "2026-10-13T08:38:46+00:00",
+  "run_id": "2026-10-13T08:38:46+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 4,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 9,
-    "observe": 30,
+    "medium": 11,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "34a892f293e65e5dbdee"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T08:29:12+00:00",
+        "fetched_at": "2026-10-13T08:38:13+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "145d64d0e55c6c7ecc9e"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T08:29:11+00:00",
+        "fetched_at": "2026-10-13T08:38:13+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e14f622ea254cb165bb"
       },
       {
         "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
@@ -493,6 +541,26 @@
         "id": "2f7b785ed49c1cd0ef43"
       },
       {
+        "title": "The signaling value of the summary of economic projections",
+        "url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T08:38:13+00:00",
+        "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "81bea912039a9010ca77"
+      },
+      {
         "title": "Opening remarks - Cargox Solution Day",
         "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
         "source": "BIS Central Bankers Speeches",
@@ -571,6 +639,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5348015838cfacae181a"
+      },
+      {
+        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T08:38:13+00:00",
+        "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the MNI Connect Webcast, Frankfurt am Main, 6 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "db6c0ce66239777096cd"
       },
       {
         "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
@@ -949,6 +1037,54 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "34a892f293e65e5dbdee"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T08:29:12+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "145d64d0e55c6c7ecc9e"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T08:29:11+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e14f622ea254cb165bb"
     },
     {
       "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
@@ -1366,6 +1502,26 @@
       "id": "2f7b785ed49c1cd0ef43"
     },
     {
+      "title": "The signaling value of the summary of economic projections",
+      "url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81bea912039a9010ca77"
+    },
+    {
       "title": "Opening remarks - Cargox Solution Day",
       "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
       "source": "BIS Central Bankers Speeches",
@@ -1444,6 +1600,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5348015838cfacae181a"
+    },
+    {
+      "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+      "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the MNI Connect Webcast, Frankfurt am Main, 6 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db6c0ce66239777096cd"
     },
     {
       "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
@@ -1777,46 +1953,92 @@
   ],
   "new_findings": [
     {
-      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
-      "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
-      "source": "BIS Press Releases",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-13T08:07:01+00:00",
-      "summary": "The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as largely compliant. This publication concludes the first round of multi-jurisdictional assessments of the leverage ratio.",
+      "published_at": "2026-10-13T08:29:12+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Basel",
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); Basel (+2.5); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph region japan: Japan (+2.0); watchgraph region australia: Australia (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "34a892f293e65e5dbdee"
+      "id": "145d64d0e55c6c7ecc9e"
     },
     {
-      "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
-      "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
-      "source": "BIS Central Bankers Speeches",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-13T08:07:01+00:00",
-      "summary": "Opening remarks by Mr Álvaro Santos Pereira, Governor of the Banco de Portugal, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.",
+      "published_at": "2026-10-13T08:29:11+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d1fd5c5ce96fee9547e8"
+      "id": "2e14f622ea254cb165bb"
+    },
+    {
+      "title": "The signaling value of the summary of economic projections",
+      "url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81bea912039a9010ca77"
+    },
+    {
+      "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+      "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T08:38:13+00:00",
+      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the MNI Connect Webcast, Frankfurt am Main, 6 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db6c0ce66239777096cd"
     }
   ],
   "source_errors": [],
