@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T10:52:12+00:00_
+_Generiert: 2026-10-13T11:00:37+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+57 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -267,3 +267,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
