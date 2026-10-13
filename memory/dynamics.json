@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T03:16:59Z",
+  "generated_at": "2026-10-13T03:49:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 18,
     "bands": {
       "strong": 3,
-      "watch": 2,
-      "quiet": 11
+      "watch": 3,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 2,
-      "quiet": 11
+      "watch": 3,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.05,
+      "age_days": 116.08,
       "topics": [
         "ai"
       ],
@@ -95,11 +95,35 @@
       "summary": ""
     },
     {
+      "title": "Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-12T22:38:00+00:00",
+      "age_days": 0.22,
+      "topics": [],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The G…"
+    },
+    {
       "title": "Anonymous organization-level registries for Dependabot",
       "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T14:04:16+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -123,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T03:02:12.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -148,7 +172,7 @@
       "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:00:33+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -174,7 +198,7 @@
       "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T02:00:56+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -200,7 +224,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261013-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-13T00:42:47+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -224,7 +248,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T01:57:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -248,7 +272,7 @@
       "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T22:03:51+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -272,7 +296,7 @@
       "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T11:03:36+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -296,7 +320,7 @@
       "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T01:00:27+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -319,11 +343,35 @@
       "summary": "Generative AI has made video creation remarkably fast. A scene that once required a camera crew, actors, locations and hours of post-production can now begin with a prompt and an idea. But after working with AI-generated cinematic videos, I have learned that generating a video quickly and producing a video that is act…"
     },
     {
+      "title": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2147289.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-12T23:24:18+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 115.02,
+      "age_days": 115.04,
       "topics": [
         "general"
       ],
@@ -348,7 +396,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 115.02,
+      "age_days": 115.04,
       "topics": [
         "general"
       ],
@@ -373,7 +421,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 115.02,
+      "age_days": 115.04,
       "topics": [
         "ai"
       ],
@@ -400,7 +448,7 @@
       "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T23:29:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
