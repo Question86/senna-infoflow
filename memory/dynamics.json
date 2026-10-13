@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T01:07:45Z",
+  "generated_at": "2026-10-13T01:49:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 9,
     "bands": {
       "strong": 2,
       "watch": 1,
-      "quiet": 3
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 3
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 115.96,
+      "age_days": 115.99,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T14:04:16+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -95,11 +95,86 @@
       "summary": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog ."
     },
     {
+      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261013-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-13T00:42:47+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "古川大臣記者会見（令和8年10月13日）動画を掲載しました"
+    },
+    {
+      "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
+      "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-12T22:03:51+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "現代の工作機械は非常に精密でほとんど誤差がない部品を作ることができますが、初めから現代のような精度があったわけではありません。18世紀中頃～19世紀の産業革命の時代に、どのようにして精度の高い「ねじ」を生み出したのかについて、エンジニアで起業家のゲイリー・リンスコット氏が解説しています。 How Machines..."
+    },
+    {
+      "title": "AI can generate a video in minutes. Making it usable is the hard part",
+      "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T01:00:27+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Generative AI has made video creation remarkably fast. A scene that once required a camera crew, actors, locations and hours of post-production can now begin with a prompt and an idea. But after working with AI-generated cinematic videos, I have learned that generating a video quickly and producing a video that is act…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 114.93,
+      "age_days": 114.96,
       "topics": [
         "general"
       ],
@@ -115,7 +190,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 114.9d old signal"
+        "aging penalty -16.0 for 115.0d old signal"
       ],
       "summary": ""
     },
@@ -124,7 +199,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 114.93,
+      "age_days": 114.96,
       "topics": [
         "general"
       ],
@@ -140,7 +215,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 114.9d old signal"
+        "aging penalty -16.0 for 115.0d old signal"
       ],
       "summary": ""
     },
@@ -149,7 +224,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 114.93,
+      "age_days": 114.96,
       "topics": [
         "ai"
       ],
@@ -166,7 +241,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 114.9d old signal",
+        "aging penalty -16.0 for 115.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
