@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T18:59:11+00:00_
+_Generated: 2026-10-13T19:12:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `89`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-13T18:59:11+00:00_
 - url: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
 - summary: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada…
 
-### 5. M 6.9 - central Mid-Atlantic Ridge
+### 5. M 6.0 - 126 km S of Kokopo, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-13T19:11:15.009+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c
+- summary: PAGER - GREEN ShakeMap - VI Time 2026-10-13 18:45:03 UTC 2026-10-13 18:45:03 UTC at epicenter Location 5.483°S 152.136°E Depth 20.84 km (12.95 mi)
+
+### 6. M 6.9 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-13T12:46:00.245+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.402°S 19.415°W Depth 10.00 km (6.21 mi)
 
-### 6. M 6.7 - central Mid-Atlantic Ridge
+### 7. M 6.7 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-13T06:10:42.886+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)
 
-### 7. Philip R. Lane: The AI opportunity for Europe
+### 8. Philip R. Lane: The AI opportunity for Europe
 - source: ECB Press Releases Speeches Interviews
 - score: `12`
 - published: `2026-10-13T18:30:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html
 - summary: Philip R. Lane: The AI opportunity for Europe
-
-### 8. Security-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure
-- source: heise Security Alerts
-- score: `12`
-- published: `2026-10-13T17:38:00.000+00:00`
-- url: https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html
-- summary: Ivanti warnt vor einer Sicherheitslücke und bietet seit Anfang Oktober Updates an. Netzwerkadmins sollten diese schnell aufspielen, Angriffe laufen.
 
 END OF DOCUMENT

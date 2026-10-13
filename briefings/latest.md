@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T18:59:11+00:00_
+_Generiert: 2026-10-13T19:12:33+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+89 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,6 +49,10 @@ _Generiert: 2026-10-13T18:59:11+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nepal
+- **USGS earthquake M6.0 - 126 km S of Kokopo, Papua New Guinea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c)
+  - Quelle: USGS
+  - Zeit: `2026-10-13T18:45:03+00:00`
+  - Kurz: M6.0 - 126 km S of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M6.7 - central Mid-Atlantic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5)
   - Quelle: USGS
   - Zeit: `2026-10-13T05:44:46+00:00`
@@ -65,10 +69,6 @@ _Generiert: 2026-10-13T18:59:11+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570970)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.
 
 ## Wirtschaft global
 
@@ -214,6 +214,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.0 - 126 km S of Kokopo, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-13T19:11:15.009+00:00`, fetched `2026-10-13T19:11:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-10-13 18:45:03 UTC 2026-10-13 18:45:03 UTC at epicenter Location 5.483°S 152.136°E Depth 20.84 km (12.95 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.9 - central Mid-Atlantic Ridge** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-13T12:46:00.245+00:00`, fetched `2026-10-13T12:59:33+00:00`
@@ -268,6 +277,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Gemini 4 Argon in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-13T18:39:56+00:00`, fetched `2026-10-13T19:11:59+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Gemini 4 Argon, Google’s newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon… The post Gemini 4 Argon in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Higgsfield takes AI video from 1 minute to over 10** — Score 11, observation — [Quelle](https://openai.com/index/higgsfield-longer-videos-voice)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-13T12:00:00+00:00`, fetched `2026-10-13T19:11:59+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery** — Score 11, observation — [Quelle](https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-13T03:56:11+00:00`, fetched `2026-10-13T03:56:40+00:00`
@@ -304,15 +331,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.1 - 119 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-13T16:58:34.040+00:00`, fetched `2026-10-13T17:11:54+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-13 16:28:14 UTC 2026-10-13 16:28:14 UTC at epicenter Location 5.416°S 152.114°E Depth 28.40 km (17.65 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Investing through uncertainty - financing Europe's future** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T12:59:33+00:00`
@@ -330,24 +348,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Enterprise managed settings enforcement updates** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-13T15:20:10+00:00`, fetched `2026-10-13T16:49:06+00:00`
-  - Treffer: APAC Trend Radar, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The post Enterprise managed settings enforcement updates appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The signaling value of the summary of economic projections** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T08:38:13+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
