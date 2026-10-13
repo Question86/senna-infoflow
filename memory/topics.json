@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T09:14:15+00:00",
+  "generated_at": "2026-10-13T09:36:49+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/"
       },
       {
+        "title": "MakeO secures US$10M to scale Zenyum’s dentist network across Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T09:22:51+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/makeo-secures-us10m-to-scale-zenyums-dentist-network-across-asia-20261013/"
+      },
+      {
         "title": "AI can generate a video in minutes. Making it usable is the hard part",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-13T01:00:27+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 7,
         "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
-      },
-      {
-        "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program"
       }
     ],
     "github": [
@@ -140,6 +140,20 @@
         "published_at": "2026-10-13T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN38664315/"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM i: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T09:22:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T09:22:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837"
       },
       {
         "title": "Theliaにおける複数の脆弱性",
