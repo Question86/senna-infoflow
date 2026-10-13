@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T01:23:04+00:00_
+_Generated: 2026-10-13T01:56:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-10-13T01:23:04+00:00_
 - url: https://www.digital.go.jp/speech/minister-261013-01
 - summary: 古川大臣記者会見（令和8年10月13日）動画を掲載しました
 
-### 5. 産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？
+### 5. Announcing AWS Lambda Web Functions | Amazon Web Services
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-12T22:03:51+00:00`
-- url: https://gigazine.net/news/20261013-how-machines-learned-precision/
-- summary: 現代の工作機械は非常に精密でほとんど誤差がない部品を作ることができますが、初めから現代のような精度があったわけではありません。18世紀中頃～19世紀の産業革命の時代に、どのようにして精度の高い「ねじ」を生み出したのかについて、エンジニアで起業家のゲイリー・リンスコット氏が解説しています。 How Machines...
+- published: `2026-10-12T23:29:58+00:00`
+- url: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
+- summary: The session catalog is live. Explore what's waiting for you
 
 END OF DOCUMENT
