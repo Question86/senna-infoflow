@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T07:56:25+00:00_
+_Generiert: 2026-10-13T08:07:32+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+39 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Local-first AI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Ollama and OpenAI-compatible APIs , it gives you a powerful, provider-agnostic interface for both local and cloud-based models. Passionate about open-source AI? Jo…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework** — Score 18, observation — [Quelle](https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T08:07:01+00:00`
+  - Treffer: APAC Trend Radar, Basel, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); Basel (+2.5); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph region japan: Japan (+2.0); watchgraph region australia: Australia (+2.0)
+  - Kurz: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as largely compliant. This publication concludes the first round of multi-jurisdictional assessments of the leverage ratio.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”** — Score 16, observation — [Quelle](https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

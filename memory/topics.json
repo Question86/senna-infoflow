@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T07:56:25+00:00",
+  "generated_at": "2026-10-13T08:07:32+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/"
       },
       {
+        "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program"
+      },
+      {
         "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-13T02:55:22+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/"
-      },
-      {
-        "title": "「AIには、もう勝てない」。それでも日本語プログラミング言語「なでしこ」を作り続ける理由 - レバテックLAB",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-13T02:24:37+00:00",
-        "relevance_score": 5,
-        "url": "https://levtech.jp/media/detail_940/"
       }
     ],
     "github": [
@@ -82,6 +82,13 @@
         "published_at": null,
         "relevance_score": 20,
         "url": "https://github.com/open-webui/open-webui"
+      },
+      {
+        "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+        "source": "BIS Press Releases",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom"
       },
       {
         "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
@@ -286,6 +293,13 @@
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration"
+      },
+      {
+        "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program"
       },
       {
         "title": "Leveraging the Mauritius IFC as a payment system hub",
