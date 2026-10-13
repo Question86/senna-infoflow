@@ -1,5 +1,28 @@
 [
   {
+    "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
+    "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-13T06:00:12+00:00",
+    "fetched_at": "2026-10-13T06:36:03+00:00",
+    "summary": "Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in the region […] The post Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle” app…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Security",
+      "Southeast Asia"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0620b8453d7ac98b2294"
+  },
+  {
     "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -81,6 +104,29 @@
     "id": "be451c168d343b482405"
   },
   {
+    "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T06:34:11+00:00",
+    "fetched_at": "2026-10-13T06:36:03+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0e5afd50dafe28f438d6"
+  },
+  {
     "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
     "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -123,6 +169,44 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9c2a228cb9c4fa22ea78"
+  },
+  {
+    "title": "M 6.7 - central Mid-Atlantic Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-13T06:10:42.886+00:00",
+    "fetched_at": "2026-10-13T06:36:03+00:00",
+    "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2cea53e89b24169325b4"
   },
   {
     "title": "Anonymous organization-level registries for Dependabot",
@@ -328,6 +412,66 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5348015838cfacae181a"
+  },
+  {
+    "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+    "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-13T06:00:00+00:00",
+    "fetched_at": "2026-10-13T06:36:03+00:00",
+    "summary": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d03cf920426b5574e2ac"
+  },
+  {
+    "title": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+    "url": "https://www.digital.go.jp/policies/mynumber_logo",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-13T06:00:00+00:00",
+    "fetched_at": "2026-10-13T06:36:03+00:00",
+    "summary": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d544cab5637bf8c46a1"
+  },
+  {
+    "title": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+    "url": "https://www.digital.go.jp/councils/social-promotion-executive",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-13T06:00:00+00:00",
+    "fetched_at": "2026-10-13T06:36:03+00:00",
+    "summary": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "05f8a5b223e809ce3a36"
   },
   {
     "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",

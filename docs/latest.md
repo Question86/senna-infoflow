@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T05:59:54+00:00_
+_Generiert: 2026-10-13T06:36:30+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 119 km SSW of Gambiran Satu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+29 neue relevante Treffer. Stärkstes Signal: „Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”** — Score 16, observation — [Quelle](https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-13T06:00:12+00:00`, fetched `2026-10-13T06:36:03+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Security, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in the region […] The post Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle” app…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 119 km SSW of Gambiran Satu, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-13T04:15:46.040+00:00`, fetched `2026-10-13T04:37:53+00:00`
@@ -39,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Strapi: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-13T06:34:11+00:00`, fetched `2026-10-13T06:36:03+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it** — Score 14, observation — [Quelle](https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-13T03:00:33+00:00`, fetched `2026-10-13T03:05:44+00:00`
@@ -60,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.7 - central Mid-Atlantic Ridge** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-13T06:10:42.886+00:00`, fetched `2026-10-13T06:36:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Anonymous organization-level registries for Dependabot** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-12T14:04:16+00:00`, fetched `2026-10-13T00:34:51+00:00`
@@ -105,14 +132,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-13 02:48:02 UTC 2026-10-13 02:48:02 UTC at epicenter Location 7.582°N 80.589°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **古川大臣記者会見（令和8年10月13日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261013-01)
+- **預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/numbering-on-accounts/designate)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-13T00:42:47+00:00`, fetched `2026-10-13T01:22:35+00:00`
+  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:36:03+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年10月13日）動画を掲載しました
+  - Kurz: 預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber_logo)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:36:03+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「デジタル社会推進会議幹事会の開催について」の資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-promotion-executive)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:36:03+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 「デジタル社会推進会議幹事会の開催について」の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/13/2000002204/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -153,8 +198,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
