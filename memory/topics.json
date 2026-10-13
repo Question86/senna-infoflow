@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T14:25:41+00:00",
+  "generated_at": "2026-10-13T14:40:49+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
       },
       {
+        "title": "Improved detection for withdrawn Dependabot alerts",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T14:03:57+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts"
+      },
+      {
         "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T11:59:44+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-13T12:00:14+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612"
-      },
-      {
-        "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN38664315/"
       }
     ],
     "github": [
@@ -161,6 +161,13 @@
         "published_at": null,
         "relevance_score": 20,
         "url": "https://github.com/open-webui/open-webui"
+      },
+      {
+        "title": "Improved detection for withdrawn Dependabot alerts",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T14:03:57+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts"
       },
       {
         "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
