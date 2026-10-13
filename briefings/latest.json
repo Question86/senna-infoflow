@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T11:56:05+00:00",
-  "run_id": "2026-10-13T11:56:05+00:00",
+  "generated_at": "2026-10-13T12:02:55+00:00",
+  "run_id": "2026-10-13T12:02:55+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 65
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 4,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
-    "medium": 18,
+    "medium": 22,
     "observe": 43,
     "source_errors": 0
   },
@@ -74,6 +74,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "34a892f293e65e5dbdee"
+      },
+      {
+        "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T11:59:44+00:00",
+        "fetched_at": "2026-10-13T12:02:21+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection- und Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7212e2f6d06e91ff0270"
       },
       {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
@@ -265,6 +289,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "749f7897ca2a58be726a"
+      },
+      {
+        "title": "[NEU] [mittel] Ollama: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T11:59:45+00:00",
+        "fetched_at": "2026-10-13T12:02:21+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0df0e8c6c96e5483af09"
+      },
+      {
+        "title": "[NEU] [hoch] Kong Gateway: Schwachstelle ermöglicht SQL-Injection",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T11:59:44+00:00",
+        "fetched_at": "2026-10-13T12:02:21+00:00",
+        "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Kong Gateway ausnutzen, um eine SQL-Injection durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "011812949d4d7e4750e4"
+      },
+      {
+        "title": "[NEU] [hoch] SuiteCRM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T11:59:43+00:00",
+        "fetched_at": "2026-10-13T12:02:21+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in SuiteCRM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1fa25b66bc077ad22bc1"
       },
       {
         "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
@@ -1459,6 +1552,30 @@
       "id": "34a892f293e65e5dbdee"
     },
     {
+      "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:59:44+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection- und Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7212e2f6d06e91ff0270"
+    },
+    {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1648,6 +1765,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "749f7897ca2a58be726a"
+    },
+    {
+      "title": "[NEU] [mittel] Ollama: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:59:45+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0df0e8c6c96e5483af09"
+    },
+    {
+      "title": "[NEU] [hoch] Kong Gateway: Schwachstelle ermöglicht SQL-Injection",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:59:44+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Kong Gateway ausnutzen, um eine SQL-Injection durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "011812949d4d7e4750e4"
+    },
+    {
+      "title": "[NEU] [hoch] SuiteCRM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:59:43+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SuiteCRM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1fa25b66bc077ad22bc1"
     },
     {
       "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
@@ -2793,36 +2979,37 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521",
+      "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T11:54:27+00:00",
-      "fetched_at": "2026-10-13T11:55:31+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder Informationen offenzulegen.",
+      "published_at": "2026-10-13T11:59:44+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection- und Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Patch",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a996ed3baa825a507918"
+      "id": "7212e2f6d06e91ff0270"
     },
     {
-      "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819",
+      "title": "[NEU] [mittel] Ollama: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T11:54:21+00:00",
-      "fetched_at": "2026-10-13T11:55:31+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nagios Core und Nagios Enterprises Nagios XI ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+      "published_at": "2026-10-13T11:59:45+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2836,7 +3023,53 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2369769006fce100dcd6"
+      "id": "0df0e8c6c96e5483af09"
+    },
+    {
+      "title": "[NEU] [hoch] Kong Gateway: Schwachstelle ermöglicht SQL-Injection",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:59:44+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Kong Gateway ausnutzen, um eine SQL-Injection durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "011812949d4d7e4750e4"
+    },
+    {
+      "title": "[NEU] [hoch] SuiteCRM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:59:43+00:00",
+      "fetched_at": "2026-10-13T12:02:21+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SuiteCRM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1fa25b66bc077ad22bc1"
     }
   ],
   "source_errors": [],

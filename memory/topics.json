@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T11:56:05+00:00",
+  "generated_at": "2026-10-13T12:02:55+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:44+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888"
+      },
+      {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T10:12:18+00:00",
@@ -156,39 +163,97 @@
         "url": "https://jvn.jp/jp/JVN38664315/"
       },
       {
+        "title": "[NEU] [mittel] Ollama: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890"
+      },
+      {
+        "title": "[NEU] [hoch] Kong Gateway: Schwachstelle ermöglicht SQL-Injection",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:44+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889"
+      },
+      {
+        "title": "[NEU] [hoch] SuiteCRM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:43+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887"
+      },
+      {
         "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T11:54:27+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:44+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888"
       },
       {
-        "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Ollama: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:54:21+00:00",
+        "published_at": "2026-10-13T11:59:45+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890"
       },
       {
-        "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [hoch] Kong Gateway: Schwachstelle ermöglicht SQL-Injection",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T10:11:46+00:00",
+        "published_at": "2026-10-13T11:59:44+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889"
       },
       {
-        "title": "[UPDATE] [hoch] IBM i: Schwachstelle ermöglicht Cross-Site Scripting",
+        "title": "[NEU] [hoch] SuiteCRM: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T09:22:05+00:00",
+        "published_at": "2026-10-13T11:59:43+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887"
       },
       {
-        "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T09:22:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837"
+        "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T03:56:11+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/"
+      },
+      {
+        "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T04:24:48+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
+      },
+      {
+        "title": "Opening remarks - Cargox Solution Day",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
+      },
+      {
+        "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-13T09:40:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html"
+      },
+      {
+        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
       }
     ],
     "general": [
@@ -261,43 +326,6 @@
         "published_at": "2026-10-13T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/mynumber_logo"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T03:56:11+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/"
-      },
-      {
-        "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T04:24:48+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
-      },
-      {
-        "title": "Opening remarks - Cargox Solution Day",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
-      },
-      {
-        "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-13T09:40:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html"
-      },
-      {
-        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
       }
     ],
     "economy": [

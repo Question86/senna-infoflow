@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T11:56:05+00:00_
+_Generated: 2026-10-13T12:02:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `65`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-13T11:56:05+00:00_
 - url: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
 - summary: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada…
 
-### 3. [UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung
+### 3. [NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-13T11:59:44+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888
+- summary: Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection- und Cross-Site-Scr…
+
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-13T10:12:18+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen.
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-13T08:29:12+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870
-- summary: Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen
 
 ### 5. M 6.7 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
