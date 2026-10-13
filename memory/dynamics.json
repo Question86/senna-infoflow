@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T02:18:04Z",
+  "generated_at": "2026-10-13T02:56:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 13,
     "bands": {
       "strong": 2,
       "watch": 1,
-      "quiet": 9
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 9
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.01,
+      "age_days": 116.04,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T14:04:16+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -99,7 +99,7 @@
       "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T02:00:56+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -125,7 +125,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261013-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-13T00:42:47+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -145,11 +145,35 @@
       "summary": "古川大臣記者会見（令和8年10月13日）動画を掲載しました"
     },
     {
+      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-13T01:57:29+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U..."
+    },
+    {
       "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
       "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T22:03:51+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -173,7 +197,7 @@
       "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T11:03:36+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -197,7 +221,7 @@
       "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T01:00:27+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -224,7 +248,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 114.98,
+      "age_days": 115.0,
       "topics": [
         "general"
       ],
@@ -249,7 +273,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 114.98,
+      "age_days": 115.0,
       "topics": [
         "general"
       ],
@@ -274,7 +298,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 114.98,
+      "age_days": 115.0,
       "topics": [
         "ai"
       ],
@@ -301,7 +325,7 @@
       "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T23:29:58+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
