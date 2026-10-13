@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:23:36+00:00",
+  "generated_at": "2026-10-13T19:33:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -27,6 +27,18 @@
         "published_at": "2026-10-13",
         "metrics": {
           "cve": "CVE-2026-104935"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-96951 Microsoft Windows",
+        "summary": "Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Microsoft Windows Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-13",
+        "metrics": {
+          "cve": "CVE-2026-96951"
         }
       },
       {
@@ -63,18 +75,6 @@
         "published_at": "2026-10-08",
         "metrics": {
           "cve": "CVE-2023-22894"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2021-3199 ONLYOFFICE Docs",
-        "summary": "Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-08",
-        "metrics": {
-          "cve": "CVE-2021-3199"
         }
       },
       {

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T19:23:33+00:00_
+_Generiert: 2026-10-13T19:33:00+00:00_
 
 ## Kurzlage
 
@@ -17,6 +17,10 @@ _Generiert: 2026-10-13T19:23:33+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-13`
   - Kurz: Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability
+- **CISA KEV: CVE-2026-96951 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-13`
+  - Kurz: Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Microsoft Windows Command Injection Vulnerability
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
@@ -29,10 +33,6 @@ _Generiert: 2026-10-13T19:23:33+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Strapi Cleartext Storage of Sensitive Information Vulnerability
-- **CISA KEV: CVE-2021-3199 ONLYOFFICE Docs** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
   - Quelle: GDACS
   - Zeit: ``
