@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T17:26:48+00:00_
+_Generated: 2026-10-13T17:48:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `81`
+- findings: `82`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-13T17:26:48+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)
 
-### 7. Secret scanning blocks Anthropic keys by default, adds Salesforce
+### 7. Security-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure
+- source: heise Security Alerts
+- score: `12`
+- published: `2026-10-13T17:38:00.000+00:00`
+- url: https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html
+- summary: Ivanti warnt vor einer Sicherheitslücke und bietet seit Anfang Oktober Updates an. Netzwerkadmins sollten diese schnell aufspielen, Angriffe laufen.
+
+### 8. Secret scanning blocks Anthropic keys by default, adds Salesforce
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-10-13T16:12:36+00:00`
 - url: https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce
 - summary: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by…
-
-### 8. Anonymous organization-level registries for Dependabot
-- source: GitHub Changelog Atom
-- score: `12`
-- published: `2026-10-12T14:04:16+00:00`
-- url: https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot
-- summary: You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for…
 
 END OF DOCUMENT
