@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T12:02:55+00:00",
-  "run_id": "2026-10-13T12:02:55+00:00",
+  "generated_at": "2026-10-13T12:36:11+00:00",
+  "run_id": "2026-10-13T12:36:11+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 65
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 5,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
-    "medium": 22,
-    "observe": 43,
+    "medium": 26,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Code scanning AI Scan metrics in security overview",
+        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-13T12:03:17+00:00",
+        "fetched_at": "2026-10-13T12:35:43+00:00",
+        "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98fd907463241e574aef"
+      },
       {
         "title": "open-webui/open-webui",
         "url": "https://github.com/open-webui/open-webui",
@@ -267,6 +290,75 @@
           "LOW"
         ],
         "id": "ccdfb3bfa433c71c3608"
+      },
+      {
+        "title": "[NEU] [hoch] Siemens SIMATIC S7: Mehrere Schwachstelle",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T12:04:11+00:00",
+        "fetched_at": "2026-10-13T12:35:43+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Siemens SIMATIC S7 Produkten ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "10a3f387848f2c65b72a"
+      },
+      {
+        "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T12:00:15+00:00",
+        "fetched_at": "2026-10-13T12:35:43+00:00",
+        "summary": "Ein Angreifer kann eine Schwachstelle in libpng ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a4acd35d4dfb5f8c2a20"
+      },
+      {
+        "title": "[UPDATE] [mittel] gcc: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T12:00:14+00:00",
+        "fetched_at": "2026-10-13T12:35:43+00:00",
+        "summary": "Ein Angreifer kann eine Schwachstelle in gcc ausnutzen, um Dateien zu manipulieren und Denial-of-Service-Zustände zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4b1d59559e32be9a7fff"
       },
       {
         "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
@@ -752,6 +844,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6696b833d1ef802943b7"
+      },
+      {
+        "title": "M 6.8 - central Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-13T12:34:03.010+00:00",
+        "fetched_at": "2026-10-13T12:35:43+00:00",
+        "summary": "Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.196°S 19.231°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a1995a85fa8393676083"
       },
       {
         "title": "M 5.3 - southern Mid-Atlantic Ridge",
@@ -1506,6 +1634,29 @@
   },
   "findings": [
     {
+      "title": "Code scanning AI Scan metrics in security overview",
+      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-13T12:03:17+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98fd907463241e574aef"
+    },
+    {
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1743,6 +1894,75 @@
         "LOW"
       ],
       "id": "ccdfb3bfa433c71c3608"
+    },
+    {
+      "title": "[NEU] [hoch] Siemens SIMATIC S7: Mehrere Schwachstelle",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T12:04:11+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Siemens SIMATIC S7 Produkten ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "10a3f387848f2c65b72a"
+    },
+    {
+      "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T12:00:15+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in libpng ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a4acd35d4dfb5f8c2a20"
+    },
+    {
+      "title": "[UPDATE] [mittel] gcc: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T12:00:14+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in gcc ausnutzen, um Dateien zu manipulieren und Denial-of-Service-Zustände zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4b1d59559e32be9a7fff"
     },
     {
       "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
@@ -2226,6 +2446,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6696b833d1ef802943b7"
+    },
+    {
+      "title": "M 6.8 - central Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-13T12:34:03.010+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.196°S 19.231°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a1995a85fa8393676083"
     },
     {
       "title": "M 5.3 - southern Mid-Atlantic Ridge",
@@ -2979,37 +3235,36 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Code scanning AI Scan metrics in security overview",
+      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-13T11:59:44+00:00",
-      "fetched_at": "2026-10-13T12:02:21+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection- und Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-10-13T12:03:17+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
+        "AI/KI",
+        "CodeQL/Dependabot",
+        "GitHub",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_score": 23,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+7.5); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7212e2f6d06e91ff0270"
+      "id": "98fd907463241e574aef"
     },
     {
-      "title": "[NEU] [mittel] Ollama: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890",
+      "title": "[NEU] [hoch] Siemens SIMATIC S7: Mehrere Schwachstelle",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T11:59:45+00:00",
-      "fetched_at": "2026-10-13T12:02:21+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-10-13T12:04:11+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Siemens SIMATIC S7 Produkten ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3023,16 +3278,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0df0e8c6c96e5483af09"
+      "id": "10a3f387848f2c65b72a"
     },
     {
-      "title": "[NEU] [hoch] Kong Gateway: Schwachstelle ermöglicht SQL-Injection",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889",
+      "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T11:59:44+00:00",
-      "fetched_at": "2026-10-13T12:02:21+00:00",
-      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Kong Gateway ausnutzen, um eine SQL-Injection durchzuführen.",
+      "published_at": "2026-10-13T12:00:15+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in libpng ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3046,16 +3301,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "011812949d4d7e4750e4"
+      "id": "a4acd35d4dfb5f8c2a20"
     },
     {
-      "title": "[NEU] [hoch] SuiteCRM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887",
+      "title": "[UPDATE] [mittel] gcc: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T11:59:43+00:00",
-      "fetched_at": "2026-10-13T12:02:21+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SuiteCRM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-10-13T12:00:14+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in gcc ausnutzen, um Dateien zu manipulieren und Denial-of-Service-Zustände zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3069,7 +3324,43 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1fa25b66bc077ad22bc1"
+      "id": "4b1d59559e32be9a7fff"
+    },
+    {
+      "title": "M 6.8 - central Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-13T12:34:03.010+00:00",
+      "fetched_at": "2026-10-13T12:35:43+00:00",
+      "summary": "Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.196°S 19.231°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a1995a85fa8393676083"
     }
   ],
   "source_errors": [],
