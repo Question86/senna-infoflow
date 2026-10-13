@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-13T07:50:37Z_
+_Generated: 2026-10-13T08:09:24Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-13T12:00:00+09:00` / age_days `0.2`
+- Published: `2026-10-13T12:00:00+09:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-13T09:00:00+09:00` / age_days `0.33`
+- Published: `2026-10-13T09:00:00+09:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-13T07:35:58+00:00` / age_days `0.01`
+- Published: `2026-10-13T07:35:58+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-13T06:00:12+00:00` / age_days `0.08`
+- Published: `2026-10-13T06:00:12+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-13T06:34:11+00:00` / age_days `0.05`
+- Published: `2026-10-13T06:34:11+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, 10, security high-signal: code, 10, official security but no high-signal phrase: capped at strong
@@ -62,17 +62,17 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `116.24`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `116.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 116.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 116.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
 ### Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-10-13T07:09:00.000+00:00` / age_days `0.03`
+- Published: `2026-10-13T07:09:00.000+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, 10, security high-signal: kritisch, 10
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-13T04:15:46.040+00:00` / age_days `0.15`
+- Published: `2026-10-13T04:15:46.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye
 
+### Modernizing the regulatory and supervisory landscape
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-10-13T00:00:00+00:00` / age_days `0.34`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape
+
 ### M 6.7 - central Mid-Atlantic Ridge
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-13T06:10:42.886+00:00` / age_days `0.07`
+- Published: `2026-10-13T06:10:42.886+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.8
@@ -102,30 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソー�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-13T00:00:00+00:00` / age_days `0.33`
+- Published: `2026-10-13T00:00:00+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
 - Quelle: https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration
 
-### Client telemetry user attribution and configurable capture
+### Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-10-12T22:38:00+00:00` / age_days `0.38`
+- Dynamics score: `19.0`
+- Published: `2026-10-13T00:00:00+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
-- Quelle: https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture
-
-### Anonymous organization-level registries for Dependabot
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-10-12T14:04:16+00:00` / age_days `0.74`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: code, 10, auth
-- Quelle: https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program
 
 END OF DOCUMENT
