@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T19:12:33+00:00_
+_Generiert: 2026-10-13T19:23:33+00:00_
 
 ## Kurzlage
 
@@ -61,14 +61,14 @@ _Generiert: 2026-10-13T19:12:33+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-12T23:20:36+00:00`
   - Kurz: M6.1 - 17 km W of Río Grande, Panama. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571367)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.
 - **GDACS: Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:12:36+00:00",
+  "generated_at": "2026-10-13T19:23:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -165,20 +165,20 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571367",
         "published_at": "",
         "metrics": {}
       },
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).",
-        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).",
+        "title": "GDACS: Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337",
         "published_at": "",
         "metrics": {}
       }
