@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-13T07:17:01Z",
+  "generated_at": "2026-10-13T07:50:37Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "open-webui/open-webui",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
     {
       "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
       "band": "krass",
@@ -48,19 +53,14 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
+      "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 6.7 - central Mid-Atlantic Ridge",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Client telemetry user attribution and configurable capture",
-      "band": "watch",
-      "reason": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm."
     }
   ]
 }
