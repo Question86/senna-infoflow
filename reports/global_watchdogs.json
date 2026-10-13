@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:58:22+00:00",
+  "generated_at": "2026-10-13T00:35:24+00:00",
   "sections": {
     "global_security": [
       {
@@ -81,21 +81,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104225",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.1 - 18 km W of Río Grande, Panama",
-        "summary": "M6.1 - 18 km W of Río Grande, Panama. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
-        "published_at": "2026-10-12T23:20:36+00:00",
-        "metrics": {
-          "mag": 6.1,
-          "alert": "green",
-          "sig": 581.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",
