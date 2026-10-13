@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T17:50:49Z",
+  "generated_at": "2026-10-13T18:04:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:44+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:12:18+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:04:11+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:54:21+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T17:38:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:00:15+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:00:14+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -220,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:45+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -244,7 +244,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:44+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -268,7 +268,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:54:27+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -292,7 +292,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -316,7 +316,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -340,7 +340,7 @@
       "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T15:20:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -365,7 +365,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T07:35:58+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -394,7 +394,7 @@
       "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T06:00:12+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "security"
@@ -421,7 +421,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:43+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -447,7 +447,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:11:46+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -473,7 +473,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -499,7 +499,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T06:34:11+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -525,7 +525,7 @@
       "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T16:12:36+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -551,7 +551,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:12+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -576,7 +576,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:11+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -601,7 +601,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.66,
+      "age_days": 116.67,
       "topics": [
         "ai"
       ],
@@ -630,7 +630,7 @@
       "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T12:03:17+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security",
@@ -658,7 +658,7 @@
       "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T14:03:57+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -684,7 +684,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T07:09:00.000+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -709,7 +709,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T10:20:27.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -734,7 +734,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -759,7 +759,7 @@
       "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai",
         "macro"
@@ -787,7 +787,7 @@
       "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-13T10:00:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -812,7 +812,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T12:46:00.245+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -837,7 +837,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T06:10:42.886+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -862,7 +862,7 @@
       "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "macro"
       ],
@@ -888,7 +888,7 @@
       "url": "https://www.heise.de/news/Patchday-SAP-Angreifer-koennen-Systeme-uebernehmen-11486228.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T12:39:00.000+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -912,7 +912,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:40:00.000+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -936,7 +936,7 @@
       "url": "https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:03:00.000+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -960,7 +960,7 @@
       "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai",
         "macro"
@@ -988,7 +988,7 @@
       "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T22:38:00+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -1012,7 +1012,7 @@
       "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T14:04:16+00:00",
-      "age_days": 1.16,
+      "age_days": 1.17,
       "topics": [
         "general"
       ],
