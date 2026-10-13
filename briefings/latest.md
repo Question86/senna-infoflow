@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T07:06:48+00:00_
+_Generiert: 2026-10-13T07:36:30+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+35 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **open-webui/open-webui** — Score 20, observation — [Quelle](https://github.com/open-webui/open-webui)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-13T07:35:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Local-first AI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Local-first AI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Ollama and OpenAI-compatible APIs , it gives you a powerful, provider-agnostic interface for both local and cloud-based models. Passionate about open-source AI? Jo…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”** — Score 16, observation — [Quelle](https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-13T06:00:12+00:00`, fetched `2026-10-13T06:36:03+00:00`
@@ -197,6 +206,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-13 02:48:02 UTC 2026-10-13 02:48:02 UTC at epicenter Location 7.582°N 80.589°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Opening remarks - Cargox Solution Day** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:35:58+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Intelligence-led financial crime prevention: the power of data, insights and collaboration** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:35:58+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 16th International Conference on Financial Crime and Counter Terrorism Financing (IFCTF) 2026, Kuala Lumpur, 6 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-13T07:09:00.000+00:00`, fetched `2026-10-13T07:35:58+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/numbering-on-accounts/designate)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:36:03+00:00`
@@ -224,6 +260,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「デジタル社会推進会議幹事会の開催について」の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Leveraging the Mauritius IFC as a payment system hub** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:35:58+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Speech by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, on “Leveraging the Mauritius IFC as a payment system hub”, at the Visa Direct Day, Flic-en-Flac, 17 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/13/2000002204/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-13T02:55:22+00:00`, fetched `2026-10-13T04:56:37+00:00`
@@ -241,24 +286,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: プログラマー／テクニカルライター クジラ飛行机（くじらひこうづくえ） 1976年生まれ。愛知県豊橋市出身。ソフト企画「くじらはんど」代表。2001年に日本語プログラミング言語「ひまわり」を手がけ、2004年には「未踏ユース」プロジェクトに採択され、後継となる「なでしこ」を開発。本業の傍ら、50冊以上の技術書を執...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/13/2000002201/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-13T01:57:29+00:00`, fetched `2026-10-13T02:50:25+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Client telemetry user attribution and configurable capture** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-12T22:38:00+00:00`, fetched `2026-10-13T03:32:52+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

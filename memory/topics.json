@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T07:06:48+00:00",
+  "generated_at": "2026-10-13T07:36:30+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "open-webui/open-webui",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 20,
+        "url": "https://github.com/open-webui/open-webui"
+      },
       {
         "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
         "source": "e27 Asia Startup and Tech Feed",
@@ -68,6 +75,36 @@
         "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
       }
     ],
+    "github": [
+      {
+        "title": "open-webui/open-webui",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 20,
+        "url": "https://github.com/open-webui/open-webui"
+      },
+      {
+        "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T06:00:12+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/"
+      },
+      {
+        "title": "Anonymous organization-level registries for Dependabot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-12T14:04:16+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot"
+      },
+      {
+        "title": "Client telemetry user attribution and configurable capture",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-12T22:38:00+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
+      }
+    ],
     "security": [
       {
         "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
@@ -96,29 +133,13 @@
         "published_at": "2026-10-13T06:34:11+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040"
-      }
-    ],
-    "github": [
-      {
-        "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T06:00:12+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/"
       },
       {
-        "title": "Anonymous organization-level registries for Dependabot",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-12T14:04:16+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot"
-      },
-      {
-        "title": "Client telemetry user attribution and configurable capture",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-12T22:38:00+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
+        "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-13T07:09:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html"
       }
     ],
     "general": [
@@ -207,6 +228,13 @@
         "published_at": "2026-10-13T04:24:48+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
+      },
+      {
+        "title": "Opening remarks - Cargox Solution Day",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
       }
     ],
     "economy": [
@@ -237,6 +265,34 @@
         "published_at": "2026-10-13T01:00:27+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/"
+      },
+      {
+        "title": "Opening remarks - Cargox Solution Day",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
+      },
+      {
+        "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration"
+      },
+      {
+        "title": "Leveraging the Mauritius IFC as a payment system hub",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub"
+      },
+      {
+        "title": "Cross-border payments as a necessity for Africa's resilience and economic transformation",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation"
       }
     ]
   }

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T07:06:48+00:00_
+_Generated: 2026-10-13T07:36:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `35`
 
 ## Top Signals
 
-### 1. Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”
+### 1. open-webui/open-webui
+- source: GitHub Trending RSS All Languages Daily
+- score: `20`
+- published: `None`
+- url: https://github.com/open-webui/open-webui
+- summary: User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Oll…
+
+### 2. Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-10-13T06:00:12+00:00`
 - url: https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/
 - summary: Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report,…
 
-### 2. M 5.1 - 119 km SSW of Gambiran Satu, Indonesia
+### 3. M 5.1 - 119 km SSW of Gambiran Satu, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-13T04:15:46.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye
 - summary: Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)
 
-### 3. AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性
+### 4. AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-13T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN38664315/
 - summary: 株式会社ハンモックが提供するAssetViewには、重要なリソースに対する不適切なアクセス権の割り当ての脆弱性が存在します。
-
-### 4. Theliaにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-13T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99982995/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. M 6.7 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
