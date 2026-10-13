@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T05:49:36+00:00",
+  "generated_at": "2026-10-13T05:59:54+00:00",
   "topics": {
     "general": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-10-13T03:02:12.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4"
+      },
+      {
+        "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T05:51:37+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/"
       },
       {
         "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
