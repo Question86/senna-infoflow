@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T03:57:09+00:00_
+_Generated: 2026-10-13T04:13:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `18`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-13T03:57:09+00:00_
 - url: https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/
 - summary: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the…
 
-### 8. M 4.7 - 9 km SSE of La Mesa, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. What is work worth when thought is metered?
+- source: e27 Asia Startup and Tech Feed
 - score: `9`
-- published: `2026-10-13T03:02:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4
-- summary: Time 2026-10-13 02:48:02 UTC 2026-10-13 02:48:02 UTC at epicenter Location 7.582°N 80.589°W Depth 10.00 km (6.21 mi)
+- published: `2026-10-13T04:00:45+00:00`
+- url: https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/
+- summary: Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spen…
 
 END OF DOCUMENT

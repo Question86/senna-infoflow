@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T03:57:09+00:00",
+  "generated_at": "2026-10-13T04:13:23+00:00",
   "topics": {
     "security": [
       {
@@ -86,11 +86,25 @@
         "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/"
       },
       {
+        "title": "What is work worth when thought is metered?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T04:00:45+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/"
+      },
+      {
         "title": "AI can generate a video in minutes. Making it usable is the hard part",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-13T01:00:27+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/"
+      },
+      {
+        "title": "「AIには、もう勝てない」。それでも日本語プログラミング言語「なでしこ」を作り続ける理由 - レバテックLAB",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-13T02:24:37+00:00",
+        "relevance_score": 5,
+        "url": "https://levtech.jp/media/detail_940/"
       },
       {
         "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
@@ -126,6 +140,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "What is work worth when thought is metered?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T04:00:45+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/"
+      },
       {
         "title": "AI can generate a video in minutes. Making it usable is the hard part",
         "source": "e27 Asia Startup and Tech Feed",
