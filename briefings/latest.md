@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T14:55:03+00:00_
+_Generiert: 2026-10-13T15:02:31+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-10-13T14:55:03+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
+- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].
+  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571248)
   - Quelle: GDACS
   - Zeit: ``
