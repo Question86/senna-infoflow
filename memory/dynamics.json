@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T11:27:06Z",
+  "generated_at": "2026-10-13T11:40:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:12:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T07:35:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T06:00:12+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -178,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:11:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -204,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -230,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T06:34:11+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -256,7 +256,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:12+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -281,7 +281,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:11+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -306,7 +306,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.39,
+      "age_days": 116.4,
       "topics": [
         "ai"
       ],
@@ -335,7 +335,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T07:09:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -360,7 +360,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T10:20:27.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -385,7 +385,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -410,7 +410,7 @@
       "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -438,7 +438,7 @@
       "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-13T10:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -463,7 +463,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T06:10:42.886+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -488,7 +488,7 @@
       "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "macro"
       ],
@@ -514,7 +514,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:40:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -538,7 +538,7 @@
       "url": "https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:03:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -562,7 +562,7 @@
       "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -590,7 +590,7 @@
       "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T22:38:00+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -614,7 +614,7 @@
       "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T14:04:16+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -638,7 +638,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T08:57:57.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -663,7 +663,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T03:02:12.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -688,7 +688,7 @@
       "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:56:11+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -712,7 +712,7 @@
       "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
       "source": "BIS Press Releases",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -739,7 +739,7 @@
       "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T04:00:45+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "macro"
       ],
@@ -763,7 +763,7 @@
       "url": "https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "macro"
       ],
@@ -788,7 +788,7 @@
       "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "macro"
       ],
@@ -812,7 +812,7 @@
       "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T05:51:37+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -836,7 +836,7 @@
       "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:00:33+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -862,7 +862,7 @@
       "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T02:00:56+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -888,7 +888,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261013-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-13T00:42:47+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -912,7 +912,7 @@
       "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "macro"
       ],
@@ -936,7 +936,7 @@
       "url": "https://ascii.jp/elem/000/004/442/4442187/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T07:53:42+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -960,7 +960,7 @@
       "url": "https://www.nict.go.jp/press/2026/10/13-1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T05:15:17+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -1008,7 +1008,7 @@
       "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T22:03:51+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
