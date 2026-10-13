@@ -1,18 +1,22 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T14:40:49+00:00_
+_Generiert: 2026-10-13T14:55:03+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+77 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.9 - central Mid-Atlantic Ridge** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
+- **USGS earthquake M6.8 - central Mid-Atlantic Ridge** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
   - Quelle: USGS
   - Zeit: `2026-10-13T12:23:07+00:00`
-  - Kurz: M6.9 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 1.
+  - Kurz: M6.8 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 1.
+- **CISA KEV: CVE-2026-104935 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-13`
+  - Kurz: Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
@@ -29,10 +33,6 @@ _Generiert: 2026-10-13T14:40:49+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability
-- **CISA KEV: CVE-2015-3306 ProFTPD ProFTPD** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.9M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
   - Quelle: GDACS
   - Zeit: ``
@@ -277,14 +277,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 6.8 - central Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001)
+- **M 5.3 - 122 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-13T12:34:03.010+00:00`, fetched `2026-10-13T12:35:43+00:00`
+  - Zeit: published `2026-10-13T14:54:13.040+00:00`, fetched `2026-10-13T14:54:27+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.196°S 19.231°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-13 14:36:10 UTC 2026-10-13 14:36:10 UTC at epicenter Location 5.445°S 152.126°E Depth 18.52 km (11.51 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Investing through uncertainty - financing Europe's future** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future)
   - Quelle: BIS Central Bankers Speeches / `rss`
