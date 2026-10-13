@@ -1,31 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T11:52:06Z",
+  "generated_at": "2026-10-13T12:05:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 7,
-      "strong": 11,
+      "krass": 10,
+      "strong": 14,
       "watch": 13,
-      "quiet": 8
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 18,
+      "krass": 3,
+      "strong": 22,
       "watch": 13,
-      "quiet": 8
+      "quiet": 2
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T11:59:44+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection- und Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Z…"
+    },
     {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:12:18+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -46,11 +71,36 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen."
     },
     {
+      "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T11:54:21+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nagios Core und Nagios Enterprises Nagios XI ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren."
+    },
+    {
       "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -70,11 +120,83 @@
       "summary": "株式会社ハンモックが提供するAssetViewには、重要なリソースに対する不適切なアクセス権の割り当ての脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] Ollama: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3890",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T11:59:45+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Kong Gateway: Schwachstelle ermöglicht SQL-Injection",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3889",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T11:59:44+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Kong Gateway ausnutzen, um eine SQL-Injection durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T11:54:27+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -98,7 +220,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -122,7 +244,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T07:35:58+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -151,7 +273,7 @@
       "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T06:00:12+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -174,11 +296,37 @@
       "summary": "Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in…"
     },
     {
+      "title": "[NEU] [hoch] SuiteCRM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3887",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T11:59:43+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SuiteCRM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:11:46+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -204,7 +352,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -230,7 +378,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T06:34:11+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -256,7 +404,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:12+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -281,7 +429,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:11+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -306,7 +454,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.41,
+      "age_days": 116.42,
       "topics": [
         "ai"
       ],
@@ -335,7 +483,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T07:09:00.000+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -360,7 +508,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T10:20:27.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -385,7 +533,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -410,7 +558,7 @@
       "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -438,7 +586,7 @@
       "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-13T10:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -463,7 +611,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T06:10:42.886+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -488,7 +636,7 @@
       "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "macro"
       ],
@@ -514,7 +662,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:40:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -538,7 +686,7 @@
       "url": "https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:03:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -562,7 +710,7 @@
       "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -590,7 +738,7 @@
       "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T22:38:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -614,7 +762,7 @@
       "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T14:04:16+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "general"
       ],
@@ -638,7 +786,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T08:57:57.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -663,7 +811,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T03:02:12.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -688,7 +836,7 @@
       "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:56:11+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -712,7 +860,7 @@
       "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
       "source": "BIS Press Releases",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -739,7 +887,7 @@
       "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T04:00:45+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "macro"
       ],
@@ -763,7 +911,7 @@
       "url": "https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "macro"
       ],
@@ -788,7 +936,7 @@
       "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "macro"
       ],
@@ -812,7 +960,7 @@
       "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T05:51:37+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -836,7 +984,7 @@
       "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:00:33+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -862,7 +1010,7 @@
       "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T02:00:56+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -882,151 +1030,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "A company can have hundreds of employees using ChatGPT, Copilot, or other AI tools every day, and still not be an AI-ready organisation. This may sound contradictory, but it is becoming increasingly common. Employees are experimenting with AI. Teams are building copilots. Companies are running pilots. Some are even pu…"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261013-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-13T00:42:47+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "古川大臣記者会見（令和8年10月13日）動画を掲載しました"
-    },
-    {
-      "title": "Leveraging the Mauritius IFC as a payment system hub",
-      "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.49,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Speech by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, on “Leveraging the Mauritius IFC as a payment system hub”, at the Visa Direct Day, Flic-en-Flac, 17 June 2026."
-    },
-    {
-      "title": "楽天モバイルで情報漏えいのおそれ 過去に契約していた人も対象に",
-      "url": "https://ascii.jp/elem/000/004/442/4442187/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-13T07:53:42+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "楽天モバイルは10月13日、「my 楽天モバイル」からダウンロードできる支払い証明書について、第三者が閲覧できる可能性があったとして、利用者にメールで通知した。利用料金や個人情報が第三者に見られる状態になっていた可能性がある。過去に契約していた利用者も通知の対象だ。 同社が実施した脆弱性診断テストで判明..."
-    },
-    {
-      "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
-      "url": "https://www.nict.go.jp/press/2026/10/13-1.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-13T05:15:17+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "トップ>広報>プレスリリース>2026年>【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」"
-    },
-    {
-      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-13T01:57:29+00:00",
-      "age_days": 0.41,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U..."
-    },
-    {
-      "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
-      "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-12T22:03:51+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "現代の工作機械は非常に精密でほとんど誤差がない部品を作ることができますが、初めから現代のような精度があったわけではありません。18世紀中頃～19世紀の産業革命の時代に、どのようにして精度の高い「ねじ」を生み出したのかについて、エンジニアで起業家のゲイリー・リンスコット氏が解説しています。 How Machines..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SAP Patch Day Oktober 2026: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
