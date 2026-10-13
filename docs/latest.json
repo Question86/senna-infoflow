@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T11:47:40+00:00",
-  "run_id": "2026-10-13T11:47:40+00:00",
+  "generated_at": "2026-10-13T11:56:05+00:00",
+  "run_id": "2026-10-13T11:56:05+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 2,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 16,
+    "medium": 18,
     "observe": 43,
     "source_errors": 0
   },
@@ -265,6 +265,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "749f7897ca2a58be726a"
+      },
+      {
+        "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T11:54:27+00:00",
+        "fetched_at": "2026-10-13T11:55:31+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a996ed3baa825a507918"
+      },
+      {
+        "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T11:54:21+00:00",
+        "fetched_at": "2026-10-13T11:55:31+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Nagios Core und Nagios Enterprises Nagios XI ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2369769006fce100dcd6"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -1604,6 +1650,52 @@
       "id": "749f7897ca2a58be726a"
     },
     {
+      "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:54:27+00:00",
+      "fetched_at": "2026-10-13T11:55:31+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a996ed3baa825a507918"
+    },
+    {
+      "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:54:21+00:00",
+      "fetched_at": "2026-10-13T11:55:31+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nagios Core und Nagios Enterprises Nagios XI ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2369769006fce100dcd6"
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2699,7 +2791,54 @@
       "id": "d733ab1772c9f7d85a79"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:54:27+00:00",
+      "fetched_at": "2026-10-13T11:55:31+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a996ed3baa825a507918"
+    },
+    {
+      "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:54:21+00:00",
+      "fetched_at": "2026-10-13T11:55:31+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nagios Core und Nagios Enterprises Nagios XI ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2369769006fce100dcd6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

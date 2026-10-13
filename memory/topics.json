@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T11:47:40+00:00",
+  "generated_at": "2026-10-13T11:56:05+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,20 @@
         "url": "https://jvn.jp/jp/JVN38664315/"
       },
       {
+        "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:54:27+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521"
+      },
+      {
+        "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:54:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T10:11:46+00:00",
@@ -175,20 +189,6 @@
         "published_at": "2026-10-13T09:22:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837"
-      },
-      {
-        "title": "Theliaにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99982995/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T06:34:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040"
       }
     ],
     "general": [

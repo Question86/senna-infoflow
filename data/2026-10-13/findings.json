@@ -237,6 +237,52 @@
     "id": "749f7897ca2a58be726a"
   },
   {
+    "title": "[UPDATE] [mittel] LibreOffice: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3521",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T11:54:27+00:00",
+    "fetched_at": "2026-10-13T11:55:31+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a996ed3baa825a507918"
+  },
+  {
+    "title": "[UPDATE] [hoch] Nagios Core und Nagios XI: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2819",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T11:54:21+00:00",
+    "fetched_at": "2026-10-13T11:55:31+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Nagios Core und Nagios Enterprises Nagios XI ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2369769006fce100dcd6"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
     "source": "BSI CERT-Bund Security Advisories",
