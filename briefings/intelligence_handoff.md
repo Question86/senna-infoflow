@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-13T01:49:57Z_
+_Generated: 2026-10-13T02:18:04Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-13T09:00:00+09:00` / age_days `0.08`
+- Published: `2026-10-13T09:00:00+09:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `115.99`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `116.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 116.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-12T14:04:16+00:00` / age_days `0.49`
+- Published: `2026-10-12T14:04:16+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: code, 10, auth
 - Quelle: https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot
 
+### Everyone is talking about AI adoption. But are enterprises actually ready for it?
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.0`
+- Published: `2026-10-13T02:00:56+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/
+
 ### 古川大臣記者会見（令和8年10月13日）動画を掲載しました
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-13T00:42:47+00:00` / age_days `0.05`
+- Published: `2026-10-13T00:42:47+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -52,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-12T22:03:51+00:00` / age_days `0.16`
+- Published: `2026-10-12T22:03:51+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://gigazine.net/news/20261013-how-machines-learned-precision/
 
+### ローカルデザインシステム（スタイルガイド）｜デジタル庁デザインシステムβ版
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.0`
+- Published: `2026-10-12T11:03:36+00:00` / age_days `0.64`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: local
+- Quelle: https://design.digital.go.jp/dads/guidance/local-design-system/
+
 ### AI can generate a video in minutes. Making it usable is the hard part
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-13T01:00:27+00:00` / age_days `0.03`
+- Published: `2026-10-13T01:00:27+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `114.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `114.98`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 115.0d old signal
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `114.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `114.98`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 115.0d old signal
@@ -92,10 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `114.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `114.98`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 115.0d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://toyokeizai.net/articles/-/948348?display=b
+
+### Announcing AWS Lambda Web Functions | Amazon Web Services
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-10-12T23:29:58+00:00` / age_days `0.12`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
 
 END OF DOCUMENT
