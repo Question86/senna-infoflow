@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T12:36:11+00:00_
+_Generated: 2026-10-13T13:00:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `70`
+- findings: `74`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-13T12:36:11+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3888
 - summary: Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection- und Cross-Site-Scr…
 
-### 5. M 6.7 - central Mid-Atlantic Ridge
+### 5. M 6.9 - central Mid-Atlantic Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-13T12:46:00.245+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.402°S 19.415°W Depth 10.00 km (6.21 mi)
+
+### 6. M 6.7 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-13T06:10:42.886+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)
 
-### 6. Anonymous organization-level registries for Dependabot
+### 7. Anonymous organization-level registries for Dependabot
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-10-12T14:04:16+00:00`
 - url: https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot
 - summary: You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for…
 
-### 7. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
+### 8. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-13T03:56:11+00:00`
 - url: https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/
 - summary: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offe…
-
-### 8. Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-10-13T03:35:04+00:00`
-- url: https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/
-- summary: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the…
 
 END OF DOCUMENT

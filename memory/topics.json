@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T12:36:11+00:00",
+  "generated_at": "2026-10-13T13:00:05+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/"
       },
       {
-        "title": "MakeO secures US$10M to scale Zenyum’s dentist network across Asia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T09:22:51+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/makeo-secures-us10m-to-scale-zenyums-dentist-network-across-asia-20261013/"
+        "title": "Investing through uncertainty - financing Europe's future",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future"
       }
     ],
     "security": [
@@ -235,6 +235,13 @@
         "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/"
       },
       {
+        "title": "Investing through uncertainty - financing Europe's future",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future"
+      },
+      {
         "title": "AI can generate a video in minutes. Making it usable is the hard part",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-13T01:00:27+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration"
-      },
-      {
-        "title": "Why is the last mile of disinflation taking so long?",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261013-why-last-mile-disinflation-taking-so-long"
       }
     ],
     "geopolitics": [
@@ -321,6 +321,13 @@
         "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
       },
       {
+        "title": "Investing through uncertainty - financing Europe's future",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future"
+      },
+      {
         "title": "Opening remarks - Cargox Solution Day",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-13T00:00:00+00:00",
@@ -333,13 +340,6 @@
         "published_at": "2026-10-13T09:40:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html"
-      },
-      {
-        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
       }
     ],
     "general": [
@@ -363,6 +363,13 @@
         "published_at": "2026-10-13T03:00:33+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/"
+      },
+      {
+        "title": "M 6.9 - central Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T12:46:00.245+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214"
       },
       {
         "title": "M 6.7 - central Mid-Atlantic Ridge",
@@ -405,13 +412,6 @@
         "published_at": "2026-10-13T05:51:37+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/"
-      },
-      {
-        "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-13T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate"
       }
     ]
   }
