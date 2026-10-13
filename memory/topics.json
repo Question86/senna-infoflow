@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T17:56:50+00:00",
+  "generated_at": "2026-10-13T18:06:19+00:00",
   "topics": {
     "ai": [
       {
@@ -212,11 +212,11 @@
         "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates"
       },
       {
-        "title": "Client telemetry user attribution and configurable capture",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-12T22:38:00+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
+        "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-10-13T17:56:33+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"
       }
     ],
     "economy": [
@@ -263,6 +263,13 @@
         "url": "https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future"
       },
       {
+        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+        "source": "Federal Reserve Monetary Policy Press Releases",
+        "published_at": "2026-10-13T18:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
+      },
+      {
         "title": "AI can generate a video in minutes. Making it usable is the hard part",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-13T01:00:27+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
-      },
-      {
-        "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration"
       }
     ],
     "geopolitics": [
@@ -356,11 +356,11 @@
         "url": "https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future"
       },
       {
-        "title": "Enterprise managed settings enforcement updates",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-13T15:20:10+00:00",
+        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+        "source": "Federal Reserve Monetary Policy Press Releases",
+        "published_at": "2026-10-13T18:00:00+00:00",
         "relevance_score": 8,
-        "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates"
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
       }
     ],
     "general": [
