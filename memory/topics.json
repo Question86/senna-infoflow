@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T03:33:24+00:00",
+  "generated_at": "2026-10-13T03:57:09+00:00",
   "topics": {
     "security": [
       {
@@ -26,6 +26,13 @@
         "published_at": "2026-10-13T03:00:33+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/"
+      },
+      {
+        "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T03:35:04+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/"
       },
       {
         "title": "M 4.7 - 9 km SSE of La Mesa, Panama",
@@ -107,6 +114,15 @@
         "published_at": "2026-10-12T22:38:00+00:00",
         "relevance_score": 5,
         "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T03:56:11+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/"
       }
     ],
     "economy": [

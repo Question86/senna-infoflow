@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T03:33:24+00:00_
+_Generiert: 2026-10-13T03:57:09+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+16 neue relevante Treffer. Stärkstes Signal: „AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -121,6 +121,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery** — Score 11, observation — [Quelle](https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-13T03:56:11+00:00`, fetched `2026-10-13T03:56:40+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
+  - Kurz: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offers no precious-metal jackpot. It holds lithium, iron and phosphate, and two of those are […] The post NEU Battery Materials bags US$7.6M to mine lithium from th…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route** — Score 11, observation — [Quelle](https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-13T03:35:04+00:00`, fetched `2026-10-13T03:56:40+00:00`
+  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)
+  - Kurz: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the slide. So we went looking for startups that do more […] The post Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route appea…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 9 km SSE of La Mesa, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-13T03:02:12.040+00:00`, fetched `2026-10-13T03:05:44+00:00`

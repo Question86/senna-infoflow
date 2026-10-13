@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T03:33:24+00:00_
+_Generated: 2026-10-13T03:57:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `16`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-13T03:33:24+00:00_
 - url: https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot
 - summary: You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for…
 
-### 6. M 4.7 - 9 km SSE of La Mesa, Panama
+### 6. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-10-13T03:56:11+00:00`
+- url: https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/
+- summary: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offe…
+
+### 7. Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-10-13T03:35:04+00:00`
+- url: https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/
+- summary: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the…
+
+### 8. M 4.7 - 9 km SSE of La Mesa, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-13T03:02:12.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4
 - summary: Time 2026-10-13 02:48:02 UTC 2026-10-13 02:48:02 UTC at epicenter Location 7.582°N 80.589°W Depth 10.00 km (6.21 mi)
-
-### 7. AI can generate a video in minutes. Making it usable is the hard part
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-10-13T01:00:27+00:00`
-- url: https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/
-- summary: Generative AI has made video creation remarkably fast. A scene that once required a camera crew, actors, locations and hours of post-production can now begin with a prompt and an idea. But after working with AI-generated cinematic videos, I have learned that…
-
-### 8. 古川大臣記者会見（令和8年10月13日）動画を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `6`
-- published: `2026-10-13T00:42:47+00:00`
-- url: https://www.digital.go.jp/speech/minister-261013-01
-- summary: 古川大臣記者会見（令和8年10月13日）動画を掲載しました
 
 END OF DOCUMENT
