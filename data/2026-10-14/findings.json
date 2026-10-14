@@ -48,6 +48,29 @@
     "id": "00bd7e4964d8dce2c1b3"
   },
   {
+    "title": "Singapore’s next AI industry may be the people who check the agents",
+    "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-14T08:08:56+00:00",
+    "fetched_at": "2026-10-14T08:11:27+00:00",
+    "summary": "An AI chatbot that drafts a bad email is an embarrassment. An AI agent that sends it, to the wrong customer, with the wrong file attached, after approving the wrong refund, is a liability. Singapore’s regulators have clearly been losing sleep over the second scenario. On Wednesday, the Infocomm Media Development Authority (IMDA) announced three […] The post Singapore’s next AI industry may be the people who check th…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "Public Health"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); Public Health (+6.2); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "97fd10aea85a7042f839"
+  },
+  {
     "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
     "url": "https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -162,6 +185,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0bedf17b20eff876b528"
+  },
+  {
+    "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
+    "url": "https://jvn.jp/jp/JVN43511918/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-14T17:00:00+09:00",
+    "fetched_at": "2026-10-14T08:11:27+00:00",
+    "summary": "株式会社イーシーキューブが提供するEC-CUBE4系用プラグイン「AmazonPayプラグイン」には、不変と想定しているWebパラメータの外部制御の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dde228d84c32118f02c8"
   },
   {
     "title": "Siemens製品に対するアップデート（2026年10月）",
@@ -734,6 +779,26 @@
     "id": "9520f75070ee9a91f416"
   },
   {
+    "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-14T08:11:27+00:00",
+    "summary": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3749389ab94c41376dcf"
+  },
+  {
     "title": "Introduction to the panel “Financial risks and macroprudential policy”",
     "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
     "source": "BIS Central Bankers Speeches",
@@ -899,6 +964,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bde014f83887a18000b1"
+  },
+  {
+    "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+    "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
+    "source": "BIS Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-14T08:11:27+00:00",
+    "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business losses.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5654b991007db233fcb3"
   },
   {
     "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",

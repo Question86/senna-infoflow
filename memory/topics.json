@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-14T07:57:46+00:00",
+  "generated_at": "2026-10-14T08:12:02+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/vercel-labs/skills"
+      },
+      {
+        "title": "Singapore’s next AI industry may be the people who check the agents",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-14T08:08:56+00:00",
+        "relevance_score": 22,
+        "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/"
       },
       {
         "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-14T03:02:42+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/"
-      },
-      {
-        "title": "Introduction to the panel “Financial risks and macroprudential policy”",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy"
       }
     ],
     "github": [
@@ -82,6 +82,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/vercel-labs/skills"
+      },
+      {
+        "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+        "source": "BIS Press Releases",
+        "published_at": "2026-10-14T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and"
       },
       {
         "title": "GitHub App improvements for least privilege and management",
@@ -140,6 +147,13 @@
         "published_at": "2026-10-14T03:39:17+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/the-us84245-resistance-is-hours-away-from-being-tested-will-buyers-show-up-or-fold-20261014/"
+      },
+      {
+        "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+        "source": "BIS Press Releases",
+        "published_at": "2026-10-14T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and"
       }
     ],
     "geopolitics": [
@@ -179,6 +193,13 @@
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html"
       },
       {
+        "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-14T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html"
+      },
+      {
         "title": "Introduction to the panel “Financial risks and macroprudential policy”",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-13T00:00:00+00:00",
@@ -214,6 +235,13 @@
         "published_at": "2026-10-14T07:34:11+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892"
+      },
+      {
+        "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-14T17:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN43511918/"
       },
       {
         "title": "Siemens製品に対するアップデート（2026年10月）",
@@ -256,13 +284,6 @@
         "published_at": "2026-10-14T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN47427200/"
-      },
-      {
-        "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-14T11:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN88474777/"
       }
     ],
     "general": [
