@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T06:20:53+00:00",
-  "run_id": "2026-10-14T06:20:53+00:00",
+  "generated_at": "2026-10-14T06:48:19+00:00",
+  "run_id": "2026-10-14T06:48:19+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -1823,119 +1823,7 @@
       "id": "ae569dcf77f4c5f9ef85"
     }
   ],
-  "new_findings": [
-    {
-      "title": "vercel-labs/skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-14T06:20:23+00:00",
-      "summary": "The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: npx skills use vercel-labs/agent-skills@web-design-guidelines | claude npx…",
-      "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "Content-Chance",
-        "GitHub Trending",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "00bd7e4964d8dce2c1b3"
-    },
-    {
-      "title": "網擎資訊｜SecuShare Pro - OS Command Injection",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11254-9c206-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-08T05:42:00+00:00",
-      "fetched_at": "2026-10-14T06:20:23+00:00",
-      "summary": "網擎資訊｜SecuShare Pro - OS Command Injection",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cd0e11b7b29c4d3171bc"
-    },
-    {
-      "title": "Introduction to the panel “Financial risks and macroprudential policy”",
-      "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-14T06:20:23+00:00",
-      "summary": "Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.",
-      "matched_keywords": [
-        "macro",
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); macro (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "17c6401f1cf5090caf47"
-    },
-    {
-      "title": "デジタル庁コンプライアンス委員会（第12回）の議事要旨および資料を掲載しました",
-      "url": "https://www.digital.go.jp/councils/compliance/91dadb4f-4f6a-486c-9167-528e1564b3e7",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-14T06:00:00+00:00",
-      "fetched_at": "2026-10-14T06:20:23+00:00",
-      "summary": "デジタル庁コンプライアンス委員会（第12回）の議事要旨および資料を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1fdb75bb2222600a01ce"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
