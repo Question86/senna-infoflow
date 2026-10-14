@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-14T15:40:51Z",
+  "generated_at": "2026-10-14T15:51:49Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (goose, environment-modules, tornado): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3883",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T07:34:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3884",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T07:49:11+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
