@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T19:57:44+00:00",
-  "run_id": "2026-10-14T19:57:44+00:00",
+  "generated_at": "2026-10-14T20:09:56+00:00",
+  "run_id": "2026-10-14T20:09:56+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 29,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -1933,6 +1933,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a54e7af970691d9671ec"
+      },
+      {
+        "title": "GitHub availability report: September 2026",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-14T20:01:35+00:00",
+        "fetched_at": "2026-10-14T20:09:21+00:00",
+        "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "020238b9fdfbba5ae1f7"
       },
       {
         "title": "GitHub App improvements for least privilege and management",
@@ -3879,6 +3899,26 @@
       "id": "a54e7af970691d9671ec"
     },
     {
+      "title": "GitHub availability report: September 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-14T20:01:35+00:00",
+      "fetched_at": "2026-10-14T20:09:21+00:00",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "020238b9fdfbba5ae1f7"
+    },
+    {
       "title": "GitHub App improvements for least privilege and management",
       "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
       "source": "GitHub Changelog Atom",
@@ -3919,26 +3959,24 @@
   ],
   "new_findings": [
     {
-      "title": "HTML-in-Canvasで作る未来のWeb UI表現",
-      "url": "https://speakerdeck.com/clockmaker/html-in-canvas",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "GitHub availability report: September 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-14T12:02:04+00:00",
-      "fetched_at": "2026-10-14T19:57:13+00:00",
-      "summary": "フロントエンドカンファレンス関西2026の発表資料。 https://2026.frontend-conf.osaka.jp/ ■概要 HTML-in-Canvasという新しいAPIをオリジナルのデモで解説。 HTML・CSSから見た利点、Canvasタグから見た利点を掘り下げます。 …",
+      "published_at": "2026-10-14T20:01:35+00:00",
+      "fetched_at": "2026-10-14T20:09:21+00:00",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
+        "GitHub"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7b3d06d4080725c6a5bf"
+      "id": "020238b9fdfbba5ae1f7"
     }
   ],
   "source_errors": [],
