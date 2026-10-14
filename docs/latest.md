@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T18:06:58+00:00_
+_Generiert: 2026-10-14T18:29:28+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+77 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -289,4 +289,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='cert.cyber.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='cert.cyber.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
+- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
