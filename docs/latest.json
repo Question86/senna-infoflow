@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T02:49:35+00:00",
-  "run_id": "2026-10-14T02:49:35+00:00",
+  "generated_at": "2026-10-14T02:56:41+00:00",
+  "run_id": "2026-10-14T02:56:41+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 1,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 2,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -212,6 +212,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7b751eed967297f0f2c1"
+      },
+      {
+        "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
+        "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
+        "source": "JPCERT/CC English Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-14T11:25+09:00",
+        "fetched_at": "2026-10-14T02:56:09+00:00",
+        "summary": "Security Alert: Microsoft Releases October 2026 Security Updates",
+        "matched_keywords": [
+          "JPCERT",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb532454ea074b0f72b4"
       },
       {
         "title": "M 4.6 - 75 km E of Kokopo, Papua New Guinea",
@@ -497,6 +518,27 @@
       "id": "7b751eed967297f0f2c1"
     },
     {
+      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
+      "source": "JPCERT/CC English Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-14T11:25+09:00",
+      "fetched_at": "2026-10-14T02:56:09+00:00",
+      "summary": "Security Alert: Microsoft Releases October 2026 Security Updates",
+      "matched_keywords": [
+        "JPCERT",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb532454ea074b0f72b4"
+    },
+    {
       "title": "M 4.6 - 75 km E of Kokopo, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -597,61 +639,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 75 km E of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
+      "source": "JPCERT/CC English Alerts",
       "source_type": "rss",
-      "published_at": "2026-10-14T02:40:37.040+00:00",
-      "fetched_at": "2026-10-14T02:49:01+00:00",
-      "summary": "Time 2026-10-14 02:12:14 UTC 2026-10-14 02:12:14 UTC at epicenter Location 4.449°S 152.944°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-14T11:25+09:00",
+      "fetched_at": "2026-10-14T02:56:09+00:00",
+      "summary": "Security Alert: Microsoft Releases October 2026 Security Updates",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "JPCERT",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "43f6b8cd26a5a369a615"
-    },
-    {
-      "title": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini",
-      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147381.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-13T23:36:02+00:00",
-      "fetched_at": "2026-10-14T02:49:01+00:00",
-      "summary": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a54e7af970691d9671ec"
+      "id": "bb532454ea074b0f72b4"
     }
   ],
   "source_errors": [],
