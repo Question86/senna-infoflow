@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-14T22:21:52Z",
+  "generated_at": "2026-10-14T22:33:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3945",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:27+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://jvn.jp/jp/JVN43511918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T17:00:00+09:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU96061614/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:30+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://jvn.jp/vu/JVNVU91265939/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:10+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:30+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -269,7 +269,7 @@
       "url": "https://openai.com/index/sentinelone",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-14T12:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -294,7 +294,7 @@
       "url": "https://jvn.jp/jp/JVN88474777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T11:00:00+09:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -342,7 +342,7 @@
       "url": "https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T06:06:27+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -367,7 +367,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3944",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:27+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -396,7 +396,7 @@
       "url": "https://jvn.jp/vu/JVNVU92045336/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:40+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -448,7 +448,7 @@
       "url": "https://jvn.jp/vu/JVNVU90141693/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:50+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -474,7 +474,7 @@
       "url": "https://jvn.jp/vu/JVNVU91984971/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:20+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -500,7 +500,7 @@
       "url": "https://jvn.jp/vu/JVNVU94083107/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -526,7 +526,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3522",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:31+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -552,7 +552,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3943",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:27+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -604,7 +604,7 @@
       "url": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-14T12:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -631,7 +631,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 117.85,
+      "age_days": 117.86,
       "topics": [
         "ai"
       ],
@@ -650,7 +650,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 117.8d old signal",
+        "aging penalty -8.0 for 117.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -660,7 +660,7 @@
       "url": "https://github.com/vercel-labs/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-14T06:20:23+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai",
         "macro"
@@ -687,7 +687,7 @@
       "url": "https://openai.com/index/third-moment-research",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-14T07:00:00+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai",
         "security"
@@ -714,7 +714,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11270-88d86-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-14T02:09:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "security"
       ],
@@ -738,7 +738,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-10-14T11:25+09:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -762,7 +762,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11254-9c206-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-08T05:42:00+00:00",
-      "age_days": 6.69,
+      "age_days": 6.7,
       "topics": [
         "security"
       ],
@@ -786,7 +786,7 @@
       "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T04:36:13+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -811,7 +811,7 @@
       "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 1.93,
+      "age_days": 1.94,
       "topics": [
         "ai",
         "macro"
@@ -864,7 +864,7 @@
       "url": "https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-14T06:59:00.000+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -888,7 +888,7 @@
       "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T08:08:56+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -914,7 +914,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:32:01.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "disaster"
       ],
@@ -989,7 +989,7 @@
       "url": "https://www.bis.org/speeches/20261014-closing-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-14T00:00:00+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai",
         "macro"
