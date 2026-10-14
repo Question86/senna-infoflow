@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T03:57:10+00:00_
+_Generiert: 2026-10-14T04:07:07+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+21 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases October 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders** — Score 9, observation — [Quelle](https://e27.co/read-the-sectors-not-the-headline-what-singapores-growth-upgrade-tells-sea-founders-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-14T04:00:21+00:00`, fetched `2026-10-14T04:06:33+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: When the Ministry of Trade and Industry raised Singapore’s 2026 growth forecast in August, most of the founders I talk to read it the way the headlines invited them to, as good news for everyone. The revision was large. MTI moved its forecast from 2.0 to 4.0 per cent up to 4.5 to 5.5 per […] The post Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia** — Score 9, observation — [Quelle](https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T03:02:42+00:00`, fetched `2026-10-14T03:25:40+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Bangkok-based financial health platform Salary Hero has raised US$7.6 million in a Series A round of investment led by Cento Ventures, with Malaysia’s Kairous Capital and M Venture Partners participating. The startup has also expanded its credit facility with regional banks and lenders to US$10 million, and is using the money to formally enter Malaysia, […] The post Salary Hero lands US$7.6M Series A to take its fig…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **While the West invests in longevity, Southeast Asia still pays cash for the basics** — Score 8, observation — [Quelle](https://e27.co/while-the-west-invests-in-longevity-southeast-asia-still-pays-cash-for-the-basics-20261010/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-14T03:00:55+00:00`, fetched `2026-10-14T03:25:40+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: Longevity is having a moment. In the US, people pay up to US$2,499 for a full-body MRI and hundreds of dollars a month for peptide protocols, mostly out of pocket. In the Philippines, the picture is very different. Many families put off check-ups and screenings until symptoms become serious. When public hospital beds are full, […] The post While the West invests in longevity, Southeast Asia still pays cash for the b…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2147849.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
