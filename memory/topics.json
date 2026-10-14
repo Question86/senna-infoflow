@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-14T07:41:20+00:00",
+  "generated_at": "2026-10-14T07:51:02+00:00",
   "topics": {
     "ai": [
       {
@@ -151,6 +151,13 @@
         "url": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/"
       },
       {
+        "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-14T07:49:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893"
+      },
+      {
         "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-14T07:34:11+00:00",
@@ -193,6 +200,13 @@
         "published_at": "2026-10-14T13:30:40+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU92045336/"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-14T07:49:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893"
       },
       {
         "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
@@ -249,13 +263,6 @@
         "published_at": "2026-10-14T11:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN88474777/"
-      },
-      {
-        "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
-        "source": "JPCERT/CC English Alerts",
-        "published_at": "2026-10-14T11:25+09:00",
-        "relevance_score": 10,
-        "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html"
       }
     ],
     "general": [
